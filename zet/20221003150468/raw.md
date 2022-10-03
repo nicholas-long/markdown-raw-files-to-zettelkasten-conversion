@@ -1,0 +1,6 @@
+### set registry values
+```powershell
+Set-ItemProperty -Path "HKLM:\Software\ContosoCompany" -Name "NoOfEmployees" -Value 823
+Get-ItemProperty -Path "HKLM:\Software\ContosoCompany"
+```
+

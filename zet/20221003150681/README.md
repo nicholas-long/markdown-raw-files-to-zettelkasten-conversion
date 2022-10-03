@@ -1,0 +1,11 @@
+# tftp
+
+# References
+- [20221003150680](/zet/20221003150680/) tftp upload file
+- [20221003150679](/zet/20221003150679/) tftp start daemon (folder /var/tftp)
+- [20221003150678](/zet/20221003150678/) tftp transfer Files
+- ~/kb/hacking/commands/tftp-reference.md
+
+Tags:
+    #assorted
+

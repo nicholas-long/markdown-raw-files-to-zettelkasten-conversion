@@ -1,0 +1,70 @@
+# got source code - analysis
+- secrets / creds
+- paths and filenames
+- grep vulnerable functions
+- security antipatterns
+- test code locally / vm / container
+  - custom code and vulnerable third party lib exploits
+- targets
+  - code execution
+  - file access
+- deserialization vulnerabilities
+- templates
+- vulnerable third party libraries
+- git repositories
+  - history log
+  - branches
+- vulnerabilities common to the programming language
+  - PHP
+    - common antipatterns:
+      - including code based on user imput
+      - SQLi
+        - mysqli_multi_query -> stacked ; queries
+          - update
+    - code execution
+    - eval
+    - assert - php code injection
+    - regular expressions that execute code
+    - fuzzy equal
+      - type juggling http post data (JSON, XML, url encoded)
+    - laravel : SQLi with `whereRaw` for manipulating raw query
+  - python
+    - eval
+    - pickle
+    - jinja
+    - web servers running in debug mode
+    - flask `send_file` - dir traversal
+    - os.path.join
+      - double slashes bypass `../` dir traversal filters `/path/to/whatever//root/.ssh/id_rsa`
+    - python2 + input - evaluates code
+  - ruby
+    - mass assignment
+  - javascript
+    - JSON object prototype pollution
+      - recommend local testing - potentially destructive to server - revert
+      - `__proto__` and `__proto__.__proto__`
+    - fuzzy equal
+    - `node-serialize` `unserialize`
+  - golang
+    - user input to controllers -> `http.Request`
+    - shell exec -> `exec.Command`
+    - os.Open - read files
+    - `filepath.Clean` with no leading / -> no filtering of `../`
+  - C
+    - buffer lengths
+    - pointers
+    - printf, fprintf, sprintf and other forms with user supplied format strings
+    - system()
+      - not full path to executable -> PATH injection
+    - loops and off by one `<` vs `<=`
+  - C#
+    - config XML and XSLT - connection strings, secrets
+    - `Deserialize` `JsonConvert` `DeserializeJson` `DeserializeObject` `BinaryFormatter`
+    - `System.Diagnostics.Process` `Process.Start` `Process`
+    - XML, `XDocument` - XXE
+  - Java
+    - XML
+    - serialization
+      - `ObjectInputStream` `readUnshared` `readObject`
+      - bytes AC ED hex rO0AB base64 -> serialization
+    - `Runtime.getRuntime().exec` run commands

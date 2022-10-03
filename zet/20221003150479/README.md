@@ -1,0 +1,12 @@
+# general enumeration what commands are available
+```powershell
+Get-Command
+```
+
+# References
+- [20221003150482](/zet/20221003150482/) general enumeration
+- ~/kb/hacking/powershell/powershell-enumeration-commands.md
+
+Tags:
+    #assorted
+

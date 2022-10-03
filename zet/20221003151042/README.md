@@ -1,0 +1,13 @@
+# windows alternate data streams commands displaying content with powershell
+display `Zone.Identifier` stream
+```powershell
+Get-Content -Stream Zone.Identifier $filename
+```
+
+# References
+- [20221003151045](/zet/20221003151045/) windows alternate data streams commands
+- ~/kb/hacking/windows/windows-information.md
+
+Tags:
+    #assorted
+

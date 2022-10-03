@@ -1,0 +1,10 @@
+# dos commands admin / system
+
+# References
+- [20221003151124](/zet/20221003151124/) dos commands
+- [20221003151109](/zet/20221003151109/) dos commands admin / system dump registry secretsdump hashes
+- ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
+
+Tags:
+    #assorted
+

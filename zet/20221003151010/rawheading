@@ -1,0 +1,1 @@
+ # LFI or directory traversal procedures ## read scripts from web server process cwd ### downloading with curl 

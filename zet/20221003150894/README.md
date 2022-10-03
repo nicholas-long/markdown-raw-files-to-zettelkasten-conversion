@@ -1,0 +1,14 @@
+# linux enumeration quick commands file transfer with cat herefiles
+```bash
+cat << EOF >> filename.sh
+# paste file contents here
+EOF
+```
+
+# References
+- [20221003150920](/zet/20221003150920/) linux enumeration quick commands
+- ~/kb/hacking/priv-esc/enumeration-quick-commands.md
+
+Tags:
+    #assorted
+

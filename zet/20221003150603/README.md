@@ -1,0 +1,12 @@
+# tunneling through chisel - socks Attacker
+```bash
+./chisel server --port 443 --reverse
+```
+
+# References
+- [20221003150604](/zet/20221003150604/) tunneling through chisel - socks
+- ~/kb/hacking/commands/pivot-tunnel-through-chisel.md
+
+Tags:
+    #assorted
+

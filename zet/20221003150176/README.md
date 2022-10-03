@@ -1,0 +1,9 @@
+# ex commands
+
+# References
+- [20221003150175](/zet/20221003150175/) ex commands  Some of these might apply to ed as well
+- ~/kb/linux/ex-notes.md
+
+Tags:
+    #assorted
+

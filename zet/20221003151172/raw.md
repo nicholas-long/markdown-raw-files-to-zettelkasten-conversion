@@ -1,0 +1,90 @@
+# active directory domain
+- sensitive content in file shares
+- anonymous ldap enumeration - nmap scripts
+- create username list with different formats to identify usernames
+- kerbrute
+  - user enum
+  - password spray
+    - sync time before password spray! `ntpdate`; VM -> stop time sync with host or spray with CME
+  - brute force
+- crackmapexec
+  - usernames as passwords
+  - SMB
+  - WinRM
+  - MSSQL
+  - other services exposed
+- CYCLE -> reuse credentials, access services, abuse access, get more credentials
+  - RDP
+  - SMB shares and PsExec ( crackmapexec )
+  - WinRM
+- https://wadcoms.github.io/#
+- adPEAS
+- unauthenticated ASREP roast with usernames list
+- retry credentials for every service
+- discover common temporary password -> spray
+- unauthenticated RPC enum ` rpcclient --no-pass -U '' $IP `
+- got access to dump data from LDAP
+  - grep `sAMAccountName`
+  - grep `CN=`
+- authenticated ( probably ) lateral movement
+  - impacket
+    - roasting SPN service accounts
+    - ASREP roast no preauth users
+    - get AD users - any authenticated user
+      - check notes/description of LDAP data for leaked passwords
+    - impacket-findDelegation (bloodhound checks this too)
+  - ldap enumeration - ldapdomaindump, bloodhound
+  - bloodhound
+    - run python version bloodhound.py in docker
+    - check outbound object control of every owned user
+    - shortest paths from owned
+    - sharphound all
+    - queries on json data
+      - users - description, password last set, last login & timestamp
+      - computers - OS
+  - add dc hostname and machine name to hosts file if this can't authenticate
+  - list and impersonate tokens on compromised hosts ( meterpreter incognito )
+    - reuse sessions with `New-PSSession` and `Invoke-Command` to other hosts / DC
+- shell + switch user `Invoke-RunasCs.ps1`
+- shell -> windows local privesc list [windows privilege escalation](privesc/windows.md#windows-privilege-escalation)
+  - PowerView - AD specific powershell enum
+    - `Get-netuser` investigate users
+- got shell + no creds
+  - rubeus
+    - kerberoast
+    - asreproast
+  - run sharphound on target
+  - get NTLMv2 hash to crack
+- derivitive local admins on workstations / servers
+- enumerate sessions with powerview
+- enumerate tickets
+  - klist
+  - other users tickets as admin with mimikatz
+- got NTLM hash
+  - pass the hash
+  - NTLM -> run process as user with mimikatz `sekurlsa::pth` "over pass the hash"
+    - `net use \\dchostname`, then get cached kerberos tickets
+- target users who might have simple passwords ( bloodhound data, ldap? )
+  - users that have not logged in `.lastlogontimestamp == -1`
+  - users who had password changed and have not logged in since `.pwdlastset > .lastlogontimestamp`
+- check for AD CS `Get-WindowsFeature *ad-certificate*, *adcs*`
+  - AD CS -> 7 scenarios of misconfigured certificate templates and access
+  - 2022 relay DC attack CVE-2022-26925 variation of petitpotam
+- common exploits
+  - headline exploits
+    - 2021 - nopac attack `sam the admin` on github, then psexec
+    - 2020 - zerologon
+  - ticket attacks
+    - silver ticket to domain admin CVE-2014-6324
+- have local admin and office installed and remote ports 135,445 -> DCOM lateral movement excel remote macro
+- relay NTLMv2 hashes to other machines that have no SMB signing
+- endgame dump hashes
+  - impacket secretsdump
+  - mimikatz on machine or kiwi module in msf
+
+## powershell web access
+- try logins manually - find tool?
+- "not authorized" -> try changing computer name because error msg should say "sign-in failed"
+
+## old
+- cached GPP KB2928120 (see MS14-025), some Group Policy Prefs configured with account in XML

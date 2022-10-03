@@ -1,0 +1,13 @@
+# smbclient shell recursive list directory
+```
+recurse
+dir
+```
+
+# References
+- [20221003150614](/zet/20221003150614/) smbclient shell
+- ~/kb/hacking/commands/smbclient-commands.md
+
+Tags:
+    #assorted
+

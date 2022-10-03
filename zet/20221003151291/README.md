@@ -1,0 +1,9 @@
+# C template readline prompt
+
+# References
+- [20221003151292](/zet/20221003151292/) C template
+- ~/kb/c-language/templates.md
+
+Tags:
+    #assorted
+

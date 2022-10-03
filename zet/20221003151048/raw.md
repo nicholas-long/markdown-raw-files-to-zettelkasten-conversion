@@ -1,0 +1,6 @@
+# windows reverse shell AV bypass
+## active directory endpoint protection
+## defender
+try changing variable names
+try removing "PS" and path from prompt
+

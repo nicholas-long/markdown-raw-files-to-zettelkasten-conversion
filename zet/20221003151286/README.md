@@ -1,0 +1,9 @@
+# postgres
+
+# References
+- [20221003151285](/zet/20221003151285/) postgres cannot find table name
+- ~/kb/data-engineering-pipelines/postgres.md
+
+Tags:
+    #assorted
+

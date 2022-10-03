@@ -1,0 +1,10 @@
+# cyberpunk retro machine project
+
+# References
+- [20221003150153](/zet/20221003150153/) cyberpunk retro machine project enable usb serial port terminal as a service
+- [20221003150150](/zet/20221003150150/) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal
+- ~/kb/linux/cyberpunk-retro-machine-serial-terminals.md
+
+Tags:
+    #assorted
+

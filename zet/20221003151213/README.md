@@ -1,0 +1,15 @@
+# got leaked files TRY
+- exiftool 
+  - usernames
+  - machine name
+- binwalk - identify files contained
+- manual inspection
+- strings
+
+# References
+- [20221003151214](/zet/20221003151214/) got leaked files
+- ~/kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
+
+Tags:
+    #assorted
+

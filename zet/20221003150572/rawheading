@@ -1,0 +1,1 @@
+ # php type juggling ## string and number exponent type confusion ### vulnerable hash prefix `0e` md5 sha1

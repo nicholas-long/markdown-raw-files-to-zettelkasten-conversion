@@ -1,0 +1,10 @@
+# smb mount share
+
+# References
+- [20221003150836](/zet/20221003150836/) smb mount share unauthenticated
+- [20221003150835](/zet/20221003150835/) smb mount share old SMBv1 share
+- ~/kb/hacking/commands/smb-mount-share.md
+
+Tags:
+    #assorted
+

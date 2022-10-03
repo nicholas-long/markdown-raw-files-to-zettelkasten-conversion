@@ -1,0 +1,9 @@
+# identify service
+
+# References
+- [20221003150241](/zet/20221003150241/) identify service port 1978 data "SIN 15win nop nop 300"
+- ~/kb/hacking/analysis/identify-service-data.md
+
+Tags:
+    #assorted
+

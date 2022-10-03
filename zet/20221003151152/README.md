@@ -1,0 +1,10 @@
+# windows XP and windows server 2003
+
+# References
+- [20221003151151](/zet/20221003151151/) windows XP and windows server 2003 MOF file RCE
+- [20221003151150](/zet/20221003151150/) windows XP and windows server 2003 arbitrary file write -> remote code execution
+- ~/kb/hacking/windows/xp-server-2003.md
+
+Tags:
+    #assorted
+

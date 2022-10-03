@@ -1,0 +1,14 @@
+# active directory  delegation
+delegation in kerberos is how a user can perform actions on behalf of another user.
+extension to kerberos.
+can be found with bloodhound or with `impacket-findDelegation`.
+
+# References
+- [20221003151144](/zet/20221003151144/) active directory 
+- [20221003151126](/zet/20221003151126/) active directory  delegation unconstrained
+- [20221003151125](/zet/20221003151125/) active directory  delegation constrained
+- ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
+
+Tags:
+    #assorted
+

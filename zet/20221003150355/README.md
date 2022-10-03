@@ -1,0 +1,9 @@
+# .NET decompiler reverse engineering C# managed EXE DLL binaries
+
+# References
+- [20221003150354](/zet/20221003150354/) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
+- ~/kb/hacking/misc/important-repositories-tools.md
+
+Tags:
+    #assorted
+

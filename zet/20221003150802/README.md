@@ -1,0 +1,10 @@
+# brute force default credentials tomcat metasploit
+auxiliary/scanner/http/tomcat_mgr_login
+
+# References
+- [20221003150804](/zet/20221003150804/) brute force default credentials tomcat
+- ~/kb/hacking/commands/hydra-default-credentials.md
+
+Tags:
+    #assorted
+

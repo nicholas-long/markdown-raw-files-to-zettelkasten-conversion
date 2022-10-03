@@ -1,0 +1,3 @@
+## wamp
+c:/wamp/www
+

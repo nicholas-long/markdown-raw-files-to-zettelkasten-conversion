@@ -1,0 +1,11 @@
+# socat
+
+# References
+- [20221003150114](/zet/20221003150114/) socat port forwarding with socat
+- [20221003150113](/zet/20221003150113/) socat execute program
+- [20221003150111](/zet/20221003150111/) socat listen fork print to stdout
+- ~/kb/networking/port-forwarding.md
+
+Tags:
+    #assorted
+

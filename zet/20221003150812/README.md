@@ -1,0 +1,12 @@
+# wfuzz fuzzing details
+
+# References
+- [20221003150811](/zet/20221003150811/) wfuzz fuzzing details "X-Forwarded-For" header with custom IPS
+- [20221003150810](/zet/20221003150810/) wfuzz fuzzing details fuzz multiple parameters
+- [20221003150809](/zet/20221003150809/) wfuzz fuzzing details show or hide responses containing text regex
+- [20221003150808](/zet/20221003150808/) wfuzz fuzzing details send to burpsuite local proxy
+- ~/kb/hacking/commands/wfuzz-fuzzing.md
+
+Tags:
+    #assorted
+

@@ -1,0 +1,3 @@
+## installed drivers
+driverquery
+

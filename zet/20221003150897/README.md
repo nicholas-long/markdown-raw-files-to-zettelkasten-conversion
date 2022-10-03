@@ -1,0 +1,12 @@
+# linux enumeration quick commands capabilities decode on host machine with capsh
+```bash
+capsh --decode=000001ffffffffff
+```
+
+# References
+- [20221003150901](/zet/20221003150901/) linux enumeration quick commands capabilities
+- ~/kb/hacking/priv-esc/enumeration-quick-commands.md
+
+Tags:
+    #assorted
+

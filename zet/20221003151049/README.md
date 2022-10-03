@@ -1,0 +1,13 @@
+# change user password powershell or dos
+```
+net user AccountUsername P@ssw0rd1
+net user AccountUsername P@ssw0rd1 /domain
+```
+
+# References
+- [20221003151050](/zet/20221003151050/) change user password
+- ~/kb/hacking/windows/windows-information.md
+
+Tags:
+    #assorted
+

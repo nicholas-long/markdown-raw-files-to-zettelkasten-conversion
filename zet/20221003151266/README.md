@@ -1,0 +1,10 @@
+# fzf run with preview
+--preview=bat
+
+# References
+- [20221003151267](/zet/20221003151267/) fzf
+- ~/kb/fzf-fuzzy-find/help.md
+
+Tags:
+    #assorted
+

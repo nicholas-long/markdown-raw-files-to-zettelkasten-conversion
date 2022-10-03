@@ -1,0 +1,10 @@
+# get current date - linux bash scripting
+
+# References
+- [20221003151320](/zet/20221003151320/) get current date - linux bash scripting current unix epoch timestamp
+- [20221003151319](/zet/20221003151319/) get current date - linux bash scripting current year
+- ~/kb/bash-scripting/get-current-unix-date-timestamp.md
+
+Tags:
+    #assorted
+

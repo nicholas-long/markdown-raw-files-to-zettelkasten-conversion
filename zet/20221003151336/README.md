@@ -1,0 +1,13 @@
+# awk scripting initialize TSV tab separated values output
+```awk
+#!/usr/bin/awk -f
+BEGIN { FS = OFS = "\t" }
+```
+
+# References
+- [20221003151337](/zet/20221003151337/) awk scripting initialize TSV tab separated values
+- ~/kb/awk-scripting/snippets.md
+
+Tags:
+    #assorted
+

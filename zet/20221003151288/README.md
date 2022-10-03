@@ -1,0 +1,9 @@
+# jq pipe syntax
+
+# References
+- [20221003151289](/zet/20221003151289/) jq
+- ~/kb/data-engineering-pipelines/jq-command-reference.md
+
+Tags:
+    #assorted
+

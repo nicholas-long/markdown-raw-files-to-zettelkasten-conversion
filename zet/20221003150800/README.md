@@ -1,0 +1,12 @@
+# openssl commands encrypt file
+```bash
+openssl enc -aes-256-cbc -e -in $FILE -out outputfile -k password
+```
+
+# References
+- [20221003150801](/zet/20221003150801/) openssl commands
+- ~/kb/hacking/commands/openssl-commands.md
+
+Tags:
+    #assorted
+

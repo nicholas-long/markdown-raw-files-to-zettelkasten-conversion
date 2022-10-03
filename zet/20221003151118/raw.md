@@ -1,0 +1,3 @@
+## show environment variables
+set
+

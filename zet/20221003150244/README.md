@@ -1,0 +1,10 @@
+# MOTW mark of the web microsoft alternate data stream file label ZoneId avoiding / evading
+- ISO file https://github.com/mgeeky/PackMyPayload
+
+# References
+- [20221003150245](/zet/20221003150245/) MOTW mark of the web microsoft alternate data stream file label ZoneId
+- ~/kb/hacking/misc/buzzwords-and-acronyms.md
+
+Tags:
+    #assorted
+

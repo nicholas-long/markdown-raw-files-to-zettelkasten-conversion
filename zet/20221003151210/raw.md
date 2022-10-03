@@ -1,0 +1,110 @@
+# linux privilege escalation
+- `sudo -l`
+  - specific permissions to binaries / scripts
+    - writable
+    - [exploiting scripts on linux](linux.md#exploiting-scripts-on-linux)
+  - vulnerable versions of allowed commands
+  - `LD_PRELOAD`
+  - broken -> SSH / valid TTY and retry
+- SUID binaries
+  - gtfobins
+  - vulnerable versions
+  - distinguish default binaries from custom https://github.com/Anon-Exploiter/SUID3NUM
+- /opt
+- custom interesting binaries or scripts running as other users or root
+  - everything from [got source code - analysis](../got-source-code.md#got-source-code---analysis)
+  - dependent binaries
+- linpeas ( allowed on OSCP if no automatic exploitation )
+- getcap capabilities
+- enumerate all readable files
+- writable files
+  - find /etc -writable 2>/dev/null
+  - user
+  - group
+- check mounts in /etc/fstab
+- sensitive config files
+  - htpasswd
+  - database configs
+- sensitive logs
+  - auth.log
+  - bash history
+    - passwords or secrets in commands
+  - may contain accidental passwords in usernames in login failures
+  - dmesg command
+- su or brute force with common credentials i.e. `root:root`
+- OS version `uname -a && cat /etc/*-release` -> exploit db
+- docker
+  - from host
+    - scan port range to identify running services
+      - ssh -> reuse keys and creds found on host
+      - exploit known services
+  - inside docker
+    - check mounted directories
+      - write suid binaries to be executed on host
+    - deepce
+  - image repository -> pull image, hunt for secrets
+- root processes, especially
+  - databases
+  - services exposed on local ports
+- installed packages `dpkg -l`
+- find scripts, crons, timers
+  - pspy
+  - exploit wildcards in scripts or cron jobs
+  - cron jobs
+    - writable scripts
+    - writable things used by script
+  - [exploiting linux scripts](#exploiting linux scripts)
+  - writable or exploitable timers
+  - executable payloads or includes -> chmod 777
+- local ports
+- git or other repositories - check history
+- enumerate all writable files and directories
+- restricted shell?
+  - attempt to execute command on ssh login with argument
+  - restricted bash breakouts
+  - python script shell breakouts
+- writable PATH ( not just my user's path )
+- writable service
+  - directories `systemctl show-environment`
+- headline exploits from privesc to try list
+- linux exploit suggester or `les2.pl`
+- linenum
+- search files by modification date with `find` to see what creators added
+- directory permissions that let you move files you can't access
+- processes with readable memory
+- access to mount - mount something containing setuid binaries
+- su or hydra ssh test credential reuse
+- check exploits / vulnerabilities found during enumeration
+  - leaked credentials
+  - potential privesc exploits
+  - vulnerable services running as root
+- java web -> find website code packaged into war file
+  - secrets, config, hardcoded creds
+- meterpreter local suggester ( could use once on OSCP )
+- no access to read webroot -> try appending known filenames to path to read
+- fail2ban -> default config `iptables-multiport.conf` `actionban`
+- centos / redhat -> check special file access permissions getfacl
+- read / write files as root -> [got read or write access to filesystem](hacking/to-try-lists/got-read-or-write-access-to-filesystem.md#got-read-or-write-access-to-filesystem)
+- generate password list for each/all users and sucrack
+
+## exploiting scripts on linux
+- injecting user commands
+- relative command names ( alter PATH )
+- filesystem access
+  - read and write sensitive files
+  - surprise symlinks
+    - read root rsa key for root file read -> code exec
+- file write
+  - newline injection
+  - with garbage to remove
+    - exploit maximum line length of input files in dependent binaries to attempt to push garbage off buffer
+    - formatting issues in config files like regular expressions
+- wildcards turning into command parameters
+- exec
+- python scripts: everything from [got source code - analysis](../got-source-code.md#got-source-code---analysis)
+- dependent libraries of scripts (ex: tar, zip -> overwrite files / zip slip)
+- Ubuntu versions pre 19 -> sudo `$HOME` path is not changed ( specific to ubuntu )
+
+## headline exploits
+- 2022 : dirty pipe
+- 2022 : pwnkit - polkit CVE

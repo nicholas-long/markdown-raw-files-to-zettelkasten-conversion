@@ -1,0 +1,3 @@
+### check permissions
+`show grants;`
+

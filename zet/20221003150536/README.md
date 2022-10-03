@@ -1,0 +1,12 @@
+# immunity debugger mona commands list loaded modules and security flags
+```
+!mona modules
+```
+
+# References
+- [20221003150537](/zet/20221003150537/) immunity debugger mona commands
+- ~/kb/hacking/pwn/basic-win-pwn.md
+
+Tags:
+    #assorted
+

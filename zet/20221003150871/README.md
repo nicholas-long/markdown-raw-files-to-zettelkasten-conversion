@@ -1,0 +1,11 @@
+# john the ripper
+
+# References
+- [20221003150870](/zet/20221003150870/) john the ripper crack hashes from file with wordlist
+- [20221003150869](/zet/20221003150869/) john the ripper use rules to crack hashes from file with wordlist
+- [20221003150868](/zet/20221003150868/) john the ripper find all file formats supported with a 2john script or tojohn
+- ~/kb/hacking/commands/john-the-ripper-crack-with-wordlist.md
+
+Tags:
+    #assorted
+

@@ -1,0 +1,11 @@
+# active directory  exploiting permissions
+
+# References
+- [20221003151144](/zet/20221003151144/) active directory 
+- [20221003151142](/zet/20221003151142/) active directory  exploiting permissions WriteDacl
+- [20221003151141](/zet/20221003151141/) active directory  exploiting permissions GenericAll
+- ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
+
+Tags:
+    #assorted
+

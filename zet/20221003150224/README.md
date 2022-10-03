@@ -1,0 +1,12 @@
+# bettercap start commnad
+```bash
+sudo bettercap -autostart events.stream,net.recon,net.sniff,net.probe,arp.spoof,any.proxy
+```
+
+# References
+- [20221003150225](/zet/20221003150225/) bettercap
+- ~/kb/hacking/lan/bettercap-options.md
+
+Tags:
+    #assorted
+

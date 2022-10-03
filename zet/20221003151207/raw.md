@@ -1,0 +1,95 @@
+# windows privilege escalation
+- check for local ports
+- `whoami /all` vulnerable privs - exploits can enable if disabled
+    - SeImpersonatePrivilege
+    - SeManageVolumePrivilege
+    - SeRestorePrivilege
+    SeAssignPrimaryPrivilege, SeTcbPrivilege, SeBackupPrivilege, SeCreateTokenPrivilege, SeLoadDriverPrivilege, SeTakeOwnershipPrivilege, SeDebugPrivilege
+- https://book.hacktricks.xyz/windows-hardening/checklist-windows-privilege-escalation
+- permissions
+  - applications that run as SYSTEM
+  - write permissions
+- list services
+  - unquoted service paths
+  - writable executable
+  - modify service
+  - restart services by restarting machine
+  - registry modification permissions
+- systeminfo
+- enum users and groups
+- service account with low privileges -> recover default privileges
+- horizontal escalation - service users may have privileges
+- website
+  - check code, creds, config, secrets
+  - writable webroot -> webshell, web server user
+- common general enumeration stuff
+  - enumerate installed applications and configs 
+    - hunt for creds ( appdata, lazagne )
+    - web browsers -> https://github.com/djhohnstein/SharpWeb
+    - saved RDP and and credential manager
+    - saved SSH keys on filesystem and in regsitry
+    - IIS web configs
+    - hacktricks "Possible filenames containing credentials"
+- user data
+  - clipboard
+  - powershell history
+  - credentials manager ( cmdkey )
+  - appdata
+    - browser data - dump with tools like SharpChromium
+    - sticky notes
+    - sqlite3 databases
+    - specific applications - investigate each
+- running processes
+  - dump memory with procdump from sysinternals
+- headline exploits from privesc to try list
+- enum tools to run
+  - winpeas
+  - watson
+  - powerview checks?
+- writable path
+- dll injection
+- always install elevated
+- unattended XML
+- active user session ->
+  - clipboard
+  - screenshot / meterpreter screenshare
+- restart perms run at startup with different user
+- vulnerable printer drivers
+  - users can install vulnerable drivers by adding a printer type
+- migrate to interactive process
+- check hotfixes
+- wdigest ( plain text pass in registry )
+- SAM & SYSTEM backups
+- check perms of WSL directories
+- check applocker policy
+- pop up login box with powershell
+- recycle bin
+- WSUS - using http instead of https
+- McAfee SiteList.xml
+- SCCM SCClient
+- domain stuff - to try list for foothold has info about domains
+  - [AD to try list](./to-try-list.md#active directory domain)
+- https://wadcoms.github.io/# 
+- on LAN
+  - responder netbios LLMNR name poisoning
+  - mitm6
+  - relay attacks: impacket ntlmrelayx / smbrelay
+- check exploits / vulnerabilities found during enumeration
+  - leaked credentials
+  - potential privesc exploits
+  - vulnerable services running as SYSTEM
+- java web -> find website code packaged into war file
+  - secrets, config, hardcoded creds
+- no access to read webroot -> try appending known filenames to path to read
+
+## headline exploits
+- present : printspoofer ( SEImpersonatePrivilege ) https://github.com/itm4n/PrintSpoofer
+- 2021 - present : printnightmare local privesc ( powershell available )
+- ever - present : rogue potato ( SEImpersonatePrivilege )
+- 2021 : hivenightmare
+- 2020 : smbghost
+
+## AD headline exploits
+- 2021 - nopac attack `sam the admin` on github, then psexec
+- 2020 - zerologon
+- 2022 relay DC attack CVE-2022-26925 variation of petitpotam

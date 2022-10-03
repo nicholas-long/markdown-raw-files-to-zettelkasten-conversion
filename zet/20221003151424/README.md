@@ -1,0 +1,68 @@
+# bash scripting
+
+# References
+- [20221003151423](/zet/20221003151423/) bash scripting urlencode and base64 encode lines individually
+- [20221003151422](/zet/20221003151422/) bash scripting use awk to print only unique lines as a stream processor
+- [20221003151421](/zet/20221003151421/) bash scripting find all git repositories in a directory
+- [20221003151420](/zet/20221003151420/) bash scripting remove git from directory name
+- [20221003151419](/zet/20221003151419/) bash scripting return the most recently updated ubuntu distro
+- [20221003151418](/zet/20221003151418/) bash scripting parse args with case statement
+- [20221003151417](/zet/20221003151417/) bash scripting exit if parameter is missing
+- [20221003151416](/zet/20221003151416/) bash scripting query nmap ports and service description definitions
+- [20221003151415](/zet/20221003151415/) bash scripting print the md5 hashes of all lines in a wordlist file
+- [20221003151414](/zet/20221003151414/) bash scripting generate common passwords
+- [20221003151413](/zet/20221003151413/) bash scripting colorize words from stdin with regular expressions
+- [20221003151412](/zet/20221003151412/) bash scripting mount shared folders on VM
+- [20221003151411](/zet/20221003151411/) bash scripting run docker image with current directory mounted as working directory
+- [20221003151410](/zet/20221003151410/) bash scripting get raw HTTP request data from burp saved request
+- [20221003151409](/zet/20221003151409/) bash scripting get the current user's github colon separated credentials
+- [20221003151408](/zet/20221003151408/) bash scripting parse burpsuite saved request file and convert to python requests script for copying
+- [20221003151407](/zet/20221003151407/) bash scripting pull all the git repos in home directory
+- [20221003151406](/zet/20221003151406/) bash scripting download the current CVE list get as Tab Separated Values
+- [20221003151405](/zet/20221003151405/) bash scripting shortcut to start tmux session in a working directory with alacritty
+- [20221003151404](/zet/20221003151404/) bash scripting decorate XML with colors for tags, attributes, and content
+- [20221003151403](/zet/20221003151403/) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf
+- [20221003151402](/zet/20221003151402/) bash scripting prepend gzip magic bytes
+- [20221003151401](/zet/20221003151401/) bash scripting extract zlib stream between PDF stream and endstream with quick and dirty awk
+- [20221003151400](/zet/20221003151400/) bash scripting update all the git repos in home directory and prompt with lazygit
+- [20221003151399](/zet/20221003151399/) bash scripting find alphanumeric base64 using awk script
+- [20221003151398](/zet/20221003151398/) bash scripting build and run impacket docker
+- [20221003151397](/zet/20221003151397/) bash scripting decorate and colorize a passwd file piped from stdin
+- [20221003151396](/zet/20221003151396/) bash scripting run exiftool on all of the images within a directory
+- [20221003151395](/zet/20221003151395/) bash scripting get the current user's github api key
+- [20221003151394](/zet/20221003151394/) bash scripting watch failed ssh login attempts as a live stream
+- [20221003151393](/zet/20221003151393/) bash scripting lookup unique hosts with shodan api
+- [20221003151392](/zet/20221003151392/) bash scripting launch ubuntu build environment docker with current directory mounted as working directory
+- [20221003151391](/zet/20221003151391/) bash scripting clone github repository and build docker image with its name
+- [20221003151390](/zet/20221003151390/) bash scripting get headings from wikipedia page
+- [20221003151389](/zet/20221003151389/) bash scripting copy and read text from PNG image URL arg print with tesseract OCR
+- [20221003151388](/zet/20221003151388/) bash scripting search through tldr command descriptions with fzf and display file with bat
+- [20221003151387](/zet/20221003151387/) bash scripting generate ISO format dates wordlists for the last few years
+- [20221003151386](/zet/20221003151386/) bash scripting define bash array
+- [20221003151385](/zet/20221003151385/) bash scripting loop over bash array
+- [20221003151384](/zet/20221003151384/) bash scripting clone repo into temp dir
+- [20221003151383](/zet/20221003151383/) bash scripting get all tags and start walking their commits
+- [20221003151382](/zet/20221003151382/) bash scripting take only unique git hashes and do md5 hashes of those files
+- [20221003151381](/zet/20221003151381/) bash scripting get random hex unique ID bash
+- [20221003151380](/zet/20221003151380/) bash scripting run neo4j in a docker
+- [20221003151379](/zet/20221003151379/) bash scripting mount host neo4j data into docker
+- [20221003151378](/zet/20221003151378/) bash scripting build and run enum4linux-ng docker
+- [20221003151377](/zet/20221003151377/) bash scripting find the largest N files
+- [20221003151376](/zet/20221003151376/) bash scripting get argument value or default
+- [20221003151375](/zet/20221003151375/) bash scripting run strings on memory dumps for every readable process
+- [20221003151374](/zet/20221003151374/) bash scripting build and run CrackMapExec docker
+- [20221003151373](/zet/20221003151373/) bash scripting sort words by length
+- [20221003151372](/zet/20221003151372/) bash scripting convert string to hex with no newlines
+- [20221003151371](/zet/20221003151371/) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date
+- [20221003151370](/zet/20221003151370/) bash scripting get library dependency versions from composer.lock json file
+- [20221003151369](/zet/20221003151369/) bash scripting install sublimetext
+- [20221003151368](/zet/20221003151368/) bash scripting get top N most common ports from nmap list pass argument
+- [20221003151367](/zet/20221003151367/) bash scripting list public github repositories for user
+- [20221003151366](/zet/20221003151366/) bash scripting install vscode
+- [20221003151365](/zet/20221003151365/) bash scripting urlencode a line of text from stdin
+- [20221003151364](/zet/20221003151364/) bash scripting get bash lines from kb snippets
+- ~/kb/auto-bash.md
+
+Tags:
+    #assorted
+

@@ -1,0 +1,10 @@
+# dos commands show environment variables
+set
+
+# References
+- [20221003151124](/zet/20221003151124/) dos commands
+- ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
+
+Tags:
+    #assorted
+

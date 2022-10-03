@@ -1,0 +1,10 @@
+# html template upload file
+
+# References
+- [20221003150491](/zet/20221003150491/) html template
+- [20221003150489](/zet/20221003150489/) html template upload file http form POST
+- ~/kb/hacking/web/html.templates.md
+
+Tags:
+    #assorted
+

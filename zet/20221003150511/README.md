@@ -1,0 +1,10 @@
+# pwn commands / tricks patchelf ld paths
+
+# References
+- [20221003150512](/zet/20221003150512/) pwn commands / tricks
+- [20221003150510](/zet/20221003150510/) pwn commands / tricks patchelf ld paths use custom ld version and library path
+- ~/kb/hacking/pwn/tricks.md
+
+Tags:
+    #assorted
+

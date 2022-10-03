@@ -1,0 +1,9 @@
+# wordpress
+
+# References
+- [20221003150342](/zet/20221003150342/) wordpress plugins
+- ~/kb/hacking/misc/database-cms-enum.md
+
+Tags:
+    #assorted
+

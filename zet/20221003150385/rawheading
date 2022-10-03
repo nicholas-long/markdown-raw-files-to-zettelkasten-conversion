@@ -1,0 +1,1 @@
+ # krbrelayx ## printerbug.py Simple tool to trigger SpoolService bug via RPC backconnect. Similar to dementor.py

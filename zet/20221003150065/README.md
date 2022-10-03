@@ -1,0 +1,9 @@
+# neovim specific
+
+# References
+- [20221003150064](/zet/20221003150064/) neovim specific diff
+- ~/kb/vim/vim.md
+
+Tags:
+    #assorted
+

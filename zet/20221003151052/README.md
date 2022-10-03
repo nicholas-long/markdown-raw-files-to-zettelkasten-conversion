@@ -1,0 +1,7 @@
+# check network time offset with network time protocol NTP server on windows AD kerberos
+
+# References
+
+Tags:
+    #assorted
+

@@ -1,0 +1,14 @@
+# data analysis commands dd copy from offset
+count is not required - if omitted will copy to end of input
+```bash
+dd if=file.elf skip=22222 of=out.zip bs=1 count=100000
+dd if=file.elf skip=22222 of=out.zip bs=1
+```
+
+# References
+- [20221003150662](/zet/20221003150662/) data analysis commands
+- ~/kb/hacking/commands/binary-data-analysis.md
+
+Tags:
+    #assorted
+

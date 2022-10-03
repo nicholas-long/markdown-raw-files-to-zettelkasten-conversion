@@ -1,0 +1,10 @@
+# portable TCP port scanner bash only
+
+# References
+- [20221003150364](/zet/20221003150364/) portable TCP port scanner
+- [20221003150362](/zet/20221003150362/) portable TCP port scanner bash only spookyscan
+- ~/kb/hacking/misc/important-repositories-tools.md
+
+Tags:
+    #assorted
+

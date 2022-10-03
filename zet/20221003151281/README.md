@@ -1,0 +1,9 @@
+# YAML
+
+# References
+- [20221003151280](/zet/20221003151280/) YAML parsing
+- ~/kb/data-engineering-pipelines/yaml-syntax.md
+
+Tags:
+    #assorted
+

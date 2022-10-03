@@ -1,0 +1,12 @@
+# powershell commands execute encoded command as quietly as possible
+```
+powershell.exe -nop -exec bypass -w hidden -enc BASE64STR
+```
+
+# References
+- [20221003151101](/zet/20221003151101/) powershell commands
+- ~/kb/hacking/windows/windows-reverse-shell.md
+
+Tags:
+    #assorted
+

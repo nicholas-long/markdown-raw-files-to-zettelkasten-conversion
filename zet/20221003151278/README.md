@@ -1,0 +1,10 @@
+# linux data science
+
+# References
+- [20221003151277](/zet/20221003151277/) linux data science utilities
+- [20221003151276](/zet/20221003151276/) linux data science issues
+- ~/kb/data-engineering-pipelines/data-science-linux-commands.md
+
+Tags:
+    #assorted
+

@@ -1,0 +1,10 @@
+# bash scripts sh get tags
+~/kb/docker/get-tags.sh
+
+# References
+- [20221003150096](/zet/20221003150096/) bash scripts sh
+- ~/kb/shell-script-list.md
+
+Tags:
+    #assorted
+

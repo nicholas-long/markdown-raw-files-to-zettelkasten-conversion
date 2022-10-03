@@ -1,0 +1,11 @@
+# run executable binary programs within process memory linux base64 piped text using dd and shellcode
+https://github.com/arget13/DDexec
+` | ddexec.sh argv0 argv1 ...`
+
+# References
+- [20221003151256](/zet/20221003151256/) run executable binary programs within process memory linux
+- ~/kb/hacking/tricks/run-programs-in-memory.md
+
+Tags:
+    #assorted
+

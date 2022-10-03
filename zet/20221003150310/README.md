@@ -1,0 +1,10 @@
+# burpsuite
+
+# References
+- [20221003150309](/zet/20221003150309/) burpsuite set scope to limit request catching
+- [20221003150308](/zet/20221003150308/) burpsuite add header to forwarded requests, like X-Forwarded-For
+- ~/kb/hacking/misc/assorted-information.md
+
+Tags:
+    #assorted
+

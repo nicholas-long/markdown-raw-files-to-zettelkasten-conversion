@@ -1,0 +1,10 @@
+# C setuid suid backdoor exploit
+
+# References
+- [20221003150928](/zet/20221003150928/) C setuid suid backdoor exploit program to execute shell commands with system
+- [20221003150927](/zet/20221003150927/) C setuid suid backdoor exploit write setuid bit to binary with SO shared module object
+- ~/kb/hacking/priv-esc/c-shells-and-setuid.md
+
+Tags:
+    #assorted
+

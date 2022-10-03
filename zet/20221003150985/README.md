@@ -1,0 +1,9 @@
+# mariadb mysql SQLi union injection
+
+# References
+- [20221003150987](/zet/20221003150987/) mariadb mysql SQLi
+- ~/kb/hacking/methodology/sqli-manual-mysql-payloads.md
+
+Tags:
+    #assorted
+

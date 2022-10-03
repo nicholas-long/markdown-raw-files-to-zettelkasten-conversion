@@ -1,0 +1,13 @@
+# crackmapexec cme commands bruteforce SMB
+check individual users and passwords and/or files the same way
+```bash
+crackmapexec smb $IP -u users -p passwords
+```
+
+# References
+- [20221003150673](/zet/20221003150673/) crackmapexec cme commands
+- ~/kb/hacking/commands/crackmapexec-commands.md
+
+Tags:
+    #assorted
+

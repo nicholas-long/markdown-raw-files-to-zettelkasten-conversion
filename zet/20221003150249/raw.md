@@ -1,0 +1,3 @@
+## default creds
+guacadmin:guacadmin
+

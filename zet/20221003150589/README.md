@@ -1,0 +1,13 @@
+# php code return directory as array
+```php
+scandir("/etc/passwd");
+var_dump(scandir("/etc/passwd"));
+```
+
+# References
+- [20221003150590](/zet/20221003150590/) php code
+- ~/kb/hacking/php/PHP-quick-command-reference.md
+
+Tags:
+    #assorted
+

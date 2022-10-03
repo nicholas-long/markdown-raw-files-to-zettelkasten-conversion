@@ -1,0 +1,12 @@
+# openssl
+
+# References
+- [20221003150790](/zet/20221003150790/) openssl create a key 4096 bits
+- [20221003150789](/zet/20221003150789/) openssl create certificate signing request
+- [20221003150788](/zet/20221003150788/) openssl sign a certificate signing request with the private key of a CA certificate authority
+- [20221003150787](/zet/20221003150787/) openssl convert certificate to PKCS12 format
+- ~/kb/hacking/commands/openssl-general.md
+
+Tags:
+    #assorted
+

@@ -1,0 +1,9 @@
+# generating enumeration wordlists
+
+# References
+- [20221003150593](/zet/20221003150593/) generating enumeration wordlists exfiltrated passwd usernames to ssh key id_rsa fuzz list
+- ~/kb/hacking/commands/enumeration-util.md
+
+Tags:
+    #assorted
+

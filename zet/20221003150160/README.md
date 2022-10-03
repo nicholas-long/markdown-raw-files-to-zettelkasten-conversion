@@ -1,0 +1,12 @@
+# git config settings make merges smoother
+```bash
+git config --global pull.rebase true
+```
+
+# References
+- [20221003150162](/zet/20221003150162/) git config settings
+- ~/kb/linux/git-settings.md
+
+Tags:
+    #assorted
+

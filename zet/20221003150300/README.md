@@ -1,0 +1,13 @@
+# plus sign in ls output file ACL reading ACLs recursively
+```bash
+getfacl -R -s .
+getfacl -R -s /
+```
+
+# References
+- [20221003150301](/zet/20221003150301/) plus sign in ls output file ACL reading ACLs
+- ~/kb/hacking/misc/assorted-information.md
+
+Tags:
+    #assorted
+

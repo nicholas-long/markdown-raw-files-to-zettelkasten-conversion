@@ -1,0 +1,19 @@
+# active directory 
+
+# References
+- [20221003151143](/zet/20221003151143/) active directory  exploiting permissions
+- [20221003151140](/zet/20221003151140/) active directory  NTLMv2 vs kerberos authentication on the network
+- [20221003151139](/zet/20221003151139/) active directory  ForceChangePassword change user password
+- [20221003151138](/zet/20221003151138/) active directory  Backup Operators group
+- [20221003151137](/zet/20221003151137/) active directory  sensitive files
+- [20221003151136](/zet/20221003151136/) active directory  mindset and methodology
+- [20221003151135](/zet/20221003151135/) active directory  workflow for penetration test on windows network in organization
+- [20221003151134](/zet/20221003151134/) active directory  GMSA group managed service account
+- [20221003151130](/zet/20221003151130/) active directory  change user password with rpcclient over SMB 
+- [20221003151129](/zet/20221003151129/) active directory  DNS
+- [20221003151127](/zet/20221003151127/) active directory  delegation
+- ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
+
+Tags:
+    #assorted
+

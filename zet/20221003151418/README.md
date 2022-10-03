@@ -1,0 +1,9 @@
+# bash scripting parse args with case statement
+
+# References
+- [20221003151424](/zet/20221003151424/) bash scripting
+- ~/kb/auto-bash.md
+
+Tags:
+    #assorted
+

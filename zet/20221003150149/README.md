@@ -1,0 +1,11 @@
+# cyberpunk retro machine project Tandy TRS-80 Model 100 terminal serial codes
+- 9600 baud, usb terminal service default settings
+  ` 88N1E `
+
+# References
+- [20221003150150](/zet/20221003150150/) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal
+- ~/kb/linux/cyberpunk-retro-machine-serial-terminals.md
+
+Tags:
+    #assorted
+

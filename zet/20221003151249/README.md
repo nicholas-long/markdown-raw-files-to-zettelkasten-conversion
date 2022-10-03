@@ -1,0 +1,9 @@
+# sending installs to target install programs on target as tar archive file using docker to find installed dependencies
+
+# References
+- [20221003151250](/zet/20221003151250/) sending installs to target
+- ~/kb/hacking/tricks/install-pip-modules-on-target-as-files.md
+
+Tags:
+    #assorted
+

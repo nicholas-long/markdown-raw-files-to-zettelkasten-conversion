@@ -1,0 +1,9 @@
+# enterprise PAM
+
+# References
+- [20221003150246](/zet/20221003150246/) enterprise PAM Thycotic
+- ~/kb/hacking/misc/buzzwords-and-acronyms.md
+
+Tags:
+    #assorted
+

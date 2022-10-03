@@ -1,0 +1,9 @@
+# dumping credentials as admin
+
+# References
+- [20221003151038](/zet/20221003151038/) dumping credentials as admin in remote desktop RDP or GUI
+- ~/kb/hacking/windows/windows-information.md
+
+Tags:
+    #assorted
+

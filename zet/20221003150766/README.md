@@ -1,0 +1,10 @@
+# MSFVENOM Linux Binary (.elf)
+
+# References
+- [20221003150777](/zet/20221003150777/) MSFVENOM
+- [20221003150765](/zet/20221003150765/) MSFVENOM Linux Binary (.elf) 32 Bit (x86)
+- ~/kb/hacking/commands/msfvenom-commands.md
+
+Tags:
+    #assorted
+

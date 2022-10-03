@@ -1,0 +1,10 @@
+# nmap check for mountable NFS shares
+
+# References
+- [20221003150648](/zet/20221003150648/) nmap
+- [20221003150637](/zet/20221003150637/) nmap check for mountable NFS shares test access
+- ~/kb/hacking/commands/nmap-command.md
+
+Tags:
+    #assorted
+

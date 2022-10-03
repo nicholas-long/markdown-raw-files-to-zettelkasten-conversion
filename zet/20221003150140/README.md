@@ -1,0 +1,10 @@
+# apt package
+
+# References
+- [20221003150139](/zet/20221003150139/) apt package column
+- [20221003150138](/zet/20221003150138/) apt package nc ncat netcat
+- ~/kb/linux/utilities-packages.md
+
+Tags:
+    #assorted
+

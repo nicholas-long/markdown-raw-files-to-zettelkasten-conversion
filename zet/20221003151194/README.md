@@ -1,0 +1,36 @@
+# procedure
+- scan ( full port, service )
+  - unknown service - try `-A` flag
+- keep list of clues / hints as a wordlist
+- paste in to try list for every service
+  - prioritize
+    - dump data from anon shares before web
+- try name of service, software, company / site name, computer name, usernames as passwords or usernames
+- what is different between similar web servers or HTTP vs. HTTPS
+- cewl wordlist
+- scan with `--vuln`
+- scan UDP ( slow, few ports as possible )
+- scan services with scripts
+- retry enumeration with new credentials on discovery
+- look up versions
+  - exploitdb / searchsploit / "exploits" command alias
+  - google keywords
+    - "exploit"
+    - "ctf writeup"
+    - inurl:github
+  - enumeration tools specific to service
+  - metasploit exploits and scanners - locate during enumeration, but wait to run on exam
+- OSINT
+  - users and their potential passwords
+    - likes/interests -> wikipedia -> cewl -> password list
+    - leaked databases
+  - github or other public source control
+    - secrets
+    - creds
+    - information disclosure
+
+# References
+
+Tags:
+    #assorted
+

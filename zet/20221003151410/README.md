@@ -1,0 +1,16 @@
+# bash scripting get raw HTTP request data from burp saved request
+~/kb/hacking/scripts/get-burp-http-saved-request.sh
+```bash
+#!/bin/bash
+# get raw HTTP request data from burp saved request
+cat $1 | go run github.com/ericchiang/xpup@latest //request | base64 -d
+```
+
+~/kb/hacking/scripts/get-burp-http-saved-request.sh
+# References
+- [20221003151424](/zet/20221003151424/) bash scripting
+- ~/kb/auto-bash.md
+
+Tags:
+    #assorted
+

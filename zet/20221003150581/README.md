@@ -1,0 +1,12 @@
+# php LFI include PHP filter URL
+`php://filter` case insensitive
+
+# References
+- [20221003150582](/zet/20221003150582/) php LFI
+- [20221003150580](/zet/20221003150580/) php LFI include PHP filter URL base 64 encode
+- [20221003150579](/zet/20221003150579/) php LFI include PHP filter URL no encoding
+- ~/kb/hacking/php/lfi.md
+
+Tags:
+    #assorted
+

@@ -1,0 +1,3 @@
+#### fix missing ConvertFrom-AdManagedPasswordBlob
+ConvertFrom-AdManagedPasswordBlob is not recognized as the name of a cmdlet, function...
+

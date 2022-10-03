@@ -1,0 +1,1 @@
+ # linux enumeration quick commands ## get IP with no `ifconfig` or `ip a` on a host or within docker container

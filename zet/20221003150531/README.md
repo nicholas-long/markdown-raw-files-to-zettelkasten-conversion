@@ -1,0 +1,13 @@
+# gef gdb plugin rop gadget search
+gdb
+```
+ropper --search "pop r13"
+```
+
+# References
+- [20221003150532](/zet/20221003150532/) gef gdb plugin
+- ~/kb/hacking/pwn/gef-commands.md
+
+Tags:
+    #assorted
+

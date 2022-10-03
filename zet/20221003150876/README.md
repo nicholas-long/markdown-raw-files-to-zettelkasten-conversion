@@ -1,0 +1,9 @@
+# sudo sudoers file
+
+# References
+- [20221003150875](/zet/20221003150875/) sudo sudoers file all nopassword
+- ~/kb/hacking/priv-esc/sudoers.md
+
+Tags:
+    #assorted
+

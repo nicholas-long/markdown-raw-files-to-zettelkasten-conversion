@@ -1,0 +1,11 @@
+# vim edit multiple files
+
+# References
+- [20221003150070](/zet/20221003150070/) vim edit multiple files add args while running and converting into tabs
+- [20221003150069](/zet/20221003150069/) vim edit multiple files open multiple files
+- [20221003150068](/zet/20221003150068/) vim edit multiple files find and edit files recursively open in tabs
+- ~/kb/vim/edit-multiple-files.md
+
+Tags:
+    #assorted
+

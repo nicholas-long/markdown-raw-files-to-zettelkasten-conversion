@@ -1,0 +1,1 @@
+ # service account privileges ## restore ### using scheduled task with powershell #### require seimpersonate privilege for task using principal

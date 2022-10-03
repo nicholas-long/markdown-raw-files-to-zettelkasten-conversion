@@ -1,0 +1,9 @@
+# BSD
+
+# References
+- [20221003150922](/zet/20221003150922/) BSD file transfers
+- ~/kb/hacking/priv-esc/bsd-enumeration.md
+
+Tags:
+    #assorted
+

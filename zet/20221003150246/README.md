@@ -1,0 +1,10 @@
+# enterprise PAM Thycotic
+password manager
+
+# References
+- [20221003150247](/zet/20221003150247/) enterprise PAM
+- ~/kb/hacking/misc/buzzwords-and-acronyms.md
+
+Tags:
+    #assorted
+

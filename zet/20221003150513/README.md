@@ -1,0 +1,12 @@
+# pwntools gdb debugging terminal tmux
+```python
+context.terminal = ['tmux', 'new-window']
+```
+
+# References
+- [20221003150515](/zet/20221003150515/) pwntools gdb debugging terminal
+- ~/kb/hacking/pwn/debug-terminal-setup.md
+
+Tags:
+    #assorted
+

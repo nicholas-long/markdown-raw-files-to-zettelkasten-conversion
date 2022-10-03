@@ -1,0 +1,10 @@
+# openssl commands
+
+# References
+- [20221003150800](/zet/20221003150800/) openssl commands encrypt file
+- [20221003150799](/zet/20221003150799/) openssl commands decrypt file
+- ~/kb/hacking/commands/openssl-commands.md
+
+Tags:
+    #assorted
+

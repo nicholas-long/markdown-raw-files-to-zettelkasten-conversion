@@ -1,0 +1,9 @@
+# vim edit multiple files add args while running and converting into tabs
+
+# References
+- [20221003150071](/zet/20221003150071/) vim edit multiple files
+- ~/kb/vim/edit-multiple-files.md
+
+Tags:
+    #assorted
+
