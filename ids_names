@@ -1,0 +1,1380 @@
+20221003151443	README.md	1	 # kb
+20221003151442	ascii/ascii-box-art.md	1	 # Box drawing ascii unicode characters
+20221003151441	auto-awk.md	1	 # awk scripting
+20221003151440	auto-awk.md	2	 # awk scripting ## replace words with colorized versions
+20221003151439	auto-awk.md	28	 # awk scripting ## base64 encode lines individually
+20221003151438	auto-awk.md	40	 # awk scripting ## attempt to reuse credentials using hydra and keep track of usernames and passwords tried
+20221003151437	auto-awk.md	41	 # awk scripting ## read and write a separated value file as a database
+20221003151436	auto-awk.md	87	 # awk scripting ## print all variations of spaces between tokens
+20221003151435	auto-awk.md	109	 # awk scripting ## print nested markdown content within headings
+20221003151434	auto-awk.md	130	 # awk scripting ## get column headings from first line of CSV
+20221003151433	auto-awk.md	141	 # awk scripting ## combine lines from two files combinatorically with symbol between
+20221003151432	auto-awk.md	160	 # awk scripting ## filter the CVE list for potentially valid, relevant vulnerabilities
+20221003151431	auto-awk.md	173	 # awk scripting ## check output of grep and next line using awk "grep -A 1 -R '^# ' ."
+20221003151430	auto-awk.md	191	 # awk scripting ## constrict line widths of input text stream
+20221003151429	auto-awk.md	212	 # awk scripting ## print all variations of upper and lower case for given lowercase string
+20221003151428	auto-awk.md	234	 # awk scripting ## autogenerate headings for source files
+20221003151427	auto-awk.md	259	 # awk scripting ## awk print markdown snippet text between backtick lines
+20221003151426	auto-awk.md	275	 # awk scripting ## combine lines with all previous lines combinatorically
+20221003151425	auto-awk.md	289	 # awk scripting ## get HTTP POST content from HTTP request stream
+20221003151424	auto-bash.md	1	 # bash scripting
+20221003151423	auto-bash.md	2	 # bash scripting ## urlencode and base64 encode lines individually
+20221003151422	auto-bash.md	14	 # bash scripting ## use awk to print only unique lines as a stream processor
+20221003151421	auto-bash.md	22	 # bash scripting ## find all git repositories in a directory
+20221003151420	auto-bash.md	23	 # bash scripting ## remove git from directory name
+20221003151419	auto-bash.md	34	 # bash scripting ## return the most recently updated ubuntu distro
+20221003151418	auto-bash.md	50	 # bash scripting ## parse args with case statement
+20221003151417	auto-bash.md	51	 # bash scripting ## exit if parameter is missing
+20221003151416	auto-bash.md	99	 # bash scripting ## query nmap ports and service description definitions
+20221003151415	auto-bash.md	119	 # bash scripting ## print the md5 hashes of all lines in a wordlist file
+20221003151414	auto-bash.md	134	 # bash scripting ## generate common passwords
+20221003151413	auto-bash.md	183	 # bash scripting ## colorize words from stdin with regular expressions
+20221003151412	auto-bash.md	270	 # bash scripting ## mount shared folders on VM
+20221003151411	auto-bash.md	281	 # bash scripting ## run docker image with current directory mounted as working directory
+20221003151410	auto-bash.md	290	 # bash scripting ## get raw HTTP request data from burp saved request
+20221003151409	auto-bash.md	299	 # bash scripting ## get the current user's github colon separated credentials
+20221003151408	auto-bash.md	309	 # bash scripting ## parse burpsuite saved request file and convert to python requests script for copying
+20221003151407	auto-bash.md	388	 # bash scripting ## pull all the git repos in home directory
+20221003151406	auto-bash.md	405	 # bash scripting ## download the current CVE list get as Tab Separated Values
+20221003151405	auto-bash.md	430	 # bash scripting ## shortcut to start tmux session in a working directory with alacritty
+20221003151404	auto-bash.md	441	 # bash scripting ## decorate XML with colors for tags, attributes, and content
+20221003151403	auto-bash.md	450	 # bash scripting ## extract PDF embedded file stream for use with PDF file attach exploits like mpdf
+20221003151402	auto-bash.md	451	 # bash scripting ## prepend gzip magic bytes
+20221003151401	auto-bash.md	452	 # bash scripting ## extract zlib stream between PDF stream and endstream with quick and dirty awk
+20221003151400	auto-bash.md	475	 # bash scripting ## update all the git repos in home directory and prompt with lazygit
+20221003151399	auto-bash.md	492	 # bash scripting ## find alphanumeric base64 using awk script
+20221003151398	auto-bash.md	504	 # bash scripting ## build and run impacket docker
+20221003151397	auto-bash.md	516	 # bash scripting ## decorate and colorize a passwd file piped from stdin
+20221003151396	auto-bash.md	525	 # bash scripting ## run exiftool on all of the images within a directory
+20221003151395	auto-bash.md	538	 # bash scripting ## get the current user's github api key
+20221003151394	auto-bash.md	548	 # bash scripting ## watch failed ssh login attempts as a live stream
+20221003151393	auto-bash.md	549	 # bash scripting ## lookup unique hosts with shodan api
+20221003151392	auto-bash.md	577	 # bash scripting ## launch ubuntu build environment docker with current directory mounted as working directory
+20221003151391	auto-bash.md	592	 # bash scripting ## clone github repository and build docker image with its name
+20221003151390	auto-bash.md	611	 # bash scripting ## get headings from wikipedia page
+20221003151389	auto-bash.md	621	 # bash scripting ## copy and read text from PNG image URL arg print with tesseract OCR
+20221003151388	auto-bash.md	639	 # bash scripting ## search through tldr command descriptions with fzf and display file with bat
+20221003151387	auto-bash.md	653	 # bash scripting ## generate ISO format dates wordlists for the last few years
+20221003151386	auto-bash.md	668	 # bash scripting ## define bash array
+20221003151385	auto-bash.md	669	 # bash scripting ## loop over bash array
+20221003151384	auto-bash.md	689	 # bash scripting ## clone repo into temp dir
+20221003151383	auto-bash.md	690	 # bash scripting ## get all tags and start walking their commits
+20221003151382	auto-bash.md	691	 # bash scripting ## take only unique git hashes and do md5 hashes of those files
+20221003151381	auto-bash.md	738	 # bash scripting ## get random hex unique ID bash
+20221003151380	auto-bash.md	747	 # bash scripting ## run neo4j in a docker
+20221003151379	auto-bash.md	748	 # bash scripting ## mount host neo4j data into docker
+20221003151378	auto-bash.md	768	 # bash scripting ## build and run enum4linux-ng docker
+20221003151377	auto-bash.md	780	 # bash scripting ## find the largest N files
+20221003151376	auto-bash.md	781	 # bash scripting ## get argument value or default
+20221003151375	auto-bash.md	794	 # bash scripting ## run strings on memory dumps for every readable process
+20221003151374	auto-bash.md	832	 # bash scripting ## build and run CrackMapExec docker
+20221003151373	auto-bash.md	844	 # bash scripting ## sort words by length
+20221003151372	auto-bash.md	854	 # bash scripting ## convert string to hex with no newlines
+20221003151371	auto-bash.md	864	 # bash scripting ## get the date of the last commit to modify a file as epoch timestamp and iso date
+20221003151370	auto-bash.md	884	 # bash scripting ## get library dependency versions from composer.lock json file
+20221003151369	auto-bash.md	894	 # bash scripting ## install sublimetext
+20221003151368	auto-bash.md	909	 # bash scripting ## get top N most common ports from nmap list pass argument
+20221003151367	auto-bash.md	938	 # bash scripting ## list public github repositories for user
+20221003151366	auto-bash.md	953	 # bash scripting ## install vscode
+20221003151365	auto-bash.md	969	 # bash scripting ## urlencode a line of text from stdin
+20221003151364	auto-bash.md	980	 # bash scripting ## get bash lines from kb snippets
+20221003151363	auto-python.md	1	 # python scripting
+20221003151362	auto-python.md	2	 # python scripting ## pwntools template binary exploit script
+20221003151361	auto-python.md	3	 # python scripting ## test exploit locally
+20221003151360	auto-python.md	4	 # python scripting ## connect to remote server
+20221003151359	auto-python.md	39	 # python scripting ## convert CSV to TSV
+20221003151358	auto-python.md	49	 # python scripting ## parse a cookie from every line on standard input
+20221003151357	auto-python.md	69	 # python scripting ## parse all get parameters from a url
+20221003151356	auto-python.md	94	 # python scripting ## urlencode every input line
+20221003151355	auto-python.md	95	 # python scripting ## read and process lines of input
+20221003151354	auto-python.md	111	 # python scripting ## convert a GMSA managed password structure to a NTLM hash
+20221003151353	auto-python.md	178	 # python scripting ## fuzz valid dates
+20221003151352	auto-python.md	189	 # python scripting ## convert tsv with key and value fields to python dictionary
+20221003151351	auto-python.md	209	 # python scripting ## parse all post params from post content given on standard input
+20221003151350	awk-scripting/bash-awk-quick-commands.md	1	 # awk and bash scripting
+20221003151349	awk-scripting/bash-awk-quick-commands.md	3	 # awk and bash scripting ## rename or move files
+20221003151348	awk-scripting/bash-awk-quick-commands.md	4	 # awk and bash scripting ## rename or move files ### automatically programatically generate file names
+20221003151347	awk-scripting/bash-awk-quick-commands.md	10	 # awk and bash scripting ## partition split into files by column value
+20221003151346	awk-scripting/bash-awk-quick-commands.md	11	 # awk and bash scripting ## partition split into files by column value ### analyzing CSV trade data : split into files for symbols
+20221003151345	awk-scripting/bash-awk-quick-commands.md	12	 # awk and bash scripting ## partition split into files by column value ### check if column is nonempty
+20221003151344	awk-scripting/bash-awk-quick-commands.md	13	 # awk and bash scripting ## partition split into files by column value ### put row into file based on column value
+20221003151343	awk-scripting/convert-decimal-to-hex.md	1	 # convert decimal to hex
+20221003151342	awk-scripting/convert-decimal-to-hex.md	2	 # convert decimal to hex ## GMSA managed password
+20221003151341	awk-scripting/awk-split.md	1	 # awk split string
+20221003151340	awk-scripting/awk-print-unbuffered.md	1	 # awk print unbuffered output
+20221003151339	awk-scripting/enumerate-python-imports.md	1	 # enumerate all python imports; chain 2 awk scripts with a filter
+20221003151338	awk-scripting/snippets.md	1	 # awk scripting
+20221003151337	awk-scripting/snippets.md	3	 # awk scripting ## initialize TSV tab separated values
+20221003151336	awk-scripting/snippets.md	9	 # awk scripting ## initialize TSV tab separated values ### output
+20221003151335	bash-scripting/file-operations.md	1	 # bash command reference
+20221003151334	bash-scripting/file-operations.md	3	 # bash command reference ## get full path to file from relative path
+20221003151333	bash-scripting/file-operations.md	8	 # bash command reference ## make temp directory
+20221003151332	bash-scripting/check-empty-var.md	1	 # bash scripting
+20221003151331	bash-scripting/check-empty-var.md	3	 # bash scripting ## check if a variable is empty
+20221003151330	bash-scripting/check-empty-var.md	10	 # bash scripting ## check if a variable is empty ### concise
+20221003151329	bash-scripting/stream-operations.md	1	 # bash scripting
+20221003151328	bash-scripting/stream-operations.md	3	 # bash scripting ## convert text strings or wordlists
+20221003151327	bash-scripting/stream-operations.md	5	 # bash scripting ## convert text strings or wordlists ### to lowercase
+20221003151326	bash-scripting/stream-operations.md	10	 # bash scripting ## convert text strings or wordlists ### to uppercase
+20221003151325	bash-scripting/capture-web-site-screenshot.md	1	 # Capture screenshot of url "utility to capture WebKit's rendering of a web page"
+20221003151324	bash-scripting/text-database-operations.md	1	 # ASCII text-based TSV / CSV file database
+20221003151323	bash-scripting/text-database-operations.md	3	 # ASCII text-based TSV / CSV file database ## join tables
+20221003151322	bash-scripting/watch-failed-ssh-logins-live.md	1	 # watch failed ssh login attempts as a live stream
+20221003151321	bash-scripting/get-current-unix-date-timestamp.md	1	 # get current date - linux bash scripting
+20221003151320	bash-scripting/get-current-unix-date-timestamp.md	3	 # get current date - linux bash scripting ## current unix epoch timestamp
+20221003151319	bash-scripting/get-current-unix-date-timestamp.md	8	 # get current date - linux bash scripting ## current year
+20221003151318	bash-scripting/xml-parsing.md	1	 # bash parse xml cli
+20221003151317	bash-scripting/xml-parsing.md	3	 # bash parse xml cli ## with xpath using xpup
+20221003151316	bash-scripting/substitution-syntax-braces.md	1	 # bash scripting substitution syntax
+20221003151315	bash-scripting/substitution-syntax-braces.md	3	 # bash scripting substitution syntax ## initialize variable with default value if empty and return it
+20221003151314	bash-scripting/substitution-syntax-braces.md	8	 # bash scripting substitution syntax ## initialize variable with default value if empty and return it ### example
+20221003151313	bash-scripting/substitution-syntax-braces.md	17	 # bash scripting substitution syntax ## return variables value or default
+20221003151312	bash-scripting/substitution-syntax-braces.md	22	 # bash scripting substitution syntax ## return substring of name
+20221003151311	bash-scripting/substitution-syntax-braces.md	29	 # bash scripting substitution syntax ## read variable or else exit if undefined
+20221003151310	bash-scripting/substitution-syntax-braces.md	34	 # bash scripting substitution syntax ## return something if another variable is set
+20221003151309	bash-scripting/expect.md	1	 # expect scripts
+20221003151308	bash-scripting/expect.md	3	 # expect scripts ## record
+20221003151307	bash-scripting/expect.md	8	 # expect scripts ## use arguments
+20221003151306	bash-scripting/find-common-lines-set-operations.md	1	 # bash scripting set operations
+20221003151305	bash-scripting/find-common-lines-set-operations.md	3	 # bash scripting set operations ## comm
+20221003151304	bash-scripting/find-common-lines-set-operations.md	5	 # bash scripting set operations ## comm ### find common lines between two files
+20221003151303	bash-scripting/find-common-lines-set-operations.md	15	 # bash scripting set operations ## comm ### find lines unique to one file and not in another
+20221003151302	bash-scripting/get-current-script-dir.md	1	 # get current script directory
+20221003151301	bash-scripting/strip-color.md	1	 # pipe into sed command to strip color
+20221003151300	bash-scripting/strip-newlines.md	1	 # drop newlines from stream with tr
+20221003151299	bash-scripting/tricks.md	1	 # bash tricks
+20221003151298	bash-scripting/tricks.md	3	 # bash tricks ## run a command / program in a pty to get color output
+20221003151297	bash-scripting/tricks.md	7	 # bash tricks ## run a command / program in a pty to get color output ### shodan host
+20221003151296	bash-scripting/tricks.md	12	 # bash tricks ## check if current directory is writable
+20221003151295	bash-scripting/debugging.md	1	 # debugging bash
+20221003151294	bash-scripting/debugging.md	2	 # debugging bash ## in visual studio code
+20221003151293	bash-scripting/debugging.md	5	 # debugging bash ## in terminal
+20221003151292	c-language/templates.md	1	 # C template
+20221003151291	c-language/templates.md	3	 # C template ## readline prompt
+20221003151290	c-language/templates.md	4	 # C template ## copy/pipe output to/from processes with popen fgetc fputc
+20221003151289	data-engineering-pipelines/jq-command-reference.md	1	 # jq
+20221003151288	data-engineering-pipelines/jq-command-reference.md	3	 # jq ## pipe syntax
+20221003151287	data-engineering-pipelines/jq-command-reference.md	4	 # jq ## filter objects syntax
+20221003151286	data-engineering-pipelines/postgres.md	1	 # postgres
+20221003151285	data-engineering-pipelines/postgres.md	3	 # postgres ## cannot find table name
+20221003151284	data-engineering-pipelines/topological-sort.md	1	 # topological sort with tsort
+20221003151283	data-engineering-pipelines/topological-sort.md	3	 # topological sort with tsort ## sort items occuring before each other
+20221003151282	data-engineering-pipelines/topological-sort.md	7	 # topological sort with tsort ## sort items occuring before each other ### example solution to programming challenge in bash
+20221003151281	data-engineering-pipelines/yaml-syntax.md	1	 # YAML
+20221003151280	data-engineering-pipelines/yaml-syntax.md	3	 # YAML ## parsing
+20221003151279	data-engineering-pipelines/yaml-syntax.md	4	 # YAML ## parsing ### yq
+20221003151278	data-engineering-pipelines/data-science-linux-commands.md	1	 # linux data science
+20221003151277	data-engineering-pipelines/data-science-linux-commands.md	3	 # linux data science ## utilities
+20221003151276	data-engineering-pipelines/data-science-linux-commands.md	26	 # linux data science ## issues
+20221003151275	docker/install-docker-compose.md	1	 # install docker compose cli extension
+20221003151274	docker/installations/install-mandown.md	1	 # install mandown
+20221003151273	docker/run-container-in-background.md	1	 # run container in background without exiting
+20221003151272	docker/docker-compose-shortcuts.md	1	 # docker compose aliases for convenience
+20221003151271	docker/docker-hd-space.md	1	 # docker cleanup
+20221003151270	docker/docker-hd-space.md	3	 # docker cleanup ## Try to keep logs under control
+20221003151269	docker/docker-hd-space.md	14	 # docker cleanup ## Free up space immediately
+20221003151268	docker/lookup-missing-command-packages.md	1	 # Lookup missing packages
+20221003151267	fzf-fuzzy-find/help.md	1	 # fzf
+20221003151266	fzf-fuzzy-find/help.md	3	 # fzf ## run with preview
+20221003151265	fzf-fuzzy-find/help.md	6	 # fzf ## install
+20221003151264	fzf-fuzzy-find/help.md	15	 # fzf ## Help
+20221003151263	hacking/tricks/windows-smartscreen-bypass.md	1	 # windows executable smartscreen protection
+20221003151262	hacking/tricks/windows-smartscreen-bypass.md	4	 # windows executable smartscreen protection ## bypass ( apt 29 )
+20221003151261	hacking/tricks/build-windows-exploits.md	1	 # build windows exploit on linux using mingw
+20221003151260	hacking/tricks/build-windows-exploits.md	5	 # run windows exploit on linux using wine
+20221003151259	hacking/tricks/stabilize-shell.md	1	 # stabilize shell with script command
+20221003151258	hacking/tricks/scan-firewall-reverse-ports.md	1	 # scan for ports to connect back on through firewall
+20221003151257	hacking/tricks/run-programs-in-memory.md	1	 # run executable binary programs within process memory
+20221003151256	hacking/tricks/run-programs-in-memory.md	3	 # run executable binary programs within process memory ## linux
+20221003151255	hacking/tricks/run-programs-in-memory.md	4	 # run executable binary programs within process memory ## linux ### base64 piped text using dd and shellcode
+20221003151254	hacking/tricks/run-programs-in-memory.md	8	 # run executable binary programs within process memory ## windows
+20221003151253	hacking/tricks/run-programs-in-memory.md	9	 # run executable binary programs within process memory ## windows ### cobalt strike
+20221003151252	hacking/tricks/run-programs-in-memory.md	10	 # run executable binary programs within process memory ## windows ### cobalt strike #### BOF C DLLs
+20221003151251	hacking/tricks/run-programs-in-memory.md	12	 # run executable binary programs within process memory ## windows ### cobalt strike #### BOF.NET common language runtime CLR .NET assemblies
+20221003151250	hacking/tricks/install-pip-modules-on-target-as-files.md	1	 # sending installs to target
+20221003151249	hacking/tricks/install-pip-modules-on-target-as-files.md	2	 # sending installs to target ## install programs on target as tar archive file using docker to find installed dependencies
+20221003151248	hacking/tricks/install-pip-modules-on-target-as-files.md	3	 # sending installs to target ## install pip modules on target as files with no dependencies on network connection to pip
+20221003151247	hacking/tricks/jenkins-rev-shell-code.md	1	 # Jenkins / Groovy (Java) Reverse Shell
+20221003151246	hacking/tricks/jenkins-rev-shell-code.md	3	 # Jenkins / Groovy (Java) Reverse Shell ## Linux
+20221003151245	hacking/tricks/jenkins-rev-shell-code.md	11	 # Jenkins / Groovy (Java) Reverse Shell ## Windows
+20221003151244	hacking/tricks/malicious-packages.md	1	 # preparing malicious package payloads
+20221003151243	hacking/tricks/malicious-packages.md	3	 # preparing malicious package payloads ## node npm package
+20221003151242	hacking/tricks/malicious-packages.md	8	 # preparing malicious package payloads ## node npm package ### malicious repository ( tcp port 4873 )
+20221003151241	hacking/tricks/ping-subnet-os-enumeration.md	1	 # ping whole subnet of IPs in a loop to fingerprint OS versions
+20221003151240	hacking/tricks/exploit-asterisk-with-touch.md	1	 # Using touch to make files with strange names for exploiting scripts
+20221003151239	hacking/tricks/make-wordlists-fuzzing-with-bash.md	1	 # make date wordlist for fuzzing with bash and parameter expansion
+20221003151238	hacking/tricks/ctf-get-tld-working-firefox-url-bar.md	1	 # firefox url bar get tld working for ctf boxes
+20221003151237	hacking/tricks/wfuzz-identify-versions.md	1	 # wfuzz identify files containing version info like README and changelog
+20221003151236	hacking/tricks/mysql-tricks.md	1	 # mysql mariadb
+20221003151235	hacking/tricks/mysql-tricks.md	3	 # mysql mariadb ## display query output as pretty printed text with column names
+20221003151234	hacking/tricks/mysql-tricks.md	9	 # mysql mariadb ## UDF shell
+20221003151233	hacking/tricks/mysql-tricks.md	10	 # mysql mariadb ## write any binary file with file permissions
+20221003151232	hacking/tricks/mysql-tricks.md	20	 # mysql mariadb ## exploit GRANT OPTION to grant file write permissions to self
+20221003151231	hacking/tricks/mysql-tricks.md	27	 # mysql mariadb ## find plugin directory
+20221003151230	hacking/tricks/vbscript-wget-hack.md	1	  ## VBScript
+20221003151229	hacking/tricks/vbscript-wget-hack.md	2	  ## VBScript ### Create wget.vbs File
+20221003151228	hacking/tricks/vbscript-wget-hack.md	32	  ## VBScript ### Download Files
+20221003151227	hacking/tricks/windows-encoding-base64-utf16.md	1	 # convert string to a base64 encoded UTF-16LE string to be used by powershell
+20221003151226	hacking/tricks/php-lfi2rce-filter-iconv-exploit.md	1	 # php filter LFI to iconv RCE
+20221003151225	hacking/tricks/php-lfi2rce-filter-iconv-exploit.md	3	 # php filter LFI to iconv RCE ## original get 0 script
+20221003151224	hacking/tricks/php-lfi2rce-filter-iconv-exploit.md	65	 # php filter LFI to iconv RCE ## updated conversion table for all base64 (hacktricks)
+20221003151223	hacking/tricks/identify-linux-version-service-versions.md	1	 # identify linux version from service version
+20221003151222	hacking/tricks/identify-linux-version-service-versions.md	2	 # identify linux version from service version ## ubuntu
+20221003151221	hacking/tricks/dump-hashes-from-registry-backups.md	1	 # pypykatz dump hashes from registry backup
+20221003151220	hacking/tricks/hibernate-hql-injection.md	1	 # hql injection
+20221003151219	hacking/tricks/hibernate-hql-injection.md	3	 # hql injection ## auth bypass example
+20221003151218	hacking/tricks/smtp-send-email-cli.md	1	 # send email over SMTP from command line with swaks
+20221003151217	hacking/tricks/valid-https-server.md	1	 # caddy
+20221003151216	hacking/tricks/valid-https-server.md	3	 # caddy ## stand up https server with a valid certificate
+20221003151215	hacking/tricks/valid-https-server.md	8	 # caddy ## install
+20221003151214	hacking/to-try-lists/got-leaked-file-to-try-list.md	1	 # got leaked files
+20221003151213	hacking/to-try-lists/got-leaked-file-to-try-list.md	3	 # got leaked files ## TRY
+20221003151212	hacking/to-try-lists/got-leaked-file-to-try-list.md	11	 # got leaked files ## encrypted zip files
+20221003151211	hacking/to-try-lists/got-leaked-file-to-try-list.md	15	 # got leaked files ## jar
+20221003151210	hacking/to-try-lists/privesc/linux.md	1	 # linux privilege escalation
+20221003151209	hacking/to-try-lists/privesc/linux.md	90	 # linux privilege escalation ## exploiting scripts on linux
+20221003151208	hacking/to-try-lists/privesc/linux.md	108	 # linux privilege escalation ## headline exploits
+20221003151207	hacking/to-try-lists/privesc/windows.md	1	 # windows privilege escalation
+20221003151206	hacking/to-try-lists/privesc/windows.md	85	 # windows privilege escalation ## headline exploits
+20221003151205	hacking/to-try-lists/privesc/windows.md	92	 # windows privilege escalation ## AD headline exploits
+20221003151204	hacking/to-try-lists/got-access-to-databases-general-SQL.md	1	 # got access to databases - general SQL
+20221003151203	hacking/to-try-lists/LDAP.md	1	 # LDAP
+20221003151202	hacking/to-try-lists/wsmans-tcp-1270,5985,5986.md	1	 # wsmans tcp 1270, 5985, 5986
+20221003151201	hacking/to-try-lists/RDP.md	1	 # RDP
+20221003151200	hacking/to-try-lists/got-read-or-write-access-to-filesystem.md	1	 # got read or write access to filesystem
+20221003151199	hacking/to-try-lists/finger-tcp-79.md	1	 # finger tcp 79
+20221003151198	hacking/to-try-lists/SMB.md	1	 # SMB
+20221003151197	hacking/to-try-lists/SMB.md	41	 # SMB ## old SMB exploits
+20221003151196	hacking/to-try-lists/IPMI.md	1	 # IPMI
+20221003151195	hacking/to-try-lists/DNS.md	1	 # DNS
+20221003151194	hacking/to-try-lists/procedure.md	1	 # procedure
+20221003151193	hacking/to-try-lists/HTTP.md	1	 # HTTP
+20221003151192	hacking/to-try-lists/HTTP.md	3	 # HTTP ## TRY
+20221003151191	hacking/to-try-lists/HTTP.md	50	 # HTTP ## uncommon ideas list
+20221003151190	hacking/to-try-lists/HTTP.md	84	 # HTTP ## BUSTING directory busting to try list
+20221003151189	hacking/to-try-lists/HTTP.md	106	 # HTTP ## specific HTTP server exploit possibilities
+20221003151188	hacking/to-try-lists/HTTP.md	113	 # HTTP ## found CMS
+20221003151187	hacking/to-try-lists/HTTP.md	123	 # HTTP ## LFI or dir traversal
+20221003151186	hacking/to-try-lists/HTTP.md	139	 # HTTP ## API and POST endpoints
+20221003151185	hacking/to-try-lists/HTTP.md	156	 # HTTP ## bypassing restrictions
+20221003151184	hacking/to-try-lists/HTTP.md	168	 # HTTP ## found login form
+20221003151183	hacking/to-try-lists/HTTP.md	191	 # HTTP ## vulnerability finding and fuzzing
+20221003151182	hacking/to-try-lists/HTTP.md	211	 # HTTP ## compromised CMS login
+20221003151181	hacking/to-try-lists/HTTP.md	233	 # HTTP ## compromised CMS login ### CMS auth code exec / becoming web user
+20221003151180	hacking/to-try-lists/HTTP.md	242	 # HTTP ## UNCOMMON HTTP ( hacktricks )
+20221003151179	hacking/to-try-lists/FTP.md	1	 # FTP
+20221003151178	hacking/to-try-lists/got-source-code.md	1	 # got source code - analysis
+20221003151177	hacking/to-try-lists/stuck.md	1	 # Stuck to try list
+20221003151176	hacking/to-try-lists/email.md	1	 # email POP3 / IMAP
+20221003151175	hacking/to-try-lists/EVERYTHING.md	1	 # EVERYTHING
+20221003151174	hacking/to-try-lists/SSH.md	1	 # SSH
+20221003151173	hacking/to-try-lists/SSH.md	15	 # SSH ## old SSH exploits
+20221003151172	hacking/to-try-lists/active-directory-domain.md	1	 # active directory domain
+20221003151171	hacking/to-try-lists/active-directory-domain.md	85	 # active directory domain ## powershell web access
+20221003151170	hacking/to-try-lists/active-directory-domain.md	89	 # active directory domain ## old
+20221003151169	hacking/to-try-lists/NFS.md	1	 # NFS
+20221003151168	hacking/to-try-lists/HTTP-proxy-squid-proxy.md	1	 # HTTP proxy / squid proxy
+20221003151167	hacking/to-try-lists/got-hashes.md	1	 # got hashes
+20221003151166	hacking/to-try-lists/docker-repository.md	1	 # got access to docker repository
+20221003151165	hacking/to-try-lists/TFTP-udp-69.md	1	 # TFTP udp 69
+20221003151164	hacking/to-try-lists/SNMP.md	1	 # SNMP
+20221003151163	hacking/to-try-lists/nmap-UDP-scan-individual-port-scans.md	1	 # nmap UDP scan - individual port scans
+20221003151162	hacking/to-try-lists/nmap-UDP-scan-individual-port-scans.md	8	 # nmap UDP scan - individual port scans ## top ports command
+20221003151161	hacking/pivoting.md	1	 # pivoting guide
+20221003151160	hacking/passwords/password_cracking_rules/README.md	1	 # password_cracking_rule
+20221003151159	hacking/passwords/password_cracking_rules/README.md	8	 # Credit where credit is due
+20221003151158	hacking/passwords/password_cracking_rules/README.md	18	 # License
+20221003151157	hacking/passwords/hashcat-generate-wordlist-from-file-stdout.md	1	 # hashcat generate wordlist from file with rules
+20221003151156	hacking/passwords/hashcat-generate-passwords-output-with-mask-pattern.md	1	 # hashcat generate passwords from password masks and output to stdout
+20221003151155	hacking/defense/linux-hardening.md	1	 # linux hardening
+20221003151154	hacking/defense/linux-hardening.md	3	 # linux hardening ## add hidepid to /proc at run time
+20221003151153	hacking/windows/windows-cheatsheet-resources.md	1	 # windows
+20221003151152	hacking/windows/xp-server-2003.md	1	 # windows XP and windows server 2003
+20221003151151	hacking/windows/xp-server-2003.md	3	 # windows XP and windows server 2003 ## MOF file RCE
+20221003151150	hacking/windows/xp-server-2003.md	4	 # windows XP and windows server 2003 ## arbitrary file write -> remote code execution
+20221003151149	hacking/windows/xp-server-2003.md	11	 # windows XP and windows server 2003 ## arbitrary file write -> remote code execution ### metasploit
+20221003151148	hacking/windows/AD-resource-based-constrained-delegation-attack.md	1	 # resource based constrained delegation S4U attack
+20221003151147	hacking/windows/AD-resource-based-constrained-delegation-attack.md	9	 # resource based constrained delegation S4U attack ## powershell commands on target
+20221003151146	hacking/windows/AD-resource-based-constrained-delegation-attack.md	42	 # resource based constrained delegation S4U attack ## transfering tickets to attacker machine to psexec
+20221003151145	hacking/windows/AD-resource-based-constrained-delegation-attack.md	43	 # resource based constrained delegation S4U attack ## transfering tickets to attacker machine to psexec ### convert kirbi to ccache
+20221003151144	hacking/windows/windows-active-directory-and-privilege-information.md	1	 # active directory 
+20221003151143	hacking/windows/windows-active-directory-and-privilege-information.md	3	 # active directory  ## exploiting permissions
+20221003151142	hacking/windows/windows-active-directory-and-privilege-information.md	5	 # active directory  ## exploiting permissions ### WriteDacl
+20221003151141	hacking/windows/windows-active-directory-and-privilege-information.md	9	 # active directory  ## exploiting permissions ### GenericAll
+20221003151140	hacking/windows/windows-active-directory-and-privilege-information.md	14	 # active directory  ## NTLMv2 vs kerberos authentication on the network
+20221003151139	hacking/windows/windows-active-directory-and-privilege-information.md	19	 # active directory  ## ForceChangePassword change user password
+20221003151138	hacking/windows/windows-active-directory-and-privilege-information.md	30	 # active directory  ## Backup Operators group
+20221003151137	hacking/windows/windows-active-directory-and-privilege-information.md	33	 # active directory  ## sensitive files
+20221003151136	hacking/windows/windows-active-directory-and-privilege-information.md	36	 # active directory  ## mindset and methodology
+20221003151135	hacking/windows/windows-active-directory-and-privilege-information.md	42	 # active directory  ## workflow for penetration test on windows network in organization
+20221003151134	hacking/windows/windows-active-directory-and-privilege-information.md	48	 # active directory  ## GMSA group managed service account
+20221003151133	hacking/windows/windows-active-directory-and-privilege-information.md	51	 # active directory  ## GMSA group managed service account ### read NTLM hash with powershell + python
+20221003151132	hacking/windows/windows-active-directory-and-privilege-information.md	63	 # active directory  ## GMSA group managed service account ### remote LDAP read GMSA passwords python script
+20221003151131	hacking/windows/windows-active-directory-and-privilege-information.md	75	 # active directory  ## GMSA group managed service account ### remote LDAP read GMSA passwords python script #### fix missing ConvertFrom-AdManagedPasswordBlob
+20221003151130	hacking/windows/windows-active-directory-and-privilege-information.md	78	 # active directory  ## change user password with rpcclient over SMB 
+20221003151129	hacking/windows/windows-active-directory-and-privilege-information.md	84	 # active directory  ## DNS
+20221003151128	hacking/windows/windows-active-directory-and-privilege-information.md	88	 # active directory  ## DNS ### adding DNS records
+20221003151127	hacking/windows/windows-active-directory-and-privilege-information.md	95	 # active directory  ## delegation
+20221003151126	hacking/windows/windows-active-directory-and-privilege-information.md	100	 # active directory  ## delegation ### unconstrained
+20221003151125	hacking/windows/windows-active-directory-and-privilege-information.md	102	 # active directory  ## delegation ### constrained
+20221003151124	hacking/windows/dos-and-powershell-enumeration-quick.md	1	 # dos commands
+20221003151123	hacking/windows/dos-and-powershell-enumeration-quick.md	3	 # dos commands ## see running service processes
+20221003151122	hacking/windows/dos-and-powershell-enumeration-quick.md	10	 # dos commands ## windows services and drivers
+20221003151121	hacking/windows/dos-and-powershell-enumeration-quick.md	13	 # dos commands ## service paths
+20221003151120	hacking/windows/dos-and-powershell-enumeration-quick.md	21	 # dos commands ## installed drivers
+20221003151119	hacking/windows/dos-and-powershell-enumeration-quick.md	24	 # dos commands ## active network connections
+20221003151118	hacking/windows/dos-and-powershell-enumeration-quick.md	27	 # dos commands ## show environment variables
+20221003151117	hacking/windows/dos-and-powershell-enumeration-quick.md	30	 # dos commands ## file permissions
+20221003151116	hacking/windows/dos-and-powershell-enumeration-quick.md	34	 # dos commands ## file permissions ### access check sysinternals
+20221003151115	hacking/windows/dos-and-powershell-enumeration-quick.md	40	 # dos commands ## services sc
+20221003151114	hacking/windows/dos-and-powershell-enumeration-quick.md	42	 # dos commands ## services sc ### enable service
+20221003151113	hacking/windows/dos-and-powershell-enumeration-quick.md	46	 # dos commands ## services sc ### set binary path
+20221003151112	hacking/windows/dos-and-powershell-enumeration-quick.md	49	 # dos commands ## services sc ### start service
+20221003151111	hacking/windows/dos-and-powershell-enumeration-quick.md	52	 # dos commands ## kill process by id
+20221003151110	hacking/windows/dos-and-powershell-enumeration-quick.md	55	 # dos commands ## admin / system
+20221003151109	hacking/windows/dos-and-powershell-enumeration-quick.md	56	 # dos commands ## admin / system ### dump registry secretsdump hashes
+20221003151108	hacking/windows/dos-and-powershell-enumeration-quick.md	60	 # dos commands ## net
+20221003151107	hacking/windows/dos-and-powershell-enumeration-quick.md	62	 # dos commands ## net ### add user to domain group
+20221003151106	hacking/windows/dll-to-run-commands.md	1	 # compile windows DLL to run commands
+20221003151105	hacking/windows/dll-to-run-commands.md	3	 # compile windows DLL to run commands ## DLL code
+20221003151104	hacking/windows/dll-to-run-commands.md	28	 # compile windows DLL to run commands ## DLL code ### building with mingw
+20221003151103	hacking/windows/windows-reverse-shell.md	1	 # DOS commands
+20221003151102	hacking/windows/windows-reverse-shell.md	3	 # DOS commands ## download file from http
+20221003151101	hacking/windows/windows-reverse-shell.md	8	 # powershell commands
+20221003151100	hacking/windows/windows-reverse-shell.md	10	 # powershell commands ## download and execute script
+20221003151099	hacking/windows/windows-reverse-shell.md	16	 # powershell commands ## encoded command nop bypass hidden
+20221003151098	hacking/windows/windows-reverse-shell.md	17	 # powershell commands ## execute encoded command as quietly as possible
+20221003151097	hacking/windows/active-directory-certificate-services.md	1	 # active directory certificate services AD CS
+20221003151096	hacking/windows/active-directory-certificate-services.md	5	 # active directory certificate services AD CS ## privesc
+20221003151095	hacking/windows/active-directory-certificate-services.md	11	 # active directory certificate services AD CS ## risks
+20221003151094	hacking/windows/enable-privilege-api.md	1	 # windows API
+20221003151093	hacking/windows/enable-privilege-api.md	2	 # windows API ## enable privilege
+20221003151092	hacking/windows/enable-privilege-api.md	15	 # windows API ## enable privilege ### API calls
+20221003151091	hacking/windows/powerview-commands.md	1	 # powerview
+20221003151090	hacking/windows/powerview-commands.md	5	 # powerview ## enumerate sensitive information disclosure on file shares
+20221003151089	hacking/windows/mimikatz.md	1	 # mimikatz
+20221003151088	hacking/windows/mimikatz.md	3	 # mimikatz ## all in one command for non-interactive powershell
+20221003151087	hacking/windows/mimikatz.md	8	 # mimikatz ## dump passwords
+20221003151086	hacking/windows/mimikatz.md	14	 # mimikatz ## troubleshooting `ERROR kuhl_m_sekurlsa_acquireLSA Key import`
+20221003151085	hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md	1	 # windows sensitive file disclosure cheat sheet
+20221003151084	hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md	81	 # windows sensitive file disclosure cheat sheet ## determine version
+20221003151083	hacking/windows/persistence.md	1	 # establishing persistence on windows target in enterprise penetration test
+20221003151082	hacking/windows/powerup-commands.md	1	 # powerup powershell windows privesc enumeration script
+20221003151081	hacking/windows/service-account-privileges.md	1	 # service account privileges
+20221003151080	hacking/windows/service-account-privileges.md	3	 # service account privileges ## restore
+20221003151079	hacking/windows/service-account-privileges.md	6	 # service account privileges ## restore ### using scheduled task with powershell
+20221003151078	hacking/windows/service-account-privileges.md	13	 # service account privileges ## restore ### using scheduled task with powershell #### require seimpersonate privilege for task using principal
+20221003151077	hacking/windows/service-account-privileges.md	27	 # service account privileges ## restore ### using FullPowers tool
+20221003151076	hacking/windows/service-account-privileges.md	30	 # service account privileges ## exploiting
+20221003151075	hacking/windows/service-account-privileges.md	32	 # service account privileges ## exploiting ### SeImpersonatePrivilege
+20221003151074	hacking/windows/service-account-privileges.md	39	 # service account privileges ## exploiting ### SeManageVolumePrivilege
+20221003151073	hacking/windows/enumeration-scripts-processing.md	1	 # windows color script output
+20221003151072	hacking/windows/enumeration-scripts-processing.md	3	 # windows color script output ## winpeas log
+20221003151071	hacking/windows/enumeration-scripts-processing.md	4	 # windows color script output ## winpeas log ### scroll with colors and convert to utf8 for linux
+20221003151070	hacking/windows/dump-process-memory.md	1	 # dump process memory
+20221003151069	hacking/windows/dump-process-memory.md	3	 # dump process memory ## with sysinternals procdump
+20221003151068	hacking/windows/dump-process-memory.md	10	 # dump process memory ## with task manager as admin
+20221003151067	hacking/windows/test-for-defender-amsi.md	1	 # AMSI
+20221003151066	hacking/windows/test-for-defender-amsi.md	3	 # AMSI ## detect windows defender
+20221003151065	hacking/windows/test-for-defender-amsi.md	5	 # AMSI ## detect windows defender ### with known malicious string
+20221003151064	hacking/windows/uacbypass/uac-bypass.md	1	 # bypass UAC with administrators group
+20221003151063	hacking/windows/uacbypass/uac-bypass.md	4	 # bypass UAC with administrators group ## fodhelper bypass
+20221003151062	hacking/windows/uacbypass/uac-bypass.md	38	 # bypass UAC with administrators group ## uacme bypass
+20221003151061	hacking/windows/uacbypass/uac-bypass.md	42	 # bypass UAC with administrators group ## read files quickly using smb shares
+20221003151060	hacking/windows/windows-information.md	1	 # location of services in windows registry
+20221003151059	hacking/windows/windows-information.md	6	 # locations where authenticated users can write in windows
+20221003151058	hacking/windows/windows-information.md	10	 # windows directory traversal path traversal LFI strings
+20221003151057	hacking/windows/windows-information.md	24	 # get windows enumeration info from file read
+20221003151056	hacking/windows/windows-information.md	25	 # get enumeration info from file read about level of patches installed on windows
+20221003151055	hacking/windows/windows-information.md	33	 # get windows verison info from file read
+20221003151054	hacking/windows/windows-information.md	36	 # windows exploit unquoted service path meterpreter reverse service exe
+20221003151053	hacking/windows/windows-information.md	39	 # lsass process contains credentials
+20221003151052	hacking/windows/windows-information.md	42	 # check network time offset with network time protocol NTP server on windows AD kerberos
+20221003151051	hacking/windows/windows-information.md	43	 # set date to match Active Directory server with ntpdate
+20221003151050	hacking/windows/windows-information.md	52	 # change user password
+20221003151049	hacking/windows/windows-information.md	53	 # change user password ## powershell or dos
+20221003151048	hacking/windows/windows-information.md	59	 # windows reverse shell AV bypass
+20221003151047	hacking/windows/windows-information.md	60	 # windows reverse shell AV bypass ## active directory endpoint protection
+20221003151046	hacking/windows/windows-information.md	61	 # windows reverse shell AV bypass ## defender
+20221003151045	hacking/windows/windows-information.md	65	 # windows alternate data streams commands
+20221003151044	hacking/windows/windows-information.md	66	 # windows alternate data streams commands ## enumerate directory for alt streams
+20221003151043	hacking/windows/windows-information.md	71	 # windows alternate data streams commands ## creating alt streams
+20221003151042	hacking/windows/windows-information.md	76	 # windows alternate data streams commands ## displaying content with powershell
+20221003151041	hacking/windows/windows-information.md	82	 # exploiting SeRestorePrivilege
+20221003151040	hacking/windows/windows-information.md	87	 # create windows backdoor accounts
+20221003151039	hacking/windows/windows-information.md	91	 # dumping credentials as admin
+20221003151038	hacking/windows/windows-information.md	93	 # dumping credentials as admin ## in remote desktop RDP or GUI
+20221003151037	hacking/windows/windows-information.md	97	 # program files ruxim directory
+20221003151036	hacking/windows/windows-information.md	98	 # program files UNP directory
+20221003151035	hacking/windows/windows-information.md	101	 # hidden shares
+20221003151034	hacking/windows/windows-information.md	104	 # applocker limit allowed executables and allowed paths
+20221003151033	hacking/windows/windows-information.md	105	 # applocker limit allowed executables and allowed paths ## bypass executable blocking
+20221003151032	hacking/windows/windows-information.md	108	 # fix downloading file with evil-winrm
+20221003151031	hacking/windows/windows-information.md	111	 # windows manipulate, enable and privesc with process tokens
+20221003151030	hacking/windows/windows-exploits-non-metasploit.md	1	 # eternalblue MS17-010 - working
+20221003151029	hacking/windows/windows-exploits-non-metasploit.md	4	 # MS08-067
+20221003151028	hacking/windows/decrypt-azure-ad-connect.md	1	 # decrypt azure AD connect passwords
+20221003151027	hacking/windows/decrypt-azure-ad-connect.md	2	 # decrypt azure AD connect passwords ## powershell MSSQL queries
+20221003151026	hacking/windows/common-ad-misconfigurations-footholds.md	1	 # common misconfigurations of active directory
+20221003151025	hacking/methodology/jwt.md	1	 # JWT tokens
+20221003151024	hacking/methodology/jwt.md	3	 # JWT tokens ## put token in HTTP request to API
+20221003151023	hacking/methodology/source-analysis.md	1	 # analyzing source code
+20221003151022	hacking/methodology/source-analysis.md	3	 # analyzing source code ## go web server
+20221003151021	hacking/methodology/source-analysis.md	7	 # analyzing source code ## PHP code
+20221003151020	hacking/methodology/SSTI-test-payloads.md	1	 # SSTI polyglot payload
+20221003151019	hacking/methodology/ds-store-file.md	1	 # .DS_Store file ds_store Mac OS
+20221003151018	hacking/methodology/ds-store-file.md	5	 # .DS_Store file ds_store Mac OS ## parse scrape directory and file information
+20221003151017	hacking/methodology/nmap-scripts.md	1	 # nmap scripts
+20221003151016	hacking/methodology/nmap-scripts.md	3	 # nmap scripts ## search by type
+20221003151015	hacking/methodology/nmap-scripts.md	9	 # nmap scripts ## all script types
+20221003151014	hacking/methodology/LFI-procedure.md	1	 # LFI or directory traversal procedures
+20221003151013	hacking/methodology/LFI-procedure.md	11	 # LFI or directory traversal procedures ## environment variables
+20221003151012	hacking/methodology/LFI-procedure.md	15	 # LFI or directory traversal procedures ## read scripts from web server process cwd
+20221003151011	hacking/methodology/LFI-procedure.md	17	 # LFI or directory traversal procedures ## read scripts from web server process cwd ### fuzzing script names
+20221003151010	hacking/methodology/LFI-procedure.md	20	 # LFI or directory traversal procedures ## read scripts from web server process cwd ### downloading with curl 
+20221003151009	hacking/methodology/LFI-procedure.md	21	 # LFI or directory traversal procedures ## read scripts from web server process cwd ### downloading with curl  #### prevent normalization of paths
+20221003151008	hacking/methodology/LFI-procedure.md	24	 # LFI or directory traversal procedures ## file wordlists
+20221003151007	hacking/methodology/LFI-procedure.md	25	 # LFI or directory traversal procedures ## file wordlists ### linux
+20221003151006	hacking/methodology/API-enumeration.md	1	 # API enumeration
+20221003151005	hacking/methodology/API-enumeration.md	3	 # API enumeration ## bug hunting workflow
+20221003151004	hacking/methodology/API-enumeration.md	39	 # API enumeration ## good wordlists
+20221003151003	hacking/methodology/API-enumeration.md	41	 # API enumeration ## good wordlists ### seclists for endpoints
+20221003151002	hacking/methodology/API-enumeration.md	48	 # API enumeration ## good wordlists ### parameters
+20221003151001	hacking/methodology/API-enumeration.md	52	 # API enumeration ## good wordlists ### commonly used list of words
+20221003151000	hacking/methodology/API-enumeration.md	55	 # API enumeration ## good wordlists ### last resort?
+20221003150999	hacking/methodology/API-enumeration.md	59	 # API enumeration ## good wordlists ### API enumeration wordlists by size
+20221003150998	hacking/methodology/API-enumeration.md	70	 # GraphQL APIs
+20221003150997	hacking/methodology/API-enumeration.md	75	 # GraphQL APIs ## GraphQL introspection and recon
+20221003150996	hacking/methodology/API-enumeration.md	79	 # GraphQL APIs ## common GraphQL bugs
+20221003150995	hacking/methodology/API-enumeration.md	89	 # GraphQL APIs ## GraphQL tools
+20221003150994	hacking/methodology/API-enumeration.md	98	 # GraphQL APIs ## common specific GraphQL endpoints
+20221003150993	hacking/methodology/API-enumeration.md	106	 # GraphQL APIs ## how GraphQL works
+20221003150992	hacking/methodology/API-enumeration.md	115	 # GraphQL APIs ## writing GraphQL queries
+20221003150991	hacking/methodology/API-enumeration.md	118	 # GraphQL APIs ## writing GraphQL mutations
+20221003150990	hacking/methodology/API-enumeration.md	128	 # GraphQL APIs ## example GraphQL queries from InsiderPHD video
+20221003150989	hacking/methodology/API-enumeration.md	147	 # GraphQL API pentesting to try list
+20221003150988	hacking/methodology/sqli-manual-mysql-payloads.md	1	 # mariadb mysql
+20221003150987	hacking/methodology/sqli-manual-mysql-payloads.md	2	 # mariadb mysql ## SQLi
+20221003150986	hacking/methodology/sqli-manual-mysql-payloads.md	3	 # mariadb mysql ## SQLi ### concat multiple values into one field rows
+20221003150985	hacking/methodology/sqli-manual-mysql-payloads.md	7	 # mariadb mysql ## SQLi ### union injection
+20221003150984	hacking/methodology/sqli-manual-mysql-payloads.md	8	 # mariadb mysql ## SQLi ### information tables
+20221003150983	hacking/methodology/sqli-manual-mysql-payloads.md	19	 # mariadb mysql ## files
+20221003150982	hacking/methodology/sqli-manual-mysql-payloads.md	20	 # mariadb mysql ## files ### check permissions
+20221003150981	hacking/methodology/sqli-manual-mysql-payloads.md	23	 # mariadb mysql ## files ### read
+20221003150980	hacking/methodology/sqli-manual-mysql-payloads.md	26	 # mariadb mysql ## files ### write
+20221003150979	hacking/methodology/sqli-manual-mysql-payloads.md	33	 # mariadb mysql ## files ### read database users
+20221003150978	hacking/methodology/oracle.md	1	 # oracle
+20221003150977	hacking/methodology/oracle.md	3	 # oracle ## connect as sysdba enable file read privileges
+20221003150976	hacking/methodology/IDOR-notes.md	1	 # IDOR general steps
+20221003150975	hacking/methodology/XXE.md	1	 # XXE xml external entity
+20221003150974	hacking/methodology/XXE.md	5	 # XXE xml external entity ## exfiltrate file out of band payload
+20221003150973	hacking/methodology/dns-enum.md	1	 # Look up localhost on a DNS server with nslookup
+20221003150972	hacking/methodology/hashcat-crack-salted-password.md	1	 # crack salted md5 hash with hashcat
+20221003150971	hacking/methodology/owasp-top-10-api-bugs.md	1	 # OWASP top 10 api bugs
+20221003150970	hacking/methodology/mobile-apps-and-api-testing.md	1	 # mobile apps and API testing
+20221003150969	hacking/methodology/mobile-apps-and-api-testing.md	6	 # mobile apps and API testing ## steps for mobile app API + burpsuite
+20221003150968	hacking/methodology/XSS.md	1	 # document.cookie and XSS
+20221003150967	hacking/methodology/bloodhound-checklist.md	1	 # things to check in bloodhound
+20221003150966	hacking/methodology/osint-overview.md	1	 # OSINT
+20221003150965	hacking/methodology/osint-overview.md	4	 # OSINT ## guides and step-by-step flowcharts
+20221003150964	hacking/methodology/osint-overview.md	7	 # OSINT ## sock puppets
+20221003150963	hacking/methodology/osint-overview.md	18	 # OSINT ## search engine OSINT
+20221003150962	hacking/methodology/osint-overview.md	34	 # OSINT ## image OSINT
+20221003150961	hacking/methodology/osint-overview.md	44	 # OSINT ## physical location OSINT
+20221003150960	hacking/methodology/osint-overview.md	48	 # OSINT ## physical location OSINT ### identifying geographic locations from pictures OSINT
+20221003150959	hacking/methodology/osint-overview.md	58	 # OSINT ## email OSINT
+20221003150958	hacking/methodology/osint-overview.md	72	 # OSINT ## password OSINT
+20221003150957	hacking/methodology/osint-overview.md	88	 # OSINT ## password OSINT ### gives you the credentials
+20221003150956	hacking/methodology/osint-overview.md	91	 # OSINT ## usernames and accounts OSINT
+20221003150955	hacking/methodology/osint-overview.md	99	 # OSINT ## people OSINT
+20221003150954	hacking/methodology/osint-overview.md	133	 # OSINT ## social media OSINT
+20221003150953	hacking/methodology/osint-overview.md	189	 # OSINT ## organizations
+20221003150952	hacking/methodology/osint-overview.md	191	 # OSINT ## organizations ### github OSINT
+20221003150951	hacking/methodology/osint-overview.md	195	 # OSINT ## organizations ### job postings
+20221003150950	hacking/methodology/osint-overview.md	199	 # OSINT ## enumerate emails and username format for domain
+20221003150949	hacking/python/fix-ssl.md	1	 # python fix SSL errors
+20221003150948	hacking/python/fix-ssl.md	3	 # python fix SSL errors ## using requests library
+20221003150947	hacking/python/fix-ssl.md	6	 # python fix SSL errors ## using requests library ### ignore errors
+20221003150946	hacking/python/python-quick-reference.md	1	 # python
+20221003150945	hacking/python/python-quick-reference.md	3	 # python ## hex to string
+20221003150944	hacking/python/python-quick-reference.md	7	 # python ## hex to bytes
+20221003150943	hacking/python/python-quick-reference.md	10	 # python ## string alphanumeric chars
+20221003150942	hacking/python/python-imports.md	1	 # python imports
+20221003150941	hacking/python/python-imports.md	2	 # python imports ## files vs loading as libraries
+20221003150940	hacking/python/python-imports.md	7	 # python imports ## library search path
+20221003150939	hacking/python/python-imports.md	25	 # python imports ## library search path ### print with python command
+20221003150938	hacking/priv-esc/searchsploit-privesc-queries.md	1	 # searchploit linux kernel exploit privilege escalation
+20221003150937	hacking/priv-esc/fail2ban.md	1	 # fail2ban
+20221003150936	hacking/priv-esc/fail2ban.md	5	 # fail2ban ## default config location
+20221003150935	hacking/priv-esc/fail2ban.md	8	 # fail2ban ## writable conf RCE
+20221003150934	hacking/priv-esc/windows-run-dll.md	1	 # run DLL payload in windows
+20221003150933	hacking/priv-esc/lxd/lxd-priv-esc.md	1	 # lxd priv esc without painful build problems
+20221003150932	hacking/priv-esc/lxd/lxd-priv-esc.md	4	 # lxd priv esc without painful build problems ## lxd priv esc x64
+20221003150931	hacking/priv-esc/lxd/lxd-priv-esc.md	8	 # lxd priv esc without painful build problems ## lxd priv esc x86
+20221003150930	hacking/priv-esc/lxd/lxd-priv-esc.md	18	 # lxd priv esc without painful build problems ## lxd priv esc victim
+20221003150929	hacking/priv-esc/c-shells-and-setuid.md	1	 # C setuid suid backdoor exploit
+20221003150928	hacking/priv-esc/c-shells-and-setuid.md	3	 # C setuid suid backdoor exploit ## program to execute shell commands with system
+20221003150927	hacking/priv-esc/c-shells-and-setuid.md	9	 # C setuid suid backdoor exploit ## write setuid bit to binary with SO shared module object
+20221003150926	hacking/priv-esc/etc-passwd-writable-line.md	1	 # /etc/passwd writable line privilege escalation exploit
+20221003150925	hacking/priv-esc/etc-passwd-writable-line.md	3	 # /etc/passwd writable line privilege escalation exploit ## write new root user line
+20221003150924	hacking/priv-esc/etc-passwd-writable-line.md	8	 # /etc/passwd writable line privilege escalation exploit ## generate password
+20221003150923	hacking/priv-esc/bsd-enumeration.md	1	 # BSD
+20221003150922	hacking/priv-esc/bsd-enumeration.md	3	 # BSD ## file transfers
+20221003150921	hacking/priv-esc/windows-dll-hijack.md	1	 # windows persistence and DLL hijacking locations
+20221003150920	hacking/priv-esc/enumeration-quick-commands.md	1	 # linux enumeration quick commands
+20221003150919	hacking/priv-esc/enumeration-quick-commands.md	3	 # linux enumeration quick commands ## list all recursively with ls sorting by modification date within directories
+20221003150918	hacking/priv-esc/enumeration-quick-commands.md	8	 # linux enumeration quick commands ## enumerate open ports if `ss` is not present
+20221003150917	hacking/priv-esc/enumeration-quick-commands.md	13	 # linux enumeration quick commands ## process tree ps
+20221003150916	hacking/priv-esc/enumeration-quick-commands.md	20	 # linux enumeration quick commands ## find setuid binaries
+20221003150915	hacking/priv-esc/enumeration-quick-commands.md	25	 # linux enumeration quick commands ## find files belonging to user
+20221003150914	hacking/priv-esc/enumeration-quick-commands.md	30	 # linux enumeration quick commands ## find files belonging to group
+20221003150913	hacking/priv-esc/enumeration-quick-commands.md	35	 # linux enumeration quick commands ## find files modified between specific dates
+20221003150912	hacking/priv-esc/enumeration-quick-commands.md	40	 # linux enumeration quick commands ## find files modified between specific dates (with reference files)
+20221003150911	hacking/priv-esc/enumeration-quick-commands.md	47	 # linux enumeration quick commands ## get all file hashes in directory using find and md5sum
+20221003150910	hacking/priv-esc/enumeration-quick-commands.md	52	 # linux enumeration quick commands ## get number of CPU processors
+20221003150909	hacking/priv-esc/enumeration-quick-commands.md	57	 # linux enumeration quick commands ## find all git repositories
+20221003150908	hacking/priv-esc/enumeration-quick-commands.md	62	 # linux enumeration quick commands ## get IP with no `ifconfig` or `ip a` on a host or within docker container
+20221003150907	hacking/priv-esc/enumeration-quick-commands.md	69	 # linux enumeration quick commands ## transfer / download files with just bash
+20221003150906	hacking/priv-esc/enumeration-quick-commands.md	70	 # linux enumeration quick commands ## transfer / download files with just bash ### receive
+20221003150905	hacking/priv-esc/enumeration-quick-commands.md	76	 # linux enumeration quick commands ## transfer / download files with just bash ### send
+20221003150904	hacking/priv-esc/enumeration-quick-commands.md	82	 # linux enumeration quick commands ## exfiltrate files bash pipe tcp
+20221003150903	hacking/priv-esc/enumeration-quick-commands.md	88	 # linux enumeration quick commands ## find files that have millisecond microsecond nanosecond times not common install
+20221003150902	hacking/priv-esc/enumeration-quick-commands.md	96	 # linux enumeration quick commands ## copy entire directory to attacker machine quickly by piping tar
+20221003150901	hacking/priv-esc/enumeration-quick-commands.md	105	 # linux enumeration quick commands ## capabilities
+20221003150900	hacking/priv-esc/enumeration-quick-commands.md	107	 # linux enumeration quick commands ## capabilities ### get capabilities of all files recursively
+20221003150899	hacking/priv-esc/enumeration-quick-commands.md	112	 # linux enumeration quick commands ## capabilities ### without getcap binary
+20221003150898	hacking/priv-esc/enumeration-quick-commands.md	118	 # linux enumeration quick commands ## capabilities ### running process effective capabilities
+20221003150897	hacking/priv-esc/enumeration-quick-commands.md	123	 # linux enumeration quick commands ## capabilities ### decode on host machine with capsh
+20221003150896	hacking/priv-esc/enumeration-quick-commands.md	128	 # linux enumeration quick commands ## list systemd timers
+20221003150895	hacking/priv-esc/enumeration-quick-commands.md	133	 # linux enumeration quick commands ## check if users can see other users' processes
+20221003150894	hacking/priv-esc/enumeration-quick-commands.md	140	 # linux enumeration quick commands ## file transfer with cat herefiles
+20221003150893	hacking/priv-esc/enumeration-quick-commands.md	147	 # get facl recursively centos / redhat
+20221003150892	hacking/priv-esc/enumeration-quick-commands.md	153	 # get all root process IDs
+20221003150891	hacking/priv-esc/netstat-command.md	1	  ## enumerate open ports if `ss` is not present
+20221003150890	hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md	1	 # Test CVE-2021-4034 in a docker
+20221003150889	hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md	3	 # Test CVE-2021-4034 in a docker ## Original exploit
+20221003150888	hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md	6	 # Test CVE-2021-4034 in a docker ## Links to deb files
+20221003150887	hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md	9	 # Test CVE-2021-4034 in a docker ## Setup
+20221003150886	hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md	15	 # Test CVE-2021-4034 in a docker ## Dockerfile
+20221003150885	hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md	33	 # Test CVE-2021-4034 in a docker ## Exploit
+20221003150884	hacking/priv-esc/relative-path-abuse.md	1	 # privilege escalation relative path abuse
+20221003150883	hacking/priv-esc/relative-path-abuse.md	3	 # privilege escalation relative path abuse ## using echo
+20221003150882	hacking/priv-esc/setuid-binary-no-write-note.md	1	 # writing to and modifying setuid binaries
+20221003150881	hacking/priv-esc/symlink.md	1	 # Create symbolic link ( got write access to files, edit perms as root )
+20221003150880	hacking/priv-esc/polkit-notes.md	1	 # polkit linpeas report on CVE-2021-3560
+20221003150879	hacking/priv-esc/dirty-cow-no-gcc.md	1	 # dirty cow privilege escalation
+20221003150878	hacking/priv-esc/dirty-cow-no-gcc.md	3	 # dirty cow privilege escalation ## working version
+20221003150877	hacking/priv-esc/dirty-cow-no-gcc.md	4	 # dirty cow privilege escalation ## working version ### build on attacker machine with statically linked binaries embedded
+20221003150876	hacking/priv-esc/sudoers.md	1	 # sudo sudoers file
+20221003150875	hacking/priv-esc/sudoers.md	3	 # sudo sudoers file ## all nopassword
+20221003150874	hacking/commands/nikto-command.md	1	 # nikto command
+20221003150873	hacking/commands/quick-servers.md	1	 # host quick server
+20221003150872	hacking/commands/quick-servers.md	3	 # host quick server ## smtp receive email server
+20221003150871	hacking/commands/john-the-ripper-crack-with-wordlist.md	1	 # john the ripper
+20221003150870	hacking/commands/john-the-ripper-crack-with-wordlist.md	2	 # john the ripper ## crack hashes from file with wordlist
+20221003150869	hacking/commands/john-the-ripper-crack-with-wordlist.md	7	 # john the ripper ## use rules to crack hashes from file with wordlist
+20221003150868	hacking/commands/john-the-ripper-crack-with-wordlist.md	12	 # john the ripper ## find all file formats supported with a 2john script or tojohn
+20221003150867	hacking/commands/john-the-ripper-crack-with-wordlist.md	14	 # john the ripper ## find all file formats supported with a 2john script or tojohn ### use sed to process / execute multiple expressions statements
+20221003150866	hacking/commands/two-factor.md	1	 # two-factor authentication 2fa
+20221003150865	hacking/commands/two-factor.md	3	 # two-factor authentication 2fa ## generate one time pins OTP
+20221003150864	hacking/commands/two-factor.md	5	 # two-factor authentication 2fa ## generate one time pins OTP ### google authenticator
+20221003150863	hacking/commands/wget-recursive-command.md	1	 # wget download FTP directory files recursively
+20221003150862	hacking/commands/ssh-commands.md	1	 # SSH arguments
+20221003150861	hacking/commands/ssh-commands.md	3	 # SSH arguments ## troubleshoot diagnose connection problems
+20221003150860	hacking/commands/ssh-commands.md	6	 # SSH arguments ## connect to old server
+20221003150859	hacking/commands/ssh-commands.md	9	 # SSH arguments ## ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm
+20221003150858	hacking/commands/ssh-commands.md	10	 # SSH arguments ## use old ssh-rsa RSA private key allow for connection
+20221003150857	hacking/commands/ssh-commands.md	15	 # ssh-keygen
+20221003150856	hacking/commands/ssh-commands.md	16	 # ssh-keygen ## generate key to file no password prompt
+20221003150855	hacking/commands/dns-commands.md	1	 # dns commands
+20221003150854	hacking/commands/dns-commands.md	3	 # dns commands ## reverse lookup with dig
+20221003150853	hacking/commands/dns-commands.md	8	 # dns commands ## zone transfer axfr
+20221003150852	hacking/commands/dns-commands.md	13	 # dns commands ## enumerate with ANY query
+20221003150851	hacking/commands/dns-commands.md	18	 # dns commands ## update / change / delete DNS records for subdomain with nsupdate
+20221003150850	hacking/commands/dns-commands.md	19	 # dns commands ## update / change / delete DNS records for subdomain with nsupdate ### 86400 seconds = one day
+20221003150849	hacking/commands/hydra-http-auth.md	1	 # hydra brute force HTTP basic authentication
+20221003150848	hacking/commands/hydra-http-auth.md	2	 # hydra brute force HTTP basic authentication ## also works for NTLM
+20221003150847	hacking/commands/gobuster.md	1	 # gobuster
+20221003150846	hacking/commands/gobuster.md	3	 # gobuster ## dirbusting
+20221003150845	hacking/commands/gobuster.md	18	 # gobuster ## scan files and discover backups
+20221003150844	hacking/commands/gobuster.md	29	 # gobuster ## Fast Scan (Small List)
+20221003150843	hacking/commands/gobuster.md	34	 # gobuster ## Fast Scan (Big List)
+20221003150842	hacking/commands/gobuster.md	39	 # gobuster ## Slow Scan (Check File Extensions)
+20221003150841	hacking/commands/gobuster.md	45	 # gobuster ## fix HTTPS cert errors
+20221003150840	hacking/commands/gobuster.md	48	 # gobuster ## vhost enumeration
+20221003150839	hacking/commands/gobuster.md	55	 # gobuster ## flags
+20221003150838	hacking/commands/nmap-vuln-scan.md	1	 # scan SMB for vulnerabilities with nmap
+20221003150837	hacking/commands/smb-mount-share.md	1	 # smb mount share
+20221003150836	hacking/commands/smb-mount-share.md	3	 # smb mount share ## unauthenticated
+20221003150835	hacking/commands/smb-mount-share.md	9	 # smb mount share ## old SMBv1 share
+20221003150834	hacking/commands/sucrack-command.md	1	 # bruteforcing su passwords with sucrack
+20221003150833	hacking/commands/responder.md	1	 # responder
+20221003150832	hacking/commands/responder.md	3	 # responder ## add ssl certificate
+20221003150831	hacking/commands/davtest-commands.md	1	 # davtest try uploading files to webDAV with or without credentials
+20221003150830	hacking/commands/database-enum-commands.md	1	 # postgres sql enumeration
+20221003150829	hacking/commands/database-enum-commands.md	4	 # postgres sql enumeration ## list
+20221003150828	hacking/commands/database-enum-commands.md	6	 # postgres sql enumeration ## list ### databases
+20221003150827	hacking/commands/database-enum-commands.md	11	 # postgres sql enumeration ## list ### tables and "relations"
+20221003150826	hacking/commands/database-enum-commands.md	17	 # postgres sql enumeration ## exit
+20221003150825	hacking/commands/database-enum-commands.md	22	 # postgres sql enumeration ## connect to database
+20221003150824	hacking/commands/database-enum-commands.md	27	 # postgres sql enumeration ## connect to database ### using file socket
+20221003150823	hacking/commands/hydra-ssh-command.md	1	 # hydra ssh brute force
+20221003150822	hacking/commands/hydra-ftp-command.md	1	 # hydra bruteforce ftp
+20221003150821	hacking/commands/hydra-ftp-command.md	3	 # hydra bruteforce ftp ## default creds
+20221003150820	hacking/commands/hydra-ftp-command.md	8	 # hydra bruteforce ftp ## rockyou 50
+20221003150819	hacking/commands/metasploit.md	1	 # metasploit msf
+20221003150818	hacking/commands/metasploit.md	3	 # metasploit msf ## run as script from rc file
+20221003150817	hacking/commands/metasploit.md	8	 # metasploit msf ## proxy exploits through burpsuite
+20221003150816	hacking/commands/metasploit.md	13	 # meterpreter msf
+20221003150815	hacking/commands/metasploit.md	15	 # meterpreter msf ## move from x86 to x64
+20221003150814	hacking/commands/metasploit.md	16	 # meterpreter msf ## migrate
+20221003150813	hacking/commands/metasploit.md	23	 # meterpreter msf ## migrate ### local exploit suggester issues
+20221003150812	hacking/commands/wfuzz-fuzzing.md	1	 # wfuzz fuzzing details
+20221003150811	hacking/commands/wfuzz-fuzzing.md	3	 # wfuzz fuzzing details ## "X-Forwarded-For" header with custom IPS
+20221003150810	hacking/commands/wfuzz-fuzzing.md	4	 # wfuzz fuzzing details ## fuzz multiple parameters
+20221003150809	hacking/commands/wfuzz-fuzzing.md	10	 # wfuzz fuzzing details ## show or hide responses containing text regex
+20221003150808	hacking/commands/wfuzz-fuzzing.md	13	 # wfuzz fuzzing details ## send to burpsuite local proxy
+20221003150807	hacking/commands/hydra-default-credentials.md	1	 # brute force default credentials
+20221003150806	hacking/commands/hydra-default-credentials.md	3	 # brute force default credentials ## mysql
+20221003150805	hacking/commands/hydra-default-credentials.md	8	 # brute force default credentials ## ssh
+20221003150804	hacking/commands/hydra-default-credentials.md	13	 # brute force default credentials ## tomcat
+20221003150803	hacking/commands/hydra-default-credentials.md	26	 # brute force default credentials ## tomcat ### wfuzz
+20221003150802	hacking/commands/hydra-default-credentials.md	30	 # brute force default credentials ## tomcat ### metasploit
+20221003150801	hacking/commands/openssl-commands.md	1	 # openssl commands
+20221003150800	hacking/commands/openssl-commands.md	3	 # openssl commands ## encrypt file
+20221003150799	hacking/commands/openssl-commands.md	8	 # openssl commands ## decrypt file
+20221003150798	hacking/commands/git.md	1	 # git
+20221003150797	hacking/commands/git.md	3	 # git ## recover orphaned commits and files and restore a directory after reset
+20221003150796	hacking/commands/generate-cewl-wordlist.md	1	 # generate cewl wordlist
+20221003150795	hacking/commands/generate-cewl-wordlist.md	3	 # generate cewl wordlist ## from website
+20221003150794	hacking/commands/generate-cewl-wordlist.md	10	 # generate cewl wordlist ## from file
+20221003150793	hacking/commands/generate-cewl-wordlist.md	12	 # generate cewl wordlist ## from file ### using temporary http server
+20221003150792	hacking/commands/generate-cewl-wordlist.md	21	 # generate cewl wordlist ## from file ### plaintext with grep
+20221003150791	hacking/commands/openssl-general.md	1	 # openssl
+20221003150790	hacking/commands/openssl-general.md	3	 # openssl ## create a key 4096 bits
+20221003150789	hacking/commands/openssl-general.md	8	 # openssl ## create certificate signing request
+20221003150788	hacking/commands/openssl-general.md	14	 # openssl ## sign a certificate signing request with the private key of a CA certificate authority
+20221003150787	hacking/commands/openssl-general.md	22	 # openssl ## convert certificate to PKCS12 format
+20221003150786	hacking/commands/enum4linux-command.md	1	 # enum4linux
+20221003150785	hacking/commands/enum4linux-command.md	3	 # enum4linux ## enumerate SMB shares and permissions
+20221003150784	hacking/commands/enum4linux-command.md	8	 # enum4linux ## Scan Host
+20221003150783	hacking/commands/enum4linux-command.md	13	 # enum4linux ## Scan Host ### Suppress Errors
+20221003150782	hacking/commands/enum4linux-command.md	18	 # enum4linux-ng next gen
+20221003150781	hacking/commands/enum4linux-command.md	20	 # enum4linux-ng next gen ## default smb enumeration
+20221003150780	hacking/commands/crowbar.md	1	 # crowbar
+20221003150779	hacking/commands/crowbar.md	3	 # crowbar ## brute force RDP
+20221003150778	hacking/commands/crowbar.md	8	 # crowbar ## brute force RDP ### active directory domain joined
+20221003150777	hacking/commands/msfvenom-commands.md	1	 # MSFVENOM
+20221003150776	hacking/commands/msfvenom-commands.md	2	 # MSFVENOM ## Windows Binary (.exe) executable
+20221003150775	hacking/commands/msfvenom-commands.md	3	 # MSFVENOM ## Windows Binary (.exe) executable ### 32 Bit (x86)
+20221003150774	hacking/commands/msfvenom-commands.md	4	 # MSFVENOM ## Windows Binary (.exe) executable ### 32 Bit (x86) #### Reverse Shell
+20221003150773	hacking/commands/msfvenom-commands.md	9	 # MSFVENOM ## Windows Binary (.exe) executable ### 32 Bit (x86) #### Bind Shell
+20221003150772	hacking/commands/msfvenom-commands.md	14	 # MSFVENOM ## Windows Binary (.exe) executable ### 32 Bit (x86) #### Bind Shell ##### Output in Hex, C Style, Exclude bad chars, Exitfunction thread
+20221003150771	hacking/commands/msfvenom-commands.md	19	 # MSFVENOM ## Windows Binary (.exe) executable ### 64 Bit (x64)
+20221003150770	hacking/commands/msfvenom-commands.md	21	 # MSFVENOM ## Windows Binary (.exe) executable ### 64 Bit (x64) #### service
+20221003150769	hacking/commands/msfvenom-commands.md	26	 # MSFVENOM ## Windows Binary (.exe) executable ### 64 Bit (x64) #### Reverse Shell
+20221003150768	hacking/commands/msfvenom-commands.md	31	 # MSFVENOM ## Windows Binary (.exe) executable ### 64 Bit (x64) #### Bind Shell
+20221003150767	hacking/commands/msfvenom-commands.md	36	 # MSFVENOM ## Windows Binary (.exe) executable ### 64 Bit (x64) #### Meterpreter
+20221003150766	hacking/commands/msfvenom-commands.md	41	 # MSFVENOM ## Linux Binary (.elf)
+20221003150765	hacking/commands/msfvenom-commands.md	42	 # MSFVENOM ## Linux Binary (.elf) ### 32 Bit (x86)
+20221003150764	hacking/commands/msfvenom-commands.md	43	 # MSFVENOM ## Linux Binary (.elf) ### 32 Bit (x86) #### Reverse Shell
+20221003150763	hacking/commands/msfvenom-commands.md	48	 # MSFVENOM ## Linux Binary (.elf) ### 32 Bit (x86) #### Bind Shell
+20221003150762	hacking/commands/msfvenom-commands.md	53	 # MSFVENOM ## Linux Binary (.elf) ### 32 Bit (x86) #### Reverse Shell
+20221003150761	hacking/commands/msfvenom-commands.md	58	 # MSFVENOM ## Linux Binary (.elf) ### 32 Bit (x86) #### Bind Shell
+20221003150760	hacking/commands/msfvenom-commands.md	63	 # MSFVENOM ## Java Server Pages (.jsp)
+20221003150759	hacking/commands/msfvenom-commands.md	68	 # MSFVENOM ## Java Server Pages (.jsp) ### As .war
+20221003150758	hacking/commands/msfvenom-commands.md	73	 # MSFVENOM ## Active Sever Pages Extended (.aspx)
+20221003150757	hacking/commands/msfvenom-commands.md	78	 # MSFVENOM ## tricks
+20221003150756	hacking/commands/msfvenom-commands.md	79	 # MSFVENOM ## tricks ### make executable binary with input shellcode
+20221003150755	hacking/commands/keytool.md	1	 # keytool
+20221003150754	hacking/commands/keytool.md	3	 # keytool ## print certificate in RSA file
+20221003150753	hacking/commands/windows-active-directory-kerberos-commands.md	1	 # kerbrute
+20221003150752	hacking/commands/windows-active-directory-kerberos-commands.md	4	 # kerbrute ## enumerate users using wordlist
+20221003150751	hacking/commands/windows-active-directory-kerberos-commands.md	9	 # kerbrute ## password spray users from user list file
+20221003150750	hacking/commands/windows-active-directory-kerberos-commands.md	14	 # crackmapexec kerberos authentication with ticket
+20221003150749	hacking/commands/windows-active-directory-kerberos-commands.md	15	 # crackmapexec kerberos authentication with ticket ## include ticket environment variable
+20221003150748	hacking/commands/windows-active-directory-kerberos-commands.md	22	 # impacket kerberos commands
+20221003150747	hacking/commands/windows-active-directory-kerberos-commands.md	24	 # impacket kerberos commands ## ticket environment variable KRB5CCNAME
+20221003150746	hacking/commands/windows-active-directory-kerberos-commands.md	29	 # impacket kerberos commands ## wmiexec
+20221003150745	hacking/commands/cracking-encrypted-files-with-john-the-ripper.md	1	 # cracking keepass database with image key 2 john
+20221003150744	hacking/commands/hydra.md	1	 # hydra brute force
+20221003150743	hacking/commands/hydra.md	3	 # hydra brute force ## HTTP Basic Authentication
+20221003150742	hacking/commands/hydra.md	8	 # hydra brute force ## HTTP Get Request
+20221003150741	hacking/commands/hydra.md	13	 # hydra brute force ## HTTP Post Request
+20221003150740	hacking/commands/hydra.md	19	 # hydra brute force ## MYSQL
+20221003150739	hacking/commands/feroxbuster-command.md	1	 # feroxbuster
+20221003150738	hacking/commands/feroxbuster-command.md	3	 # feroxbuster ## dirbusting
+20221003150737	hacking/commands/feroxbuster-command.md	13	 # feroxbuster ## dirbusting ### common with arguments
+20221003150736	hacking/commands/feroxbuster-command.md	23	 # feroxbuster ## dirbusting ### big buster
+20221003150735	hacking/commands/feroxbuster-command.md	28	 # feroxbuster ## files, backups, and extensions
+20221003150734	hacking/commands/feroxbuster-command.md	39	 # feroxbuster ## files, backups, and extensions ### fix recursion loop
+20221003150733	hacking/commands/feroxbuster-command.md	50	 # feroxbuster ## files, backups, and extensions ### backups and extensions files command
+20221003150732	hacking/commands/feroxbuster-command.md	55	 # feroxbuster ## files, backups, and extensions ### small words to filenames plus extensions ignore 403 
+20221003150731	hacking/commands/feroxbuster-command.md	61	 # feroxbuster ## files, backups, and extensions ### dynamic collection settings
+20221003150730	hacking/commands/encode-powershell-base64-windows.md	1	 # powershell
+20221003150729	hacking/commands/encode-powershell-base64-windows.md	3	 # powershell ## encode commands as base64 with windows wide char strings in linux
+20221003150728	hacking/commands/encode-powershell-base64-windows.md	13	 # powershell ## base64 encode equivalent within ps
+20221003150727	hacking/commands/ssh-escape-rbash-set-terminal.md	1	 # ssh escape rbash set terminal
+20221003150726	hacking/commands/openssl-view-information-about-cert.md	1	 # openssl view information about certificate request
+20221003150725	hacking/commands/openssl-view-information-about-cert.md	7	 # openssl and ssh view public key of a private key
+20221003150724	hacking/commands/openssl-view-information-about-cert.md	13	 # openssl pfx p12 file PKCS12
+20221003150723	hacking/commands/openssl-view-information-about-cert.md	15	 # openssl pfx p12 file PKCS12 ## view information about certificate
+20221003150722	hacking/commands/openssl-view-information-about-cert.md	20	 # openssl pfx p12 file PKCS12 ## public key fingerprint
+20221003150721	hacking/commands/openssl-view-information-about-cert.md	25	 # openssl pfx p12 file PKCS12 ## export pfx private key
+20221003150720	hacking/commands/curl.md	1	 # curl
+20221003150719	hacking/commands/curl.md	3	 # curl ## scan ports for websites through http proxy
+20221003150718	hacking/commands/curl.md	11	 # curl ## upload a file
+20221003150717	hacking/commands/packet-capture.md	1	 # packet capture
+20221003150716	hacking/commands/packet-capture.md	3	 # packet capture ## with tcpdump
+20221003150715	hacking/commands/packet-capture.md	4	 # packet capture ## with tcpdump ### log data to pcap file
+20221003150714	hacking/commands/packet-capture.md	9	 # packet capture ## with tcpdump ### watch traffic
+20221003150713	hacking/commands/packet-capture.md	10	 # packet capture ## with tcpdump ### watch traffic #### print IP and port
+20221003150712	hacking/commands/packet-capture.md	15	 # packet capture ## with tcpdump ### watch traffic #### print packet data contents
+20221003150711	hacking/commands/packet-capture.md	20	 # packet capture ## read pcap data with tshark
+20221003150710	hacking/commands/packet-capture.md	26	 # packet capture ## capture packets with tcpdump over ssh connection and pipe directly to wireshark
+20221003150709	hacking/commands/sqlmap-commands.md	1	 # sqlmap
+20221003150708	hacking/commands/sqlmap-commands.md	3	 # sqlmap ## result output data file location
+20221003150707	hacking/commands/sqlmap-commands.md	6	 # sqlmap ## level and risk options
+20221003150706	hacking/commands/sqlmap-commands.md	10	 # sqlmap ## custom injection marker
+20221003150705	hacking/commands/sqlmap-commands.md	14	 # sqlmap ## custom injection marker ### specify exact SQL injection
+20221003150704	hacking/commands/sqlmap-commands.md	18	 # sqlmap ## search string response on site for successful injection
+20221003150703	hacking/commands/sqlmap-commands.md	21	 # sqlmap ## Test All (Default Settings)
+20221003150702	hacking/commands/sqlmap-commands.md	26	 # sqlmap ## Test All (Default Settings, High Stress)
+20221003150701	hacking/commands/sqlmap-commands.md	31	 # sqlmap ## with burp request Test All (Default Settings)
+20221003150700	hacking/commands/sqlmap-commands.md	36	 # sqlmap ## with burp request Test All (Default Settings, High Stress)
+20221003150699	hacking/commands/sqlmap-commands.md	41	 # sqlmap ## with burp request Get A Reverse Shell (MySQL)
+20221003150698	hacking/commands/snmp-enumeration-commands.md	1	 # SNMP enumeration command
+20221003150697	hacking/commands/snmp-enumeration-commands.md	3	 # SNMP enumeration command ## snmpwalk 
+20221003150696	hacking/commands/snmp-enumeration-commands.md	14	 # SNMP enumeration command ## onesixtyone
+20221003150695	hacking/commands/snmp-enumeration-commands.md	19	 # SNMP enumeration command ## enumerating / dumping interesting and categorized information
+20221003150694	hacking/commands/wpscan-command.md	1	 # wpscan
+20221003150693	hacking/commands/wpscan-command.md	3	 # wpscan ## initial
+20221003150692	hacking/commands/wpscan-command.md	4	 # wpscan ## initial ### all plugins passive scan
+20221003150691	hacking/commands/wpscan-command.md	5	 # wpscan ## initial ### vulnerable themes
+20221003150690	hacking/commands/wpscan-command.md	6	 # wpscan ## initial ### config backups
+20221003150689	hacking/commands/wpscan-command.md	7	 # wpscan ## initial ### database exports
+20221003150688	hacking/commands/wpscan-command.md	8	 # wpscan ## initial ### enumerate user id range
+20221003150687	hacking/commands/wpscan-command.md	13	 # wpscan ## initial ### aggressive plugins-detection
+20221003150686	hacking/commands/wpscan-command.md	18	 # wpscan ## brute force users file and password list
+20221003150685	hacking/commands/encoding-commands.md	1	 # decode hex on command line
+20221003150684	hacking/commands/encoding-commands.md	6	 # encode string as base64 url encoded
+20221003150683	hacking/commands/web-enumeration-commands.md	1	 # web enumeration quick commands
+20221003150682	hacking/commands/web-enumeration-commands.md	3	 # web enumeration quick commands ## forms
+20221003150681	hacking/commands/tftp-reference.md	1	 # tftp
+20221003150680	hacking/commands/tftp-reference.md	3	 # tftp ## upload file
+20221003150679	hacking/commands/tftp-reference.md	13	 # tftp ## start daemon (folder /var/tftp)
+20221003150678	hacking/commands/tftp-reference.md	18	 # tftp ## transfer Files
+20221003150677	hacking/commands/bloodhound.md	1	 # bloodhound
+20221003150676	hacking/commands/bloodhound.md	3	 # bloodhound ## run python version in docker
+20221003150675	hacking/commands/bloodhound.md	20	 # bloodhound ## run python version in docker ### with NTLM hashes instead of creds
+20221003150674	hacking/commands/bloodhound.md	25	 # bloodhound ## stealthy collection method
+20221003150673	hacking/commands/crackmapexec-commands.md	1	 # crackmapexec cme commands
+20221003150672	hacking/commands/crackmapexec-commands.md	5	 # crackmapexec cme commands ## RID brute force
+20221003150671	hacking/commands/crackmapexec-commands.md	10	 # crackmapexec cme commands ## test password username arguments or files
+20221003150670	hacking/commands/crackmapexec-commands.md	11	 # crackmapexec cme commands ## bruteforce SMB
+20221003150669	hacking/commands/crackmapexec-commands.md	17	 # crackmapexec cme commands ## test combine valid user and password combinations
+20221003150668	hacking/commands/crackmapexec-commands.md	28	 # crackmapexec cme commands ## enumerate shares accessable by user
+20221003150667	hacking/commands/crackmapexec-commands.md	33	 # crackmapexec cme commands ## enumerate acccess to files as json report
+20221003150666	hacking/commands/hydra-http-post-form.md	1	 # hydra brute force HTTP post form
+20221003150665	hacking/commands/nfs.md	1	 # NFS
+20221003150664	hacking/commands/nfs.md	3	 # NFS ## Show mountable drives
+20221003150663	hacking/commands/nfs.md	8	 # NFS ## Mount Drive
+20221003150662	hacking/commands/binary-data-analysis.md	1	 # data analysis commands
+20221003150661	hacking/commands/binary-data-analysis.md	3	 # data analysis commands ## dd copy from offset
+20221003150660	hacking/commands/binary-data-analysis.md	10	 # data analysis commands ## binwalk find and extract LZMA zip streams quickly
+20221003150659	hacking/commands/wfuzz-commands.md	1	 # wfuzz
+20221003150658	hacking/commands/wfuzz-commands.md	3	 # wfuzz ## dirbusting
+20221003150657	hacking/commands/wfuzz-commands.md	11	 # wfuzz ## dirbusting really really large directories wordlist
+20221003150656	hacking/commands/wfuzz-commands.md	17	 # wfuzz ## recursive path discovery depth
+20221003150655	hacking/commands/wfuzz-commands.md	20	 # wfuzz ## fuzzing subdomains
+20221003150654	hacking/commands/wfuzz-commands.md	25	 # wfuzz ## fuzzing parameter names
+20221003150653	hacking/commands/wfuzz-commands.md	31	 # wfuzz ## authenticated fuzzing parameter names
+20221003150652	hacking/commands/wfuzz-commands.md	37	 # wfuzz ## host header pollution
+20221003150651	hacking/commands/kubernetes.md	1	 # kubernetes
+20221003150650	hacking/commands/kubernetes.md	3	 # kubernetes ## kubectl
+20221003150649	hacking/commands/kubernetes.md	5	 # kubernetes ## kubectl ### enumerate permissions
+20221003150648	hacking/commands/nmap-command.md	1	 # nmap
+20221003150647	hacking/commands/nmap-command.md	3	 # nmap ## flags
+20221003150646	hacking/commands/nmap-command.md	12	 # nmap ## flags ### extra fast options
+20221003150645	hacking/commands/nmap-command.md	13	 # nmap ## flags ### increase speed
+20221003150644	hacking/commands/nmap-command.md	18	 # nmap ## all ports command
+20221003150643	hacking/commands/nmap-command.md	23	 # nmap ## all ports command ### quick
+20221003150642	hacking/commands/nmap-command.md	28	 # nmap ## common ports command
+20221003150641	hacking/commands/nmap-command.md	33	 # nmap ## over proxychains using socks proxy
+20221003150640	hacking/commands/nmap-command.md	38	 # nmap ## run "all" enumeration and scripts
+20221003150639	hacking/commands/nmap-command.md	43	 # nmap ## bruteforce HTTP authentication (including NTLM)
+20221003150638	hacking/commands/nmap-command.md	48	 # nmap ## check for mountable NFS shares
+20221003150637	hacking/commands/nmap-command.md	49	 # nmap ## check for mountable NFS shares ### test access
+20221003150636	hacking/commands/nmap-command.md	54	 # nmap ## run all service enumeration on a port
+20221003150635	hacking/commands/smbmap.md	1	 # smbmap
+20221003150634	hacking/commands/smbmap.md	3	 # smbmap ## default enumeration
+20221003150633	hacking/commands/smbmap.md	4	 # smbmap ## default enumeration ### as guest
+20221003150632	hacking/commands/list-dpkg-packages-installed-date.md	1	 # list dpkg packages installed on a certain date
+20221003150631	hacking/commands/tcpdump-listen-for-pings.md	1	 # listen for pings with tcpdump
+20221003150630	hacking/commands/ldap.md	1	 # LDAP enumeration
+20221003150629	hacking/commands/ldap.md	3	 # LDAP enumeration ## anonymous
+20221003150628	hacking/commands/ldap.md	5	 # LDAP enumeration ## anonymous ### nmap scripts
+20221003150627	hacking/commands/ldap.md	12	 # LDAP enumeration ## anonymous ### python
+20221003150626	hacking/commands/ldap.md	23	 # LDAP enumeration ## anonymous ### python #### dump all object data
+20221003150625	hacking/commands/ldap.md	28	 # LDAP enumeration ## authenticated
+20221003150624	hacking/commands/ldap.md	30	 # LDAP enumeration ## authenticated ### ldapdomaindump tool
+20221003150623	hacking/commands/pureftp-commands.md	1	  ## PureFTP
+20221003150622	hacking/commands/pureftp-commands.md	2	  ## PureFTP ### Install
+20221003150621	hacking/commands/pureftp-commands.md	8	  ## PureFTP ### Create setupftp.sh Execute The Script
+20221003150620	hacking/commands/pureftp-commands.md	25	  ## PureFTP ### Get Service Ready
+20221003150619	hacking/commands/pureftp-commands.md	26	  ## PureFTP ### Reset Password
+20221003150618	hacking/commands/pureftp-commands.md	32	  ## PureFTP ### Commit Changes
+20221003150617	hacking/commands/pureftp-commands.md	38	  ## PureFTP ### Restart Service
+20221003150616	hacking/commands/pureftp-commands.md	44	  ## PureFTP ### Create FTP Script (On Victim)
+20221003150615	hacking/commands/pureftp-commands.md	55	  ## PureFTP ### Execute Script (on Victim)
+20221003150614	hacking/commands/smbclient-commands.md	1	 # smbclient shell
+20221003150613	hacking/commands/smbclient-commands.md	2	 # smbclient shell ## recursive list directory
+20221003150612	hacking/commands/smbclient-commands.md	8	 # smbclient shell ## recursive get all files
+20221003150611	hacking/commands/smbclient-commands.md	18	 # smbclient
+20221003150610	hacking/commands/smbclient-commands.md	19	 # smbclient ## null authentication
+20221003150609	hacking/commands/smbclient-commands.md	24	 # smbclient ## list Shares (As Guest)
+20221003150608	hacking/commands/smbclient-commands.md	29	 # smbclient ## connect to A Share (As User John)
+20221003150607	hacking/commands/smbclient-commands.md	34	 # smbclient ## download All Files From A Directory Recursively
+20221003150606	hacking/commands/smbclient-commands.md	44	 # smbclient ## alternate File Streams
+20221003150605	hacking/commands/smbclient-commands.md	51	 # smbclient ## download Stream By Name (:SECRET)
+20221003150604	hacking/commands/pivot-tunnel-through-chisel.md	1	 # tunneling through chisel - socks
+20221003150603	hacking/commands/pivot-tunnel-through-chisel.md	3	 # tunneling through chisel - socks ## Attacker
+20221003150602	hacking/commands/pivot-tunnel-through-chisel.md	7	 # tunneling through chisel - socks ## Target
+20221003150601	hacking/commands/pivot-tunnel-through-chisel.md	11	 # tunneling through chisel - socks ## Forward specific port
+20221003150600	hacking/commands/impacket-commands.md	1	 # impacket
+20221003150599	hacking/commands/impacket-commands.md	3	 # impacket ## psexec get remote shell over SMB with administrator account
+20221003150598	hacking/commands/impacket-commands.md	8	 # impacket ## ASREP roast with Get-NPUsers
+20221003150597	hacking/commands/impacket-commands.md	14	 # impacket ## kerberoast with impacket-GetUserSPNs
+20221003150596	hacking/commands/impacket-commands.md	19	 # impacket ## quick smb server
+20221003150595	hacking/commands/impacket-commands.md	26	 # impacket ## dump registry and NTDS secrets from files with secretsdump
+20221003150594	hacking/commands/enumeration-util.md	1	 # generating enumeration wordlists
+20221003150593	hacking/commands/enumeration-util.md	3	 # generating enumeration wordlists ## exfiltrated passwd usernames to ssh key id_rsa fuzz list
+20221003150592	hacking/php/PHP-quick-command-reference.md	1	 # php
+20221003150591	hacking/php/PHP-quick-command-reference.md	3	 # php ## run as interactive shell
+20221003150590	hacking/php/PHP-quick-command-reference.md	8	 # php code
+20221003150589	hacking/php/PHP-quick-command-reference.md	10	 # php code ## return directory as array
+20221003150588	hacking/php/PHP-quick-command-reference.md	16	 # php code ## read file
+20221003150587	hacking/php/PHP-quick-command-reference.md	22	 # php code ## write to file
+20221003150586	hacking/php/PHP-quick-command-reference.md	32	 # php code ## write to file ### easy file write
+20221003150585	hacking/php/PHP-quick-command-reference.md	37	 # php code ## embed file or multiline string as heredoc variable
+20221003150584	hacking/php/PHP-quick-command-reference.md	44	 # php code ## convert human readable time to unix epoch timestamp
+20221003150583	hacking/php/PHP-quick-command-reference.md	45	 # php code ## convert human readable time to unix epoch timestamp ### apache HTTP Date header
+20221003150582	hacking/php/lfi.md	1	 # php LFI
+20221003150581	hacking/php/lfi.md	3	 # php LFI ## include PHP filter URL
+20221003150580	hacking/php/lfi.md	6	 # php LFI ## include PHP filter URL ### base 64 encode
+20221003150579	hacking/php/lfi.md	12	 # php LFI ## include PHP filter URL ### no encoding
+20221003150578	hacking/php/lfi.md	18	 # php LFI ## filename extension nullbyte tecnhique - below php 5.3
+20221003150577	hacking/php/PHP-credential-harvesting-write-file.md	1	 # php quick client phishing attack credential harvesting
+20221003150576	hacking/php/type-juggling.md	1	 # php type juggling
+20221003150575	hacking/php/type-juggling.md	3	 # php type juggling ## methodology
+20221003150574	hacking/php/type-juggling.md	4	 # php type juggling ## methodology ### http post data
+20221003150573	hacking/php/type-juggling.md	9	 # php type juggling ## string and number exponent type confusion
+20221003150572	hacking/php/type-juggling.md	10	 # php type juggling ## string and number exponent type confusion ### vulnerable hash prefix `0e` md5 sha1
+20221003150571	hacking/php/deserialization-attacks.md	1	 # PHP unserialize payload gadget chains
+20221003150570	hacking/php/deserialization-attacks.md	2	 # PHP unserialize payload gadget chains ## like ysoserial but for PHP
+20221003150569	hacking/common-commands.md	4	 # Powershell File Transfer As Cmd.exe Command
+20221003150568	hacking/common-commands.md	9	 # SMB List Drives (Execute on Victim)
+20221003150567	hacking/common-commands.md	14	 # SMB Copy Files (Execute on Victim)
+20221003150566	hacking/common-commands.md	19	 # Netcat Receiving file
+20221003150565	hacking/common-commands.md	24	 # Netcat Sending file
+20221003150564	hacking/common-commands.md	29	 # python upgrade shell (TTY Shell)
+20221003150563	hacking/common-commands.md	34	 # Bash Reverse Shell
+20221003150562	hacking/common-commands.md	39	 # Python Reverse Shell As Command 
+20221003150561	hacking/common-commands.md	44	 # Python Reverse Shell Code 
+20221003150560	hacking/common-commands.md	54	 # Kali Default PHP Reverse Shell
+20221003150559	hacking/common-commands.md	59	 # Kali Default PHP CMD Shell
+20221003150558	hacking/common-commands.md	64	 # coyote PHP command shell
+20221003150557	hacking/common-commands.md	70	 # WhiteWinterWolf Webshell
+20221003150556	hacking/common-commands.md	73	 # Active Sever Pages Extended (.aspx) Transfer A File (Certutil)
+20221003150555	hacking/common-commands.md	83	 # Active Sever Pages Extended (.aspx) Execute a File
+20221003150554	hacking/common-commands.md	93	 # Perl Reverse Shell
+20221003150553	hacking/common-commands.md	98	 # PhpmyAdmin write shell
+20221003150552	hacking/common-commands.md	99	 # PhpmyAdmin write shell ## Windows
+20221003150551	hacking/common-commands.md	105	 # linux
+20221003150550	hacking/common-commands.md	111	 # Sub domain Enum
+20221003150549	hacking/common-commands.md	120	 # URL CRAWL/ Discovery waybackurls
+20221003150548	hacking/pwn/basic-win-pwn.md	1	 # simple binary exploits
+20221003150547	hacking/pwn/basic-win-pwn.md	3	 # simple binary exploits ## jmp esp instruction FF E4
+20221003150546	hacking/pwn/basic-win-pwn.md	10	 # simple binary exploits ## jmp esp instruction FF E4 ### find with ROPgadget
+20221003150545	hacking/pwn/basic-win-pwn.md	15	 # simple binary exploits ## pattern offset finding
+20221003150544	hacking/pwn/basic-win-pwn.md	16	 # simple binary exploits ## pattern offset finding ### create pattern with length with pattern create
+20221003150543	hacking/pwn/basic-win-pwn.md	23	 # simple binary exploits ## python exploit scripts
+20221003150542	hacking/pwn/basic-win-pwn.md	25	 # simple binary exploits ## python exploit scripts ### import pwntools
+20221003150541	hacking/pwn/basic-win-pwn.md	30	 # simple binary exploits ## python exploit scripts ### all bad characters
+20221003150540	hacking/pwn/basic-win-pwn.md	36	 # simple binary exploits ## python exploit scripts ### pwntools flat pack buffer offsets
+20221003150539	hacking/pwn/basic-win-pwn.md	45	 # simple binary exploits ## payload generation
+20221003150538	hacking/pwn/basic-win-pwn.md	47	 # simple binary exploits ## payload generation ### changing architecture
+20221003150537	hacking/pwn/basic-win-pwn.md	50	 # immunity debugger mona commands
+20221003150536	hacking/pwn/basic-win-pwn.md	52	 # immunity debugger mona commands ## list loaded modules and security flags
+20221003150535	hacking/pwn/basic-win-pwn.md	57	 # immunity debugger mona commands ## search for opcode string jmp esp
+20221003150534	hacking/pwn/basic-win-pwn.md	59	 # immunity debugger mona commands ## search for opcode string jmp esp ### in exe
+20221003150533	hacking/pwn/basic-win-pwn.md	64	 # immunity debugger mona commands ## search for opcode string jmp esp ### inside module
+20221003150532	hacking/pwn/gef-commands.md	1	 # gef gdb plugin
+20221003150531	hacking/pwn/gef-commands.md	3	 # gef gdb plugin ## rop gadget search
+20221003150530	hacking/pwn/gef-commands.md	9	 # gef gdb plugin ## buffer overflow pattern create and offset
+20221003150529	hacking/pwn/gdb-commands.md	1	 # gdb commands
+20221003150528	hacking/pwn/gdb-commands.md	3	 # gdb commands ## debug step into / follow child process
+20221003150527	hacking/pwn/msfvenom-shellcode-for-pwn.md	1	  ## Generate reverse shell shellcode payload
+20221003150526	hacking/pwn/pwn-methodology.md	1	 # pwn methodology / to try list
+20221003150525	hacking/pwn/shellcode-to-executable.md	1	 # make executable binary with input shellcode
+20221003150524	hacking/pwn/shellcode-to-executable.md	2	 # make executable binary with input shellcode ## msfvenom
+20221003150523	hacking/pwn/heap-exploit.md	1	 # heap exploit resources
+20221003150522	hacking/pwn/calling-conventions.md	1	 # calling conventions
+20221003150521	hacking/pwn/calling-conventions.md	3	 # calling conventions ## x64 linux C style
+20221003150520	hacking/pwn/calling-conventions.md	8	 # calling conventions ## x64 windows C style
+20221003150519	hacking/pwn/calling-conventions.md	14	 # calling conventions ## x64 windows C style  #### volatile registers after call
+20221003150518	hacking/pwn/sigreturn.md	1	 # pwntools sigreturn
+20221003150517	hacking/pwn/binary-analysis.md	1	 # binary analysis
+20221003150516	hacking/pwn/binary-analysis.md	3	 # binary analysis ## golang
+20221003150515	hacking/pwn/debug-terminal-setup.md	1	 # pwntools gdb debugging terminal
+20221003150514	hacking/pwn/debug-terminal-setup.md	3	 # pwntools gdb debugging terminal ## set to work in vs code:
+20221003150513	hacking/pwn/debug-terminal-setup.md	8	 # pwntools gdb debugging terminal ## tmux
+20221003150512	hacking/pwn/tricks.md	1	 # pwn commands / tricks
+20221003150511	hacking/pwn/tricks.md	3	 # pwn commands / tricks ## patchelf ld paths
+20221003150510	hacking/pwn/tricks.md	4	 # pwn commands / tricks ## patchelf ld paths ### use custom ld version and library path
+20221003150509	hacking/pwn/python-tricks.md	1	 # python pwn tricks
+20221003150508	hacking/pwn/python-tricks.md	3	 # python pwn tricks ## convert
+20221003150507	hacking/pwn/python-tricks.md	5	 # python pwn tricks ## convert ### little endian bytes
+20221003150506	hacking/pwn/python-tricks.md	7	 # python pwn tricks ## convert ### little endian bytes #### to int
+20221003150505	hacking/pwn/python-tricks.md	12	 # python pwn tricks ## convert ### little endian bytes #### to floating point
+20221003150504	hacking/pwn/python-tricks.md	19	 # python pwn tricks ## convert ### hex to int
+20221003150503	hacking/pwn/pwntools.md	1	 # pwntools
+20221003150502	hacking/pwn/pwntools.md	3	 # pwntools ## synchronizing output sending wait until receive
+20221003150501	hacking/pwn/pwntools.md	9	 # pwntools ## FmtStr automated format string exploitation
+20221003150500	hacking/exploit/shellshock-exploit.md	1	 # shellshock python2 exploit
+20221003150499	hacking/exploit/shellshock-exploit.md	4	 # shellshock python2 exploit ## reverse shell usage
+20221003150498	hacking/notes-template/notes.md	1	 # overview
+20221003150497	hacking/notes-template/notes.md	6	 # Machine Info
+20221003150496	hacking/notes-template/notes.md	7	 # Machine Info ## IP
+20221003150495	hacking/notes-template/notes.md	8	 # Machine Info ## OS Info
+20221003150494	hacking/notes-template/notes.md	9	 # Machine Info ## Hostnames
+20221003150493	hacking/notes-template/notes.md	10	 # Machine Info ## Subdomains
+20221003150492	hacking/notes-template/notes.md	11	 # Machine Info ## emails
+20221003150491	hacking/web/html.templates.md	1	 # html template
+20221003150490	hacking/web/html.templates.md	3	 # html template ## upload file
+20221003150489	hacking/web/html.templates.md	5	 # html template ## upload file ### http form POST
+20221003150488	hacking/powershell/powershell-enumeration-commands.md	1	 # active directory
+20221003150487	hacking/powershell/powershell-enumeration-commands.md	3	 # active directory ## get user account
+20221003150486	hacking/powershell/powershell-enumeration-commands.md	8	 # active directory ## get GMSA service account properties
+20221003150485	hacking/powershell/powershell-enumeration-commands.md	13	 # active directory ## get GMSA service account properties ### get GMSA password and run commands
+20221003150484	hacking/powershell/powershell-enumeration-commands.md	27	 # active directory ## get GMSA service account properties ### get GMSA password and run commands #### fix missing ConvertFrom-AdManagedPasswordBlob
+20221003150483	hacking/powershell/powershell-enumeration-commands.md	34	 # active directory ## get GMSA service account properties ### get GMSA password and run commands #### fix missing ConvertFrom-AdManagedPasswordBlob ##### TODO: add steps to install from zip
+20221003150482	hacking/powershell/powershell-enumeration-commands.md	36	 # general enumeration
+20221003150481	hacking/powershell/powershell-enumeration-commands.md	38	 # general enumeration ## get list of filepaths recursively
+20221003150480	hacking/powershell/powershell-enumeration-commands.md	43	 # general enumeration ## get processes
+20221003150479	hacking/powershell/powershell-enumeration-commands.md	48	 # general enumeration ## what commands are available
+20221003150478	hacking/powershell/powershell-enumeration-commands.md	53	 # general enumeration ## Active Directory Certificate Services
+20221003150477	hacking/powershell/powershell-enumeration-commands.md	54	 # general enumeration ## Active Directory Certificate Services ### is AD CS enabled
+20221003150476	hacking/powershell/powershell-tricks.md	1	 # powershell tricks
+20221003150475	hacking/powershell/powershell-tricks.md	3	 # powershell tricks ## run powershell commands as another user
+20221003150474	hacking/powershell/powershell-tricks.md	5	 # powershell tricks ## run powershell commands as another user ### with SecureString credential
+20221003150473	hacking/powershell/powershell-tricks.md	15	 # powershell tricks ## run powershell commands as another user ### with RunasCs
+20221003150472	hacking/powershell/powershell-tricks.md	23	 # powershell tricks ## run powershell commands as another user ### on remote machine with impersonated token
+20221003150471	hacking/powershell/powershell-tricks.md	30	 # powershell tricks ## run powershell commands as another user ### on remote machine with impersonated token #### copy and run file over session
+20221003150470	hacking/powershell/powershell-tricks.md	36	 # powershell tricks ## mount smb share as drive "letter"
+20221003150469	hacking/powershell/powershell-tricks.md	45	 # powershell tricks ## browse and edit registry
+20221003150468	hacking/powershell/powershell-tricks.md	47	 # powershell tricks ## browse and edit registry ### set registry values
+20221003150467	hacking/powershell/powershell-tricks.md	53	 # powershell tricks ## browse and edit registry ### read registry values
+20221003150466	hacking/powershell/powershell-tricks.md	59	 # powershell tricks ## convert guid to string
+20221003150465	hacking/powershell/load-xml-object-print-password-from-pscredential.md	1	 # powershell PSCredential password
+20221003150464	hacking/powershell/load-xml-object-print-password-from-pscredential.md	3	 # powershell PSCredential password ## import xml object load from file
+20221003150463	hacking/powershell/load-xml-object-print-password-from-pscredential.md	8	 # powershell PSCredential password ## print password from object
+20221003150462	hacking/misc/tomcat.md	1	 # tomcat
+20221003150461	hacking/misc/tomcat.md	3	 # tomcat ## management console admin login URL
+20221003150460	hacking/misc/tomcat.md	7	 # tomcat ## config files and credentials
+20221003150459	hacking/misc/openssl-commands-encrypt-text.md	1	 # openssl cipher commands encrypt text
+20221003150458	hacking/misc/tools-and-apt-packages.md	1	 # redis-cli
+20221003150457	hacking/misc/tools-and-apt-packages.md	4	 # GraphQLmap for GraphQL enumeration
+20221003150456	hacking/misc/tools-and-apt-packages.md	7	 # bruteforce-salted-openssl to brute force openssl encrypted files
+20221003150455	hacking/misc/tools-and-apt-packages.md	10	 # ike-scan for ike IPsec VPNs
+20221003150454	hacking/misc/tools-and-apt-packages.md	13	 # java decompiler JD-GUI
+20221003150453	hacking/misc/tools-and-apt-packages.md	14	 # java decompiler JD-GUI ## analyze
+20221003150452	hacking/misc/tools-and-apt-packages.md	15	 # java decompiler JD-GUI ## analyze ### war file
+20221003150451	hacking/misc/tools-and-apt-packages.md	16	 # java decompiler JD-GUI ## analyze ### jar file
+20221003150450	hacking/misc/tools-and-apt-packages.md	24	 # padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
+20221003150449	hacking/misc/tools-and-apt-packages.md	31	 # keepass CLI tool open and edit keepass databases
+20221003150448	hacking/misc/tools-and-apt-packages.md	36	 # poppler utils PDF parsing
+20221003150447	hacking/misc/tools-and-apt-packages.md	37	 # poppler utils PDF parsing ## pdftotext pdftohtml pdfinfo pdfimages
+20221003150446	hacking/misc/important-repositories-tools.md	1	 # linux exploit suggester
+20221003150445	hacking/misc/important-repositories-tools.md	5	 # linpeas winpeas peass-ng release downloads
+20221003150444	hacking/misc/important-repositories-tools.md	8	 # hacktricks markdown data github
+20221003150443	hacking/misc/important-repositories-tools.md	11	 # seclists github
+20221003150442	hacking/misc/important-repositories-tools.md	14	 # payloads payloadsallthethings github
+20221003150441	hacking/misc/important-repositories-tools.md	17	 # OWASP cheat sheet series
+20221003150440	hacking/misc/important-repositories-tools.md	20	 # Compiled versions of .NET Windows enumeration tools
+20221003150439	hacking/misc/important-repositories-tools.md	23	 # Scanning a system for credentials
+20221003150438	hacking/misc/important-repositories-tools.md	26	 # automated SSTI testing with tplmap
+20221003150437	hacking/misc/important-repositories-tools.md	29	 # dump git repository leaked by website
+20221003150436	hacking/misc/important-repositories-tools.md	33	 # webshells for all sorts of languages
+20221003150435	hacking/misc/important-repositories-tools.md	36	 # obfuscate powershell scripts (python)
+20221003150434	hacking/misc/important-repositories-tools.md	39	 # HTML preview report input list of HTTP(s) sites attack surface with aquatone
+20221003150433	hacking/misc/important-repositories-tools.md	42	 # generate wordlists
+20221003150432	hacking/misc/important-repositories-tools.md	43	 # generate wordlists ## namemash - simple
+20221003150431	hacking/misc/important-repositories-tools.md	47	 # generate wordlists ## username anarchy, generate from lists of names, from country and locale
+20221003150430	hacking/misc/important-repositories-tools.md	51	 # generate wordlists ## username anarchy, generate from lists of names, from country and locale ### output all formats
+20221003150429	hacking/misc/important-repositories-tools.md	57	 # generate wordlists ## username anarchy, generate from lists of names, from country and locale ### output all formats #### top 10k names from facebook
+20221003150428	hacking/misc/important-repositories-tools.md	58	 # generate wordlists ## username anarchy, generate from lists of names, from country and locale ### output all formats #### generate common usernames for country and localization 
+20221003150427	hacking/misc/important-repositories-tools.md	67	 # generate wordlists ## bopscrk people OSINT custom wordlists specific to person
+20221003150426	hacking/misc/important-repositories-tools.md	76	 # zip slip evilarc.py
+20221003150425	hacking/misc/important-repositories-tools.md	79	 # kerberos attack on windows host
+20221003150424	hacking/misc/important-repositories-tools.md	81	 # kerberos attack on windows host ## ticket attacks
+20221003150423	hacking/misc/important-repositories-tools.md	82	 # kerberos attack on windows host ## ticket attacks ### forgery
+20221003150422	hacking/misc/important-repositories-tools.md	83	 # kerberos attack on windows host ## ticket attacks ### extraction and harvesting
+20221003150421	hacking/misc/important-repositories-tools.md	84	 # kerberos attack on windows host ## Constrained delegation abuse
+20221003150420	hacking/misc/important-repositories-tools.md	86	 # finger user enum
+20221003150419	hacking/misc/important-repositories-tools.md	94	 # text cipher encryption decryption tools
+20221003150418	hacking/misc/important-repositories-tools.md	95	 # text cipher encryption decryption tools ## Affine
+20221003150417	hacking/misc/important-repositories-tools.md	96	 # text cipher encryption decryption tools ## Atbash
+20221003150416	hacking/misc/important-repositories-tools.md	97	 # text cipher encryption decryption tools ## Baconian
+20221003150415	hacking/misc/important-repositories-tools.md	98	 # text cipher encryption decryption tools ## Bifid
+20221003150414	hacking/misc/important-repositories-tools.md	99	 # text cipher encryption decryption tools ## Caesarian Shift
+20221003150413	hacking/misc/important-repositories-tools.md	100	 # text cipher encryption decryption tools ## Keyed Caesar
+20221003150412	hacking/misc/important-repositories-tools.md	101	 # text cipher encryption decryption tools ## Columnar
+20221003150411	hacking/misc/important-repositories-tools.md	102	 # text cipher encryption decryption tools ## Transposition
+20221003150410	hacking/misc/important-repositories-tools.md	103	 # text cipher encryption decryption tools ## Double Transposition
+20221003150409	hacking/misc/important-repositories-tools.md	104	 # text cipher encryption decryption tools ## Cryptogram Solver
+20221003150408	hacking/misc/important-repositories-tools.md	105	 # text cipher encryption decryption tools ## Gronsfeld
+20221003150407	hacking/misc/important-repositories-tools.md	106	 # text cipher encryption decryption tools ## Morse Code
+20221003150406	hacking/misc/important-repositories-tools.md	107	 # text cipher encryption decryption tools ## Letter Numbers
+20221003150405	hacking/misc/important-repositories-tools.md	108	 # text cipher encryption decryption tools ## One Time Pad
+20221003150404	hacking/misc/important-repositories-tools.md	109	 # text cipher encryption decryption tools ## Playfair
+20221003150403	hacking/misc/important-repositories-tools.md	110	 # text cipher encryption decryption tools ## Railfence
+20221003150402	hacking/misc/important-repositories-tools.md	111	 # text cipher encryption decryption tools ## ROT13
+20221003150401	hacking/misc/important-repositories-tools.md	112	 # text cipher encryption decryption tools ## Rotate
+20221003150400	hacking/misc/important-repositories-tools.md	113	 # text cipher encryption decryption tools ## Skip
+20221003150399	hacking/misc/important-repositories-tools.md	114	 # text cipher encryption decryption tools ## Substitution
+20221003150398	hacking/misc/important-repositories-tools.md	115	 # text cipher encryption decryption tools ## Übchi
+20221003150397	hacking/misc/important-repositories-tools.md	116	 # text cipher encryption decryption tools ## Vigenere
+20221003150396	hacking/misc/important-repositories-tools.md	117	 # text cipher encryption decryption tools ## Keyed Vigenere
+20221003150395	hacking/misc/important-repositories-tools.md	118	 # text cipher encryption decryption tools ## Vigenere Autokey
+20221003150394	hacking/misc/important-repositories-tools.md	119	 # text cipher encryption decryption tools ## Cryptogram Solver
+20221003150393	hacking/misc/important-repositories-tools.md	120	 # text cipher encryption decryption tools ## Letter Frequency
+20221003150392	hacking/misc/important-repositories-tools.md	121	 # text cipher encryption decryption tools ## Text Manipulator
+20221003150391	hacking/misc/important-repositories-tools.md	124	 # file backup fuzzer
+20221003150390	hacking/misc/important-repositories-tools.md	125	 # file backup fuzzer ## generate wordlists from filenames
+20221003150389	hacking/misc/important-repositories-tools.md	128	 # krbrelayx
+20221003150388	hacking/misc/important-repositories-tools.md	129	 # krbrelayx ## Kerberos relaying and unconstrained delegation abuse toolkit
+20221003150387	hacking/misc/important-repositories-tools.md	130	 # krbrelayx ## addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP.
+20221003150386	hacking/misc/important-repositories-tools.md	131	 # krbrelayx ## dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP.
+20221003150385	hacking/misc/important-repositories-tools.md	132	 # krbrelayx ## printerbug.py Simple tool to trigger SpoolService bug via RPC backconnect. Similar to dementor.py
+20221003150384	hacking/misc/important-repositories-tools.md	134	 # krbrelayx ## krbrelayx.py Kerberos relaying and Unconstrained delegation abuse
+20221003150383	hacking/misc/important-repositories-tools.md	138	 # threatcheck help obfuscate windows executable strings
+20221003150382	hacking/misc/important-repositories-tools.md	139	 # threatcheck help obfuscate windows executable strings ## evade windows antivirus detection (defender)
+20221003150381	hacking/misc/important-repositories-tools.md	140	 # threatcheck help obfuscate windows executable strings ## evade windows antivirus detection (defender) ### identify and pinpoints that exact bytes that the target antivirus engine will flag on
+20221003150380	hacking/misc/important-repositories-tools.md	144	 # oracle database attacking tool odat
+20221003150379	hacking/misc/important-repositories-tools.md	145	 # oracle database attacking tool odat ## enumerate users
+20221003150378	hacking/misc/important-repositories-tools.md	146	 # oracle database attacking tool odat ## escalate database account to DBA
+20221003150377	hacking/misc/important-repositories-tools.md	147	 # oracle database attacking tool odat ## execute system commands
+20221003150376	hacking/misc/important-repositories-tools.md	151	 # volatility framework
+20221003150375	hacking/misc/important-repositories-tools.md	152	 # volatility framework ## analyze dump files of volatile RAM
+20221003150374	hacking/misc/important-repositories-tools.md	153	 # volatility framework ## analyze dump files of volatile RAM ### file type "MS Windows 64bit crash dump, full dump, XXX pages"
+20221003150373	hacking/misc/important-repositories-tools.md	154	 # volatility framework ## analyze dump files of volatile RAM ### .dmp .img
+20221003150372	hacking/misc/important-repositories-tools.md	162	 # web app paths defaults db
+20221003150371	hacking/misc/important-repositories-tools.md	165	 # dump credentials from browsers
+20221003150370	hacking/misc/important-repositories-tools.md	166	 # dump credentials from browsers ## chromium
+20221003150369	hacking/misc/important-repositories-tools.md	167	 # dump credentials from browsers ## chromium ### chrome
+20221003150368	hacking/misc/important-repositories-tools.md	168	 # dump credentials from browsers ## chromium ### edge
+20221003150367	hacking/misc/important-repositories-tools.md	171	 # dump credentials from browsers ## firefox
+20221003150366	hacking/misc/important-repositories-tools.md	176	 # convert DLL to shellcode with sRDI
+20221003150365	hacking/misc/important-repositories-tools.md	181	 # windows fully interactive pty with ConPtyShell
+20221003150364	hacking/misc/important-repositories-tools.md	185	 # portable TCP port scanner
+20221003150363	hacking/misc/important-repositories-tools.md	186	 # portable TCP port scanner ## bash only
+20221003150362	hacking/misc/important-repositories-tools.md	187	 # portable TCP port scanner ## bash only ### spookyscan
+20221003150361	hacking/misc/important-repositories-tools.md	194	 # connect to minecraft server and send chat messages
+20221003150360	hacking/misc/important-repositories-tools.md	197	 # windows run commands as other user with credentials
+20221003150359	hacking/misc/important-repositories-tools.md	198	 # windows run commands as other user with credentials ## switch users on windows host with RunasCs with no WinRM remote management access
+20221003150358	hacking/misc/important-repositories-tools.md	203	 # jxplorer connect to LDAP GUI access
+20221003150357	hacking/misc/important-repositories-tools.md	206	 # create malicious ODT file payload to leak NTLMv2 hashes with badodf
+20221003150356	hacking/misc/important-repositories-tools.md	209	 # linux and windows privilege escalation mind maps OSCP
+20221003150355	hacking/misc/important-repositories-tools.md	212	 # .NET decompiler reverse engineering C# managed EXE DLL binaries
+20221003150354	hacking/misc/important-repositories-tools.md	213	 # .NET decompiler reverse engineering C# managed EXE DLL binaries ## modify rebuild and recompile .NET assemblies
+20221003150353	hacking/misc/important-repositories-tools.md	216	 # linux PAM module backdoor password build script
+20221003150352	hacking/misc/important-repositories-tools.md	242	 # fake set change system time for command
+20221003150351	hacking/misc/important-repositories-tools.md	245	 # pack windows payload in ISO to avoid MOTW
+20221003150350	hacking/misc/troubleshoot-error-messages.md	1	 # troubleshooting fix error
+20221003150349	hacking/misc/troubleshoot-error-messages.md	2	 # troubleshooting fix error ## "sign_and_send_pubkey: no mutual signature supported"
+20221003150348	hacking/misc/troubleshoot-error-messages.md	8	 # troubleshooting fix error ## ValueError: unsupported hash type MD4 python hashlib openssl conf
+20221003150347	hacking/misc/bruteforcing-tools.md	1	 # bruteforcing services
+20221003150346	hacking/misc/bruteforcing-tools.md	11	 # SSH brute force
+20221003150345	hacking/misc/bruteforcing-tools.md	13	 # SSH brute force ## command shortlist from hacktricks
+20221003150344	hacking/misc/bruteforcing-tools.md	21	 # SSH brute force ## old key exchange algorithms
+20221003150343	hacking/misc/database-cms-enum.md	1	 # wordpress
+20221003150342	hacking/misc/database-cms-enum.md	3	 # wordpress ## plugins
+20221003150341	hacking/misc/database-config-locations.md	1	 # database creds
+20221003150340	hacking/misc/ansible.md	1	 # ansible
+20221003150339	hacking/misc/ansible.md	2	 # ansible ## How does Ansible work?
+20221003150338	hacking/misc/ansible.md	20	 # ansible ## exploiting playbook
+20221003150337	hacking/misc/ansible.md	23	 # ansible ## exploiting playbook ### rev shell
+20221003150336	hacking/misc/ansible.md	31	 # ansible ## exploiting playbook ### priv esc backdoor
+20221003150335	hacking/misc/assorted-information.md	1	 # java serialization payload `rO0` base64 `AC ED 00 05` in hex
+20221003150334	hacking/misc/assorted-information.md	5	 # python pickle serialization magic bytes header signature `80 03` `80 04` `80 05` `(dp0` base64 `gASV` `gAWV`
+20221003150333	hacking/misc/assorted-information.md	17	 # blank LM hash hex `AAD3B`
+20221003150332	hacking/misc/assorted-information.md	21	 # default openssl message digest
+20221003150331	hacking/misc/assorted-information.md	24	 # log4j log4shell
+20221003150330	hacking/misc/assorted-information.md	31	 # identifying type of encryption of unknown ciphertext
+20221003150329	hacking/misc/assorted-information.md	37	 # problems/issues connecting through multiple VPNs tunnels MTU
+20221003150328	hacking/misc/assorted-information.md	43	 # compile windows c++ binaries on linux
+20221003150327	hacking/misc/assorted-information.md	50	 # bloodhound sharphound fix import errors - incompatible versions
+20221003150326	hacking/misc/assorted-information.md	54	 # top tier endpoint protection AV defender
+20221003150325	hacking/misc/assorted-information.md	55	 # Microsoft Defender for Endpoint - enterprise protection
+20221003150324	hacking/misc/assorted-information.md	56	 # vmware carbon black cloud
+20221003150323	hacking/misc/assorted-information.md	57	 # crowdstrike falcon
+20221003150322	hacking/misc/assorted-information.md	60	 # cyber reason
+20221003150321	hacking/misc/assorted-information.md	63	 # arctic wolf
+20221003150320	hacking/misc/assorted-information.md	64	 # mcaffee
+20221003150319	hacking/misc/assorted-information.md	65	 # symantec
+20221003150318	hacking/misc/assorted-information.md	66	 # sophos
+20221003150317	hacking/misc/assorted-information.md	67	 # malwarebytes
+20221003150316	hacking/misc/assorted-information.md	70	 # fastapi uvicorn put python webshells
+20221003150315	hacking/misc/assorted-information.md	71	 # python uvicorn `--reload` flag
+20221003150314	hacking/misc/assorted-information.md	74	 # default http config locations
+20221003150313	hacking/misc/assorted-information.md	76	 # default http config locations ## FreeBSD
+20221003150312	hacking/misc/assorted-information.md	79	 # SMB
+20221003150311	hacking/misc/assorted-information.md	80	 # SMB ## fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
+20221003150310	hacking/misc/assorted-information.md	83	 # burpsuite
+20221003150309	hacking/misc/assorted-information.md	85	 # burpsuite ## set scope to limit request catching
+20221003150308	hacking/misc/assorted-information.md	90	 # burpsuite ## add header to forwarded requests, like X-Forwarded-For
+20221003150307	hacking/misc/assorted-information.md	95	 # copy docker binary to target
+20221003150306	hacking/misc/assorted-information.md	98	 # modify date with touch timestomping
+20221003150305	hacking/misc/assorted-information.md	99	 # modify date with touch timestomping ## set destination file date the same as source file date
+20221003150304	hacking/misc/assorted-information.md	104	 # convert epoch to human readable bash
+20221003150303	hacking/misc/assorted-information.md	109	 # convert epoch to human readable bash ## signed 32 bit word Y2K
+20221003150302	hacking/misc/assorted-information.md	115	 # plus sign in ls output file ACL
+20221003150301	hacking/misc/assorted-information.md	119	 # plus sign in ls output file ACL ## reading ACLs
+20221003150300	hacking/misc/assorted-information.md	124	 # plus sign in ls output file ACL ## reading ACLs ### recursively
+20221003150299	hacking/misc/assorted-information.md	130	 # fixing golang module errors
+20221003150298	hacking/misc/assorted-information.md	132	 # fixing golang module errors ## cannot install module
+20221003150297	hacking/misc/assorted-information.md	133	 # fixing golang module errors ## go get fails
+20221003150296	hacking/misc/assorted-information.md	134	 # fixing golang module errors ## no required module provides package
+20221003150295	hacking/misc/assorted-information.md	144	 # nodejs api controller program default files
+20221003150294	hacking/misc/assorted-information.md	150	 # wireshark TLS1.2 handshake packet
+20221003150293	hacking/misc/assorted-information.md	155	 # build custom java minecraft plugin with maven
+20221003150292	hacking/misc/assorted-information.md	166	 # java jdb execute commands
+20221003150291	hacking/misc/assorted-information.md	197	 # apache 2fa default key
+20221003150290	hacking/misc/assorted-information.md	201	 # Potentially risky HTTP methods: TRACE
+20221003150289	hacking/misc/web-server-default-webroots.md	1	 # default webroots
+20221003150288	hacking/misc/web-server-default-webroots.md	3	 # default webroots ## wamp
+20221003150287	hacking/misc/web-server-default-webroots.md	6	 # default webroots ## xampp
+20221003150286	hacking/misc/web-server-default-webroots.md	9	 # default webroots ## BSD systems
+20221003150285	hacking/misc/web-server-default-webroots.md	11	 # default webroots ## BSD systems ### OpenBSD httpd
+20221003150284	hacking/misc/web-server-default-webroots.md	14	 # default webroots ## BSD systems ### FreeBSD
+20221003150283	hacking/misc/web-server-default-webroots.md	19	 # default webroots ## debian system
+20221003150282	hacking/misc/web-server-default-webroots.md	20	 # default webroots ## apache
+20221003150281	hacking/misc/file-type-reference.md	1	 # pfx extension PKCS#12 format certificate
+20221003150280	hacking/misc/file-type-reference.md	6	 # pfx extension PKCS#12 format certificate ## contents
+20221003150279	hacking/misc/file-type-reference.md	11	 # pfx extension PKCS#12 format certificate ## cracking
+20221003150278	hacking/misc/file-type-reference.md	13	 # pfx extension PKCS#12 format certificate ## cracking ### with crackpkcs12
+20221003150277	hacking/misc/file-type-reference.md	17	 # pfx extension PKCS#12 format certificate ## cracking ### with johntheripper
+20221003150276	hacking/misc/assorted-tools.md	1	 # `unshadow` convert shadow to passwd file with hashes for john
+20221003150275	hacking/misc/assorted-tools.md	4	 # firefox reverse shell toolbar hacktools
+20221003150274	hacking/misc/web-server-executable-extensions.md	1	 # web server file executable extensions
+20221003150273	hacking/misc/web-server-executable-extensions.md	3	 # web server file executable extensions ## PHP
+20221003150272	hacking/misc/web-server-executable-extensions.md	20	 # web server file executable extensions ## ASP
+20221003150271	hacking/misc/openssl-client-certificates.md	1	 # create openssl client certificates from leaked CA private key
+20221003150270	hacking/misc/buzzwords-and-acronyms.md	1	 # IPMI intelligent platform management interface
+20221003150269	hacking/misc/buzzwords-and-acronyms.md	2	 # IPMI intelligent platform management interface ## zabbix
+20221003150268	hacking/misc/buzzwords-and-acronyms.md	3	 # IPMI intelligent platform management interface ## BMC
+20221003150267	hacking/misc/buzzwords-and-acronyms.md	4	 # IPMI intelligent platform management interface ## udp port 613
+20221003150266	hacking/misc/buzzwords-and-acronyms.md	10	 # systemd-private
+20221003150265	hacking/misc/buzzwords-and-acronyms.md	14	 # block ciphers
+20221003150264	hacking/misc/buzzwords-and-acronyms.md	15	 # block ciphers ## AES DES blowfish
+20221003150263	hacking/misc/buzzwords-and-acronyms.md	16	 # block ciphers ## AES DES blowfish ### ECB CBC CFB OFB CTR cipher modes
+20221003150262	hacking/misc/buzzwords-and-acronyms.md	32	 # block ciphers ## CBC cipher cipher block chaining cipher mode of operation
+20221003150261	hacking/misc/buzzwords-and-acronyms.md	41	 # block ciphers ## ECB electronic code book cipher mode of operation
+20221003150260	hacking/misc/buzzwords-and-acronyms.md	50	 # sperl and suidperl
+20221003150259	hacking/misc/buzzwords-and-acronyms.md	53	 # firefox
+20221003150258	hacking/misc/buzzwords-and-acronyms.md	54	 # firefox ## containers addon = multiple sessions cookies in firefox web browser
+20221003150257	hacking/misc/buzzwords-and-acronyms.md	58	 # h2 database on tcp port 8082
+20221003150256	hacking/misc/buzzwords-and-acronyms.md	61	 # IPsec VPN UDP port 500 2500 strongswan
+20221003150255	hacking/misc/buzzwords-and-acronyms.md	66	 # solidity
+20221003150254	hacking/misc/buzzwords-and-acronyms.md	69	 # beacon object file BOF
+20221003150253	hacking/misc/buzzwords-and-acronyms.md	73	 # PXE boot
+20221003150252	hacking/misc/buzzwords-and-acronyms.md	76	 # httponly cookie option
+20221003150251	hacking/misc/buzzwords-and-acronyms.md	79	 # diffie-hellman key exchange
+20221003150250	hacking/misc/buzzwords-and-acronyms.md	82	 # Apache guacamole RDP VNC SSH in web browser
+20221003150249	hacking/misc/buzzwords-and-acronyms.md	86	 # Apache guacamole RDP VNC SSH in web browser ## default creds
+20221003150248	hacking/misc/buzzwords-and-acronyms.md	89	 # Azure AD connect
+20221003150247	hacking/misc/buzzwords-and-acronyms.md	95	 # enterprise PAM
+20221003150246	hacking/misc/buzzwords-and-acronyms.md	96	 # enterprise PAM ## Thycotic
+20221003150245	hacking/misc/buzzwords-and-acronyms.md	99	 # MOTW mark of the web microsoft alternate data stream file label ZoneId
+20221003150244	hacking/misc/buzzwords-and-acronyms.md	104	 # MOTW mark of the web microsoft alternate data stream file label ZoneId ## avoiding / evading
+20221003150243	hacking/misc/buzzwords-and-acronyms.md	107	 # jekyll blog markdown to html
+20221003150242	hacking/analysis/identify-service-data.md	1	 # identify service
+20221003150241	hacking/analysis/identify-service-data.md	3	 # identify service ## port 1978 data "SIN 15win nop nop 300"
+20221003150240	hacking/analysis/source-code-analysis-php.md	1	 # analyze php source code for malicious code and things that look like webshells
+20221003150239	hacking/analysis/extract-commands.md	1	 # extract command for file type
+20221003150238	hacking/analysis/extract-commands.md	3	 # extract command for file type ## deb
+20221003150237	hacking/analysis/extract-commands.md	8	 # extract command for file type ## tar.gz
+20221003150236	hacking/analysis/extract-commands.md	13	 # extract command for file type ## tar.xz
+20221003150235	hacking/analysis/extract-commands.md	19	 # extract command for file type ## xz
+20221003150234	hacking/analysis/extract-commands.md	24	 # extract command for file type ## asar
+20221003150233	hacking/analysis/extract-commands.md	32	 # extract command for file type ## apk
+20221003150232	hacking/analysis/extract-commands.md	37	 # extract command for file type ## apk ### rebuild apk
+20221003150231	hacking/analysis/apk-analysis.md	1	 # apk analysis
+20221003150230	hacking/analysis/apk-analysis.md	3	 # apk analysis ## decompile to bytecode and inspect objects
+20221003150229	hacking/analysis/apk-analysis.md	6	 # apk analysis ## emulate a phone with genymotion and virtualbox
+20221003150228	hacking/analysis/apk-analysis.md	9	 # apk analysis ## emulate a phone with genymotion and virtualbox ### configuring burpsuite on genymotion phone
+20221003150227	hacking/analysis/grep-patterns.md	1	 # grep patterns
+20221003150226	hacking/analysis/grep-patterns.md	3	 # grep patterns ## searching for IPs
+20221003150225	hacking/lan/bettercap-options.md	1	 # bettercap
+20221003150224	hacking/lan/bettercap-options.md	3	 # bettercap ## start commnad
+20221003150223	hacking/lan/bettercap-options.md	8	 # bettercap ## settings
+20221003150222	hacking/lan/change-mac-address.md	1	 # change interface mac address
+20221003150221	hardware/surface-tablet.md	1	 # surface tablet
+20221003150220	hardware/surface-tablet.md	3	 # surface tablet ## force restart
+20221003150219	hardware/msi-motherboard-error-codes.md	1	 # MSI motherboard error codes
+20221003150218	kafka/connect-confluent.md	1	 # Connecting to confluent
+20221003150217	kafka/initialize-topics.md	1	 # Initialize topics in dockers
+20221003150216	kafka/initialize-topics.md	24	 # Initialize topics in dockers ## Full example
+20221003150215	kafka/quick-and-dirty-kafkacat.md	1	 # kafkacat install
+20221003150214	kafka/quick-and-dirty-kafkacat.md	3	 # kafkacat install ## alias for kcat
+20221003150213	kafka/quick-and-dirty-kafkacat.md	12	 # kafkacat install ## APT
+20221003150212	kafka/quick-and-dirty-kafkacat.md	17	 # kafkacat install ## quick and dirty shell script using docker
+20221003150211	kafka/kafkacat-get-data-by-time.md	1	 # kafkacat get previous data in topic from epoch timestamp offset
+20221003150210	kafka/kafkacat.md	1	 # kafkacat
+20221003150209	kafka/kafkacat.md	3	 # kafkacat ## add data to topic
+20221003150208	kafka/kafkacat.md	10	 # kafkacat ## add data to topic ### include keys
+20221003150207	kafka/ksql-initialize-example.md	1	 # example docker to initialize ksql commands
+20221003150206	kafka/ksql-initialize-example.md	7	 # example docker to initialize ksql commands ## initialize.sh
+20221003150205	kafka/ksql-initialize-example.md	21	 # example docker to initialize ksql commands ## ksql.sh
+20221003150204	kafka/ksql-initialize-example.md	39	 # example docker to initialize ksql commands ## entry.sh
+20221003150203	kafka/ksql-initialize-example.md	66	 # example docker to initialize ksql commands ## Dockerfile
+20221003150202	linux/grub-fix-windows-partition.md	1	 # fix grub not showing windows partition
+20221003150201	linux/xterm-font-size.md	1	 # set xterm font size to cope with high dpi monitors
+20221003150200	linux/xterm-font-size.md	7	 # set xterm font size to cope with high dpi monitors ## refresh xterm configs
+20221003150199	linux/dpkg-info.md	1	 # dpkg list files installed with package ##apt
+20221003150198	linux/tty-notes.md	1	 # control key mappings for sh
+20221003150197	linux/iptables.md	1	 # iptables rules
+20221003150196	linux/iptables.md	3	 # iptables rules ## forward all traffic between two interfaces
+20221003150195	linux/notify-send-crontab-reminder.md	1	 # desktop notification reminders in crontab with notify-send
+20221003150194	linux/edit-bash-prompt-vi-hotkeys.md	1	 # set the bash prompt to use vi hotkeys
+20221003150193	linux/package-manager-commands.md	1	 # convert
+20221003150192	linux/package-manager-commands.md	3	 # convert ## package type to deb rpm slp lsb tgz
+20221003150191	linux/zsh-see-default-bindings.md	1	 # zsh
+20221003150190	linux/zsh-see-default-bindings.md	3	 # zsh ## see default bindings for vim command and insert modes keybinds
+20221003150189	linux/zsh-see-default-bindings.md	9	 # zsh ## arrow key based history autocomplete browse
+20221003150188	linux/zsh-see-default-bindings.md	16	 # zsh ## stuff at bottom of zshrc
+20221003150187	linux/free-up-space.md	1	 # linux free up space
+20221003150186	linux/free-up-space.md	3	 # linux free up space ## in /var/log/journal/
+20221003150185	linux/free-up-space.md	8	 # linux free up space ## in docker
+20221003150184	linux/users-groups.md	1	 # add user to group
+20221003150183	linux/users-groups.md	3	 # add user to group ## docker
+20221003150182	linux/install-alacritty.md	1	 # install alacritty 
+20221003150181	linux/install-alacritty.md	2	 # install alacritty  ## fix build errors
+20221003150180	linux/install-alacritty.md	13	 # install alacritty  ## commands
+20221003150179	linux/install-alacritty.md	19	 # install alacritty  ## config file
+20221003150178	linux/install-alacritty.md	22	 # install alacritty  ## config file ### example yaml config
+20221003150177	linux/ex-notes.md	1	 # notes
+20221003150176	linux/ex-notes.md	4	 # ex commands
+20221003150175	linux/ex-notes.md	5	 # ex commands  ### Some of these might apply to ed as well
+20221003150174	linux/less.md	1	 # less
+20221003150173	linux/less.md	3	 # less ## replay script log
+20221003150172	linux/less.md	4	 # less ## color output
+20221003150171	linux/capabilities.md	1	 # linux capabilities
+20221003150170	linux/capabilities.md	3	 # linux capabilities ## inheritance after exec
+20221003150169	linux/capabilities.md	11	 # linux capabilities ## capability set `=ep`
+20221003150168	linux/dump-process-memory.md	1	 # dump process memory
+20221003150167	linux/dump-process-memory.md	3	 # dump process memory ## with exe pseudofile ( simple )
+20221003150166	linux/dump-process-memory.md	8	 # dump process memory ## with dd ( complicated )
+20221003150165	linux/job-control.md	1	 # linux job control
+20221003150164	linux/job-control.md	3	 # linux job control ## background running process
+20221003150163	linux/job-control.md	7	 # linux job control ## send background process to foreground
+20221003150162	linux/git-settings.md	1	 # git config settings
+20221003150161	linux/git-settings.md	3	 # git config settings ## set up credential storage
+20221003150160	linux/git-settings.md	8	 # git config settings ## make merges smoother
+20221003150159	linux/force-upgrade.md	1	 # upgrade when apt is causing problems
+20221003150158	linux/force-upgrade.md	2	 # upgrade when apt is causing problems ## force fix apt dpkg upgrade
+20221003150157	linux/force-upgrade.md	7	 # upgrade when apt is causing problems ## fix error "the following signatures couldn’t be verified because the public key is not available"
+20221003150156	linux/os-pseudo-filesystem-data-commands.md	1	 # linux assorted commands
+20221003150155	linux/os-pseudo-filesystem-data-commands.md	3	 # linux assorted commands ## find disk mounting for root file system
+20221003150154	linux/cyberpunk-retro-machine-serial-terminals.md	1	 # cyberpunk retro machine project
+20221003150153	linux/cyberpunk-retro-machine-serial-terminals.md	3	 # cyberpunk retro machine project ## enable usb serial port terminal as a service
+20221003150152	linux/cyberpunk-retro-machine-serial-terminals.md	12	 # cyberpunk retro machine project ## enable usb serial port terminal as a service ### 9600 baud serial systemd service changes
+20221003150151	linux/cyberpunk-retro-machine-serial-terminals.md	23	 # cyberpunk retro machine project ## enable usb serial port terminal as a service ### restart service if terminal disconnected
+20221003150150	linux/cyberpunk-retro-machine-serial-terminals.md	28	 # cyberpunk retro machine project ## Tandy TRS-80 Model 100 terminal
+20221003150149	linux/cyberpunk-retro-machine-serial-terminals.md	31	 # cyberpunk retro machine project ## Tandy TRS-80 Model 100 terminal ### serial codes
+20221003150148	linux/cyberpunk-retro-machine-serial-terminals.md	35	 # cyberpunk retro machine project ## Tandy TRS-80 Model 100 terminal ### terminfo and TERM variable
+20221003150147	linux/cyberpunk-retro-machine-serial-terminals.md	48	 # cyberpunk retro machine project ## Tandy TRS-80 Model 100 terminal ### hacks
+20221003150146	linux/cyberpunk-retro-machine-serial-terminals.md	58	 # cyberpunk retro machine project ## Tandy TRS-80 Model 100 terminal ### hacks #### char mappings
+20221003150145	linux/cyberpunk-retro-machine-serial-terminals.md	78	 # cyberpunk retro machine project ## Tandy TRS-80 Model 100 terminal ### programs
+20221003150144	linux/cyberpunk-retro-machine-serial-terminals.md	82	 # cyberpunk retro machine project ## Tandy TRS-80 Model 100 terminal ### copying binary programs
+20221003150143	linux/proxmox.md	1	 # proxmox
+20221003150142	linux/proxmox.md	3	 # proxmox ## server layout
+20221003150141	linux/proxmox.md	8	 # proxmox ## server layout ### ISO upload location
+20221003150140	linux/utilities-packages.md	1	 # apt package
+20221003150139	linux/utilities-packages.md	2	 # apt package ## column
+20221003150138	linux/utilities-packages.md	5	 # apt package ## nc ncat netcat
+20221003150137	linux/installing-virtualbox.md	1	 # installing virtualbox
+20221003150136	linux/tar-commands.md	1	 # tar compress to zipped archive
+20221003150135	linux/assorted-notes-and-tips.md	1	 # enable horizontal scroll in less
+20221003150134	linux/assorted-notes-and-tips.md	6	 # DNS
+20221003150133	linux/assorted-notes-and-tips.md	7	 # DNS ## add nameserver to resolv.conf
+20221003150132	linux/assorted-notes-and-tips.md	13	 # find file with name matching regular expression
+20221003150131	linux/java-jdk-links.md	1	 # java download links
+20221003150130	linux/java-jdk-links.md	3	 # java download links ## jdk
+20221003150129	linux/tldr-info.md	1	 # tldr
+20221003150128	linux/tldr-info.md	3	 # tldr ## pages location
+20221003150127	linux/tldr-info.md	4	 # tldr ## pages location ### english
+20221003150126	linux/routing.md	1	 # routing using a linux box
+20221003150125	linux/routing.md	6	 # routing using a linux box ## enable ip forwarding
+20221003150124	linux/routing.md	8	 # routing using a linux box ## enable ip forwarding ### temporarily
+20221003150123	linux/routing.md	13	 # routing using a linux box ## enable ip forwarding ### permanently
+20221003150122	linux/routing.md	27	 # routing using a linux box ## add router to routes on hosts
+20221003150121	linux/routing.md	29	 # routing using a linux box ## add router to routes on hosts ### windows
+20221003150120	linux/routing.md	37	 # routing using a linux box ## iptables rules
+20221003150119	linux/routing.md	39	 # routing using a linux box ## iptables rules ### forward all traffic between two interfaces
+20221003150118	linux/numpad-ssh-putty.md	1	 # get numpad to work in ssh over putty
+20221003150117	networking/osi-model.md	1	 # OSI networking model
+20221003150116	networking/socat-proxy.md	1	 # Socat over proxy
+20221003150115	networking/port-forwarding.md	1	 # socat
+20221003150114	networking/port-forwarding.md	2	 # socat ## port forwarding with socat
+20221003150113	networking/port-forwarding.md	8	 # socat ## execute program
+20221003150112	networking/port-forwarding.md	9	 # socat ## execute program ### bind shell
+20221003150111	networking/port-forwarding.md	14	 # socat ## listen fork print to stdout
+20221003150110	networking/port-forwarding.md	19	 # tunneling through chisel
+20221003150109	networking/port-forwarding.md	22	 # tunneling through chisel ## Attacker
+20221003150108	networking/port-forwarding.md	26	 # tunneling through chisel ## Target
+20221003150107	networking/port-forwarding.md	31	 # ssh port forwarding
+20221003150106	networking/port-forwarding.md	42	 # ssh port forwarding ## dynamic ( socks )
+20221003150105	python/coding-reference.md	1	 # python scripting
+20221003150104	python/coding-reference.md	3	 # python scripting ## requests http
+20221003150103	python/coding-reference.md	5	 # python scripting ## requests http ### upload file
+20221003150102	python/coding-reference.md	19	 # python scripting ## requests http ### cookies
+20221003150101	python/coding-reference.md	25	 # python scripting ## requests http ### GET params
+20221003150100	python/coding-reference.md	34	 # python scripting ## argument variable argv
+20221003150099	python/coding-reference.md	35	 # python scripting ## format string variables
+20221003150098	scratch.md	1	 # todo
+20221003150097	scripts.md	1	 # find out which dpkg apt package installed a file
+20221003150096	shell-script-list.md	1	 # bash scripts sh
+20221003150095	shell-script-list.md	2	 # bash scripts sh ## autogenerate all languages
+20221003150094	shell-script-list.md	5	 # bash scripts sh ## nmap script types
+20221003150093	shell-script-list.md	8	 # bash scripts sh ## destroy containers and images
+20221003150092	shell-script-list.md	11	 # bash scripts sh ## get tags
+20221003150091	shell-script-list.md	14	 # bash scripts sh ## ubuntu dockerfile template
+20221003150090	shell-script-list.md	17	 # bash scripts sh ## run docker catch rev shell
+20221003150089	shell-script-list.md	20	 # bash scripts sh ## run docker catch rev shell
+20221003150088	shell-script-list.md	23	 # bash scripts sh ## get ip tmux
+20221003150087	shell-script-list.md	26	 # bash scripts sh ## getip
+20221003150086	shell-script-list.md	29	 # bash scripts sh ## java8
+20221003150085	shell-script-list.md	32	 # bash scripts sh ## named pipe to netcat
+20221003150084	shell-script-list.md	35	 # bash scripts sh ## oracle
+20221003150083	shell-script-list.md	38	 # bash scripts sh ## package it all
+20221003150082	shell-script-list.md	41	 # bash scripts sh ## setup aliases
+20221003150081	tmux/fix-box-art.md	1	 # tmux box art enable
+20221003150080	tmux/get-ctrl-h-to-work.md	1	 # ctrl H does not work as a hotkey in qterminal by default 
+20221003150079	tmux/get-data-info.md	1	 # tmux
+20221003150078	tmux/get-data-info.md	3	 # tmux ## get current pane
+20221003150077	tmux/get-data-info.md	9	 # tmux ## get current pane ### working directory
+20221003150076	tmux/swap-panes.md	1	 # swap panes
+20221003150075	tmux/copy-buffer.md	1	 # tmux
+20221003150074	tmux/copy-buffer.md	3	 # tmux ## copy to buffer from bash pipes
+20221003150073	vim/run-as-script.md	1	 # Run vim as a script on datafile, write to file `output`
+20221003150072	vim/spacevim-set-bindings.md	1	 # Set spacevim record key back to [Q]
+20221003150071	vim/edit-multiple-files.md	1	 # vim edit multiple files
+20221003150070	vim/edit-multiple-files.md	3	 # vim edit multiple files ## add args while running and converting into tabs
+20221003150069	vim/edit-multiple-files.md	4	 # vim edit multiple files ## open multiple files
+20221003150068	vim/edit-multiple-files.md	11	 # vim edit multiple files ## find and edit files recursively open in tabs
+20221003150067	vim/vim.md	1	 # vim
+20221003150066	vim/vim.md	2	 # vim ## diff
+20221003150065	vim/vim.md	7	 # neovim specific
+20221003150064	vim/vim.md	8	 # neovim specific ## diff
