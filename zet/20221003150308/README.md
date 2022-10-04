@@ -4,9 +4,8 @@
 - leave match condition field blank to add header instead of replacing one
 
 # References
-- [20221003150310](/zet/20221003150310/) burpsuite
+- [20221003150310](/zet/20221003150310/README.md) burpsuite
 - ~/kb/hacking/misc/assorted-information.md
 
 Tags:
     #assorted
-

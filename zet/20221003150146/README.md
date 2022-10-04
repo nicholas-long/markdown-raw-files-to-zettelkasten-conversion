@@ -19,9 +19,8 @@ check `man stty`, section "Output settings", it should be able to accomplish all
   - inpck enable input parity checking
 
 # References
-- [20221003150147](/zet/20221003150147/) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks
+- [20221003150147](/zet/20221003150147/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks
 - ~/kb/linux/cyberpunk-retro-machine-serial-terminals.md
 
 Tags:
     #assorted
-

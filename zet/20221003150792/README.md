@@ -6,9 +6,8 @@ grep -Eo '\w+' $FILE | awk '!(seen[$0]++)'
 ```
 
 # References
-- [20221003150794](/zet/20221003150794/) generate cewl wordlist from file
+- [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file
 - ~/kb/hacking/commands/generate-cewl-wordlist.md
 
 Tags:
     #assorted
-

@@ -5,9 +5,8 @@
   - need root to bypass SSL pinning
 
 # References
-- [20221003150969](/zet/20221003150969/) mobile apps and API testing steps for mobile app API + burpsuite
+- [20221003150969](/zet/20221003150969/README.md) mobile apps and API testing steps for mobile app API + burpsuite
 - ~/kb/hacking/methodology/mobile-apps-and-api-testing.md
 
 Tags:
     #assorted
-

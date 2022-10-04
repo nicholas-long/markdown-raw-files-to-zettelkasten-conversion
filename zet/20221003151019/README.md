@@ -3,9 +3,8 @@
 - leaks information about directories and files
 
 # References
-- [20221003151018](/zet/20221003151018/) .DS_Store file ds_store Mac OS parse scrape directory and file information
+- [20221003151018](/zet/20221003151018/README.md) .DS_Store file ds_store Mac OS parse scrape directory and file information
 - ~/kb/hacking/methodology/ds-store-file.md
 
 Tags:
     #assorted
-

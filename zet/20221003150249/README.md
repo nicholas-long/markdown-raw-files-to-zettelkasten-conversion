@@ -2,9 +2,8 @@
 guacadmin:guacadmin
 
 # References
-- [20221003150250](/zet/20221003150250/) Apache guacamole RDP VNC SSH in web browser
+- [20221003150250](/zet/20221003150250/README.md) Apache guacamole RDP VNC SSH in web browser
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
 
 Tags:
     #assorted
-

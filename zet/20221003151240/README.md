@@ -22,4 +22,3 @@ or available locally via: info '(coreutils) touch invocation'
 
 Tags:
     #assorted
-

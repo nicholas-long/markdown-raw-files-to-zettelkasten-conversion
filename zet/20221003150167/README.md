@@ -4,9 +4,8 @@ cp /proc/$1/exe /tmp/exe
 ```
 
 # References
-- [20221003150168](/zet/20221003150168/) dump process memory
+- [20221003150168](/zet/20221003150168/README.md) dump process memory
 - ~/kb/linux/dump-process-memory.md
 
 Tags:
     #assorted
-

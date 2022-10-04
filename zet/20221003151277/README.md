@@ -22,9 +22,8 @@ https://blog.robertelder.org/data-science-linux-command-line/
 - Piping Directly From A Database
 
 # References
-- [20221003151278](/zet/20221003151278/) linux data science
+- [20221003151278](/zet/20221003151278/README.md) linux data science
 - ~/kb/data-engineering-pipelines/data-science-linux-commands.md
 
 Tags:
     #assorted
-

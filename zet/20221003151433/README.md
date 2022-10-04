@@ -18,9 +18,8 @@ ARGIND == 2 {
 
 ~/kb/awk-scripting/combine-files.awk
 # References
-- [20221003151441](/zet/20221003151441/) awk scripting
+- [20221003151441](/zet/20221003151441/README.md) awk scripting
 - ~/kb/auto-awk.md
 
 Tags:
     #assorted
-

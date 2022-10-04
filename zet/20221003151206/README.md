@@ -6,9 +6,8 @@
 - 2020 : smbghost
 
 # References
-- [20221003151207](/zet/20221003151207/) windows privilege escalation
+- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 - ~/kb/hacking/to-try-lists/privesc/windows.md
 
 Tags:
     #assorted
-

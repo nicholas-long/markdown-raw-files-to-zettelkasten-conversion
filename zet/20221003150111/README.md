@@ -4,9 +4,8 @@ socat TCP-LISTEN:1234,fork stdout
 ```
 
 # References
-- [20221003150115](/zet/20221003150115/) socat
+- [20221003150115](/zet/20221003150115/README.md) socat
 - ~/kb/networking/port-forwarding.md
 
 Tags:
     #assorted
-

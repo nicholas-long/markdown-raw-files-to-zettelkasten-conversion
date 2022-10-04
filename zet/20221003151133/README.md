@@ -11,9 +11,8 @@ cat managed_password | awk '{ printf("%.2x", $1) }' > managed_password.hex
 ```
 
 # References
-- [20221003151134](/zet/20221003151134/) active directory  GMSA group managed service account
+- [20221003151134](/zet/20221003151134/README.md) active directory  GMSA group managed service account
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 
 Tags:
     #assorted
-

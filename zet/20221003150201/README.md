@@ -5,9 +5,8 @@ xterm*font:     *-fixed-*-*-*-18-*
 ```
 
 # References
-- [20221003150200](/zet/20221003150200/) set xterm font size to cope with high dpi monitors refresh xterm configs
+- [20221003150200](/zet/20221003150200/README.md) set xterm font size to cope with high dpi monitors refresh xterm configs
 - ~/kb/linux/xterm-font-size.md
 
 Tags:
     #assorted
-

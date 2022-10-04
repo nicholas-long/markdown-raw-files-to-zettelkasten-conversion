@@ -1,10 +1,9 @@
 # bash tricks
 
 # References
-- [20221003151298](/zet/20221003151298/) bash tricks run a command / program in a pty to get color output
-- [20221003151296](/zet/20221003151296/) bash tricks check if current directory is writable
+- [20221003151298](/zet/20221003151298/README.md) bash tricks run a command / program in a pty to get color output
+- [20221003151296](/zet/20221003151296/README.md) bash tricks check if current directory is writable
 - ~/kb/bash-scripting/tricks.md
 
 Tags:
     #assorted
-

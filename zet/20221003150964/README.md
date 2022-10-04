@@ -10,9 +10,8 @@
 - get fake IP or VPN - match geographic location of the person
 
 # References
-- [20221003150966](/zet/20221003150966/) OSINT
+- [20221003150966](/zet/20221003150966/README.md) OSINT
 - ~/kb/hacking/methodology/osint-overview.md
 
 Tags:
     #assorted
-

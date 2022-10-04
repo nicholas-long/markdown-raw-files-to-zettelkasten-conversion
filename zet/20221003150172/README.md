@@ -5,9 +5,8 @@ less -f -r file.log
 ```
 
 # References
-- [20221003150174](/zet/20221003150174/) less
+- [20221003150174](/zet/20221003150174/README.md) less
 - ~/kb/linux/less.md
 
 Tags:
     #assorted
-

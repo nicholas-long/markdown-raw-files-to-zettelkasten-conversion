@@ -10,4 +10,3 @@ Make sure `$TERM` is set to `xterm-256color` and the user shell is set correctly
 
 Tags:
     #assorted
-

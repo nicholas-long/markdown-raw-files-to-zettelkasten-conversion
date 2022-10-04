@@ -1,12 +1,11 @@
 # dos commands services sc
 
 # References
-- [20221003151124](/zet/20221003151124/) dos commands
-- [20221003151114](/zet/20221003151114/) dos commands services sc enable service
-- [20221003151113](/zet/20221003151113/) dos commands services sc set binary path
-- [20221003151112](/zet/20221003151112/) dos commands services sc start service
+- [20221003151124](/zet/20221003151124/README.md) dos commands
+- [20221003151114](/zet/20221003151114/README.md) dos commands services sc enable service
+- [20221003151113](/zet/20221003151113/README.md) dos commands services sc set binary path
+- [20221003151112](/zet/20221003151112/README.md) dos commands services sc start service
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 
 Tags:
     #assorted
-

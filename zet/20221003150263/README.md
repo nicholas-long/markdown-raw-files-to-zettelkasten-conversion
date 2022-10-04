@@ -15,9 +15,8 @@ the length of ciphertext encrypted with block mode is usually divisible by some 
 https://en.wikipedia.org/wiki/Block_cipher#Notable_block_ciphers
 
 # References
-- [20221003150264](/zet/20221003150264/) block ciphers AES DES blowfish
+- [20221003150264](/zet/20221003150264/README.md) block ciphers AES DES blowfish
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
 
 Tags:
     #assorted
-

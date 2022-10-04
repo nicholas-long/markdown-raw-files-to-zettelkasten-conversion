@@ -7,9 +7,8 @@ done
 ```
 
 # References
-- [20221003150720](/zet/20221003150720/) curl
+- [20221003150720](/zet/20221003150720/README.md) curl
 - ~/kb/hacking/commands/curl.md
 
 Tags:
     #assorted
-

@@ -4,9 +4,8 @@ user ALL=(ALL) NOPASSWD: ALL
 ```
 
 # References
-- [20221003150876](/zet/20221003150876/) sudo sudoers file
+- [20221003150876](/zet/20221003150876/README.md) sudo sudoers file
 - ~/kb/hacking/priv-esc/sudoers.md
 
 Tags:
     #assorted
-

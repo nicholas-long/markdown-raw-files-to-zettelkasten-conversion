@@ -6,10 +6,9 @@ cat datafile | kafkacat -b $KAFKA -P -u -t topic_name
 ```
 
 # References
-- [20221003150210](/zet/20221003150210/) kafkacat
-- [20221003150208](/zet/20221003150208/) kafkacat add data to topic include keys
+- [20221003150210](/zet/20221003150210/README.md) kafkacat
+- [20221003150208](/zet/20221003150208/README.md) kafkacat add data to topic include keys
 - ~/kb/kafka/kafkacat.md
 
 Tags:
     #assorted
-

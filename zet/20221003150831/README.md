@@ -8,4 +8,3 @@ davtest -url http://$IP/
 
 Tags:
     #assorted
-

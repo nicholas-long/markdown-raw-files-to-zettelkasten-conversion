@@ -6,9 +6,8 @@ url = f"http://{ip}/api/example"
 ```
 
 # References
-- [20221003150105](/zet/20221003150105/) python scripting
+- [20221003150105](/zet/20221003150105/README.md) python scripting
 - ~/kb/python/coding-reference.md
 
 Tags:
     #assorted
-

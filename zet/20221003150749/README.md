@@ -6,9 +6,8 @@ crackmapexec smb fqdn.domain.local -u User --kerberos
 ```
 
 # References
-- [20221003150750](/zet/20221003150750/) crackmapexec kerberos authentication with ticket
+- [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket
 - ~/kb/hacking/commands/windows-active-directory-kerberos-commands.md
 
 Tags:
     #assorted
-

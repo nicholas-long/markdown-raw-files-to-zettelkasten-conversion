@@ -1,9 +1,8 @@
 # crackmapexec kerberos authentication with ticket
 
 # References
-- [20221003150749](/zet/20221003150749/) crackmapexec kerberos authentication with ticket include ticket environment variable
+- [20221003150749](/zet/20221003150749/README.md) crackmapexec kerberos authentication with ticket include ticket environment variable
 - ~/kb/hacking/commands/windows-active-directory-kerberos-commands.md
 
 Tags:
     #assorted
-

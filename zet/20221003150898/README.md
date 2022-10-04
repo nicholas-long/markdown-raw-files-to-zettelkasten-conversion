@@ -4,9 +4,8 @@ cat /proc/*/status | awk '/CapEff/ && $2 !~ /^0*$/ { print name, pid, uid, $2 } 
 ```
 
 # References
-- [20221003150901](/zet/20221003150901/) linux enumeration quick commands capabilities
+- [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md
 
 Tags:
     #assorted
-

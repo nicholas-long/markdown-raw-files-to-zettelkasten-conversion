@@ -25,4 +25,3 @@ Transmission and reception of raw bit streams over a physical medium
 
 Tags:
     #assorted
-

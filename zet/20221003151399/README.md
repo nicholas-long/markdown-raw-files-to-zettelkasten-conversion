@@ -11,9 +11,8 @@ done | grep '^[A-Za-z0-9]*$'
 
 ~/kb/bash-scripting/find-alphanum-base64.sh
 # References
-- [20221003151424](/zet/20221003151424/) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripting
 - ~/kb/auto-bash.md
 
 Tags:
     #assorted
-

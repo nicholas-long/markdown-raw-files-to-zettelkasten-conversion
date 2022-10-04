@@ -1,13 +1,12 @@
 # MSFVENOM
 
 # References
-- [20221003150776](/zet/20221003150776/) MSFVENOM Windows Binary (.exe) executable
-- [20221003150766](/zet/20221003150766/) MSFVENOM Linux Binary (.elf)
-- [20221003150760](/zet/20221003150760/) MSFVENOM Java Server Pages (.jsp)
-- [20221003150758](/zet/20221003150758/) MSFVENOM Active Sever Pages Extended (.aspx)
-- [20221003150757](/zet/20221003150757/) MSFVENOM tricks
+- [20221003150776](/zet/20221003150776/README.md) MSFVENOM Windows Binary (.exe) executable
+- [20221003150766](/zet/20221003150766/README.md) MSFVENOM Linux Binary (.elf)
+- [20221003150760](/zet/20221003150760/README.md) MSFVENOM Java Server Pages (.jsp)
+- [20221003150758](/zet/20221003150758/README.md) MSFVENOM Active Sever Pages Extended (.aspx)
+- [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks
 - ~/kb/hacking/commands/msfvenom-commands.md
 
 Tags:
     #assorted
-

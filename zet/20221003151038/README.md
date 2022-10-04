@@ -3,9 +3,8 @@
 - create dump file
 
 # References
-- [20221003151039](/zet/20221003151039/) dumping credentials as admin
+- [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin
 - ~/kb/hacking/windows/windows-information.md
 
 Tags:
     #assorted
-

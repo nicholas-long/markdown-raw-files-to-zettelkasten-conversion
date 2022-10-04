@@ -1,9 +1,8 @@
 # host quick server
 
 # References
-- [20221003150872](/zet/20221003150872/) host quick server smtp receive email server
+- [20221003150872](/zet/20221003150872/README.md) host quick server smtp receive email server
 - ~/kb/hacking/commands/quick-servers.md
 
 Tags:
     #assorted
-

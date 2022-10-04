@@ -12,10 +12,9 @@ AdjustTokenPrivileges(hToken, FALSE, &tkp, 0, (PTOKEN_PRIVILEGES)NULL, 0);
 ```
 
 # References
-- [20221003151094](/zet/20221003151094/) windows API
-- [20221003151092](/zet/20221003151092/) windows API enable privilege API calls
+- [20221003151094](/zet/20221003151094/README.md) windows API
+- [20221003151092](/zet/20221003151092/README.md) windows API enable privilege API calls
 - ~/kb/hacking/windows/enable-privilege-api.md
 
 Tags:
     #assorted
-

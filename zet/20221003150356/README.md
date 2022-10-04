@@ -5,4 +5,3 @@ https://github.com/C0nd4/OSCP-Priv-Esc
 
 Tags:
     #assorted
-

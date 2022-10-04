@@ -1,9 +1,8 @@
 # threatcheck help obfuscate windows executable strings
 
 # References
-- [20221003150382](/zet/20221003150382/) threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender)
+- [20221003150382](/zet/20221003150382/README.md) threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender)
 - ~/kb/hacking/misc/important-repositories-tools.md
 
 Tags:
     #assorted
-

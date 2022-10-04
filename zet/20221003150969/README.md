@@ -8,9 +8,8 @@
 - see what API calls the app is making
 
 # References
-- [20221003150970](/zet/20221003150970/) mobile apps and API testing
+- [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing
 - ~/kb/hacking/methodology/mobile-apps-and-api-testing.md
 
 Tags:
     #assorted
-

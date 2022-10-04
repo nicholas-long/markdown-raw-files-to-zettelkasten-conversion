@@ -6,4 +6,3 @@ see section on ["run executable binary programs within process memory"](tricks/r
 
 Tags:
     #assorted
-

@@ -5,9 +5,8 @@ wfuzz -c -u $URL -w /usr/share/seclists/Discovery/DNS/fierce-hostlist.txt -H "Ho
 ```
 
 # References
-- [20221003150659](/zet/20221003150659/) wfuzz
+- [20221003150659](/zet/20221003150659/README.md) wfuzz
 - ~/kb/hacking/commands/wfuzz-commands.md
 
 Tags:
     #assorted
-

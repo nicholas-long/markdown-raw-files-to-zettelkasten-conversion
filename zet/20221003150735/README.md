@@ -11,13 +11,12 @@ feroxbuster --url http://$IP/ -B -g -w /usr/share/seclists/Discovery/Web-Content
 ```
 
 # References
-- [20221003150739](/zet/20221003150739/) feroxbuster
-- [20221003150734](/zet/20221003150734/) feroxbuster files, backups, and extensions fix recursion loop
-- [20221003150733](/zet/20221003150733/) feroxbuster files, backups, and extensions backups and extensions files command
-- [20221003150732](/zet/20221003150732/) feroxbuster files, backups, and extensions small words to filenames plus extensions ignore 403 
-- [20221003150731](/zet/20221003150731/) feroxbuster files, backups, and extensions dynamic collection settings
+- [20221003150739](/zet/20221003150739/README.md) feroxbuster
+- [20221003150734](/zet/20221003150734/README.md) feroxbuster files, backups, and extensions fix recursion loop
+- [20221003150733](/zet/20221003150733/README.md) feroxbuster files, backups, and extensions backups and extensions files command
+- [20221003150732](/zet/20221003150732/README.md) feroxbuster files, backups, and extensions small words to filenames plus extensions ignore 403 
+- [20221003150731](/zet/20221003150731/README.md) feroxbuster files, backups, and extensions dynamic collection settings
 - ~/kb/hacking/commands/feroxbuster-command.md
 
 Tags:
     #assorted
-

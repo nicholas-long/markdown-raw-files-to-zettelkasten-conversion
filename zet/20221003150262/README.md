@@ -8,9 +8,8 @@ crackable?
 brute forceable if used to generate a cookie
 
 # References
-- [20221003150265](/zet/20221003150265/) block ciphers
+- [20221003150265](/zet/20221003150265/README.md) block ciphers
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
 
 Tags:
     #assorted
-

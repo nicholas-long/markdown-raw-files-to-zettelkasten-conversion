@@ -9,9 +9,8 @@ powershell -nop -enc <BASE64_ENCODED_PAYLOAD>
 ```
 
 # References
-- [20221003150730](/zet/20221003150730/) powershell
+- [20221003150730](/zet/20221003150730/README.md) powershell
 - ~/kb/hacking/commands/encode-powershell-base64-windows.md
 
 Tags:
     #assorted
-

@@ -5,9 +5,8 @@ wfuzz -c -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt -
 ```
 
 # References
-- [20221003150659](/zet/20221003150659/) wfuzz
+- [20221003150659](/zet/20221003150659/README.md) wfuzz
 - ~/kb/hacking/commands/wfuzz-commands.md
 
 Tags:
     #assorted
-

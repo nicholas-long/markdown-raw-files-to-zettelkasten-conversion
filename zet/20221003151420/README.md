@@ -10,9 +10,8 @@ find "$1" -name .git -type d | awk 'BEGIN {FS = OFS = "/" } { NF--;print }'
 
 ~/kb/bash-scripting/enum-git-repos-in-directory.sh
 # References
-- [20221003151424](/zet/20221003151424/) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripting
 - ~/kb/auto-bash.md
 
 Tags:
     #assorted
-

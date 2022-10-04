@@ -1,9 +1,8 @@
 # crowbar
 
 # References
-- [20221003150779](/zet/20221003150779/) crowbar brute force RDP
+- [20221003150779](/zet/20221003150779/README.md) crowbar brute force RDP
 - ~/kb/hacking/commands/crowbar.md
 
 Tags:
     #assorted
-

@@ -4,9 +4,8 @@ sudo journalctl --vacuum-size=100M
 ```
 
 # References
-- [20221003150187](/zet/20221003150187/) linux free up space
+- [20221003150187](/zet/20221003150187/README.md) linux free up space
 - ~/kb/linux/free-up-space.md
 
 Tags:
     #assorted
-

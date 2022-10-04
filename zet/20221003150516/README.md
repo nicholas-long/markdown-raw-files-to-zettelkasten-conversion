@@ -6,9 +6,8 @@
 - `cgo` - interoperability with C, common area for bugs
 
 # References
-- [20221003150517](/zet/20221003150517/) binary analysis
+- [20221003150517](/zet/20221003150517/README.md) binary analysis
 - ~/kb/hacking/pwn/binary-analysis.md
 
 Tags:
     #assorted
-

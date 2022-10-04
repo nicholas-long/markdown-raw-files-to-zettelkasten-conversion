@@ -5,4 +5,3 @@ httponly keeps javascript from accessing / stealing the cookie
 
 Tags:
     #assorted
-

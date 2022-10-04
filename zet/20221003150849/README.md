@@ -1,9 +1,8 @@
 # hydra brute force HTTP basic authentication
 
 # References
-- [20221003150848](/zet/20221003150848/) hydra brute force HTTP basic authentication also works for NTLM
+- [20221003150848](/zet/20221003150848/README.md) hydra brute force HTTP basic authentication also works for NTLM
 - ~/kb/hacking/commands/hydra-http-auth.md
 
 Tags:
     #assorted
-

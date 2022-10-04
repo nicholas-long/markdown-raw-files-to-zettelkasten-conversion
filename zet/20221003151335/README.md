@@ -1,10 +1,9 @@
 # bash command reference
 
 # References
-- [20221003151334](/zet/20221003151334/) bash command reference get full path to file from relative path
-- [20221003151333](/zet/20221003151333/) bash command reference make temp directory
+- [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path
+- [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
 - ~/kb/bash-scripting/file-operations.md
 
 Tags:
     #assorted
-

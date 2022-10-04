@@ -67,9 +67,8 @@ text
 .
 ```
 # References
-- [20221003150176](/zet/20221003150176/) ex commands
+- [20221003150176](/zet/20221003150176/README.md) ex commands
 - ~/kb/linux/ex-notes.md
 
 Tags:
     #assorted
-

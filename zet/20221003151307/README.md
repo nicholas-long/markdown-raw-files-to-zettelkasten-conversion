@@ -9,9 +9,8 @@ send "$password"
 ```
 
 # References
-- [20221003151309](/zet/20221003151309/) expect scripts
+- [20221003151309](/zet/20221003151309/README.md) expect scripts
 - ~/kb/bash-scripting/expect.md
 
 Tags:
     #assorted
-

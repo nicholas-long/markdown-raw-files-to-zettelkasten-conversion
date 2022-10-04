@@ -1,10 +1,9 @@
 # expect scripts
 
 # References
-- [20221003151308](/zet/20221003151308/) expect scripts record
-- [20221003151307](/zet/20221003151307/) expect scripts use arguments
+- [20221003151308](/zet/20221003151308/README.md) expect scripts record
+- [20221003151307](/zet/20221003151307/README.md) expect scripts use arguments
 - ~/kb/bash-scripting/expect.md
 
 Tags:
     #assorted
-

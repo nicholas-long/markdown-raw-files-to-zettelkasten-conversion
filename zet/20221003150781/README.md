@@ -6,9 +6,8 @@ python3 enum4linux-ng.py -u guest $IP
 ```
 
 # References
-- [20221003150782](/zet/20221003150782/) enum4linux-ng next gen
+- [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen
 - ~/kb/hacking/commands/enum4linux-command.md
 
 Tags:
     #assorted
-

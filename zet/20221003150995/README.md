@@ -9,9 +9,8 @@
 - `graphql-path-enum` for finding paths A -> B (think like bloodhound)
 
 # References
-- [20221003150998](/zet/20221003150998/) GraphQL APIs
+- [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - ~/kb/hacking/methodology/API-enumeration.md
 
 Tags:
     #assorted
-

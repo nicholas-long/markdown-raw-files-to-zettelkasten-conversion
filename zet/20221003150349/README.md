@@ -5,9 +5,8 @@
 ```
 
 # References
-- [20221003150350](/zet/20221003150350/) troubleshooting fix error
+- [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
 - ~/kb/hacking/misc/troubleshoot-error-messages.md
 
 Tags:
     #assorted
-

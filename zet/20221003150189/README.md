@@ -6,9 +6,8 @@ bindkey '\e[B' history-search-forward
 ```
 
 # References
-- [20221003150191](/zet/20221003150191/) zsh
+- [20221003150191](/zet/20221003150191/README.md) zsh
 - ~/kb/linux/zsh-see-default-bindings.md
 
 Tags:
     #assorted
-

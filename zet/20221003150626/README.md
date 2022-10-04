@@ -4,9 +4,8 @@ connection.search(search_base='DC=DOMAIN,DC=LOCAL', search_filter='(&(objectClas
 ```
 
 # References
-- [20221003150627](/zet/20221003150627/) LDAP enumeration anonymous python
+- [20221003150627](/zet/20221003150627/README.md) LDAP enumeration anonymous python
 - ~/kb/hacking/commands/ldap.md
 
 Tags:
     #assorted
-

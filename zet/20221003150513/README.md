@@ -4,9 +4,8 @@ context.terminal = ['tmux', 'new-window']
 ```
 
 # References
-- [20221003150515](/zet/20221003150515/) pwntools gdb debugging terminal
+- [20221003150515](/zet/20221003150515/README.md) pwntools gdb debugging terminal
 - ~/kb/hacking/pwn/debug-terminal-setup.md
 
 Tags:
     #assorted
-

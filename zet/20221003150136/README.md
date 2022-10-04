@@ -7,4 +7,3 @@ tar -czvf archive.tar.gz dirs_files
 
 Tags:
     #assorted
-

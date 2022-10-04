@@ -83,10 +83,9 @@
   - mimikatz on machine or kiwi module in msf
 
 # References
-- [20221003151171](/zet/20221003151171/) active directory domain powershell web access
-- [20221003151170](/zet/20221003151170/) active directory domain old
+- [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access
+- [20221003151170](/zet/20221003151170/README.md) active directory domain old
 - ~/kb/hacking/to-try-lists/active-directory-domain.md
 
 Tags:
     #assorted
-

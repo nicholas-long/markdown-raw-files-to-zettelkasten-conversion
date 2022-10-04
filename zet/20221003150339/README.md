@@ -17,9 +17,8 @@ Users write playbooks with tasks and modules to define the desired state of the 
 https://spacelift.io/blog/ansible-tutorial
 
 # References
-- [20221003150340](/zet/20221003150340/) ansible
+- [20221003150340](/zet/20221003150340/README.md) ansible
 - ~/kb/hacking/misc/ansible.md
 
 Tags:
     #assorted
-

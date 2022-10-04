@@ -5,9 +5,8 @@ cd HKLM:\SYSTEM\CurrentControlSet\Services\
 ```
 
 # References
-- [20221003150469](/zet/20221003150469/) powershell tricks browse and edit registry
+- [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry
 - ~/kb/hacking/powershell/powershell-tricks.md
 
 Tags:
     #assorted
-

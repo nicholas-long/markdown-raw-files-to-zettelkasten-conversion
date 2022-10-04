@@ -14,9 +14,8 @@ curl "https://api.github.com/users/$u/repos?visibility=private" | jq -r '.[].htm
 
 ~/kb/bash-scripting/list-github-repos.sh
 # References
-- [20221003151424](/zet/20221003151424/) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripting
 - ~/kb/auto-bash.md
 
 Tags:
     #assorted
-

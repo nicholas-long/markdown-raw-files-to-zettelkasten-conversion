@@ -5,9 +5,8 @@ ll $(mount | awk '$3 == "/" {print $1}')
 ```
 
 # References
-- [20221003150156](/zet/20221003150156/) linux assorted commands
+- [20221003150156](/zet/20221003150156/README.md) linux assorted commands
 - ~/kb/linux/os-pseudo-filesystem-data-commands.md
 
 Tags:
     #assorted
-

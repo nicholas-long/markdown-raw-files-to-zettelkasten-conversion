@@ -11,4 +11,3 @@ subfinder -d "$URL"
 
 Tags:
     #assorted
-

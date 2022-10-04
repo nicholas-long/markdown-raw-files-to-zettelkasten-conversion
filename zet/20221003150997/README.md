@@ -4,9 +4,8 @@ even if introspection is off, can still do normal API recon.
 occasionally verbose error messages will leak info by suggesting mistakes in queries.
 
 # References
-- [20221003150998](/zet/20221003150998/) GraphQL APIs
+- [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - ~/kb/hacking/methodology/API-enumeration.md
 
 Tags:
     #assorted
-

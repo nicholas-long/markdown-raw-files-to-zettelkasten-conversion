@@ -8,9 +8,8 @@ iptables -t nat -A POSTROUTING -o wlan0 -j MASQUERADE
 ```
 
 # References
-- [20221003150197](/zet/20221003150197/) iptables rules
+- [20221003150197](/zet/20221003150197/README.md) iptables rules
 - ~/kb/linux/iptables.md
 
 Tags:
     #assorted
-

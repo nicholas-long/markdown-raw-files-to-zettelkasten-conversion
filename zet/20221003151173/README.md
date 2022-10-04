@@ -4,9 +4,8 @@
   - https://www.exploit-db.com/exploits/5632
 
 # References
-- [20221003151174](/zet/20221003151174/) SSH
+- [20221003151174](/zet/20221003151174/README.md) SSH
 - ~/kb/hacking/to-try-lists/SSH.md
 
 Tags:
     #assorted
-

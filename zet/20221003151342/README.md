@@ -5,9 +5,8 @@ cat managed_password | awk '{ printf("%.2x", $1) }'
 ```
 
 # References
-- [20221003151343](/zet/20221003151343/) convert decimal to hex
+- [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
 - ~/kb/awk-scripting/convert-decimal-to-hex.md
 
 Tags:
     #assorted
-

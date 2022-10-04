@@ -6,9 +6,8 @@ at the end of the query
 `INTO DUMPFILE '/var/www/html/test.php'`
 
 # References
-- [20221003150983](/zet/20221003150983/) mariadb mysql files
+- [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
 - ~/kb/hacking/methodology/sqli-manual-mysql-payloads.md
 
 Tags:
     #assorted
-

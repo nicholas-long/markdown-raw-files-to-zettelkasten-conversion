@@ -7,9 +7,8 @@
     - shortcut to open the legit executable; target for user to click
 
 # References
-- [20221003151263](/zet/20221003151263/) windows executable smartscreen protection
+- [20221003151263](/zet/20221003151263/README.md) windows executable smartscreen protection
 - ~/kb/hacking/tricks/windows-smartscreen-bypass.md
 
 Tags:
     #assorted
-

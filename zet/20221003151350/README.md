@@ -1,10 +1,9 @@
 # awk and bash scripting
 
 # References
-- [20221003151349](/zet/20221003151349/) awk and bash scripting rename or move files
-- [20221003151347](/zet/20221003151347/) awk and bash scripting partition split into files by column value
+- [20221003151349](/zet/20221003151349/README.md) awk and bash scripting rename or move files
+- [20221003151347](/zet/20221003151347/README.md) awk and bash scripting partition split into files by column value
 - ~/kb/awk-scripting/bash-awk-quick-commands.md
 
 Tags:
     #assorted
-

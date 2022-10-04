@@ -9,9 +9,8 @@ feroxbuster --url http://$IP/ -w /usr/share/seclists/Discovery/Web-Content/commo
 ```
 
 # References
-- [20221003150738](/zet/20221003150738/) feroxbuster dirbusting
+- [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting
 - ~/kb/hacking/commands/feroxbuster-command.md
 
 Tags:
     #assorted
-

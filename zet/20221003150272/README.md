@@ -18,9 +18,8 @@ cer
 shtml
 
 # References
-- [20221003150274](/zet/20221003150274/) web server file executable extensions
+- [20221003150274](/zet/20221003150274/README.md) web server file executable extensions
 - ~/kb/hacking/misc/web-server-executable-extensions.md
 
 Tags:
     #assorted
-

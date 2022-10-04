@@ -6,4 +6,3 @@ ensure version of bloodhound is compatible with ingester.
 
 Tags:
     #assorted
-

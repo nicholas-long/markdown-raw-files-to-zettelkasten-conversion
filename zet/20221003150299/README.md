@@ -1,11 +1,10 @@
 # fixing golang module errors
 
 # References
-- [20221003150298](/zet/20221003150298/) fixing golang module errors cannot install module
-- [20221003150297](/zet/20221003150297/) fixing golang module errors go get fails
-- [20221003150296](/zet/20221003150296/) fixing golang module errors no required module provides package
+- [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module
+- [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
+- [20221003150296](/zet/20221003150296/README.md) fixing golang module errors no required module provides package
 - ~/kb/hacking/misc/assorted-information.md
 
 Tags:
     #assorted
-

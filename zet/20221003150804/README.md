@@ -12,11 +12,10 @@ hydra -L /usr/share/metasploit-framework/data/wordlists/tomcat_mgr_default_users
 ```
 
 # References
-- [20221003150807](/zet/20221003150807/) brute force default credentials
-- [20221003150803](/zet/20221003150803/) brute force default credentials tomcat wfuzz
-- [20221003150802](/zet/20221003150802/) brute force default credentials tomcat metasploit
+- [20221003150807](/zet/20221003150807/README.md) brute force default credentials
+- [20221003150803](/zet/20221003150803/README.md) brute force default credentials tomcat wfuzz
+- [20221003150802](/zet/20221003150802/README.md) brute force default credentials tomcat metasploit
 - ~/kb/hacking/commands/hydra-default-credentials.md
 
 Tags:
     #assorted
-

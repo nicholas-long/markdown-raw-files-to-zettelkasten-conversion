@@ -5,9 +5,8 @@ hydra -l admin -P /usr/share/wordlists/rockyou.txt 192.168.0.1 http-post-form "/
 ```
 
 # References
-- [20221003150744](/zet/20221003150744/) hydra brute force
+- [20221003150744](/zet/20221003150744/README.md) hydra brute force
 - ~/kb/hacking/commands/hydra.md
 
 Tags:
     #assorted
-

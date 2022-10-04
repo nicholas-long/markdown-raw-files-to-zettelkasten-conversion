@@ -5,4 +5,3 @@ https://github.com/OWASP/CheatSheetSeries
 
 Tags:
     #assorted
-

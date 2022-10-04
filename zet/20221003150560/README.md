@@ -7,4 +7,3 @@ cat /usr/share/webshells/php/php-reverse-shell.php
 
 Tags:
     #assorted
-

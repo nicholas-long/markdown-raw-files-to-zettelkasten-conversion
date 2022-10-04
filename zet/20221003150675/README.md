@@ -4,9 +4,8 @@ bloodhound-python -c All -u user --hashes abcd123abcd123abcd123abcd123abcd:abcd1
 ```
 
 # References
-- [20221003150676](/zet/20221003150676/) bloodhound run python version in docker
+- [20221003150676](/zet/20221003150676/README.md) bloodhound run python version in docker
 - ~/kb/hacking/commands/bloodhound.md
 
 Tags:
     #assorted
-

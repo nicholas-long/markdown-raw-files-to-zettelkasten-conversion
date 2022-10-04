@@ -3,9 +3,8 @@
 - 2022 : pwnkit - polkit CVE
 
 # References
-- [20221003151210](/zet/20221003151210/) linux privilege escalation
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - ~/kb/hacking/to-try-lists/privesc/linux.md
 
 Tags:
     #assorted
-

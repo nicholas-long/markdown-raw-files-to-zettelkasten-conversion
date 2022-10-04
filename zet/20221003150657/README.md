@@ -5,9 +5,8 @@ wfuzz -c -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-big.txt
 ```
 
 # References
-- [20221003150659](/zet/20221003150659/) wfuzz
+- [20221003150659](/zet/20221003150659/README.md) wfuzz
 - ~/kb/hacking/commands/wfuzz-commands.md
 
 Tags:
     #assorted
-

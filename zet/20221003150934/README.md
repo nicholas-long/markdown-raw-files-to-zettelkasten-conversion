@@ -7,4 +7,3 @@ regsvr32.exe /s .\payload.dll
 
 Tags:
     #assorted
-

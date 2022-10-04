@@ -8,4 +8,3 @@ hashcat --force --stdout -a 3 '?d?d?d?d?l?l?l?l' | while read line; do echo -n $
 
 Tags:
     #assorted
-

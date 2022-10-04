@@ -7,4 +7,3 @@ In case it's disabled, the program will enable it for you.
 
 Tags:
     #assorted
-

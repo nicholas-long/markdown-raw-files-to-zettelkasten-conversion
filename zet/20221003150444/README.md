@@ -5,4 +5,3 @@ https://github.com/carlospolop/hacktricks
 
 Tags:
     #assorted
-

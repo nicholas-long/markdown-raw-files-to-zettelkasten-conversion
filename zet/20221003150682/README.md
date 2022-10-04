@@ -4,9 +4,8 @@ curl http://$IP | grep '<form'
 ```
 
 # References
-- [20221003150683](/zet/20221003150683/) web enumeration quick commands
+- [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 - ~/kb/hacking/commands/web-enumeration-commands.md
 
 Tags:
     #assorted
-

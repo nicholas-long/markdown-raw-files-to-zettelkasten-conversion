@@ -3,9 +3,8 @@
 - publish package `npm publish --registry http://localhost:4873`
 
 # References
-- [20221003151243](/zet/20221003151243/) preparing malicious package payloads node npm package
+- [20221003151243](/zet/20221003151243/README.md) preparing malicious package payloads node npm package
 - ~/kb/hacking/tricks/malicious-packages.md
 
 Tags:
     #assorted
-

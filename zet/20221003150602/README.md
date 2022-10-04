@@ -4,9 +4,8 @@
 ```
 
 # References
-- [20221003150604](/zet/20221003150604/) tunneling through chisel - socks
+- [20221003150604](/zet/20221003150604/README.md) tunneling through chisel - socks
 - ~/kb/hacking/commands/pivot-tunnel-through-chisel.md
 
 Tags:
     #assorted
-

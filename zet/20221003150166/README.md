@@ -4,9 +4,8 @@ dd if=/proc/$1/mem bs=$( getconf PAGESIZE ) iflag=skip_bytes,count_bytes skip=$(
 ```
 
 # References
-- [20221003150168](/zet/20221003150168/) dump process memory
+- [20221003150168](/zet/20221003150168/README.md) dump process memory
 - ~/kb/linux/dump-process-memory.md
 
 Tags:
     #assorted
-

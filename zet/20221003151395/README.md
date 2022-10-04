@@ -9,9 +9,8 @@ cat $HOME/.git-credentials | awk -F '[/:@]' '/github/ {print $5}'
 
 ~/kb/bash-scripting/get-github-api-key.sh
 # References
-- [20221003151424](/zet/20221003151424/) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripting
 - ~/kb/auto-bash.md
 
 Tags:
     #assorted
-

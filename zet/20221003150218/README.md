@@ -8,4 +8,3 @@ kafkacat -F kafka.config -C -t TOPIC -c 1
 
 Tags:
     #assorted
-

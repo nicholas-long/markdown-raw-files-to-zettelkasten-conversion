@@ -5,9 +5,8 @@ Tue Jan 19 03:14:08 UTC 2038
 ```
 
 # References
-- [20221003150304](/zet/20221003150304/) convert epoch to human readable bash
+- [20221003150304](/zet/20221003150304/README.md) convert epoch to human readable bash
 - ~/kb/hacking/misc/assorted-information.md
 
 Tags:
     #assorted
-

@@ -11,4 +11,3 @@ sudo ntpdate $IP
 
 Tags:
     #assorted
-

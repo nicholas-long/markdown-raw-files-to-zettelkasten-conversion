@@ -5,9 +5,8 @@ ls | awk '{ split($0,arr,"-"); system("mv " $0 " " arr[1] ".md") }'
 ```
 
 # References
-- [20221003151349](/zet/20221003151349/) awk and bash scripting rename or move files
+- [20221003151349](/zet/20221003151349/README.md) awk and bash scripting rename or move files
 - ~/kb/awk-scripting/bash-awk-quick-commands.md
 
 Tags:
     #assorted
-

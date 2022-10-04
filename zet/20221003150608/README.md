@@ -4,9 +4,8 @@ smbclient \\\\$IP\\Users -U c.smith
 ```
 
 # References
-- [20221003150611](/zet/20221003150611/) smbclient
+- [20221003150611](/zet/20221003150611/README.md) smbclient
 - ~/kb/hacking/commands/smbclient-commands.md
 
 Tags:
     #assorted
-

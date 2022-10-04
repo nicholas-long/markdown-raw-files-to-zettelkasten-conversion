@@ -31,9 +31,8 @@ find home | grep py # it's all here!
 ```
 
 # References
-- [20221003151250](/zet/20221003151250/) sending installs to target
+- [20221003151250](/zet/20221003151250/README.md) sending installs to target
 - ~/kb/hacking/tricks/install-pip-modules-on-target-as-files.md
 
 Tags:
     #assorted
-

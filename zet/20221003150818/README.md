@@ -4,9 +4,8 @@ msfconsole -r script.rc
 ```
 
 # References
-- [20221003150819](/zet/20221003150819/) metasploit msf
+- [20221003150819](/zet/20221003150819/README.md) metasploit msf
 - ~/kb/hacking/commands/metasploit.md
 
 Tags:
     #assorted
-

@@ -5,9 +5,8 @@ net.probe on
 arp.spoof on
 
 # References
-- [20221003150225](/zet/20221003150225/) bettercap
+- [20221003150225](/zet/20221003150225/README.md) bettercap
 - ~/kb/hacking/lan/bettercap-options.md
 
 Tags:
     #assorted
-

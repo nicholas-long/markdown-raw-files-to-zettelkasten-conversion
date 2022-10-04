@@ -6,9 +6,8 @@ fi
 ```
 
 # References
-- [20221003151299](/zet/20221003151299/) bash tricks
+- [20221003151299](/zet/20221003151299/README.md) bash tricks
 - ~/kb/bash-scripting/tricks.md
 
 Tags:
     #assorted
-

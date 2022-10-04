@@ -6,9 +6,8 @@ net use Z: \\127.0.0.1\c$
 ```
 
 # References
-- [20221003151064](/zet/20221003151064/) bypass UAC with administrators group
+- [20221003151064](/zet/20221003151064/README.md) bypass UAC with administrators group
 - ~/kb/hacking/windows/uacbypass/uac-bypass.md
 
 Tags:
     #assorted
-

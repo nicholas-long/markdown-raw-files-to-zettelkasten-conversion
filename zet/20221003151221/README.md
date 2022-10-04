@@ -7,4 +7,3 @@ pypykatz registry --sam SAM.old --security SECURITY.OLD --software SOFTWARE.OLD 
 
 Tags:
     #assorted
-

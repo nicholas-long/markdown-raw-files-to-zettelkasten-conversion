@@ -3,9 +3,8 @@
 - compromised CA private key
 
 # References
-- [20221003151097](/zet/20221003151097/) active directory certificate services AD CS
+- [20221003151097](/zet/20221003151097/README.md) active directory certificate services AD CS
 - ~/kb/hacking/windows/active-directory-certificate-services.md
 
 Tags:
     #assorted
-

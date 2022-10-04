@@ -5,9 +5,8 @@ wget https://launchpad.net/ubuntu/+source/policykit-1/0.105-31/+build/21659401/+
 ```
 
 # References
-- [20221003150890](/zet/20221003150890/) Test CVE-2021-4034 in a docker
+- [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
 - ~/kb/hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md
 
 Tags:
     #assorted
-

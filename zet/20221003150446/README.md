@@ -6,4 +6,3 @@ sudo ln -s /opt/linux-exploit-suggester/linux-exploit-suggester.sh /var/www/html
 
 Tags:
     #assorted
-

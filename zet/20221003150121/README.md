@@ -7,9 +7,8 @@ route print
 ```
 
 # References
-- [20221003150122](/zet/20221003150122/) routing using a linux box add router to routes on hosts
+- [20221003150122](/zet/20221003150122/README.md) routing using a linux box add router to routes on hosts
 - ~/kb/linux/routing.md
 
 Tags:
     #assorted
-

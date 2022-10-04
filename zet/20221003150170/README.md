@@ -7,9 +7,8 @@ setcap cap_dac_override+i /usr/bin/net    # i flag says it's allowed to inherit 
 ```
 
 # References
-- [20221003150171](/zet/20221003150171/) linux capabilities
+- [20221003150171](/zet/20221003150171/README.md) linux capabilities
 - ~/kb/linux/capabilities.md
 
 Tags:
     #assorted
-

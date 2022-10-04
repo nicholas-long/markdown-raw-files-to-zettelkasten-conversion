@@ -4,9 +4,8 @@ openssl genrsa -out client.key 4096
 ```
 
 # References
-- [20221003150791](/zet/20221003150791/) openssl
+- [20221003150791](/zet/20221003150791/README.md) openssl
 - ~/kb/hacking/commands/openssl-general.md
 
 Tags:
     #assorted
-

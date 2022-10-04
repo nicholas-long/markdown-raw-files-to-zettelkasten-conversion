@@ -19,9 +19,8 @@
   - fuzz all parameters as get and post with get and post http methods
 
 # References
-- [20221003151193](/zet/20221003151193/) HTTP
+- [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
 
 Tags:
     #assorted
-

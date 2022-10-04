@@ -4,9 +4,8 @@ git config --global pull.rebase true
 ```
 
 # References
-- [20221003150162](/zet/20221003150162/) git config settings
+- [20221003150162](/zet/20221003150162/README.md) git config settings
 - ~/kb/linux/git-settings.md
 
 Tags:
     #assorted
-

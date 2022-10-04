@@ -6,4 +6,3 @@ https://heap-exploitation.dhavalkapil.com/diving_into_glibc_heap/malloc_chunk
 
 Tags:
     #assorted
-

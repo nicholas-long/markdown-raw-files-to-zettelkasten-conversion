@@ -1,10 +1,9 @@
 # smbclient shell
 
 # References
-- [20221003150613](/zet/20221003150613/) smbclient shell recursive list directory
-- [20221003150612](/zet/20221003150612/) smbclient shell recursive get all files
+- [20221003150613](/zet/20221003150613/README.md) smbclient shell recursive list directory
+- [20221003150612](/zet/20221003150612/README.md) smbclient shell recursive get all files
 - ~/kb/hacking/commands/smbclient-commands.md
 
 Tags:
     #assorted
-

@@ -4,9 +4,8 @@
 - brackets -> arrays
 
 # References
-- [20221003150575](/zet/20221003150575/) php type juggling methodology
+- [20221003150575](/zet/20221003150575/README.md) php type juggling methodology
 - ~/kb/hacking/php/type-juggling.md
 
 Tags:
     #assorted
-

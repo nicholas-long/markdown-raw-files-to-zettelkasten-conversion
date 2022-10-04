@@ -5,9 +5,8 @@ ${varname:+word}
 ```
 
 # References
-- [20221003151316](/zet/20221003151316/) bash scripting substitution syntax
+- [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax
 - ~/kb/bash-scripting/substitution-syntax-braces.md
 
 Tags:
     #assorted
-

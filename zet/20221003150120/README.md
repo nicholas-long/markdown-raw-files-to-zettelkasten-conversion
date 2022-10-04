@@ -1,10 +1,9 @@
 # routing using a linux box iptables rules
 
 # References
-- [20221003150126](/zet/20221003150126/) routing using a linux box
-- [20221003150119](/zet/20221003150119/) routing using a linux box iptables rules forward all traffic between two interfaces
+- [20221003150126](/zet/20221003150126/README.md) routing using a linux box
+- [20221003150119](/zet/20221003150119/README.md) routing using a linux box iptables rules forward all traffic between two interfaces
 - ~/kb/linux/routing.md
 
 Tags:
     #assorted
-

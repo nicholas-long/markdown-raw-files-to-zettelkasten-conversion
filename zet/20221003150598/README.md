@@ -5,9 +5,8 @@ impacket-GetNPUsers -request -usersfile users -dc-ip $IP LAB.ENTERPRISE.THM/
 ```
 
 # References
-- [20221003150600](/zet/20221003150600/) impacket
+- [20221003150600](/zet/20221003150600/README.md) impacket
 - ~/kb/hacking/commands/impacket-commands.md
 
 Tags:
     #assorted
-

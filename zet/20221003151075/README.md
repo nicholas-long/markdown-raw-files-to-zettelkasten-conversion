@@ -6,9 +6,8 @@
 - rogue potato (current) - lots of port forwarding
 
 # References
-- [20221003151076](/zet/20221003151076/) service account privileges exploiting
+- [20221003151076](/zet/20221003151076/README.md) service account privileges exploiting
 - ~/kb/hacking/windows/service-account-privileges.md
 
 Tags:
     #assorted
-

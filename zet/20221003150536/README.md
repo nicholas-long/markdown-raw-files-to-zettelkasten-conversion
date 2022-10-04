@@ -4,9 +4,8 @@
 ```
 
 # References
-- [20221003150537](/zet/20221003150537/) immunity debugger mona commands
+- [20221003150537](/zet/20221003150537/README.md) immunity debugger mona commands
 - ~/kb/hacking/pwn/basic-win-pwn.md
 
 Tags:
     #assorted
-

@@ -8,4 +8,3 @@ sucrack -u root -
 
 Tags:
     #assorted
-

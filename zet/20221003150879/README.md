@@ -1,9 +1,8 @@
 # dirty cow privilege escalation
 
 # References
-- [20221003150878](/zet/20221003150878/) dirty cow privilege escalation working version
+- [20221003150878](/zet/20221003150878/README.md) dirty cow privilege escalation working version
 - ~/kb/hacking/priv-esc/dirty-cow-no-gcc.md
 
 Tags:
     #assorted
-

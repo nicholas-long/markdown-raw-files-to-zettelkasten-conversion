@@ -5,4 +5,3 @@ can copy `docker` binary to target, but need to copy `com.docker.cli` as well
 
 Tags:
     #assorted
-

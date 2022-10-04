@@ -88,10 +88,9 @@
 - generate password list for each/all users and sucrack
 
 # References
-- [20221003151209](/zet/20221003151209/) linux privilege escalation exploiting scripts on linux
-- [20221003151208](/zet/20221003151208/) linux privilege escalation headline exploits
+- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
+- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
 - ~/kb/hacking/to-try-lists/privesc/linux.md
 
 Tags:
     #assorted
-

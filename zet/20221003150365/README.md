@@ -6,4 +6,3 @@ requires obfuscation of comments and function name to bypass defender signatures
 
 Tags:
     #assorted
-

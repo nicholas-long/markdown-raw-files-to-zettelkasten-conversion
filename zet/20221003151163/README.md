@@ -6,9 +6,8 @@
 - rest of common
 
 # References
-- [20221003151162](/zet/20221003151162/) nmap UDP scan - individual port scans top ports command
+- [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
 - ~/kb/hacking/to-try-lists/nmap-UDP-scan-individual-port-scans.md
 
 Tags:
     #assorted
-

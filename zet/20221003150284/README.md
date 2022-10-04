@@ -4,9 +4,8 @@
 /home/user/public-html -> /~user/
 
 # References
-- [20221003150286](/zet/20221003150286/) default webroots BSD systems
+- [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems
 - ~/kb/hacking/misc/web-server-default-webroots.md
 
 Tags:
     #assorted
-

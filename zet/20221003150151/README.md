@@ -4,9 +4,8 @@ systemctl restart serial-getty@ttyUSB0.service
 ```
 
 # References
-- [20221003150153](/zet/20221003150153/) cyberpunk retro machine project enable usb serial port terminal as a service
+- [20221003150153](/zet/20221003150153/README.md) cyberpunk retro machine project enable usb serial port terminal as a service
 - ~/kb/linux/cyberpunk-retro-machine-serial-terminals.md
 
 Tags:
     #assorted
-

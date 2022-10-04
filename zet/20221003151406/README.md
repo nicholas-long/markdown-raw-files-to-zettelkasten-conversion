@@ -24,9 +24,8 @@ zcat <( curl https://cve.mitre.org/data/downloads/allitems.csv.gz ) | \
 
 ~/kb/hacking/cve/get-tsv.sh
 # References
-- [20221003151424](/zet/20221003151424/) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripting
 - ~/kb/auto-bash.md
 
 Tags:
     #assorted
-

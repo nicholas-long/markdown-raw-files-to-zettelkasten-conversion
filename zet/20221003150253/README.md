@@ -5,4 +5,3 @@ network storage provides ISO to boot
 
 Tags:
     #assorted
-

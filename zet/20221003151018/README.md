@@ -8,9 +8,8 @@ python3 ds_store_parser.py -i ../.DS_Store
 ```
 
 # References
-- [20221003151019](/zet/20221003151019/) .DS_Store file ds_store Mac OS
+- [20221003151019](/zet/20221003151019/README.md) .DS_Store file ds_store Mac OS
 - ~/kb/hacking/methodology/ds-store-file.md
 
 Tags:
     #assorted
-

@@ -70,9 +70,8 @@ services:
 ```
 
 # References
-- [20221003150217](/zet/20221003150217/) Initialize topics in dockers
+- [20221003150217](/zet/20221003150217/README.md) Initialize topics in dockers
 - ~/kb/kafka/initialize-topics.md
 
 Tags:
     #assorted
-

@@ -2,9 +2,8 @@
 %00
 
 # References
-- [20221003150582](/zet/20221003150582/) php LFI
+- [20221003150582](/zet/20221003150582/README.md) php LFI
 - ~/kb/hacking/php/lfi.md
 
 Tags:
     #assorted
-

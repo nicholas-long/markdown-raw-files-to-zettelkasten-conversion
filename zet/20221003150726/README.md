@@ -8,4 +8,3 @@ openssl req -in $FILE -text
 
 Tags:
     #assorted
-

@@ -1,10 +1,9 @@
 # bloodhound
 
 # References
-- [20221003150676](/zet/20221003150676/) bloodhound run python version in docker
-- [20221003150674](/zet/20221003150674/) bloodhound stealthy collection method
+- [20221003150676](/zet/20221003150676/README.md) bloodhound run python version in docker
+- [20221003150674](/zet/20221003150674/README.md) bloodhound stealthy collection method
 - ~/kb/hacking/commands/bloodhound.md
 
 Tags:
     #assorted
-

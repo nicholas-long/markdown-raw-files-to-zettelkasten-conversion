@@ -1,9 +1,8 @@
 # IPMI intelligent platform management interface zabbix
 
 # References
-- [20221003150270](/zet/20221003150270/) IPMI intelligent platform management interface
+- [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
 
 Tags:
     #assorted
-

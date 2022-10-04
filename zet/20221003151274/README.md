@@ -8,4 +8,3 @@ RUN git clone https://github.com/Titor8115/mandown && cd mandown && make && make
 
 Tags:
     #assorted
-

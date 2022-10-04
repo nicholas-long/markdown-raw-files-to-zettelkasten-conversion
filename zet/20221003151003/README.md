@@ -6,9 +6,8 @@
 /usr/share/seclists/Fuzzing/fuzz-Bo0oM.txt
 
 # References
-- [20221003151004](/zet/20221003151004/) API enumeration good wordlists
+- [20221003151004](/zet/20221003151004/README.md) API enumeration good wordlists
 - ~/kb/hacking/methodology/API-enumeration.md
 
 Tags:
     #assorted
-

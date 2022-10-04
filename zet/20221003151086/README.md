@@ -5,9 +5,8 @@ I tried an earlier version 2.1.1 #17763 and ran sekurlsa::logonpasswords just fi
 https://github.com/gentilkiwi/mimikatz/issues/248
 
 # References
-- [20221003151089](/zet/20221003151089/) mimikatz
+- [20221003151089](/zet/20221003151089/README.md) mimikatz
 - ~/kb/hacking/windows/mimikatz.md
 
 Tags:
     #assorted
-

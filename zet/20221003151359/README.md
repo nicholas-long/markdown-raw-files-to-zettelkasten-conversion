@@ -9,9 +9,8 @@ csv.writer(sys.stdout, dialect='excel-tab').writerows(csv.reader(sys.stdin))
 
 ~/kb/python/convert-csv-to-tsv.py
 # References
-- [20221003151363](/zet/20221003151363/) python scripting
+- [20221003151363](/zet/20221003151363/README.md) python scripting
 - ~/kb/auto-python.md
 
 Tags:
     #assorted
-

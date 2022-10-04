@@ -5,4 +5,3 @@ allows client and server to derive the same key.
 
 Tags:
     #assorted
-

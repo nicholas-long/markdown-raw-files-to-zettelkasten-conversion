@@ -7,4 +7,3 @@ locate -r 'deb$'
 
 Tags:
     #assorted
-

@@ -3,9 +3,8 @@
 protected in apache
 
 # References
-- [20221003151014](/zet/20221003151014/) LFI or directory traversal procedures
+- [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures
 - ~/kb/hacking/methodology/LFI-procedure.md
 
 Tags:
     #assorted
-

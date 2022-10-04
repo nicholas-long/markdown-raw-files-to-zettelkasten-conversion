@@ -7,9 +7,8 @@ sudo nvim /etc/responder/Responder.conf
 ```
 
 # References
-- [20221003150833](/zet/20221003150833/) responder
+- [20221003150833](/zet/20221003150833/README.md) responder
 - ~/kb/hacking/commands/responder.md
 
 Tags:
     #assorted
-

@@ -5,9 +5,8 @@ search for scripts of type "vuln"
 ```
 
 # References
-- [20221003151017](/zet/20221003151017/) nmap scripts
+- [20221003151017](/zet/20221003151017/README.md) nmap scripts
 - ~/kb/hacking/methodology/nmap-scripts.md
 
 Tags:
     #assorted
-

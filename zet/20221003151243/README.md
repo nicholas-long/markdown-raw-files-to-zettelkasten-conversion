@@ -4,10 +4,9 @@
 - put node.js payload in `index.js`
 
 # References
-- [20221003151244](/zet/20221003151244/) preparing malicious package payloads
-- [20221003151242](/zet/20221003151242/) preparing malicious package payloads node npm package malicious repository ( tcp port 4873 )
+- [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads
+- [20221003151242](/zet/20221003151242/README.md) preparing malicious package payloads node npm package malicious repository ( tcp port 4873 )
 - ~/kb/hacking/tricks/malicious-packages.md
 
 Tags:
     #assorted
-

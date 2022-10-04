@@ -13,9 +13,8 @@ find ~/.local/share/tldr/tldr/pages -type f -name '*.md' | \
 
 ~/kb/bash-scripting/search-tldr-commands-text.sh
 # References
-- [20221003151424](/zet/20221003151424/) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripting
 - ~/kb/auto-bash.md
 
 Tags:
     #assorted
-

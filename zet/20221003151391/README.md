@@ -18,9 +18,8 @@ docker run --rm $imagename --help
 
 ~/kb/docker/build-github-repo-docker-image.sh
 # References
-- [20221003151424](/zet/20221003151424/) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripting
 - ~/kb/auto-bash.md
 
 Tags:
     #assorted
-

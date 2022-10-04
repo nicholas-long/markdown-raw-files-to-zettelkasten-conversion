@@ -8,9 +8,8 @@ cat /dev/urandom | head -c 6 | xxd -p
 
 ~/kb/bash-scripting/get-random-unique-id.sh
 # References
-- [20221003151424](/zet/20221003151424/) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripting
 - ~/kb/auto-bash.md
 
 Tags:
     #assorted
-

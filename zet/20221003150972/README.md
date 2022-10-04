@@ -18,4 +18,3 @@ Hash mode #20
 
 Tags:
     #assorted
-

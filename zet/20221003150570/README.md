@@ -2,9 +2,8 @@
 https://github.com/ambionics/phpggc
 
 # References
-- [20221003150571](/zet/20221003150571/) PHP unserialize payload gadget chains
+- [20221003150571](/zet/20221003150571/README.md) PHP unserialize payload gadget chains
 - ~/kb/hacking/php/deserialization-attacks.md
 
 Tags:
     #assorted
-

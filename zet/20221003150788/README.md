@@ -7,9 +7,8 @@ ca.key is private key of a CA that has been leaked
 client.csr is the certificate signing request
 
 # References
-- [20221003150791](/zet/20221003150791/) openssl
+- [20221003150791](/zet/20221003150791/README.md) openssl
 - ~/kb/hacking/commands/openssl-general.md
 
 Tags:
     #assorted
-

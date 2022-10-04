@@ -3,10 +3,9 @@ active directory DNS is dynamic DNS.
 any domain user can add a DNS record.
 
 # References
-- [20221003151144](/zet/20221003151144/) active directory 
-- [20221003151128](/zet/20221003151128/) active directory  DNS adding DNS records
+- [20221003151144](/zet/20221003151144/README.md) active directory 
+- [20221003151128](/zet/20221003151128/README.md) active directory  DNS adding DNS records
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 
 Tags:
     #assorted
-

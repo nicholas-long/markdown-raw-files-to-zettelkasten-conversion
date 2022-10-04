@@ -1,9 +1,8 @@
 # decrypt azure AD connect passwords
 
 # References
-- [20221003151027](/zet/20221003151027/) decrypt azure AD connect passwords powershell MSSQL queries
+- [20221003151027](/zet/20221003151027/README.md) decrypt azure AD connect passwords powershell MSSQL queries
 - ~/kb/hacking/windows/decrypt-azure-ad-connect.md
 
 Tags:
     #assorted
-

@@ -12,4 +12,3 @@ cutycapt/kali-rolling 0.0~svn10-0.1+b2 amd64
 
 Tags:
     #assorted
-

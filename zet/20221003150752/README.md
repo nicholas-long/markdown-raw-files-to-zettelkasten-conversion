@@ -4,9 +4,8 @@ kerbrute userenum --dc $IP -d DOMAIN.local $FILE
 ```
 
 # References
-- [20221003150753](/zet/20221003150753/) kerbrute
+- [20221003150753](/zet/20221003150753/README.md) kerbrute
 - ~/kb/hacking/commands/windows-active-directory-kerberos-commands.md
 
 Tags:
     #assorted
-

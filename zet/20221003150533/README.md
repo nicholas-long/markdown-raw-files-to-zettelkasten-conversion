@@ -5,9 +5,8 @@
 ```
 
 # References
-- [20221003150535](/zet/20221003150535/) immunity debugger mona commands search for opcode string jmp esp
+- [20221003150535](/zet/20221003150535/README.md) immunity debugger mona commands search for opcode string jmp esp
 - ~/kb/hacking/pwn/basic-win-pwn.md
 
 Tags:
     #assorted
-

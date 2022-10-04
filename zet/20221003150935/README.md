@@ -2,9 +2,8 @@
 - edit `actionban` in a writable conf for rce
 
 # References
-- [20221003150937](/zet/20221003150937/) fail2ban
+- [20221003150937](/zet/20221003150937/README.md) fail2ban
 - ~/kb/hacking/priv-esc/fail2ban.md
 
 Tags:
     #assorted
-

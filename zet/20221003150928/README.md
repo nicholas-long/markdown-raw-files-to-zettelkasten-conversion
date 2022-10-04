@@ -5,9 +5,8 @@ gcc -static -o root-shell root-shell.c
 ```
 
 # References
-- [20221003150929](/zet/20221003150929/) C setuid suid backdoor exploit
+- [20221003150929](/zet/20221003150929/README.md) C setuid suid backdoor exploit
 - ~/kb/hacking/priv-esc/c-shells-and-setuid.md
 
 Tags:
     #assorted
-

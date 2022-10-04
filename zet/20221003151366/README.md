@@ -15,9 +15,8 @@ sudo apt install code # or code-insiders
 
 ~/kb/linux/install_vscode.sh
 # References
-- [20221003151424](/zet/20221003151424/) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripting
 - ~/kb/auto-bash.md
 
 Tags:
     #assorted
-

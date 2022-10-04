@@ -10,9 +10,8 @@ snmpwalk -c public -v1 $IP
 ```
 
 # References
-- [20221003150698](/zet/20221003150698/) SNMP enumeration command
+- [20221003150698](/zet/20221003150698/README.md) SNMP enumeration command
 - ~/kb/hacking/commands/snmp-enumeration-commands.md
 
 Tags:
     #assorted
-

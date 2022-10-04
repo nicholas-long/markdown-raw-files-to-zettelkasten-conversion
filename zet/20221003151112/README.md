@@ -2,9 +2,8 @@
 net start SVC_NAME
 
 # References
-- [20221003151115](/zet/20221003151115/) dos commands services sc
+- [20221003151115](/zet/20221003151115/README.md) dos commands services sc
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 
 Tags:
     #assorted
-

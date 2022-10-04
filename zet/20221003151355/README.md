@@ -15,9 +15,8 @@ for rawline in fileinput.input():
 
 ~/kb/python/urlencode.py
 # References
-- [20221003151363](/zet/20221003151363/) python scripting
+- [20221003151363](/zet/20221003151363/README.md) python scripting
 - ~/kb/auto-python.md
 
 Tags:
     #assorted
-

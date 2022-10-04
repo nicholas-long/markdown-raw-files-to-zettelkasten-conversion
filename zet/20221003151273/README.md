@@ -10,4 +10,3 @@ docker run -td ImageName
 
 Tags:
     #assorted
-

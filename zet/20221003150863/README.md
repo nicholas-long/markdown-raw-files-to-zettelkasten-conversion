@@ -8,4 +8,3 @@ wget -m "ftp://@$IP"
 
 Tags:
     #assorted
-

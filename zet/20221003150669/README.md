@@ -10,9 +10,8 @@ crackmapexec winrm $IP -u valid_users -p valid_passwords --no-bruteforce --conti
 ```
 
 # References
-- [20221003150673](/zet/20221003150673/) crackmapexec cme commands
+- [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
 - ~/kb/hacking/commands/crackmapexec-commands.md
 
 Tags:
     #assorted
-

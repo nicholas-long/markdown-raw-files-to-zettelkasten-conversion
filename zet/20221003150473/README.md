@@ -7,9 +7,8 @@ runascs Username Password C:\path\to\file\shell.exe
 ```
 
 # References
-- [20221003150475](/zet/20221003150475/) powershell tricks run powershell commands as another user
+- [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
 - ~/kb/hacking/powershell/powershell-tricks.md
 
 Tags:
     #assorted
-

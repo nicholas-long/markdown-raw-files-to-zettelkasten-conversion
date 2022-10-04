@@ -4,9 +4,8 @@
 - Arguments 7 and above are pushed on to the stack.
 
 # References
-- [20221003150522](/zet/20221003150522/) calling conventions
+- [20221003150522](/zet/20221003150522/README.md) calling conventions
 - ~/kb/hacking/pwn/calling-conventions.md
 
 Tags:
     #assorted
-

@@ -4,10 +4,9 @@ enum4linux $IP
 ```
 
 # References
-- [20221003150786](/zet/20221003150786/) enum4linux
-- [20221003150783](/zet/20221003150783/) enum4linux Scan Host Suppress Errors
+- [20221003150786](/zet/20221003150786/README.md) enum4linux
+- [20221003150783](/zet/20221003150783/README.md) enum4linux Scan Host Suppress Errors
 - ~/kb/hacking/commands/enum4linux-command.md
 
 Tags:
     #assorted
-

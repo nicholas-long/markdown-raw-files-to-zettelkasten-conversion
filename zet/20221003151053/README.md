@@ -5,4 +5,3 @@ analyze process dump with pypykatz
 
 Tags:
     #assorted
-

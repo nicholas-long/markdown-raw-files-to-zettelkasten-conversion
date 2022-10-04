@@ -61,9 +61,8 @@ print(r.text)
 ```
 
 # References
-- [20221003151226](/zet/20221003151226/) php filter LFI to iconv RCE
+- [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE
 - ~/kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md
 
 Tags:
     #assorted
-

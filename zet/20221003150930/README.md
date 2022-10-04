@@ -18,9 +18,8 @@ lxc start mycontainer
 lxc exec mycontainer /bin/sh
 ```
 # References
-- [20221003150933](/zet/20221003150933/) lxd priv esc without painful build problems
+- [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems
 - ~/kb/hacking/priv-esc/lxd/lxd-priv-esc.md
 
 Tags:
     #assorted
-

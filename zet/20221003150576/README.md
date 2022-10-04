@@ -1,10 +1,9 @@
 # php type juggling
 
 # References
-- [20221003150575](/zet/20221003150575/) php type juggling methodology
-- [20221003150573](/zet/20221003150573/) php type juggling string and number exponent type confusion
+- [20221003150575](/zet/20221003150575/README.md) php type juggling methodology
+- [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion
 - ~/kb/hacking/php/type-juggling.md
 
 Tags:
     #assorted
-

@@ -4,9 +4,8 @@ Get-Command
 ```
 
 # References
-- [20221003150482](/zet/20221003150482/) general enumeration
+- [20221003150482](/zet/20221003150482/README.md) general enumeration
 - ~/kb/hacking/powershell/powershell-enumeration-commands.md
 
 Tags:
     #assorted
-

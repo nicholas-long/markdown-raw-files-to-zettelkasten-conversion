@@ -2,9 +2,8 @@
 -D 1080
 
 # References
-- [20221003150107](/zet/20221003150107/) ssh port forwarding
+- [20221003150107](/zet/20221003150107/README.md) ssh port forwarding
 - ~/kb/networking/port-forwarding.md
 
 Tags:
     #assorted
-

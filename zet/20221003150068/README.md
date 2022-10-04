@@ -4,9 +4,8 @@ find . -type f -name '*.sh' | xargs nvim -p
 ```
 
 # References
-- [20221003150071](/zet/20221003150071/) vim edit multiple files
+- [20221003150071](/zet/20221003150071/README.md) vim edit multiple files
 - ~/kb/vim/edit-multiple-files.md
 
 Tags:
     #assorted
-

@@ -5,9 +5,8 @@ By providing CSV separator for key and values with `-K`
 echo "$fileid:$filename" | kafkacat -b $KAFKA -P -t topic_name -u -K ':'
 ```
 # References
-- [20221003150209](/zet/20221003150209/) kafkacat add data to topic
+- [20221003150209](/zet/20221003150209/README.md) kafkacat add data to topic
 - ~/kb/kafka/kafkacat.md
 
 Tags:
     #assorted
-

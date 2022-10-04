@@ -6,9 +6,8 @@ git checkout $COMMIT_HASH -- .
 ```
 
 # References
-- [20221003150798](/zet/20221003150798/) git
+- [20221003150798](/zet/20221003150798/README.md) git
 - ~/kb/hacking/commands/git.md
 
 Tags:
     #assorted
-

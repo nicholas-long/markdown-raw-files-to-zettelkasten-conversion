@@ -29,9 +29,8 @@ echo ts.Close >> wget.vbs
 ```
 
 # References
-- [20221003151230](/zet/20221003151230/) VBScript
+- [20221003151230](/zet/20221003151230/README.md) VBScript
 - ~/kb/hacking/tricks/vbscript-wget-hack.md
 
 Tags:
     #assorted
-

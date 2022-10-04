@@ -10,4 +10,3 @@ vim -c ':execute "normal! yyp\<esc>:w! output\<enter>\<esc>:q!\<enter>"' datafil
 
 Tags:
     #assorted
-

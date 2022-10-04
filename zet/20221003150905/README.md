@@ -5,9 +5,8 @@ nc -lvnp $LPORT < filename
 ```
 
 # References
-- [20221003150907](/zet/20221003150907/) linux enumeration quick commands transfer / download files with just bash
+- [20221003150907](/zet/20221003150907/README.md) linux enumeration quick commands transfer / download files with just bash
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md
 
 Tags:
     #assorted
-

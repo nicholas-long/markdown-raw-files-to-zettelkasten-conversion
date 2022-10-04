@@ -8,9 +8,8 @@ payload = flat({
 ```
 
 # References
-- [20221003150543](/zet/20221003150543/) simple binary exploits python exploit scripts
+- [20221003150543](/zet/20221003150543/README.md) simple binary exploits python exploit scripts
 - ~/kb/hacking/pwn/basic-win-pwn.md
 
 Tags:
     #assorted
-

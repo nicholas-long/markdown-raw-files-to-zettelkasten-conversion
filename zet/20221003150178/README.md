@@ -3,9 +3,8 @@ https://github.com/alacritty/alacritty
 https://github.com/alacritty/alacritty/blob/master/alacritty.yml
 
 # References
-- [20221003150179](/zet/20221003150179/) install alacritty  config file
+- [20221003150179](/zet/20221003150179/README.md) install alacritty  config file
 - ~/kb/linux/install-alacritty.md
 
 Tags:
     #assorted
-

@@ -79,9 +79,8 @@ C:/Program Files/Microsoft SQL Server/MSSQL14.SQLEXPRESS/Template Data/master.md
 /usr/share/seclists/Fuzzing/LFI/LFI-gracefulsecurity-windows.txt
 
 # References
-- [20221003151084](/zet/20221003151084/) windows sensitive file disclosure cheat sheet determine version
+- [20221003151084](/zet/20221003151084/README.md) windows sensitive file disclosure cheat sheet determine version
 - ~/kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md
 
 Tags:
     #assorted
-

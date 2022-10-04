@@ -5,9 +5,8 @@ logic errors
 `admin' or username='asdf` ~ "' and password = ..."
 
 # References
-- [20221003151220](/zet/20221003151220/) hql injection
+- [20221003151220](/zet/20221003151220/README.md) hql injection
 - ~/kb/hacking/tricks/hibernate-hql-injection.md
 
 Tags:
     #assorted
-

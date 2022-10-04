@@ -5,4 +5,3 @@ https://github.com/pwnwiki/webappdefaultsdb
 
 Tags:
     #assorted
-

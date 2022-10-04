@@ -5,4 +5,3 @@ B tier of AV
 
 Tags:
     #assorted
-

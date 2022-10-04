@@ -11,10 +11,9 @@ python gMSADumper.py -k -d domain.local -l dc01.domain.local
 ```
 
 # References
-- [20221003151134](/zet/20221003151134/) active directory  GMSA group managed service account
-- [20221003151131](/zet/20221003151131/) active directory  GMSA group managed service account remote LDAP read GMSA passwords python script fix missing ConvertFrom-AdManagedPasswordBlob
+- [20221003151134](/zet/20221003151134/README.md) active directory  GMSA group managed service account
+- [20221003151131](/zet/20221003151131/README.md) active directory  GMSA group managed service account remote LDAP read GMSA passwords python script fix missing ConvertFrom-AdManagedPasswordBlob
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 
 Tags:
     #assorted
-

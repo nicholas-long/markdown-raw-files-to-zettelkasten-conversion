@@ -11,4 +11,3 @@ kafkacat -b kafka -C -t wifi-data-raw -e -o "s@$d"
 
 Tags:
     #assorted
-

@@ -4,9 +4,8 @@
 ```
 
 # References
-- [20221003150110](/zet/20221003150110/) tunneling through chisel
+- [20221003150110](/zet/20221003150110/README.md) tunneling through chisel
 - ~/kb/networking/port-forwarding.md
 
 Tags:
     #assorted
-

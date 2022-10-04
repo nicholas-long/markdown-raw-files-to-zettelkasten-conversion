@@ -28,4 +28,3 @@ Use firefox containers to handle multiple sessions https://addons.mozilla.org/en
 
 Tags:
     #assorted
-

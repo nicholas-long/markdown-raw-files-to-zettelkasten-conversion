@@ -29,9 +29,8 @@
 - xssi cross site script inclusion
 
 # References
-- [20221003151193](/zet/20221003151193/) HTTP
+- [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
 
 Tags:
     #assorted
-

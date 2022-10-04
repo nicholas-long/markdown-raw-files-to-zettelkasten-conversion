@@ -4,10 +4,9 @@ sudo nmap -p- -v -sC -sV -oA nmap.all $IP
 ```
 
 # References
-- [20221003150648](/zet/20221003150648/) nmap
-- [20221003150643](/zet/20221003150643/) nmap all ports command quick
+- [20221003150648](/zet/20221003150648/README.md) nmap
+- [20221003150643](/zet/20221003150643/README.md) nmap all ports command quick
 - ~/kb/hacking/commands/nmap-command.md
 
 Tags:
     #assorted
-

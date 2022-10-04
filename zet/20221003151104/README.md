@@ -7,9 +7,8 @@ dll.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 ```
 
 # References
-- [20221003151105](/zet/20221003151105/) compile windows DLL to run commands DLL code
+- [20221003151105](/zet/20221003151105/README.md) compile windows DLL to run commands DLL code
 - ~/kb/hacking/windows/dll-to-run-commands.md
 
 Tags:
     #assorted
-

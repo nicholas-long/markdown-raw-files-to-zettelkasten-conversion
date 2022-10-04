@@ -5,9 +5,8 @@
 - AdjustTokenPrivileges
 
 # References
-- [20221003151093](/zet/20221003151093/) windows API enable privilege
+- [20221003151093](/zet/20221003151093/README.md) windows API enable privilege
 - ~/kb/hacking/windows/enable-privilege-api.md
 
 Tags:
     #assorted
-

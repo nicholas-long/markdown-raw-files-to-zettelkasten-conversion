@@ -7,9 +7,8 @@ patator ssh_login host=<ip> port=22 user=root 0=/path/passwords.txt password=FIL
 ```
 
 # References
-- [20221003150346](/zet/20221003150346/) SSH brute force
+- [20221003150346](/zet/20221003150346/README.md) SSH brute force
 - ~/kb/hacking/misc/bruteforcing-tools.md
 
 Tags:
     #assorted
-

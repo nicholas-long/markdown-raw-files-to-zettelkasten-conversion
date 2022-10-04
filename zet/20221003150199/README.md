@@ -7,4 +7,3 @@ dpkg -L vim
 
 Tags:
     #assorted
-

@@ -1,10 +1,9 @@
 # kubernetes kubectl
 
 # References
-- [20221003150651](/zet/20221003150651/) kubernetes
-- [20221003150649](/zet/20221003150649/) kubernetes kubectl enumerate permissions
+- [20221003150651](/zet/20221003150651/README.md) kubernetes
+- [20221003150649](/zet/20221003150649/README.md) kubernetes kubectl enumerate permissions
 - ~/kb/hacking/commands/kubernetes.md
 
 Tags:
     #assorted
-

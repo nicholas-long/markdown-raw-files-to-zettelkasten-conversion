@@ -10,9 +10,8 @@ gobuster dir -e -t 50 -x php,txt,html -d -u $URL -w cewl_wordlist
 ```
 
 # References
-- [20221003150847](/zet/20221003150847/) gobuster
+- [20221003150847](/zet/20221003150847/README.md) gobuster
 - ~/kb/hacking/commands/gobuster.md
 
 Tags:
     #assorted
-

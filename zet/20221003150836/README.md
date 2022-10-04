@@ -5,9 +5,8 @@ sudo mount -t cifs -o username=user_name //$IP/share_name /mnt/
 ```
 
 # References
-- [20221003150837](/zet/20221003150837/) smb mount share
+- [20221003150837](/zet/20221003150837/README.md) smb mount share
 - ~/kb/hacking/commands/smb-mount-share.md
 
 Tags:
     #assorted
-
