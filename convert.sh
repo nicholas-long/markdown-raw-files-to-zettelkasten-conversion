@@ -1,5 +1,7 @@
 #!/bin/bash
 
+rm -rf zet # clear
+
 # assign uids to headings
 #paste uidsbefore headings | awk 'NF > 1' |\
 cat ids_names |\
@@ -45,3 +47,5 @@ for z in $(ls zet/); do
 done
 
 ./enrich-references.sh # this should also be a pre-commit step or action
+
+./autotag.sh
