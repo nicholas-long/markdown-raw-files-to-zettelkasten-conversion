@@ -1,4 +1,25 @@
-- fix keyword stuffing duplicate notes with things like "bash scripting" and "bash sh scripting"
+- fix keyword stuffing duplicate notes
+  - "bash sh scripting" -> "bash scripts"
+    - zet/20221003150096/README.md
+    - zet/20221003150086/README.md
+    - zet/20221003150087/README.md
+    - zet/20221003150084/README.md
+    - zet/20221003150092/README.md
+    - zet/20221003150088/README.md
+    - zet/20221003150082/README.md
+    - zet/20221003150083/README.md
+    - zet/20221003150094/README.md
+    - zet/20221003150085/README.md
+    - zet/20221003150091/README.md
+    - zet/20221003150089/README.md
+    - zet/20221003150090/README.md
+    - zet/20221003150095/README.md
+    - zet/20221003150093/README.md
 - missing content from multiple equivalent-level header keyword stacking trick
   - "text cipher encryption decryption tools"
     - correct text is under "text manipulator"
+- link together to try lists properly (links point to kb)
+- tag changes / fixes
+  - active -> active directory
+  - notes -> if template, DELETE
+    - notes templates go in folder other than zet ?

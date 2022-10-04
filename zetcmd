@@ -9,6 +9,14 @@ while [[ $# -gt 0 ]]; do
     -p|--paging)
       PAGING=1
       ;;
+    -f|--file)
+      shift
+      filearg="$1"
+      ;;
+    -q|--query)
+      shift # pop arg
+      query="$1"
+      ;;
     -t|--title)
       shift # pop arg
       title="$1"
@@ -17,21 +25,28 @@ while [[ $# -gt 0 ]]; do
       VERBOSE=1
       ;;
     -h|--help)
-      echo "Usage: $0 [ options ] directory"
+      echo "Usage: $0 action [ options ]"
+      echo "| action: [ new, search, print, refs, preview ]"
       echo "Options:"
-      cat "$0" | grep '^\s\+-.|--.*'
+      cat "$0" | grep '^\s\+-.|--.*' | sed 's/)$//'
       exit 1
       ;;
     *)
-      action="$1"
+      if [ -z "$action" ]; then
+        action="$1"
+      elif [ $action == "print" ]; then
+        bat --paging=never zet/$1/README.md
+      else
+        arg="$1"
+      fi
       ;;
   esac
   shift
 done
 
-echo "$action $title"
+echo "$action $title $arg $filearg" > /dev/stderr
 case $action in
-  new)
+  n|new)
     echo "making new"
     id=$(date -u +%Y%m%d%H%M%S)
     mkdir -p zet/$id
@@ -41,6 +56,51 @@ case $action in
       sed -i "s|{{title}}|$title|" "$filepath"
     fi
     nvim "$filepath"
+    echo "Created Zettel ID $id"
+    ;;
+  enum)
+    find zet -name README.md | xargs awk '
+      BEGIN { OFS="\t" }
+      FNR == 1 {
+        gsub(/^# +/,"")
+        head = $0
+      }
+      { last = $0 }
+      BEGINFILE {
+        if (last) print lastfilename, head, last
+        lastfilename = FILENAME
+      }
+    '
+    ;;
+  refs)
+    awk '
+      BEGIN {
+        for (n = 1; n < ARGC; n++) {
+          if (ARGV[n] ~ /^[0-9]+$/) {
+            ARGV[n] = "zet/" ARGV[n] "/README.md"
+          }
+        }
+      }
+      BEGINFILE { refs = 0 }
+      #refs && /^ *$/ { nextfile }
+      refs && /^- [0-9]+ *$/ { print $2 } # print un-enriched IDs in list
+      refs && /^- \[[0-9]+\]/ {
+        gsub(/^- +/,"")
+        gsub(/^\[/,"")
+        gsub(/\].*/,"")
+        print
+      }
+      /^# [Rr]elated/ { refs = 1 }
+    ' $arg
+    ;;
+  search)
+    $0 enum | grep "$query" | fzf -m --preview="$0 preview -f {} 2>/dev/null"
+    ;;
+  preview)
+    if [ ! -z "$filearg" ]; then
+      filearg=$(echo $filearg | awk '{print $1}')
+      bat --color=always "$filearg"
+    fi
     ;;
 esac
 
