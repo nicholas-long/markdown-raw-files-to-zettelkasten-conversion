@@ -50,4 +50,5 @@ done
 
 ./autotag.sh
 
-./get-all-tags.sh # this should also be a pre-commit step or action
+./get-all-tags.sh > all_tags # this should also be a pre-commit step or action
+./index-tags.sh # this should also be a pre-commit step or action
