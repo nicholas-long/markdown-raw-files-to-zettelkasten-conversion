@@ -8,7 +8,7 @@
   - phone info
 - pimeyes.com
 
-# References
+# Related
 - [20221003150966](/zet/20221003150966/README.md) OSINT
 - ~/kb/hacking/methodology/osint-overview.md
 

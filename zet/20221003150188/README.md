@@ -7,7 +7,7 @@ source $HOME/tmux-scripts/agnoster.zsh-theme
 zle -C hist-complete complete-word _generic
 zstyle ':completion:hist-complete:*' completer _history
 ```
-# References
+# Related
 - [20221003150191](/zet/20221003150191/README.md) zsh
 - ~/kb/linux/zsh-see-default-bindings.md
 

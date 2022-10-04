@@ -9,7 +9,7 @@ comm -23 signups.txt purchases.txt
 comm -23 <(sort signups.txt) <(sort purchases.txt)
 ```
 
-# References
+# Related
 - [20221003151305](/zet/20221003151305/README.md) bash scripting set operations comm
 - ~/kb/bash-scripting/find-common-lines-set-operations.md
 

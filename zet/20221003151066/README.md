@@ -1,6 +1,6 @@
 # AMSI detect windows defender
 
-# References
+# Related
 - [20221003151067](/zet/20221003151067/README.md) AMSI
 - [20221003151065](/zet/20221003151065/README.md) AMSI detect windows defender with known malicious string
 - ~/kb/hacking/windows/test-for-defender-amsi.md

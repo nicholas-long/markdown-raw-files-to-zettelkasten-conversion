@@ -2,7 +2,7 @@
 https://github.com/itemir/apache_2fa
 has default google authenticator key in setup instructions
 
-# References
+# Related
 
 Tags:
     #assorted

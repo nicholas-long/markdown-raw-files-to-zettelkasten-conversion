@@ -3,7 +3,7 @@
 cd HKLM:\SYSTEM\CurrentControlSet\Services\
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

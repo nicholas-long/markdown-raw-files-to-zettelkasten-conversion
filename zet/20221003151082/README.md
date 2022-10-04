@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Privesc/Pow
 Invoke-AllChecks
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

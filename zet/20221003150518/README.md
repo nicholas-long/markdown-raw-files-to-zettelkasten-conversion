@@ -12,7 +12,7 @@ frame.rdx = constants.linux.amd64.PROT_READ | constants.linux.amd64.PROT_WRITE |
 
 payload += bytes(frame)
 ```
-# References
+# Related
 
 Tags:
     #assorted

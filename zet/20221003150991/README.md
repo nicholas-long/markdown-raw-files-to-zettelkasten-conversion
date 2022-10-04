@@ -9,7 +9,7 @@ mutaiton CreateBlah($param: Thing) {
 { "param": "value" }
 ```
 
-# References
+# Related
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - ~/kb/hacking/methodology/API-enumeration.md
 

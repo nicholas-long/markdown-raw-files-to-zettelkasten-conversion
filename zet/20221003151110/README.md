@@ -1,6 +1,6 @@
 # dos commands admin / system
 
-# References
+# Related
 - [20221003151124](/zet/20221003151124/README.md) dos commands
 - [20221003151109](/zet/20221003151109/README.md) dos commands admin / system dump registry secretsdump hashes
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md

@@ -3,7 +3,7 @@
 ~/kb/bash-scripting/what-installed-this-file.sh $(which ntpdate)
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

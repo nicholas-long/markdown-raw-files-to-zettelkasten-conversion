@@ -1,6 +1,6 @@
 # socat execute program
 
-# References
+# Related
 - [20221003150115](/zet/20221003150115/README.md) socat
 - [20221003150112](/zet/20221003150112/README.md) socat execute program bind shell
 - ~/kb/networking/port-forwarding.md

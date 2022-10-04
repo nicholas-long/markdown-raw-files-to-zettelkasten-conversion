@@ -2,7 +2,7 @@
 bytes.fromhex(str).decode()
 bytes.fromhex(str).decode('latin-1')
 
-# References
+# Related
 - [20221003150946](/zet/20221003150946/README.md) python
 - ~/kb/hacking/python/python-quick-reference.md
 

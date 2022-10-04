@@ -8,7 +8,7 @@
 |ssh|ncrack|ippsec example vulnhub DC-9, in kali apt|
 
 
-# References
+# Related
 
 Tags:
     #assorted

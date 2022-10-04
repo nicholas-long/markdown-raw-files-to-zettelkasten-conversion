@@ -4,7 +4,7 @@ can also change the powershell "directory" to the registry like "cd HKLM:\"
 cd HKLM:\SYSTEM\CurrentControlSet\Services\
 ```
 
-# References
+# Related
 - [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry
 - ~/kb/hacking/powershell/powershell-tricks.md
 

@@ -3,7 +3,7 @@
 bash -x $FILE
 ```
 
-# References
+# Related
 - [20221003151295](/zet/20221003151295/README.md) debugging bash
 - ~/kb/bash-scripting/debugging.md
 

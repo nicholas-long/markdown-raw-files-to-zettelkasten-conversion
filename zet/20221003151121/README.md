@@ -6,7 +6,7 @@ wmic service get name,displayname,pathname,startmode | findstr /i "auto" | finds
 wmic service get name,displayname,pathname,startmode | findstr /i "auto" | findstr /i /v "c:\windows\\" | findstr /i /v """
 ```
 
-# References
+# Related
 - [20221003151124](/zet/20221003151124/README.md) dos commands
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 

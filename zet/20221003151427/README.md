@@ -14,7 +14,7 @@ printing == 1 && $0 !~ /^```/ {print}
 ```
 
 ~/kb/awk-scripting/snippet.awk
-# References
+# Related
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - ~/kb/auto-awk.md
 

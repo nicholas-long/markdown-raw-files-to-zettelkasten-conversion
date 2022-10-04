@@ -4,7 +4,7 @@ only one endpoint for every resource. queries for common operations; look very d
 much less recon than RESTful APIs.
 newer technology -> developers adopting early without considering security.
 
-# References
+# Related
 - [20221003150997](/zet/20221003150997/README.md) GraphQL APIs GraphQL introspection and recon
 - [20221003150996](/zet/20221003150996/README.md) GraphQL APIs common GraphQL bugs
 - [20221003150995](/zet/20221003150995/README.md) GraphQL APIs GraphQL tools

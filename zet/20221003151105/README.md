@@ -23,7 +23,7 @@ BOOL WINAPI DllMain(
 }
 ```
 
-# References
+# Related
 - [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
 - [20221003151104](/zet/20221003151104/README.md) compile windows DLL to run commands DLL code building with mingw
 - ~/kb/hacking/windows/dll-to-run-commands.md

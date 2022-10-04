@@ -21,7 +21,7 @@ cat $TF | gzip -d 2>/dev/null
 ```
 
 ~/kb/hacking/tricks/extract-pdf-embedded-file-stream.sh
-# References
+# Related
 - [20221003151424](/zet/20221003151424/README.md) bash scripting
 - ~/kb/auto-bash.md
 

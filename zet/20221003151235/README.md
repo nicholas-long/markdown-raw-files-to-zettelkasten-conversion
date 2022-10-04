@@ -4,7 +4,7 @@ Add `\G`
 select * from users \G
 ```
 
-# References
+# Related
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
 - ~/kb/hacking/tricks/mysql-tricks.md
 

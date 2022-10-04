@@ -4,7 +4,7 @@
 - encrypted passwords stored in database can be decrypted
   - see "decrypt azure AD connect passwords"
 
-# References
+# Related
 
 Tags:
     #assorted

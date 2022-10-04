@@ -1,7 +1,7 @@
 # OSINT
 https://osintframework.com/
 
-# References
+# Related
 - [20221003150965](/zet/20221003150965/README.md) OSINT guides and step-by-step flowcharts
 - [20221003150964](/zet/20221003150964/README.md) OSINT sock puppets
 - [20221003150963](/zet/20221003150963/README.md) OSINT search engine OSINT

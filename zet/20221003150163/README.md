@@ -4,7 +4,7 @@ use percent sign and job number from the `jobs` command.
 fg %1
 ```
 
-# References
+# Related
 - [20221003150165](/zet/20221003150165/README.md) linux job control
 - ~/kb/linux/job-control.md
 

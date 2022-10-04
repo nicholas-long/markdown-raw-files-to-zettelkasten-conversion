@@ -1,7 +1,7 @@
 # ike-scan for ike IPsec VPNs
 ike-scan
 
-# References
+# Related
 
 Tags:
     #assorted

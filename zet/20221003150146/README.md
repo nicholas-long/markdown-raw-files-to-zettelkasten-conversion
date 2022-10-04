@@ -18,7 +18,7 @@ check `man stty`, section "Output settings", it should be able to accomplish all
   - ixany let any character restart output, not only start character
   - inpck enable input parity checking
 
-# References
+# Related
 - [20221003150147](/zet/20221003150147/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks
 - ~/kb/linux/cyberpunk-retro-machine-serial-terminals.md
 

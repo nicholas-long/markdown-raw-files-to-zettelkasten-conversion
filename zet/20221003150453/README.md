@@ -1,6 +1,6 @@
 # java decompiler JD-GUI analyze
 
-# References
+# Related
 - [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI
 - [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file
 - [20221003150451](/zet/20221003150451/README.md) java decompiler JD-GUI analyze jar file

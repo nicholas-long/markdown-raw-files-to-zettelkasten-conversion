@@ -1,7 +1,7 @@
 # proxmox server layout ISO upload location
 /var/lib/vz/template/iso
 
-# References
+# Related
 - [20221003150142](/zet/20221003150142/README.md) proxmox server layout
 - ~/kb/linux/proxmox.md
 

@@ -2,7 +2,7 @@
 `i686-w64-mingw32-gcc`
 mingw-w64 and associated packages
 
-# References
+# Related
 
 Tags:
     #assorted

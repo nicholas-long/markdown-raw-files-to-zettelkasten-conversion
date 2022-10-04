@@ -4,7 +4,7 @@ less -r file.log
 less -f -r file.log
 ```
 
-# References
+# Related
 - [20221003150174](/zet/20221003150174/README.md) less
 - ~/kb/linux/less.md
 

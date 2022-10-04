@@ -3,7 +3,7 @@
   - default put location is `/var/lib/tftpboot/`
 - read files
 
-# References
+# Related
 
 Tags:
     #assorted

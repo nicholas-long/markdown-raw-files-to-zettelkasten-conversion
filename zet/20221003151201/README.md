@@ -3,7 +3,7 @@
 - rdp into machine to see the login screen and get an idea of OS
 - change user password
 
-# References
+# Related
 
 Tags:
     #assorted

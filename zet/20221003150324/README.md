@@ -1,6 +1,6 @@
 # vmware carbon black cloud
 
-# References
+# Related
 
 Tags:
     #assorted

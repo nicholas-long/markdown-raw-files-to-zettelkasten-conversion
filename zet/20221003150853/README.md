@@ -3,7 +3,7 @@
 dig axfr @$IP zonetransfer.me
 ```
 
-# References
+# Related
 - [20221003150855](/zet/20221003150855/README.md) dns commands
 - ~/kb/hacking/commands/dns-commands.md
 

@@ -1,6 +1,6 @@
 # gobuster
 
-# References
+# Related
 - [20221003150846](/zet/20221003150846/README.md) gobuster dirbusting
 - [20221003150845](/zet/20221003150845/README.md) gobuster scan files and discover backups
 - [20221003150844](/zet/20221003150844/README.md) gobuster Fast Scan (Small List)

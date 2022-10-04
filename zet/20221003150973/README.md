@@ -8,7 +8,7 @@ Address: 10.10.10.10#53
 > 127.0.0.1
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

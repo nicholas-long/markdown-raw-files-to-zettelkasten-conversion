@@ -2,7 +2,7 @@
 - proprietary format
 - leaks information about directories and files
 
-# References
+# Related
 - [20221003151018](/zet/20221003151018/README.md) .DS_Store file ds_store Mac OS parse scrape directory and file information
 - ~/kb/hacking/methodology/ds-store-file.md
 

@@ -9,7 +9,7 @@ gobuster dir -e -t 50 -x php,txt,html -d -u $URL -w /usr/share/seclists/Discover
 gobuster dir -e -t 50 -x php,txt,html -d -u $URL -w cewl_wordlist
 ```
 
-# References
+# Related
 - [20221003150847](/zet/20221003150847/README.md) gobuster
 - ~/kb/hacking/commands/gobuster.md
 

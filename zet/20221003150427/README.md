@@ -7,7 +7,7 @@ bopscrk -i
 ```
 
 
-# References
+# Related
 - [20221003150433](/zet/20221003150433/README.md) generate wordlists
 - ~/kb/hacking/misc/important-repositories-tools.md
 

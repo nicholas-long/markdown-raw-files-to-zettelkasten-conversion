@@ -1,6 +1,6 @@
 # PureFTP
 
-# References
+# Related
 - [20221003150622](/zet/20221003150622/README.md) PureFTP Install
 - [20221003150621](/zet/20221003150621/README.md) PureFTP Create setupftp.sh Execute The Script
 - [20221003150620](/zet/20221003150620/README.md) PureFTP Get Service Ready

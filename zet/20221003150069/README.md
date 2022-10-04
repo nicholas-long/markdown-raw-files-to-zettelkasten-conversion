@@ -5,7 +5,7 @@ tab all
 ```
 run `:tab all` to put the files in tabs
 
-# References
+# Related
 - [20221003150071](/zet/20221003150071/README.md) vim edit multiple files
 - ~/kb/vim/edit-multiple-files.md
 

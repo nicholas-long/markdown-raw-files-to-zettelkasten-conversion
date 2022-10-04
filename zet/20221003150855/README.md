@@ -1,6 +1,6 @@
 # dns commands
 
-# References
+# Related
 - [20221003150854](/zet/20221003150854/README.md) dns commands reverse lookup with dig
 - [20221003150853](/zet/20221003150853/README.md) dns commands zone transfer axfr
 - [20221003150852](/zet/20221003150852/README.md) dns commands enumerate with ANY query

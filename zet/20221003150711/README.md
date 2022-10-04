@@ -4,7 +4,7 @@ thsark and tcpdump both use `-r` to read file and `-w` to write file
 tshark -r $FILE
 ```
 
-# References
+# Related
 - [20221003150717](/zet/20221003150717/README.md) packet capture
 - ~/kb/hacking/commands/packet-capture.md
 

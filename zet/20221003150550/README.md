@@ -7,7 +7,7 @@ findomain -t "$URL" -q
 subfinder -d "$URL"
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

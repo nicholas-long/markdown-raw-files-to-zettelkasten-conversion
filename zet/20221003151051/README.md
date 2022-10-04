@@ -7,7 +7,7 @@ ntpdate -q $IP
 sudo ntpdate $IP
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

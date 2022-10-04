@@ -1,6 +1,6 @@
 # wfuzz fuzzing details
 
-# References
+# Related
 - [20221003150811](/zet/20221003150811/README.md) wfuzz fuzzing details "X-Forwarded-For" header with custom IPS
 - [20221003150810](/zet/20221003150810/README.md) wfuzz fuzzing details fuzz multiple parameters
 - [20221003150809](/zet/20221003150809/README.md) wfuzz fuzzing details show or hide responses containing text regex

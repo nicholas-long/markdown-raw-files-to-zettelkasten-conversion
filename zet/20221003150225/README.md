@@ -1,6 +1,6 @@
 # bettercap
 
-# References
+# Related
 - [20221003150224](/zet/20221003150224/README.md) bettercap start commnad
 - [20221003150223](/zet/20221003150223/README.md) bettercap settings
 - ~/kb/hacking/lan/bettercap-options.md

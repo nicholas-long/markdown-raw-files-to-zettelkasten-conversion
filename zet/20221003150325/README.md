@@ -1,6 +1,6 @@
 # Microsoft Defender for Endpoint - enterprise protection
 
-# References
+# Related
 
 Tags:
     #assorted

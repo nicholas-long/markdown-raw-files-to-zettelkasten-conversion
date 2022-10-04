@@ -4,7 +4,7 @@ and the CA creates and signs a certificate using the attacker-supplied SAN, the 
 - seven privesc scenarios in paper ESC1-7
 - relaying as CA ESC8
 
-# References
+# Related
 - [20221003151097](/zet/20221003151097/README.md) active directory certificate services AD CS
 - ~/kb/hacking/windows/active-directory-certificate-services.md
 

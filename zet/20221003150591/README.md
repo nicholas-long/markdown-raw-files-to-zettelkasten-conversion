@@ -3,7 +3,7 @@
 php -a
 ```
 
-# References
+# Related
 - [20221003150592](/zet/20221003150592/README.md) php
 - ~/kb/hacking/php/PHP-quick-command-reference.md
 

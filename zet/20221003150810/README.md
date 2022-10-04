@@ -4,7 +4,7 @@
 - use `FUZ2Z` for the second fuzz placeholder
   - example: `-H 'X-Forwarded-For: FUZ2Z'`
 
-# References
+# Related
 - [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
 - ~/kb/hacking/commands/wfuzz-fuzzing.md
 

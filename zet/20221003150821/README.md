@@ -3,7 +3,7 @@
 hydra -C /usr/share/seclists/Passwords/Default-Credentials/ftp-betterdefaultpasslist.txt $IP ftp
 ```
 
-# References
+# Related
 - [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
 - ~/kb/hacking/commands/hydra-ftp-command.md
 

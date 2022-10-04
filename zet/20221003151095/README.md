@@ -2,7 +2,7 @@
 - misconfigured certificate templates
 - compromised CA private key
 
-# References
+# Related
 - [20221003151097](/zet/20221003151097/README.md) active directory certificate services AD CS
 - ~/kb/hacking/windows/active-directory-certificate-services.md
 

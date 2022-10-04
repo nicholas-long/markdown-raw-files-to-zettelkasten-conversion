@@ -5,7 +5,7 @@ cewl http://$IP -w cewl_wordlist
 cewl http://$IP -w cewl_wordlist_num --with-numbers
 ```
 
-# References
+# Related
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist
 - ~/kb/hacking/commands/generate-cewl-wordlist.md
 

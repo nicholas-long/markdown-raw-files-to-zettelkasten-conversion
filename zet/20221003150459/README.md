@@ -79,7 +79,7 @@ sm4-ctr
 sm4-ecb
 sm4-ofb
 
-# References
+# Related
 
 Tags:
     #assorted

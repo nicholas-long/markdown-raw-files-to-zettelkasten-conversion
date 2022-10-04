@@ -3,7 +3,7 @@
 .\mimikatz "privilege::debug" "sekurlsa::logonpasswords" exit
 ```
 
-# References
+# Related
 - [20221003151089](/zet/20221003151089/README.md) mimikatz
 - ~/kb/hacking/windows/mimikatz.md
 

@@ -4,7 +4,7 @@ Crack from stdin: pass `-` as wordlist parameter
 sucrack -u root -
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

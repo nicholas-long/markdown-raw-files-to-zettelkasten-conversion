@@ -5,7 +5,7 @@ bindkey '\e[A' history-search-backward
 bindkey '\e[B' history-search-forward
 ```
 
-# References
+# Related
 - [20221003150191](/zet/20221003150191/README.md) zsh
 - ~/kb/linux/zsh-see-default-bindings.md
 

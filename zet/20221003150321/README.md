@@ -1,6 +1,6 @@
 # arctic wolf
 
-# References
+# Related
 
 Tags:
     #assorted

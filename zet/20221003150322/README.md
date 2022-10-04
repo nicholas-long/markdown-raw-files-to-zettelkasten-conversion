@@ -1,7 +1,7 @@
 # cyber reason
 B tier of AV
 
-# References
+# Related
 
 Tags:
     #assorted

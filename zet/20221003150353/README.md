@@ -24,7 +24,7 @@ cp pam_unix.so /host
 exit
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

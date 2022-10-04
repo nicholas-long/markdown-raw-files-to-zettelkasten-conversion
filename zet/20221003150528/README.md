@@ -3,7 +3,7 @@
 set follow-fork-mode child
 ```
 
-# References
+# Related
 - [20221003150529](/zet/20221003150529/README.md) gdb commands
 - ~/kb/hacking/pwn/gdb-commands.md
 

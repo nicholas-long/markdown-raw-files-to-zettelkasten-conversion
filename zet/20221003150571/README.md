@@ -1,6 +1,6 @@
 # PHP unserialize payload gadget chains
 
-# References
+# Related
 - [20221003150570](/zet/20221003150570/README.md) PHP unserialize payload gadget chains like ysoserial but for PHP
 - ~/kb/hacking/php/deserialization-attacks.md
 

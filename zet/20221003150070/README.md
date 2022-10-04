@@ -1,6 +1,6 @@
 # vim edit multiple files add args while running and converting into tabs
 
-# References
+# Related
 - [20221003150071](/zet/20221003150071/README.md) vim edit multiple files
 - ~/kb/vim/edit-multiple-files.md
 

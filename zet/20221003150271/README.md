@@ -11,7 +11,7 @@ ippsec video "LaCasaDePapel"
 - if it doesn't work, clear history and everything and reimport certificates
 - can add client certificate to burp in user options -> ssl
 
-# References
+# Related
 
 Tags:
     #assorted

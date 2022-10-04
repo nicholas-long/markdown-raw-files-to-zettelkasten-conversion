@@ -3,7 +3,7 @@
 int.from_bytes( these_bytes, 'little' )
 ```
 
-# References
+# Related
 - [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes
 - ~/kb/hacking/pwn/python-tricks.md
 

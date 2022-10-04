@@ -3,7 +3,7 @@
 nc -l -p 1234 > out.file
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

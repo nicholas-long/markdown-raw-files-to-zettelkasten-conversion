@@ -9,7 +9,7 @@ send
 quit
 ```
 
-# References
+# Related
 - [20221003150851](/zet/20221003150851/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate
 - ~/kb/hacking/commands/dns-commands.md
 

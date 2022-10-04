@@ -7,7 +7,7 @@ python3 -m pip install --user ds_store argparse
 python3 ds_store_parser.py -i ../.DS_Store
 ```
 
-# References
+# Related
 - [20221003151019](/zet/20221003151019/README.md) .DS_Store file ds_store Mac OS
 - ~/kb/hacking/methodology/ds-store-file.md
 

@@ -1,6 +1,6 @@
 # Test CVE-2021-4034 in a docker
 
-# References
+# Related
 - [20221003150889](/zet/20221003150889/README.md) Test CVE-2021-4034 in a docker Original exploit
 - [20221003150888](/zet/20221003150888/README.md) Test CVE-2021-4034 in a docker Links to deb files
 - [20221003150887](/zet/20221003150887/README.md) Test CVE-2021-4034 in a docker Setup

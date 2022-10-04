@@ -1,6 +1,6 @@
 # API enumeration good wordlists
 
-# References
+# Related
 - [20221003151006](/zet/20221003151006/README.md) API enumeration
 - [20221003151003](/zet/20221003151003/README.md) API enumeration good wordlists seclists for endpoints
 - [20221003151002](/zet/20221003151002/README.md) API enumeration good wordlists parameters

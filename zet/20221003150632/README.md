@@ -3,7 +3,7 @@
 cat dpkg.log | grep 'status installed' | awk /2-26/
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

@@ -6,7 +6,7 @@ string.ascii_uppercase + string.ascii_lowercase + string.digits
 string.punctuation
 ```
 
-# References
+# Related
 - [20221003150946](/zet/20221003150946/README.md) python
 - ~/kb/hacking/python/python-quick-reference.md
 

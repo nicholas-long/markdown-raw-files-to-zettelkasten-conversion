@@ -10,7 +10,7 @@
 ```
 
 ~/kb/awk-scripting/base64-every-line.awk
-# References
+# Related
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - ~/kb/auto-awk.md
 

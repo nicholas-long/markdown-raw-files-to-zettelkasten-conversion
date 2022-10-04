@@ -4,7 +4,7 @@ This example is piping the passwords into a loop to print their md5 sums and sea
 hashcat --force --stdout -a 3 '?d?d?d?d?l?l?l?l' | while read line; do echo -n $line | md5sum; done | grep 'bad\|a55'
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

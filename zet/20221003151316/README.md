@@ -1,6 +1,6 @@
 # bash scripting substitution syntax
 
-# References
+# Related
 - [20221003151315](/zet/20221003151315/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it
 - [20221003151313](/zet/20221003151313/README.md) bash scripting substitution syntax return variables value or default
 - [20221003151312](/zet/20221003151312/README.md) bash scripting substitution syntax return substring of name

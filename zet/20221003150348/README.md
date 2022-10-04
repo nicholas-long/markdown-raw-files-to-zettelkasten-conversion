@@ -379,7 +379,7 @@ activate = 1
 [ssl_sect]
 system_default = kali_wide_compatibility
 ```
-# References
+# Related
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
 - ~/kb/hacking/misc/troubleshoot-error-messages.md
 

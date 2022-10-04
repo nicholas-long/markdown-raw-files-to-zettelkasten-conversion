@@ -28,7 +28,7 @@ echo Next >> wget.vbs
 echo ts.Close >> wget.vbs
 ```
 
-# References
+# Related
 - [20221003151230](/zet/20221003151230/README.md) VBScript
 - ~/kb/hacking/tricks/vbscript-wget-hack.md
 

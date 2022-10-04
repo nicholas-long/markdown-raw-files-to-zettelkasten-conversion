@@ -1,6 +1,6 @@
 # python scripting requests http
 
-# References
+# Related
 - [20221003150105](/zet/20221003150105/README.md) python scripting
 - [20221003150103](/zet/20221003150103/README.md) python scripting requests http upload file
 - [20221003150102](/zet/20221003150102/README.md) python scripting requests http cookies

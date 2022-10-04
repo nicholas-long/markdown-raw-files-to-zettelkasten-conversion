@@ -1,6 +1,6 @@
 # IPMI intelligent platform management interface
 
-# References
+# Related
 - [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix
 - [20221003150268](/zet/20221003150268/README.md) IPMI intelligent platform management interface BMC
 - [20221003150267](/zet/20221003150267/README.md) IPMI intelligent platform management interface udp port 613

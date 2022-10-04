@@ -5,7 +5,7 @@ git reflog --all
 git checkout $COMMIT_HASH -- .
 ```
 
-# References
+# Related
 - [20221003150798](/zet/20221003150798/README.md) git
 - ~/kb/hacking/commands/git.md
 

@@ -7,7 +7,7 @@
     - edit in source view and set text type at bottom to php code
 - wordpress -> edit plugins or themes to install web shell
 
-# References
+# Related
 - [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login
 - ~/kb/hacking/to-try-lists/HTTP.md
 

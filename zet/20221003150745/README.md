@@ -4,7 +4,7 @@ keepass2john -k $IMAGE database.kdbx
 ```
 For hashcat, make sure all hashes load or do one at a time
 
-# References
+# Related
 
 Tags:
     #assorted

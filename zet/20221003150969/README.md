@@ -7,7 +7,7 @@
 - install burp certificate
 - see what API calls the app is making
 
-# References
+# Related
 - [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing
 - ~/kb/hacking/methodology/mobile-apps-and-api-testing.md
 

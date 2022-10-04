@@ -5,7 +5,7 @@
 - 2021 : hivenightmare
 - 2020 : smbghost
 
-# References
+# Related
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 - ~/kb/hacking/to-try-lists/privesc/windows.md
 

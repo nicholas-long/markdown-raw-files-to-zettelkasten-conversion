@@ -3,7 +3,7 @@
 !mona modules
 ```
 
-# References
+# Related
 - [20221003150537](/zet/20221003150537/README.md) immunity debugger mona commands
 - ~/kb/hacking/pwn/basic-win-pwn.md
 

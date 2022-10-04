@@ -5,7 +5,7 @@ authentication is different for localhost.
 net use Z: \\127.0.0.1\c$
 ```
 
-# References
+# Related
 - [20221003151064](/zet/20221003151064/README.md) bypass UAC with administrators group
 - ~/kb/hacking/windows/uacbypass/uac-bypass.md
 

@@ -14,7 +14,7 @@
   - snusbase
   - scylla.sh - free, not always as thorough as paid services
 
-# References
+# Related
 - [20221003150966](/zet/20221003150966/README.md) OSINT
 - [20221003150957](/zet/20221003150957/README.md) OSINT password OSINT gives you the credentials
 - ~/kb/hacking/methodology/osint-overview.md

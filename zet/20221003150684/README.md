@@ -4,7 +4,7 @@ tr '/+' '_-' | tr -d '='
 base64 | tr '/+' '_-' | tr -d '='
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

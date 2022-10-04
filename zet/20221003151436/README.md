@@ -20,7 +20,7 @@ function expand_rec(str, pos) {
 ```
 
 ~/kb/awk-scripting/space-invader.awk
-# References
+# Related
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - ~/kb/auto-awk.md
 

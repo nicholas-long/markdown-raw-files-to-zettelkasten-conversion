@@ -4,7 +4,7 @@ getfacl -R -s .
 getfacl -R -s /
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

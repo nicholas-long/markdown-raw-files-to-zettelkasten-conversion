@@ -17,7 +17,7 @@ lxc config device add mycontainer mydevice disk source=/ path=/mnt/root recursiv
 lxc start mycontainer
 lxc exec mycontainer /bin/sh
 ```
-# References
+# Related
 - [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems
 - ~/kb/hacking/priv-esc/lxd/lxd-priv-esc.md
 

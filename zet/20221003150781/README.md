@@ -5,7 +5,7 @@ cd enum4linux-ng/
 python3 enum4linux-ng.py -u guest $IP
 ```
 
-# References
+# Related
 - [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen
 - ~/kb/hacking/commands/enum4linux-command.md
 

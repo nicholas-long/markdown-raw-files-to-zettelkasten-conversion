@@ -5,7 +5,7 @@ export KRB5CCNAME=$(pwd)/User.ccache
 crackmapexec smb fqdn.domain.local -u User --kerberos
 ```
 
-# References
+# Related
 - [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket
 - ~/kb/hacking/commands/windows-active-directory-kerberos-commands.md
 

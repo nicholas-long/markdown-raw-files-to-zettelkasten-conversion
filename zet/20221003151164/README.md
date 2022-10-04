@@ -7,7 +7,7 @@
 - snmp-check for dumping interesting and categorized enumeration information
 - onesixtyone
 
-# References
+# Related
 
 Tags:
     #assorted

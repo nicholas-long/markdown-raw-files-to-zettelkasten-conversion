@@ -3,7 +3,7 @@
 openssl genrsa -out client.key 4096
 ```
 
-# References
+# Related
 - [20221003150791](/zet/20221003150791/README.md) openssl
 - ~/kb/hacking/commands/openssl-general.md
 

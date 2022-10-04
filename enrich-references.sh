@@ -9,7 +9,7 @@ for zid in $(ls zet); do
   cat README.md | awk '
   pr && /^#/ { exit }
   pr { print }
-  /^# [Rr]eferences/ { pr = 1 }
+  /^# [Rr]elated/ { pr = 1 }
   ' > references
   awk '
   /^- [0-9]{14} *$/ {
@@ -22,8 +22,8 @@ for zid in $(ls zet); do
   { print }
   ' references > references_enriched
 
-  { awk '/^# [Rr]eferences/ { exit } { print }' README.md
-  echo "# References"
+  { awk '/^# [Rr]elated/ { exit } { print }' README.md
+  echo "# Related"
   cat references_enriched
   } > README_enriched.md
 

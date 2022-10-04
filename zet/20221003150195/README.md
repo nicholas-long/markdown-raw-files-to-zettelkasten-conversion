@@ -3,7 +3,7 @@
 * * * * * /bin/bash -c "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus /usr/bin/notify-send -i appointment -c 'im' 'Keep Working'"
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

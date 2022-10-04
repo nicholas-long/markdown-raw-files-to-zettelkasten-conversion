@@ -3,7 +3,7 @@
 hydra -L users -P passwords -e nsr $IP ssh -t 1
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

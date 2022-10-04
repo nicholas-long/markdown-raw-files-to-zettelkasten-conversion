@@ -1,6 +1,6 @@
 # active directory 
 
-# References
+# Related
 - [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions
 - [20221003151140](/zet/20221003151140/README.md) active directory  NTLMv2 vs kerberos authentication on the network
 - [20221003151139](/zet/20221003151139/README.md) active directory  ForceChangePassword change user password

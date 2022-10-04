@@ -1,6 +1,6 @@
 # ex commands
 
-# References
+# Related
 - [20221003150175](/zet/20221003150175/README.md) ex commands  Some of these might apply to ed as well
 - ~/kb/linux/ex-notes.md
 

@@ -29,7 +29,7 @@ main[1] cont
 The application exited
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

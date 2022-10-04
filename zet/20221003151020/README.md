@@ -4,7 +4,7 @@ https://cobalt.io/blog/a-pentesters-guide-to-server-side-template-injection-ssti
 ${{<%[%'"}}%\.
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

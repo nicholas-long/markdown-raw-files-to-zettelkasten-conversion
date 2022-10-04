@@ -23,7 +23,7 @@ END {
 ```
 
 ~/kb/awk-scripting/autogenerate-headings-for-source-files.awk
-# References
+# Related
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - ~/kb/auto-awk.md
 

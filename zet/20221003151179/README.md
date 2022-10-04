@@ -7,7 +7,7 @@
 - Unauth enum enumerate commands with `HELP`
 - everything from everything list [EVERYTHING](EVERYTHING.md#everything)
 
-# References
+# Related
 
 Tags:
     #assorted

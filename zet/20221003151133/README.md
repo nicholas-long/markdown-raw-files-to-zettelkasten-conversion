@@ -10,7 +10,7 @@ cat managed_password | awk '{ printf("%.2x", $1) }' > managed_password.hex
 ~/kb/hacking/windows/convert-msds-managed-password-to-ntlm-hash.py
 ```
 
-# References
+# Related
 - [20221003151134](/zet/20221003151134/README.md) active directory  GMSA group managed service account
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 

@@ -1,6 +1,6 @@
 # john the ripper
 
-# References
+# Related
 - [20221003150870](/zet/20221003150870/README.md) john the ripper crack hashes from file with wordlist
 - [20221003150869](/zet/20221003150869/README.md) john the ripper use rules to crack hashes from file with wordlist
 - [20221003150868](/zet/20221003150868/README.md) john the ripper find all file formats supported with a 2john script or tojohn

@@ -3,7 +3,7 @@ The version number reported in patched polkit installations is identical to the 
 Linpeas may report false positives.
 A workaround in some older HTB or CTF boxes was just to remove setuid.
 
-# References
+# Related
 
 Tags:
     #assorted

@@ -3,7 +3,7 @@
 locate -r 'deb$'
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

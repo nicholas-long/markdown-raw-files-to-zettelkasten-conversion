@@ -1,7 +1,7 @@
 # swap panes
 prefix + `{`
 
-# References
+# Related
 
 Tags:
     #assorted

@@ -18,7 +18,7 @@ docker run --rm \
 ```
 
 ~/kb/linux/runneo4j.sh
-# References
+# Related
 - [20221003151424](/zet/20221003151424/README.md) bash scripting
 - ~/kb/auto-bash.md
 

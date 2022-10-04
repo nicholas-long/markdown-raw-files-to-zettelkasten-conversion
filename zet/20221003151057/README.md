@@ -1,6 +1,6 @@
 # get windows enumeration info from file read
 
-# References
+# Related
 
 Tags:
     #assorted

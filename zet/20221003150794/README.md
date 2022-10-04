@@ -1,6 +1,6 @@
 # generate cewl wordlist from file
 
-# References
+# Related
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist
 - [20221003150793](/zet/20221003150793/README.md) generate cewl wordlist from file using temporary http server
 - [20221003150792](/zet/20221003150792/README.md) generate cewl wordlist from file plaintext with grep

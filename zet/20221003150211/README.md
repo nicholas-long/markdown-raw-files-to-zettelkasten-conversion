@@ -7,7 +7,7 @@ d=$(( d * 1000 )) # convert to ms
 kafkacat -b kafka -C -t wifi-data-raw -e -o "s@$d"
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

@@ -8,7 +8,7 @@
   - architecture (especially significant buildings)
 - geoguessr.com gamified location id; one free play per day
 
-# References
+# Related
 - [20221003150961](/zet/20221003150961/README.md) OSINT physical location OSINT
 - ~/kb/hacking/methodology/osint-overview.md
 

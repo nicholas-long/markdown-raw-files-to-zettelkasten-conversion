@@ -9,7 +9,7 @@ PayloadsAllTheThings
 <data>&file;</data>
 ```
 
-# References
+# Related
 - [20221003150975](/zet/20221003150975/README.md) XXE xml external entity
 - ~/kb/hacking/methodology/XXE.md
 

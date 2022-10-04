@@ -34,7 +34,7 @@ tips from InsiderPhD
       - waybackmachine
     - append any domain specific knowledge to wordlists
 
-# References
+# Related
 - [20221003151006](/zet/20221003151006/README.md) API enumeration
 - ~/kb/hacking/methodology/API-enumeration.md
 

@@ -1,7 +1,7 @@
 # crowdstrike falcon
 top tier endpoint protection AV
 
-# References
+# Related
 
 Tags:
     #assorted

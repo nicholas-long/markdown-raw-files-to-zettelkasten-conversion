@@ -1,6 +1,6 @@
 # proxmox
 
-# References
+# Related
 - [20221003150142](/zet/20221003150142/README.md) proxmox server layout
 - ~/kb/linux/proxmox.md
 

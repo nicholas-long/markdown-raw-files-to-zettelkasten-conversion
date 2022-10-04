@@ -3,7 +3,7 @@
 sudo bettercap -autostart events.stream,net.recon,net.sniff,net.probe,arp.spoof,any.proxy
 ```
 
-# References
+# Related
 - [20221003150225](/zet/20221003150225/README.md) bettercap
 - ~/kb/hacking/lan/bettercap-options.md
 

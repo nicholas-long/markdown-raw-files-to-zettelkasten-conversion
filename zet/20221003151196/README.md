@@ -4,7 +4,7 @@
 - ipmitool
 - zabbix -> authenticated RCE
 
-# References
+# Related
 
 Tags:
     #assorted

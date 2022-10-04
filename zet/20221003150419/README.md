@@ -1,6 +1,6 @@
 # text cipher encryption decryption tools
 
-# References
+# Related
 - [20221003150418](/zet/20221003150418/README.md) text cipher encryption decryption tools Affine
 - [20221003150417](/zet/20221003150417/README.md) text cipher encryption decryption tools Atbash
 - [20221003150416](/zet/20221003150416/README.md) text cipher encryption decryption tools Baconian

@@ -34,7 +34,7 @@
     - heap exploit houses can get fixed in newer libc versions
 - canaries enabled with overflow on a forking server -> brute force canaries
 
-# References
+# Related
 
 Tags:
     #assorted

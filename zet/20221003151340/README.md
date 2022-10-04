@@ -5,7 +5,7 @@ or call `fflush()` after important prints.
 { fflush() }
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

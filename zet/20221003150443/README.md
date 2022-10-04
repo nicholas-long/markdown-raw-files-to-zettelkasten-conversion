@@ -1,7 +1,7 @@
 # seclists github
 https://github.com/danielmiessler/SecLists
 
-# References
+# Related
 
 Tags:
     #assorted

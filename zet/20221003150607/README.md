@@ -8,7 +8,7 @@ example:
 smbclient \\\\$IP\\Data -U John -c 'prompt OFF;recurse ON;cd '\Users\John\';lcd '/tmp/John';mget *'
 ```
 
-# References
+# Related
 - [20221003150611](/zet/20221003150611/README.md) smbclient
 - ~/kb/hacking/commands/smbclient-commands.md
 

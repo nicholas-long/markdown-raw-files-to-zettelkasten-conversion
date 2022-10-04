@@ -1,6 +1,6 @@
 # python
 
-# References
+# Related
 - [20221003150945](/zet/20221003150945/README.md) python hex to string
 - [20221003150944](/zet/20221003150944/README.md) python hex to bytes
 - [20221003150943](/zet/20221003150943/README.md) python string alphanumeric chars

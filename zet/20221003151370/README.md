@@ -8,7 +8,7 @@ cat composer.lock | jq -r '.packages[] | .name,.version' | paste - -
 ```
 
 ~/kb/hacking/tricks/get-versions-from-composer-lock-json.sh
-# References
+# Related
 - [20221003151424](/zet/20221003151424/README.md) bash scripting
 - ~/kb/auto-bash.md
 

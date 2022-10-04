@@ -49,7 +49,7 @@ drwxr-xr-x  3 kali kali 4096 Jan 27 17:58 priv-esc                              
 └─$                                                                                                                                                                                       1 ⨯
 [8] 0:zsh*                                                                                                                                                              "kali" 19:25 29-Jan-22
 ```
-# References
+# Related
 
 Tags:
     #assorted

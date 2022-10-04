@@ -17,7 +17,7 @@ ARGIND == 2 {
 ```
 
 ~/kb/awk-scripting/combine-files.awk
-# References
+# Related
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - ~/kb/auto-awk.md
 

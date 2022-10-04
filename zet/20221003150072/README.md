@@ -5,7 +5,7 @@ Edit config file `~/.SpaceVim.d/init.toml`
     windows_smartclose = ''
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

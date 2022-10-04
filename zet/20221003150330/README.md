@@ -4,7 +4,7 @@ if you can roughly guess the size of the input text, you can try all the ciphers
 try oracle padding to brute force one byte at a time for block cipher encrypted cookies
 try hash length extension
 
-# References
+# Related
 
 Tags:
     #assorted

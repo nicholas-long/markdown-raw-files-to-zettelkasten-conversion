@@ -23,7 +23,7 @@ print(repr(params))
 ```
 
 ~/kb/python/get-url-params.py
-# References
+# Related
 - [20221003151363](/zet/20221003151363/README.md) python scripting
 - ~/kb/auto-python.md
 

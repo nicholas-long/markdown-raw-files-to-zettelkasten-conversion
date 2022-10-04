@@ -2,7 +2,7 @@
 HTTP auth
 `/manager/html`
 
-# References
+# Related
 - [20221003150462](/zet/20221003150462/README.md) tomcat
 - ~/kb/hacking/misc/tomcat.md
 

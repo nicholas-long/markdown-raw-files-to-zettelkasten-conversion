@@ -10,7 +10,7 @@ positional arg    filter expression
 ssh user@$IP "/usr/bin/tcpdump -i lo -U -s0 -w - 'not port 22'" | wireshark -k -i -
 ```
 
-# References
+# Related
 - [20221003150717](/zet/20221003150717/README.md) packet capture
 - ~/kb/hacking/commands/packet-capture.md
 

@@ -4,7 +4,7 @@ http://example.com/index.php?page=php://filter/convert.base64-encode/resource=in
 php://filter/convert.base64-encode/resource=
 ```
 
-# References
+# Related
 - [20221003150581](/zet/20221003150581/README.md) php LFI include PHP filter URL
 - ~/kb/hacking/php/lfi.md
 

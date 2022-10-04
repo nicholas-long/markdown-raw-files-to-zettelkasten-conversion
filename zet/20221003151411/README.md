@@ -7,7 +7,7 @@ sudo docker run --rm -it -v "$(pwd):$(pwd)" -w "$(pwd)" $1
 ```
 
 ~/kb/bash-scripting/docker-current-directory.sh
-# References
+# Related
 - [20221003151424](/zet/20221003151424/README.md) bash scripting
 - ~/kb/auto-bash.md
 

@@ -1,7 +1,7 @@
 # solidity
 Solidity is an object-oriented, high-level language for implementing smart contracts
 
-# References
+# Related
 
 Tags:
     #assorted

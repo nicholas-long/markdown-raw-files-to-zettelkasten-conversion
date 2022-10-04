@@ -3,7 +3,7 @@
 nikto -host $IP
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

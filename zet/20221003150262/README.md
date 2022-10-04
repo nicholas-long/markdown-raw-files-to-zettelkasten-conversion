@@ -7,7 +7,7 @@ vulnerable
 crackable?
 brute forceable if used to generate a cookie
 
-# References
+# Related
 - [20221003150265](/zet/20221003150265/README.md) block ciphers
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
 

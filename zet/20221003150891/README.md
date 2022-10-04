@@ -3,7 +3,7 @@
 netstat -tunlp
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

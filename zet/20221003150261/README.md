@@ -7,7 +7,7 @@ crackable
 replayable
 can encrypt known string and xor to get cipher
 
-# References
+# Related
 - [20221003150265](/zet/20221003150265/README.md) block ciphers
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
 

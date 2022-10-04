@@ -1,6 +1,6 @@
 # top tier endpoint protection AV defender
 
-# References
+# Related
 
 Tags:
     #assorted

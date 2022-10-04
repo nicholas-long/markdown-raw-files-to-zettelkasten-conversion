@@ -3,7 +3,7 @@
 -r post_request.txt --dbms "mysql" --os-shell
 ```
 
-# References
+# Related
 - [20221003150709](/zet/20221003150709/README.md) sqlmap
 - ~/kb/hacking/commands/sqlmap-commands.md
 

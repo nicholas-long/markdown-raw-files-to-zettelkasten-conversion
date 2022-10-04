@@ -32,7 +32,7 @@
 - cgi-bin old servers -> shellshock
 - everything list (including web server version) [EVERYTHING](EVERYTHING.md#everything)
 
-# References
+# Related
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
 

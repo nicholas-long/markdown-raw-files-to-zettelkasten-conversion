@@ -5,7 +5,7 @@ downloads the file
 fetch $URL
 ```
 
-# References
+# Related
 - [20221003150923](/zet/20221003150923/README.md) BSD
 - ~/kb/hacking/priv-esc/bsd-enumeration.md
 

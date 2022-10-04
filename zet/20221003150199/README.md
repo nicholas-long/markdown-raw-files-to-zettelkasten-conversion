@@ -3,7 +3,7 @@
 dpkg -L vim
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

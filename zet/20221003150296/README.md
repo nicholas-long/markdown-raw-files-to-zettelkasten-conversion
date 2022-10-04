@@ -8,7 +8,7 @@ go get golang.org/x/crypto/pbkdf2
 go run file.go
 ```
 
-# References
+# Related
 - [20221003150299](/zet/20221003150299/README.md) fixing golang module errors
 - ~/kb/hacking/misc/assorted-information.md
 

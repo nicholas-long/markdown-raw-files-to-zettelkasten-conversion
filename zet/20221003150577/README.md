@@ -37,7 +37,7 @@ fwrite($myfile, $creds);
 fclose($myfile);
 ?>
 ```
-# References
+# Related
 
 Tags:
     #assorted

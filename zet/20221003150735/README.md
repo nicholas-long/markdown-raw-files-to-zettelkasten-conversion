@@ -10,7 +10,7 @@ feroxbuster --url http://$IP/ -B -E -g -w /usr/share/seclists/Discovery/Web-Cont
 feroxbuster --url http://$IP/ -B -g -w /usr/share/seclists/Discovery/Web-Content/raft-medium-files.txt -e
 ```
 
-# References
+# Related
 - [20221003150739](/zet/20221003150739/README.md) feroxbuster
 - [20221003150734](/zet/20221003150734/README.md) feroxbuster files, backups, and extensions fix recursion loop
 - [20221003150733](/zet/20221003150733/README.md) feroxbuster files, backups, and extensions backups and extensions files command

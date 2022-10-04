@@ -6,7 +6,7 @@ def exec_fmt(payload_input):
 
 f = FmtStr(exec_fmt, offset=6)
 ```
-# References
+# Related
 - [20221003150503](/zet/20221003150503/README.md) pwntools
 - ~/kb/hacking/pwn/pwntools.md
 

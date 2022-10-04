@@ -21,7 +21,7 @@ Transmission of data frames between two nodes connected by a physical layer
 
 - 1 Physical Bit, Symbol
 Transmission and reception of raw bit streams over a physical medium
-# References
+# Related
 
 Tags:
     #assorted

@@ -4,7 +4,7 @@ davtest -url http://$IP/ -auth 'username:password'
 davtest -url http://$IP/
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

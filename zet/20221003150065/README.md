@@ -1,6 +1,6 @@
 # neovim specific
 
-# References
+# Related
 - [20221003150064](/zet/20221003150064/README.md) neovim specific diff
 - ~/kb/vim/vim.md
 

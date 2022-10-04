@@ -2,7 +2,7 @@
 - 2022 : dirty pipe
 - 2022 : pwnkit - polkit CVE
 
-# References
+# Related
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - ~/kb/hacking/to-try-lists/privesc/linux.md
 

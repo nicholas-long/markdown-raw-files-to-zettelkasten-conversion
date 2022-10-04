@@ -3,7 +3,7 @@
 nmap --script "nfs-*" $IP
 ```
 
-# References
+# Related
 - [20221003150638](/zet/20221003150638/README.md) nmap check for mountable NFS shares
 - ~/kb/hacking/commands/nmap-command.md
 

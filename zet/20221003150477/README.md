@@ -3,7 +3,7 @@
 Get-WindowsFeature *ad-certificate*, *adcs*
 ```
 
-# References
+# Related
 - [20221003150478](/zet/20221003150478/README.md) general enumeration Active Directory Certificate Services
 - ~/kb/hacking/powershell/powershell-enumeration-commands.md
 

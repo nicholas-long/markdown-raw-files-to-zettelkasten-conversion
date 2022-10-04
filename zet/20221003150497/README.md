@@ -1,6 +1,6 @@
 # Machine Info
 
-# References
+# Related
 - [20221003150496](/zet/20221003150496/README.md) Machine Info IP
 - [20221003150495](/zet/20221003150495/README.md) Machine Info OS Info
 - [20221003150494](/zet/20221003150494/README.md) Machine Info Hostnames

@@ -1,6 +1,6 @@
 # MSFVENOM Linux Binary (.elf)
 
-# References
+# Related
 - [20221003150777](/zet/20221003150777/README.md) MSFVENOM
 - [20221003150765](/zet/20221003150765/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86)
 - ~/kb/hacking/commands/msfvenom-commands.md

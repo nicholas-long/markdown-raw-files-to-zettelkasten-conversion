@@ -1,7 +1,7 @@
 # malwarebytes
 worst tier of AV
 
-# References
+# Related
 
 Tags:
     #assorted

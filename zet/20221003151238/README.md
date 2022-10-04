@@ -2,7 +2,7 @@
 - go to `about.config`
 - add `browser.fixup.domainsuffixwhitelist.htb` = true
 
-# References
+# Related
 
 Tags:
     #assorted

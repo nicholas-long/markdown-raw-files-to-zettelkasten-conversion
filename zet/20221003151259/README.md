@@ -3,7 +3,7 @@
 script -q /dev/null -c bash
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

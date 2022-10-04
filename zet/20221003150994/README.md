@@ -7,7 +7,7 @@
 look out for queries mentioning queries (q) and mutation
 queries are usually URL encoded
 
-# References
+# Related
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - ~/kb/hacking/methodology/API-enumeration.md
 

@@ -6,7 +6,7 @@
 - dig "any" query
 - brute force subdomains
 
-# References
+# Related
 
 Tags:
     #assorted

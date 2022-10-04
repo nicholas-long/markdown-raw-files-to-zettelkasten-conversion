@@ -1,7 +1,7 @@
 # GraphQLmap for GraphQL enumeration
 https://github.com/swisskyrepo/GraphQLmap
 
-# References
+# Related
 
 Tags:
     #assorted

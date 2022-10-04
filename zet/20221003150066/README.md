@@ -3,7 +3,7 @@
 vimdiff file1 file2
 ```
 
-# References
+# Related
 - [20221003150067](/zet/20221003150067/README.md) vim
 - ~/kb/vim/vim.md
 

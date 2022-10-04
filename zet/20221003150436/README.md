@@ -1,7 +1,7 @@
 # webshells for all sorts of languages
 https://github.com/tennc/webshell
 
-# References
+# Related
 
 Tags:
     #assorted

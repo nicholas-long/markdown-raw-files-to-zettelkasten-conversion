@@ -17,7 +17,7 @@ NR > 1 && /^#+ / && !block {
 { print }
 END { if (!printedblank) print "" }
 '
-echo "# References"
+echo "# Related"
 if [ -f zet/$id/refs ]; then
   ( cat zet/$id/refs && cat zet/$id/rawfilename | awk '{ print "~/kb/" $0}') | awk 'length() > 0 { print "-", $0 }'
 fi

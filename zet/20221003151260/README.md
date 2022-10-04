@@ -3,7 +3,7 @@
 `wine64`
 kali APT packages have same name
 
-# References
+# Related
 
 Tags:
     #assorted

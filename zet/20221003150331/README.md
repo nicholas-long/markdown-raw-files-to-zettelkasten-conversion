@@ -5,7 +5,7 @@ git clone https://github.com/pimps/JNDI-Exploit-Kit
 git checkout 0b6925d80d453146db917616c521e7fc8419dbf7
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

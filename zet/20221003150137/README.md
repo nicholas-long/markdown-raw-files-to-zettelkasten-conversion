@@ -6,7 +6,7 @@ versions must match.
 sudo apt update && sudo apt upgrade && sudo apt install -y virtualbox
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

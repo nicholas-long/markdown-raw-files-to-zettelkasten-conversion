@@ -9,7 +9,7 @@ crackmapexec smb $IP -u valid_users -p valid_passwords --no-bruteforce --continu
 crackmapexec winrm $IP -u valid_users -p valid_passwords --no-bruteforce --continue-on-success
 ```
 
-# References
+# Related
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
 - ~/kb/hacking/commands/crackmapexec-commands.md
 

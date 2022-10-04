@@ -1,6 +1,6 @@
 # host quick server
 
-# References
+# Related
 - [20221003150872](/zet/20221003150872/README.md) host quick server smtp receive email server
 - ~/kb/hacking/commands/quick-servers.md
 

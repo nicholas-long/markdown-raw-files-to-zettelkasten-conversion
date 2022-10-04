@@ -12,7 +12,7 @@ After editing the file, you can run the following command to make the changes ta
 # sysctl -p
 ```
 
-# References
+# Related
 - [20221003150125](/zet/20221003150125/README.md) routing using a linux box enable ip forwarding
 - ~/kb/linux/routing.md
 

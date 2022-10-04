@@ -3,7 +3,7 @@
 mount -o remount,rw,hidepid=2 /proc
 ```
 
-# References
+# Related
 - [20221003151155](/zet/20221003151155/README.md) linux hardening
 - ~/kb/hacking/defense/linux-hardening.md
 

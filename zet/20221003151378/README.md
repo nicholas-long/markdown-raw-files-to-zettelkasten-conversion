@@ -10,7 +10,7 @@ source ~/kb/docker/build-github-repo-docker-image.sh
 ```
 
 ~/kb/hacking/dockers/enum4linux-ng.sh
-# References
+# Related
 - [20221003151424](/zet/20221003151424/README.md) bash scripting
 - ~/kb/auto-bash.md
 

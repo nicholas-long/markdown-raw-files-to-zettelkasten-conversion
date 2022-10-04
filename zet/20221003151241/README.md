@@ -4,7 +4,7 @@ for host in {1..254}; do ping -c 1 10.1.1.$host; done
 ```
 Filter non windows hosts `| grep 'bytes from' | grep -v 'ttl=12'`
 
-# References
+# Related
 
 Tags:
     #assorted

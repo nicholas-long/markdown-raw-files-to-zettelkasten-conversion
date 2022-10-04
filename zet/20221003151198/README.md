@@ -38,7 +38,7 @@
 - everything from everything list [EVERYTHING](EVERYTHING.md#everything)
 - old -> [old SMB exploits](SMB.md#old-smb-exploits)
 
-# References
+# Related
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
 - ~/kb/hacking/to-try-lists/SMB.md
 

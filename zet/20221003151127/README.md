@@ -3,7 +3,7 @@ delegation in kerberos is how a user can perform actions on behalf of another us
 extension to kerberos.
 can be found with bloodhound or with `impacket-findDelegation`.
 
-# References
+# Related
 - [20221003151144](/zet/20221003151144/README.md) active directory 
 - [20221003151126](/zet/20221003151126/README.md) active directory  delegation unconstrained
 - [20221003151125](/zet/20221003151125/README.md) active directory  delegation constrained

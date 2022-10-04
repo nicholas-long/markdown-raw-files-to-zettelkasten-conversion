@@ -4,7 +4,7 @@ wget -r "ftp://user:pass@$IP"
 wget -m "ftp://@$IP"
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

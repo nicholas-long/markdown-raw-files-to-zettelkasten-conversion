@@ -1,7 +1,7 @@
 # payloads payloadsallthethings github
 https://github.com/swisskyrepo/PayloadsAllTheThings
 
-# References
+# Related
 
 Tags:
     #assorted

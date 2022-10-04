@@ -4,7 +4,7 @@ gdb
 ropper --search "pop r13"
 ```
 
-# References
+# Related
 - [20221003150532](/zet/20221003150532/README.md) gef gdb plugin
 - ~/kb/hacking/pwn/gef-commands.md
 

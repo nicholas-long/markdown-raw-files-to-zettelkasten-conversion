@@ -28,7 +28,7 @@
 - xslt server side injection extensible stylesheet languaje transformations
 - xssi cross site script inclusion
 
-# References
+# Related
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
 

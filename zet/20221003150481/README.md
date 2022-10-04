@@ -3,7 +3,7 @@
 gci -recurse . | select fullname
 ```
 
-# References
+# Related
 - [20221003150482](/zet/20221003150482/README.md) general enumeration
 - ~/kb/hacking/powershell/powershell-enumeration-commands.md
 

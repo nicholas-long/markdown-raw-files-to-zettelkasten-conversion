@@ -4,7 +4,7 @@ openssl pkey -in $FILE -pubout
 ssh-keygen -y -f $FILE
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

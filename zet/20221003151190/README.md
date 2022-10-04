@@ -20,7 +20,7 @@ for each path
   - db backups /usr/share/seclists/Discovery/Web-Content/Common-DB-Backups.txt
   - cewl wordlist
 
-# References
+# Related
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
 

@@ -1,7 +1,7 @@
 # obfuscate powershell scripts (python)
 https://github.com/klezVirus/chameleon
 
-# References
+# Related
 
 Tags:
     #assorted

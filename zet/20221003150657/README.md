@@ -4,7 +4,7 @@
 wfuzz -c -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-big.txt --hc 404 http://$IP/FUZZ
 ```
 
-# References
+# Related
 - [20221003150659](/zet/20221003150659/README.md) wfuzz
 - ~/kb/hacking/commands/wfuzz-commands.md
 

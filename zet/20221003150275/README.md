@@ -1,7 +1,7 @@
 # firefox reverse shell toolbar hacktools
 hacktools plugin
 
-# References
+# Related
 
 Tags:
     #assorted

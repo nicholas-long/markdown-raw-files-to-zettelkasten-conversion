@@ -1,6 +1,6 @@
 # simple binary exploits pattern offset finding
 
-# References
+# Related
 - [20221003150548](/zet/20221003150548/README.md) simple binary exploits
 - [20221003150544](/zet/20221003150544/README.md) simple binary exploits pattern offset finding create pattern with length with pattern create
 - ~/kb/hacking/pwn/basic-win-pwn.md

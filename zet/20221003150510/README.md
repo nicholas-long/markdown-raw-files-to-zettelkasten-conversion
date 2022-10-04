@@ -3,7 +3,7 @@
 patchelf --set-interpreter ./lib64/ld-2.23.so --set-rpath ./lib64/ chapter2.patch
 ```
 
-# References
+# Related
 - [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths
 - ~/kb/hacking/pwn/tricks.md
 

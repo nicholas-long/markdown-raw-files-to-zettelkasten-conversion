@@ -5,7 +5,7 @@ sudo macchanger -r wlan0
 sudo ifconfig wlan0 up
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

@@ -6,7 +6,7 @@ route add 10.10.10.10 mask 255.255.255.0 192.168.1.69
 route print
 ```
 
-# References
+# Related
 - [20221003150122](/zet/20221003150122/README.md) routing using a linux box add router to routes on hosts
 - ~/kb/linux/routing.md
 

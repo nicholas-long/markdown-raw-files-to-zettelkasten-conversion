@@ -1,6 +1,6 @@
 # awk and bash scripting partition split into files by column value
 
-# References
+# Related
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 - [20221003151346](/zet/20221003151346/README.md) awk and bash scripting partition split into files by column value analyzing CSV trade data : split into files for symbols
 - [20221003151345](/zet/20221003151345/README.md) awk and bash scripting partition split into files by column value check if column is nonempty

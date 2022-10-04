@@ -6,7 +6,7 @@ alias dcd="docker compose down"
 alias dcb="docker compose build"
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

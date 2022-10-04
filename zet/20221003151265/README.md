@@ -7,7 +7,7 @@ wget https://github.com/sharkdp/bat/releases/download/v0.19.0/bat_0.19.0_amd64.d
 sudo dpkg -i bat_0.19.0_amd64.deb
 ```
 
-# References
+# Related
 - [20221003151267](/zet/20221003151267/README.md) fzf
 - ~/kb/fzf-fuzzy-find/help.md
 

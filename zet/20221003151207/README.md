@@ -82,7 +82,7 @@
   - secrets, config, hardcoded creds
 - no access to read webroot -> try appending known filenames to path to read
 
-# References
+# Related
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - ~/kb/hacking/to-try-lists/privesc/windows.md

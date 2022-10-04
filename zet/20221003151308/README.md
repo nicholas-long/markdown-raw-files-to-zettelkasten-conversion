@@ -3,7 +3,7 @@
 autoexpect ssh user@$IP
 ```
 
-# References
+# Related
 - [20221003151309](/zet/20221003151309/README.md) expect scripts
 - ~/kb/bash-scripting/expect.md
 

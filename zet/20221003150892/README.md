@@ -3,7 +3,7 @@
 ps -ef | awk '/^root/ && !/\]$/ { print $2 }'
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

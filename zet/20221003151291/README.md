@@ -1,6 +1,6 @@
 # C template readline prompt
 
-# References
+# Related
 - [20221003151292](/zet/20221003151292/README.md) C template
 - ~/kb/c-language/templates.md
 

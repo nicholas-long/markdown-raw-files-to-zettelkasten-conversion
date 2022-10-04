@@ -1,6 +1,6 @@
 # tmux
 
-# References
+# Related
 - [20221003150078](/zet/20221003150078/README.md) tmux get current pane
 - ~/kb/tmux/get-data-info.md
 

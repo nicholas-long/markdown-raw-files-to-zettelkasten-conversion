@@ -17,4 +17,4 @@ files && refs && $0 !~ /^- +\[[0-9]+\]/ {
   gsub(/^- +/,"")
   print
 }
-/^# [Rr]eferences/ { refs = 1 }
+/^# [Rr]elated/ { refs = 1 }

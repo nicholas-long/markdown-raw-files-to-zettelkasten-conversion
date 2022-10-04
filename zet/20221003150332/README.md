@@ -1,7 +1,7 @@
 # default openssl message digest
 sha256
 
-# References
+# Related
 
 Tags:
     #assorted

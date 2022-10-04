@@ -7,7 +7,7 @@
 - smb v1
   - ms08-067-netapi - but use DOS reverse shell instead of meterpreter
 
-# References
+# Related
 - [20221003151198](/zet/20221003151198/README.md) SMB
 - ~/kb/hacking/to-try-lists/SMB.md
 

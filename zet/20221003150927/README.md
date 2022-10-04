@@ -5,7 +5,7 @@ cp /usr/share/seclists/Miscellaneous/source-code/c-linux/drop-shell.c .
 gcc -fPIC -shared -o drop-shell.so drop-shell.c
 ```
 
-# References
+# Related
 - [20221003150929](/zet/20221003150929/README.md) C setuid suid backdoor exploit
 - ~/kb/hacking/priv-esc/c-shells-and-setuid.md
 

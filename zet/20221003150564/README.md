@@ -3,7 +3,7 @@
 python -c 'import pty;pty.spawn("/bin/bash");' 
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

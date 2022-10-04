@@ -6,7 +6,7 @@ openssl pkcs12 -in certname.pfx -nocerts -out key.pem -nodes
 openssl pkcs12 -in certname.pfx -nokeys -out cert.pem
 ```
 
-# References
+# Related
 - [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12
 - ~/kb/hacking/commands/openssl-view-information-about-cert.md
 

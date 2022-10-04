@@ -12,7 +12,7 @@ cat << EOF | tsort
 EOF
 ```
 
-# References
+# Related
 - [20221003151283](/zet/20221003151283/README.md) topological sort with tsort sort items occuring before each other
 - ~/kb/data-engineering-pipelines/topological-sort.md
 

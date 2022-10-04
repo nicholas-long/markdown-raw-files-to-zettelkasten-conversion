@@ -14,7 +14,7 @@
   - sensitive files list
   - open directories as files - see if directory listing supported (rare?)
 
-# References
+# Related
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
 

@@ -1,6 +1,6 @@
 # SNMP enumeration command
 
-# References
+# Related
 - [20221003150697](/zet/20221003150697/README.md) SNMP enumeration command snmpwalk 
 - [20221003150696](/zet/20221003150696/README.md) SNMP enumeration command onesixtyone
 - [20221003150695](/zet/20221003150695/README.md) SNMP enumeration command enumerating / dumping interesting and categorized information

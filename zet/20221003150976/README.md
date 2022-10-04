@@ -24,7 +24,7 @@ Use firefox containers to handle multiple sessions https://addons.mozilla.org/en
     - ex: mobile app could connect directly to API but website talks to different layers
       - API could put XSS reflected on client even though blocked on website?
 
-# References
+# Related
 
 Tags:
     #assorted

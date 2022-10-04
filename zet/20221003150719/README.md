@@ -6,7 +6,7 @@ for p in $(~/kb/bash-scripting/nmap-get-top-ports.sh 20); do
 done
 ```
 
-# References
+# Related
 - [20221003150720](/zet/20221003150720/README.md) curl
 - ~/kb/hacking/commands/curl.md
 

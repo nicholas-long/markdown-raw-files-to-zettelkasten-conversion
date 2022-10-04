@@ -1,7 +1,7 @@
 # hacktricks markdown data github
 https://github.com/carlospolop/hacktricks
 
-# References
+# Related
 
 Tags:
     #assorted

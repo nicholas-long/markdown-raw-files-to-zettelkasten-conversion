@@ -4,7 +4,7 @@ This works for openssl text like `BEGIN CERTIFICATE REQUEST`
 openssl req -in $FILE -text
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

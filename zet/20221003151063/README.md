@@ -32,7 +32,7 @@ FodhelperBypass -program cmd
 FodhelperBypass
 ```
 
-# References
+# Related
 - [20221003151064](/zet/20221003151064/README.md) bypass UAC with administrators group
 - ~/kb/hacking/windows/uacbypass/uac-bypass.md
 

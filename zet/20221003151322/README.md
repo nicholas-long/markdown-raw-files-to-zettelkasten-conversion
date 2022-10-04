@@ -3,7 +3,7 @@
 tail -f /var/log/auth.log | awk '/Invalid user/ { print $8, $10 }'
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

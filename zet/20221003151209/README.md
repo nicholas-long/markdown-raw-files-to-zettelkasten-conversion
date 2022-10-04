@@ -16,7 +16,7 @@
 - dependent libraries of scripts (ex: tar, zip -> overwrite files / zip slip)
 - Ubuntu versions pre 19 -> sudo `$HOME` path is not changed ( specific to ubuntu )
 
-# References
+# Related
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - ~/kb/hacking/to-try-lists/privesc/linux.md
 

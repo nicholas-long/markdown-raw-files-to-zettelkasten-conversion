@@ -9,7 +9,7 @@
       register: "output"
 ```
 
-# References
+# Related
 - [20221003150338](/zet/20221003150338/README.md) ansible exploiting playbook
 - ~/kb/hacking/misc/ansible.md
 

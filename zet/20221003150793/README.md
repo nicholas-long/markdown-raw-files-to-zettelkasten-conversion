@@ -7,7 +7,7 @@ python3 -m http.server 8000
 cewl http://localhost:8000/ -w cewl_wordlist
 ```
 
-# References
+# Related
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file
 - ~/kb/hacking/commands/generate-cewl-wordlist.md
 

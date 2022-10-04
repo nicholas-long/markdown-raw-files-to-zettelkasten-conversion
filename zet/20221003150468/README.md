@@ -4,7 +4,7 @@ Set-ItemProperty -Path "HKLM:\Software\ContosoCompany" -Name "NoOfEmployees" -Va
 Get-ItemProperty -Path "HKLM:\Software\ContosoCompany"
 ```
 
-# References
+# Related
 - [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry
 - ~/kb/hacking/powershell/powershell-tricks.md
 

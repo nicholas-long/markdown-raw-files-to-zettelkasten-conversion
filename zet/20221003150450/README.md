@@ -5,7 +5,7 @@ can change cookies too.
 sudo apt install -y padbuster
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

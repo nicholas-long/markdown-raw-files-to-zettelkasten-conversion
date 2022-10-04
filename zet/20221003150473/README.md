@@ -6,7 +6,7 @@ The C# program works even if windows remote management is disabled.
 runascs Username Password C:\path\to\file\shell.exe
 ```
 
-# References
+# Related
 - [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
 - ~/kb/hacking/powershell/powershell-tricks.md
 

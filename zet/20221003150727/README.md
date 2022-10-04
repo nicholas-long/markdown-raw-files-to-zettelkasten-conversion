@@ -3,7 +3,7 @@
 ssh $USER@$IP -t bash --noprofile
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

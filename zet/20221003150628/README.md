@@ -5,7 +5,7 @@ nmap -n -sV --script "ldap* and not brute" $IP
 # retrieve information for all objects ( default script capped at 20 )
 nmap -n -sV --script "ldap* and not brute" --script-args 'ldap.maxobjects=-1' $IP | tee nmap-ldap.log
 ```
-# References
+# Related
 - [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous
 - ~/kb/hacking/commands/ldap.md
 

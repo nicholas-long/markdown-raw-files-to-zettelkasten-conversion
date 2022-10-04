@@ -18,7 +18,7 @@ or available locally via: info '(coreutils) touch invocation'
 ```
 ` touch -- --help `
 ` touch './--help' `
-# References
+# Related
 
 Tags:
     #assorted

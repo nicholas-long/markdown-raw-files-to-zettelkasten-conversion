@@ -1,7 +1,7 @@
 # redis-cli
 redis-tools
 
-# References
+# Related
 
 Tags:
     #assorted

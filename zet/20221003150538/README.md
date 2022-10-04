@@ -1,7 +1,7 @@
 # simple binary exploits payload generation changing architecture
 exe runing on linux with wine -> try linux reverse shell payload
 
-# References
+# Related
 - [20221003150539](/zet/20221003150539/README.md) simple binary exploits payload generation
 - ~/kb/hacking/pwn/basic-win-pwn.md
 

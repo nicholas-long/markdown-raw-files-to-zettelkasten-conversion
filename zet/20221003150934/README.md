@@ -3,7 +3,7 @@
 regsvr32.exe /s .\payload.dll
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

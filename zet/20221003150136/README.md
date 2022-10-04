@@ -3,7 +3,7 @@
 tar -czvf archive.tar.gz dirs_files
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

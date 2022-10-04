@@ -5,7 +5,7 @@ if [ -w "$(pwd)" ]; then
 fi
 ```
 
-# References
+# Related
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - ~/kb/bash-scripting/tricks.md
 

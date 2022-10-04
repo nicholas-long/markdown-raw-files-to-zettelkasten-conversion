@@ -3,7 +3,7 @@
 cat /usr/share/webshells/php/php-reverse-shell.php
 ```
 
-# References
+# Related
 
 Tags:
     #assorted

@@ -4,7 +4,7 @@ sudo apt install -y cargo cmake libx11-xcb-dev libxcb-xfixes0-dev libxcb-render0
 cargo install alacritty
 ```
 
-# References
+# Related
 - [20221003150182](/zet/20221003150182/README.md) install alacritty 
 - ~/kb/linux/install-alacritty.md
 

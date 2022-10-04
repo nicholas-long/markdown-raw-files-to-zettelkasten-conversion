@@ -9,7 +9,7 @@ connection.bind()
 server.info
 ```
 
-# References
+# Related
 - [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous
 - [20221003150626](/zet/20221003150626/README.md) LDAP enumeration anonymous python dump all object data
 - ~/kb/hacking/commands/ldap.md

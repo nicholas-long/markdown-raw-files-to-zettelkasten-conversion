@@ -10,7 +10,7 @@ awk ' {
 ```
 
 ~/kb/bash-scripting/urlencode-base64-every-line.sh
-# References
+# Related
 - [20221003151424](/zet/20221003151424/README.md) bash scripting
 - ~/kb/auto-bash.md
 

@@ -3,7 +3,7 @@
 echo "$URL" | waybackurls| httpx-pd -silent > link.txt
 ```
 
-# References
+# Related
 
 Tags:
     #assorted
