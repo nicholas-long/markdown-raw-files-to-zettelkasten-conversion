@@ -1,4 +1,3 @@
-- add bullet list to tag files
 - fix keyword stuffing duplicate notes with things like "bash scripting" and "bash sh scripting"
 - missing content from multiple equivalent-level header keyword stacking trick
   - "text cipher encryption decryption tools"
