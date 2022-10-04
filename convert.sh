@@ -49,3 +49,5 @@ done
 ./enrich-references.sh # this should also be a pre-commit step or action
 
 ./autotag.sh
+
+./get-all-tags.sh # this should also be a pre-commit step or action
