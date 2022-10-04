@@ -9,4 +9,4 @@ join -1 1 -2 3 <(sort data/completed_scanned_urls) <(sort -k 3 master-url-list.t
 - ~/kb/bash-scripting/text-database-operations.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #text

@@ -5,4 +5,4 @@
 - ~/kb/awk-scripting/snippets.md
 
 Tags:
-    #assorted
+    #assorted #awk-scripting #snippets

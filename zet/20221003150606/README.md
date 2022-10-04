@@ -10,4 +10,4 @@ smbclient \\\\$IP\\Data -U John -c 'allinfo "\Users\John\file.txt"'
 - ~/kb/hacking/commands/smbclient-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #smbclient

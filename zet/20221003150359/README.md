@@ -8,4 +8,4 @@ The C# program works even if windows remote management is disabled.
 - ~/kb/hacking/misc/important-repositories-tools.md
 
 Tags:
-    #assorted
+    #assorted #hacking #repositories #important

@@ -9,4 +9,4 @@ gcc -static -o root-shell root-shell.c
 - ~/kb/hacking/priv-esc/c-shells-and-setuid.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #c

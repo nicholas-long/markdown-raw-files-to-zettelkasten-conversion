@@ -5,4 +5,4 @@
 - ~/kb/linux/ex-notes.md
 
 Tags:
-    #assorted
+    #assorted #linux #ex

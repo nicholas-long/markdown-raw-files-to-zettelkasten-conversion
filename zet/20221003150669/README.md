@@ -14,4 +14,4 @@ crackmapexec winrm $IP -u valid_users -p valid_passwords --no-bruteforce --conti
 - ~/kb/hacking/commands/crackmapexec-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #crackmapexec

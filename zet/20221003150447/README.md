@@ -8,4 +8,4 @@ sudo apt install -y poppler-utils
 - ~/kb/hacking/misc/tools-and-apt-packages.md
 
 Tags:
-    #assorted
+    #assorted #hacking #tools

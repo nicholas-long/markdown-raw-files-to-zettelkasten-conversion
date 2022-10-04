@@ -23,4 +23,4 @@ check `man stty`, section "Output settings", it should be able to accomplish all
 - ~/kb/linux/cyberpunk-retro-machine-serial-terminals.md
 
 Tags:
-    #assorted
+    #assorted #linux #cyberpunk

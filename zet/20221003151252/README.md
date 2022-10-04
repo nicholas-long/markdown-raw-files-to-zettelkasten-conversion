@@ -6,4 +6,4 @@ build C assemblies as DLLs and run in memory on C2 client.
 - ~/kb/hacking/tricks/run-programs-in-memory.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #run

@@ -10,4 +10,4 @@ msf-pattern_offset -q 0x33445566
 - ~/kb/hacking/pwn/basic-win-pwn.md
 
 Tags:
-    #assorted
+    #assorted #hacking #pwn #basic

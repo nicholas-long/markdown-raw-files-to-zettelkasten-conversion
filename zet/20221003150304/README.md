@@ -8,4 +8,4 @@ date --date='@2147483647'
 - ~/kb/hacking/misc/assorted-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #assorted

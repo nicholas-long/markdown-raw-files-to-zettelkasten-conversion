@@ -5,4 +5,4 @@
 - ~/kb/hacking/windows/enumeration-scripts-processing.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #enumeration

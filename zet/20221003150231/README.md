@@ -6,4 +6,4 @@
 - ~/kb/hacking/analysis/apk-analysis.md
 
 Tags:
-    #assorted
+    #assorted #hacking #apk

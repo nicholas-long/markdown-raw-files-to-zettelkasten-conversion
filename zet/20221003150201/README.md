@@ -9,4 +9,4 @@ xterm*font:     *-fixed-*-*-*-18-*
 - ~/kb/linux/xterm-font-size.md
 
 Tags:
-    #assorted
+    #assorted #linux #xterm

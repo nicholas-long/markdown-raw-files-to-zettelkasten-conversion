@@ -9,4 +9,4 @@ Tue Jan 19 03:14:08 UTC 2038
 - ~/kb/hacking/misc/assorted-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #assorted

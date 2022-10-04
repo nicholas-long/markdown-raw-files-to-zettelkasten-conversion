@@ -15,4 +15,4 @@ $ echo -n aabg7XSs | md5sum
 - ~/kb/hacking/php/type-juggling.md
 
 Tags:
-    #assorted
+    #assorted #hacking #type

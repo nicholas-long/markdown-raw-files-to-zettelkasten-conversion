@@ -8,4 +8,4 @@
 - ~/kb/hacking/php/type-juggling.md
 
 Tags:
-    #assorted
+    #assorted #hacking #type

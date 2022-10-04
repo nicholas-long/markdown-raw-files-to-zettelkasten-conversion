@@ -7,4 +7,4 @@
 - ~/kb/vim/edit-multiple-files.md
 
 Tags:
-    #assorted
+    #assorted #vim #edit

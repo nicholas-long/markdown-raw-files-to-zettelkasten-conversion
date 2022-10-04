@@ -6,4 +6,4 @@ put table name in quotes
 - ~/kb/data-engineering-pipelines/postgres.md
 
 Tags:
-    #assorted
+    #assorted #data-engineering-pipelines #postgres

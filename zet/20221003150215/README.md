@@ -7,4 +7,4 @@
 - ~/kb/kafka/quick-and-dirty-kafkacat.md
 
 Tags:
-    #assorted
+    #assorted #kafka #quick

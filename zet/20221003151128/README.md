@@ -10,4 +10,4 @@ python3 dnstool.py -u 'domain.local\username' -p password123 -a add -r subdomain
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

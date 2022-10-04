@@ -7,4 +7,4 @@ the BASIC program can load the data from the doc and install the `.co` program i
 - ~/kb/linux/cyberpunk-retro-machine-serial-terminals.md
 
 Tags:
-    #assorted
+    #assorted #linux #cyberpunk

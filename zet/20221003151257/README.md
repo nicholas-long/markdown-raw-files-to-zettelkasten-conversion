@@ -6,4 +6,4 @@
 - ~/kb/hacking/tricks/run-programs-in-memory.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #run

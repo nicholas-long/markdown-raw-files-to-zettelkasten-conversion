@@ -8,4 +8,4 @@ dd if=/proc/$1/mem bs=$( getconf PAGESIZE ) iflag=skip_bytes,count_bytes skip=$(
 - ~/kb/linux/dump-process-memory.md
 
 Tags:
-    #assorted
+    #assorted #linux #dump

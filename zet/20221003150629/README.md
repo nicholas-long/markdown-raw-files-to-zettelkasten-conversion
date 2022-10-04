@@ -7,4 +7,4 @@
 - ~/kb/hacking/commands/ldap.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #ldap

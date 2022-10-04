@@ -8,4 +8,4 @@ kubectl auth can-i --list
 - ~/kb/hacking/commands/kubernetes.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #kubernetes

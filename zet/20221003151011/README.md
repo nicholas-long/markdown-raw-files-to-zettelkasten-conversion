@@ -7,4 +7,4 @@ fuzz with known extensions
 - ~/kb/hacking/methodology/LFI-procedure.md
 
 Tags:
-    #assorted
+    #assorted #hacking #LFI

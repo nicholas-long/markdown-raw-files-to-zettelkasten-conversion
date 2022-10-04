@@ -7,4 +7,4 @@ add `verify=False` to each function call using requests (get, post)
 - ~/kb/hacking/python/fix-ssl.md
 
 Tags:
-    #assorted
+    #assorted #hacking #fix

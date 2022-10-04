@@ -5,4 +5,4 @@
 - ~/kb/hacking/pwn/shellcode-to-executable.md
 
 Tags:
-    #assorted
+    #assorted #hacking #pwn #shellcode

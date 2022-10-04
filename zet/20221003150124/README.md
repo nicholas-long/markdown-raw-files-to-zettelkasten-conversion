@@ -8,4 +8,4 @@ echo 1 > /proc/sys/net/ipv4/ip_forward
 - ~/kb/linux/routing.md
 
 Tags:
-    #assorted
+    #assorted #linux #routing

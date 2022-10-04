@@ -10,4 +10,4 @@ Get-WmiObject win32_service | Select-Object Name, State, PathName | Where-Object
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #dos

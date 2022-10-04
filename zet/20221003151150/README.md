@@ -11,4 +11,4 @@ upload mof file -> callback should be relatively instantaneous
 - ~/kb/hacking/windows/xp-server-2003.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #xp

@@ -8,4 +8,4 @@ xrdb -merge ~/.Xresources
 - ~/kb/linux/xterm-font-size.md
 
 Tags:
-    #assorted
+    #assorted #linux #xterm

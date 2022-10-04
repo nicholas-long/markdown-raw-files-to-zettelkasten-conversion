@@ -35,4 +35,4 @@ find home | grep py # it's all here!
 - ~/kb/hacking/tricks/install-pip-modules-on-target-as-files.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #install

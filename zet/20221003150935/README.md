@@ -6,4 +6,4 @@
 - ~/kb/hacking/priv-esc/fail2ban.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #fail2ban

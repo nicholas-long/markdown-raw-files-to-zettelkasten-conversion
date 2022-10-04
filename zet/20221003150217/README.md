@@ -26,4 +26,4 @@ services:
 - ~/kb/kafka/initialize-topics.md
 
 Tags:
-    #assorted
+    #assorted #kafka #initialize

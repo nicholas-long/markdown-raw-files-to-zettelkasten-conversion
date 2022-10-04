@@ -7,4 +7,4 @@ c:\windows\system32\eula.txt
 - ~/kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

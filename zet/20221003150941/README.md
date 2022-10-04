@@ -8,4 +8,4 @@ import app.core.config # corresponds to app/core/config.py
 - ~/kb/hacking/python/python-imports.md
 
 Tags:
-    #assorted
+    #assorted #hacking #python

@@ -8,4 +8,4 @@ patchelf --set-interpreter ./lib64/ld-2.23.so --set-rpath ./lib64/ chapter2.patc
 - ~/kb/hacking/pwn/tricks.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #pwn #tricks

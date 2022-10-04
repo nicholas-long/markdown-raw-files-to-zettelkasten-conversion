@@ -9,4 +9,4 @@ echo ${name:="default"}
 - ~/kb/bash-scripting/substitution-syntax-braces.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #substitution

@@ -8,4 +8,4 @@ make a pretend tty for them and log the output with `script` instead.
 - ~/kb/bash-scripting/tricks.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #trick #tricks

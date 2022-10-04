@@ -5,4 +5,4 @@
 - ~/kb/hacking/commands/quick-servers.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #quick

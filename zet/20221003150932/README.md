@@ -7,4 +7,4 @@ There is a container image that comes with this. Try it.
 - ~/kb/hacking/priv-esc/lxd/lxd-priv-esc.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #lxd

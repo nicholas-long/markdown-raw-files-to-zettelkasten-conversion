@@ -7,4 +7,4 @@
 - ~/kb/hacking/methodology/osint-overview.md
 
 Tags:
-    #assorted
+    #assorted #hacking #osint

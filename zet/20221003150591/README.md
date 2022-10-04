@@ -8,4 +8,4 @@ php -a
 - ~/kb/hacking/php/PHP-quick-command-reference.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #PHP

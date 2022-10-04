@@ -6,4 +6,4 @@
 - ~/kb/shell-script-list.md
 
 Tags:
-    #assorted
+    #assorted #shell

@@ -8,4 +8,4 @@ sudo bettercap -autostart events.stream,net.recon,net.sniff,net.probe,arp.spoof,
 - ~/kb/hacking/lan/bettercap-options.md
 
 Tags:
-    #assorted
+    #assorted #hacking #bettercap

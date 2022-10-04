@@ -8,4 +8,4 @@ Authorization: Bearer JWT_TOKEN_HERE
 - ~/kb/hacking/methodology/jwt.md
 
 Tags:
-    #assorted
+    #assorted #hacking #jwt

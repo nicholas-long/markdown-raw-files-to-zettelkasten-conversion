@@ -14,4 +14,4 @@ setuserinfo2 targetuser 23 targetnewpwd
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

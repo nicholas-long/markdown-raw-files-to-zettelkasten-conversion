@@ -8,4 +8,4 @@ hydra -C /usr/share/seclists/Passwords/Default-Credentials/ftp-betterdefaultpass
 - ~/kb/hacking/commands/hydra-ftp-command.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #hydra

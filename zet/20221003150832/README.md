@@ -11,4 +11,4 @@ sudo nvim /etc/responder/Responder.conf
 - ~/kb/hacking/commands/responder.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #responder

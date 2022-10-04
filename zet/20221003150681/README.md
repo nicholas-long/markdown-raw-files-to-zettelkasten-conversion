@@ -7,4 +7,4 @@
 - ~/kb/hacking/commands/tftp-reference.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #tftp

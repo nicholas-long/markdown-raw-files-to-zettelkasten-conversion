@@ -5,4 +5,4 @@
 - ~/kb/kafka/kafkacat.md
 
 Tags:
-    #assorted
+    #assorted #kafka #kafkacat

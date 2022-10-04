@@ -6,4 +6,4 @@
 - ~/kb/hacking/commands/generate-cewl-wordlist.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #generate

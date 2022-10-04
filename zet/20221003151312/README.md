@@ -10,4 +10,4 @@ echo ${name:2:2}
 - ~/kb/bash-scripting/substitution-syntax-braces.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #substitution

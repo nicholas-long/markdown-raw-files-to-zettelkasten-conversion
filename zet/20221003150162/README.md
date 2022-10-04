@@ -6,4 +6,4 @@
 - ~/kb/linux/git-settings.md
 
 Tags:
-    #assorted
+    #assorted #linux #git

@@ -9,4 +9,4 @@ arp.spoof on
 - ~/kb/hacking/lan/bettercap-options.md
 
 Tags:
-    #assorted
+    #assorted #hacking #bettercap

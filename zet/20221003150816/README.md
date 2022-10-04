@@ -6,4 +6,4 @@
 - ~/kb/hacking/commands/metasploit.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #metasploit

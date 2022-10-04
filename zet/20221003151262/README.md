@@ -11,4 +11,4 @@
 - ~/kb/hacking/tricks/windows-smartscreen-bypass.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #windows #windows

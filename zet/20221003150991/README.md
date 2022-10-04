@@ -14,4 +14,4 @@ mutaiton CreateBlah($param: Thing) {
 - ~/kb/hacking/methodology/API-enumeration.md
 
 Tags:
-    #assorted
+    #assorted #hacking #API

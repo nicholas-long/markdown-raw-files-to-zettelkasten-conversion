@@ -5,4 +5,4 @@
 - ~/kb/vim/vim.md
 
 Tags:
-    #assorted
+    #assorted #vim #vim

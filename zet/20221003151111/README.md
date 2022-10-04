@@ -6,4 +6,4 @@ taskkill /f /pid 1234
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #dos

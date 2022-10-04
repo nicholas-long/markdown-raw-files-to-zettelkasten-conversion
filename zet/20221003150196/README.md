@@ -12,4 +12,4 @@ iptables -t nat -A POSTROUTING -o wlan0 -j MASQUERADE
 - ~/kb/linux/iptables.md
 
 Tags:
-    #assorted
+    #assorted #linux #iptables

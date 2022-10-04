@@ -11,4 +11,4 @@ Start-ScheduledTask -TaskName "GrantPerm"
 - ~/kb/hacking/windows/service-account-privileges.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #service

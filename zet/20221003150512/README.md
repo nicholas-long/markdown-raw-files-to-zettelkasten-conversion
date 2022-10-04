@@ -5,4 +5,4 @@
 - ~/kb/hacking/pwn/tricks.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #pwn #tricks

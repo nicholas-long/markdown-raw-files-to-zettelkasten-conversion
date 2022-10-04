@@ -8,4 +8,4 @@ windows AD account with randomized, changing password to prevent kerberoasting s
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

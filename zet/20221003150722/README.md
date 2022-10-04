@@ -8,4 +8,4 @@ openssl pkcs12 -info -in $FILE | openssl x509 -noout -fingerprint
 - ~/kb/hacking/commands/openssl-view-information-about-cert.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #openssl

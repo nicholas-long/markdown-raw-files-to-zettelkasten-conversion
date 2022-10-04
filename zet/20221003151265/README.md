@@ -12,4 +12,4 @@ sudo dpkg -i bat_0.19.0_amd64.deb
 - ~/kb/fzf-fuzzy-find/help.md
 
 Tags:
-    #assorted
+    #assorted #fzf-fuzzy-find #help

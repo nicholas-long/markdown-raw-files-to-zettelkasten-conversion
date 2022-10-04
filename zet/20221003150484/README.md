@@ -12,4 +12,4 @@ if powershell gallery is not available on CTF boxes
 - ~/kb/hacking/powershell/powershell-enumeration-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #powershell

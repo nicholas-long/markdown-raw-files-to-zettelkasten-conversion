@@ -22,4 +22,4 @@ lxc exec mycontainer /bin/sh
 - ~/kb/hacking/priv-esc/lxd/lxd-priv-esc.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #lxd

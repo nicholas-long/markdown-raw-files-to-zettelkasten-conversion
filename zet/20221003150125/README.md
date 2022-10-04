@@ -7,4 +7,4 @@
 - ~/kb/linux/routing.md
 
 Tags:
-    #assorted
+    #assorted #linux #routing

@@ -5,4 +5,4 @@
 - ~/kb/hacking/commands/kubernetes.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #kubernetes

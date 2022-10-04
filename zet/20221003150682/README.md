@@ -8,4 +8,4 @@ curl http://$IP | grep '<form'
 - ~/kb/hacking/commands/web-enumeration-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #web

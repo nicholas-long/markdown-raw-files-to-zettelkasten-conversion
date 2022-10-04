@@ -9,4 +9,4 @@
 - ~/kb/hacking/windows/enable-privilege-api.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #enable

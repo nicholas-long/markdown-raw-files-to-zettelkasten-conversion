@@ -14,4 +14,4 @@ avoid infinite loop created by combining
 - ~/kb/hacking/commands/feroxbuster-command.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #feroxbuster

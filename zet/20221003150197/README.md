@@ -5,4 +5,4 @@
 - ~/kb/linux/iptables.md
 
 Tags:
-    #assorted
+    #assorted #linux #iptables

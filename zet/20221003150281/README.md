@@ -9,4 +9,4 @@ Think of it as an archive that stores everything you need to deploy a certificat
 - ~/kb/hacking/misc/file-type-reference.md
 
 Tags:
-    #assorted
+    #assorted #hacking #file

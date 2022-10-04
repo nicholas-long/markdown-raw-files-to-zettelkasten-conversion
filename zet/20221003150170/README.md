@@ -11,4 +11,4 @@ setcap cap_dac_override+i /usr/bin/net    # i flag says it's allowed to inherit 
 - ~/kb/linux/capabilities.md
 
 Tags:
-    #assorted
+    #assorted #linux #capabilities

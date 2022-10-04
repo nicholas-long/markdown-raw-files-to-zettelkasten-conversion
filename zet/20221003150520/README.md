@@ -10,4 +10,4 @@
 - ~/kb/hacking/pwn/calling-conventions.md
 
 Tags:
-    #assorted
+    #assorted #hacking #pwn #calling

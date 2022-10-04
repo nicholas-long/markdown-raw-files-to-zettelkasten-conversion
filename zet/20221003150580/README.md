@@ -9,4 +9,4 @@ php://filter/convert.base64-encode/resource=
 - ~/kb/hacking/php/lfi.md
 
 Tags:
-    #assorted
+    #assorted #hacking #lfi

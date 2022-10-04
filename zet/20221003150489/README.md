@@ -17,4 +17,4 @@
 - ~/kb/hacking/web/html.templates.md
 
 Tags:
-    #assorted
+    #assorted #hacking #html.templates

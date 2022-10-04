@@ -6,4 +6,4 @@
 - ~/kb/linux/force-upgrade.md
 
 Tags:
-    #assorted
+    #assorted #linux #force

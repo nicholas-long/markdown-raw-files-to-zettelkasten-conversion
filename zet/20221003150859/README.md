@@ -5,4 +5,4 @@
 - ~/kb/hacking/commands/ssh-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #ssh

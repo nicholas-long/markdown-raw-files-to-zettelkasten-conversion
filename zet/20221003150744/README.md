@@ -8,4 +8,4 @@
 - ~/kb/hacking/commands/hydra.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #hydra

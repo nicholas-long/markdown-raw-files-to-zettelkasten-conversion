@@ -7,4 +7,4 @@
 - ~/kb/bash-scripting/stream-operations.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #stream

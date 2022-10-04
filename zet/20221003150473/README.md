@@ -11,4 +11,4 @@ runascs Username Password C:\path\to\file\shell.exe
 - ~/kb/hacking/powershell/powershell-tricks.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #powershell

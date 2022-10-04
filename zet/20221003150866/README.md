@@ -5,4 +5,4 @@
 - ~/kb/hacking/commands/two-factor.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #two

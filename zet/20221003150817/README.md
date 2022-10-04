@@ -8,4 +8,4 @@ set Proxies http:127.0.0.1:8080
 - ~/kb/hacking/commands/metasploit.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #metasploit

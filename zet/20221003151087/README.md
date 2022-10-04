@@ -9,4 +9,4 @@ sekurlsa::logonpasswords
 - ~/kb/hacking/windows/mimikatz.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #mimikatz

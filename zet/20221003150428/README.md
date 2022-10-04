@@ -12,4 +12,4 @@ Other: Facebook - uses the Facebook top 10,000 names - don't run this with all f
 - ~/kb/hacking/misc/important-repositories-tools.md
 
 Tags:
-    #assorted
+    #assorted #hacking #repositories #important

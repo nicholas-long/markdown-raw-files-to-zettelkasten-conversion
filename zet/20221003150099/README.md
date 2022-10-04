@@ -10,4 +10,4 @@ url = f"http://{ip}/api/example"
 - ~/kb/python/coding-reference.md
 
 Tags:
-    #assorted
+    #assorted #python #coding

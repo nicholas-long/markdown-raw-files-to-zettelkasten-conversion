@@ -9,4 +9,4 @@ cargo install alacritty
 - ~/kb/linux/install-alacritty.md
 
 Tags:
-    #assorted
+    #assorted #linux #install

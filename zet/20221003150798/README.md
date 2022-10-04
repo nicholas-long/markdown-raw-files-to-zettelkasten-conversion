@@ -5,4 +5,4 @@
 - ~/kb/hacking/commands/git.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #git

@@ -13,4 +13,4 @@ feroxbuster --url http://$IP/ -w /usr/share/seclists/Discovery/Web-Content/commo
 - ~/kb/hacking/commands/feroxbuster-command.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #feroxbuster

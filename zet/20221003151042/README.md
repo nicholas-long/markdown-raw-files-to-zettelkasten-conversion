@@ -9,4 +9,4 @@ Get-Content -Stream Zone.Identifier $filename
 - ~/kb/hacking/windows/windows-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

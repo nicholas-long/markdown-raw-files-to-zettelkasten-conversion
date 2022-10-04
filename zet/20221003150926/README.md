@@ -6,4 +6,4 @@
 - ~/kb/hacking/priv-esc/etc-passwd-writable-line.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #etc

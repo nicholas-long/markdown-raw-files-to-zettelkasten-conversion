@@ -39,4 +39,4 @@ echo $decrypted
 - ~/kb/hacking/windows/decrypt-azure-ad-connect.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #decrypt

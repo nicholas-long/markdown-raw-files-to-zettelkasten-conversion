@@ -12,4 +12,4 @@ r = requests.get(url, cookies=cookies, params=params)
 - ~/kb/python/coding-reference.md
 
 Tags:
-    #assorted
+    #assorted #python #coding

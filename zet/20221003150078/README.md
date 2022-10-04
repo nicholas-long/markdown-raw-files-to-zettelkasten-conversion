@@ -10,4 +10,4 @@ pane=$(tmux list-panes | grep active | cut -d ']' -f 3 | awk '{print $1}')
 - ~/kb/tmux/get-data-info.md
 
 Tags:
-    #assorted
+    #assorted #tmux #get

@@ -9,4 +9,4 @@ p.sendlineafter(' ', payload)
 - ~/kb/hacking/pwn/pwntools.md
 
 Tags:
-    #assorted
+    #assorted #hacking #pwn #pwntools

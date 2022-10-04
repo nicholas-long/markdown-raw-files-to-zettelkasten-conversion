@@ -7,4 +7,4 @@
 - ~/kb/hacking/methodology/source-analysis.md
 
 Tags:
-    #assorted
+    #assorted #hacking #source

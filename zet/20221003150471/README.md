@@ -9,4 +9,4 @@ Invoke-Command -Session $sess -ScriptBlock { "C:\users\public\file.exe"  }
 - ~/kb/hacking/powershell/powershell-tricks.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #powershell

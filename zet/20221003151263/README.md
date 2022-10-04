@@ -6,4 +6,4 @@ protects user by only opening executables if they are signed.
 - ~/kb/hacking/tricks/windows-smartscreen-bypass.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #windows #windows

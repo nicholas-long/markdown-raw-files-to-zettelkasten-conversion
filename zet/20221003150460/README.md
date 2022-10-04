@@ -12,4 +12,4 @@ replace 7 with major version
 - ~/kb/hacking/misc/tomcat.md
 
 Tags:
-    #assorted
+    #assorted #hacking #tomcat

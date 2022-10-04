@@ -8,4 +8,4 @@ hydra -C /usr/share/seclists/Passwords/Default-Credentials/ssh-betterdefaultpass
 - ~/kb/hacking/commands/hydra-default-credentials.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #hydra

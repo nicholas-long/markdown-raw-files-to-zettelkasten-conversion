@@ -15,4 +15,4 @@ fuzz `/proc/FUZZ/cmdline` for list of running processes
 - ~/kb/hacking/methodology/LFI-procedure.md
 
 Tags:
-    #assorted
+    #assorted #hacking #LFI

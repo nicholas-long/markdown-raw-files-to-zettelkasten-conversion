@@ -5,4 +5,4 @@
 - ~/kb/hacking/defense/linux-hardening.md
 
 Tags:
-    #assorted
+    #assorted #hacking #linux

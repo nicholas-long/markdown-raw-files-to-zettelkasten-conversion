@@ -6,4 +6,4 @@ https://github.com/nccgroup/shocker
 - ~/kb/hacking/exploit/shellshock-exploit.md
 
 Tags:
-    #assorted
+    #assorted #hacking #shellshock

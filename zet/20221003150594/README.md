@@ -5,4 +5,4 @@
 - ~/kb/hacking/commands/enumeration-util.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #enumeration

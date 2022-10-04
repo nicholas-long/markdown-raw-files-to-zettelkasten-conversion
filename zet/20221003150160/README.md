@@ -8,4 +8,4 @@ git config --global pull.rebase true
 - ~/kb/linux/git-settings.md
 
 Tags:
-    #assorted
+    #assorted #linux #git

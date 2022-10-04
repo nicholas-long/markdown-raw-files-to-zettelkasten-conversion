@@ -10,4 +10,4 @@ gcc -fPIC -shared -o drop-shell.so drop-shell.c
 - ~/kb/hacking/priv-esc/c-shells-and-setuid.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #c

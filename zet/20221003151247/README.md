@@ -6,4 +6,4 @@
 - ~/kb/hacking/tricks/jenkins-rev-shell-code.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #jenkins

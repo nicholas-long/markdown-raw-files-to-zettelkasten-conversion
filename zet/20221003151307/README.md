@@ -13,4 +13,4 @@ send "$password"
 - ~/kb/bash-scripting/expect.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #expect

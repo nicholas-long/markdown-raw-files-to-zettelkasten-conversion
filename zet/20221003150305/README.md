@@ -8,4 +8,4 @@ touch -d "$(date -r $SRC_FILE)" $FILE
 - ~/kb/hacking/misc/assorted-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #assorted

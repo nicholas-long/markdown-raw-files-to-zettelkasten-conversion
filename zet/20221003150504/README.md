@@ -8,4 +8,4 @@ address = int(addr_hex,16)
 - ~/kb/hacking/pwn/python-tricks.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #pwn #python

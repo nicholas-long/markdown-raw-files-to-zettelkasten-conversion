@@ -12,4 +12,4 @@ cewl http://localhost:8000/ -w cewl_wordlist
 - ~/kb/hacking/commands/generate-cewl-wordlist.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #generate

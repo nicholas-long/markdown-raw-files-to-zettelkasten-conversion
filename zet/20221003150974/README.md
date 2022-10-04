@@ -14,4 +14,4 @@ PayloadsAllTheThings
 - ~/kb/hacking/methodology/XXE.md
 
 Tags:
-    #assorted
+    #assorted #hacking #XXE

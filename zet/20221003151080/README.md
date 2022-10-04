@@ -8,4 +8,4 @@ permissions can be recovered by creating a scheduled task
 - ~/kb/hacking/windows/service-account-privileges.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #service

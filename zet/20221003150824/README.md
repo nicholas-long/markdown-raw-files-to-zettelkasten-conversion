@@ -8,4 +8,4 @@ psql -h /var/opt/gitlab/postgresql -U gitlab gitlabhq_production
 - ~/kb/hacking/commands/database-enum-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #database

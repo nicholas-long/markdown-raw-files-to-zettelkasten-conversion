@@ -8,4 +8,4 @@
 - ~/kb/networking/port-forwarding.md
 
 Tags:
-    #assorted
+    #assorted #networking #port

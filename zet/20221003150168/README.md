@@ -6,4 +6,4 @@
 - ~/kb/linux/dump-process-memory.md
 
 Tags:
-    #assorted
+    #assorted #linux #dump

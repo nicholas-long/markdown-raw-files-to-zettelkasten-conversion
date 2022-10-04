@@ -21,4 +21,4 @@ https://spacelift.io/blog/ansible-tutorial
 - ~/kb/hacking/misc/ansible.md
 
 Tags:
-    #assorted
+    #assorted #hacking #ansible

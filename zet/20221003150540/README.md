@@ -12,4 +12,4 @@ payload = flat({
 - ~/kb/hacking/pwn/basic-win-pwn.md
 
 Tags:
-    #assorted
+    #assorted #hacking #pwn #basic

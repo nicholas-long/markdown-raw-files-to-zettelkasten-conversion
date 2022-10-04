@@ -8,4 +8,4 @@ socat TCP4-LISTEN:8081,fork exec:/bin/sh
 - ~/kb/networking/port-forwarding.md
 
 Tags:
-    #assorted
+    #assorted #networking #port

@@ -8,4 +8,4 @@ https://posts.specterops.io/certified-pre-owned-d95910965cd2
 - ~/kb/hacking/windows/active-directory-certificate-services.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #active

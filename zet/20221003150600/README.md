@@ -9,4 +9,4 @@
 - ~/kb/hacking/commands/impacket-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #impacket

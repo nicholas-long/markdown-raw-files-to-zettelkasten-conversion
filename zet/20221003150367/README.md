@@ -8,4 +8,4 @@ decrypt with https://github.com/unode/firefox_decrypt
 - ~/kb/hacking/misc/important-repositories-tools.md
 
 Tags:
-    #assorted
+    #assorted #hacking #repositories #important

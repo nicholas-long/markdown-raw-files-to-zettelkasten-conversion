@@ -9,4 +9,4 @@ allBadChars = bytes( [r for r in range(256) if r not in knownBadChars])
 - ~/kb/hacking/pwn/basic-win-pwn.md
 
 Tags:
-    #assorted
+    #assorted #hacking #pwn #basic

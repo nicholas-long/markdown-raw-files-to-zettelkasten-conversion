@@ -6,4 +6,4 @@
 - ~/kb/hacking/misc/bruteforcing-tools.md
 
 Tags:
-    #assorted
+    #assorted #hacking #bruteforcing

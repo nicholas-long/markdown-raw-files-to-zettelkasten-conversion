@@ -8,4 +8,4 @@ awk -F: '{print $6 "/.ssh/id_rsa" }' passwd
 - ~/kb/hacking/commands/enumeration-util.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #enumeration

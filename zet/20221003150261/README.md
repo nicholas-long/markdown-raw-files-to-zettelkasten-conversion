@@ -12,4 +12,4 @@ can encrypt known string and xor to get cipher
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
 
 Tags:
-    #assorted
+    #assorted #hacking #buzzwords #buzzwords

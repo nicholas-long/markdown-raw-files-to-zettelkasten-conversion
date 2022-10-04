@@ -17,4 +17,4 @@ echo "This is where initializtion should happen."
 - ~/kb/kafka/ksql-initialize-example.md
 
 Tags:
-    #assorted
+    #assorted #kafka #ksql

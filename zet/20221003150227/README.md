@@ -5,4 +5,4 @@
 - ~/kb/hacking/analysis/grep-patterns.md
 
 Tags:
-    #assorted
+    #assorted #hacking #grep

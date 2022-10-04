@@ -6,4 +6,4 @@ The httpd server is chrooted to /var/www/ so the document root should be in that
 - ~/kb/hacking/misc/web-server-default-webroots.md
 
 Tags:
-    #assorted
+    #assorted #hacking #web

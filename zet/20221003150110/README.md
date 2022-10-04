@@ -8,4 +8,4 @@ Tunnel through 443 and open a socks proxy on attacker localhost.
 - ~/kb/networking/port-forwarding.md
 
 Tags:
-    #assorted
+    #assorted #networking #port

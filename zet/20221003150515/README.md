@@ -6,4 +6,4 @@
 - ~/kb/hacking/pwn/debug-terminal-setup.md
 
 Tags:
-    #assorted
+    #assorted #hacking #pwn #debug

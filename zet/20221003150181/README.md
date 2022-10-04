@@ -14,4 +14,4 @@ Install apt packages
 - ~/kb/linux/install-alacritty.md
 
 Tags:
-    #assorted
+    #assorted #linux #install

@@ -5,4 +5,4 @@
 - ~/kb/hacking/windows/windows-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

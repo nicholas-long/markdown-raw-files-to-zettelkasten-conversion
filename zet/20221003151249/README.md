@@ -5,4 +5,4 @@
 - ~/kb/hacking/tricks/install-pip-modules-on-target-as-files.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #install

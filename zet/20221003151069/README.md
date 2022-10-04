@@ -10,4 +10,4 @@ procdump64.exe -accepteula -ma 1234
 - ~/kb/hacking/windows/dump-process-memory.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #dump

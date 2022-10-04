@@ -8,4 +8,4 @@ enum4linux $IP | grep -Ev '^(Use of)' > enum4linux.out
 - ~/kb/hacking/commands/enum4linux-command.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #enum4linux

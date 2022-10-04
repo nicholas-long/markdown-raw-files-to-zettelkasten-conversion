@@ -9,4 +9,4 @@ sudo mount -t cifs -o username=user_name //$IP/share_name /mnt/
 - ~/kb/hacking/commands/smb-mount-share.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #smb

@@ -6,4 +6,4 @@ bytes.fromhex(str)
 - ~/kb/hacking/python/python-quick-reference.md
 
 Tags:
-    #assorted
+    #assorted #hacking #python

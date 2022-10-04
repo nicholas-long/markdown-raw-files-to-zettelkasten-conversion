@@ -8,4 +8,4 @@ icalcs file.exe
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #dos

@@ -6,4 +6,4 @@
 - ~/kb/hacking/tricks/vbscript-wget-hack.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #vbscript

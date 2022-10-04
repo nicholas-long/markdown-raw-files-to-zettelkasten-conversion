@@ -5,4 +5,4 @@
 - ~/kb/awk-scripting/convert-decimal-to-hex.md
 
 Tags:
-    #assorted
+    #assorted #awk-scripting #convert

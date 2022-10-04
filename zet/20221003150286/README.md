@@ -7,4 +7,4 @@
 - ~/kb/hacking/misc/web-server-default-webroots.md
 
 Tags:
-    #assorted
+    #assorted #hacking #web

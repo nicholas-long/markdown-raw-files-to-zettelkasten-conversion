@@ -10,4 +10,4 @@ impacket-smbserver -smb2support TMP $(pwd)
 - ~/kb/hacking/commands/impacket-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #impacket

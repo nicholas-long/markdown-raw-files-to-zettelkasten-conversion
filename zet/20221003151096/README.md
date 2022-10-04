@@ -9,4 +9,4 @@ and the CA creates and signs a certificate using the attacker-supplied SAN, the 
 - ~/kb/hacking/windows/active-directory-certificate-services.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #active

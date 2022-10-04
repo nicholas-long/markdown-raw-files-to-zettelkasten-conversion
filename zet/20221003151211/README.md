@@ -8,4 +8,4 @@
 - ~/kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
 
 Tags:
-    #assorted #to-try-list
+    #assorted #to-try-list #hacking #got

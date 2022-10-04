@@ -15,4 +15,4 @@ ssh user@$IP "/usr/bin/tcpdump -i lo -U -s0 -w - 'not port 22'" | wireshark -k -
 - ~/kb/hacking/commands/packet-capture.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #packet

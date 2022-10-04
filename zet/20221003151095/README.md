@@ -7,4 +7,4 @@
 - ~/kb/hacking/windows/active-directory-certificate-services.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #active

@@ -13,4 +13,4 @@ sudo ./build-alpine -a i686
 - ~/kb/hacking/priv-esc/lxd/lxd-priv-esc.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #lxd

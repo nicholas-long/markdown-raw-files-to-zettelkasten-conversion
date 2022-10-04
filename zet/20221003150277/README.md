@@ -8,4 +8,4 @@ much faster than crackpkcs12
 - ~/kb/hacking/misc/file-type-reference.md
 
 Tags:
-    #assorted
+    #assorted #hacking #file

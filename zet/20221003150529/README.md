@@ -5,4 +5,4 @@
 - ~/kb/hacking/pwn/gdb-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #pwn #gdb

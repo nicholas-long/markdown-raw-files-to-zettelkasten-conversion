@@ -8,4 +8,4 @@ feroxbuster --url http://$IP/ -w /usr/share/seclists/Discovery/Web-Content/direc
 - ~/kb/hacking/commands/feroxbuster-command.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #feroxbuster

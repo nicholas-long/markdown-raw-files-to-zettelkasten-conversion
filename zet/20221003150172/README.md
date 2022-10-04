@@ -9,4 +9,4 @@ less -f -r file.log
 - ~/kb/linux/less.md
 
 Tags:
-    #assorted
+    #assorted #linux #less

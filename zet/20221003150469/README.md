@@ -7,4 +7,4 @@
 - ~/kb/hacking/powershell/powershell-tricks.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #powershell

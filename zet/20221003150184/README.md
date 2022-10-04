@@ -5,4 +5,4 @@
 - ~/kb/linux/users-groups.md
 
 Tags:
-    #assorted
+    #assorted #linux #users

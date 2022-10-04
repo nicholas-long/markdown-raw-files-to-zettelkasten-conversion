@@ -8,4 +8,4 @@
 - ~/kb/hacking/commands/wfuzz-fuzzing.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #wfuzz

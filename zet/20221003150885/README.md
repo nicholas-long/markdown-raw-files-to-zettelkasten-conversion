@@ -15,4 +15,4 @@ uid=0(root) gid=0(root) groups=0(root)
 - ~/kb/hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #run

@@ -8,4 +8,4 @@ grep -E '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}'
 - ~/kb/hacking/analysis/grep-patterns.md
 
 Tags:
-    #assorted
+    #assorted #hacking #grep

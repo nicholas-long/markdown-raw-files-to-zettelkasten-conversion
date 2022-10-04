@@ -8,4 +8,4 @@ Tunnel through 443 and open a socks proxy on attacker localhost.
 - ~/kb/hacking/commands/pivot-tunnel-through-chisel.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #pivot

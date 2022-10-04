@@ -9,4 +9,4 @@ wget https://launchpad.net/ubuntu/+source/policykit-1/0.105-31/+build/21659401/+
 - ~/kb/hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #run

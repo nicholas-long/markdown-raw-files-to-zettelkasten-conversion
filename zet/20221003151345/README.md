@@ -5,4 +5,4 @@
 - ~/kb/awk-scripting/bash-awk-quick-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #awk-scripting #bash

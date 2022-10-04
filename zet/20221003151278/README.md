@@ -6,4 +6,4 @@
 - ~/kb/data-engineering-pipelines/data-science-linux-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #data-engineering-pipelines #data

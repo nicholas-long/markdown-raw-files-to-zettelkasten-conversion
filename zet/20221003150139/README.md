@@ -6,4 +6,4 @@ bsdextrautils
 - ~/kb/linux/utilities-packages.md
 
 Tags:
-    #assorted
+    #assorted #linux #utilities

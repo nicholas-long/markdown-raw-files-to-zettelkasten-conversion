@@ -7,4 +7,4 @@ bytes.fromhex(str).decode('latin-1')
 - ~/kb/hacking/python/python-quick-reference.md
 
 Tags:
-    #assorted
+    #assorted #hacking #python

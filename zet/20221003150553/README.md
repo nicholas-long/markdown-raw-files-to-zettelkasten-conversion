@@ -5,4 +5,4 @@
 - ~/kb/hacking/common-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #common

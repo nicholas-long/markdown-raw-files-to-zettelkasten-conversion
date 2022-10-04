@@ -8,4 +8,4 @@ $cred = import-clixml .\file.xml
 - ~/kb/hacking/powershell/load-xml-object-print-password-from-pscredential.md
 
 Tags:
-    #assorted
+    #assorted #hacking #load

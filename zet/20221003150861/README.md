@@ -6,4 +6,4 @@ connect with -vvv to see issues
 - ~/kb/hacking/commands/ssh-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #ssh

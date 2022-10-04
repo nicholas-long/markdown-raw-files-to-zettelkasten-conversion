@@ -8,4 +8,4 @@ panepath=$(tmux display-message -t "$pane" -a | grep pane_current_path | cut -d 
 - ~/kb/tmux/get-data-info.md
 
 Tags:
-    #assorted
+    #assorted #tmux #get

@@ -7,4 +7,4 @@
 - ~/kb/hacking/misc/file-type-reference.md
 
 Tags:
-    #assorted
+    #assorted #hacking #file

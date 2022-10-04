@@ -5,4 +5,4 @@
 - ~/kb/linux/os-pseudo-filesystem-data-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #linux #os

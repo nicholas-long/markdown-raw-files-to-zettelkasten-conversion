@@ -8,4 +8,4 @@
 - ~/kb/hacking/tricks/identify-linux-version-service-versions.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #identify

@@ -6,4 +6,4 @@ exe runing on linux with wine -> try linux reverse shell payload
 - ~/kb/hacking/pwn/basic-win-pwn.md
 
 Tags:
-    #assorted
+    #assorted #hacking #pwn #basic

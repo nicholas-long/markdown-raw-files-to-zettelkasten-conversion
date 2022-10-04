@@ -5,4 +5,4 @@
 - ~/kb/linux/package-manager-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #linux #package

@@ -8,4 +8,4 @@ tftp -i 192.168.0.1 GET whoami.exe
 - ~/kb/hacking/commands/tftp-reference.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #tftp

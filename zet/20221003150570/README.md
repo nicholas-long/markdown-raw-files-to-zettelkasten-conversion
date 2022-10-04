@@ -6,4 +6,4 @@ https://github.com/ambionics/phpggc
 - ~/kb/hacking/php/deserialization-attacks.md
 
 Tags:
-    #assorted
+    #assorted #hacking #deserialization

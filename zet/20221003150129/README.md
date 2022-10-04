@@ -5,4 +5,4 @@
 - ~/kb/linux/tldr-info.md
 
 Tags:
-    #assorted
+    #assorted #linux #tldr

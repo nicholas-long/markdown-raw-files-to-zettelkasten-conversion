@@ -8,4 +8,4 @@ cat payload.bin | msfvenom -p - -f exe -a x64 --platform win -o output.exe
 - ~/kb/hacking/pwn/shellcode-to-executable.md
 
 Tags:
-    #assorted
+    #assorted #hacking #pwn #shellcode

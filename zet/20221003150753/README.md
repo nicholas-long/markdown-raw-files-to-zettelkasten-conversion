@@ -7,4 +7,4 @@ https://github.com/ropnop/kerbrute
 - ~/kb/hacking/commands/windows-active-directory-kerberos-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #windows #windows

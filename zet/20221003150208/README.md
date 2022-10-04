@@ -9,4 +9,4 @@ echo "$fileid:$filename" | kafkacat -b $KAFKA -P -t topic_name -u -K ':'
 - ~/kb/kafka/kafkacat.md
 
 Tags:
-    #assorted
+    #assorted #kafka #kafkacat

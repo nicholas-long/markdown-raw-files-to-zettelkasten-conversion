@@ -5,4 +5,4 @@
 - ~/kb/hacking/commands/wpscan-command.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #wpscan

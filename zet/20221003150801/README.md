@@ -6,4 +6,4 @@
 - ~/kb/hacking/commands/openssl-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #openssl

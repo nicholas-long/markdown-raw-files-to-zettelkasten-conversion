@@ -6,4 +6,4 @@
 - ~/kb/hacking/misc/web-server-executable-extensions.md
 
 Tags:
-    #assorted
+    #assorted #hacking #web

@@ -7,4 +7,4 @@
 - ~/kb/hacking/windows/windows-reverse-shell.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

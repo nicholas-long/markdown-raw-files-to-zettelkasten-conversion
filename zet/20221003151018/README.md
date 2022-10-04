@@ -12,4 +12,4 @@ python3 ds_store_parser.py -i ../.DS_Store
 - ~/kb/hacking/methodology/ds-store-file.md
 
 Tags:
-    #assorted
+    #assorted #hacking #ds

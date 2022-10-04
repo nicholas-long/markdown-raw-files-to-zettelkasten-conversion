@@ -12,4 +12,4 @@
 - ~/kb/hacking/to-try-lists/SMB.md
 
 Tags:
-    #assorted #to-try-list
+    #assorted #to-try-list #hacking #SMB

@@ -21,4 +21,4 @@ ENTRYPOINT /work/entry.sh
 - ~/kb/kafka/ksql-initialize-example.md
 
 Tags:
-    #assorted
+    #assorted #kafka #ksql

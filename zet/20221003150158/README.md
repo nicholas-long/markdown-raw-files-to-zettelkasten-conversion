@@ -8,4 +8,4 @@ sudo apt-get dselect-upgrade
 - ~/kb/linux/force-upgrade.md
 
 Tags:
-    #assorted
+    #assorted #linux #force

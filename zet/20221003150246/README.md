@@ -6,4 +6,4 @@ password manager
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
 
 Tags:
-    #assorted
+    #assorted #hacking #buzzwords #buzzwords

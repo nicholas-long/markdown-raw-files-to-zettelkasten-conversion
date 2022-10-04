@@ -5,4 +5,4 @@
 - ~/kb/hacking/priv-esc/bsd-enumeration.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #bsd

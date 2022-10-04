@@ -14,4 +14,4 @@ ssh -L 8081:127.0.0.1:8080 user@$IP
 - ~/kb/networking/port-forwarding.md
 
 Tags:
-    #assorted
+    #assorted #networking #port

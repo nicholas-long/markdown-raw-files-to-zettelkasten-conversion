@@ -7,4 +7,4 @@
 - ~/kb/hacking/methodology/ds-store-file.md
 
 Tags:
-    #assorted
+    #assorted #hacking #ds

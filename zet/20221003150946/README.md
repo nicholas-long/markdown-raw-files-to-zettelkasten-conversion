@@ -7,4 +7,4 @@
 - ~/kb/hacking/python/python-quick-reference.md
 
 Tags:
-    #assorted
+    #assorted #hacking #python

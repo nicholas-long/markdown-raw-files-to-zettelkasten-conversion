@@ -8,4 +8,4 @@ Build an Alpine image and start it using the flag `security.privileged=true`, fo
 - ~/kb/hacking/priv-esc/lxd/lxd-priv-esc.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #lxd

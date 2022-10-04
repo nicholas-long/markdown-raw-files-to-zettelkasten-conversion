@@ -10,4 +10,4 @@
 - ~/kb/hacking/to-try-lists/nmap-UDP-scan-individual-port-scans.md
 
 Tags:
-    #assorted #to-try-list
+    #assorted #to-try-list #hacking #nmap

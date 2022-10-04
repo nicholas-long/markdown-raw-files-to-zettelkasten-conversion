@@ -7,4 +7,4 @@ can use dosbox to extract these self extracting archives
 - ~/kb/linux/cyberpunk-retro-machine-serial-terminals.md
 
 Tags:
-    #assorted
+    #assorted #linux #cyberpunk

@@ -9,4 +9,4 @@ logic errors
 - ~/kb/hacking/tricks/hibernate-hql-injection.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #hibernate

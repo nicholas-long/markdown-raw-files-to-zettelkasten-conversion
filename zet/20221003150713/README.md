@@ -8,4 +8,4 @@ sudo tcpdump -n -i tun0
 - ~/kb/hacking/commands/packet-capture.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #packet

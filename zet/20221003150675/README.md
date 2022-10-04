@@ -8,4 +8,4 @@ bloodhound-python -c All -u user --hashes abcd123abcd123abcd123abcd123abcd:abcd1
 - ~/kb/hacking/commands/bloodhound.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #bloodhound

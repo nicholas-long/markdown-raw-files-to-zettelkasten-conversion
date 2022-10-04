@@ -7,4 +7,4 @@ https://github.com/rasta-mouse/ThreatCheck
 - ~/kb/hacking/misc/important-repositories-tools.md
 
 Tags:
-    #assorted
+    #assorted #hacking #repositories #important

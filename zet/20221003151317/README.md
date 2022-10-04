@@ -9,4 +9,4 @@ cat ./monitoring/login.req | ~/go/bin/xpup '//request'
 - ~/kb/bash-scripting/xml-parsing.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #xml

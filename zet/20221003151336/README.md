@@ -9,4 +9,4 @@ BEGIN { FS = OFS = "\t" }
 - ~/kb/awk-scripting/snippets.md
 
 Tags:
-    #assorted
+    #assorted #awk-scripting #snippets

@@ -6,4 +6,4 @@
 - ~/kb/hacking/commands/smbmap.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #smbmap

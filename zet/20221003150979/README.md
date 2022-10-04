@@ -7,4 +7,4 @@ hashes can either be in `Password` or `authentication_string` columns
 - ~/kb/hacking/methodology/sqli-manual-mysql-payloads.md
 
 Tags:
-    #assorted
+    #assorted #hacking #sqli

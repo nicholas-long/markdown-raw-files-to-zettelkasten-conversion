@@ -7,4 +7,4 @@ Recon/PowerView.ps1
 - ~/kb/hacking/windows/powerview-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #windows #powerview

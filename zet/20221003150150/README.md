@@ -11,4 +11,4 @@ must be connected to a computer through a null modem connection.
 - ~/kb/linux/cyberpunk-retro-machine-serial-terminals.md
 
 Tags:
-    #assorted
+    #assorted #linux #cyberpunk

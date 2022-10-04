@@ -10,4 +10,4 @@ run `:tab all` to put the files in tabs
 - ~/kb/vim/edit-multiple-files.md
 
 Tags:
-    #assorted
+    #assorted #vim #edit

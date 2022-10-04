@@ -10,4 +10,4 @@ net use Z: \\127.0.0.1\c$
 - ~/kb/hacking/windows/uacbypass/uac-bypass.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #uac

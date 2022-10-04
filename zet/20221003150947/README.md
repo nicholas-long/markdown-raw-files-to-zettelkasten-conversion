@@ -10,4 +10,4 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 - ~/kb/hacking/python/fix-ssl.md
 
 Tags:
-    #assorted
+    #assorted #hacking #fix

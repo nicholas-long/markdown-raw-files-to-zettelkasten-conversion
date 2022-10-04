@@ -8,4 +8,4 @@ openssl pkcs12 -export -inkey client.key -in client.cer -out client.p12
 - ~/kb/hacking/commands/openssl-general.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #openssl

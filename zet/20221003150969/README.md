@@ -12,4 +12,4 @@
 - ~/kb/hacking/methodology/mobile-apps-and-api-testing.md
 
 Tags:
-    #assorted
+    #assorted #hacking #mobile

@@ -7,4 +7,4 @@ uses function `generate_mof`
 - ~/kb/hacking/windows/xp-server-2003.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #xp

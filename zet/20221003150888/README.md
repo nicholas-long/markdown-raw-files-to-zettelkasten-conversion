@@ -6,4 +6,4 @@ https://launchpad.net/ubuntu/+source/policykit-1
 - ~/kb/hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #run

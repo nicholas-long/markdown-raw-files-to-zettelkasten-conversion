@@ -5,4 +5,4 @@
 - ~/kb/hacking/methodology/sqli-manual-mysql-payloads.md
 
 Tags:
-    #assorted
+    #assorted #hacking #sqli

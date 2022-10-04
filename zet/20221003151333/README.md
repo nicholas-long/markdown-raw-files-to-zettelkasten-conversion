@@ -9,4 +9,4 @@ mktemp --directory
 - ~/kb/bash-scripting/file-operations.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #file

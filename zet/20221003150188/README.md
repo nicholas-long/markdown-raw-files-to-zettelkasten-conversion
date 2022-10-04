@@ -12,4 +12,4 @@ zstyle ':completion:hist-complete:*' completer _history
 - ~/kb/linux/zsh-see-default-bindings.md
 
 Tags:
-    #assorted
+    #assorted #linux #zsh

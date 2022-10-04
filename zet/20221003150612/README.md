@@ -13,4 +13,4 @@ smbclient //$IP/share -U username%password -c "prompt OFF;recurse ON;mget *"
 - ~/kb/hacking/commands/smbclient-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #smbclient

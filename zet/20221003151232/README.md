@@ -10,4 +10,4 @@ grant all privileges on dbname.* to 'yourusername'@'%' with grant option;
 - ~/kb/hacking/tricks/mysql-tricks.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #mysql

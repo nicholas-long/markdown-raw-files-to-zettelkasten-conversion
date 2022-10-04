@@ -37,4 +37,4 @@
 - ~/kb/hacking/to-try-lists/HTTP.md
 
 Tags:
-    #assorted #to-try-list
+    #assorted #to-try-list #hacking #HTTP

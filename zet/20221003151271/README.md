@@ -6,4 +6,4 @@
 - ~/kb/docker/docker-hd-space.md
 
 Tags:
-    #assorted
+    #assorted #docker #docker

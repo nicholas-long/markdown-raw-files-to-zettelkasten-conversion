@@ -14,4 +14,4 @@ systemctl enable serial-getty@ttyUSB0.service
 - ~/kb/linux/cyberpunk-retro-machine-serial-terminals.md
 
 Tags:
-    #assorted
+    #assorted #linux #cyberpunk

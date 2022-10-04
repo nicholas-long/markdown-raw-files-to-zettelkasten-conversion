@@ -12,4 +12,4 @@ New-PSDrive -Name "temp" -PSProvider "FileSystem" -Credential $cred -Root "\\192
 - ~/kb/hacking/powershell/powershell-tricks.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #powershell

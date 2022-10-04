@@ -9,4 +9,4 @@ hydra -l admin -P /usr/share/wordlists/rockyou.txt 192.168.0.1 http-post-form "/
 - ~/kb/hacking/commands/hydra.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #hydra

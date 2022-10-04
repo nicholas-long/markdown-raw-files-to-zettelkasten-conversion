@@ -9,4 +9,4 @@ impacket-GetNPUsers -request -usersfile users -dc-ip $IP LAB.ENTERPRISE.THM/
 - ~/kb/hacking/commands/impacket-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #impacket

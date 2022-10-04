@@ -5,4 +5,4 @@
 - ~/kb/hacking/misc/assorted-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #assorted

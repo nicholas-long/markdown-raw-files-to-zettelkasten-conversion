@@ -14,4 +14,4 @@ ExecStart=-/sbin/agetty 9600 %I $TERM
 - ~/kb/linux/cyberpunk-retro-machine-serial-terminals.md
 
 Tags:
-    #assorted
+    #assorted #linux #cyberpunk

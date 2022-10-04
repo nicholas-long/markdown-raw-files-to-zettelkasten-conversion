@@ -9,4 +9,4 @@ sys.path
 - ~/kb/hacking/python/python-imports.md
 
 Tags:
-    #assorted
+    #assorted #hacking #python

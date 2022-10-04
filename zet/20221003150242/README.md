@@ -5,4 +5,4 @@
 - ~/kb/hacking/analysis/identify-service-data.md
 
 Tags:
-    #assorted
+    #assorted #hacking #identify

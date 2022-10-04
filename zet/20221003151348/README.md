@@ -9,4 +9,4 @@ ls | awk '{ split($0,arr,"-"); system("mv " $0 " " arr[1] ".md") }'
 - ~/kb/awk-scripting/bash-awk-quick-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #awk-scripting #bash

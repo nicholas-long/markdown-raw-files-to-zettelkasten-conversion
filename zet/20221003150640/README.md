@@ -8,4 +8,4 @@ nmap -v -p- -sV -sT -A $IP
 - ~/kb/hacking/commands/nmap-command.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #nmap

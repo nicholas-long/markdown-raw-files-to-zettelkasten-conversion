@@ -5,4 +5,4 @@
 - ~/kb/hacking/priv-esc/dirty-cow-no-gcc.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #dirty

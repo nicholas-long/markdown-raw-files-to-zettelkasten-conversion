@@ -11,4 +11,4 @@ cat datafile | kafkacat -b $KAFKA -P -u -t topic_name
 - ~/kb/kafka/kafkacat.md
 
 Tags:
-    #assorted
+    #assorted #kafka #kafkacat

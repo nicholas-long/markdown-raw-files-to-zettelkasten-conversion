@@ -14,4 +14,4 @@ gobuster dir -e -t 50 -x php,txt,html -d -u $URL -w cewl_wordlist
 - ~/kb/hacking/commands/gobuster.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #gobuster

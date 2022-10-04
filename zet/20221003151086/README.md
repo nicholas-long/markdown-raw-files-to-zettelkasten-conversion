@@ -9,4 +9,4 @@ https://github.com/gentilkiwi/mimikatz/issues/248
 - ~/kb/hacking/windows/mimikatz.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #mimikatz

@@ -9,4 +9,4 @@ php://filter/resource=
 - ~/kb/hacking/php/lfi.md
 
 Tags:
-    #assorted
+    #assorted #hacking #lfi

@@ -10,4 +10,4 @@ python3 enum4linux-ng.py -u guest $IP
 - ~/kb/hacking/commands/enum4linux-command.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #enum4linux

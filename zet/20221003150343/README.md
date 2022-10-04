@@ -5,4 +5,4 @@
 - ~/kb/hacking/misc/database-cms-enum.md
 
 Tags:
-    #assorted
+    #assorted #hacking #database

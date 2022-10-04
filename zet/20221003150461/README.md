@@ -7,4 +7,4 @@ HTTP auth
 - ~/kb/hacking/misc/tomcat.md
 
 Tags:
-    #assorted
+    #assorted #hacking #tomcat

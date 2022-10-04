@@ -7,4 +7,4 @@ In this mode, krbrelayx will either decrypt and dump incoming TGTs embedded in a
 - ~/kb/hacking/misc/important-repositories-tools.md
 
 Tags:
-    #assorted
+    #assorted #hacking #repositories #important

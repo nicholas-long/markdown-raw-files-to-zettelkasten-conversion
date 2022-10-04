@@ -5,4 +5,4 @@
 - ~/kb/linux/java-jdk-links.md
 
 Tags:
-    #assorted
+    #assorted #linux #java

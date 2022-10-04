@@ -6,4 +6,4 @@
 - ~/kb/bash-scripting/debugging.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #debugging

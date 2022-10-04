@@ -7,4 +7,4 @@ queries can contain things like strings, but it's not JSON. JSON is returned by 
 - ~/kb/hacking/methodology/API-enumeration.md
 
 Tags:
-    #assorted
+    #assorted #hacking #API

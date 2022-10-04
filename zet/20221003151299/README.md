@@ -6,4 +6,4 @@
 - ~/kb/bash-scripting/tricks.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #trick #tricks

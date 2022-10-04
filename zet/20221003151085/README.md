@@ -83,4 +83,4 @@ C:/Program Files/Microsoft SQL Server/MSSQL14.SQLEXPRESS/Template Data/master.md
 - ~/kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

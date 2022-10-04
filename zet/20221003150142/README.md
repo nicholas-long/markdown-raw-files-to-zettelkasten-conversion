@@ -9,4 +9,4 @@
 - ~/kb/linux/proxmox.md
 
 Tags:
-    #assorted
+    #assorted #linux #proxmox

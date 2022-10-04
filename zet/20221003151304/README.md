@@ -13,4 +13,4 @@ comm -12 <(sort signups.txt) <(sort purchases.txt)
 - ~/kb/bash-scripting/find-common-lines-set-operations.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #find

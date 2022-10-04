@@ -8,4 +8,4 @@
 - ~/kb/hacking/commands/pivot-tunnel-through-chisel.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #pivot

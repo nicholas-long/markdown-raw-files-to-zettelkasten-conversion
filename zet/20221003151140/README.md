@@ -8,4 +8,4 @@ most domains will prefer kerberos, but will allow NTLMv2 as a backup.
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

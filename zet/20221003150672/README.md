@@ -8,4 +8,4 @@ crackmapexec smb LAB-DC -u 'guest' -p '' --rid-brute
 - ~/kb/hacking/commands/crackmapexec-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #crackmapexec

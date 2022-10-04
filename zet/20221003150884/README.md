@@ -5,4 +5,4 @@
 - ~/kb/hacking/priv-esc/relative-path-abuse.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #relative

@@ -10,4 +10,4 @@ can be found with bloodhound or with `impacket-findDelegation`.
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

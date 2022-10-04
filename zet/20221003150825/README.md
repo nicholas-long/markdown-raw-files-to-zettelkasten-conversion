@@ -9,4 +9,4 @@ psql -U username -d database_name
 - ~/kb/hacking/commands/database-enum-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #database

@@ -7,4 +7,4 @@ https://gist.github.com/superkojiman/11076951
 - ~/kb/hacking/misc/important-repositories-tools.md
 
 Tags:
-    #assorted
+    #assorted #hacking #repositories #important

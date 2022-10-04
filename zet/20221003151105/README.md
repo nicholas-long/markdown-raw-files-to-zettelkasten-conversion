@@ -29,4 +29,4 @@ BOOL WINAPI DllMain(
 - ~/kb/hacking/windows/dll-to-run-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #windows #dll

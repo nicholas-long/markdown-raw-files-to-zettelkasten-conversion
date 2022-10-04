@@ -7,4 +7,4 @@ https://github.com/arget13/DDexec
 - ~/kb/hacking/tricks/run-programs-in-memory.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #run

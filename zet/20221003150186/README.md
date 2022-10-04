@@ -8,4 +8,4 @@ sudo journalctl --vacuum-size=100M
 - ~/kb/linux/free-up-space.md
 
 Tags:
-    #assorted
+    #assorted #linux #free

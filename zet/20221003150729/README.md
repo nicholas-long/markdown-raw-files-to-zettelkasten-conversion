@@ -13,4 +13,4 @@ powershell -nop -enc <BASE64_ENCODED_PAYLOAD>
 - ~/kb/hacking/commands/encode-powershell-base64-windows.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #windows #encode

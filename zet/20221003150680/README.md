@@ -13,4 +13,4 @@ put nc.exe c:\windows\system32\nc.exe
 - ~/kb/hacking/commands/tftp-reference.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #tftp

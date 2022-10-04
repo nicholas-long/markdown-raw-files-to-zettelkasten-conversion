@@ -7,4 +7,4 @@ https://addons.mozilla.org/en-GB/firefox/addon/multi-account-containers/
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
 
 Tags:
-    #assorted
+    #assorted #hacking #buzzwords #buzzwords

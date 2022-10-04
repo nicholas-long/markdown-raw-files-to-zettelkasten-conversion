@@ -6,4 +6,4 @@
 - ~/kb/hacking/commands/smb-mount-share.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #smb

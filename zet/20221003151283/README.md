@@ -8,4 +8,4 @@ output is sorted by dependencies.
 - ~/kb/data-engineering-pipelines/topological-sort.md
 
 Tags:
-    #assorted
+    #assorted #data-engineering-pipelines #topological

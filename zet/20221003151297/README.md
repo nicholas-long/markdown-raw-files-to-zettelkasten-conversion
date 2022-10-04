@@ -8,4 +8,4 @@ script -q output -c "shodan host 43.225.54.207" &
 - ~/kb/bash-scripting/tricks.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #trick #tricks

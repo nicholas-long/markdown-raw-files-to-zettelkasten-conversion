@@ -8,4 +8,4 @@ git config --global credential.helper store
 - ~/kb/linux/git-settings.md
 
 Tags:
-    #assorted
+    #assorted #linux #git

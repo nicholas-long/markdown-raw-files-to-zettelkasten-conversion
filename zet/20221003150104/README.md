@@ -8,4 +8,4 @@
 - ~/kb/python/coding-reference.md
 
 Tags:
-    #assorted
+    #assorted #python #coding

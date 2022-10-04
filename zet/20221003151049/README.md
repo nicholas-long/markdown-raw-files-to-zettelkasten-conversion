@@ -9,4 +9,4 @@ net user AccountUsername P@ssw0rd1 /domain
 - ~/kb/hacking/windows/windows-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

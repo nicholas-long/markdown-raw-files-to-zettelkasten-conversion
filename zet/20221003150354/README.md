@@ -6,4 +6,4 @@ https://github.com/dnSpy/dnSpy
 - ~/kb/hacking/misc/important-repositories-tools.md
 
 Tags:
-    #assorted
+    #assorted #hacking #repositories #important

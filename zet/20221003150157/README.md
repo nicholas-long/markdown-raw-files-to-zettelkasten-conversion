@@ -9,4 +9,4 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys ABC123ABC123ABC1
 - ~/kb/linux/force-upgrade.md
 
 Tags:
-    #assorted
+    #assorted #linux #force

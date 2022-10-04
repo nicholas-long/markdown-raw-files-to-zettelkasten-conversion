@@ -6,4 +6,4 @@
 - ~/kb/hacking/windows/test-for-defender-amsi.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #test

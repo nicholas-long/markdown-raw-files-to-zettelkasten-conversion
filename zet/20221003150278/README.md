@@ -7,4 +7,4 @@ uses multiple cores for cracking.
 - ~/kb/hacking/misc/file-type-reference.md
 
 Tags:
-    #assorted
+    #assorted #hacking #file

@@ -21,4 +21,4 @@ echo
 - ~/kb/kafka/ksql-initialize-example.md
 
 Tags:
-    #assorted
+    #assorted #kafka #ksql

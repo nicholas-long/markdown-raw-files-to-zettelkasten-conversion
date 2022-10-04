@@ -6,4 +6,4 @@
 - ~/kb/hacking/commands/nfs.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #nfs

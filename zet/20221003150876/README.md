@@ -5,4 +5,4 @@
 - ~/kb/hacking/priv-esc/sudoers.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #sudoers

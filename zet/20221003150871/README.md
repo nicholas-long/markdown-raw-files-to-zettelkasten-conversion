@@ -7,4 +7,4 @@
 - ~/kb/hacking/commands/john-the-ripper-crack-with-wordlist.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #john

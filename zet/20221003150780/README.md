@@ -5,4 +5,4 @@
 - ~/kb/hacking/commands/crowbar.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #crowbar

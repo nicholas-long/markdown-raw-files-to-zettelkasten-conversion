@@ -7,4 +7,4 @@
 - ~/kb/hacking/pwn/python-tricks.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #pwn #python

@@ -5,4 +5,4 @@
 - ~/kb/tmux/copy-buffer.md
 
 Tags:
-    #assorted
+    #assorted #tmux #copy

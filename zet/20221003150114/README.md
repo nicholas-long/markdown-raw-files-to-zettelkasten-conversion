@@ -9,4 +9,4 @@ socat TCP-LISTEN:80,fork TCP:127.0.0.1:445
 - ~/kb/networking/port-forwarding.md
 
 Tags:
-    #assorted
+    #assorted #networking #port

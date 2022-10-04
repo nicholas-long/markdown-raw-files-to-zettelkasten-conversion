@@ -5,4 +5,4 @@
 - ~/kb/bash-scripting/check-empty-var.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #check

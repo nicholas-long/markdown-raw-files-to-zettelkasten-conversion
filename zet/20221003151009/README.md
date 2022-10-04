@@ -6,4 +6,4 @@ curl parameter `--path-as-is` to preserve any `../`
 - ~/kb/hacking/methodology/LFI-procedure.md
 
 Tags:
-    #assorted
+    #assorted #hacking #LFI

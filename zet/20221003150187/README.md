@@ -6,4 +6,4 @@
 - ~/kb/linux/free-up-space.md
 
 Tags:
-    #assorted
+    #assorted #linux #free

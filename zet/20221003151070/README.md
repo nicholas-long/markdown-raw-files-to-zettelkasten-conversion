@@ -6,4 +6,4 @@
 - ~/kb/hacking/windows/dump-process-memory.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #dump

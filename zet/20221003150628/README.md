@@ -10,4 +10,4 @@ nmap -n -sV --script "ldap* and not brute" --script-args 'ldap.maxobjects=-1' $I
 - ~/kb/hacking/commands/ldap.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #ldap

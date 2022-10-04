@@ -9,4 +9,4 @@ getfacl -R -s /
 - ~/kb/hacking/misc/assorted-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #assorted

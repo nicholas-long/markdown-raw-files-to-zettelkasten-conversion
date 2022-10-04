@@ -5,4 +5,4 @@
 - ~/kb/hacking/notes-template/notes.md
 
 Tags:
-    #assorted
+    #assorted #hacking #notes

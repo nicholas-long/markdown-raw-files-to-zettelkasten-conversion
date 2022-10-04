@@ -5,4 +5,4 @@
 - ~/kb/hacking/methodology/oracle.md
 
 Tags:
-    #assorted
+    #assorted #hacking #oracle

@@ -7,4 +7,4 @@ try removing "PS" and path from prompt
 - ~/kb/hacking/windows/windows-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

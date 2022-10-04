@@ -6,4 +6,4 @@
 - ~/kb/hacking/commands/wfuzz-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #wfuzz

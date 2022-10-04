@@ -16,4 +16,4 @@ python gMSADumper.py -k -d domain.local -l dc01.domain.local
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

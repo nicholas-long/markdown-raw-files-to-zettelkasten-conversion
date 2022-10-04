@@ -9,4 +9,4 @@ crowbar -b rdp -n 1 -s $IP/32 -u username -C ./passwords
 - ~/kb/hacking/commands/crowbar.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #crowbar

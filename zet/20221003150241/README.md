@@ -8,4 +8,4 @@ https://www.exploit-db.com/exploits/46697
 - ~/kb/hacking/analysis/identify-service-data.md
 
 Tags:
-    #assorted
+    #assorted #hacking #identify

@@ -9,4 +9,4 @@ wfuzz -c -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt -
 - ~/kb/hacking/commands/wfuzz-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #wfuzz

@@ -7,4 +7,4 @@ sc config SVC_NAME start= auto
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #dos

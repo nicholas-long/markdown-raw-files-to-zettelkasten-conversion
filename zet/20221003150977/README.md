@@ -8,4 +8,4 @@ sqlplus64 user/pass@$IP:1521/SID as sysdba
 - ~/kb/hacking/methodology/oracle.md
 
 Tags:
-    #assorted
+    #assorted #hacking #oracle

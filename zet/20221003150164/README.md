@@ -7,4 +7,4 @@
 - ~/kb/linux/job-control.md
 
 Tags:
-    #assorted
+    #assorted #linux #job

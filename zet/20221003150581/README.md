@@ -8,4 +8,4 @@
 - ~/kb/hacking/php/lfi.md
 
 Tags:
-    #assorted
+    #assorted #hacking #lfi

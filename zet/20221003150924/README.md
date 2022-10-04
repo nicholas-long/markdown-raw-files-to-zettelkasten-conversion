@@ -8,4 +8,4 @@ openssl passwd -1 -salt coyote0x90
 - ~/kb/hacking/priv-esc/etc-passwd-writable-line.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #etc

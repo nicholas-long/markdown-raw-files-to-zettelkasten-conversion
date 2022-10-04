@@ -8,4 +8,4 @@
 - ~/kb/hacking/to-try-lists/SSH.md
 
 Tags:
-    #assorted #to-try-list
+    #assorted #to-try-list #hacking #SSH

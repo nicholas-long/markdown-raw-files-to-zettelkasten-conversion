@@ -7,4 +7,4 @@ https://github.com/GhostPack/Rubeus
 - ~/kb/hacking/misc/important-repositories-tools.md
 
 Tags:
-    #assorted
+    #assorted #hacking #repositories #important

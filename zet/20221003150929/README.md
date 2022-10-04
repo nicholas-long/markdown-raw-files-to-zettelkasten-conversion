@@ -6,4 +6,4 @@
 - ~/kb/hacking/priv-esc/c-shells-and-setuid.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #c

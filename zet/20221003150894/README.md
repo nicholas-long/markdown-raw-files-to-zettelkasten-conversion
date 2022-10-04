@@ -10,4 +10,4 @@ EOF
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #privesc #enumeration

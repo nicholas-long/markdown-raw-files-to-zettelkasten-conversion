@@ -12,4 +12,4 @@ brute forceable if used to generate a cookie
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
 
 Tags:
-    #assorted
+    #assorted #hacking #buzzwords #buzzwords

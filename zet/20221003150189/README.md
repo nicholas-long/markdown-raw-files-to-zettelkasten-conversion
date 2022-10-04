@@ -10,4 +10,4 @@ bindkey '\e[B' history-search-forward
 - ~/kb/linux/zsh-see-default-bindings.md
 
 Tags:
-    #assorted
+    #assorted #linux #zsh

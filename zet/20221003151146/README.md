@@ -6,4 +6,4 @@
 - ~/kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #AD

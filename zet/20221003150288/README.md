@@ -6,4 +6,4 @@ c:/wamp/www
 - ~/kb/hacking/misc/web-server-default-webroots.md
 
 Tags:
-    #assorted
+    #assorted #hacking #web

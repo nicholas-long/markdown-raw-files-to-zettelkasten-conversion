@@ -5,4 +5,4 @@
 - ~/kb/tmux/get-data-info.md
 
 Tags:
-    #assorted
+    #assorted #tmux #get

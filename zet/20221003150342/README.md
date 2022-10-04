@@ -8,4 +8,4 @@ select * from wp_options where option_name = 'active_plugins'
 - ~/kb/hacking/misc/database-cms-enum.md
 
 Tags:
-    #assorted
+    #assorted #hacking #database

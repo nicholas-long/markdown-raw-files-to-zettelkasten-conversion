@@ -65,4 +65,4 @@ print(r.text)
 - ~/kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #php

@@ -6,4 +6,4 @@ ConvertFrom-AdManagedPasswordBlob is not recognized as the name of a cmdlet, fun
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

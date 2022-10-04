@@ -9,4 +9,4 @@ wfuzz -c -u $URL -w /usr/share/seclists/Discovery/DNS/fierce-hostlist.txt -H "Ho
 - ~/kb/hacking/commands/wfuzz-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #wfuzz

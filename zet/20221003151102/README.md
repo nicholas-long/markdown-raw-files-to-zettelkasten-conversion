@@ -8,4 +8,4 @@ certutil.exe -urlcache -split -f "https://download.sysinternals.com/files/PSTool
 - ~/kb/hacking/windows/windows-reverse-shell.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

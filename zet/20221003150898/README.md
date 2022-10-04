@@ -8,4 +8,4 @@ cat /proc/*/status | awk '/CapEff/ && $2 !~ /^0*$/ { print name, pid, uid, $2 } 
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #privesc #enumeration

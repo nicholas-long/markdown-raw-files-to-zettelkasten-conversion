@@ -6,4 +6,4 @@
 - ~/kb/hacking/commands/bloodhound.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #bloodhound

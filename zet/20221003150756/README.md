@@ -8,4 +8,4 @@ cat payload.bin | msfvenom -p - -f exe -a x64 --platform win -o output.exe
 - ~/kb/hacking/commands/msfvenom-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #msfvenom

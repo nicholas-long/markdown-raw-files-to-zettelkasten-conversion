@@ -8,4 +8,4 @@ https://rioasmara.com/2022/03/21/ansible-playbook-weaponization/
 - ~/kb/hacking/misc/ansible.md
 
 Tags:
-    #assorted
+    #assorted #hacking #ansible

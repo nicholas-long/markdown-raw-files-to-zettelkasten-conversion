@@ -11,4 +11,4 @@ f = FmtStr(exec_fmt, offset=6)
 - ~/kb/hacking/pwn/pwntools.md
 
 Tags:
-    #assorted
+    #assorted #hacking #pwn #pwntools

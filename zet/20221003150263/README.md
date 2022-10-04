@@ -19,4 +19,4 @@ https://en.wikipedia.org/wiki/Block_cipher#Notable_block_ciphers
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
 
 Tags:
-    #assorted
+    #assorted #hacking #buzzwords #buzzwords

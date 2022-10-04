@@ -5,4 +5,4 @@
 - ~/kb/bash-scripting/text-database-operations.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #text

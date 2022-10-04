@@ -6,4 +6,4 @@ inherits all capabilities
 - ~/kb/linux/capabilities.md
 
 Tags:
-    #assorted
+    #assorted #linux #capabilities

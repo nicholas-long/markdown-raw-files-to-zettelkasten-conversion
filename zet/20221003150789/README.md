@@ -9,4 +9,4 @@ need to enter country and organization information for the key
 - ~/kb/hacking/commands/openssl-general.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #openssl

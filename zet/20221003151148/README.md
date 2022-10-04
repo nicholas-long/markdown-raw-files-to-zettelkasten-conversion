@@ -12,4 +12,4 @@ https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/resou
 - ~/kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #AD

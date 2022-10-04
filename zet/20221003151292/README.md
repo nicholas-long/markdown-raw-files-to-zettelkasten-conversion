@@ -6,4 +6,4 @@
 - ~/kb/c-language/templates.md
 
 Tags:
-    #assorted
+    #assorted #c-language #templates

@@ -8,4 +8,4 @@ user ALL=(ALL) NOPASSWD: ALL
 - ~/kb/hacking/priv-esc/sudoers.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #sudoers

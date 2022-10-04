@@ -5,4 +5,4 @@
 - ~/kb/hacking/commands/hydra-http-auth.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #hydra

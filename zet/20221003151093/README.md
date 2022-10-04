@@ -17,4 +17,4 @@ AdjustTokenPrivileges(hToken, FALSE, &tkp, 0, (PTOKEN_PRIVILEGES)NULL, 0);
 - ~/kb/hacking/windows/enable-privilege-api.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #enable

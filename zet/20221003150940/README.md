@@ -22,4 +22,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 - ~/kb/hacking/python/python-imports.md
 
 Tags:
-    #assorted
+    #assorted #hacking #python

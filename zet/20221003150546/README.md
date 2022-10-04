@@ -8,4 +8,4 @@ ROPgadget --binary VulnApp1.exe | grep 'jmp esp'
 - ~/kb/hacking/pwn/basic-win-pwn.md
 
 Tags:
-    #assorted
+    #assorted #hacking #pwn #basic

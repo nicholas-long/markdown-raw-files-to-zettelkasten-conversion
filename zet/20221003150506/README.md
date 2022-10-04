@@ -8,4 +8,4 @@ int.from_bytes( these_bytes, 'little' )
 - ~/kb/hacking/pwn/python-tricks.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #pwn #python

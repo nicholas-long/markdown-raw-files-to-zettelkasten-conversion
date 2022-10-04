@@ -33,4 +33,4 @@ python2 shocker.py -H $IP --cgi /cgi-bin/test/test.cgi
 - ~/kb/hacking/exploit/shellshock-exploit.md
 
 Tags:
-    #assorted
+    #assorted #hacking #shellshock

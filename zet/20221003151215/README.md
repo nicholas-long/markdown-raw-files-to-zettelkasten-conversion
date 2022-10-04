@@ -9,4 +9,4 @@ Download from https://caddyserver.com
 - ~/kb/hacking/tricks/valid-https-server.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #valid

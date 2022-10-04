@@ -8,4 +8,4 @@ connection.search(search_base='DC=DOMAIN,DC=LOCAL', search_filter='(&(objectClas
 - ~/kb/hacking/commands/ldap.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #ldap

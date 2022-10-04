@@ -6,4 +6,4 @@
 - ~/kb/data-engineering-pipelines/yaml-syntax.md
 
 Tags:
-    #assorted
+    #assorted #data-engineering-pipelines #yaml

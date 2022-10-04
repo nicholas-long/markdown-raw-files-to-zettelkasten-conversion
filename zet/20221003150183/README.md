@@ -8,4 +8,4 @@ sudo usermod -aG docker $USER
 - ~/kb/linux/users-groups.md
 
 Tags:
-    #assorted
+    #assorted #linux #users

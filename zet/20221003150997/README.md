@@ -8,4 +8,4 @@ occasionally verbose error messages will leak info by suggesting mistakes in que
 - ~/kb/hacking/methodology/API-enumeration.md
 
 Tags:
-    #assorted
+    #assorted #hacking #API

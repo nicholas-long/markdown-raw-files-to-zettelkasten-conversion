@@ -5,4 +5,4 @@
 - ~/kb/hardware/surface-tablet.md
 
 Tags:
-    #assorted
+    #assorted #hardware #surface

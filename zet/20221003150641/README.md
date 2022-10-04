@@ -8,4 +8,4 @@ proxychains -q nmap -sC -sV -sT -Pn -n -vvv $IP
 - ~/kb/hacking/commands/nmap-command.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #nmap

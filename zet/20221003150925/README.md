@@ -8,4 +8,4 @@ c0:$1$coyote0x$S9Aruc4H1kvDizg..ij81.:0:0:root:/root:/bin/bash
 - ~/kb/hacking/priv-esc/etc-passwd-writable-line.md
 
 Tags:
-    #assorted
+    #assorted #hacking #privesc #etc

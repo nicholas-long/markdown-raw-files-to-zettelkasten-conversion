@@ -8,4 +8,4 @@ vimdiff file1 file2
 - ~/kb/vim/vim.md
 
 Tags:
-    #assorted
+    #assorted #vim #vim

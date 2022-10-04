@@ -13,4 +13,4 @@ impacket-psexec domain.local/Administrator@FQDNMachine.domain.local -k -no-pass
 - ~/kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #AD

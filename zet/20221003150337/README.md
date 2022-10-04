@@ -11,4 +11,4 @@
 - ~/kb/hacking/misc/ansible.md
 
 Tags:
-    #assorted
+    #assorted #hacking #ansible

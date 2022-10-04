@@ -5,4 +5,4 @@
 - ~/kb/bash-scripting/xml-parsing.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #xml

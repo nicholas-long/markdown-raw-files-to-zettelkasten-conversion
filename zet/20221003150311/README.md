@@ -6,4 +6,4 @@ To fix NT_STATUS_CONNECTION_DISCONNECTED errors in new Kali installations add cl
 - ~/kb/hacking/misc/assorted-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #assorted

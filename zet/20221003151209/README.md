@@ -21,4 +21,4 @@
 - ~/kb/hacking/to-try-lists/privesc/linux.md
 
 Tags:
-    #assorted #to-try-list
+    #assorted #to-try-list #hacking #privesc #linux

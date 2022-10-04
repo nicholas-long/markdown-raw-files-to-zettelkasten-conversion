@@ -6,4 +6,4 @@
 - ~/kb/hacking/commands/hydra-ftp-command.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #hydra

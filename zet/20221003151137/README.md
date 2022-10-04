@@ -6,4 +6,4 @@ ntds.dit - domain credentials
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

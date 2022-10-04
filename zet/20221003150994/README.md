@@ -12,4 +12,4 @@ queries are usually URL encoded
 - ~/kb/hacking/methodology/API-enumeration.md
 
 Tags:
-    #assorted
+    #assorted #hacking #API

@@ -8,4 +8,4 @@ iconv -f UTF-16LE -t UTF-8 winpeas.out | less -r
 - ~/kb/hacking/windows/enumeration-scripts-processing.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #enumeration

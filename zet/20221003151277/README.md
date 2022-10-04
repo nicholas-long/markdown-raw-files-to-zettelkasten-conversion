@@ -26,4 +26,4 @@ https://blog.robertelder.org/data-science-linux-command-line/
 - ~/kb/data-engineering-pipelines/data-science-linux-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #data-engineering-pipelines #data

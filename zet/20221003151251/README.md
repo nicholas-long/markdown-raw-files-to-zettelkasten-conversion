@@ -6,4 +6,4 @@ a BOF that loads CLR and runs .NET assemblies
 - ~/kb/hacking/tricks/run-programs-in-memory.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #run

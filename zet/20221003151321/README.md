@@ -6,4 +6,4 @@
 - ~/kb/bash-scripting/get-current-unix-date-timestamp.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #get

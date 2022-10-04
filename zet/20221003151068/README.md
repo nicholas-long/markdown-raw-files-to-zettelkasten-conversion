@@ -8,4 +8,4 @@ saves to `appdata/local/temp/procname.DMP`.
 - ~/kb/hacking/windows/dump-process-memory.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #dump

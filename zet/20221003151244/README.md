@@ -5,4 +5,4 @@
 - ~/kb/hacking/tricks/malicious-packages.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #malicious

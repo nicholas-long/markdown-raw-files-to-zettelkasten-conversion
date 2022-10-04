@@ -14,4 +14,4 @@ snmpwalk -c public -v1 $IP
 - ~/kb/hacking/commands/snmp-enumeration-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #snmp

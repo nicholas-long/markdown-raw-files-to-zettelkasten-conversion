@@ -8,4 +8,4 @@ show variables like '%plugin%';
 - ~/kb/hacking/tricks/mysql-tricks.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #mysql

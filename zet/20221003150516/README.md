@@ -10,4 +10,4 @@
 - ~/kb/hacking/pwn/binary-analysis.md
 
 Tags:
-    #assorted
+    #assorted #hacking #pwn #binary

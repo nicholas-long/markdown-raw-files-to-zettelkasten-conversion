@@ -6,4 +6,4 @@ permissions to back up files. can back up C drive to dump ntds.dit
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

@@ -7,4 +7,4 @@ protected in apache
 - ~/kb/hacking/methodology/LFI-procedure.md
 
 Tags:
-    #assorted
+    #assorted #hacking #LFI

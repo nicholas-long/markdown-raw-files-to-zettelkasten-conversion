@@ -19,4 +19,4 @@ vuln
 - ~/kb/hacking/methodology/nmap-scripts.md
 
 Tags:
-    #assorted
+    #assorted #hacking #nmap

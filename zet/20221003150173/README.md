@@ -5,4 +5,4 @@
 - ~/kb/linux/less.md
 
 Tags:
-    #assorted
+    #assorted #linux #less

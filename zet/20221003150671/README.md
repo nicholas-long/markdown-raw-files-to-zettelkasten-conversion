@@ -5,4 +5,4 @@
 - ~/kb/hacking/commands/crackmapexec-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #crackmapexec

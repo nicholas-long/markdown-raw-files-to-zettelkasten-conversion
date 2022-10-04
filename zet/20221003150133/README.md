@@ -9,4 +9,4 @@ nameserver 1.2.3.4
 - ~/kb/linux/assorted-notes-and-tips.md
 
 Tags:
-    #assorted
+    #assorted #linux #assorted

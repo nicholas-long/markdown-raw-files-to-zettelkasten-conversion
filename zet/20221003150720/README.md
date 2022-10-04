@@ -6,4 +6,4 @@
 - ~/kb/hacking/commands/curl.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #curl

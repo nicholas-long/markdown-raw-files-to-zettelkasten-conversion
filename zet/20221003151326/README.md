@@ -8,4 +8,4 @@ tr 'a-z' 'A-Z'
 - ~/kb/bash-scripting/stream-operations.md
 
 Tags:
-    #assorted
+    #assorted #bash-scripting #stream

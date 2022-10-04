@@ -9,4 +9,4 @@ cat managed_password | awk '{ printf("%.2x", $1) }'
 - ~/kb/awk-scripting/convert-decimal-to-hex.md
 
 Tags:
-    #assorted
+    #assorted #awk-scripting #convert

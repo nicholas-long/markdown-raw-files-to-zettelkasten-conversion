@@ -8,4 +8,4 @@ binwalk -Z -P -e IPWatcherSetup.exe
 - ~/kb/hacking/commands/binary-data-analysis.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #binary

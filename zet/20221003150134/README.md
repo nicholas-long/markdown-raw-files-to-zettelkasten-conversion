@@ -5,4 +5,4 @@
 - ~/kb/linux/assorted-notes-and-tips.md
 
 Tags:
-    #assorted
+    #assorted #linux #assorted

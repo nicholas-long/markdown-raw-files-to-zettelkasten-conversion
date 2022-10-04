@@ -8,4 +8,4 @@ any domain user can add a DNS record.
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

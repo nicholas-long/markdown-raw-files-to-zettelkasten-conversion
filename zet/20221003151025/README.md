@@ -5,4 +5,4 @@
 - ~/kb/hacking/methodology/jwt.md
 
 Tags:
-    #assorted
+    #assorted #hacking #jwt

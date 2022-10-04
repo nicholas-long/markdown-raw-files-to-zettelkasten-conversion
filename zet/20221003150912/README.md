@@ -10,4 +10,4 @@ find /data/images -type f -newer /tmp/start -not -newer /tmp/end 2>/dev/null
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #privesc #enumeration

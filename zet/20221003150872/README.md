@@ -8,4 +8,4 @@ sudo python3 -m smtpd -n -c DebuggingServer 0.0.0.0:25
 - ~/kb/hacking/commands/quick-servers.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #quick

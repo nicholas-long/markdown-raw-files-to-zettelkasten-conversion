@@ -8,4 +8,4 @@ gci -recurse . | select fullname
 - ~/kb/hacking/powershell/powershell-enumeration-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #powershell

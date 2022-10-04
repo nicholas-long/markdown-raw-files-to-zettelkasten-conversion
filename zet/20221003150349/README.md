@@ -9,4 +9,4 @@
 - ~/kb/hacking/misc/troubleshoot-error-messages.md
 
 Tags:
-    #assorted
+    #assorted #hacking #troubleshoot

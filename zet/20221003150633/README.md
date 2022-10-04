@@ -8,4 +8,4 @@ smbmap -H $IP -u guest -p ''
 - ~/kb/hacking/commands/smbmap.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #smbmap

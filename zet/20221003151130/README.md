@@ -9,4 +9,4 @@ rpcclient $> setuserinfo2 adminuser 23 'ASDqwe123'
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

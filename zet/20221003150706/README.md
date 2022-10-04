@@ -8,4 +8,4 @@ use an asterisk symbol to mark an injection point in a URL
 - ~/kb/hacking/commands/sqlmap-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #sqlmap

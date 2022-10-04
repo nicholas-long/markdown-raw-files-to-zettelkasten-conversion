@@ -14,4 +14,4 @@ see "mobile apps and API testing"
 - ~/kb/hacking/analysis/apk-analysis.md
 
 Tags:
-    #assorted
+    #assorted #hacking #apk

@@ -9,4 +9,4 @@ Get-ItemProperty -Path "HKLM:\Software\ContosoCompany"
 - ~/kb/hacking/powershell/powershell-tricks.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #powershell

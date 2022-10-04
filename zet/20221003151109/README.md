@@ -7,4 +7,4 @@ reg save HKLM\system system
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #dos

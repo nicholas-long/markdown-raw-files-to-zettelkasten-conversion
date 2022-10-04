@@ -8,4 +8,4 @@ socat TCP-LISTEN:1234,fork stdout
 - ~/kb/networking/port-forwarding.md
 
 Tags:
-    #assorted
+    #assorted #networking #port

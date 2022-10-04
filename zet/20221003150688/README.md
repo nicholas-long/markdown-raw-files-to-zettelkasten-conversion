@@ -8,4 +8,4 @@ wpscan --url $URL -e ap,vt,cb,dbe,u1-10
 - ~/kb/hacking/commands/wpscan-command.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #wpscan

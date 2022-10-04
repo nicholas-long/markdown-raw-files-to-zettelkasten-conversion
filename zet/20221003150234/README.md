@@ -11,4 +11,4 @@ npx asar extract app.asar extracted
 - ~/kb/hacking/analysis/extract-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #extract

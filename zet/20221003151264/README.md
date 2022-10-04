@@ -98,4 +98,4 @@ usage: fzf [options]
 - ~/kb/fzf-fuzzy-find/help.md
 
 Tags:
-    #assorted
+    #assorted #fzf-fuzzy-find #help

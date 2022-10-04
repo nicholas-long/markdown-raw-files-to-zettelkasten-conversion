@@ -9,4 +9,4 @@ locate 2john | sed -e 's/.*\///g' -e 's/\..*//g'
 - ~/kb/hacking/commands/john-the-ripper-crack-with-wordlist.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #john

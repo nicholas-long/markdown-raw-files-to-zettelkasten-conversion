@@ -17,4 +17,4 @@ After editing the file, you can run the following command to make the changes ta
 - ~/kb/linux/routing.md
 
 Tags:
-    #assorted
+    #assorted #linux #routing

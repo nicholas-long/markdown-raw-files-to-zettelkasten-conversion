@@ -9,4 +9,4 @@ var_dump(file_get_contents("/etc/passwd"));
 - ~/kb/hacking/php/PHP-quick-command-reference.md
 
 Tags:
-    #assorted #command
+    #assorted #command #hacking #PHP

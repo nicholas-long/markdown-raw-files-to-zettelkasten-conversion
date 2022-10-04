@@ -8,4 +8,4 @@ powershell.exe -nop -exec bypass -w hidden -enc BASE64STR
 - ~/kb/hacking/windows/windows-reverse-shell.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #windows

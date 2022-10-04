@@ -7,4 +7,4 @@
 - ~/kb/linux/zsh-see-default-bindings.md
 
 Tags:
-    #assorted
+    #assorted #linux #zsh

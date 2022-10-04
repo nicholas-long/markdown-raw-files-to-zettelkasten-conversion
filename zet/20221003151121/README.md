@@ -11,4 +11,4 @@ wmic service get name,displayname,pathname,startmode | findstr /i "auto" | finds
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 
 Tags:
-    #assorted
+    #assorted #hacking #windows #dos

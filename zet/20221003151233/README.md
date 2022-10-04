@@ -13,4 +13,4 @@ additional UDF exploit info: https://book.hacktricks.xyz/network-services-pentes
 - ~/kb/hacking/tricks/mysql-tricks.md
 
 Tags:
-    #assorted
+    #assorted #hacking #trick #mysql
