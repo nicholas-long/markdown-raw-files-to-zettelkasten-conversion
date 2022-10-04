@@ -11,4 +11,4 @@ dll.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 - ~/kb/hacking/windows/dll-to-run-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

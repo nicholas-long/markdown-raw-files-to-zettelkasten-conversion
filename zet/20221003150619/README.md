@@ -9,4 +9,4 @@ pure-pw passwd offsec -f /etc/pure-ftpd/pureftpd.passwd
 - ~/kb/hacking/commands/pureftp-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

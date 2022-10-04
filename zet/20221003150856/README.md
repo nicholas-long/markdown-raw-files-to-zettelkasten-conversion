@@ -8,4 +8,4 @@ ssh-keygen -N '' -f filename
 - ~/kb/hacking/commands/ssh-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

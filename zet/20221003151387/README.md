@@ -18,4 +18,4 @@ done | awk ' BEGIN { FS="-" }
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

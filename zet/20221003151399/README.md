@@ -15,4 +15,4 @@ done | grep '^[A-Za-z0-9]*$'
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

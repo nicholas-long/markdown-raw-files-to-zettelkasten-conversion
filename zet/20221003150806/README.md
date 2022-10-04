@@ -8,4 +8,4 @@ hydra $IP mysql -C /usr/share/seclists/Passwords/Default-Credentials/mysql-bette
 - ~/kb/hacking/commands/hydra-default-credentials.md
 
 Tags:
-    #assorted
+    #assorted #command

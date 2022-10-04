@@ -7,4 +7,4 @@ some are called "tojohn" as well"
 - ~/kb/hacking/commands/john-the-ripper-crack-with-wordlist.md
 
 Tags:
-    #assorted
+    #assorted #command

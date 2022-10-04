@@ -13,4 +13,4 @@ csv.writer(sys.stdout, dialect='excel-tab').writerows(csv.reader(sys.stdin))
 - ~/kb/auto-python.md
 
 Tags:
-    #assorted
+    #assorted #python #script

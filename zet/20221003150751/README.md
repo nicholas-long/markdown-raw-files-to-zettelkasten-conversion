@@ -8,4 +8,4 @@ kerbrute passwordspray --dc $IP -d DOMAIN.local users password123
 - ~/kb/hacking/commands/windows-active-directory-kerberos-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

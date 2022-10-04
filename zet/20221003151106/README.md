@@ -5,4 +5,4 @@
 - ~/kb/hacking/windows/dll-to-run-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

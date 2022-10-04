@@ -8,4 +8,4 @@ feroxbuster --url $URL -x php -B -g
 - ~/kb/hacking/commands/feroxbuster-command.md
 
 Tags:
-    #assorted
+    #assorted #command

@@ -8,4 +8,4 @@ tar -xzvf file.tar.gz
 - ~/kb/hacking/analysis/extract-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

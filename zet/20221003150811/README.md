@@ -5,4 +5,4 @@
 - ~/kb/hacking/commands/wfuzz-fuzzing.md
 
 Tags:
-    #assorted
+    #assorted #command

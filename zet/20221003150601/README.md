@@ -10,4 +10,4 @@ The client specifies the ports.
 - ~/kb/hacking/commands/pivot-tunnel-through-chisel.md
 
 Tags:
-    #assorted
+    #assorted #command

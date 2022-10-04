@@ -13,4 +13,4 @@ grep -A 1 -h -R '^```bash' . | grep -v '^```\|^--'
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

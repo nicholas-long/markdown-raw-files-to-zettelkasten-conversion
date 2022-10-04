@@ -8,4 +8,4 @@ file_put_contents('/dest/file', 'file contents', FILE_APPEND);
 - ~/kb/hacking/php/PHP-quick-command-reference.md
 
 Tags:
-    #assorted
+    #assorted #command

@@ -13,4 +13,4 @@ awk '{print length(), $0}' filters.lst | sort -n | awk '{print $2}'
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

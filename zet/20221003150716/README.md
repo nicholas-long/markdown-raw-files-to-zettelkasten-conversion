@@ -7,4 +7,4 @@
 - ~/kb/hacking/commands/packet-capture.md
 
 Tags:
-    #assorted
+    #assorted #command

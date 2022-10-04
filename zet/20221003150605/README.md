@@ -9,4 +9,4 @@ get "\Users\John\file.txt:SECRET:$DATA"
 - ~/kb/hacking/commands/smbclient-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

@@ -9,4 +9,4 @@ type could be SOCKS4,SOCKS5 or HTTP if omitted.
 - ~/kb/hacking/commands/wfuzz-fuzzing.md
 
 Tags:
-    #assorted
+    #assorted #command

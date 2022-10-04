@@ -9,4 +9,4 @@ ldapdomaindump $IP -u 'DOMAIN.COM\USERNAME' -p 'PASSWORD123'
 - ~/kb/hacking/commands/ldap.md
 
 Tags:
-    #assorted
+    #assorted #command

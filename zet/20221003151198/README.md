@@ -43,4 +43,4 @@
 - ~/kb/hacking/to-try-lists/SMB.md
 
 Tags:
-    #assorted
+    #assorted #to-try-list

@@ -10,4 +10,4 @@ git checkout $COMMIT_HASH -- .
 - ~/kb/hacking/commands/git.md
 
 Tags:
-    #assorted
+    #assorted #command

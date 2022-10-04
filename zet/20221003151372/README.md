@@ -13,4 +13,4 @@ xxd -p -c 9999999999999
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

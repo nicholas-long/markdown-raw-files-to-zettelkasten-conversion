@@ -18,4 +18,4 @@ curl "https://api.github.com/users/$u/repos?visibility=private" | jq -r '.[].htm
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

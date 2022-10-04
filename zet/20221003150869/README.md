@@ -8,4 +8,4 @@ john --wordlist=password.lst --rules mypasswd
 - ~/kb/hacking/commands/john-the-ripper-crack-with-wordlist.md
 
 Tags:
-    #assorted
+    #assorted #command

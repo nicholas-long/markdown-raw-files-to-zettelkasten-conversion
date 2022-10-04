@@ -8,4 +8,4 @@ crowbar -b rdp -n 1 -s $IP/32 -u username@DOMAIN.local -C ./passwords
 - ~/kb/hacking/commands/crowbar.md
 
 Tags:
-    #assorted
+    #assorted #command

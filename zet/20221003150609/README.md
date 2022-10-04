@@ -8,4 +8,4 @@ smbclient -U guest -L //$IP
 - ~/kb/hacking/commands/smbclient-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

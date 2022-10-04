@@ -15,4 +15,4 @@ feroxbuster --url $URL -w ~/kb/wordlists/custom.dirbusting
 - ~/kb/hacking/commands/feroxbuster-command.md
 
 Tags:
-    #assorted
+    #assorted #command

@@ -13,4 +13,4 @@ curl https://en.wikipedia.org/wiki/Block_cipher | html2text | grep '^*'
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

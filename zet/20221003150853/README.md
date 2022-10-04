@@ -8,4 +8,4 @@ dig axfr @$IP zonetransfer.me
 - ~/kb/hacking/commands/dns-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

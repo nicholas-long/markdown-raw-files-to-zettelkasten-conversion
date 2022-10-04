@@ -13,4 +13,4 @@ cat $HOME/.git-credentials | awk -F '[/@]' '/github/ {print $3}' | sed s/%40/@/g
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

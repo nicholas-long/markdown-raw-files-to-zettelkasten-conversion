@@ -14,4 +14,4 @@ cd ~/kb && /home/coyote/.cargo/bin/alacritty -e tmux
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

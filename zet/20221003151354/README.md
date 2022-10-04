@@ -70,4 +70,4 @@ print(ntlm)
 - ~/kb/auto-python.md
 
 Tags:
-    #assorted
+    #assorted #python #script

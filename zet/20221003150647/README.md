@@ -14,4 +14,4 @@
 - ~/kb/hacking/commands/nmap-command.md
 
 Tags:
-    #assorted
+    #assorted #command

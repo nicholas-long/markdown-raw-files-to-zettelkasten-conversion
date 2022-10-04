@@ -10,4 +10,4 @@ oathtool -b --totp ABCDEFGHABCDEFGH
 - ~/kb/hacking/commands/two-factor.md
 
 Tags:
-    #assorted
+    #assorted #command

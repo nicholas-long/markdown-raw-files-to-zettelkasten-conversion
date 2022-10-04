@@ -17,4 +17,4 @@ find ~/.local/share/tldr/tldr/pages -type f -name '*.md' | \
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

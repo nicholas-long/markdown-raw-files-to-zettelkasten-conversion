@@ -28,4 +28,4 @@ zcat <( curl https://cve.mitre.org/data/downloads/allitems.csv.gz ) | \
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

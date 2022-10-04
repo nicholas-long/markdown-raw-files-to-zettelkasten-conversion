@@ -8,4 +8,4 @@ openssl enc -aes-256-cbc -e -in $FILE -out outputfile -k password
 - ~/kb/hacking/commands/openssl-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

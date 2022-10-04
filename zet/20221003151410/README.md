@@ -12,4 +12,4 @@ cat $1 | go run github.com/ericchiang/xpup@latest //request | base64 -d
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

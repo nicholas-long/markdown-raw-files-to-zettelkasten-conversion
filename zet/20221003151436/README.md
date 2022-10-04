@@ -25,4 +25,4 @@ function expand_rec(str, pos) {
 - ~/kb/auto-awk.md
 
 Tags:
-    #assorted
+    #assorted #awk #script

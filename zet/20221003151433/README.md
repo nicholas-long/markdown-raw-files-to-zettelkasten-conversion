@@ -22,4 +22,4 @@ ARGIND == 2 {
 - ~/kb/auto-awk.md
 
 Tags:
-    #assorted
+    #assorted #awk #script

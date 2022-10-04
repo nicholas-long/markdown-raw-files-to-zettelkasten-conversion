@@ -9,4 +9,4 @@ var_dump(scandir("/etc/passwd"));
 - ~/kb/hacking/php/PHP-quick-command-reference.md
 
 Tags:
-    #assorted
+    #assorted #command

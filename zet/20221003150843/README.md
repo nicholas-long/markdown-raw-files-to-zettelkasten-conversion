@@ -8,4 +8,4 @@ gobuster dir -e -u $URL -w /usr/share/wordlists/dirbuster/directory-list-2.3-med
 - ~/kb/hacking/commands/gobuster.md
 
 Tags:
-    #assorted
+    #assorted #command

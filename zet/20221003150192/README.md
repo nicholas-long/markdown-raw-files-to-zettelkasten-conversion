@@ -14,4 +14,4 @@ alien --to-deb file.rpm
 - ~/kb/linux/package-manager-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

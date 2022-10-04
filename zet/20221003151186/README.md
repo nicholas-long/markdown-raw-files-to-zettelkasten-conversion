@@ -20,4 +20,4 @@
 - ~/kb/hacking/to-try-lists/HTTP.md
 
 Tags:
-    #assorted
+    #assorted #to-try-list

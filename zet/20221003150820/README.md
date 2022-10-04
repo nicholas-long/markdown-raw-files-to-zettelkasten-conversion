@@ -8,4 +8,4 @@ hydra -L users -P /usr/share/seclists/Passwords/Leaked-Databases/rockyou-50.txt 
 - ~/kb/hacking/commands/hydra-ftp-command.md
 
 Tags:
-    #assorted
+    #assorted #command

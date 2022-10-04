@@ -8,4 +8,4 @@ wpscan --url $URL -e ap --plugins-detection aggressive
 - ~/kb/hacking/commands/wpscan-command.md
 
 Tags:
-    #assorted
+    #assorted #command

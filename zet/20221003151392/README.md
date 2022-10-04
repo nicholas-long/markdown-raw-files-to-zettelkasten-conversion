@@ -18,4 +18,4 @@ sudo docker run --rm -it -v "$(pwd):$(pwd)" -w "$(pwd)" ubuntubuildenv
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

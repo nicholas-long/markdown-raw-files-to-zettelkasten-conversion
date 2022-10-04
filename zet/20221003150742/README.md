@@ -8,4 +8,4 @@ hydra $IP -V -L /usr/share/wordlists/user.txt -P /usr/share/wordlists/rockyou.tx
 - ~/kb/hacking/commands/hydra.md
 
 Tags:
-    #assorted
+    #assorted #command

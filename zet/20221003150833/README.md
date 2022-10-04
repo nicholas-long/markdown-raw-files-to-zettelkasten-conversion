@@ -5,4 +5,4 @@
 - ~/kb/hacking/commands/responder.md
 
 Tags:
-    #assorted
+    #assorted #command

@@ -26,4 +26,4 @@ cat $TF | gzip -d 2>/dev/null
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

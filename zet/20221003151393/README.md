@@ -31,4 +31,4 @@ tail -f /var/log/auth.log | \
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

@@ -8,4 +8,4 @@ xz -d file.xz
 - ~/kb/hacking/analysis/extract-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

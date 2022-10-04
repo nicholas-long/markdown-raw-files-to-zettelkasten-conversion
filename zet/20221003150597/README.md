@@ -8,4 +8,4 @@ impacket-GetUserSPNs -dc-ip $IP -request LAB.ENTERPRISE.THM/username
 - ~/kb/hacking/commands/impacket-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

@@ -16,4 +16,4 @@ find . -type f -name '*.gif'
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

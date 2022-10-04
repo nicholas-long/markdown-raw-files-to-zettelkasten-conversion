@@ -6,4 +6,4 @@ auxiliary/scanner/http/tomcat_mgr_login
 - ~/kb/hacking/commands/hydra-default-credentials.md
 
 Tags:
-    #assorted
+    #assorted #command

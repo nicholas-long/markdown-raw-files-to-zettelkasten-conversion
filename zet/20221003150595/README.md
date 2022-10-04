@@ -8,4 +8,4 @@ impacket-secretsdump -security SECURITY -system SYSTEM -ntds ntds.dit LOCAL
 - ~/kb/hacking/commands/impacket-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

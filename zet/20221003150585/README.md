@@ -10,4 +10,4 @@ EOD;
 - ~/kb/hacking/php/PHP-quick-command-reference.md
 
 Tags:
-    #assorted
+    #assorted #command

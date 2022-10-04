@@ -38,4 +38,4 @@ POP_RDI = 0x00000000004011d3 # for ropchains, find addresses of pop RDI, RSI, r9
 - ~/kb/auto-python.md
 
 Tags:
-    #assorted
+    #assorted #python #script

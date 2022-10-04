@@ -9,4 +9,4 @@ tar -xvf data.tar.xz
 - ~/kb/hacking/analysis/extract-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

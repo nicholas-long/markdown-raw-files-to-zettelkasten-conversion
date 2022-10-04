@@ -16,4 +16,4 @@ find . -type f -ls 2>/dev/null |\
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

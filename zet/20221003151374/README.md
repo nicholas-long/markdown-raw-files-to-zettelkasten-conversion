@@ -15,4 +15,4 @@ source ~/kb/docker/build-github-repo-docker-image.sh
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

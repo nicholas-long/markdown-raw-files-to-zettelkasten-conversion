@@ -14,4 +14,4 @@ echo bye >> ftp.txt
 - ~/kb/hacking/commands/pureftp-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

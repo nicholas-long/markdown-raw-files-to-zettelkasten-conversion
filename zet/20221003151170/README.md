@@ -6,4 +6,4 @@
 - ~/kb/hacking/to-try-lists/active-directory-domain.md
 
 Tags:
-    #assorted
+    #assorted #to-try-list

@@ -18,4 +18,4 @@ sudo apt-get install sublime-text
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

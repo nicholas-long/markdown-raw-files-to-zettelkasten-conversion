@@ -10,4 +10,4 @@ crackmapexec smb fqdn.domain.local -u User --kerberos
 - ~/kb/hacking/commands/windows-active-directory-kerberos-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

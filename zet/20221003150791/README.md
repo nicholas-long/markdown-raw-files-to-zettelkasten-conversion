@@ -8,4 +8,4 @@
 - ~/kb/hacking/commands/openssl-general.md
 
 Tags:
-    #assorted
+    #assorted #command

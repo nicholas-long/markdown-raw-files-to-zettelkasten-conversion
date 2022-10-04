@@ -7,4 +7,4 @@
 - ~/kb/hacking/commands/openssl-view-information-about-cert.md
 
 Tags:
-    #assorted
+    #assorted #command

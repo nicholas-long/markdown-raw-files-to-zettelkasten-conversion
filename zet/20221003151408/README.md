@@ -82,4 +82,4 @@ rm $http_request
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

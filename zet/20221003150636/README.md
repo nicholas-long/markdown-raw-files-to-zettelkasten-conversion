@@ -8,4 +8,4 @@ nmap -A -v -p 1234 $IP
 - ~/kb/hacking/commands/nmap-command.md
 
 Tags:
-    #assorted
+    #assorted #command

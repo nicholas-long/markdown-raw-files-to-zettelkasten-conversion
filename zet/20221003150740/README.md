@@ -9,4 +9,4 @@ hydra -L /usr/share/seclists/Usernames/top-usernames-shortlist.txt -P /usr/share
 - ~/kb/hacking/commands/hydra.md
 
 Tags:
-    #assorted
+    #assorted #command

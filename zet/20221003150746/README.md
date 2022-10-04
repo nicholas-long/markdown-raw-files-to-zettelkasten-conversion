@@ -9,4 +9,4 @@ impacket-wmiexec -k -no-pass domain.local/Administrator@fqdn.domain.local
 - ~/kb/hacking/commands/windows-active-directory-kerberos-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

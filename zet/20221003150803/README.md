@@ -7,4 +7,4 @@ header `Authorization: Basic FUZZ`
 - ~/kb/hacking/commands/hydra-default-credentials.md
 
 Tags:
-    #assorted
+    #assorted #command

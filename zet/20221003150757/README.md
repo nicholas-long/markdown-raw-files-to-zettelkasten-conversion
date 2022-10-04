@@ -6,4 +6,4 @@
 - ~/kb/hacking/commands/msfvenom-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

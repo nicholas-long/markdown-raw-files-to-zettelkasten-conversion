@@ -8,4 +8,4 @@ atftpd --daemon --port 69 /var/tftp
 - ~/kb/hacking/commands/tftp-reference.md
 
 Tags:
-    #assorted
+    #assorted #command

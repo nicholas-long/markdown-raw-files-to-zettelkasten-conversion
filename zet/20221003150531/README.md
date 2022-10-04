@@ -9,4 +9,4 @@ ropper --search "pop r13"
 - ~/kb/hacking/pwn/gef-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

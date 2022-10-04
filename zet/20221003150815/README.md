@@ -5,4 +5,4 @@
 - ~/kb/hacking/commands/metasploit.md
 
 Tags:
-    #assorted
+    #assorted #command

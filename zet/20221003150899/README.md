@@ -9,4 +9,4 @@ cat /proc/$pid/status | grep CapEff
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

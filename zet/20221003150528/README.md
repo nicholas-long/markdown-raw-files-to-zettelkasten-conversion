@@ -8,4 +8,4 @@ set follow-fork-mode child
 - ~/kb/hacking/pwn/gdb-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

@@ -18,4 +18,4 @@ hydra -L /usr/share/metasploit-framework/data/wordlists/tomcat_mgr_default_users
 - ~/kb/hacking/commands/hydra-default-credentials.md
 
 Tags:
-    #assorted
+    #assorted #command

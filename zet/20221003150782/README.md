@@ -6,4 +6,4 @@ docker available
 - ~/kb/hacking/commands/enum4linux-command.md
 
 Tags:
-    #assorted
+    #assorted #command

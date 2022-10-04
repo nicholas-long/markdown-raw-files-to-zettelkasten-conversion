@@ -6,4 +6,4 @@ Set the --insecuressl flag.
 - ~/kb/hacking/commands/gobuster.md
 
 Tags:
-    #assorted
+    #assorted #command

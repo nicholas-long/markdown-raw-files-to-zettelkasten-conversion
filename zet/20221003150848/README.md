@@ -8,4 +8,4 @@ hydra $IP http-get -L users  -P /usr/share/seclists/Passwords/Leaked-Databases/r
 - ~/kb/hacking/commands/hydra-http-auth.md
 
 Tags:
-    #assorted
+    #assorted #command

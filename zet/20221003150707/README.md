@@ -7,4 +7,4 @@
 - ~/kb/hacking/commands/sqlmap-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

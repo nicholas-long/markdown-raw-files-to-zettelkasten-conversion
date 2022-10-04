@@ -8,4 +8,4 @@ kerbrute userenum --dc $IP -d DOMAIN.local $FILE
 - ~/kb/hacking/commands/windows-active-directory-kerberos-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

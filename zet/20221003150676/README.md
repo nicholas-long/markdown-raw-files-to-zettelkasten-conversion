@@ -21,4 +21,4 @@ bloodhound-python -c All -u user -p password -dc 'FQDNMachineName.domain.local' 
 - ~/kb/hacking/commands/bloodhound.md
 
 Tags:
-    #assorted
+    #assorted #command

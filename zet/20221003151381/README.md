@@ -12,4 +12,4 @@ cat /dev/urandom | head -c 6 | xxd -p
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

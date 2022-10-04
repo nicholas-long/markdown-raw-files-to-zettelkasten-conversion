@@ -8,4 +8,4 @@ smbclient -N //$IP/share
 - ~/kb/hacking/commands/smbclient-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

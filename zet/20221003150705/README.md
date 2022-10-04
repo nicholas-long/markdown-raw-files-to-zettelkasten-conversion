@@ -7,4 +7,4 @@ close out SQL syntax correctly and include injection marker
 - ~/kb/hacking/commands/sqlmap-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

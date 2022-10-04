@@ -22,4 +22,4 @@ docker run --rm $imagename --help
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

@@ -8,4 +8,4 @@ ordinary bloodhound collection methods query all machines.
 - ~/kb/hacking/commands/bloodhound.md
 
 Tags:
-    #assorted
+    #assorted #command

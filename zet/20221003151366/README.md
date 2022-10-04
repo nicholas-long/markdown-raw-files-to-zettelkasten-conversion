@@ -19,4 +19,4 @@ sudo apt install code # or code-insiders
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

@@ -5,4 +5,4 @@
 - ~/kb/hacking/commands/keytool.md
 
 Tags:
-    #assorted
+    #assorted #command

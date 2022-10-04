@@ -8,4 +8,4 @@ hydra -l admin -V -P /usr/share/wordlists/rockyou.txt -s 80 -f $IP http-get /php
 - ~/kb/hacking/commands/hydra.md
 
 Tags:
-    #assorted
+    #assorted #command

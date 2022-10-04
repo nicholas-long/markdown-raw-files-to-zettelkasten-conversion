@@ -9,4 +9,4 @@ ll $(mount | awk '$3 == "/" {print $1}')
 - ~/kb/linux/os-pseudo-filesystem-data-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

@@ -13,4 +13,4 @@ cat composer.lock | jq -r '.packages[] | .name,.version' | paste - -
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

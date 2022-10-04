@@ -6,4 +6,4 @@
 - ~/kb/hacking/powershell/powershell-enumeration-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

@@ -8,4 +8,4 @@ showmount -e $IP
 - ~/kb/hacking/commands/nfs.md
 
 Tags:
-    #assorted
+    #assorted #command

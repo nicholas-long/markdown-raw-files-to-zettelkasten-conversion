@@ -11,4 +11,4 @@
 - ~/kb/hacking/commands/wfuzz-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

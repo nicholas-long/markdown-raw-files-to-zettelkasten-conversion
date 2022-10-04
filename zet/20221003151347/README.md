@@ -8,4 +8,4 @@
 - ~/kb/awk-scripting/bash-awk-quick-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

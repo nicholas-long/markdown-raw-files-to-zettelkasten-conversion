@@ -41,4 +41,4 @@ Global Flags:
 - ~/kb/hacking/commands/gobuster.md
 
 Tags:
-    #assorted
+    #assorted #command

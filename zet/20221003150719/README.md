@@ -11,4 +11,4 @@ done
 - ~/kb/hacking/commands/curl.md
 
 Tags:
-    #assorted
+    #assorted #command

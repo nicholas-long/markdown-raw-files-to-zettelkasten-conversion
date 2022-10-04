@@ -9,4 +9,4 @@ apktool d file.apk
 - ~/kb/hacking/analysis/extract-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

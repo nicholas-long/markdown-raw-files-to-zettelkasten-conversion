@@ -6,4 +6,4 @@
 - ~/kb/hacking/commands/encode-powershell-base64-windows.md
 
 Tags:
-    #assorted
+    #assorted #command

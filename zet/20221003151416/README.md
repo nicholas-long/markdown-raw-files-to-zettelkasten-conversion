@@ -23,4 +23,4 @@ $1 == "unknown" { next }
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

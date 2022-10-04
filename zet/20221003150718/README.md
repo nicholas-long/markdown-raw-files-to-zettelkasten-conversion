@@ -9,4 +9,4 @@ curl -F myFile=@file.jpg http://$IP/upload.php
 - ~/kb/hacking/commands/curl.md
 
 Tags:
-    #assorted
+    #assorted #command

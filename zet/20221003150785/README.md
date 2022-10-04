@@ -8,4 +8,4 @@ enum4linux -A $IP
 - ~/kb/hacking/commands/enum4linux-command.md
 
 Tags:
-    #assorted
+    #assorted #command

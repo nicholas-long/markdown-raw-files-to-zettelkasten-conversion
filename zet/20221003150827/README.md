@@ -9,4 +9,4 @@
 - ~/kb/hacking/commands/database-enum-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

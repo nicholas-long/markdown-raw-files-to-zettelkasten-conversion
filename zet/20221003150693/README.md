@@ -11,4 +11,4 @@
 - ~/kb/hacking/commands/wpscan-command.md
 
 Tags:
-    #assorted
+    #assorted #command

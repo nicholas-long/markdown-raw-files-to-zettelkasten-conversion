@@ -6,4 +6,4 @@
 - ~/kb/hacking/commands/two-factor.md
 
 Tags:
-    #assorted
+    #assorted #command

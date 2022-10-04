@@ -9,4 +9,4 @@ wpscan --url $URL -U users -P /usr/share/wordlists/rockyou.txt
 - ~/kb/hacking/commands/wpscan-command.md
 
 Tags:
-    #assorted
+    #assorted #command

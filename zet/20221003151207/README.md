@@ -88,4 +88,4 @@
 - ~/kb/hacking/to-try-lists/privesc/windows.md
 
 Tags:
-    #assorted
+    #assorted #to-try-list

@@ -8,4 +8,4 @@ gobuster dir -e -u $URL -w /usr/share/wordlists/dirb/big.txt -t 20
 - ~/kb/hacking/commands/gobuster.md
 
 Tags:
-    #assorted
+    #assorted #command

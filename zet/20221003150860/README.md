@@ -6,4 +6,4 @@
 - ~/kb/hacking/commands/ssh-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

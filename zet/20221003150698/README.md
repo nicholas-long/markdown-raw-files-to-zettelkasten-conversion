@@ -7,4 +7,4 @@
 - ~/kb/hacking/commands/snmp-enumeration-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

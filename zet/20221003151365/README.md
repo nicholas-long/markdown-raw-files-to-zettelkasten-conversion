@@ -14,4 +14,4 @@ python3 -c 'from urllib.parse import quote;print(quote(input()))'
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

@@ -9,4 +9,4 @@ wfuzz -c -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-big.txt
 - ~/kb/hacking/commands/wfuzz-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

@@ -5,4 +5,4 @@
 - ~/kb/hacking/commands/web-enumeration-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

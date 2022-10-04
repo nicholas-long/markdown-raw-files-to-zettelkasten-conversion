@@ -14,4 +14,4 @@ find "$1" -name .git -type d | awk 'BEGIN {FS = OFS = "/" } { NF--;print }'
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

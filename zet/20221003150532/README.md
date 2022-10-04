@@ -6,4 +6,4 @@
 - ~/kb/hacking/pwn/gef-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

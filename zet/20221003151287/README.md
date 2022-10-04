@@ -9,4 +9,4 @@ cat users.json | jq '.data[].Properties | select ( .enabled == true ) | .name'
 - ~/kb/data-engineering-pipelines/jq-command-reference.md
 
 Tags:
-    #assorted
+    #assorted #command

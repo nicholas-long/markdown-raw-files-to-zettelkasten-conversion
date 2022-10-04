@@ -6,4 +6,4 @@
 - ~/kb/hacking/commands/binary-data-analysis.md
 
 Tags:
-    #assorted
+    #assorted #command

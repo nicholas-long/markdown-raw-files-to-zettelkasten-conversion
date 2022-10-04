@@ -18,4 +18,4 @@ cat $1 | hashing
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

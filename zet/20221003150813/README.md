@@ -6,4 +6,4 @@ after migration, local exploit suggester might not work properly. suggest starti
 - ~/kb/hacking/commands/metasploit.md
 
 Tags:
-    #assorted
+    #assorted #command

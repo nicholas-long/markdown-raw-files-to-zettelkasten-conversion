@@ -16,4 +16,4 @@ $3 ~ /^\*\* REJECT/ { next }
 - ~/kb/auto-awk.md
 
 Tags:
-    #assorted
+    #assorted #awk #script

@@ -9,4 +9,4 @@ crackmapexec smb $IP -u users -p passwords
 - ~/kb/hacking/commands/crackmapexec-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

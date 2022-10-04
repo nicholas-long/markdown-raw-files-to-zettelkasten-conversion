@@ -19,4 +19,4 @@ curl http://archive.ubuntu.com/ubuntu/dists/ 2>/dev/null | \
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script

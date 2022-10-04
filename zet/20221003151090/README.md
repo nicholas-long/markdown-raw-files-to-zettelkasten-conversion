@@ -7,4 +7,4 @@ add `-CheckAccess` to check user permissions
 - ~/kb/hacking/windows/powerview-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

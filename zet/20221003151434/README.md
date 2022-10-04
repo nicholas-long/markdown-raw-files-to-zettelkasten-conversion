@@ -14,4 +14,4 @@ NR == 1 {
 - ~/kb/auto-awk.md
 
 Tags:
-    #assorted
+    #assorted #awk #script

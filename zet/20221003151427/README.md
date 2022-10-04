@@ -19,4 +19,4 @@ printing == 1 && $0 !~ /^```/ {print}
 - ~/kb/auto-awk.md
 
 Tags:
-    #assorted
+    #assorted #awk #script

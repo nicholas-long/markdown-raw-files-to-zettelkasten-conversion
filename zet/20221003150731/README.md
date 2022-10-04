@@ -18,4 +18,4 @@ Dynamic collection settings:
 - ~/kb/hacking/commands/feroxbuster-command.md
 
 Tags:
-    #assorted
+    #assorted #command

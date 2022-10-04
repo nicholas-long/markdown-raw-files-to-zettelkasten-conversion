@@ -11,4 +11,4 @@ migrate 1234
 - ~/kb/hacking/commands/metasploit.md
 
 Tags:
-    #assorted
+    #assorted #command

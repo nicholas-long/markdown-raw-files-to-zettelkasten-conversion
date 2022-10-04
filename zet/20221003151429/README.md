@@ -25,4 +25,4 @@ function toggle_rec(str, arr, pos) {
 - ~/kb/auto-awk.md
 
 Tags:
-    #assorted
+    #assorted #awk #script

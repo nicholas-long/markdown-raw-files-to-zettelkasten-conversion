@@ -10,4 +10,4 @@ dd if=file.elf skip=22222 of=out.zip bs=1
 - ~/kb/hacking/commands/binary-data-analysis.md
 
 Tags:
-    #assorted
+    #assorted #command

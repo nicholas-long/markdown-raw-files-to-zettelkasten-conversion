@@ -8,4 +8,4 @@ openssl genrsa -out client.key 4096
 - ~/kb/hacking/commands/openssl-general.md
 
 Tags:
-    #assorted
+    #assorted #command

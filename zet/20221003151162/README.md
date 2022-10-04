@@ -8,4 +8,4 @@ nmap -sU --top-ports 100 -v -oG top.100.udp $IP
 - ~/kb/hacking/to-try-lists/nmap-UDP-scan-individual-port-scans.md
 
 Tags:
-    #assorted
+    #assorted #to-try-list

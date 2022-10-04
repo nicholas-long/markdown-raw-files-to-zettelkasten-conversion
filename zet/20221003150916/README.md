@@ -8,4 +8,4 @@ find / -perm -4000 -ls 2>/dev/null
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

@@ -8,4 +8,4 @@ cat /proc/cpuinfo | grep processor | wc -l
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md
 
 Tags:
-    #assorted
+    #assorted #command

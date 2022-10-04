@@ -12,4 +12,4 @@ sudo docker run --rm -it -v "$(pwd):$(pwd)" -w "$(pwd)" $1
 - ~/kb/auto-bash.md
 
 Tags:
-    #assorted
+    #assorted #bash #script
