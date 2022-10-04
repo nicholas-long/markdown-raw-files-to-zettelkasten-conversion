@@ -1,0 +1,46 @@
+#!/bin/bash
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+
+# parse args with case statement
+VERBOSE=0
+PAGING="no"
+while [[ $# -gt 0 ]]; do
+  case $1 in
+    -p|--paging)
+      PAGING=1
+      ;;
+    -t|--title)
+      shift # pop arg
+      title="$1"
+      ;;
+    -v|--verbose)
+      VERBOSE=1
+      ;;
+    -h|--help)
+      echo "Usage: $0 [ options ] directory"
+      echo "Options:"
+      cat "$0" | grep '^\s\+-.|--.*'
+      exit 1
+      ;;
+    *)
+      action="$1"
+      ;;
+  esac
+  shift
+done
+
+echo "$action $title"
+case $action in
+  new)
+    echo "making new"
+    id=$(date -u +%Y%m%d%H%M%S)
+    mkdir -p zet/$id
+    filepath="zet/$id/README.md"
+    cp zettel-template "$filepath"
+    if [ ! -z "$title" ]; then
+      sed -i "s|{{title}}|$title|" "$filepath"
+    fi
+    nvim "$filepath"
+    ;;
+esac
+
