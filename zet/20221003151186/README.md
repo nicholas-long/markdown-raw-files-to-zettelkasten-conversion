@@ -22,4 +22,4 @@
 
 Tags:
 
-    #assorted #to-try-list #hacking #HTTP
+    #assorted #to-try-list #hacking #http

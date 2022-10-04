@@ -11,4 +11,4 @@ var_dump(scandir("/etc/passwd"));
 
 Tags:
 
-    #assorted #command #hacking #PHP
+    #assorted #command #hacking #php

@@ -45,4 +45,4 @@
 
 Tags:
 
-    #assorted #to-try-list #hacking #SMB
+    #assorted #to-try-list #hacking #smb

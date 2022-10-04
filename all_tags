@@ -1,13 +1,7 @@
-#AD
-#API
-#HTTP
-#LFI
-#PHP
-#SMB
-#SSH
-#XXE
 #active
+#ad
 #ansible
+#api
 #apk
 #assorted
 #awk
@@ -79,6 +73,7 @@
 #help
 #hibernate
 #html.templates
+#http
 #hydra
 #identify
 #impacket
@@ -183,5 +178,6 @@
 #xml
 #xp
 #xterm
+#xxe
 #yaml
 #zsh

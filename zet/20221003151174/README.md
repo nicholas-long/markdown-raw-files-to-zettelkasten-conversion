@@ -20,4 +20,4 @@
 
 Tags:
 
-    #assorted #to-try-list #hacking #SSH
+    #assorted #to-try-list #hacking #ssh

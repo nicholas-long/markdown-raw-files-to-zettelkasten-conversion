@@ -16,4 +16,4 @@ PayloadsAllTheThings
 
 Tags:
 
-    #assorted #hacking #XXE
+    #assorted #hacking #xxe

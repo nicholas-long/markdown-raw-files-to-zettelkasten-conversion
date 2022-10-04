@@ -10,4 +10,4 @@ occasionally verbose error messages will leak info by suggesting mistakes in que
 
 Tags:
 
-    #assorted #hacking #API
+    #assorted #hacking #api

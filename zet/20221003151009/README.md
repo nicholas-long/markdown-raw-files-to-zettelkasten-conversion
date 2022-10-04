@@ -8,4 +8,4 @@ curl parameter `--path-as-is` to preserve any `../`
 
 Tags:
 
-    #assorted #hacking #LFI
+    #assorted #hacking #lfi

@@ -38,4 +38,4 @@ Get-DomainComputer $targetComputer -Properties 'msds-allowedtoactonbehalfofother
 
 Tags:
 
-    #assorted #hacking #windows #AD
+    #assorted #hacking #windows #ad

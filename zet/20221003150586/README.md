@@ -10,4 +10,4 @@ file_put_contents('/dest/file', 'file contents', FILE_APPEND);
 
 Tags:
 
-    #assorted #command #hacking #PHP
+    #assorted #command #hacking #php
