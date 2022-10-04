@@ -11,4 +11,4 @@ crackmapexec smb $IP -u username -p password123 -M spider_plus
 
 Tags:
 
-    #assorted #command #hacking #crackmapexec
+    #command #hacking #crackmapexec 

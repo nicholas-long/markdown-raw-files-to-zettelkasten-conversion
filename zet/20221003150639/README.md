@@ -10,4 +10,4 @@ nmap --script http-brute -p 80 $IP
 
 Tags:
 
-    #assorted #command #hacking #nmap
+    #command #hacking #nmap 

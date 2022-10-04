@@ -12,4 +12,4 @@ value = struct.unpack('d', these_bytes)
 
 Tags:
 
-    #assorted #hacking #trick #pwn #python
+    #hacking #trick #pwn #python 

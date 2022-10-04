@@ -11,4 +11,4 @@ wpscan --url $URL -U users -P /usr/share/wordlists/rockyou.txt
 
 Tags:
 
-    #assorted #command #hacking #wpscan
+    #command #hacking #wpscan 

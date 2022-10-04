@@ -7,4 +7,4 @@
 
 Tags:
 
-    #assorted #hacking #privesc #sudoers
+    #hacking #privesc #sudoers 

@@ -14,4 +14,4 @@ crackmapexec smb --help
 
 Tags:
 
-    #assorted #command #hacking #crackmapexec
+    #command #hacking #crackmapexec 

@@ -15,4 +15,4 @@ curl https://en.wikipedia.org/wiki/Block_cipher | html2text | grep '^*'
 
 Tags:
 
-    #assorted #bash #script
+    #bash #script 

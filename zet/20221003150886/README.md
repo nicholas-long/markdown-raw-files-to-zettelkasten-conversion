@@ -23,4 +23,4 @@ ENTRYPOINT [ "bash" ]
 
 Tags:
 
-    #assorted #hacking #privesc #run
+    #hacking #privesc #run 

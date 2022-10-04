@@ -10,4 +10,4 @@ select * from wp_options where option_name = 'active_plugins'
 
 Tags:
 
-    #assorted #hacking #database
+    #hacking #database 

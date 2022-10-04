@@ -10,4 +10,4 @@ sudo nmap -p- -v -sT -sC -sV --min-rate 10000 -oA nmap.all $IP
 
 Tags:
 
-    #assorted #command #hacking #nmap
+    #command #hacking #nmap 

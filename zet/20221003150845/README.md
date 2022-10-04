@@ -16,4 +16,4 @@ gobuster dir -e -t 50 -x php,txt,html -d -u $URL -w cewl_wordlist
 
 Tags:
 
-    #assorted #command #hacking #gobuster
+    #command #hacking #gobuster 

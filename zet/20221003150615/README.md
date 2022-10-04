@@ -11,4 +11,4 @@ ftp -v -n -s:ftp.txt
 
 Tags:
 
-    #assorted #command #hacking #pureftp
+    #command #hacking #pureftp 

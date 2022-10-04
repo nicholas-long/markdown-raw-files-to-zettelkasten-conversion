@@ -12,4 +12,4 @@ echo ${name:2:2}
 
 Tags:
 
-    #assorted #bash-scripting #substitution
+    #bash-scripting #substitution 

@@ -8,4 +8,4 @@ bytes.fromhex(str)
 
 Tags:
 
-    #assorted #hacking #python
+    #hacking #python 

@@ -10,4 +10,4 @@ john --wordlist=/usr/share/wordlists/rockyou.txt mypasswd
 
 Tags:
 
-    #assorted #command #hacking #john
+    #command #hacking #john 

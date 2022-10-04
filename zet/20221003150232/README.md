@@ -11,4 +11,4 @@ apk files directory is `./app`
 
 Tags:
 
-    #assorted #command #hacking #extract
+    #command #hacking #extract 

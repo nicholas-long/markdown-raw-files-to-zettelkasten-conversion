@@ -12,4 +12,4 @@ ps -efw --forest -M                  # SELinux
 
 Tags:
 
-    #assorted #command #hacking #privesc #enumeration
+    #command #hacking #privesc #enumeration 

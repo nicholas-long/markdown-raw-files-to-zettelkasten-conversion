@@ -11,4 +11,4 @@ ls | awk '{ split($0,arr,"-"); system("mv " $0 " " arr[1] ".md") }'
 
 Tags:
 
-    #assorted #command #awk-scripting #bash
+    #command #awk-scripting #bash 

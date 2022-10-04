@@ -10,4 +10,4 @@ enum4linux $IP | grep -Ev '^(Use of)' > enum4linux.out
 
 Tags:
 
-    #assorted #command #hacking #enum4linux
+    #command #hacking #enum4linux 

@@ -20,4 +20,4 @@ hydra -L /usr/share/metasploit-framework/data/wordlists/tomcat_mgr_default_users
 
 Tags:
 
-    #assorted #command #hacking #hydra
+    #command #hacking #hydra 

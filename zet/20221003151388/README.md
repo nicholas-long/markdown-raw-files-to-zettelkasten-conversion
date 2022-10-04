@@ -19,4 +19,4 @@ find ~/.local/share/tldr/tldr/pages -type f -name '*.md' | \
 
 Tags:
 
-    #assorted #bash #script
+    #bash #script 

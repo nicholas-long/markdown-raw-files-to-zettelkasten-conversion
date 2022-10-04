@@ -14,4 +14,4 @@ if powershell gallery is not available on CTF boxes
 
 Tags:
 
-    #assorted #command #hacking #powershell
+    #command #hacking #powershell 

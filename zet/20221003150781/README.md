@@ -12,4 +12,4 @@ python3 enum4linux-ng.py -u guest $IP
 
 Tags:
 
-    #assorted #command #hacking #enum4linux
+    #command #hacking #enum4linux 

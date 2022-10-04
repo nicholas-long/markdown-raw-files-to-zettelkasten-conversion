@@ -10,4 +10,4 @@ nmap --script "nfs-*" $IP
 
 Tags:
 
-    #assorted #command #hacking #nmap
+    #command #hacking #nmap 

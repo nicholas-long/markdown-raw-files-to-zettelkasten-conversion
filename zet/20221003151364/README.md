@@ -15,4 +15,4 @@ grep -A 1 -h -R '^```bash' . | grep -v '^```\|^--'
 
 Tags:
 
-    #assorted #bash #script
+    #bash #script 

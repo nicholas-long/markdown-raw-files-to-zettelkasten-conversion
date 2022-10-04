@@ -10,4 +10,4 @@ cat trades-june1.csv| awk -F, 'length($4) { print > $4 ".csv" }'
 
 Tags:
 
-    #assorted #command #awk-scripting #bash
+    #command #awk-scripting #bash 

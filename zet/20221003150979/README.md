@@ -9,4 +9,4 @@ hashes can either be in `Password` or `authentication_string` columns
 
 Tags:
 
-    #assorted #hacking #sqli
+    #hacking #sqli 

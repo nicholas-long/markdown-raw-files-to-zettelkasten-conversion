@@ -14,4 +14,4 @@ https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/resou
 
 Tags:
 
-    #assorted #hacking #windows #ad
+    #hacking #windows #ad 

@@ -16,4 +16,4 @@ find "$1" -name .git -type d | awk 'BEGIN {FS = OFS = "/" } { NF--;print }'
 
 Tags:
 
-    #assorted #bash #script
+    #bash #script 

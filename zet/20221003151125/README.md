@@ -13,4 +13,4 @@ impacket-getST -spn SERVICE/HOSTNAME_YOU_HAVE_DELEGATION_RIGHTS_TO.FQDN -imperso
 
 Tags:
 
-    #assorted #hacking #windows #windows
+    #hacking #windows #windows 

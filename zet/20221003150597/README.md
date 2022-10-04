@@ -10,4 +10,4 @@ impacket-GetUserSPNs -dc-ip $IP -request LAB.ENTERPRISE.THM/username
 
 Tags:
 
-    #assorted #command #hacking #impacket
+    #command #hacking #impacket 

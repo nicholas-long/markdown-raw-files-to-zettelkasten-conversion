@@ -11,4 +11,4 @@ gobuster dir -e -u $URL -w /usr/share/wordlists/dirbuster/directory-list-2.3-med
 
 Tags:
 
-    #assorted #command #hacking #gobuster
+    #command #hacking #gobuster 

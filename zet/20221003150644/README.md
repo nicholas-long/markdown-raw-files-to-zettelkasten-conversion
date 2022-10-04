@@ -11,4 +11,4 @@ sudo nmap -p- -v -sC -sV -oA nmap.all $IP
 
 Tags:
 
-    #assorted #command #hacking #nmap
+    #command #hacking #nmap 

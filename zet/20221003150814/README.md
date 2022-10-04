@@ -13,4 +13,4 @@ migrate 1234
 
 Tags:
 
-    #assorted #command #hacking #metasploit
+    #command #hacking #metasploit 

@@ -9,4 +9,4 @@
 
 Tags:
 
-    #assorted #hacking #windows #mimikatz
+    #hacking #windows #mimikatz 

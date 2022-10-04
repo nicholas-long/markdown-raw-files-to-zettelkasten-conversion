@@ -18,4 +18,4 @@ find . -type f -ls 2>/dev/null |\
 
 Tags:
 
-    #assorted #bash #script
+    #bash #script 

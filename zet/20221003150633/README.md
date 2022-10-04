@@ -10,4 +10,4 @@ smbmap -H $IP -u guest -p ''
 
 Tags:
 
-    #assorted #command #hacking #smbmap
+    #command #hacking #smbmap 

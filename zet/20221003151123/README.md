@@ -12,4 +12,4 @@ Get-WmiObject win32_service | Select-Object Name, State, PathName | Where-Object
 
 Tags:
 
-    #assorted #hacking #windows #dos
+    #hacking #windows #dos 

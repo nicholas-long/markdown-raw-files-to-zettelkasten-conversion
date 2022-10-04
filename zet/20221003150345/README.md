@@ -13,4 +13,4 @@ patator ssh_login host=<ip> port=22 user=root 0=/path/passwords.txt password=FIL
 
 Tags:
 
-    #assorted #hacking #bruteforcing
+    #hacking #bruteforcing 

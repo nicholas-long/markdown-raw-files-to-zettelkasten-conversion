@@ -10,4 +10,4 @@ smbclient \\\\$IP\\Users -U c.smith
 
 Tags:
 
-    #assorted #command #hacking #smbclient
+    #command #hacking #smbclient 

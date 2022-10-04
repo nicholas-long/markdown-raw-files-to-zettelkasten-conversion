@@ -10,4 +10,4 @@ nmap -A -v -p 1234 $IP
 
 Tags:
 
-    #assorted #command #hacking #nmap
+    #command #hacking #nmap 

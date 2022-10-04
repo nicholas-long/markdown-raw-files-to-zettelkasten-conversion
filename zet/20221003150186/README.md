@@ -10,4 +10,4 @@ sudo journalctl --vacuum-size=100M
 
 Tags:
 
-    #assorted #linux #free
+    #linux #free 

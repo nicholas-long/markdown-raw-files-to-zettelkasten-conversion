@@ -10,4 +10,4 @@ user ALL=(ALL) NOPASSWD: ALL
 
 Tags:
 
-    #assorted #hacking #privesc #sudoers
+    #hacking #privesc #sudoers 

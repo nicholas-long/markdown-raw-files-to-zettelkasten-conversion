@@ -13,4 +13,4 @@ wmic service get name,displayname,pathname,startmode | findstr /i "auto" | finds
 
 Tags:
 
-    #assorted #hacking #windows #dos
+    #hacking #windows #dos 

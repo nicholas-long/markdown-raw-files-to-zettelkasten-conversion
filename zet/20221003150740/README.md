@@ -11,4 +11,4 @@ hydra -L /usr/share/seclists/Usernames/top-usernames-shortlist.txt -P /usr/share
 
 Tags:
 
-    #assorted #command #hacking #hydra
+    #command #hacking #hydra 

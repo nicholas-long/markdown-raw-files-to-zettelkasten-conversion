@@ -10,4 +10,4 @@ kubectl auth can-i --list
 
 Tags:
 
-    #assorted #command #hacking #kubernetes
+    #command #hacking #kubernetes 

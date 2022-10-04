@@ -15,4 +15,4 @@ cat composer.lock | jq -r '.packages[] | .name,.version' | paste - -
 
 Tags:
 
-    #assorted #bash #script
+    #bash #script 

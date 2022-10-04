@@ -11,4 +11,4 @@ type could be SOCKS4,SOCKS5 or HTTP if omitted.
 
 Tags:
 
-    #assorted #command #hacking #wfuzz
+    #command #hacking #wfuzz 

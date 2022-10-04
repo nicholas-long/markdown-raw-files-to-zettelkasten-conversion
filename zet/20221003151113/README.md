@@ -8,4 +8,4 @@ sc config SVC_NAME binpath= "c:\inetpub\shell.exe"
 
 Tags:
 
-    #assorted #hacking #windows #dos
+    #hacking #windows #dos 

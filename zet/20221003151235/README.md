@@ -11,4 +11,4 @@ select * from users \G
 
 Tags:
 
-    #assorted #hacking #trick #mysql
+    #hacking #trick #mysql 

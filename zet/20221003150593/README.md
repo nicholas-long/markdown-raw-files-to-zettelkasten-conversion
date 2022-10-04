@@ -10,4 +10,4 @@ awk -F: '{print $6 "/.ssh/id_rsa" }' passwd
 
 Tags:
 
-    #assorted #command #hacking #enumeration
+    #command #hacking #enumeration 

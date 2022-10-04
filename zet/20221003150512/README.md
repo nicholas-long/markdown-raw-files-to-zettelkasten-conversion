@@ -7,4 +7,4 @@
 
 Tags:
 
-    #assorted #hacking #trick #pwn #tricks
+    #hacking #trick #pwn #tricks 

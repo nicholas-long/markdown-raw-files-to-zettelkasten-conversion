@@ -11,4 +11,4 @@ ldapdomaindump $IP -u 'DOMAIN.COM\USERNAME' -p 'PASSWORD123'
 
 Tags:
 
-    #assorted #command #hacking #ldap
+    #command #hacking #ldap 

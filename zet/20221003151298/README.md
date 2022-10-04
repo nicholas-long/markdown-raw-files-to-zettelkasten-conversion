@@ -10,4 +10,4 @@ make a pretend tty for them and log the output with `script` instead.
 
 Tags:
 
-    #assorted #bash-scripting #trick #tricks
+    #bash-scripting #trick #tricks 

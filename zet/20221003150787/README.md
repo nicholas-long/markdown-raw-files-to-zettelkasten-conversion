@@ -10,4 +10,4 @@ openssl pkcs12 -export -inkey client.key -in client.cer -out client.p12
 
 Tags:
 
-    #assorted #command #hacking #openssl
+    #command #hacking #openssl 

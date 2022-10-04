@@ -11,4 +11,4 @@ search for scripts of type "vuln"
 
 Tags:
 
-    #assorted #hacking #nmap
+    #hacking #nmap 

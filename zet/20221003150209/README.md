@@ -13,4 +13,4 @@ cat datafile | kafkacat -b $KAFKA -P -u -t topic_name
 
 Tags:
 
-    #assorted #kafka #kafkacat
+    #kafka #kafkacat 

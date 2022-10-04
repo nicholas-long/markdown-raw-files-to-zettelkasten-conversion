@@ -12,4 +12,4 @@ BEGIN { FS = "\t" }
 
 Tags:
 
-    #assorted #awk-scripting #snippets
+    #awk-scripting #snippets 

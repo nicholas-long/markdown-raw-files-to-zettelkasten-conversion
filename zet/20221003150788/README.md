@@ -13,4 +13,4 @@ client.csr is the certificate signing request
 
 Tags:
 
-    #assorted #command #hacking #openssl
+    #command #hacking #openssl 

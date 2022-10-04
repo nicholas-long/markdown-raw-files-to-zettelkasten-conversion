@@ -6,4 +6,4 @@ https://book.hacktricks.xyz/network-services-pentesting/pentesting-ldap#jxplorer
 
 Tags:
 
-    #assorted
+    

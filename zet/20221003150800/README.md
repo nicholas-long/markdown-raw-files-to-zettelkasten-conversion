@@ -10,4 +10,4 @@ openssl enc -aes-256-cbc -e -in $FILE -out outputfile -k password
 
 Tags:
 
-    #assorted #command #hacking #openssl
+    #command #hacking #openssl 

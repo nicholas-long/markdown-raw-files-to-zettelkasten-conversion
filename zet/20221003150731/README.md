@@ -20,4 +20,4 @@ Dynamic collection settings:
 
 Tags:
 
-    #assorted #command #hacking #feroxbuster
+    #command #hacking #feroxbuster 

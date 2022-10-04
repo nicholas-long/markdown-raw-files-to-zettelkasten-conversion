@@ -12,4 +12,4 @@ pattern search $rsp
 
 Tags:
 
-    #assorted #command #hacking #pwn #gef
+    #command #hacking #pwn #gef 

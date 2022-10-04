@@ -11,4 +11,4 @@ ll $(mount | awk '$3 == "/" {print $1}')
 
 Tags:
 
-    #assorted #command #linux #os
+    #command #linux #os 

@@ -9,4 +9,4 @@ the BASIC program can load the data from the doc and install the `.co` program i
 
 Tags:
 
-    #assorted #linux #cyberpunk
+    #linux #cyberpunk 

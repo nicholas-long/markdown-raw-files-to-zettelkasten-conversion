@@ -10,4 +10,4 @@ docker system prune -a -f
 
 Tags:
 
-    #assorted #docker #docker
+    #docker #docker 

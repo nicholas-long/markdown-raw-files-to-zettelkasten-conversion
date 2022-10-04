@@ -10,4 +10,4 @@ target exploits that are more specific to distro.
 
 Tags:
 
-    #assorted
+    

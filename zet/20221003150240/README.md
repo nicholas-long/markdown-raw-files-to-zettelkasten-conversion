@@ -6,4 +6,4 @@ https://github.com/scr34m/php-malware-scanner
 
 Tags:
 
-    #assorted
+    

@@ -10,4 +10,4 @@ panepath=$(tmux display-message -t "$pane" -a | grep pane_current_path | cut -d 
 
 Tags:
 
-    #assorted #tmux #get
+    #tmux #get 

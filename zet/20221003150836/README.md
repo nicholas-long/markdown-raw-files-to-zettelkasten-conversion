@@ -11,4 +11,4 @@ sudo mount -t cifs -o username=user_name //$IP/share_name /mnt/
 
 Tags:
 
-    #assorted #command #hacking #smb
+    #command #hacking #smb 

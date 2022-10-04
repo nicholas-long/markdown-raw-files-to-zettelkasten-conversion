@@ -12,4 +12,4 @@ mount | grep hidepid
 
 Tags:
 
-    #assorted #command #hacking #privesc #enumeration
+    #command #hacking #privesc #enumeration 

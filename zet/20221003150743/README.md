@@ -10,4 +10,4 @@ hydra -l admin -V -P /usr/share/wordlists/rockyou.txt -s 80 -f $IP http-get /php
 
 Tags:
 
-    #assorted #command #hacking #hydra
+    #command #hacking #hydra 

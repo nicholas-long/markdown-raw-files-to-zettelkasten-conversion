@@ -37,4 +37,4 @@ find home | grep py # it's all here!
 
 Tags:
 
-    #assorted #hacking #trick #install
+    #hacking #trick #install 

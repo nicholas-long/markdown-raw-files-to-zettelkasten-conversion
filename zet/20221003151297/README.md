@@ -10,4 +10,4 @@ script -q output -c "shodan host 43.225.54.207" &
 
 Tags:
 
-    #assorted #bash-scripting #trick #tricks
+    #bash-scripting #trick #tricks 

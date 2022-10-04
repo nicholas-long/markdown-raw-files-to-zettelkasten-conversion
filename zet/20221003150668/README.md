@@ -10,4 +10,4 @@ crackmapexec smb $IP -u username -p password123 --shares
 
 Tags:
 
-    #assorted #command #hacking #crackmapexec
+    #command #hacking #crackmapexec 

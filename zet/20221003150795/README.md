@@ -12,4 +12,4 @@ cewl http://$IP -w cewl_wordlist_num --with-numbers
 
 Tags:
 
-    #assorted #command #hacking #generate
+    #command #hacking #generate 

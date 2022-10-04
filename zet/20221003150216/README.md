@@ -76,4 +76,4 @@ services:
 
 Tags:
 
-    #assorted #kafka #initialize
+    #kafka #initialize 

@@ -6,4 +6,4 @@ convert shadow file to passwd file with hashes for john
 
 Tags:
 
-    #assorted
+    

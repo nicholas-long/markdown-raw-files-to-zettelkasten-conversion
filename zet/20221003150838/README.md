@@ -9,4 +9,4 @@ nmap --script smb-vuln* $IP
 
 Tags:
 
-    #assorted
+    

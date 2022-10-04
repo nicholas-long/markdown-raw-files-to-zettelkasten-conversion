@@ -13,4 +13,4 @@ sudo apt install -y jd-gui
 
 Tags:
 
-    #assorted #hacking #tools
+    #hacking #tools 

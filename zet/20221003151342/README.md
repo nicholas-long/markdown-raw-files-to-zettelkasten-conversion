@@ -11,4 +11,4 @@ cat managed_password | awk '{ printf("%.2x", $1) }'
 
 Tags:
 
-    #assorted #awk-scripting #convert
+    #awk-scripting #convert 

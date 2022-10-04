@@ -12,4 +12,4 @@ bindkey '\e[B' history-search-forward
 
 Tags:
 
-    #assorted #linux #zsh
+    #linux #zsh 

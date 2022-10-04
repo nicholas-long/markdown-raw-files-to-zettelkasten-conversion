@@ -12,4 +12,4 @@ gcc -pthread c0w.c  -o c0w -static
 
 Tags:
 
-    #assorted #hacking #privesc #dirty
+    #hacking #privesc #dirty 

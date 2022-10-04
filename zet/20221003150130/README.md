@@ -8,4 +8,4 @@ https://repo.huaweicloud.com/java/jdk/8u181-b13/jdk-8u181-linux-x64.tar.gz
 
 Tags:
 
-    #assorted #linux #java
+    #linux #java 

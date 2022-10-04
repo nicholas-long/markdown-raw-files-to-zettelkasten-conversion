@@ -20,4 +20,4 @@ sudo docker run --rm -it -v "$(pwd):$(pwd)" -w "$(pwd)" ubuntubuildenv
 
 Tags:
 
-    #assorted #bash #script
+    #bash #script 

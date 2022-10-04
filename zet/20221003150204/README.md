@@ -32,4 +32,4 @@ fi
 
 Tags:
 
-    #assorted #kafka #ksql
+    #kafka #ksql 

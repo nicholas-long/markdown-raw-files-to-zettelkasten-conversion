@@ -10,4 +10,4 @@ feroxbuster --url $URL -x php -B -g
 
 Tags:
 
-    #assorted #command #hacking #feroxbuster
+    #command #hacking #feroxbuster 

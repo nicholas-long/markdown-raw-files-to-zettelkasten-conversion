@@ -11,4 +11,4 @@ Get-ItemProperty -Path "HKLM:\Software\ContosoCompany"
 
 Tags:
 
-    #assorted #hacking #trick #powershell
+    #hacking #trick #powershell 

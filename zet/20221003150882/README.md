@@ -7,4 +7,4 @@ https://unix.stackexchange.com/questions/284947/why-suid-bit-is-unset-after-file
 
 Tags:
 
-    #assorted
+    

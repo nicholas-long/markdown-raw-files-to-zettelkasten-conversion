@@ -10,4 +10,4 @@ sqlplus64 user/pass@$IP:1521/SID as sysdba
 
 Tags:
 
-    #assorted #hacking #oracle
+    #hacking #oracle 

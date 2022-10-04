@@ -24,4 +24,4 @@ docker run --rm $imagename --help
 
 Tags:
 
-    #assorted #bash #script
+    #bash #script 

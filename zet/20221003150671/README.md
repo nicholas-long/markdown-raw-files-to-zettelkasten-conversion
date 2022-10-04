@@ -7,4 +7,4 @@
 
 Tags:
 
-    #assorted #command #hacking #crackmapexec
+    #command #hacking #crackmapexec 

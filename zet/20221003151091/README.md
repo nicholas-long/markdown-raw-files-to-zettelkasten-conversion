@@ -9,4 +9,4 @@ Recon/PowerView.ps1
 
 Tags:
 
-    #assorted #command #hacking #windows #powerview
+    #command #hacking #windows #powerview 

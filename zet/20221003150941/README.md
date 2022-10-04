@@ -10,4 +10,4 @@ import app.core.config # corresponds to app/core/config.py
 
 Tags:
 
-    #assorted #hacking #python
+    #hacking #python 

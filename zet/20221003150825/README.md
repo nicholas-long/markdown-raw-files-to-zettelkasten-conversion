@@ -11,4 +11,4 @@ psql -U username -d database_name
 
 Tags:
 
-    #assorted #command #hacking #database
+    #command #hacking #database 

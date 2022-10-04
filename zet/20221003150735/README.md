@@ -21,4 +21,4 @@ feroxbuster --url http://$IP/ -B -g -w /usr/share/seclists/Discovery/Web-Content
 
 Tags:
 
-    #assorted #command #hacking #feroxbuster
+    #command #hacking #feroxbuster 

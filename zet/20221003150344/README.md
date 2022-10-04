@@ -10,4 +10,4 @@ patator ssh_login host=$IP port=22 user=root 0=/usr/share/seclists/Passwords/Lea
 
 Tags:
 
-    #assorted #hacking #bruteforcing
+    #hacking #bruteforcing 

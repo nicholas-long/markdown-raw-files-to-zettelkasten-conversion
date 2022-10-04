@@ -11,4 +11,4 @@ wfuzz -c -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt -
 
 Tags:
 
-    #assorted #command #hacking #wfuzz
+    #command #hacking #wfuzz 

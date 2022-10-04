@@ -6,4 +6,4 @@ terminal -> features -> "disable application keypad mode"
 
 Tags:
 
-    #assorted
+    

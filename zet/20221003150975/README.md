@@ -9,4 +9,4 @@ https://book.hacktricks.xyz/pentesting-web/xxe-xee-xml-external-entity
 
 Tags:
 
-    #assorted #hacking #xxe
+    #hacking #xxe 

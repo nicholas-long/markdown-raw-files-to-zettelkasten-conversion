@@ -12,4 +12,4 @@ mount -t nfs -o nolock $IP:/backup mnt/
 
 Tags:
 
-    #assorted #command #hacking #nfs
+    #command #hacking #nfs 

@@ -15,4 +15,4 @@ additional UDF exploit info: https://book.hacktricks.xyz/network-services-pentes
 
 Tags:
 
-    #assorted #hacking #trick #mysql
+    #hacking #trick #mysql 

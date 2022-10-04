@@ -13,4 +13,4 @@
 
 Tags:
 
-    #assorted #command #hacking #wpscan
+    #command #hacking #wpscan 

@@ -10,4 +10,4 @@ permissions can be recovered by creating a scheduled task
 
 Tags:
 
-    #assorted #hacking #windows #service
+    #hacking #windows #service 

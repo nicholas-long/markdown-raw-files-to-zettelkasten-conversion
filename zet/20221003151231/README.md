@@ -10,4 +10,4 @@ show variables like '%plugin%';
 
 Tags:
 
-    #assorted #hacking #trick #mysql
+    #hacking #trick #mysql 

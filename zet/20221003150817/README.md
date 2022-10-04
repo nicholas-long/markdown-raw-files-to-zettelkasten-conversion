@@ -10,4 +10,4 @@ set Proxies http:127.0.0.1:8080
 
 Tags:
 
-    #assorted #command #hacking #metasploit
+    #command #hacking #metasploit 

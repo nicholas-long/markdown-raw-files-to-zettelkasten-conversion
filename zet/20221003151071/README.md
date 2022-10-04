@@ -10,4 +10,4 @@ iconv -f UTF-16LE -t UTF-8 winpeas.out | less -r
 
 Tags:
 
-    #assorted #hacking #windows #enumeration
+    #hacking #windows #enumeration 

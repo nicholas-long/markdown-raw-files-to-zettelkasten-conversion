@@ -8,4 +8,4 @@ auxiliary/scanner/http/tomcat_mgr_login
 
 Tags:
 
-    #assorted #command #hacking #hydra
+    #command #hacking #hydra 

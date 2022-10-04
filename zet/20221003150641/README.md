@@ -10,4 +10,4 @@ proxychains -q nmap -sC -sV -sT -Pn -n -vvv $IP
 
 Tags:
 
-    #assorted #command #hacking #nmap
+    #command #hacking #nmap 

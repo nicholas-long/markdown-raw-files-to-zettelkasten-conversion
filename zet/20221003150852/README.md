@@ -10,4 +10,4 @@ dig any @$IP zonetransfer.me
 
 Tags:
 
-    #assorted #command #hacking #dns
+    #command #hacking #dns 

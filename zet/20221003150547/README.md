@@ -13,4 +13,4 @@ nasm > jmp esp
 
 Tags:
 
-    #assorted #hacking #pwn #basic
+    #hacking #pwn #basic 

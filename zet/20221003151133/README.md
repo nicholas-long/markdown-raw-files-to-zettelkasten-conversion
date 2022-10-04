@@ -17,4 +17,4 @@ cat managed_password | awk '{ printf("%.2x", $1) }' > managed_password.hex
 
 Tags:
 
-    #assorted #hacking #windows #windows
+    #hacking #windows #windows 

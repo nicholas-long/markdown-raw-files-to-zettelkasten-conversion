@@ -8,4 +8,4 @@ ntds.dit - domain credentials
 
 Tags:
 
-    #assorted #hacking #windows #windows
+    #hacking #windows #windows 

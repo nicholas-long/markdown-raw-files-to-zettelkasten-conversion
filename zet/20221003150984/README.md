@@ -16,4 +16,4 @@ Example union injection
 
 Tags:
 
-    #assorted #hacking #sqli
+    #hacking #sqli 

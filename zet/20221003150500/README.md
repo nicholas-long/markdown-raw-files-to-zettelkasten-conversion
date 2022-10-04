@@ -8,4 +8,4 @@ https://github.com/nccgroup/shocker
 
 Tags:
 
-    #assorted #hacking #shellshock
+    #hacking #shellshock 

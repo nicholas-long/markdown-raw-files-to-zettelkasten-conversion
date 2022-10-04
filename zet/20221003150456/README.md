@@ -6,4 +6,4 @@ bruteforce-salted-openssl
 
 Tags:
 
-    #assorted
+    

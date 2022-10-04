@@ -11,4 +11,4 @@ zabbix stores configs to access mysql database
 
 Tags:
 
-    #assorted #hacking #buzzwords #buzzwords
+    #hacking #buzzwords #buzzwords 

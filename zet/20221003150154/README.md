@@ -8,4 +8,4 @@
 
 Tags:
 
-    #assorted #linux #cyberpunk
+    #linux #cyberpunk 

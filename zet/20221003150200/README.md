@@ -10,4 +10,4 @@ xrdb -merge ~/.Xresources
 
 Tags:
 
-    #assorted #linux #xterm
+    #linux #xterm 

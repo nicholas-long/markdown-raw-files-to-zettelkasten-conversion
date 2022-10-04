@@ -14,4 +14,4 @@ cat $1 | go run github.com/ericchiang/xpup@latest //request | base64 -d
 
 Tags:
 
-    #assorted #bash #script
+    #bash #script 

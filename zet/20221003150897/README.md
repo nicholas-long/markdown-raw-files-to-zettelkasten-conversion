@@ -10,4 +10,4 @@ capsh --decode=000001ffffffffff
 
 Tags:
 
-    #assorted #command #hacking #privesc #enumeration
+    #command #hacking #privesc #enumeration 

@@ -11,4 +11,4 @@ crackmapexec smb $IP -u users -p passwords
 
 Tags:
 
-    #assorted #command #hacking #crackmapexec
+    #command #hacking #crackmapexec 

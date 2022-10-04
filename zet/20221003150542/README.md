@@ -10,4 +10,4 @@ from pwn import *
 
 Tags:
 
-    #assorted #hacking #pwn #basic
+    #hacking #pwn #basic 

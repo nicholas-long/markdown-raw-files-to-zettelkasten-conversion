@@ -13,4 +13,4 @@ f = FmtStr(exec_fmt, offset=6)
 
 Tags:
 
-    #assorted #hacking #pwn #pwntools
+    #hacking #pwn #pwntools 

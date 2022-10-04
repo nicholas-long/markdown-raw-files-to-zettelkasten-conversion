@@ -10,4 +10,4 @@ keytool -printcert -file CERT.RSA
 
 Tags:
 
-    #assorted #command #hacking #keytool
+    #command #hacking #keytool 

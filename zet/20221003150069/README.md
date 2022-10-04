@@ -12,4 +12,4 @@ run `:tab all` to put the files in tabs
 
 Tags:
 
-    #assorted #vim #edit
+    #vim #edit 

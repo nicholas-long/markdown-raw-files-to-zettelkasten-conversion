@@ -8,4 +8,4 @@
 
 Tags:
 
-    #assorted #command #hacking #metasploit
+    #command #hacking #metasploit 

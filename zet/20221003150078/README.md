@@ -12,4 +12,4 @@ pane=$(tmux list-panes | grep active | cut -d ']' -f 3 | awk '{print $1}')
 
 Tags:
 
-    #assorted #tmux #get
+    #tmux #get 

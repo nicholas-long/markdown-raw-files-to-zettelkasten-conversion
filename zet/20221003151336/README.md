@@ -11,4 +11,4 @@ BEGIN { FS = OFS = "\t" }
 
 Tags:
 
-    #assorted #awk-scripting #snippets
+    #awk-scripting #snippets 

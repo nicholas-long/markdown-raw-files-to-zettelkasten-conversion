@@ -10,4 +10,4 @@ cat /proc/*/status | awk '/CapEff/ && $2 !~ /^0*$/ { print name, pid, uid, $2 } 
 
 Tags:
 
-    #assorted #command #hacking #privesc #enumeration
+    #command #hacking #privesc #enumeration 

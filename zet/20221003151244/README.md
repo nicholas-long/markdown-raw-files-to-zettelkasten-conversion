@@ -7,4 +7,4 @@
 
 Tags:
 
-    #assorted #hacking #trick #malicious
+    #hacking #trick #malicious 

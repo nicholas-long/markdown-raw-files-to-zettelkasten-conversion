@@ -16,4 +16,4 @@ systemctl enable serial-getty@ttyUSB0.service
 
 Tags:
 
-    #assorted #linux #cyberpunk
+    #linux #cyberpunk 

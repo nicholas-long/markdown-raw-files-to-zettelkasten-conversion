@@ -11,4 +11,4 @@ echo "$fileid:$filename" | kafkacat -b $KAFKA -P -t topic_name -u -K ':'
 
 Tags:
 
-    #assorted #kafka #kafkacat
+    #kafka #kafkacat 

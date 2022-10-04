@@ -9,4 +9,4 @@
 
 Tags:
 
-    #assorted #command #hacking #sqlmap
+    #command #hacking #sqlmap 

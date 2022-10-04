@@ -12,4 +12,4 @@ dd if=file.elf skip=22222 of=out.zip bs=1
 
 Tags:
 
-    #assorted #command #hacking #binary
+    #command #hacking #binary 

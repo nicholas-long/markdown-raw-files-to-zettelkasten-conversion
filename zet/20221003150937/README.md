@@ -10,4 +10,4 @@
 
 Tags:
 
-    #assorted #hacking #privesc #fail2ban
+    #hacking #privesc #fail2ban 

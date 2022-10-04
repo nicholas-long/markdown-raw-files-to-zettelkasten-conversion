@@ -10,4 +10,4 @@ Get-WindowsFeature *ad-certificate*, *adcs*
 
 Tags:
 
-    #assorted #command #hacking #powershell
+    #command #hacking #powershell 

@@ -9,4 +9,4 @@ uses function `generate_mof`
 
 Tags:
 
-    #assorted #hacking #windows #xp
+    #hacking #windows #xp 

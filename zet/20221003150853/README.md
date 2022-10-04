@@ -10,4 +10,4 @@ dig axfr @$IP zonetransfer.me
 
 Tags:
 
-    #assorted #command #hacking #dns
+    #command #hacking #dns 

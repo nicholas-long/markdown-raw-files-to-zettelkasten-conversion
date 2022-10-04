@@ -15,4 +15,4 @@ smbclient //$IP/share -U username%password -c "prompt OFF;recurse ON;mget *"
 
 Tags:
 
-    #assorted #command #hacking #smbclient
+    #command #hacking #smbclient 

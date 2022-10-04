@@ -25,4 +25,4 @@ check `man stty`, section "Output settings", it should be able to accomplish all
 
 Tags:
 
-    #assorted #linux #cyberpunk
+    #linux #cyberpunk 

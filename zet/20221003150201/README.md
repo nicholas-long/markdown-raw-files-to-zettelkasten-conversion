@@ -11,4 +11,4 @@ xterm*font:     *-fixed-*-*-*-18-*
 
 Tags:
 
-    #assorted #linux #xterm
+    #linux #xterm 

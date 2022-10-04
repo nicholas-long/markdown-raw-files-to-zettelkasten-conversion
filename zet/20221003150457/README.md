@@ -6,4 +6,4 @@ https://github.com/swisskyrepo/GraphQLmap
 
 Tags:
 
-    #assorted
+    

@@ -10,4 +10,4 @@ find / -type f -newermt "2022-02-20" -not -newermt "2022-02-28" 2>/dev/null
 
 Tags:
 
-    #assorted #command #hacking #privesc #enumeration
+    #command #hacking #privesc #enumeration 

@@ -10,4 +10,4 @@ smbclient -U guest -L //$IP
 
 Tags:
 
-    #assorted #command #hacking #smbclient
+    #command #hacking #smbclient 

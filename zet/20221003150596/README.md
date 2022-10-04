@@ -12,4 +12,4 @@ impacket-smbserver -smb2support TMP $(pwd)
 
 Tags:
 
-    #assorted #command #hacking #impacket
+    #command #hacking #impacket 

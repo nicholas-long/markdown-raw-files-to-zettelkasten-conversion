@@ -7,4 +7,4 @@
 
 Tags:
 
-    #assorted #command #hacking #pwn #gdb
+    #command #hacking #pwn #gdb 

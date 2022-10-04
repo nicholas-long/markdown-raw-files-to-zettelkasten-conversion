@@ -9,4 +9,4 @@ https://github.com/alacritty/alacritty/blob/master/alacritty.yml
 
 Tags:
 
-    #assorted #linux #install
+    #linux #install 

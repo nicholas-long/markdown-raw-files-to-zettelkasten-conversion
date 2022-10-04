@@ -10,4 +10,4 @@
 
 Tags:
 
-    #assorted #tmux #copy
+    #tmux #copy 

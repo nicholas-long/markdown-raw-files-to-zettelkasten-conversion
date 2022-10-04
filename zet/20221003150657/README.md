@@ -11,4 +11,4 @@ wfuzz -c -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-big.txt
 
 Tags:
 
-    #assorted #command #hacking #wfuzz
+    #command #hacking #wfuzz 

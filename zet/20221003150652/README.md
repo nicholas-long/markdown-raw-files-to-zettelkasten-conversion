@@ -11,4 +11,4 @@ wfuzz -c -u $URL -w /usr/share/seclists/Discovery/DNS/fierce-hostlist.txt -H "Ho
 
 Tags:
 
-    #assorted #command #hacking #wfuzz
+    #command #hacking #wfuzz 

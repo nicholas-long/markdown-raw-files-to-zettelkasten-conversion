@@ -17,4 +17,4 @@ uid=0(root) gid=0(root) groups=0(root)
 
 Tags:
 
-    #assorted #hacking #privesc #run
+    #hacking #privesc #run 

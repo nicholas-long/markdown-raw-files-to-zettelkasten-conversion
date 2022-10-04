@@ -16,4 +16,4 @@ ExecStart=-/sbin/agetty 9600 %I $TERM
 
 Tags:
 
-    #assorted #linux #cyberpunk
+    #linux #cyberpunk 

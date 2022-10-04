@@ -10,4 +10,4 @@ sudo apt-get dselect-upgrade
 
 Tags:
 
-    #assorted #linux #force
+    #linux #force 

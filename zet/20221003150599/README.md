@@ -10,4 +10,4 @@ psexec.py administrator@$IP -hashes abcd123abcd123abcd123abcd123abcd:abcd123abcd
 
 Tags:
 
-    #assorted #command #hacking #impacket
+    #command #hacking #impacket 

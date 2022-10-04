@@ -9,4 +9,4 @@ fuzz with known extensions
 
 Tags:
 
-    #assorted #hacking #lfi
+    #hacking #lfi 

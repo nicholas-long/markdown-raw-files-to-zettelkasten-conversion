@@ -15,4 +15,4 @@ put nc.exe c:\windows\system32\nc.exe
 
 Tags:
 
-    #assorted #command #hacking #tftp
+    #command #hacking #tftp 

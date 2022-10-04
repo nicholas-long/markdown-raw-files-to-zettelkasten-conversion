@@ -10,4 +10,4 @@ ar x file.deb
 
 Tags:
 
-    #assorted #command #hacking #extract
+    #command #hacking #extract 

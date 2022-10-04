@@ -16,4 +16,4 @@ snmpwalk -c public -v1 $IP
 
 Tags:
 
-    #assorted #command #hacking #snmp
+    #command #hacking #snmp 

@@ -10,4 +10,4 @@ powershell.exe -nop -exec bypass -w hidden -enc BASE64STR
 
 Tags:
 
-    #assorted #hacking #windows #windows
+    #hacking #windows #windows 

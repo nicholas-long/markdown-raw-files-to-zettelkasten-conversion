@@ -12,4 +12,4 @@ can be found with bloodhound or with `impacket-findDelegation`.
 
 Tags:
 
-    #assorted #hacking #windows #windows
+    #hacking #windows #windows 

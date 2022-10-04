@@ -11,4 +11,4 @@
 
 Tags:
 
-    #assorted #command #hacking #impacket
+    #command #hacking #impacket 

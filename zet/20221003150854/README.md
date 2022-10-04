@@ -10,4 +10,4 @@ dig @$IP -x $LOOKUP_IP
 
 Tags:
 
-    #assorted #command #hacking #dns
+    #command #hacking #dns 

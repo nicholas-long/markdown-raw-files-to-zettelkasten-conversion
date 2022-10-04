@@ -30,4 +30,4 @@ zcat <( curl https://cve.mitre.org/data/downloads/allitems.csv.gz ) | \
 
 Tags:
 
-    #assorted #bash #script
+    #bash #script 

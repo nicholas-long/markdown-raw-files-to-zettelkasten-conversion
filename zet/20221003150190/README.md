@@ -11,4 +11,4 @@ bindkey -M viins
 
 Tags:
 
-    #assorted #linux #zsh
+    #linux #zsh 

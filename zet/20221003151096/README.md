@@ -11,4 +11,4 @@ and the CA creates and signs a certificate using the attacker-supplied SAN, the 
 
 Tags:
 
-    #assorted #hacking #windows #active
+    #hacking #windows #active 

@@ -6,4 +6,4 @@ https://github.com/danielmiessler/SecLists
 
 Tags:
 
-    #assorted
+    

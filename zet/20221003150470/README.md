@@ -14,4 +14,4 @@ New-PSDrive -Name "temp" -PSProvider "FileSystem" -Credential $cred -Root "\\192
 
 Tags:
 
-    #assorted #hacking #trick #powershell
+    #hacking #trick #powershell 

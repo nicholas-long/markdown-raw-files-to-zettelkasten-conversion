@@ -11,4 +11,4 @@ cat ./monitoring/login.req | ~/go/bin/xpup '//request'
 
 Tags:
 
-    #assorted #bash-scripting #xml
+    #bash-scripting #xml 

@@ -8,4 +8,4 @@ power buttom + volume up for 15 seconds. the screen will flash. ignore and keep 
 
 Tags:
 
-    #assorted #hardware #surface
+    #hardware #surface 

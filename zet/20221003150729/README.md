@@ -15,4 +15,4 @@ powershell -nop -enc <BASE64_ENCODED_PAYLOAD>
 
 Tags:
 
-    #assorted #command #hacking #windows #encode
+    #command #hacking #windows #encode 

@@ -10,4 +10,4 @@ nvim -d file1 file2
 
 Tags:
 
-    #assorted #vim #vim
+    #vim #vim 

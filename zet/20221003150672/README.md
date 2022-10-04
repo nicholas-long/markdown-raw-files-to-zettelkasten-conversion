@@ -10,4 +10,4 @@ crackmapexec smb LAB-DC -u 'guest' -p '' --rid-brute
 
 Tags:
 
-    #assorted #command #hacking #crackmapexec
+    #command #hacking #crackmapexec 

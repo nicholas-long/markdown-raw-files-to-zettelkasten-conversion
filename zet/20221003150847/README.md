@@ -14,4 +14,4 @@
 
 Tags:
 
-    #assorted #command #hacking #gobuster
+    #command #hacking #gobuster 

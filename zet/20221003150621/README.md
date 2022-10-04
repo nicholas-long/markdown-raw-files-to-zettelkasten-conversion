@@ -22,4 +22,4 @@ chown -R ftpuser:ftpgroup /ftphome/
 
 Tags:
 
-    #assorted #command #hacking #pureftp
+    #command #hacking #pureftp 

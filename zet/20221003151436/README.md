@@ -27,4 +27,4 @@ function expand_rec(str, pos) {
 
 Tags:
 
-    #assorted #awk #script
+    #awk #script 

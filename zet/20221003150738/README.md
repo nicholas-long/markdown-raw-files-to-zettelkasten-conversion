@@ -17,4 +17,4 @@ feroxbuster --url $URL -w ~/kb/wordlists/custom.dirbusting
 
 Tags:
 
-    #assorted #command #hacking #feroxbuster
+    #command #hacking #feroxbuster 

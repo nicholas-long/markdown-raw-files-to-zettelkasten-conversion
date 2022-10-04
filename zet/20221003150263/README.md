@@ -21,4 +21,4 @@ https://en.wikipedia.org/wiki/Block_cipher#Notable_block_ciphers
 
 Tags:
 
-    #assorted #hacking #buzzwords #buzzwords
+    #hacking #buzzwords #buzzwords 

@@ -10,4 +10,4 @@ john --wordlist=password.lst --rules mypasswd
 
 Tags:
 
-    #assorted #command #hacking #john
+    #command #hacking #john 

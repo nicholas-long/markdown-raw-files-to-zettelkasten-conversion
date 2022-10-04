@@ -11,4 +11,4 @@ https://github.com/gentilkiwi/mimikatz/issues/248
 
 Tags:
 
-    #assorted #hacking #windows #mimikatz
+    #hacking #windows #mimikatz 

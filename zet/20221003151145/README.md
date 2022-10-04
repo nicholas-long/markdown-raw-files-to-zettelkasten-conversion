@@ -15,4 +15,4 @@ impacket-psexec domain.local/Administrator@FQDNMachine.domain.local -k -no-pass
 
 Tags:
 
-    #assorted #hacking #windows #ad
+    #hacking #windows #ad 

@@ -11,4 +11,4 @@ Invoke-Command -Session $sess -ScriptBlock { "C:\users\public\file.exe"  }
 
 Tags:
 
-    #assorted #hacking #trick #powershell
+    #hacking #trick #powershell 

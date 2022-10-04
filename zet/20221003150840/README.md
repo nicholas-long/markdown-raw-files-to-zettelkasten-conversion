@@ -12,4 +12,4 @@ gobuster vhost -u $URL -w /usr/share/seclists/Discovery/DNS/subdomains-top1milli
 
 Tags:
 
-    #assorted #command #hacking #gobuster
+    #command #hacking #gobuster 

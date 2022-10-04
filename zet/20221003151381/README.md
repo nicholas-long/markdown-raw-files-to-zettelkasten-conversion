@@ -14,4 +14,4 @@ cat /dev/urandom | head -c 6 | xxd -p
 
 Tags:
 
-    #assorted #bash #script
+    #bash #script 

@@ -10,4 +10,4 @@ binwalk -Z -P -e IPWatcherSetup.exe
 
 Tags:
 
-    #assorted #command #hacking #binary
+    #command #hacking #binary 

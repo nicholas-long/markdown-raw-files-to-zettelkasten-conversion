@@ -10,4 +10,4 @@ enum4linux -A $IP
 
 Tags:
 
-    #assorted #command #hacking #enum4linux
+    #command #hacking #enum4linux 

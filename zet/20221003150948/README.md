@@ -9,4 +9,4 @@ add `verify=False` to each function call using requests (get, post)
 
 Tags:
 
-    #assorted #hacking #fix
+    #hacking #fix 

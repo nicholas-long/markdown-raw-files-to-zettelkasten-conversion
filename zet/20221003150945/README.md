@@ -9,4 +9,4 @@ bytes.fromhex(str).decode('latin-1')
 
 Tags:
 
-    #assorted #hacking #python
+    #hacking #python 

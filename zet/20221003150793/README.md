@@ -14,4 +14,4 @@ cewl http://localhost:8000/ -w cewl_wordlist
 
 Tags:
 
-    #assorted #command #hacking #generate
+    #command #hacking #generate 

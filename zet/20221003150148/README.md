@@ -18,4 +18,4 @@ export TERM=td100-s
 
 Tags:
 
-    #assorted #linux #cyberpunk
+    #linux #cyberpunk 

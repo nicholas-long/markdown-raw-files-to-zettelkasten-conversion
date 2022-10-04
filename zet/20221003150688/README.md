@@ -10,4 +10,4 @@ wpscan --url $URL -e ap,vt,cb,dbe,u1-10
 
 Tags:
 
-    #assorted #command #hacking #wpscan
+    #command #hacking #wpscan 

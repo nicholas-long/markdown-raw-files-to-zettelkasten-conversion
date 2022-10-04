@@ -15,4 +15,4 @@ smbclient \\\\$IP\\Data -U John -c 'prompt OFF;recurse ON;cd '\Users\John\';lcd 
 
 Tags:
 
-    #assorted #command #hacking #smbclient
+    #command #hacking #smbclient 

@@ -10,4 +10,4 @@ find . -type f -name '*.sh' | xargs nvim -p
 
 Tags:
 
-    #assorted #vim #edit
+    #vim #edit 

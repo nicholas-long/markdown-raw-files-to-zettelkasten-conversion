@@ -10,4 +10,4 @@ patchelf --set-interpreter ./lib64/ld-2.23.so --set-rpath ./lib64/ chapter2.patc
 
 Tags:
 
-    #assorted #hacking #trick #pwn #tricks
+    #hacking #trick #pwn #tricks 

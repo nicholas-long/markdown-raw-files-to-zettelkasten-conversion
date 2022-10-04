@@ -13,4 +13,4 @@ sudo nvim /etc/responder/Responder.conf
 
 Tags:
 
-    #assorted #command #hacking #responder
+    #command #hacking #responder 

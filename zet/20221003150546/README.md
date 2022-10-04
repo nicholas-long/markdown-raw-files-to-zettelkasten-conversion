@@ -10,4 +10,4 @@ ROPgadget --binary VulnApp1.exe | grep 'jmp esp'
 
 Tags:
 
-    #assorted #hacking #pwn #basic
+    #hacking #pwn #basic 

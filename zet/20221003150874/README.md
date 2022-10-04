@@ -8,4 +8,4 @@ nikto -host $IP
 
 Tags:
 
-    #assorted
+    

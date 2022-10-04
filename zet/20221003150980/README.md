@@ -12,4 +12,4 @@ at the end of the query
 
 Tags:
 
-    #assorted #hacking #sqli
+    #hacking #sqli 

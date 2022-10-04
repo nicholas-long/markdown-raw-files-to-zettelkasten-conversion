@@ -12,4 +12,4 @@ msf-pattern_offset -q 0x33445566
 
 Tags:
 
-    #assorted #hacking #pwn #basic
+    #hacking #pwn #basic 

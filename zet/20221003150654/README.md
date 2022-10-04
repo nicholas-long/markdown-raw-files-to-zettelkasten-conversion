@@ -11,4 +11,4 @@ wfuzz -c -w /usr/share/seclists/Discovery/Web-Content/api/objects.txt --hc 404 "
 
 Tags:
 
-    #assorted #command #hacking #wfuzz
+    #command #hacking #wfuzz 

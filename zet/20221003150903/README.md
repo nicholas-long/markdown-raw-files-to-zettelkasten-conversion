@@ -13,4 +13,4 @@ find /etc/ -type f -printf "%T+ %p\n" 2>/dev/null | grep -v 0000000000 | sort
 
 Tags:
 
-    #assorted #command #hacking #privesc #enumeration
+    #command #hacking #privesc #enumeration 

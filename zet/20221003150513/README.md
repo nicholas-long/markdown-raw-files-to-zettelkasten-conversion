@@ -10,4 +10,4 @@ context.terminal = ['tmux', 'new-window']
 
 Tags:
 
-    #assorted #hacking #pwn #debug
+    #hacking #pwn #debug 

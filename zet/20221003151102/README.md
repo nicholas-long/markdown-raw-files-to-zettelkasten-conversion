@@ -10,4 +10,4 @@ certutil.exe -urlcache -split -f "https://download.sysinternals.com/files/PSTool
 
 Tags:
 
-    #assorted #hacking #windows #windows
+    #hacking #windows #windows 

@@ -20,4 +20,4 @@ gobuster dir -e -t 50 -u $URL -w /usr/share/seclists/Discovery/Web-Content/commo
 
 Tags:
 
-    #assorted #command #hacking #gobuster
+    #command #hacking #gobuster 

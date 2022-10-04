@@ -10,4 +10,4 @@ tftp -i 192.168.0.1 GET whoami.exe
 
 Tags:
 
-    #assorted #command #hacking #tftp
+    #command #hacking #tftp 

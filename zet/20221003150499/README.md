@@ -35,4 +35,4 @@ python2 shocker.py -H $IP --cgi /cgi-bin/test/test.cgi
 
 Tags:
 
-    #assorted #hacking #shellshock
+    #hacking #shellshock 

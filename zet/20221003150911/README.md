@@ -10,4 +10,4 @@ find . -exec md5sum {} \;
 
 Tags:
 
-    #assorted #command #hacking #privesc #enumeration
+    #command #hacking #privesc #enumeration 

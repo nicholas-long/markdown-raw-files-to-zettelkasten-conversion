@@ -10,4 +10,4 @@ grep -E '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}'
 
 Tags:
 
-    #assorted #hacking #grep
+    #hacking #grep 

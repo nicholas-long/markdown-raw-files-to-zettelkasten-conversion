@@ -10,4 +10,4 @@ ordinary bloodhound collection methods query all machines.
 
 Tags:
 
-    #assorted #command #hacking #bloodhound
+    #command #hacking #bloodhound 

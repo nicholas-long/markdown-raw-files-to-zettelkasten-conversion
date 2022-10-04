@@ -9,4 +9,4 @@ close out SQL syntax correctly and include injection marker
 
 Tags:
 
-    #assorted #command #hacking #sqlmap
+    #command #hacking #sqlmap 

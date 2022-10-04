@@ -10,4 +10,4 @@ impacket-secretsdump -security SECURITY -system SYSTEM -ntds ntds.dit LOCAL
 
 Tags:
 
-    #assorted #command #hacking #impacket
+    #command #hacking #impacket 

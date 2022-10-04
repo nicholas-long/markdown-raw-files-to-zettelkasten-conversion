@@ -7,4 +7,4 @@
 
 Tags:
 
-    #assorted #command #hacking #smbmap
+    #command #hacking #smbmap 

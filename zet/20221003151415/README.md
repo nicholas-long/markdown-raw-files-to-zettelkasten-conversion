@@ -20,4 +20,4 @@ cat $1 | hashing
 
 Tags:
 
-    #assorted #bash #script
+    #bash #script 

@@ -11,4 +11,4 @@ need to enter country and organization information for the key
 
 Tags:
 
-    #assorted #command #hacking #openssl
+    #command #hacking #openssl 

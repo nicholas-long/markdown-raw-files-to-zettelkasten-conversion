@@ -14,4 +14,4 @@ That should make it initialize only once.
 
 Tags:
 
-    #assorted #kafka #ksql
+    #kafka #ksql 

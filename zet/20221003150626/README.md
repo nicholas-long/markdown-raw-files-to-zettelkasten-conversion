@@ -10,4 +10,4 @@ connection.search(search_base='DC=DOMAIN,DC=LOCAL', search_filter='(&(objectClas
 
 Tags:
 
-    #assorted #command #hacking #ldap
+    #command #hacking #ldap 

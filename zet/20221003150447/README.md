@@ -10,4 +10,4 @@ sudo apt install -y poppler-utils
 
 Tags:
 
-    #assorted #hacking #tools
+    #hacking #tools 

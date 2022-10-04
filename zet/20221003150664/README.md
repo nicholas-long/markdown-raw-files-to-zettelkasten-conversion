@@ -10,4 +10,4 @@ showmount -e $IP
 
 Tags:
 
-    #assorted #command #hacking #nfs
+    #command #hacking #nfs 

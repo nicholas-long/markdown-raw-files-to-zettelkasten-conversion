@@ -11,4 +11,4 @@ cargo install alacritty
 
 Tags:
 
-    #assorted #linux #install
+    #linux #install 

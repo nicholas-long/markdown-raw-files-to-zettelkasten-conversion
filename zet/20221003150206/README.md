@@ -19,4 +19,4 @@ echo "This is where initializtion should happen."
 
 Tags:
 
-    #assorted #kafka #ksql
+    #kafka #ksql 

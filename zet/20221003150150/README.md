@@ -13,4 +13,4 @@ must be connected to a computer through a null modem connection.
 
 Tags:
 
-    #assorted #linux #cyberpunk
+    #linux #cyberpunk 

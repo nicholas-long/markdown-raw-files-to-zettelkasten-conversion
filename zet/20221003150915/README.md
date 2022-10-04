@@ -10,4 +10,4 @@ find / -user username 2>/dev/null
 
 Tags:
 
-    #assorted #command #hacking #privesc #enumeration
+    #command #hacking #privesc #enumeration 

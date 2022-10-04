@@ -7,4 +7,4 @@
 
 Tags:
 
-    #assorted #kafka #kafkacat
+    #kafka #kafkacat 

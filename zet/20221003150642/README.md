@@ -10,4 +10,4 @@ nmap -v -sC -sV $IP
 
 Tags:
 
-    #assorted #command #hacking #nmap
+    #command #hacking #nmap 

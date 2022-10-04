@@ -10,4 +10,4 @@ psql -h /var/opt/gitlab/postgresql -U gitlab gitlabhq_production
 
 Tags:
 
-    #assorted #command #hacking #database
+    #command #hacking #database 

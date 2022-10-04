@@ -19,4 +19,4 @@ AdjustTokenPrivileges(hToken, FALSE, &tkp, 0, (PTOKEN_PRIVILEGES)NULL, 0);
 
 Tags:
 
-    #assorted #hacking #windows #enable
+    #hacking #windows #enable 

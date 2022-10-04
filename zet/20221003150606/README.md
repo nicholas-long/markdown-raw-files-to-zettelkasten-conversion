@@ -12,4 +12,4 @@ smbclient \\\\$IP\\Data -U John -c 'allinfo "\Users\John\file.txt"'
 
 Tags:
 
-    #assorted #command #hacking #smbclient
+    #command #hacking #smbclient 

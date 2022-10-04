@@ -10,4 +10,4 @@ feroxbuster --url http://$IP/ -w /usr/share/seclists/Discovery/Web-Content/direc
 
 Tags:
 
-    #assorted #command #hacking #feroxbuster
+    #command #hacking #feroxbuster 

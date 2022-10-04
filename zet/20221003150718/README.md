@@ -11,4 +11,4 @@ curl -F myFile=@file.jpg http://$IP/upload.php
 
 Tags:
 
-    #assorted #command #hacking #curl
+    #command #hacking #curl 

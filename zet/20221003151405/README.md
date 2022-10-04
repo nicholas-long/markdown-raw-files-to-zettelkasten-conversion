@@ -16,4 +16,4 @@ cd ~/kb && /home/coyote/.cargo/bin/alacritty -e tmux
 
 Tags:
 
-    #assorted #bash #script
+    #bash #script 

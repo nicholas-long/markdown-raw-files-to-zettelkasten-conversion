@@ -10,4 +10,4 @@ tar -xzvf file.tar.gz
 
 Tags:
 
-    #assorted #command #hacking #extract
+    #command #hacking #extract 

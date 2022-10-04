@@ -11,4 +11,4 @@ cat users.json | jq '.data[].Properties | select ( .enabled == true ) | .name'
 
 Tags:
 
-    #assorted #command #data-engineering-pipelines #jq
+    #command #data-engineering-pipelines #jq 

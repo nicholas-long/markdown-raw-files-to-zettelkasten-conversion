@@ -12,4 +12,4 @@ grant all privileges on dbname.* to 'yourusername'@'%' with grant option;
 
 Tags:
 
-    #assorted #hacking #trick #mysql
+    #hacking #trick #mysql 

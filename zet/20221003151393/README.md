@@ -33,4 +33,4 @@ tail -f /var/log/auth.log | \
 
 Tags:
 
-    #assorted #bash #script
+    #bash #script 

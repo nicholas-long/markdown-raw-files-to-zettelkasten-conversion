@@ -386,4 +386,4 @@ system_default = kali_wide_compatibility
 
 Tags:
 
-    #assorted #hacking #troubleshoot
+    #hacking #troubleshoot 

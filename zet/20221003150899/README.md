@@ -11,4 +11,4 @@ cat /proc/$pid/status | grep CapEff
 
 Tags:
 
-    #assorted #command #hacking #privesc #enumeration
+    #command #hacking #privesc #enumeration 

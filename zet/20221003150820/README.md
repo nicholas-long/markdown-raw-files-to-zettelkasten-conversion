@@ -10,4 +10,4 @@ hydra -L users -P /usr/share/seclists/Passwords/Leaked-Databases/rockyou-50.txt 
 
 Tags:
 
-    #assorted #command #hacking #hydra
+    #command #hacking #hydra 

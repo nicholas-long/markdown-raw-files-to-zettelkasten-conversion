@@ -10,4 +10,4 @@ sudo apt install kafkacat
 
 Tags:
 
-    #assorted #kafka #quick
+    #kafka #quick 

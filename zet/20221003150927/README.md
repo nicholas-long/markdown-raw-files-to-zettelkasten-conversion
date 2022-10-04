@@ -12,4 +12,4 @@ gcc -fPIC -shared -o drop-shell.so drop-shell.c
 
 Tags:
 
-    #assorted #hacking #privesc #c
+    #hacking #privesc #c 

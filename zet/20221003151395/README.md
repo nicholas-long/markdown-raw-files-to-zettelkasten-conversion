@@ -15,4 +15,4 @@ cat $HOME/.git-credentials | awk -F '[/:@]' '/github/ {print $5}'
 
 Tags:
 
-    #assorted #bash #script
+    #bash #script 

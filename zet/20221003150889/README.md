@@ -8,4 +8,4 @@ https://www.exploit-db.com/exploits/50689
 
 Tags:
 
-    #assorted #hacking #privesc #run
+    #hacking #privesc #run 

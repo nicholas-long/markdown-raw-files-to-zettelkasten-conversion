@@ -8,4 +8,4 @@ put table name in quotes
 
 Tags:
 
-    #assorted #data-engineering-pipelines #postgres
+    #data-engineering-pipelines #postgres 

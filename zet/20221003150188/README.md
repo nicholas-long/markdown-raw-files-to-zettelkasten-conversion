@@ -14,4 +14,4 @@ zstyle ':completion:hist-complete:*' completer _history
 
 Tags:
 
-    #assorted #linux #zsh
+    #linux #zsh 

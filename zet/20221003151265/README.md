@@ -14,4 +14,4 @@ sudo dpkg -i bat_0.19.0_amd64.deb
 
 Tags:
 
-    #assorted #fzf-fuzzy-find #help
+    #fzf-fuzzy-find #help 

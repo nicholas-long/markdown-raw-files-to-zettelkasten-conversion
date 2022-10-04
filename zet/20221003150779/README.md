@@ -11,4 +11,4 @@ crowbar -b rdp -n 1 -s $IP/32 -u username -C ./passwords
 
 Tags:
 
-    #assorted #command #hacking #crowbar
+    #command #hacking #crowbar 

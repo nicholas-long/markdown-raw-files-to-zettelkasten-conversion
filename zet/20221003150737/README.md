@@ -15,4 +15,4 @@ feroxbuster --url http://$IP/ -w /usr/share/seclists/Discovery/Web-Content/commo
 
 Tags:
 
-    #assorted #command #hacking #feroxbuster
+    #command #hacking #feroxbuster 

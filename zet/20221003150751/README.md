@@ -10,4 +10,4 @@ kerbrute passwordspray --dc $IP -d DOMAIN.local users password123
 
 Tags:
 
-    #assorted #command #hacking #windows #windows
+    #command #hacking #windows #windows 

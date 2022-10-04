@@ -10,4 +10,4 @@ openssl genrsa -out client.key 4096
 
 Tags:
 
-    #assorted #command #hacking #openssl
+    #command #hacking #openssl 

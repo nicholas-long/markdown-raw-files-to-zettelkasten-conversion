@@ -13,4 +13,4 @@ wfuzz -c -w /usr/share/seclists/Discovery/Web-Content/common.txt --hc 404 http:/
 
 Tags:
 
-    #assorted #command #hacking #wfuzz
+    #command #hacking #wfuzz 

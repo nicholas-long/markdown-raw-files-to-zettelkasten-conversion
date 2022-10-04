@@ -27,4 +27,4 @@ function toggle_rec(str, arr, pos) {
 
 Tags:
 
-    #assorted #awk #script
+    #awk #script 

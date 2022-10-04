@@ -12,4 +12,4 @@ python3 dnstool.py -u 'domain.local\username' -p password123 -a add -r subdomain
 
 Tags:
 
-    #assorted #hacking #windows #windows
+    #hacking #windows #windows 

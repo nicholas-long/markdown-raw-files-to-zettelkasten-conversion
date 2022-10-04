@@ -11,4 +11,4 @@ var_dump(file_get_contents("/etc/passwd"));
 
 Tags:
 
-    #assorted #command #hacking #php
+    #command #hacking #php 

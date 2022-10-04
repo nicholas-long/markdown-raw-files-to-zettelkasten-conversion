@@ -11,4 +11,4 @@ allBadChars = bytes( [r for r in range(256) if r not in knownBadChars])
 
 Tags:
 
-    #assorted #hacking #pwn #basic
+    #hacking #pwn #basic 

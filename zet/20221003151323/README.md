@@ -11,4 +11,4 @@ join -1 1 -2 3 <(sort data/completed_scanned_urls) <(sort -k 3 master-url-list.t
 
 Tags:
 
-    #assorted #bash-scripting #text
+    #bash-scripting #text 

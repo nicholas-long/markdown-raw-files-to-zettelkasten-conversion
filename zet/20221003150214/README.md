@@ -14,4 +14,4 @@ alias kcat="docker run --network host --rm -i edenhill/kcat:1.7.0 -b kafka:9092"
 
 Tags:
 
-    #assorted #kafka #quick
+    #kafka #quick 

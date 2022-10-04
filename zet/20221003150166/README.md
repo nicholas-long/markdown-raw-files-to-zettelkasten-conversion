@@ -10,4 +10,4 @@ dd if=/proc/$1/mem bs=$( getconf PAGESIZE ) iflag=skip_bytes,count_bytes skip=$(
 
 Tags:
 
-    #assorted #linux #dump
+    #linux #dump 

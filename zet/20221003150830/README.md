@@ -10,4 +10,4 @@ postgres client is `psql`
 
 Tags:
 
-    #assorted #command #hacking #database
+    #command #hacking #database 

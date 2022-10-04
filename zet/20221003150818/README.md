@@ -10,4 +10,4 @@ msfconsole -r script.rc
 
 Tags:
 
-    #assorted #command #hacking #metasploit
+    #command #hacking #metasploit 

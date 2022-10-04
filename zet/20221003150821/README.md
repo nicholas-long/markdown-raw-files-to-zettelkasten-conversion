@@ -10,4 +10,4 @@ hydra -C /usr/share/seclists/Passwords/Default-Credentials/ftp-betterdefaultpass
 
 Tags:
 
-    #assorted #command #hacking #hydra
+    #command #hacking #hydra 

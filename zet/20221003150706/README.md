@@ -10,4 +10,4 @@ use an asterisk symbol to mark an injection point in a URL
 
 Tags:
 
-    #assorted #command #hacking #sqlmap
+    #command #hacking #sqlmap 

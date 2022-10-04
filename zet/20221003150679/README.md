@@ -10,4 +10,4 @@ atftpd --daemon --port 69 /var/tftp
 
 Tags:
 
-    #assorted #command #hacking #tftp
+    #command #hacking #tftp 

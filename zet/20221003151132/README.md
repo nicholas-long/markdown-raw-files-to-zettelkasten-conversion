@@ -18,4 +18,4 @@ python gMSADumper.py -k -d domain.local -l dc01.domain.local
 
 Tags:
 
-    #assorted #hacking #windows #windows
+    #hacking #windows #windows 

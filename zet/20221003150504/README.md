@@ -10,4 +10,4 @@ address = int(addr_hex,16)
 
 Tags:
 
-    #assorted #hacking #trick #pwn #python
+    #hacking #trick #pwn #python 

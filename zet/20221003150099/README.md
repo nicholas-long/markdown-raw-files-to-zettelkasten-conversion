@@ -12,4 +12,4 @@ url = f"http://{ip}/api/example"
 
 Tags:
 
-    #assorted #python #coding
+    #python #coding 

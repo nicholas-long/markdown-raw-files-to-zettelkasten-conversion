@@ -10,4 +10,4 @@ c0:$1$coyote0x$S9Aruc4H1kvDizg..ij81.:0:0:root:/root:/bin/bash
 
 Tags:
 
-    #assorted #hacking #privesc #etc
+    #hacking #privesc #etc 

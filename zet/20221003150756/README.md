@@ -10,4 +10,4 @@ cat payload.bin | msfvenom -p - -f exe -a x64 --platform win -o output.exe
 
 Tags:
 
-    #assorted #command #hacking #msfvenom
+    #command #hacking #msfvenom 

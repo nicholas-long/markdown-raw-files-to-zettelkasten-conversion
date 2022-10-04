@@ -20,4 +20,4 @@ sudo apt-get install sublime-text
 
 Tags:
 
-    #assorted #bash #script
+    #bash #script 

@@ -11,4 +11,4 @@ get "\Users\John\file.txt:SECRET:$DATA"
 
 Tags:
 
-    #assorted #command #hacking #smbclient
+    #command #hacking #smbclient 

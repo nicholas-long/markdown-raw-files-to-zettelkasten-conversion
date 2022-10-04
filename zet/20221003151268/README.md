@@ -6,4 +6,4 @@ https://command-not-found.com/pkexec
 
 Tags:
 
-    #assorted
+    

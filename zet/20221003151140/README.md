@@ -10,4 +10,4 @@ most domains will prefer kerberos, but will allow NTLMv2 as a backup.
 
 Tags:
 
-    #assorted #hacking #windows #windows
+    #hacking #windows #windows 

@@ -10,4 +10,4 @@ openssl pkcs12 -info -in $FILE | openssl x509 -noout -fingerprint
 
 Tags:
 
-    #assorted #command #hacking #openssl
+    #command #hacking #openssl 

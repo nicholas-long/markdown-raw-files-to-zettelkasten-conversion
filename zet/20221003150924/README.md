@@ -10,4 +10,4 @@ openssl passwd -1 -salt coyote0x90
 
 Tags:
 
-    #assorted #hacking #privesc #etc
+    #hacking #privesc #etc 

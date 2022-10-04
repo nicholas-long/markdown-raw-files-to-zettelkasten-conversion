@@ -13,4 +13,4 @@ npx asar extract app.asar extracted
 
 Tags:
 
-    #assorted #command #hacking #extract
+    #command #hacking #extract 

@@ -13,4 +13,4 @@ string.punctuation
 
 Tags:
 
-    #assorted #hacking #python
+    #hacking #python 

@@ -11,4 +11,4 @@ locate 2john | sed -e 's/.*\///g' -e 's/\..*//g'
 
 Tags:
 
-    #assorted #command #hacking #john
+    #command #hacking #john 

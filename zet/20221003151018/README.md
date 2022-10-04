@@ -14,4 +14,4 @@ python3 ds_store_parser.py -i ../.DS_Store
 
 Tags:
 
-    #assorted #hacking #ds
+    #hacking #ds 

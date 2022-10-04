@@ -8,4 +8,4 @@ To fix NT_STATUS_CONNECTION_DISCONNECTED errors in new Kali installations add cl
 
 Tags:
 
-    #assorted #hacking #assorted
+    #hacking #assorted 
