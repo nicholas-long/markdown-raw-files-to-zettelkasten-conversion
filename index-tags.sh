@@ -11,7 +11,7 @@ for t in $(cat all_tags); do
     awk -F / '
     {
       gsub(/\[\]/,"[" $3 "]")
-      print
+      print "-", $0
     }
     '
   echo ""
