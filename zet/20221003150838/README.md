@@ -6,5 +6,7 @@ nmap --script smb-vuln* $IP
 
 # Related
 
+
 Tags:
+
     #assorted

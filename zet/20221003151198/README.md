@@ -39,8 +39,10 @@
 - old -> [old SMB exploits](SMB.md#old-smb-exploits)
 
 # Related
+
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
 - ~/kb/hacking/to-try-lists/SMB.md
 
 Tags:
+
     #assorted #to-try-list #hacking #SMB

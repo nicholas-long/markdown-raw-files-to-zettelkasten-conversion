@@ -5,8 +5,10 @@ r = requests.get(url, cookies=cookies)
 ```
 
 # Related
+
 - [20221003150104](/zet/20221003150104/README.md) python scripting requests http
 - ~/kb/python/coding-reference.md
 
 Tags:
+
     #assorted #python #coding

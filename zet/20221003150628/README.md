@@ -6,8 +6,10 @@ nmap -n -sV --script "ldap* and not brute" $IP
 nmap -n -sV --script "ldap* and not brute" --script-args 'ldap.maxobjects=-1' $IP | tee nmap-ldap.log
 ```
 # Related
+
 - [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous
 - ~/kb/hacking/commands/ldap.md
 
 Tags:
+
     #assorted #command #hacking #ldap

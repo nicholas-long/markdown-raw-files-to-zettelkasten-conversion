@@ -4,8 +4,10 @@
 - brackets -> arrays
 
 # Related
+
 - [20221003150575](/zet/20221003150575/README.md) php type juggling methodology
 - ~/kb/hacking/php/type-juggling.md
 
 Tags:
+
     #assorted #hacking #type

@@ -1,9 +1,11 @@
 # simple binary exploits payload generation
 
 # Related
+
 - [20221003150548](/zet/20221003150548/README.md) simple binary exploits
 - [20221003150538](/zet/20221003150538/README.md) simple binary exploits payload generation changing architecture
 - ~/kb/hacking/pwn/basic-win-pwn.md
 
 Tags:
+
     #assorted #hacking #pwn #basic

@@ -1,8 +1,10 @@
 # enterprise PAM
 
 # Related
+
 - [20221003150246](/zet/20221003150246/README.md) enterprise PAM Thycotic
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
 
 Tags:
+
     #assorted #hacking #buzzwords #buzzwords

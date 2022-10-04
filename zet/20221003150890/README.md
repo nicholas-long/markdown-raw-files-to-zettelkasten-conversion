@@ -1,6 +1,7 @@
 # Test CVE-2021-4034 in a docker
 
 # Related
+
 - [20221003150889](/zet/20221003150889/README.md) Test CVE-2021-4034 in a docker Original exploit
 - [20221003150888](/zet/20221003150888/README.md) Test CVE-2021-4034 in a docker Links to deb files
 - [20221003150887](/zet/20221003150887/README.md) Test CVE-2021-4034 in a docker Setup
@@ -9,4 +10,5 @@
 - ~/kb/hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md
 
 Tags:
+
     #assorted #hacking #privesc #run

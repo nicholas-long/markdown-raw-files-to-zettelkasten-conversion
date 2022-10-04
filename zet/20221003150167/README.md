@@ -4,8 +4,10 @@ cp /proc/$1/exe /tmp/exe
 ```
 
 # Related
+
 - [20221003150168](/zet/20221003150168/README.md) dump process memory
 - ~/kb/linux/dump-process-memory.md
 
 Tags:
+
     #assorted #linux #dump

@@ -20,8 +20,10 @@ END {
 
 ~/kb/awk-scripting/line-lengths.awk
 # Related
+
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - ~/kb/auto-awk.md
 
 Tags:
+
     #assorted #awk #script

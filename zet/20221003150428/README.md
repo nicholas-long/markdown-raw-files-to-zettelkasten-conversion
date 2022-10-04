@@ -8,8 +8,10 @@ italy, luxembourg, netherlands, newzealand, norway, poland, serbia, slovenia, sp
 Other: Facebook - uses the Facebook top 10,000 names - don't run this with all formats
 
 # Related
+
 - [20221003150430](/zet/20221003150430/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale output all formats
 - ~/kb/hacking/misc/important-repositories-tools.md
 
 Tags:
+
     #assorted #hacking #repositories #important

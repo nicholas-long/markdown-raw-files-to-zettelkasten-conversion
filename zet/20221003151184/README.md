@@ -22,8 +22,10 @@
     - clickjacking (if no X frame options set )
 
 # Related
+
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
 
 Tags:
+
     #assorted #to-try-list #hacking #HTTP

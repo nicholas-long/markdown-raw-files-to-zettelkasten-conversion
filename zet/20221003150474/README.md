@@ -9,8 +9,10 @@ change ComputerHostname.
 `-ConfigurationName ...` parameter might be required to run commands for special restricted user permissions
 
 # Related
+
 - [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
 - ~/kb/hacking/powershell/powershell-tricks.md
 
 Tags:
+
     #assorted #hacking #trick #powershell

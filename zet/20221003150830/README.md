@@ -2,10 +2,12 @@
 postgres client is `psql`
 
 # Related
+
 - [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list
 - [20221003150826](/zet/20221003150826/README.md) postgres sql enumeration exit
 - [20221003150825](/zet/20221003150825/README.md) postgres sql enumeration connect to database
 - ~/kb/hacking/commands/database-enum-commands.md
 
 Tags:
+
     #assorted #command #hacking #database

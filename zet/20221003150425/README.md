@@ -2,9 +2,11 @@
 https://github.com/GhostPack/Rubeus
 
 # Related
+
 - [20221003150424](/zet/20221003150424/README.md) kerberos attack on windows host ticket attacks
 - [20221003150421](/zet/20221003150421/README.md) kerberos attack on windows host Constrained delegation abuse
 - ~/kb/hacking/misc/important-repositories-tools.md
 
 Tags:
+
     #assorted #hacking #repositories #important

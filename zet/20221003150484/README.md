@@ -7,9 +7,11 @@ Install-Module DSInternals -Force
 if powershell gallery is not available on CTF boxes
 
 # Related
+
 - [20221003150485](/zet/20221003150485/README.md) active directory get GMSA service account properties get GMSA password and run commands
 - [20221003150483](/zet/20221003150483/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip
 - ~/kb/hacking/powershell/powershell-enumeration-commands.md
 
 Tags:
+
     #assorted #command #hacking #powershell

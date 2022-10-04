@@ -2,8 +2,10 @@
 https://github.com/itm4n/FullPowers
 
 # Related
+
 - [20221003151080](/zet/20221003151080/README.md) service account privileges restore
 - ~/kb/hacking/windows/service-account-privileges.md
 
 Tags:
+
     #assorted #hacking #windows #service

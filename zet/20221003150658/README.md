@@ -7,8 +7,10 @@ wfuzz -c -w /usr/share/seclists/Discovery/Web-Content/common.txt --hc 404 http:/
 ```
 
 # Related
+
 - [20221003150659](/zet/20221003150659/README.md) wfuzz
 - ~/kb/hacking/commands/wfuzz-commands.md
 
 Tags:
+
     #assorted #command #hacking #wfuzz

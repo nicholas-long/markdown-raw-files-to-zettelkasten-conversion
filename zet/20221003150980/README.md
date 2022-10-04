@@ -6,8 +6,10 @@ at the end of the query
 `INTO DUMPFILE '/var/www/html/test.php'`
 
 # Related
+
 - [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
 - ~/kb/hacking/methodology/sqli-manual-mysql-payloads.md
 
 Tags:
+
     #assorted #hacking #sqli

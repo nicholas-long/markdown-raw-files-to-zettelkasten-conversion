@@ -67,8 +67,10 @@ text
 .
 ```
 # Related
+
 - [20221003150176](/zet/20221003150176/README.md) ex commands
 - ~/kb/linux/ex-notes.md
 
 Tags:
+
     #assorted #linux #ex

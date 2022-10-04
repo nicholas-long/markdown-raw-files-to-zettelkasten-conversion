@@ -31,8 +31,10 @@ find home | grep py # it's all here!
 ```
 
 # Related
+
 - [20221003151250](/zet/20221003151250/README.md) sending installs to target
 - ~/kb/hacking/tricks/install-pip-modules-on-target-as-files.md
 
 Tags:
+
     #assorted #hacking #trick #install

@@ -29,8 +29,10 @@ echo ts.Close >> wget.vbs
 ```
 
 # Related
+
 - [20221003151230](/zet/20221003151230/README.md) VBScript
 - ~/kb/hacking/tricks/vbscript-wget-hack.md
 
 Tags:
+
     #assorted #hacking #trick #vbscript

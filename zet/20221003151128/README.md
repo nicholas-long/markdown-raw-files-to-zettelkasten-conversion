@@ -6,8 +6,10 @@ python3 dnstool.py -u 'domain.local\username' -p password123 -a add -r subdomain
 ```
 
 # Related
+
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 
 Tags:
+
     #assorted #hacking #windows #windows

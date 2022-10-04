@@ -4,8 +4,10 @@ touch -d "$(date -r $SRC_FILE)" $FILE
 ```
 
 # Related
+
 - [20221003150306](/zet/20221003150306/README.md) modify date with touch timestomping
 - ~/kb/hacking/misc/assorted-information.md
 
 Tags:
+
     #assorted #hacking #assorted

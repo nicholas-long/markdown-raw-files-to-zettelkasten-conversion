@@ -5,8 +5,10 @@ type could be SOCKS4,SOCKS5 or HTTP if omitted.
 ```
 
 # Related
+
 - [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
 - ~/kb/hacking/commands/wfuzz-fuzzing.md
 
 Tags:
+
     #assorted #command #hacking #wfuzz

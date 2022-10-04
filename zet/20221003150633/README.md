@@ -4,8 +4,10 @@ smbmap -H $IP -u guest -p ''
 ```
 
 # Related
+
 - [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration
 - ~/kb/hacking/commands/smbmap.md
 
 Tags:
+
     #assorted #command #hacking #smbmap

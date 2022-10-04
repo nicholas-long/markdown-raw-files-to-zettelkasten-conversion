@@ -4,8 +4,10 @@ from pwn import *
 ```
 
 # Related
+
 - [20221003150543](/zet/20221003150543/README.md) simple binary exploits python exploit scripts
 - ~/kb/hacking/pwn/basic-win-pwn.md
 
 Tags:
+
     #assorted #hacking #pwn #basic

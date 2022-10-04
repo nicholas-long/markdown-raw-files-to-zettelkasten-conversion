@@ -4,8 +4,10 @@ hydra -C /usr/share/seclists/Passwords/Default-Credentials/ftp-betterdefaultpass
 ```
 
 # Related
+
 - [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
 - ~/kb/hacking/commands/hydra-ftp-command.md
 
 Tags:
+
     #assorted #command #hacking #hydra

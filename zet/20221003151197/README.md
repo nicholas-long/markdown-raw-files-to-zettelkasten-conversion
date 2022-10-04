@@ -8,8 +8,10 @@
   - ms08-067-netapi - but use DOS reverse shell instead of meterpreter
 
 # Related
+
 - [20221003151198](/zet/20221003151198/README.md) SMB
 - ~/kb/hacking/to-try-lists/SMB.md
 
 Tags:
+
     #assorted #to-try-list #hacking #SMB

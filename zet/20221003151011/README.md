@@ -3,8 +3,10 @@
 fuzz with known extensions
 
 # Related
+
 - [20221003151012](/zet/20221003151012/README.md) LFI or directory traversal procedures read scripts from web server process cwd
 - ~/kb/hacking/methodology/LFI-procedure.md
 
 Tags:
+
     #assorted #hacking #LFI

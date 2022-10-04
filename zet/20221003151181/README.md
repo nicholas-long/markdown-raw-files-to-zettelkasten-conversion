@@ -8,8 +8,10 @@
 - wordpress -> edit plugins or themes to install web shell
 
 # Related
+
 - [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login
 - ~/kb/hacking/to-try-lists/HTTP.md
 
 Tags:
+
     #assorted #to-try-list #hacking #HTTP

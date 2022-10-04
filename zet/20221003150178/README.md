@@ -3,8 +3,10 @@ https://github.com/alacritty/alacritty
 https://github.com/alacritty/alacritty/blob/master/alacritty.yml
 
 # Related
+
 - [20221003150179](/zet/20221003150179/README.md) install alacritty  config file
 - ~/kb/linux/install-alacritty.md
 
 Tags:
+
     #assorted #linux #install

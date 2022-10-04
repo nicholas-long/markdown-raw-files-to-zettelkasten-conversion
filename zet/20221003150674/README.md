@@ -4,8 +4,10 @@ not detectable as malicious, only queries DC machine.
 ordinary bloodhound collection methods query all machines.
 
 # Related
+
 - [20221003150677](/zet/20221003150677/README.md) bloodhound
 - ~/kb/hacking/commands/bloodhound.md
 
 Tags:
+
     #assorted #command #hacking #bloodhound

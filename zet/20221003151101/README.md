@@ -1,10 +1,12 @@
 # powershell commands
 
 # Related
+
 - [20221003151100](/zet/20221003151100/README.md) powershell commands download and execute script
 - [20221003151099](/zet/20221003151099/README.md) powershell commands encoded command nop bypass hidden
 - [20221003151098](/zet/20221003151098/README.md) powershell commands execute encoded command as quietly as possible
 - ~/kb/hacking/windows/windows-reverse-shell.md
 
 Tags:
+
     #assorted #hacking #windows #windows

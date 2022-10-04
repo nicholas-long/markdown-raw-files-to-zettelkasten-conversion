@@ -15,8 +15,10 @@ curl http://archive.ubuntu.com/ubuntu/dists/ 2>/dev/null | \
 
 ~/kb/bash-scripting/get-current-ubuntu-distro.sh
 # Related
+
 - [20221003151424](/zet/20221003151424/README.md) bash scripting
 - ~/kb/auto-bash.md
 
 Tags:
+
     #assorted #bash #script

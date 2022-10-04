@@ -4,8 +4,10 @@
 - Arguments 7 and above are pushed on to the stack.
 
 # Related
+
 - [20221003150522](/zet/20221003150522/README.md) calling conventions
 - ~/kb/hacking/pwn/calling-conventions.md
 
 Tags:
+
     #assorted #hacking #pwn #calling

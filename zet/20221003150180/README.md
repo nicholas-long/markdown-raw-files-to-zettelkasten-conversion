@@ -5,8 +5,10 @@ cargo install alacritty
 ```
 
 # Related
+
 - [20221003150182](/zet/20221003150182/README.md) install alacritty 
 - ~/kb/linux/install-alacritty.md
 
 Tags:
+
     #assorted #linux #install

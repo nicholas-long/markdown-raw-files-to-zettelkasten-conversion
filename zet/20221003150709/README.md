@@ -1,6 +1,7 @@
 # sqlmap
 
 # Related
+
 - [20221003150708](/zet/20221003150708/README.md) sqlmap result output data file location
 - [20221003150707](/zet/20221003150707/README.md) sqlmap level and risk options
 - [20221003150706](/zet/20221003150706/README.md) sqlmap custom injection marker
@@ -13,4 +14,5 @@
 - ~/kb/hacking/commands/sqlmap-commands.md
 
 Tags:
+
     #assorted #command #hacking #sqlmap

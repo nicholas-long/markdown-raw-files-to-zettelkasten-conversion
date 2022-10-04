@@ -10,8 +10,10 @@ sudo apt install -y alien
 alien --to-deb file.rpm
 ```
 # Related
+
 - [20221003150193](/zet/20221003150193/README.md) convert
 - ~/kb/linux/package-manager-commands.md
 
 Tags:
+
     #assorted #command #linux #package

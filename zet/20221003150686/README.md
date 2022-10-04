@@ -5,8 +5,10 @@ wpscan --url $URL -U users -P /usr/share/wordlists/rockyou.txt
 ```
 
 # Related
+
 - [20221003150694](/zet/20221003150694/README.md) wpscan
 - ~/kb/hacking/commands/wpscan-command.md
 
 Tags:
+
     #assorted #command #hacking #wpscan

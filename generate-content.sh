@@ -18,9 +18,11 @@ NR > 1 && /^#+ / && !block {
 END { if (!printedblank) print "" }
 '
 echo "# Related"
+echo ""
 if [ -f zet/$id/refs ]; then
   ( cat zet/$id/refs && cat zet/$id/rawfilename | awk '{ print "~/kb/" $0}') | awk 'length() > 0 { print "-", $0 }'
 fi
 echo ""
 echo "Tags:"
+echo ""
 echo "    #assorted"

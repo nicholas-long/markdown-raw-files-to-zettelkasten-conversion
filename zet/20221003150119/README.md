@@ -10,8 +10,10 @@ iptables -t nat -A POSTROUTING -s 192.168.1.0/24 -o tun0 -j MASQUERADE
 ```
 
 # Related
+
 - [20221003150120](/zet/20221003150120/README.md) routing using a linux box iptables rules
 - ~/kb/linux/routing.md
 
 Tags:
+
     #assorted #linux #routing

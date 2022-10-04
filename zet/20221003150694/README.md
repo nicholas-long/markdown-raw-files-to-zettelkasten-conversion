@@ -1,9 +1,11 @@
 # wpscan
 
 # Related
+
 - [20221003150693](/zet/20221003150693/README.md) wpscan initial
 - [20221003150686](/zet/20221003150686/README.md) wpscan brute force users file and password list
 - ~/kb/hacking/commands/wpscan-command.md
 
 Tags:
+
     #assorted #command #hacking #wpscan

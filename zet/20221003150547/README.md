@@ -6,9 +6,11 @@ nasm > jmp esp
 ```
 
 # Related
+
 - [20221003150548](/zet/20221003150548/README.md) simple binary exploits
 - [20221003150546](/zet/20221003150546/README.md) simple binary exploits jmp esp instruction FF E4 find with ROPgadget
 - ~/kb/hacking/pwn/basic-win-pwn.md
 
 Tags:
+
     #assorted #hacking #pwn #basic

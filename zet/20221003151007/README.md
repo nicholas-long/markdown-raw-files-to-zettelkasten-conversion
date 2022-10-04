@@ -3,8 +3,10 @@
 /usr/share/seclists/Fuzzing/LFI/LFI-gracefulsecurity-linux.txt
 
 # Related
+
 - [20221003151008](/zet/20221003151008/README.md) LFI or directory traversal procedures file wordlists
 - ~/kb/hacking/methodology/LFI-procedure.md
 
 Tags:
+
     #assorted #hacking #LFI

@@ -2,8 +2,10 @@
 build C assemblies as DLLs and run in memory on C2 client.
 
 # Related
+
 - [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows cobalt strike
 - ~/kb/hacking/tricks/run-programs-in-memory.md
 
 Tags:
+
     #assorted #hacking #trick #run

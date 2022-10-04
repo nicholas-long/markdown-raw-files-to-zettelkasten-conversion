@@ -2,8 +2,10 @@
 - ISO file https://github.com/mgeeky/PackMyPayload
 
 # Related
+
 - [20221003150245](/zet/20221003150245/README.md) MOTW mark of the web microsoft alternate data stream file label ZoneId
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
 
 Tags:
+
     #assorted #hacking #buzzwords #buzzwords

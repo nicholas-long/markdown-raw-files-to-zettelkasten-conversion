@@ -9,9 +9,11 @@
   - bash prompt still has some weird escape characters
 
 # Related
+
 - [20221003150150](/zet/20221003150150/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal
 - [20221003150146](/zet/20221003150146/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks char mappings
 - ~/kb/linux/cyberpunk-retro-machine-serial-terminals.md
 
 Tags:
+
     #assorted #linux #cyberpunk

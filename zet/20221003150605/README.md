@@ -5,8 +5,10 @@ smbclient \\\\$IP\\Data -U John
 get "\Users\John\file.txt:SECRET:$DATA"
 ```
 # Related
+
 - [20221003150611](/zet/20221003150611/README.md) smbclient
 - ~/kb/hacking/commands/smbclient-commands.md
 
 Tags:
+
     #assorted #command #hacking #smbclient

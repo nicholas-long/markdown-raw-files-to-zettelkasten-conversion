@@ -1,6 +1,7 @@
 # dos commands services sc
 
 # Related
+
 - [20221003151124](/zet/20221003151124/README.md) dos commands
 - [20221003151114](/zet/20221003151114/README.md) dos commands services sc enable service
 - [20221003151113](/zet/20221003151113/README.md) dos commands services sc set binary path
@@ -8,4 +9,5 @@
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 
 Tags:
+
     #assorted #hacking #windows #dos

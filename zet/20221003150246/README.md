@@ -2,8 +2,10 @@
 password manager
 
 # Related
+
 - [20221003150247](/zet/20221003150247/README.md) enterprise PAM
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
 
 Tags:
+
     #assorted #hacking #buzzwords #buzzwords

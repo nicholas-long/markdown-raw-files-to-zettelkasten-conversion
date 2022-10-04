@@ -1,6 +1,7 @@
 # MSFVENOM
 
 # Related
+
 - [20221003150776](/zet/20221003150776/README.md) MSFVENOM Windows Binary (.exe) executable
 - [20221003150766](/zet/20221003150766/README.md) MSFVENOM Linux Binary (.elf)
 - [20221003150760](/zet/20221003150760/README.md) MSFVENOM Java Server Pages (.jsp)
@@ -9,4 +10,5 @@
 - ~/kb/hacking/commands/msfvenom-commands.md
 
 Tags:
+
     #assorted #command #hacking #msfvenom

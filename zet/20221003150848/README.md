@@ -4,8 +4,10 @@ hydra $IP http-get -L users  -P /usr/share/seclists/Passwords/Leaked-Databases/r
 ```
 
 # Related
+
 - [20221003150849](/zet/20221003150849/README.md) hydra brute force HTTP basic authentication
 - ~/kb/hacking/commands/hydra-http-auth.md
 
 Tags:
+
     #assorted #command #hacking #hydra

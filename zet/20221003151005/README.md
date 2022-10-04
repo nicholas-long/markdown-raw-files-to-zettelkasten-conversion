@@ -35,8 +35,10 @@ tips from InsiderPhD
     - append any domain specific knowledge to wordlists
 
 # Related
+
 - [20221003151006](/zet/20221003151006/README.md) API enumeration
 - ~/kb/hacking/methodology/API-enumeration.md
 
 Tags:
+
     #assorted #hacking #API

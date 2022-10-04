@@ -1,10 +1,12 @@
 # socat
 
 # Related
+
 - [20221003150114](/zet/20221003150114/README.md) socat port forwarding with socat
 - [20221003150113](/zet/20221003150113/README.md) socat execute program
 - [20221003150111](/zet/20221003150111/README.md) socat listen fork print to stdout
 - ~/kb/networking/port-forwarding.md
 
 Tags:
+
     #assorted #networking #port

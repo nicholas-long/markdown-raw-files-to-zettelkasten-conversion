@@ -4,8 +4,10 @@ wfuzz -c -H "Host: FUZZ.$DOMAIN" -w /usr/share/seclists/Discovery/DNS/subdomains
 ```
 
 # Related
+
 - [20221003150659](/zet/20221003150659/README.md) wfuzz
 - ~/kb/hacking/commands/wfuzz-commands.md
 
 Tags:
+
     #assorted #command #hacking #wfuzz

@@ -5,5 +5,7 @@ nikto -host $IP
 
 # Related
 
+
 Tags:
+
     #assorted

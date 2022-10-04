@@ -1,6 +1,7 @@
 # python scripting
 
 # Related
+
 - [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script
 - [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally
 - [20221003151360](/zet/20221003151360/README.md) python scripting connect to remote server
@@ -16,4 +17,5 @@
 - ~/kb/auto-python.md
 
 Tags:
+
     #assorted #python #script

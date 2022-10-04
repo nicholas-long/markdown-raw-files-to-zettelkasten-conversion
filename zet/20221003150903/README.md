@@ -7,8 +7,10 @@ find /etc/ -type f -printf "%T+ %p\n" 2>/dev/null | grep -v 0000000000 | sort
 ```
 
 # Related
+
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md
 
 Tags:
+
     #assorted #command #hacking #privesc #enumeration

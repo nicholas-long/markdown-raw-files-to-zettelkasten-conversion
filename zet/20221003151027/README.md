@@ -35,8 +35,10 @@ $key2.DecryptBase64ToString($crypted, [ref]$decrypted)
 echo $decrypted
 ```
 # Related
+
 - [20221003151028](/zet/20221003151028/README.md) decrypt azure AD connect passwords
 - ~/kb/hacking/windows/decrypt-azure-ad-connect.md
 
 Tags:
+
     #assorted #hacking #windows #decrypt

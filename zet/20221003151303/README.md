@@ -10,8 +10,10 @@ comm -23 <(sort signups.txt) <(sort purchases.txt)
 ```
 
 # Related
+
 - [20221003151305](/zet/20221003151305/README.md) bash scripting set operations comm
 - ~/kb/bash-scripting/find-common-lines-set-operations.md
 
 Tags:
+
     #assorted #bash-scripting #find

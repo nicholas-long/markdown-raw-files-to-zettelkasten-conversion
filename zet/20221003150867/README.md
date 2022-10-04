@@ -5,8 +5,10 @@ locate 2john | sed -e 's/.*\///g' -e 's/\..*//g'
 ```
 
 # Related
+
 - [20221003150868](/zet/20221003150868/README.md) john the ripper find all file formats supported with a 2john script or tojohn
 - ~/kb/hacking/commands/john-the-ripper-crack-with-wordlist.md
 
 Tags:
+
     #assorted #command #hacking #john

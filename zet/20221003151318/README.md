@@ -1,8 +1,10 @@
 # bash parse xml cli
 
 # Related
+
 - [20221003151317](/zet/20221003151317/README.md) bash parse xml cli with xpath using xpup
 - ~/kb/bash-scripting/xml-parsing.md
 
 Tags:
+
     #assorted #bash-scripting #xml

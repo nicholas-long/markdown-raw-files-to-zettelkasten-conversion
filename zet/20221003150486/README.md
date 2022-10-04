@@ -4,9 +4,11 @@ Get-AdServiceAccount AccountUsername -properties *
 ```
 
 # Related
+
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - [20221003150485](/zet/20221003150485/README.md) active directory get GMSA service account properties get GMSA password and run commands
 - ~/kb/hacking/powershell/powershell-enumeration-commands.md
 
 Tags:
+
     #assorted #command #hacking #powershell

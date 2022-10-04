@@ -19,8 +19,10 @@
   - fuzz all parameters as get and post with get and post http methods
 
 # Related
+
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
 
 Tags:
+
     #assorted #to-try-list #hacking #HTTP

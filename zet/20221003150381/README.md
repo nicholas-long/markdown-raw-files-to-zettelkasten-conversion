@@ -3,8 +3,10 @@ windows tool that runs AV tools to determine which bytes of a binary are detecte
 https://github.com/rasta-mouse/ThreatCheck
 
 # Related
+
 - [20221003150382](/zet/20221003150382/README.md) threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender)
 - ~/kb/hacking/misc/important-repositories-tools.md
 
 Tags:
+
     #assorted #hacking #repositories #important

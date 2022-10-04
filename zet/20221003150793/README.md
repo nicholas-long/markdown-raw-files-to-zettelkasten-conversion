@@ -8,8 +8,10 @@ cewl http://localhost:8000/ -w cewl_wordlist
 ```
 
 # Related
+
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file
 - ~/kb/hacking/commands/generate-cewl-wordlist.md
 
 Tags:
+
     #assorted #command #hacking #generate

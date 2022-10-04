@@ -16,8 +16,10 @@ chown -R ftpuser:ftpgroup /ftphome/
 ./setupftp.sh
 
 # Related
+
 - [20221003150623](/zet/20221003150623/README.md) PureFTP
 - ~/kb/hacking/commands/pureftp-commands.md
 
 Tags:
+
     #assorted #command #hacking #pureftp

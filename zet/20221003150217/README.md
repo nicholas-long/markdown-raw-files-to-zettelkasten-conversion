@@ -22,8 +22,10 @@ services:
 ```
 
 # Related
+
 - [20221003150216](/zet/20221003150216/README.md) Initialize topics in dockers Full example
 - ~/kb/kafka/initialize-topics.md
 
 Tags:
+
     #assorted #kafka #initialize

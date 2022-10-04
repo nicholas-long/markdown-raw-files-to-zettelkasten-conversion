@@ -304,5 +304,7 @@ AC - System has transitioned into ACPI mode. Interrupt controller is in APIC mod
 AA - System has transitioned into ACPI mode. Interrupt controller is in APIC mode
 # Related
 
+
 Tags:
+
     #assorted

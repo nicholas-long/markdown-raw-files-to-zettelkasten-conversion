@@ -4,8 +4,10 @@
 ```
 
 # Related
+
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks
 - ~/kb/hacking/powershell/powershell-tricks.md
 
 Tags:
+
     #assorted #hacking #trick #powershell

@@ -2,8 +2,10 @@
 %00
 
 # Related
+
 - [20221003150582](/zet/20221003150582/README.md) php LFI
 - ~/kb/hacking/php/lfi.md
 
 Tags:
+
     #assorted #hacking #lfi

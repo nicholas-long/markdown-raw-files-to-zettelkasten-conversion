@@ -1,6 +1,7 @@
 # powershell tricks run powershell commands as another user
 
 # Related
+
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks
 - [20221003150474](/zet/20221003150474/README.md) powershell tricks run powershell commands as another user with SecureString credential
 - [20221003150473](/zet/20221003150473/README.md) powershell tricks run powershell commands as another user with RunasCs
@@ -8,4 +9,5 @@
 - ~/kb/hacking/powershell/powershell-tricks.md
 
 Tags:
+
     #assorted #hacking #trick #powershell

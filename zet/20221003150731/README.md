@@ -14,8 +14,10 @@ Dynamic collection settings:
             File extension(s) to Ignore while collecting extensions (only used with --collect-extensions)
 ```
 # Related
+
 - [20221003150735](/zet/20221003150735/README.md) feroxbuster files, backups, and extensions
 - ~/kb/hacking/commands/feroxbuster-command.md
 
 Tags:
+
     #assorted #command #hacking #feroxbuster

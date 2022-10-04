@@ -6,8 +6,10 @@ git checkout $COMMIT_HASH -- .
 ```
 
 # Related
+
 - [20221003150798](/zet/20221003150798/README.md) git
 - ~/kb/hacking/commands/git.md
 
 Tags:
+
     #assorted #command #hacking #git

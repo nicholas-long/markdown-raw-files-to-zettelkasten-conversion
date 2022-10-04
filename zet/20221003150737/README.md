@@ -9,8 +9,10 @@ feroxbuster --url http://$IP/ -w /usr/share/seclists/Discovery/Web-Content/commo
 ```
 
 # Related
+
 - [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting
 - ~/kb/hacking/commands/feroxbuster-command.md
 
 Tags:
+
     #assorted #command #hacking #feroxbuster
