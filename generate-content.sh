@@ -5,7 +5,7 @@ cat zet/$id/rawheading | sed -e 's/##\+ //g' -e 's/^ \+//g' | awk '
 /^#/ { print; next }
 { print "#", $0 }
 '
-cat zet/$id/raw.md | awk '
+cat zet/$id/raw_source | awk '
 BEGIN { block = 0 }
 /^$/ { printedblank = 1 }
 /`{3}/ { block = !block }

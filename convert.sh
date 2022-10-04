@@ -17,7 +17,7 @@ BEGIN {
   destdir = "zet/" id
   system("mkdir -p " destdir)
 
-  destfile = destdir "/raw.md"
+  destfile = destdir "/raw_source"
   command = "awk -v line=" line" -f " script " \047" kbdir "/" file "\047 > " destfile
   printf "%s\r", file
   system(command)
