@@ -25,4 +25,4 @@ fi
 echo ""
 echo "Tags:"
 echo ""
-echo "    #assorted"
+echo "    "

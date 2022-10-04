@@ -6,7 +6,7 @@ mkdir -p tagindex
 for t in $(cat all_tags); do
   echo "${t//#/#\ }"
   find zet -name README.md | \
-    xargs grep -R "$t" | \
+    xargs grep -R "$t " | \
     sed -e 's/:.*//' -e 's/.*/\[\](\/&)/' | \
     awk -F / '
     {
@@ -16,10 +16,13 @@ for t in $(cat all_tags); do
     '
   echo ""
 done | awk '
+BEGIN {
+  ignore["assorted"] = 1
+}
 /^#/ {
   tag = $2
   if (fn) close(fn)
   fn = "tagindex/" tag ".md"
 }
-{ print > fn }
+!( ignore[tag] ) { print > fn }
 '

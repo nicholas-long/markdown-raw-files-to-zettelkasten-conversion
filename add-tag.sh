@@ -23,7 +23,7 @@ while [[ $# -gt 0 ]]; do
       echo "Add tag $tag to $arg"
       cat zet/$arg/README.md
       filename="zet/$arg/README.md"
-      nvim -c ":execute \"normal! GA #$tag\<esc>\"" -c ':wq' $filename
+      nvim -c ":execute \"normal! GA#$tag \<esc>\"" -c ':wq' $filename
       ;;
   esac
   shift
