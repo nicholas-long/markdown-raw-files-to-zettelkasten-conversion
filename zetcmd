@@ -36,6 +36,10 @@ while [[ $# -gt 0 ]]; do
         action="$1"
       elif [ $action == "print" ]; then
         bat --paging=never zet/$1/README.md
+      elif [ $action == "unlink" ]; then
+        arg="$1"
+        arg2="$2"
+        shift
       else
         arg="$1"
       fi
@@ -105,6 +109,12 @@ case $action in
       filearg=$(echo $filearg | awk '{print $1}')
       bat --color=always "$filearg"
     fi
+    ;;
+  unlink)
+    #arg arg2
+    echo "unlinking $arg $arg2"
+    sed -i "/$arg/d" zet/$arg2/README.md
+    sed -i "/$arg2/d" zet/$arg/README.md
     ;;
   rm)
     del_id="$arg"
