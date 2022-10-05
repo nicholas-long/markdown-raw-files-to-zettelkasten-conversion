@@ -8,6 +8,7 @@
 - [20221003150385](/zet/20221003150385/README.md) krbrelayx printerbug.py Simple tool to trigger SpoolService bug via RPC backconnect. Similar to dementor.py
 - [20221003150384](/zet/20221003150384/README.md) krbrelayx krbrelayx.py Kerberos relaying and Unconstrained delegation abuse
 - ~/kb/hacking/misc/important-repositories-tools.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

@@ -7,6 +7,7 @@
 - [20221003150473](/zet/20221003150473/README.md) powershell tricks run powershell commands as another user with RunasCs
 - [20221003150472](/zet/20221003150472/README.md) powershell tricks run powershell commands as another user on remote machine with impersonated token
 - ~/kb/hacking/powershell/powershell-tricks.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

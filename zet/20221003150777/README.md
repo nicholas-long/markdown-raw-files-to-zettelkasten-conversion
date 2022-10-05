@@ -8,6 +8,7 @@
 - [20221003150758](/zet/20221003150758/README.md) MSFVENOM Active Sever Pages Extended (.aspx)
 - [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks
 - ~/kb/hacking/commands/msfvenom-commands.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

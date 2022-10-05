@@ -4,6 +4,7 @@
 
 - [20221003151250](/zet/20221003151250/README.md) sending installs to target
 - ~/kb/hacking/tricks/install-pip-modules-on-target-as-files.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

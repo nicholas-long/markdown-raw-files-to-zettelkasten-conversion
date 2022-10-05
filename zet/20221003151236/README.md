@@ -8,6 +8,7 @@
 - [20221003151232](/zet/20221003151232/README.md) mysql mariadb exploit GRANT OPTION to grant file write permissions to self
 - [20221003151231](/zet/20221003151231/README.md) mysql mariadb find plugin directory
 - ~/kb/hacking/tricks/mysql-tricks.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

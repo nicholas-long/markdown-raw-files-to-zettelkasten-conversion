@@ -8,6 +8,7 @@
 - [20221003151311](/zet/20221003151311/README.md) bash scripting substitution syntax read variable or else exit if undefined
 - [20221003151310](/zet/20221003151310/README.md) bash scripting substitution syntax return something if another variable is set
 - ~/kb/bash-scripting/substitution-syntax-braces.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

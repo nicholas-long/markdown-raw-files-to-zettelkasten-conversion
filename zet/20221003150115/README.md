@@ -6,6 +6,7 @@
 - [20221003150113](/zet/20221003150113/README.md) socat execute program
 - [20221003150111](/zet/20221003150111/README.md) socat listen fork print to stdout
 - ~/kb/networking/port-forwarding.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

@@ -7,6 +7,7 @@
 - [20221003150809](/zet/20221003150809/README.md) wfuzz fuzzing details show or hide responses containing text regex
 - [20221003150808](/zet/20221003150808/README.md) wfuzz fuzzing details send to burpsuite local proxy
 - ~/kb/hacking/commands/wfuzz-fuzzing.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

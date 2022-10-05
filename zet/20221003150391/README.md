@@ -4,6 +4,7 @@
 
 - [20221003150390](/zet/20221003150390/README.md) file backup fuzzer generate wordlists from filenames
 - ~/kb/hacking/misc/important-repositories-tools.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

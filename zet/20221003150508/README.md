@@ -6,6 +6,7 @@
 - [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes
 - [20221003150504](/zet/20221003150504/README.md) python pwn tricks convert hex to int
 - ~/kb/hacking/pwn/python-tricks.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

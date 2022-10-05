@@ -7,6 +7,7 @@
 - [20221003150543](/zet/20221003150543/README.md) simple binary exploits python exploit scripts
 - [20221003150539](/zet/20221003150539/README.md) simple binary exploits payload generation
 - ~/kb/hacking/pwn/basic-win-pwn.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

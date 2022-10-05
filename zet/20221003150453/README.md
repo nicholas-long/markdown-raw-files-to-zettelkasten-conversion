@@ -6,6 +6,7 @@
 - [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file
 - [20221003150451](/zet/20221003150451/README.md) java decompiler JD-GUI analyze jar file
 - ~/kb/hacking/misc/tools-and-apt-packages.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

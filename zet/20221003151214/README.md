@@ -6,6 +6,7 @@
 - [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files
 - [20221003151211](/zet/20221003151211/README.md) got leaked files jar
 - ~/kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

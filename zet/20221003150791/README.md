@@ -7,6 +7,7 @@
 - [20221003150788](/zet/20221003150788/README.md) openssl sign a certificate signing request with the private key of a CA certificate authority
 - [20221003150787](/zet/20221003150787/README.md) openssl convert certificate to PKCS12 format
 - ~/kb/hacking/commands/openssl-general.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

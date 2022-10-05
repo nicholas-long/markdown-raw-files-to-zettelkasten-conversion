@@ -7,6 +7,7 @@
 - [20221003151345](/zet/20221003151345/README.md) awk and bash scripting partition split into files by column value check if column is nonempty
 - [20221003151344](/zet/20221003151344/README.md) awk and bash scripting partition split into files by column value put row into file based on column value
 - ~/kb/awk-scripting/bash-awk-quick-commands.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

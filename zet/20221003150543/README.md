@@ -7,6 +7,7 @@
 - [20221003150541](/zet/20221003150541/README.md) simple binary exploits python exploit scripts all bad characters
 - [20221003150540](/zet/20221003150540/README.md) simple binary exploits python exploit scripts pwntools flat pack buffer offsets
 - ~/kb/hacking/pwn/basic-win-pwn.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

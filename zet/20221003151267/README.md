@@ -6,6 +6,7 @@
 - [20221003151265](/zet/20221003151265/README.md) fzf install
 - [20221003151264](/zet/20221003151264/README.md) fzf Help
 - ~/kb/fzf-fuzzy-find/help.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

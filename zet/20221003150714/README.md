@@ -6,6 +6,7 @@
 - [20221003150713](/zet/20221003150713/README.md) packet capture with tcpdump watch traffic print IP and port
 - [20221003150712](/zet/20221003150712/README.md) packet capture with tcpdump watch traffic print packet data contents
 - ~/kb/hacking/commands/packet-capture.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

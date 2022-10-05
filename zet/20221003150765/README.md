@@ -8,6 +8,7 @@
 - [20221003150762](/zet/20221003150762/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) Reverse Shell
 - [20221003150761](/zet/20221003150761/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) Bind Shell
 - ~/kb/hacking/commands/msfvenom-commands.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

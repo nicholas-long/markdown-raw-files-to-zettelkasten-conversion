@@ -6,6 +6,7 @@
 - [20221003150189](/zet/20221003150189/README.md) zsh arrow key based history autocomplete browse
 - [20221003150188](/zet/20221003150188/README.md) zsh stuff at bottom of zshrc
 - ~/kb/linux/zsh-see-default-bindings.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

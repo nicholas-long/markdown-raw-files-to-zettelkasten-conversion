@@ -6,6 +6,7 @@
 - [20221003150944](/zet/20221003150944/README.md) python hex to bytes
 - [20221003150943](/zet/20221003150943/README.md) python string alphanumeric chars
 - ~/kb/hacking/python/python-quick-reference.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

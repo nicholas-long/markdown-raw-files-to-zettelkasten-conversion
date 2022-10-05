@@ -11,6 +11,7 @@
 - [20221003150840](/zet/20221003150840/README.md) gobuster vhost enumeration
 - [20221003150839](/zet/20221003150839/README.md) gobuster flags
 - ~/kb/hacking/commands/gobuster.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

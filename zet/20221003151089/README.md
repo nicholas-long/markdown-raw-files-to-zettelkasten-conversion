@@ -6,6 +6,7 @@
 - [20221003151087](/zet/20221003151087/README.md) mimikatz dump passwords
 - [20221003151086](/zet/20221003151086/README.md) mimikatz troubleshooting `ERROR kuhl_m_sekurlsa_acquireLSA Key import`
 - ~/kb/hacking/windows/mimikatz.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

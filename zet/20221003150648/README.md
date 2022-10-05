@@ -11,6 +11,7 @@
 - [20221003150638](/zet/20221003150638/README.md) nmap check for mountable NFS shares
 - [20221003150636](/zet/20221003150636/README.md) nmap run all service enumeration on a port
 - ~/kb/hacking/commands/nmap-command.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

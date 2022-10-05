@@ -8,6 +8,7 @@
 - [20221003150493](/zet/20221003150493/README.md) Machine Info Subdomains
 - [20221003150492](/zet/20221003150492/README.md) Machine Info emails
 - ~/kb/hacking/notes-template/notes.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

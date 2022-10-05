@@ -10,6 +10,7 @@
 - [20221003150653](/zet/20221003150653/README.md) wfuzz authenticated fuzzing parameter names
 - [20221003150652](/zet/20221003150652/README.md) wfuzz host header pollution
 - ~/kb/hacking/commands/wfuzz-commands.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

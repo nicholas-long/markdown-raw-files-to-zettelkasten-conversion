@@ -8,6 +8,7 @@
 - [20221003150886](/zet/20221003150886/README.md) Test CVE-2021-4034 in a docker Dockerfile
 - [20221003150885](/zet/20221003150885/README.md) Test CVE-2021-4034 in a docker Exploit
 - ~/kb/hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

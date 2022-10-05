@@ -5,6 +5,7 @@
 - [20221003150170](/zet/20221003150170/README.md) linux capabilities inheritance after exec
 - [20221003150169](/zet/20221003150169/README.md) linux capabilities capability set `=ep`
 - ~/kb/linux/capabilities.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

@@ -7,6 +7,7 @@
 - [20221003151113](/zet/20221003151113/README.md) dos commands services sc set binary path
 - [20221003151112](/zet/20221003151112/README.md) dos commands services sc start service
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

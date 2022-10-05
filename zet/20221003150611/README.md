@@ -9,6 +9,7 @@
 - [20221003150606](/zet/20221003150606/README.md) smbclient alternate File Streams
 - [20221003150605](/zet/20221003150605/README.md) smbclient download Stream By Name (:SECRET)
 - ~/kb/hacking/commands/smbclient-commands.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

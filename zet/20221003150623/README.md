@@ -11,6 +11,7 @@
 - [20221003150616](/zet/20221003150616/README.md) PureFTP Create FTP Script (On Victim)
 - [20221003150615](/zet/20221003150615/README.md) PureFTP Execute Script (on Victim)
 - ~/kb/hacking/commands/pureftp-commands.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

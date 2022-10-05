@@ -6,6 +6,7 @@
 - [20221003150278](/zet/20221003150278/README.md) pfx extension PKCS#12 format certificate cracking with crackpkcs12
 - [20221003150277](/zet/20221003150277/README.md) pfx extension PKCS#12 format certificate cracking with johntheripper
 - ~/kb/hacking/misc/file-type-reference.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

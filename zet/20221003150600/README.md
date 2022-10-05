@@ -8,6 +8,7 @@
 - [20221003150596](/zet/20221003150596/README.md) impacket quick smb server
 - [20221003150595](/zet/20221003150595/README.md) impacket dump registry and NTDS secrets from files with secretsdump
 - ~/kb/hacking/commands/impacket-commands.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

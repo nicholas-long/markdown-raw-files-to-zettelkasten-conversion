@@ -12,6 +12,7 @@
 - [20221003150700](/zet/20221003150700/README.md) sqlmap with burp request Test All (Default Settings, High Stress)
 - [20221003150699](/zet/20221003150699/README.md) sqlmap with burp request Get A Reverse Shell (MySQL)
 - ~/kb/hacking/commands/sqlmap-commands.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

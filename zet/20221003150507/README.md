@@ -6,6 +6,7 @@
 - [20221003150506](/zet/20221003150506/README.md) python pwn tricks convert little endian bytes to int
 - [20221003150505](/zet/20221003150505/README.md) python pwn tricks convert little endian bytes to floating point
 - ~/kb/hacking/pwn/python-tricks.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

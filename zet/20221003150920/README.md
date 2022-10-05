@@ -23,6 +23,7 @@
 - [20221003150895](/zet/20221003150895/README.md) linux enumeration quick commands check if users can see other users' processes
 - [20221003150894](/zet/20221003150894/README.md) linux enumeration quick commands file transfer with cat herefiles
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

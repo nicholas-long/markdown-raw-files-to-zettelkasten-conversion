@@ -6,6 +6,7 @@
 - [20221003150468](/zet/20221003150468/README.md) powershell tricks browse and edit registry set registry values
 - [20221003150467](/zet/20221003150467/README.md) powershell tricks browse and edit registry read registry values
 - ~/kb/hacking/powershell/powershell-tricks.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

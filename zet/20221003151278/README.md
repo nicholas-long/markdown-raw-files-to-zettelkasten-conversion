@@ -5,6 +5,7 @@
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities
 - [20221003151276](/zet/20221003151276/README.md) linux data science issues
 - ~/kb/data-engineering-pipelines/data-science-linux-commands.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

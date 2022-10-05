@@ -7,6 +7,7 @@
 - [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection
 - [20221003150984](/zet/20221003150984/README.md) mariadb mysql SQLi information tables
 - ~/kb/hacking/methodology/sqli-manual-mysql-payloads.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

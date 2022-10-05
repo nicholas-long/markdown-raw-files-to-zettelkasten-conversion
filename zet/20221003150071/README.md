@@ -6,6 +6,7 @@
 - [20221003150069](/zet/20221003150069/README.md) vim edit multiple files open multiple files
 - [20221003150068](/zet/20221003150068/README.md) vim edit multiple files find and edit files recursively open in tabs
 - ~/kb/vim/edit-multiple-files.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

@@ -6,6 +6,7 @@
 - [20221003151327](/zet/20221003151327/README.md) bash scripting convert text strings or wordlists to lowercase
 - [20221003151326](/zet/20221003151326/README.md) bash scripting convert text strings or wordlists to uppercase
 - ~/kb/bash-scripting/stream-operations.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

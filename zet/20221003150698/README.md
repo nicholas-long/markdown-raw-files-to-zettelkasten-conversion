@@ -6,6 +6,7 @@
 - [20221003150696](/zet/20221003150696/README.md) SNMP enumeration command onesixtyone
 - [20221003150695](/zet/20221003150695/README.md) SNMP enumeration command enumerating / dumping interesting and categorized information
 - ~/kb/hacking/commands/snmp-enumeration-commands.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

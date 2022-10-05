@@ -9,6 +9,7 @@
 - [20221003150234](/zet/20221003150234/README.md) extract command for file type asar
 - [20221003150233](/zet/20221003150233/README.md) extract command for file type apk
 - ~/kb/hacking/analysis/extract-commands.md
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 
