@@ -5,9 +5,7 @@ content
 ```
 ```
 
-| zettel path                  |
-|------------------------------|
-| zet/00000000000000/README.md |
+` zet/00000000000000/README.md `
 
 # Related
 
