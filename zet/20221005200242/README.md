@@ -8,386 +8,386 @@ this is a list of possibly empty zettels.
 
 # Related
 
-- 20221004203354
-- 20221003151441
-- 20221003151438
-- 20221003151424
-- 20221003151421
-- 20221003151418
-- 20221003151403
-- 20221003151402
-- 20221003151394
-- 20221003151386
-- 20221003151384
-- 20221003151383
-- 20221003151380
-- 20221003151377
-- 20221003151363
-- 20221003151362
-- 20221003151361
-- 20221003151356
-- 20221003151350
-- 20221003151349
-- 20221003151347
-- 20221003151346
-- 20221003151345
-- 20221003151343
-- 20221003151338
-- 20221003151335
-- 20221003151332
-- 20221003151329
-- 20221003151328
-- 20221003151324
-- 20221003151321
-- 20221003151318
-- 20221003151316
-- 20221003151309
-- 20221003151306
-- 20221003151305
-- 20221003151299
-- 20221003151295
-- 20221003151292
-- 20221003151291
-- 20221003151289
-- 20221003151288
-- 20221003151286
-- 20221003151284
-- 20221003151281
-- 20221003151280
-- 20221003151278
-- 20221003151271
-- 20221003151267
-- 20221003151257
-- 20221003151256
-- 20221003151254
-- 20221003151253
-- 20221003151250
-- 20221003151249
-- 20221003151247
-- 20221003151244
-- 20221003151236
-- 20221003151234
-- 20221003151230
-- 20221003151226
-- 20221003151223
-- 20221003151220
-- 20221003151217
-- 20221003151214
-- 20221003151193
-- 20221003151155
-- 20221003151152
-- 20221003151151
-- 20221003151146
-- 20221003151144
-- 20221003151143
-- 20221003151126
-- 20221003151124
-- 20221003151115
-- 20221003151110
-- 20221003151108
-- 20221003151106
-- 20221003151103
-- 20221003151101
-- 20221003151099
-- 20221003151094
-- 20221003151089
-- 20221003151081
-- 20221003151076
-- 20221003151073
-- 20221003151072
-- 20221003151070
-- 20221003151067
-- 20221003151066
-- 20221003151057
-- 20221003151052
-- 20221003151050
-- 20221003151048
-- 20221003151047
-- 20221003151045
-- 20221003151039
-- 20221003151037
-- 20221003151034
-- 20221003151028
-- 20221003151025
-- 20221003151023
-- 20221003151017
-- 20221003151010
-- 20221003151008
-- 20221003151006
-- 20221003151004
-- 20221003150988
-- 20221003150987
-- 20221003150985
-- 20221003150983
-- 20221003150978
-- 20221003150953
-- 20221003150949
-- 20221003150946
-- 20221003150942
-- 20221003150929
-- 20221003150926
-- 20221003150923
-- 20221003150920
-- 20221003150907
-- 20221003150901
-- 20221003150890
-- 20221003150884
-- 20221003150879
-- 20221003150878
-- 20221003150876
-- 20221003150873
-- 20221003150871
-- 20221003150866
-- 20221003150865
-- 20221003150862
-- 20221003150859
-- 20221003150857
-- 20221003150855
-- 20221003150851
-- 20221003150849
-- 20221003150847
-- 20221003150837
-- 20221003150833
-- 20221003150829
-- 20221003150822
-- 20221003150819
-- 20221003150816
-- 20221003150815
-- 20221003150812
-- 20221003150811
-- 20221003150807
-- 20221003150801
-- 20221003150798
-- 20221003150796
-- 20221003150794
-- 20221003150791
-- 20221003150786
-- 20221003150780
-- 20221003150777
-- 20221003150776
-- 20221003150775
-- 20221003150771
-- 20221003150766
-- 20221003150765
-- 20221003150757
-- 20221003150755
-- 20221003150750
-- 20221003150748
-- 20221003150744
-- 20221003150739
-- 20221003150730
-- 20221003150724
-- 20221003150720
-- 20221003150717
-- 20221003150716
-- 20221003150714
-- 20221003150709
-- 20221003150698
-- 20221003150694
-- 20221003150693
-- 20221003150692
-- 20221003150691
-- 20221003150690
-- 20221003150689
-- 20221003150683
-- 20221003150681
-- 20221003150677
-- 20221003150671
-- 20221003150665
-- 20221003150662
-- 20221003150659
-- 20221003150651
-- 20221003150650
-- 20221003150648
-- 20221003150646
-- 20221003150638
-- 20221003150635
-- 20221003150634
-- 20221003150630
-- 20221003150629
-- 20221003150625
-- 20221003150623
-- 20221003150620
-- 20221003150614
-- 20221003150611
-- 20221003150600
-- 20221003150594
-- 20221003150592
-- 20221003150590
-- 20221003150584
-- 20221003150582
-- 20221003150576
-- 20221003150575
-- 20221003150573
-- 20221003150571
-- 20221003150553
-- 20221003150548
-- 20221003150545
-- 20221003150543
-- 20221003150539
-- 20221003150537
-- 20221003150535
-- 20221003150532
-- 20221003150529
-- 20221003150525
-- 20221003150522
-- 20221003150517
-- 20221003150515
-- 20221003150512
-- 20221003150511
-- 20221003150509
-- 20221003150508
-- 20221003150507
-- 20221003150503
-- 20221003150497
-- 20221003150496
-- 20221003150495
-- 20221003150494
-- 20221003150493
-- 20221003150492
-- 20221003150491
-- 20221003150490
-- 20221003150488
-- 20221003150483
-- 20221003150482
-- 20221003150478
-- 20221003150476
-- 20221003150475
-- 20221003150469
-- 20221003150465
-- 20221003150462
-- 20221003150454
-- 20221003150453
-- 20221003150452
-- 20221003150448
-- 20221003150433
-- 20221003150429
-- 20221003150424
-- 20221003150423
-- 20221003150422
-- 20221003150421
-- 20221003150419
-- 20221003150418
-- 20221003150417
-- 20221003150416
-- 20221003150415
-- 20221003150414
-- 20221003150413
-- 20221003150412
-- 20221003150411
-- 20221003150410
-- 20221003150409
-- 20221003150408
-- 20221003150407
-- 20221003150406
-- 20221003150405
-- 20221003150404
-- 20221003150403
-- 20221003150402
-- 20221003150401
-- 20221003150400
-- 20221003150399
-- 20221003150398
-- 20221003150397
-- 20221003150396
-- 20221003150395
-- 20221003150394
-- 20221003150393
-- 20221003150391
-- 20221003150389
-- 20221003150388
-- 20221003150387
-- 20221003150386
-- 20221003150383
-- 20221003150382
-- 20221003150380
-- 20221003150379
-- 20221003150378
-- 20221003150376
-- 20221003150375
-- 20221003150374
-- 20221003150371
-- 20221003150370
-- 20221003150369
-- 20221003150364
-- 20221003150363
-- 20221003150360
-- 20221003150355
-- 20221003150350
-- 20221003150346
-- 20221003150343
-- 20221003150340
-- 20221003150326
-- 20221003150325
-- 20221003150324
-- 20221003150321
-- 20221003150320
-- 20221003150319
-- 20221003150318
-- 20221003150316
-- 20221003150314
-- 20221003150312
-- 20221003150310
-- 20221003150306
-- 20221003150299
-- 20221003150298
-- 20221003150297
-- 20221003150289
-- 20221003150286
-- 20221003150283
-- 20221003150279
-- 20221003150274
-- 20221003150270
-- 20221003150269
-- 20221003150268
-- 20221003150265
-- 20221003150264
-- 20221003150259
-- 20221003150247
-- 20221003150242
-- 20221003150239
-- 20221003150231
-- 20221003150227
-- 20221003150225
-- 20221003150221
-- 20221003150215
-- 20221003150210
-- 20221003150197
-- 20221003150193
-- 20221003150191
-- 20221003150187
-- 20221003150184
-- 20221003150182
-- 20221003150176
-- 20221003150174
-- 20221003150173
-- 20221003150171
-- 20221003150168
-- 20221003150165
-- 20221003150162
-- 20221003150159
-- 20221003150156
-- 20221003150154
-- 20221003150143
-- 20221003150140
-- 20221003150134
-- 20221003150131
-- 20221003150129
-- 20221003150128
-- 20221003150125
-- 20221003150122
-- 20221003150120
-- 20221003150115
-- 20221003150113
-- 20221003150105
-- 20221003150104
-- 20221003150100
-- 20221003150079
-- 20221003150075
-- 20221003150071
-- 20221003150070
-- 20221003150067
-- 20221003150065
+- [20221004203354](/zet/20221004203354/README.md) Related
+- [20221003151441](/zet/20221003151441/README.md) awk scripting
+- [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
+- [20221003151424](/zet/20221003151424/README.md) bash scripting
+- [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory
+- [20221003151418](/zet/20221003151418/README.md) bash scripting parse args with case statement
+- [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf
+- [20221003151402](/zet/20221003151402/README.md) bash scripting prepend gzip magic bytes
+- [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream
+- [20221003151386](/zet/20221003151386/README.md) bash scripting define bash array
+- [20221003151384](/zet/20221003151384/README.md) bash scripting clone repo into temp dir
+- [20221003151383](/zet/20221003151383/README.md) bash scripting get all tags and start walking their commits
+- [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
+- [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files
+- [20221003151363](/zet/20221003151363/README.md) python scripting
+- [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script
+- [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally
+- [20221003151356](/zet/20221003151356/README.md) python scripting urlencode every input line
+- [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
+- [20221003151349](/zet/20221003151349/README.md) awk and bash scripting rename or move files
+- [20221003151347](/zet/20221003151347/README.md) awk and bash scripting partition split into files by column value
+- [20221003151346](/zet/20221003151346/README.md) awk and bash scripting partition split into files by column value analyzing CSV trade data : split into files for symbols
+- [20221003151345](/zet/20221003151345/README.md) awk and bash scripting partition split into files by column value check if column is nonempty
+- [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
+- [20221003151338](/zet/20221003151338/README.md) awk scripting
+- [20221003151335](/zet/20221003151335/README.md) bash command reference
+- [20221003151332](/zet/20221003151332/README.md) bash scripting
+- [20221003151329](/zet/20221003151329/README.md) bash scripting
+- [20221003151328](/zet/20221003151328/README.md) bash scripting convert text strings or wordlists
+- [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database
+- [20221003151321](/zet/20221003151321/README.md) get current date - linux bash scripting
+- [20221003151318](/zet/20221003151318/README.md) bash parse xml cli
+- [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax
+- [20221003151309](/zet/20221003151309/README.md) expect scripts
+- [20221003151306](/zet/20221003151306/README.md) bash scripting set operations
+- [20221003151305](/zet/20221003151305/README.md) bash scripting set operations comm
+- [20221003151299](/zet/20221003151299/README.md) bash tricks
+- [20221003151295](/zet/20221003151295/README.md) debugging bash
+- [20221003151292](/zet/20221003151292/README.md) C template
+- [20221003151291](/zet/20221003151291/README.md) C template readline prompt
+- [20221003151289](/zet/20221003151289/README.md) jq
+- [20221003151288](/zet/20221003151288/README.md) jq pipe syntax
+- [20221003151286](/zet/20221003151286/README.md) postgres
+- [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
+- [20221003151281](/zet/20221003151281/README.md) YAML
+- [20221003151280](/zet/20221003151280/README.md) YAML parsing
+- [20221003151278](/zet/20221003151278/README.md) linux data science
+- [20221003151271](/zet/20221003151271/README.md) docker cleanup
+- [20221003151267](/zet/20221003151267/README.md) fzf
+- [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory
+- [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux
+- [20221003151254](/zet/20221003151254/README.md) run executable binary programs within process memory windows
+- [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows cobalt strike
+- [20221003151250](/zet/20221003151250/README.md) sending installs to target
+- [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies
+- [20221003151247](/zet/20221003151247/README.md) Jenkins / Groovy (Java) Reverse Shell
+- [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads
+- [20221003151236](/zet/20221003151236/README.md) mysql mariadb
+- [20221003151234](/zet/20221003151234/README.md) mysql mariadb UDF shell
+- [20221003151230](/zet/20221003151230/README.md) VBScript
+- [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE
+- [20221003151223](/zet/20221003151223/README.md) identify linux version from service version
+- [20221003151220](/zet/20221003151220/README.md) hql injection
+- [20221003151217](/zet/20221003151217/README.md) caddy
+- [20221003151214](/zet/20221003151214/README.md) got leaked files
+- [20221003151193](/zet/20221003151193/README.md) HTTP
+- [20221003151155](/zet/20221003151155/README.md) linux hardening
+- [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
+- [20221003151151](/zet/20221003151151/README.md) windows XP and windows server 2003 MOF file RCE
+- [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec
+- [20221003151144](/zet/20221003151144/README.md) active directory 
+- [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions
+- [20221003151126](/zet/20221003151126/README.md) active directory  delegation unconstrained
+- [20221003151124](/zet/20221003151124/README.md) dos commands
+- [20221003151115](/zet/20221003151115/README.md) dos commands services sc
+- [20221003151110](/zet/20221003151110/README.md) dos commands admin / system
+- [20221003151108](/zet/20221003151108/README.md) dos commands net
+- [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
+- [20221003151103](/zet/20221003151103/README.md) DOS commands
+- [20221003151101](/zet/20221003151101/README.md) powershell commands
+- [20221003151099](/zet/20221003151099/README.md) powershell commands encoded command nop bypass hidden
+- [20221003151094](/zet/20221003151094/README.md) windows API
+- [20221003151089](/zet/20221003151089/README.md) mimikatz
+- [20221003151081](/zet/20221003151081/README.md) service account privileges
+- [20221003151076](/zet/20221003151076/README.md) service account privileges exploiting
+- [20221003151073](/zet/20221003151073/README.md) windows color script output
+- [20221003151072](/zet/20221003151072/README.md) windows color script output winpeas log
+- [20221003151070](/zet/20221003151070/README.md) dump process memory
+- [20221003151067](/zet/20221003151067/README.md) AMSI
+- [20221003151066](/zet/20221003151066/README.md) AMSI detect windows defender
+- [20221003151057](/zet/20221003151057/README.md) get windows enumeration info from file read
+- [20221003151052](/zet/20221003151052/README.md) check network time offset with network time protocol NTP server on windows AD kerberos
+- [20221003151050](/zet/20221003151050/README.md) change user password
+- [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass
+- [20221003151047](/zet/20221003151047/README.md) windows reverse shell AV bypass active directory endpoint protection
+- [20221003151045](/zet/20221003151045/README.md) windows alternate data streams commands
+- [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin
+- [20221003151037](/zet/20221003151037/README.md) program files ruxim directory
+- [20221003151034](/zet/20221003151034/README.md) applocker limit allowed executables and allowed paths
+- [20221003151028](/zet/20221003151028/README.md) decrypt azure AD connect passwords
+- [20221003151025](/zet/20221003151025/README.md) JWT tokens
+- [20221003151023](/zet/20221003151023/README.md) analyzing source code
+- [20221003151017](/zet/20221003151017/README.md) nmap scripts
+- [20221003151010](/zet/20221003151010/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl 
+- [20221003151008](/zet/20221003151008/README.md) LFI or directory traversal procedures file wordlists
+- [20221003151006](/zet/20221003151006/README.md) API enumeration
+- [20221003151004](/zet/20221003151004/README.md) API enumeration good wordlists
+- [20221003150988](/zet/20221003150988/README.md) mariadb mysql
+- [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi
+- [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection
+- [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
+- [20221003150978](/zet/20221003150978/README.md) oracle
+- [20221003150953](/zet/20221003150953/README.md) OSINT organizations
+- [20221003150949](/zet/20221003150949/README.md) python fix SSL errors
+- [20221003150946](/zet/20221003150946/README.md) python
+- [20221003150942](/zet/20221003150942/README.md) python imports
+- [20221003150929](/zet/20221003150929/README.md) C setuid suid backdoor exploit
+- [20221003150926](/zet/20221003150926/README.md) /etc/passwd writable line privilege escalation exploit
+- [20221003150923](/zet/20221003150923/README.md) BSD
+- [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
+- [20221003150907](/zet/20221003150907/README.md) linux enumeration quick commands transfer / download files with just bash
+- [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities
+- [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
+- [20221003150884](/zet/20221003150884/README.md) privilege escalation relative path abuse
+- [20221003150879](/zet/20221003150879/README.md) dirty cow privilege escalation
+- [20221003150878](/zet/20221003150878/README.md) dirty cow privilege escalation working version
+- [20221003150876](/zet/20221003150876/README.md) sudo sudoers file
+- [20221003150873](/zet/20221003150873/README.md) host quick server
+- [20221003150871](/zet/20221003150871/README.md) john the ripper
+- [20221003150866](/zet/20221003150866/README.md) two-factor authentication 2fa
+- [20221003150865](/zet/20221003150865/README.md) two-factor authentication 2fa generate one time pins OTP
+- [20221003150862](/zet/20221003150862/README.md) SSH arguments
+- [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm
+- [20221003150857](/zet/20221003150857/README.md) ssh-keygen
+- [20221003150855](/zet/20221003150855/README.md) dns commands
+- [20221003150851](/zet/20221003150851/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate
+- [20221003150849](/zet/20221003150849/README.md) hydra brute force HTTP basic authentication
+- [20221003150847](/zet/20221003150847/README.md) gobuster
+- [20221003150837](/zet/20221003150837/README.md) smb mount share
+- [20221003150833](/zet/20221003150833/README.md) responder
+- [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list
+- [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
+- [20221003150819](/zet/20221003150819/README.md) metasploit msf
+- [20221003150816](/zet/20221003150816/README.md) meterpreter msf
+- [20221003150815](/zet/20221003150815/README.md) meterpreter msf move from x86 to x64
+- [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
+- [20221003150811](/zet/20221003150811/README.md) wfuzz fuzzing details "X-Forwarded-For" header with custom IPS
+- [20221003150807](/zet/20221003150807/README.md) brute force default credentials
+- [20221003150801](/zet/20221003150801/README.md) openssl commands
+- [20221003150798](/zet/20221003150798/README.md) git
+- [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist
+- [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file
+- [20221003150791](/zet/20221003150791/README.md) openssl
+- [20221003150786](/zet/20221003150786/README.md) enum4linux
+- [20221003150780](/zet/20221003150780/README.md) crowbar
+- [20221003150777](/zet/20221003150777/README.md) MSFVENOM
+- [20221003150776](/zet/20221003150776/README.md) MSFVENOM Windows Binary (.exe) executable
+- [20221003150775](/zet/20221003150775/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86)
+- [20221003150771](/zet/20221003150771/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64)
+- [20221003150766](/zet/20221003150766/README.md) MSFVENOM Linux Binary (.elf)
+- [20221003150765](/zet/20221003150765/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86)
+- [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks
+- [20221003150755](/zet/20221003150755/README.md) keytool
+- [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket
+- [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands
+- [20221003150744](/zet/20221003150744/README.md) hydra brute force
+- [20221003150739](/zet/20221003150739/README.md) feroxbuster
+- [20221003150730](/zet/20221003150730/README.md) powershell
+- [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12
+- [20221003150720](/zet/20221003150720/README.md) curl
+- [20221003150717](/zet/20221003150717/README.md) packet capture
+- [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
+- [20221003150714](/zet/20221003150714/README.md) packet capture with tcpdump watch traffic
+- [20221003150709](/zet/20221003150709/README.md) sqlmap
+- [20221003150698](/zet/20221003150698/README.md) SNMP enumeration command
+- [20221003150694](/zet/20221003150694/README.md) wpscan
+- [20221003150693](/zet/20221003150693/README.md) wpscan initial
+- [20221003150692](/zet/20221003150692/README.md) wpscan initial all plugins passive scan
+- [20221003150691](/zet/20221003150691/README.md) wpscan initial vulnerable themes
+- [20221003150690](/zet/20221003150690/README.md) wpscan initial config backups
+- [20221003150689](/zet/20221003150689/README.md) wpscan initial database exports
+- [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
+- [20221003150681](/zet/20221003150681/README.md) tftp
+- [20221003150677](/zet/20221003150677/README.md) bloodhound
+- [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files
+- [20221003150665](/zet/20221003150665/README.md) NFS
+- [20221003150662](/zet/20221003150662/README.md) data analysis commands
+- [20221003150659](/zet/20221003150659/README.md) wfuzz
+- [20221003150651](/zet/20221003150651/README.md) kubernetes
+- [20221003150650](/zet/20221003150650/README.md) kubernetes kubectl
+- [20221003150648](/zet/20221003150648/README.md) nmap
+- [20221003150646](/zet/20221003150646/README.md) nmap flags extra fast options
+- [20221003150638](/zet/20221003150638/README.md) nmap check for mountable NFS shares
+- [20221003150635](/zet/20221003150635/README.md) smbmap
+- [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration
+- [20221003150630](/zet/20221003150630/README.md) LDAP enumeration
+- [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous
+- [20221003150625](/zet/20221003150625/README.md) LDAP enumeration authenticated
+- [20221003150623](/zet/20221003150623/README.md) PureFTP
+- [20221003150620](/zet/20221003150620/README.md) PureFTP Get Service Ready
+- [20221003150614](/zet/20221003150614/README.md) smbclient shell
+- [20221003150611](/zet/20221003150611/README.md) smbclient
+- [20221003150600](/zet/20221003150600/README.md) impacket
+- [20221003150594](/zet/20221003150594/README.md) generating enumeration wordlists
+- [20221003150592](/zet/20221003150592/README.md) php
+- [20221003150590](/zet/20221003150590/README.md) php code
+- [20221003150584](/zet/20221003150584/README.md) php code convert human readable time to unix epoch timestamp
+- [20221003150582](/zet/20221003150582/README.md) php LFI
+- [20221003150576](/zet/20221003150576/README.md) php type juggling
+- [20221003150575](/zet/20221003150575/README.md) php type juggling methodology
+- [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion
+- [20221003150571](/zet/20221003150571/README.md) PHP unserialize payload gadget chains
+- [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell
+- [20221003150548](/zet/20221003150548/README.md) simple binary exploits
+- [20221003150545](/zet/20221003150545/README.md) simple binary exploits pattern offset finding
+- [20221003150543](/zet/20221003150543/README.md) simple binary exploits python exploit scripts
+- [20221003150539](/zet/20221003150539/README.md) simple binary exploits payload generation
+- [20221003150537](/zet/20221003150537/README.md) immunity debugger mona commands
+- [20221003150535](/zet/20221003150535/README.md) immunity debugger mona commands search for opcode string jmp esp
+- [20221003150532](/zet/20221003150532/README.md) gef gdb plugin
+- [20221003150529](/zet/20221003150529/README.md) gdb commands
+- [20221003150525](/zet/20221003150525/README.md) make executable binary with input shellcode
+- [20221003150522](/zet/20221003150522/README.md) calling conventions
+- [20221003150517](/zet/20221003150517/README.md) binary analysis
+- [20221003150515](/zet/20221003150515/README.md) pwntools gdb debugging terminal
+- [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks
+- [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths
+- [20221003150509](/zet/20221003150509/README.md) python pwn tricks
+- [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert
+- [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes
+- [20221003150503](/zet/20221003150503/README.md) pwntools
+- [20221003150497](/zet/20221003150497/README.md) Machine Info
+- [20221003150496](/zet/20221003150496/README.md) Machine Info IP
+- [20221003150495](/zet/20221003150495/README.md) Machine Info OS Info
+- [20221003150494](/zet/20221003150494/README.md) Machine Info Hostnames
+- [20221003150493](/zet/20221003150493/README.md) Machine Info Subdomains
+- [20221003150492](/zet/20221003150492/README.md) Machine Info emails
+- [20221003150491](/zet/20221003150491/README.md) html template
+- [20221003150490](/zet/20221003150490/README.md) html template upload file
+- [20221003150488](/zet/20221003150488/README.md) active directory
+- [20221003150483](/zet/20221003150483/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip
+- [20221003150482](/zet/20221003150482/README.md) general enumeration
+- [20221003150478](/zet/20221003150478/README.md) general enumeration Active Directory Certificate Services
+- [20221003150476](/zet/20221003150476/README.md) powershell tricks
+- [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
+- [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry
+- [20221003150465](/zet/20221003150465/README.md) powershell PSCredential password
+- [20221003150462](/zet/20221003150462/README.md) tomcat
+- [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI
+- [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze
+- [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file
+- [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing
+- [20221003150433](/zet/20221003150433/README.md) generate wordlists
+- [20221003150429](/zet/20221003150429/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale output all formats top 10k names from facebook
+- [20221003150424](/zet/20221003150424/README.md) kerberos attack on windows host ticket attacks
+- [20221003150423](/zet/20221003150423/README.md) kerberos attack on windows host ticket attacks forgery
+- [20221003150422](/zet/20221003150422/README.md) kerberos attack on windows host ticket attacks extraction and harvesting
+- [20221003150421](/zet/20221003150421/README.md) kerberos attack on windows host Constrained delegation abuse
+- [20221003150419](/zet/20221003150419/README.md) text cipher encryption decryption tools
+- [20221003150418](/zet/20221003150418/README.md) text cipher encryption decryption tools Affine
+- [20221003150417](/zet/20221003150417/README.md) text cipher encryption decryption tools Atbash
+- [20221003150416](/zet/20221003150416/README.md) text cipher encryption decryption tools Baconian
+- [20221003150415](/zet/20221003150415/README.md) text cipher encryption decryption tools Bifid
+- [20221003150414](/zet/20221003150414/README.md) text cipher encryption decryption tools Caesarian Shift
+- [20221003150413](/zet/20221003150413/README.md) text cipher encryption decryption tools Keyed Caesar
+- [20221003150412](/zet/20221003150412/README.md) text cipher encryption decryption tools Columnar
+- [20221003150411](/zet/20221003150411/README.md) text cipher encryption decryption tools Transposition
+- [20221003150410](/zet/20221003150410/README.md) text cipher encryption decryption tools Double Transposition
+- [20221003150409](/zet/20221003150409/README.md) text cipher encryption decryption tools Cryptogram Solver
+- [20221003150408](/zet/20221003150408/README.md) text cipher encryption decryption tools Gronsfeld
+- [20221003150407](/zet/20221003150407/README.md) text cipher encryption decryption tools Morse Code
+- [20221003150406](/zet/20221003150406/README.md) text cipher encryption decryption tools Letter Numbers
+- [20221003150405](/zet/20221003150405/README.md) text cipher encryption decryption tools One Time Pad
+- [20221003150404](/zet/20221003150404/README.md) text cipher encryption decryption tools Playfair
+- [20221003150403](/zet/20221003150403/README.md) text cipher encryption decryption tools Railfence
+- [20221003150402](/zet/20221003150402/README.md) text cipher encryption decryption tools ROT13
+- [20221003150401](/zet/20221003150401/README.md) text cipher encryption decryption tools Rotate
+- [20221003150400](/zet/20221003150400/README.md) text cipher encryption decryption tools Skip
+- [20221003150399](/zet/20221003150399/README.md) text cipher encryption decryption tools Substitution
+- [20221003150398](/zet/20221003150398/README.md) text cipher encryption decryption tools Übchi
+- [20221003150397](/zet/20221003150397/README.md) text cipher encryption decryption tools Vigenere
+- [20221003150396](/zet/20221003150396/README.md) text cipher encryption decryption tools Keyed Vigenere
+- [20221003150395](/zet/20221003150395/README.md) text cipher encryption decryption tools Vigenere Autokey
+- [20221003150394](/zet/20221003150394/README.md) text cipher encryption decryption tools Cryptogram Solver
+- [20221003150393](/zet/20221003150393/README.md) text cipher encryption decryption tools Letter Frequency
+- [20221003150391](/zet/20221003150391/README.md) file backup fuzzer
+- [20221003150389](/zet/20221003150389/README.md) krbrelayx
+- [20221003150388](/zet/20221003150388/README.md) krbrelayx Kerberos relaying and unconstrained delegation abuse toolkit
+- [20221003150387](/zet/20221003150387/README.md) krbrelayx addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP.
+- [20221003150386](/zet/20221003150386/README.md) krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP.
+- [20221003150383](/zet/20221003150383/README.md) threatcheck help obfuscate windows executable strings
+- [20221003150382](/zet/20221003150382/README.md) threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender)
+- [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat
+- [20221003150379](/zet/20221003150379/README.md) oracle database attacking tool odat enumerate users
+- [20221003150378](/zet/20221003150378/README.md) oracle database attacking tool odat escalate database account to DBA
+- [20221003150376](/zet/20221003150376/README.md) volatility framework
+- [20221003150375](/zet/20221003150375/README.md) volatility framework analyze dump files of volatile RAM
+- [20221003150374](/zet/20221003150374/README.md) volatility framework analyze dump files of volatile RAM file type "MS Windows 64bit crash dump, full dump, XXX pages"
+- [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
+- [20221003150370](/zet/20221003150370/README.md) dump credentials from browsers chromium
+- [20221003150369](/zet/20221003150369/README.md) dump credentials from browsers chromium chrome
+- [20221003150364](/zet/20221003150364/README.md) portable TCP port scanner
+- [20221003150363](/zet/20221003150363/README.md) portable TCP port scanner bash only
+- [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
+- [20221003150355](/zet/20221003150355/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries
+- [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
+- [20221003150346](/zet/20221003150346/README.md) SSH brute force
+- [20221003150343](/zet/20221003150343/README.md) wordpress
+- [20221003150340](/zet/20221003150340/README.md) ansible
+- [20221003150326](/zet/20221003150326/README.md) top tier endpoint protection AV defender
+- [20221003150325](/zet/20221003150325/README.md) Microsoft Defender for Endpoint - enterprise protection
+- [20221003150324](/zet/20221003150324/README.md) vmware carbon black cloud
+- [20221003150321](/zet/20221003150321/README.md) arctic wolf
+- [20221003150320](/zet/20221003150320/README.md) mcaffee
+- [20221003150319](/zet/20221003150319/README.md) symantec
+- [20221003150318](/zet/20221003150318/README.md) sophos
+- [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
+- [20221003150314](/zet/20221003150314/README.md) default http config locations
+- [20221003150312](/zet/20221003150312/README.md) SMB
+- [20221003150310](/zet/20221003150310/README.md) burpsuite
+- [20221003150306](/zet/20221003150306/README.md) modify date with touch timestomping
+- [20221003150299](/zet/20221003150299/README.md) fixing golang module errors
+- [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module
+- [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
+- [20221003150289](/zet/20221003150289/README.md) default webroots
+- [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems
+- [20221003150283](/zet/20221003150283/README.md) default webroots debian system
+- [20221003150279](/zet/20221003150279/README.md) pfx extension PKCS#12 format certificate cracking
+- [20221003150274](/zet/20221003150274/README.md) web server file executable extensions
+- [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface
+- [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix
+- [20221003150268](/zet/20221003150268/README.md) IPMI intelligent platform management interface BMC
+- [20221003150265](/zet/20221003150265/README.md) block ciphers
+- [20221003150264](/zet/20221003150264/README.md) block ciphers AES DES blowfish
+- [20221003150259](/zet/20221003150259/README.md) firefox
+- [20221003150247](/zet/20221003150247/README.md) enterprise PAM
+- [20221003150242](/zet/20221003150242/README.md) identify service
+- [20221003150239](/zet/20221003150239/README.md) extract command for file type
+- [20221003150231](/zet/20221003150231/README.md) apk analysis
+- [20221003150227](/zet/20221003150227/README.md) grep patterns
+- [20221003150225](/zet/20221003150225/README.md) bettercap
+- [20221003150221](/zet/20221003150221/README.md) surface tablet
+- [20221003150215](/zet/20221003150215/README.md) kafkacat install
+- [20221003150210](/zet/20221003150210/README.md) kafkacat
+- [20221003150197](/zet/20221003150197/README.md) iptables rules
+- [20221003150193](/zet/20221003150193/README.md) convert
+- [20221003150191](/zet/20221003150191/README.md) zsh
+- [20221003150187](/zet/20221003150187/README.md) linux free up space
+- [20221003150184](/zet/20221003150184/README.md) add user to group
+- [20221003150182](/zet/20221003150182/README.md) install alacritty 
+- [20221003150176](/zet/20221003150176/README.md) ex commands
+- [20221003150174](/zet/20221003150174/README.md) less
+- [20221003150173](/zet/20221003150173/README.md) less replay script log
+- [20221003150171](/zet/20221003150171/README.md) linux capabilities
+- [20221003150168](/zet/20221003150168/README.md) dump process memory
+- [20221003150165](/zet/20221003150165/README.md) linux job control
+- [20221003150162](/zet/20221003150162/README.md) git config settings
+- [20221003150159](/zet/20221003150159/README.md) upgrade when apt is causing problems
+- [20221003150156](/zet/20221003150156/README.md) linux assorted commands
+- [20221003150154](/zet/20221003150154/README.md) cyberpunk retro machine project
+- [20221003150143](/zet/20221003150143/README.md) proxmox
+- [20221003150140](/zet/20221003150140/README.md) apt package
+- [20221003150134](/zet/20221003150134/README.md) DNS
+- [20221003150131](/zet/20221003150131/README.md) java download links
+- [20221003150129](/zet/20221003150129/README.md) tldr
+- [20221003150128](/zet/20221003150128/README.md) tldr pages location
+- [20221003150125](/zet/20221003150125/README.md) routing using a linux box enable ip forwarding
+- [20221003150122](/zet/20221003150122/README.md) routing using a linux box add router to routes on hosts
+- [20221003150120](/zet/20221003150120/README.md) routing using a linux box iptables rules
+- [20221003150115](/zet/20221003150115/README.md) socat
+- [20221003150113](/zet/20221003150113/README.md) socat execute program
+- [20221003150105](/zet/20221003150105/README.md) python scripting
+- [20221003150104](/zet/20221003150104/README.md) python scripting requests http
+- [20221003150100](/zet/20221003150100/README.md) python scripting argument variable argv
+- [20221003150079](/zet/20221003150079/README.md) tmux
+- [20221003150075](/zet/20221003150075/README.md) tmux
+- [20221003150071](/zet/20221003150071/README.md) vim edit multiple files
+- [20221003150070](/zet/20221003150070/README.md) vim edit multiple files add args while running and converting into tabs
+- [20221003150067](/zet/20221003150067/README.md) vim
+- [20221003150065](/zet/20221003150065/README.md) neovim specific
 
 Tags:
 
