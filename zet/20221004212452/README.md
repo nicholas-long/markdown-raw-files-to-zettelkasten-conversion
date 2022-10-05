@@ -1,11 +1,14 @@
 # keyword stuffing zettels to fix bash sh
 
-change "bash scripting sh" to point to bash scripting zettel
-original: zet/20221003151424/README.md    bash scripting      #bash #script
+original: 
+```
+zet/20221003151424/README.md    bash scripting      #bash #script
+```
 
 others:
-zet/20221003151332/README.md    bash scripting      #bash-scripting #check
-zet/20221003151329/README.md    bash scripting      #bash-scripting #stream
+zet/20221003151332/README.md    bash scripting
+20221003151332
+zet/20221003151329/README.md    bash scripting
 
 # Related
 
