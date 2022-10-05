@@ -9,7 +9,7 @@ while [[ $# -gt 0 ]]; do
     -p|--paging)
       PAGING=1
       ;;
-    -f|--file)
+    -f|--file|--forwarding-address)
       shift
       filearg="$1"
       ;;
@@ -26,7 +26,7 @@ while [[ $# -gt 0 ]]; do
       ;;
     -h|--help)
       echo "Usage: $0 action [ options ]"
-      echo "| action: [ new, search, print, refs, preview ]"
+      echo "| action: [ new, rm, search, print, refs, preview ]"
       echo "Options:"
       cat "$0" | grep '^\s\+-.|--.*' | sed 's/)$//'
       exit 1
@@ -59,6 +59,7 @@ case $action in
     echo "Created Zettel ID $id"
     ;;
   enum)
+    #TODO: join tags with related tags in enum
     find zet -name README.md | xargs awk '
       BEGIN { OFS="\t" }
       FNR == 1 {
@@ -94,6 +95,7 @@ case $action in
     ' $arg
     ;;
   search)
+    #TODO: full content searching
     $0 enum | grep "$query" | fzf -m --preview="$0 preview -f {} 2>/dev/null"
     ;;
   preview)
@@ -102,5 +104,14 @@ case $action in
       bat --color=always "$filearg"
     fi
     ;;
+  rm)
+    del_id="$arg"
+    forward_id="$filearg"
+    echo "$del_id -> $forward_id" > /dev/stderr
+    if [ -z "$forward_id" ]; then
+      echo "forwarding id is required to delete, pass with -f"
+      exit 1
+    fi
+    find zet -name README.md | xargs sed -i "/$del_id/s/^.*$/- $forward_id/"
+    ;;
 esac
-
