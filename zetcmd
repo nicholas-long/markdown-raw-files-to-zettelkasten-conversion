@@ -108,10 +108,15 @@ case $action in
     del_id="$arg"
     forward_id="$filearg"
     echo "$del_id -> $forward_id" > /dev/stderr
+    if [ -z "$del_id" ]; then
+      echo "unrecoverable error"
+      exit 1
+    fi
     if [ -z "$forward_id" ]; then
       echo "forwarding id is required to delete, pass with -f"
       exit 1
     fi
     find zet -name README.md | xargs sed -i "/$del_id/s/^.*$/- $forward_id/"
+    rm -rf zet/$del_id
     ;;
 esac
