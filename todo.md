@@ -1,3 +1,3 @@
 # todo
-- enrich step needs to only print unique IDs per file
+- delete dead links to zettels
 - add full content search step with `grep` before fzf

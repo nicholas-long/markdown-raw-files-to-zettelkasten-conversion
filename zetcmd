@@ -174,8 +174,24 @@ case $action in
       /^# [Rr]elated/ { pr = 1 }
       ' > references
       awk '
+      BEGIN { seen[""] = 0 }
+      BEGINFILE { delete seen ; seen[""] = 0 }
       /^- [0-9]{14} *$/ {
         id = $2
+        if (seen[id]) { next }
+        seen[id] = 1
+        "head -n 1 ../" id "/README.md" | getline heading
+        gsub(/^# ?/,"",heading)
+        print "- [" id "](/zet/" id "/README.md) " heading
+        next
+      }
+      /^- \[[0-9]{14}\]/ { # parse and reprint pretty references
+        temp = $0
+        gsub(/^- \[/, "", temp)
+        gsub(/].*$/,"", temp)
+        id = temp
+        if (seen[id]) { next }
+        seen[id] = 1
         "head -n 1 ../" id "/README.md" | getline heading
         gsub(/^# ?/,"",heading)
         print "- [" id "](/zet/" id "/README.md) " heading
