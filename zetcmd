@@ -17,7 +17,7 @@ while [[ $# -gt 0 ]]; do
       shift # pop arg
       query="$1"
       ;;
-    -t|--title)
+    -t|--title|--target)
       shift # pop arg
       title="$1"
       ;;
@@ -39,6 +39,7 @@ while [[ $# -gt 0 ]]; do
       else
         arg="$1"
       fi
+      #TODO: break for certain specific actions to keep rest of args for later
       ;;
   esac
   shift
@@ -120,6 +121,45 @@ case $action in
     rm -rf zet/$del_id
     $0 enrich
     ;;
+  scanback)
+    sorted_refs=$(mktemp)
+    for zid in $(ls zet); do
+      export zid
+      $0 refs $zid 2>/dev/null | sort > $sorted_refs
+      for z2 in $(cat $sorted_refs); do
+        if [ -z "$z2" ]; then # skip if empty
+          continue
+        fi
+        count=$($0 refs $z2 2>/dev/null | awk '$0 == ENVIRON["zid"]' | wc -l)
+        if [ $count == 0 ]; then
+          echo "$zid -> $z2"
+        fi
+      done
+    done
+    rm $sorted_refs
+    ;;
+  addref)
+    target="$title"
+    f="zet/$target/README.md"
+    d="zet/$target"
+    if [ -d "$d" ]; then
+      if [ -f "$f" ]; then
+        nvim -c ":execute \"normal! /^# Related$\<enter>}}O- $arg\<esc>\"" -c ':wq' $f
+      fi
+    fi
+    ;;
+  updateref)
+    tf=$(mktemp)
+    export prog="$0"
+    $0 scanback | awk 'NF == 3 {command = (ENVIRON["prog"] " addref -t " $3 " " $1); print command}' > $tf
+    if [ "$(wc -l $tf | awk '{print $1}')" != 0 ]; then
+      cat $tf
+      wc -l $tf
+      bash $tf
+      $0 enrich # recurse
+    fi
+    rm $tf
+    ;;
   enrich)
     for zid in $(ls zet); do
       if [ -z $"zid" ]; then
@@ -174,16 +214,16 @@ case $action in
         '
       echo ""
     done | awk '
-    BEGIN {
-      ignore["assorted"] = 1
-    }
-    /^#/ {
-      tag = $2
-      if (fn) close(fn)
-      fn = "tagindex/" tag ".md"
-    }
-    !( ignore[tag] ) { print > fn }
+      BEGIN {
+        ignore["assorted"] = 1
+      }
+      /^#/ {
+        tag = $2
+        if (fn) close(fn)
+        fn = "tagindex/" tag ".md"
+      }
+      !( ignore[tag] ) { print > fn }
     '
+    $0 updateref
     ;;
-    # end of enrich
 esac
