@@ -4,14 +4,23 @@ this is a list of possibly empty zettels.
 - added content.awk to get raw content of zettel
   - excluding references and empty lines
 
+- things that are okay
+  - [20221003151441](/zet/20221003151441/README.md) awk scripting
+  - [20221003151424](/zet/20221003151424/README.md) bash scripting
+  - [20221003151363](/zet/20221003151363/README.md) python scripting
+  - [20221003151335](/zet/20221003151335/README.md) bash command reference
+  - [20221003151338](/zet/20221003151338/README.md) awk scripting
+  - [20221003151332](/zet/20221003151332/README.md) bash scripting
+  - [20221003151329](/zet/20221003151329/README.md) bash scripting
+
+- things that need to be fixed
+  - [20221004203354](/zet/20221004203354/README.md) Related
+
 ` zet/20221005200242/README.md `
 
 # Related
 
-- [20221004203354](/zet/20221004203354/README.md) Related
-- [20221003151441](/zet/20221003151441/README.md) awk scripting
 - [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
-- [20221003151424](/zet/20221003151424/README.md) bash scripting
 - [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory
 - [20221003151418](/zet/20221003151418/README.md) bash scripting parse args with case statement
 - [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf
@@ -22,7 +31,6 @@ this is a list of possibly empty zettels.
 - [20221003151383](/zet/20221003151383/README.md) bash scripting get all tags and start walking their commits
 - [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
 - [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files
-- [20221003151363](/zet/20221003151363/README.md) python scripting
 - [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script
 - [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally
 - [20221003151356](/zet/20221003151356/README.md) python scripting urlencode every input line
@@ -32,10 +40,6 @@ this is a list of possibly empty zettels.
 - [20221003151346](/zet/20221003151346/README.md) awk and bash scripting partition split into files by column value analyzing CSV trade data : split into files for symbols
 - [20221003151345](/zet/20221003151345/README.md) awk and bash scripting partition split into files by column value check if column is nonempty
 - [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
-- [20221003151338](/zet/20221003151338/README.md) awk scripting
-- [20221003151335](/zet/20221003151335/README.md) bash command reference
-- [20221003151332](/zet/20221003151332/README.md) bash scripting
-- [20221003151329](/zet/20221003151329/README.md) bash scripting
 - [20221003151328](/zet/20221003151328/README.md) bash scripting convert text strings or wordlists
 - [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database
 - [20221003151321](/zet/20221003151321/README.md) get current date - linux bash scripting
@@ -267,32 +271,32 @@ this is a list of possibly empty zettels.
 - [20221003150422](/zet/20221003150422/README.md) kerberos attack on windows host ticket attacks extraction and harvesting
 - [20221003150421](/zet/20221003150421/README.md) kerberos attack on windows host Constrained delegation abuse
 - [20221003150419](/zet/20221003150419/README.md) text cipher encryption decryption tools
-- [20221003150418](/zet/20221003150418/README.md) text cipher encryption decryption tools Affine
-- [20221003150417](/zet/20221003150417/README.md) text cipher encryption decryption tools Atbash
-- [20221003150416](/zet/20221003150416/README.md) text cipher encryption decryption tools Baconian
-- [20221003150415](/zet/20221003150415/README.md) text cipher encryption decryption tools Bifid
-- [20221003150414](/zet/20221003150414/README.md) text cipher encryption decryption tools Caesarian Shift
-- [20221003150413](/zet/20221003150413/README.md) text cipher encryption decryption tools Keyed Caesar
-- [20221003150412](/zet/20221003150412/README.md) text cipher encryption decryption tools Columnar
-- [20221003150411](/zet/20221003150411/README.md) text cipher encryption decryption tools Transposition
-- [20221003150410](/zet/20221003150410/README.md) text cipher encryption decryption tools Double Transposition
-- [20221003150409](/zet/20221003150409/README.md) text cipher encryption decryption tools Cryptogram Solver
-- [20221003150408](/zet/20221003150408/README.md) text cipher encryption decryption tools Gronsfeld
-- [20221003150407](/zet/20221003150407/README.md) text cipher encryption decryption tools Morse Code
-- [20221003150406](/zet/20221003150406/README.md) text cipher encryption decryption tools Letter Numbers
-- [20221003150405](/zet/20221003150405/README.md) text cipher encryption decryption tools One Time Pad
-- [20221003150404](/zet/20221003150404/README.md) text cipher encryption decryption tools Playfair
-- [20221003150403](/zet/20221003150403/README.md) text cipher encryption decryption tools Railfence
-- [20221003150402](/zet/20221003150402/README.md) text cipher encryption decryption tools ROT13
-- [20221003150401](/zet/20221003150401/README.md) text cipher encryption decryption tools Rotate
-- [20221003150400](/zet/20221003150400/README.md) text cipher encryption decryption tools Skip
-- [20221003150399](/zet/20221003150399/README.md) text cipher encryption decryption tools Substitution
-- [20221003150398](/zet/20221003150398/README.md) text cipher encryption decryption tools Übchi
-- [20221003150397](/zet/20221003150397/README.md) text cipher encryption decryption tools Vigenere
-- [20221003150396](/zet/20221003150396/README.md) text cipher encryption decryption tools Keyed Vigenere
-- [20221003150395](/zet/20221003150395/README.md) text cipher encryption decryption tools Vigenere Autokey
-- [20221003150394](/zet/20221003150394/README.md) text cipher encryption decryption tools Cryptogram Solver
-- [20221003150393](/zet/20221003150393/README.md) text cipher encryption decryption tools Letter Frequency
+- [20221003150392](/zet/20221003150392/README.md) text cipher encryption decryption tools Text Manipulator
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
+- 20221003150392
 - [20221003150391](/zet/20221003150391/README.md) file backup fuzzer
 - [20221003150389](/zet/20221003150389/README.md) krbrelayx
 - [20221003150388](/zet/20221003150388/README.md) krbrelayx Kerberos relaying and unconstrained delegation abuse toolkit

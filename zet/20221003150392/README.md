@@ -1,5 +1,36 @@
 # text cipher encryption decryption tools Text Manipulator
+
 http://rumkin.com/tools/cipher/
+
+featured types:
+- Affine
+- Atbash
+- Baconian
+- Bifid
+- Caesarian Shift
+- Keyed Caesar
+- Columnar
+- Transposition
+- Double Transposition
+- Cryptogram Solver
+- Gronsfeld
+- Morse Code
+- Letter Numbers
+- One Time Pad
+- Playfair
+- Railfence
+- ROT13
+- Rotate
+- Skip
+- Substitution
+- Übchi
+- Vigenere
+- Keyed Vigenere
+- Vigenere Autokey
+- Cryptogram Solver
+- Letter Frequency
+
+` zet/20221003150392/README.md `
 
 # Related
 
@@ -8,4 +39,4 @@ http://rumkin.com/tools/cipher/
 
 Tags:
 
-    #hacking #repositories #important 
+    #hacking #repositories #important #decrypt 
