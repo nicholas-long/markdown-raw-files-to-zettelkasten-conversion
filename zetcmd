@@ -155,5 +155,35 @@ case $action in
 
       cd - > /dev/null
     done
+    # get all tags
+    tail -n 1 zet/*/README.md | awk '/^    #/' | sed -e 's/^    //g' -e 's/ /\n/g' | sort -u > all_tags
+    # index tags
+    rm -rf tagindex
+    mkdir -p tagindex
+
+    for t in $(cat all_tags); do
+      echo "${t//#/#\ }"
+      find zet -name README.md | \
+        xargs grep -R "$t " | \
+        sed -e 's/:.*//' -e 's/.*/\[\](\/&)/' | \
+        awk -F / '
+        {
+          gsub(/\[\]/,"[" $3 "]")
+          print "-", $0
+        }
+        '
+      echo ""
+    done | awk '
+    BEGIN {
+      ignore["assorted"] = 1
+    }
+    /^#/ {
+      tag = $2
+      if (fn) close(fn)
+      fn = "tagindex/" tag ".md"
+    }
+    !( ignore[tag] ) { print > fn }
+    '
     ;;
+    # end of enrich
 esac
