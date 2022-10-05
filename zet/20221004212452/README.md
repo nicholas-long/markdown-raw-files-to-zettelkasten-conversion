@@ -29,6 +29,7 @@ zet/20221003151329/README.md    bash scripting
 - [20221003150093](/zet/20221003150093/README.md) bash scripts sh destroy containers and images
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
+- [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 
 Tags:
 
