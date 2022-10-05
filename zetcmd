@@ -182,7 +182,9 @@ case $action in
         seen[id] = 1
         "head -n 1 ../" id "/README.md" | getline heading
         gsub(/^# ?/,"",heading)
-        print "- [" id "](/zet/" id "/README.md) " heading
+        if (system("test -f ../" id "/README.md") == 0) {
+          print "- [" id "](/zet/" id "/README.md) " heading
+        }
         next
       }
       /^- \[[0-9]{14}\]/ { # parse and reprint pretty references
@@ -194,7 +196,9 @@ case $action in
         seen[id] = 1
         "head -n 1 ../" id "/README.md" | getline heading
         gsub(/^# ?/,"",heading)
-        print "- [" id "](/zet/" id "/README.md) " heading
+        if (system("test -f ../" id "/README.md") == 0) {
+          print "- [" id "](/zet/" id "/README.md) " heading
+        }
         next
       }
       { print }
