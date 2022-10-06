@@ -6,6 +6,7 @@
 - vim
   - vi core fundamentals = portable
   - interesting combinations of vim filters and bash scripts
+- read the manual
 
 ` zet/20221006033248/README.md `
 

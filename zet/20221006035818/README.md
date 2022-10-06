@@ -31,6 +31,10 @@ these videos are called "beginner boost" but they are filled with incredibly use
       - i think switching scripts from sh to awk should be easy, for instance
   - shellcheck
   - started to demonstrate some sort of script injection `1:52:00`
+  - weird tangent - playing terminal bells with `printf "\a"` @ `2:04:00`
+  - alpine shell builtins @ `2:09:00`
+    - printf - yes
+    - tee is a command not a builtin
 
 ` zet/20221006035818/README.md `
 
