@@ -2,6 +2,8 @@
 
 list of zettelkasten resources to check out on github.
 
+finished through page 12 of search https://github.com/search?p=12&q=zettelkasten&type=Repositories
+
 - tools
     - https://github.com/Zettlr/Zettlr
     - https://github.com/Zettelkasten-Team/Zettelkasten
