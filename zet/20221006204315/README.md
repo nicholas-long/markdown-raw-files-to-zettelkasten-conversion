@@ -4,9 +4,11 @@
   - edit anywhere integrated vscode editor with `.` hotkey
   - loosely forms directed graph data using `[[links]]`
     - but i think those do not link together in github markdown ?
+      - it would be simple enough to create an awk script to convert link formats.
 - large data set
   - ID based zettelkasten like `zet`
     - no decisions where to put things
+  - must select tags when creating
 
 ` zet/20221006204315/README.md `
 

@@ -5,6 +5,7 @@ these videos are called "beginner boost" but they are filled with incredibly use
 
 - video 7?
   - ex commands
+
 - video 8
   - zsh is not posix compliant with numbers, and that's dangerous for math
     - why do math in bash?
@@ -14,8 +15,8 @@ these videos are called "beginner boost" but they are filled with incredibly use
       - `!}` paragraphs
         - `!}` default shortcut to run rest of paragraph through filter program
         - delete `!` char for an exact ex spec of the paragraph to grep out and substitute things
-
   - fundamentals: it is good to go back and learn the fundamentals of things like vi and ed/ex to work with things like reverse shells on alpine dockers, where most familiar and useful GNU/Linux utilities will not be installed in favor of lightweight busybox implementations.
+
 - video week 9
   - posix info @ `0:49:00`
   - scripting
@@ -29,7 +30,9 @@ these videos are called "beginner boost" but they are filled with incredibly use
     - create commands to put new simple scripts in places in your user path
     - don't use file extensions - reasonable idea
       - i think switching scripts from sh to awk should be easy, for instance
-  - shellcheck
+  - shellcheck - check bash scripts
+    - POSIX incompatibility
+    - common security issues
   - started to demonstrate some sort of script injection `1:52:00`
   - weird tangent - playing terminal bells with `printf "\a"` @ `2:04:00`
   - alpine shell builtins @ `2:09:00`
@@ -40,13 +43,28 @@ these videos are called "beginner boost" but they are filled with incredibly use
   - parameter expansion in bash manual @ `2:57:00`
     - ``` The  `$'  character  introduces  parameter expansion, command substitution, or arithmetic expansion.  ```
   - passing environment variables into scripts as vim filters @ `3:13:00`
+  - cant put backtick inside a backtick @ `03:20:00`
+    - every double quote has a separate context
+  - function is like a machine @ `03:32:00`
+  - why double quotes around arguments @ `03:42:00`
+    - double quote all the things, all the time.
+  - R command in vim is useful for overwriting timestamps in this video
+  - interesting printf behavior @ `03:44:00`
+    - if printf has more arguments than `%` formats, then it starts repeating and acting like a word-by-word processor.
+    ```
+    printf "%s is cool\n" cats unix
+    cats is cool
+    unix is cool
+    ```
+
+- video week 10
+  - asdf @ `00:00:00`
 
 ` zet/20221006035818/README.md `
 
 # Related
 
 - [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames
-
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method
 - [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`

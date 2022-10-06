@@ -3,17 +3,15 @@
 - heard about method from rwxrob
 - German sociologist Niklas Luhmann (1927–1998)
 - box of paper slips
+- what extensions are compatible with vscode / github code editor and `zet`?
 
 ` zet/20221006013313/README.md `
 
 # Related
 
 - [20221006204315](/zet/20221006204315/README.md) fastest way to take graph notes
-
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
-
 - [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method
-
 - https://en.wikipedia.org/wiki/Zettelkasten
 - https://github.com/rwxrob/zet
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
