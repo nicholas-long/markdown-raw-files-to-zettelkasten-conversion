@@ -8,6 +8,8 @@
 
 # Related
 
+- [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method
+
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 
 Tags:
