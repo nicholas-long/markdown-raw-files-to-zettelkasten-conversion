@@ -1,4 +1,6 @@
-# bash scripting
+# bash scripts
+
+This is a collection of bash scripts
 
 # Related
 
