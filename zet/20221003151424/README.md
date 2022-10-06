@@ -6,6 +6,8 @@ This is a collection of bash scripts
 
 # Related
 
+- [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
+
 - [20221003151423](/zet/20221003151423/README.md) bash scripting urlencode and base64 encode lines individually
 - [20221003151422](/zet/20221003151422/README.md) bash scripting use awk to print only unique lines as a stream processor
 - [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory

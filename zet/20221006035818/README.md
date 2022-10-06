@@ -42,6 +42,8 @@ these videos are called "beginner boost" but they are filled with incredibly use
 
 # Related
 
+- [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
+
 - [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method
 - [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`
 - [20221006063114](/zet/20221006063114/README.md) small files are stored in inodes in ext4
