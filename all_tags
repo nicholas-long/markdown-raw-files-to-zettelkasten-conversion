@@ -54,6 +54,7 @@
 #ex
 #example
 #expect
+#ext4
 #extract
 #fail2ban
 #feroxbuster
@@ -131,6 +132,7 @@
 #pwntools
 #python
 #quick
+#reference
 #relative
 #repositories
 #responder
@@ -178,6 +180,7 @@
 #valid
 #vbscript
 #video
+#videos
 #vim
 #virtualbox
 #vm

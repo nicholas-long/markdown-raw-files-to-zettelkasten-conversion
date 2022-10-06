@@ -20,7 +20,7 @@ colors: [red, green, blue, orange]
 
 # Related
 
-- 20221003151281
+- [20221003151281](/zet/20221003151281/README.md) YAML
 - https://www.educative.io/answers/how-to-represent-arrays-in-yaml
 
 Tags:

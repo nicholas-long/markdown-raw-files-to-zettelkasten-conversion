@@ -30,7 +30,9 @@ these videos are called "beginner boost" but they are filled with incredibly use
 
 # Related
 
-- [20221006063114](/zet/20221006063114/README.md) small files stored in inodes
+- [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`
+
+- [20221006063114](/zet/20221006063114/README.md) small files are stored in inodes in ext4
 
 - <https://www.youtube.com/watch?v=yu2kO2yb7L8&list=PLrK9UeDMcQLpkdoPTNG7nSBA6Bb4AoJX1&index=9>
 - [20221006033248](/zet/20221006033248/README.md) rwxrob

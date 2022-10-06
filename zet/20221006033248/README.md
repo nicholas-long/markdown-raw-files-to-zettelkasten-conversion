@@ -11,7 +11,9 @@
 
 # Related
 
-- [20221006063114](/zet/20221006063114/README.md) small files stored in inodes
+- [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`
+
+- [20221006063114](/zet/20221006063114/README.md) small files are stored in inodes in ext4
 
 - https://github.com/rwxrob
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
