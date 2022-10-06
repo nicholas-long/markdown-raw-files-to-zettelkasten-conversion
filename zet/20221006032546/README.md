@@ -6,6 +6,9 @@ name: zetcmd
 - future enhancements
   - search multiple words in entire zettel content
   - add spawn command to spawn new note from existing
+  - automatic scripts stored in zettels to keep real info and data up to date
+  - github actions
+    - enrich and update references
   - fzf interactive link traversal browsing
 
 ```

@@ -1,5 +1,7 @@
 # assorted notes from videos rwxrob notes `Tue Oct 4`
 
+this stuff is from before adding zkilstak zettel.
+
 - OSEE exam - experience with VMs required
 - reference to twitch streamer "gamozo"?
   - virtual machines
