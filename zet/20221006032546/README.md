@@ -20,6 +20,10 @@ Options:
 
 # Related
 
+- [20221006141216](/zet/20221006141216/README.md) weird issue with enrich
+
+- [20221006140520](/zet/20221006140520/README.md) zet cmd spawn feature
+
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
