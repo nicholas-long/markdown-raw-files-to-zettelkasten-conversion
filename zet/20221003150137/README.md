@@ -11,8 +11,8 @@ sudo apt update && sudo apt upgrade && sudo apt install -y virtualbox
 
 # Related
 
-- 20221006025356
-- 20221006025730
+- [20221006025356](/zet/20221006025356/README.md) linux
+- [20221006025730](/zet/20221006025730/README.md) apt repositories
 
 Tags:
 

@@ -11,6 +11,7 @@
 - https://en.wikipedia.org/wiki/Zettelkasten
 - https://github.com/rwxrob/zet
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion
+- [20221006020303](/zet/20221006020303/README.md) zettelkasten note types
 
 Tags:
 

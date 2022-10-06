@@ -4,6 +4,7 @@
 #ansible
 #api
 #apk
+#apt
 #assorted
 #awk
 #awk-scripting
@@ -109,6 +110,7 @@
 #networking
 #nfs
 #nmap
+#notes
 #openssl
 #oracle
 #os
@@ -174,6 +176,8 @@
 #valid
 #vbscript
 #vim
+#virtualbox
+#vm
 #web
 #wfuzz
 #windows

@@ -1,3 +1,3 @@
-# zettelkasten
+# notes
 - [20221006020303](/zet/20221006020303/README.md)
 
