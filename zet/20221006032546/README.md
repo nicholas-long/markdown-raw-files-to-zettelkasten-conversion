@@ -3,13 +3,6 @@
 name: zetcmd
 - need to put in PATH
   - add default PATH entry for user for home dir scripts?
-- future enhancements
-  - search multiple words in entire zettel content
-  - add spawn command to spawn new note from existing
-  - automatic scripts stored in zettels to keep real info and data up to date
-  - github actions
-    - enrich and update references
-  - fzf interactive link traversal browsing
 
 ```
 Usage: ./zetcmd action [ options ]
@@ -26,6 +19,8 @@ Options:
 ` zet/20221006032546/README.md `
 
 # Related
+
+- [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 
