@@ -25,22 +25,24 @@ these videos are called "beginner boost" but they are filled with incredibly use
   - inodes and small files @ `1:11:00`
   - moving across filesystem boundaries does not work
     - arch puts `/tmp` in a different filesystem
+  - scripts and putting `./` in `PATH` @ `1:45:00`
+    - create commands to put new simple scripts in places in your user path
+    - don't use file extensions - reasonable idea
+      - i think switching scripts from sh to awk should be easy, for instance
+  - shellcheck
+  - started to demonstrate some sort of script injection `1:52:00`
 
 ` zet/20221006035818/README.md `
 
 # Related
 
 - [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method
-
 - [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`
-
 - [20221006063114](/zet/20221006063114/README.md) small files are stored in inodes in ext4
-
 - <https://www.youtube.com/watch?v=yu2kO2yb7L8&list=PLrK9UeDMcQLpkdoPTNG7nSBA6Bb4AoJX1&index=9>
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221003150073](/zet/20221003150073/README.md) Run vim as a script on datafile, write to file `output`
 - [20221003150175](/zet/20221003150175/README.md) ex commands  Some of these might apply to ed as well
-
 
 Tags:
 
