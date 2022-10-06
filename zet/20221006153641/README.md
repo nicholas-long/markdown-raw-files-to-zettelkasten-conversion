@@ -5,6 +5,9 @@ list of zettelkasten resources to check out on github.
 finished through page 12 of search https://github.com/search?p=12&q=zettelkasten&type=Repositories
 
 - tools
+    - tools for converting
+        - https://github.com/akosbalasko/yarle
+        - https://github.com/jmatsuzaki/note-normalization-for-zettelkasten
     - https://github.com/Zettlr/Zettlr
     - https://github.com/Zettelkasten-Team/Zettelkasten
     - https://github.com/org-roam/org-roam-ui
@@ -21,7 +24,8 @@ finished through page 12 of search https://github.com/search?p=12&q=zettelkasten
         - atom editor package
     - https://github.com/sheilaCat/zknotes
         - vscode
-    - Gatsby
+    - Gatsby https://www.gatsbyjs.com/
+        - React-based, open-source
     - https://github.com/vifon/zettel2
         - emacs org mode
     - https://github.com/KevinBockelandt/notoire
@@ -33,7 +37,7 @@ finished through page 12 of search https://github.com/search?p=12&q=zettelkasten
         - works with google drive
     - https://github.com/oberblastmeister/neuron.nvim
         - Note: If you want to use this plugin with the latest neuron version please use the unstable branch
-    - neuron program
+    - neuron program https://neuron.zettel.page/
     - https://github.com/jameschip/Zettelkasten
     - https://github.com/mickael-menu/zk-nvim
         - actively maintained
@@ -56,9 +60,6 @@ finished through page 12 of search https://github.com/search?p=12&q=zettelkasten
         - rust
     - https://github.com/jannekem/hugo-zettel
         - A Hugo theme for building your own Zettelkasten as a static website
-    - converting
-        - https://github.com/akosbalasko/yarle
-        - https://github.com/jmatsuzaki/note-normalization-for-zettelkasten
 - knowledge
     - https://github.com/rwxrob/zet
     - https://github.com/Kuratoro/zk.zettel.page
