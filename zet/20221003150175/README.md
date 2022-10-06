@@ -72,6 +72,7 @@ text
 
 - [20221003150176](/zet/20221003150176/README.md) ex commands
 - ~/kb/linux/ex-notes.md
+- [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos
 
 Tags:
 

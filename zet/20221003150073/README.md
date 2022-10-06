@@ -12,5 +12,6 @@ vim -c ':execute "normal! yyp\<esc>:w! output\<enter>\<esc>:q!\<enter>"' datafil
 
 
 Tags:
+- [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos
 
     
