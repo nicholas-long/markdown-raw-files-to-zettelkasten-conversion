@@ -29,7 +29,7 @@ Options:
 
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 
-- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion
+- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221006032933](/zet/20221006032933/README.md) problems / issues with zet cmd
 - [20221006033248](/zet/20221006033248/README.md) rwxrob

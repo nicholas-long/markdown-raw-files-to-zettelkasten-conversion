@@ -21,7 +21,7 @@ this is a list of possibly empty zettels.
 
 # Related
 
-- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion
+- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
 - [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory
 - [20221003151418](/zet/20221003151418/README.md) bash scripting parse args with case statement
