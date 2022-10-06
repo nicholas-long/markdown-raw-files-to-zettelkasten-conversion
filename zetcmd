@@ -3,11 +3,11 @@ SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
 # parse args with case statement
 VERBOSE=0
-PAGING="no"
+makeedit=0
 while [[ $# -gt 0 ]]; do
   case $1 in
-    -p|--paging)
-      PAGING=1
+    -e|--edit)
+      makeedit=1
       ;;
     -f|--file|--forwarding-address)
       shift
@@ -61,8 +61,28 @@ case $action in
       sed -i "s|{{title}}|$title|" "$filepath"
     fi
     sed -i "s|00000000000000|$id|" "$filepath"
-    nvim "$filepath"
+    if [ 0 != "$makeedit" ]; then
+      nvim "$filepath"
+    fi
     echo "Created Zettel ID $id"
+    ;;
+  spawn)
+    ids=$(mktemp)
+    $0 find -q "$query" 2>/dev/null | fzf -m | awk '
+      {
+        split($1,arr,"/")
+        id = arr[2]
+        print id
+      }
+      ' > $ids
+    newid=$($0 new -t "$query" | awk '/Created Zettel ID/ { print $NF }')
+    sed -i '/{{ref}}/d' zet/$newid/README.md # remove template ref stub
+    for link in $(cat $ids); do
+      $0 addref -t "$newid" "$link"
+    done
+    rm $ids
+    echo "spawned new $newid" > /dev/stderr
+    nvim zet/$newid/README.md
     ;;
   enum)
     #TODO: join tags with related tags in enum
