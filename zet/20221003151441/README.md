@@ -1,5 +1,7 @@
 # awk scripting
 
+Collection of awk scripting examples
+
 # Related
 
 - [20221003151440](/zet/20221003151440/README.md) awk scripting replace words with colorized versions
@@ -21,4 +23,4 @@
 
 Tags:
 
-    #awk #script 
+    #awk #script #example 

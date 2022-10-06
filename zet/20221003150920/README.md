@@ -1,5 +1,12 @@
 # linux enumeration quick commands
 
+collection of linux enumeration commands
+```bash
+ps -efw --forest
+ss -lnpt
+find /etc -writable 2>/dev/null
+```
+
 # Related
 
 - [20221003150919](/zet/20221003150919/README.md) linux enumeration quick commands list all recursively with ls sorting by modification date within directories
@@ -27,4 +34,4 @@
 
 Tags:
 
-    #command #hacking #privesc #enumeration 
+    #command #hacking #privesc #enumeration #command 
