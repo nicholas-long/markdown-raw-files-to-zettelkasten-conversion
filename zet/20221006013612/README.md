@@ -6,6 +6,8 @@ the process of converting markdown directories/files/heading level hierarchy not
 
 # Related
 
+- [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
+
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
