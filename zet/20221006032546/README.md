@@ -3,6 +3,9 @@
 name: zetcmd
 - need to put in PATH
   - add default PATH entry for user for home dir scripts?
+- future enhancements
+  - search multiple words in entire zettel content
+  - fzf interactive link traversal browsing
 
 ```
 Usage: ./zetcmd action [ options ]
