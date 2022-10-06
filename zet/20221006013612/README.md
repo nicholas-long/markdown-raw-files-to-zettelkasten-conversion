@@ -15,6 +15,7 @@ the process of converting markdown directories/files/heading level hierarchy not
 - [20221006012927](/zet/20221006012927/README.md) update multiple zettel links
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- https://github.com/evantravers/plaintext-migration
 
 Tags:
 

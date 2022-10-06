@@ -5,6 +5,7 @@ name: zetcmd
   - add default PATH entry for user for home dir scripts?
 - future enhancements
   - search multiple words in entire zettel content
+  - add spawn command to spawn new note from existing
   - fzf interactive link traversal browsing
 
 ```
