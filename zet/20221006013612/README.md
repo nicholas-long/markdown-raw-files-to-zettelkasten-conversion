@@ -1,4 +1,4 @@
-# markdown to zettelkasten conversion
+# markdown to zettelkasten conversion project
 
 the process of converting markdown directories/files/heading level hierarchy notes into zettelkasten format.
 
@@ -19,4 +19,4 @@ the process of converting markdown directories/files/heading level hierarchy not
 
 Tags:
 
-    #zettelkasten
+    #zettelkasten #project 
