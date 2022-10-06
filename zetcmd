@@ -177,7 +177,8 @@ case $action in
     d="zet/$target"
     if [ -d "$d" ]; then
       if [ -f "$f" ]; then
-        nvim -c ":execute \"normal! /^# Related$\<enter>}}O- $arg\<esc>\"" -c ':wq' $f
+        sed -i -e '/^# Related/a \
+' -e "/^# Related/a - $arg" "$f"
       fi
     fi
     ;;
