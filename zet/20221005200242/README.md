@@ -244,7 +244,6 @@ this is a list of possibly empty zettels.
 - [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes
 - [20221003150503](/zet/20221003150503/README.md) pwntools
 - [20221003150497](/zet/20221003150497/README.md) Machine Info
-- [20221003150496](/zet/20221003150496/README.md) Machine Info IP
 - [20221003150494](/zet/20221003150494/README.md) Machine Info Hostnames
 - [20221003150493](/zet/20221003150493/README.md) Machine Info Subdomains
 - [20221003150492](/zet/20221003150492/README.md) Machine Info emails
