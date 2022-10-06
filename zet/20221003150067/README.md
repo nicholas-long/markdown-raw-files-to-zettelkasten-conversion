@@ -4,6 +4,10 @@
 
 # Related
 
+- [20221006214729](/zet/20221006214729/README.md) alh4zr3d
+
+- [20221006214348](/zet/20221006214348/README.md) ippsec
+
 - [20221003150066](/zet/20221003150066/README.md) vim diff
 - ~/kb/vim/vim.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix

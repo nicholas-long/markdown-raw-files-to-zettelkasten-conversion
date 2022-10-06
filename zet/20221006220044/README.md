@@ -21,19 +21,19 @@ the process of adding stream notes today.
 
 # Related
 
-- 20221006213414
+- [20221006213414](/zet/20221006213414/README.md) retired machines
 
-- 20221006214142
+- [20221006214142](/zet/20221006214142/README.md) streamers
 
-- 20221006214348
+- [20221006214348](/zet/20221006214348/README.md) ippsec
 
-- 20221006213130
+- [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 
-- 20221006213311
+- [20221006213311](/zet/20221006213311/README.md) hackthebox
 
-- 20221006213953
+- [20221006213953](/zet/20221006213953/README.md) video notes
 
-- 20221006013612
+- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 
 
 Tags:

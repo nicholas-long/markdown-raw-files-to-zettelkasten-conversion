@@ -18,6 +18,8 @@ this stuff is from before adding zkilstak zettel.
 
 # Related
 
+- [20221006213953](/zet/20221006213953/README.md) video notes
+
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos
 

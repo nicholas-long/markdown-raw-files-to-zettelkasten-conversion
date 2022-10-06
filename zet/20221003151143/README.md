@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
+
 - [20221003151144](/zet/20221003151144/README.md) active directory 
 - [20221003151142](/zet/20221003151142/README.md) active directory  exploiting permissions WriteDacl
 - [20221003151141](/zet/20221003151141/README.md) active directory  exploiting permissions GenericAll

@@ -6,6 +6,8 @@ the process of converting markdown directories/files/heading level hierarchy not
 
 # Related
 
+- [20221006220044](/zet/20221006220044/README.md) adding stream notes
+
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
 
 - [20221006145626](/zet/20221006145626/README.md) why does rwxrob's zettelkasten have so few links?

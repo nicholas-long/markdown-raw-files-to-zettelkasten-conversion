@@ -24,6 +24,8 @@ for each path
 
 # Related
 
+- [20221006215135](/zet/20221006215135/README.md) siren
+
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
 

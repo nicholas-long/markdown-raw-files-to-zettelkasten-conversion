@@ -5,6 +5,10 @@ https://github.com/OWASP/CheatSheetSeries
 
 # Related
 
+- [20221006215353](/zet/20221006215353/README.md) InsiderPHD
+
+- [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
+
 
 Tags:
 

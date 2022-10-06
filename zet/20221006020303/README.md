@@ -18,6 +18,8 @@ need more graph tools to clean up in order to do something like that.
 
 # Related
 
+- [20221006213953](/zet/20221006213953/README.md) video notes
+
 - [20221006204315](/zet/20221006204315/README.md) fastest way to take graph notes
 
 - [20221006145626](/zet/20221006145626/README.md) why does rwxrob's zettelkasten have so few links?

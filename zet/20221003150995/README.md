@@ -12,6 +12,8 @@
 
 # Related
 
+- [20221006215353](/zet/20221006215353/README.md) InsiderPHD
+
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - ~/kb/hacking/methodology/API-enumeration.md
 

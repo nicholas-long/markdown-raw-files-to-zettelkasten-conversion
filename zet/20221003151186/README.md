@@ -19,6 +19,8 @@
 
 # Related
 
+- [20221006215353](/zet/20221006215353/README.md) InsiderPHD
+
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
 
