@@ -1,6 +1,6 @@
 # markdown to zettelkasten conversion
 
-the process of converting markdonw directories/files/heading level hierarchy notes into zettelkasten format.
+the process of converting markdown directories/files/heading level hierarchy notes into zettelkasten format.
 
 ` zet/20221006013612/README.md `
 
