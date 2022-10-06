@@ -1,5 +1,8 @@
 # weird issue with enrich
 
+- could be related to directories that are for deleted zettels that are not removed by git
+    - when i am testing stuff and deleting bad zettels, but the id remains, it could keep showing up in lists
+
 command output
 
 ```
