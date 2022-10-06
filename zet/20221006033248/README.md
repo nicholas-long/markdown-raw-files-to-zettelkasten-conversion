@@ -11,6 +11,8 @@
 
 # Related
 
+- [20221006063114](/zet/20221006063114/README.md) small files stored in inodes
+
 - https://github.com/rwxrob
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
