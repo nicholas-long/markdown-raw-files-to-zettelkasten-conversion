@@ -1,5 +1,7 @@
 # /etc/passwd writable line privilege escalation exploit
 
+` zet/20221003150926/README.md `
+
 # Related
 
 - [20221003150925](/zet/20221003150925/README.md) /etc/passwd writable line privilege escalation exploit write new root user line

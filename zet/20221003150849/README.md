@@ -1,5 +1,7 @@
 # hydra brute force HTTP basic authentication
 
+` zet/20221003150849/README.md `
+
 # Related
 
 - [20221003150848](/zet/20221003150848/README.md) hydra brute force HTTP basic authentication also works for NTLM

@@ -3,6 +3,8 @@
 hydra $IP mysql -C /usr/share/seclists/Passwords/Default-Credentials/mysql-betterdefaultpasslist.txt -t 1
 ```
 
+` zet/20221003150806/README.md `
+
 # Related
 
 - [20221003150807](/zet/20221003150807/README.md) brute force default credentials

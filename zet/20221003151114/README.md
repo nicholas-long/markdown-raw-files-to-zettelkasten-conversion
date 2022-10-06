@@ -2,6 +2,8 @@
 set to auto start
 sc config SVC_NAME start= auto
 
+` zet/20221003151114/README.md `
+
 # Related
 
 - [20221003151115](/zet/20221003151115/README.md) dos commands services sc

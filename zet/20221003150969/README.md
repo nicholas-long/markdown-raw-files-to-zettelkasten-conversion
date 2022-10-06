@@ -7,6 +7,8 @@
 - install burp certificate
 - see what API calls the app is making
 
+` zet/20221003150969/README.md `
+
 # Related
 
 - [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing

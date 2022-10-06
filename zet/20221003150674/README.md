@@ -3,6 +3,8 @@ DCOnly
 not detectable as malicious, only queries DC machine.
 ordinary bloodhound collection methods query all machines.
 
+` zet/20221003150674/README.md `
+
 # Related
 
 - [20221003150677](/zet/20221003150677/README.md) bloodhound

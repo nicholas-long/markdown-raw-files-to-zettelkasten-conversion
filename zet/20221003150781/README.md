@@ -5,6 +5,8 @@ cd enum4linux-ng/
 python3 enum4linux-ng.py -u guest $IP
 ```
 
+` zet/20221003150781/README.md `
+
 # Related
 
 - [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen

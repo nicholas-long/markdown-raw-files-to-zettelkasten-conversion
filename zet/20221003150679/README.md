@@ -3,6 +3,8 @@
 atftpd --daemon --port 69 /var/tftp
 ```
 
+` zet/20221003150679/README.md `
+
 # Related
 
 - [20221003150681](/zet/20221003150681/README.md) tftp

@@ -1,5 +1,7 @@
 # mysql mariadb
 
+` zet/20221003151236/README.md `
+
 # Related
 
 - [20221003151235](/zet/20221003151235/README.md) mysql mariadb display query output as pretty printed text with column names

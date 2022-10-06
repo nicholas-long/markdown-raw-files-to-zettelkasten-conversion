@@ -3,6 +3,8 @@
 snmp-check $IP
 ```
 
+` zet/20221003150695/README.md `
+
 # Related
 
 - [20221003150698](/zet/20221003150698/README.md) SNMP enumeration command

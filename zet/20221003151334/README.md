@@ -3,6 +3,8 @@
 realpath $FILE
 ```
 
+` zet/20221003151334/README.md `
+
 # Related
 
 - [20221003151335](/zet/20221003151335/README.md) bash command reference

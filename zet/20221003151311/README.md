@@ -3,6 +3,8 @@
 echo ${param:?"param is required. exiting."}
 ```
 
+` zet/20221003151311/README.md `
+
 # Related
 
 - [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax

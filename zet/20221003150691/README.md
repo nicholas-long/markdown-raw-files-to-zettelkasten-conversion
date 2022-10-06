@@ -1,5 +1,7 @@
 # wpscan initial vulnerable themes
 
+` zet/20221003150691/README.md `
+
 # Related
 
 - [20221003150693](/zet/20221003150693/README.md) wpscan initial

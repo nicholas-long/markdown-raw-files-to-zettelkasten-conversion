@@ -11,6 +11,8 @@ find . -type f -name '*.gif'
 ```
 
 ~/kb/bash-scripting/exif-all-images.sh
+` zet/20221003151396/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

@@ -1,5 +1,7 @@
 # iptables rules
 
+` zet/20221003150197/README.md `
+
 # Related
 
 - [20221003150196](/zet/20221003150196/README.md) iptables rules forward all traffic between two interfaces

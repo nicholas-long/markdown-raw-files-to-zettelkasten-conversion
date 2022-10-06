@@ -9,6 +9,8 @@
       register: "output"
 ```
 
+` zet/20221003150336/README.md `
+
 # Related
 
 - [20221003150338](/zet/20221003150338/README.md) ansible exploiting playbook

@@ -18,6 +18,8 @@
   - JSON object prototype pollution
   - fuzz all parameters as get and post with get and post http methods
 
+` zet/20221003151183/README.md `
+
 # Related
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP

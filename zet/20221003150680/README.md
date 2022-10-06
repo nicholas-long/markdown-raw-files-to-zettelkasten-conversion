@@ -8,6 +8,8 @@ mode binary
 put nc.exe c:\windows\system32\nc.exe
 ```
 
+` zet/20221003150680/README.md `
+
 # Related
 
 - [20221003150681](/zet/20221003150681/README.md) tftp

@@ -1,6 +1,8 @@
 # enterprise PAM Thycotic
 password manager
 
+` zet/20221003150246/README.md `
+
 # Related
 
 - [20221003150247](/zet/20221003150247/README.md) enterprise PAM

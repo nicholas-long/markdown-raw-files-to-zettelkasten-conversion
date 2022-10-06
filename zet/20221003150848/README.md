@@ -3,6 +3,8 @@
 hydra $IP http-get -L users  -P /usr/share/seclists/Passwords/Leaked-Databases/rockyou-50.txt /phpmyadmin
 ```
 
+` zet/20221003150848/README.md `
+
 # Related
 
 - [20221003150849](/zet/20221003150849/README.md) hydra brute force HTTP basic authentication

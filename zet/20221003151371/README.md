@@ -18,6 +18,8 @@ done
 ```
 
 ~/kb/bash-scripting/git-file-modification-date.sh
+` zet/20221003151371/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

@@ -19,6 +19,8 @@ END {
 ```
 
 ~/kb/awk-scripting/line-lengths.awk
+` zet/20221003151430/README.md `
+
 # Related
 
 - [20221003151441](/zet/20221003151441/README.md) awk scripting

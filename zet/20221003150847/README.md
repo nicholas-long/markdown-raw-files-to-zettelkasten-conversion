@@ -1,5 +1,7 @@
 # gobuster
 
+` zet/20221003150847/README.md `
+
 # Related
 
 - [20221003150846](/zet/20221003150846/README.md) gobuster dirbusting

@@ -12,6 +12,8 @@ Register-ScheduledTask -Action $TaskAction -TaskName "GrantAllPerms" -Principal 
 Start-ScheduledTask -TaskName "GrantAllPerms"
 ```
 
+` zet/20221003151078/README.md `
+
 # Related
 
 - [20221003151079](/zet/20221003151079/README.md) service account privileges restore using scheduled task with powershell

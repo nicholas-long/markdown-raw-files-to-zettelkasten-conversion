@@ -1,5 +1,7 @@
 # web server file executable extensions
 
+` zet/20221003150274/README.md `
+
 # Related
 
 - [20221003150273](/zet/20221003150273/README.md) web server file executable extensions PHP

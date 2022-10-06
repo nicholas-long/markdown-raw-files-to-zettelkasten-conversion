@@ -34,6 +34,8 @@
     - heap exploit houses can get fixed in newer libc versions
 - canaries enabled with overflow on a forking server -> brute force canaries
 
+` zet/20221003150526/README.md `
+
 # Related
 
 

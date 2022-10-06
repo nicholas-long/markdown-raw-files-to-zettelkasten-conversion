@@ -4,6 +4,8 @@ wfuzz -c -u $URL -w /usr/share/seclists/Discovery/DNS/namelist.txt -H "Host: FUZ
 wfuzz -c -u $URL -w /usr/share/seclists/Discovery/DNS/fierce-hostlist.txt -H "Host: FUZZ" --hc 403
 ```
 
+` zet/20221003150652/README.md `
+
 # Related
 
 - [20221003150659](/zet/20221003150659/README.md) wfuzz

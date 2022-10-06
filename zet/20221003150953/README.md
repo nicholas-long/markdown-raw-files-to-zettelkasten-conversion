@@ -1,5 +1,7 @@
 # OSINT organizations
 
+` zet/20221003150953/README.md `
+
 # Related
 
 - [20221003150966](/zet/20221003150966/README.md) OSINT

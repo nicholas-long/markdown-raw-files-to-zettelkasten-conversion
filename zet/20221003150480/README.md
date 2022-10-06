@@ -3,6 +3,8 @@
 Get-Process
 ```
 
+` zet/20221003150480/README.md `
+
 # Related
 
 - [20221003150482](/zet/20221003150482/README.md) general enumeration

@@ -4,6 +4,8 @@ getfacl -R -s .
 getfacl -R -s /
 ```
 
+` zet/20221003150893/README.md `
+
 # Related
 
 

@@ -8,6 +8,8 @@ Things that help get list of running processes
 potential paths of running process in cmdline
 fuzz `/proc/FUZZ/cmdline` for list of running processes
 
+` zet/20221003151014/README.md `
+
 # Related
 
 - [20221003151013](/zet/20221003151013/README.md) LFI or directory traversal procedures environment variables

@@ -1,6 +1,8 @@
 # bash scripts sh run docker catch rev shell
 ~/kb/hacking/test-vuln-in-dockers/ubuntu-reverse-shell/run-docker-catch-rev-shell.sh
 
+` zet/20221003150089/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

@@ -13,6 +13,8 @@ cat $1 | hashing
 ```
 
 ~/kb/hacking/scripts/print-all-md5s.sh
+` zet/20221003151415/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

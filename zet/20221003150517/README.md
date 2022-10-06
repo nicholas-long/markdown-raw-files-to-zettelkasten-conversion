@@ -1,5 +1,7 @@
 # binary analysis
 
+` zet/20221003150517/README.md `
+
 # Related
 
 - [20221003150516](/zet/20221003150516/README.md) binary analysis golang

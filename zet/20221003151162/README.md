@@ -3,6 +3,8 @@
 nmap -sU --top-ports 100 -v -oG top.100.udp $IP
 ```
 
+` zet/20221003151162/README.md `
+
 # Related
 
 - [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans

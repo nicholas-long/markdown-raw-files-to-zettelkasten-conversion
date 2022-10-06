@@ -1,5 +1,7 @@
 # bash scripting get all tags and start walking their commits
 
+` zet/20221003151383/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

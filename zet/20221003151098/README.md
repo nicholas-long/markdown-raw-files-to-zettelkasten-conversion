@@ -3,6 +3,8 @@
 powershell.exe -nop -exec bypass -w hidden -enc BASE64STR
 ```
 
+` zet/20221003151098/README.md `
+
 # Related
 
 - [20221003151101](/zet/20221003151101/README.md) powershell commands

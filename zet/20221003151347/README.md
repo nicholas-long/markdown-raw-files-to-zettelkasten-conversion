@@ -1,5 +1,7 @@
 # awk and bash scripting partition split into files by column value
 
+` zet/20221003151347/README.md `
+
 # Related
 
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting

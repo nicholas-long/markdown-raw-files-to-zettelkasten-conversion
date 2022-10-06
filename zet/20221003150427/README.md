@@ -7,6 +7,8 @@ bopscrk -i
 ```
 
 
+` zet/20221003150427/README.md `
+
 # Related
 
 - [20221003150433](/zet/20221003150433/README.md) generate wordlists

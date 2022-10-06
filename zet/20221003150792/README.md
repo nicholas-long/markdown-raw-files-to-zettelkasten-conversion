@@ -5,6 +5,8 @@ grep -Eo '\w+' $FILE
 grep -Eo '\w+' $FILE | awk '!(seen[$0]++)'
 ```
 
+` zet/20221003150792/README.md `
+
 # Related
 
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file

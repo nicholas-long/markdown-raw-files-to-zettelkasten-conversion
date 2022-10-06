@@ -1,5 +1,7 @@
 # kubernetes kubectl
 
+` zet/20221003150650/README.md `
+
 # Related
 
 - [20221003150651](/zet/20221003150651/README.md) kubernetes

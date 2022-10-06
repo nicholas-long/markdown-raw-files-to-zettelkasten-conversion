@@ -11,6 +11,8 @@ tkp.Privileges[0].Attributes = SE_PRIVILEGE_ENABLED;
 AdjustTokenPrivileges(hToken, FALSE, &tkp, 0, (PTOKEN_PRIVILEGES)NULL, 0);
 ```
 
+` zet/20221003151093/README.md `
+
 # Related
 
 - [20221003151094](/zet/20221003151094/README.md) windows API

@@ -3,6 +3,8 @@
 john --wordlist=/usr/share/wordlists/rockyou.txt mypasswd
 ```
 
+` zet/20221003150870/README.md `
+
 # Related
 
 - [20221003150871](/zet/20221003150871/README.md) john the ripper

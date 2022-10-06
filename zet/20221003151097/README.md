@@ -2,6 +2,8 @@
 https://redteam.wiki/postexploitation/active-directory/adcs
 https://posts.specterops.io/certified-pre-owned-d95910965cd2
 
+` zet/20221003151097/README.md `
+
 # Related
 
 - [20221003151096](/zet/20221003151096/README.md) active directory certificate services AD CS privesc

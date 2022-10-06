@@ -7,6 +7,8 @@ iptables -A FORWARD -i wlan0 -o wlan1 -m state --state ESTABLISHED,RELATED \
 iptables -t nat -A POSTROUTING -o wlan0 -j MASQUERADE
 ```
 
+` zet/20221003150196/README.md `
+
 # Related
 
 - [20221003150197](/zet/20221003150197/README.md) iptables rules

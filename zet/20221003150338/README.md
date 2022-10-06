@@ -1,6 +1,8 @@
 # ansible exploiting playbook
 https://rioasmara.com/2022/03/21/ansible-playbook-weaponization/
 
+` zet/20221003150338/README.md `
+
 # Related
 
 - [20221003150340](/zet/20221003150340/README.md) ansible

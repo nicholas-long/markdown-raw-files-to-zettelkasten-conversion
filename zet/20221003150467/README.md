@@ -4,6 +4,8 @@ can also change the powershell "directory" to the registry like "cd HKLM:\"
 cd HKLM:\SYSTEM\CurrentControlSet\Services\
 ```
 
+` zet/20221003150467/README.md `
+
 # Related
 
 - [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry

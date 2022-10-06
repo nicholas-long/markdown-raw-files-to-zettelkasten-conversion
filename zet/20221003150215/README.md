@@ -1,5 +1,7 @@
 # kafkacat install
 
+` zet/20221003150215/README.md `
+
 # Related
 
 - [20221003150214](/zet/20221003150214/README.md) kafkacat install alias for kcat

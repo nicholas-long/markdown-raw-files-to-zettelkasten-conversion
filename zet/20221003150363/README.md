@@ -1,5 +1,7 @@
 # portable TCP port scanner bash only
 
+` zet/20221003150363/README.md `
+
 # Related
 
 - [20221003150364](/zet/20221003150364/README.md) portable TCP port scanner

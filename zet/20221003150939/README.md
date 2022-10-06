@@ -4,6 +4,8 @@ import sys
 sys.path
 ```
 
+` zet/20221003150939/README.md `
+
 # Related
 
 - [20221003150940](/zet/20221003150940/README.md) python imports library search path

@@ -4,6 +4,8 @@ bindkey -M vicmd
 bindkey -M viins
 ```
 
+` zet/20221003150190/README.md `
+
 # Related
 
 - [20221003150191](/zet/20221003150191/README.md) zsh

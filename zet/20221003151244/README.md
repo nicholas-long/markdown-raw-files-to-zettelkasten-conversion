@@ -1,5 +1,7 @@
 # preparing malicious package payloads
 
+` zet/20221003151244/README.md `
+
 # Related
 
 - [20221003151243](/zet/20221003151243/README.md) preparing malicious package payloads node npm package

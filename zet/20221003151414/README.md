@@ -47,6 +47,8 @@ function passwordlists {
 ```
 
 ~/kb/hacking/passwords/generate-common-passwords.sh
+` zet/20221003151414/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

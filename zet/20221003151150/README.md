@@ -5,6 +5,8 @@ a MOF file that is put in the `%SystemRoot%\System32\wbem\mof\` directory is aut
 this technique used by stuxnet. patched in later windows versions.
 upload mof file -> callback should be relatively instantaneous
 
+` zet/20221003151150/README.md `
+
 # Related
 
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003

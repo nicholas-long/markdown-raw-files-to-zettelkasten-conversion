@@ -7,6 +7,8 @@ python3 -m pip install --user ds_store argparse
 python3 ds_store_parser.py -i ../.DS_Store
 ```
 
+` zet/20221003151018/README.md `
+
 # Related
 
 - [20221003151019](/zet/20221003151019/README.md) .DS_Store file ds_store Mac OS

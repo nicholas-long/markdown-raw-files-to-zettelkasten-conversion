@@ -1,5 +1,7 @@
 # PhpmyAdmin write shell
 
+` zet/20221003150553/README.md `
+
 # Related
 
 - [20221003150552](/zet/20221003150552/README.md) PhpmyAdmin write shell Windows

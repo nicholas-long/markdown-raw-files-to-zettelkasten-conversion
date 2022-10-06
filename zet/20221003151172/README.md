@@ -82,6 +82,8 @@
   - impacket secretsdump
   - mimikatz on machine or kiwi module in msf
 
+` zet/20221003151172/README.md `
+
 # Related
 
 - [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access

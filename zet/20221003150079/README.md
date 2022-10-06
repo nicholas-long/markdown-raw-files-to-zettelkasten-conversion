@@ -1,5 +1,7 @@
 # tmux
 
+` zet/20221003150079/README.md `
+
 # Related
 
 - [20221003150078](/zet/20221003150078/README.md) tmux get current pane

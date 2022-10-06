@@ -5,6 +5,8 @@ If you do not do this, then it could keep data in a buffer indefinitely.
 cat datafile | kafkacat -b $KAFKA -P -u -t topic_name
 ```
 
+` zet/20221003150209/README.md `
+
 # Related
 
 - [20221003150210](/zet/20221003150210/README.md) kafkacat

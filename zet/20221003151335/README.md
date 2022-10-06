@@ -1,5 +1,7 @@
 # bash command reference
 
+` zet/20221003151335/README.md `
+
 # Related
 
 - [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path

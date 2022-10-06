@@ -3,6 +3,8 @@
   - default put location is `/var/lib/tftpboot/`
 - read files
 
+` zet/20221003151165/README.md `
+
 # Related
 
 

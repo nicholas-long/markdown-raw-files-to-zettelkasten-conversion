@@ -8,6 +8,8 @@ cat $HOME/.git-credentials | awk -F '[/:@]' '/github/ {print $5}'
 ```
 
 ~/kb/bash-scripting/get-github-api-key.sh
+` zet/20221003151395/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

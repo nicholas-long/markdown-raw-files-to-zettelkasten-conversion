@@ -5,6 +5,8 @@ https://gist.github.com/KrE80r/42f8629577db95782d5e4f609f437a54
 cp ~/kb/hacking/priv-esc/c0w.c .
 gcc -pthread c0w.c  -o c0w -static
 ```
+` zet/20221003150877/README.md `
+
 # Related
 
 - [20221003150878](/zet/20221003150878/README.md) dirty cow privilege escalation working version

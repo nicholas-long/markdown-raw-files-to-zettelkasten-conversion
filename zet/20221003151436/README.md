@@ -20,6 +20,8 @@ function expand_rec(str, pos) {
 ```
 
 ~/kb/awk-scripting/space-invader.awk
+` zet/20221003151436/README.md `
+
 # Related
 
 - [20221003151441](/zet/20221003151441/README.md) awk scripting

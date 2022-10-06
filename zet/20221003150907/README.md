@@ -1,5 +1,7 @@
 # linux enumeration quick commands transfer / download files with just bash
 
+` zet/20221003150907/README.md `
+
 # Related
 
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands

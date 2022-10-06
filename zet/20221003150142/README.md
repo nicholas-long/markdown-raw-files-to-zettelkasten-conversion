@@ -3,6 +3,8 @@
   - spawns worker processes
 - ssh with root password authentication by default
 
+` zet/20221003150142/README.md `
+
 # Related
 
 - [20221003150143](/zet/20221003150143/README.md) proxmox

@@ -5,6 +5,8 @@ at the end of the query
 `INTO DUMPFILE 'c:\\inetpub\\wwwroot\\test.php'`
 `INTO DUMPFILE '/var/www/html/test.php'`
 
+` zet/20221003150980/README.md `
+
 # Related
 
 - [20221003150983](/zet/20221003150983/README.md) mariadb mysql files

@@ -1,5 +1,7 @@
 # powershell
 
+` zet/20221003150730/README.md `
+
 # Related
 
 - [20221003150729](/zet/20221003150729/README.md) powershell encode commands as base64 with windows wide char strings in linux

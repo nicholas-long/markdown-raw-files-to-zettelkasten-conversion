@@ -1,5 +1,7 @@
 # impacket kerberos commands
 
+` zet/20221003150748/README.md `
+
 # Related
 
 - [20221003150747](/zet/20221003150747/README.md) impacket kerberos commands ticket environment variable KRB5CCNAME

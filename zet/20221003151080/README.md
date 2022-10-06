@@ -1,6 +1,8 @@
 # service account privileges restore
 permissions can be recovered by creating a scheduled task
 
+` zet/20221003151080/README.md `
+
 # Related
 
 - [20221003151081](/zet/20221003151081/README.md) service account privileges

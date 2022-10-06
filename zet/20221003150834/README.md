@@ -4,6 +4,8 @@ Crack from stdin: pass `-` as wordlist parameter
 sucrack -u root -
 ```
 
+` zet/20221003150834/README.md `
+
 # Related
 
 

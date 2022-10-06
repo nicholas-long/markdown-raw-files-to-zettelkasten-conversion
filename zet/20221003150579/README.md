@@ -4,6 +4,8 @@ also works with no convert encoding part - may still evaluate php code if used i
 php://filter/resource=
 ```
 
+` zet/20221003150579/README.md `
+
 # Related
 
 - [20221003150581](/zet/20221003150581/README.md) php LFI include PHP filter URL

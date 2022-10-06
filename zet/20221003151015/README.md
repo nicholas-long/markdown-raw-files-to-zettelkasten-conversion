@@ -14,6 +14,8 @@ safe
 version
 vuln
 
+` zet/20221003151015/README.md `
+
 # Related
 
 - [20221003151017](/zet/20221003151017/README.md) nmap scripts

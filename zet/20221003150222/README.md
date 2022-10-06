@@ -5,6 +5,8 @@ sudo macchanger -r wlan0
 sudo ifconfig wlan0 up
 ```
 
+` zet/20221003150222/README.md `
+
 # Related
 
 

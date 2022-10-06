@@ -3,6 +3,8 @@
 find . -exec md5sum {} \;
 ```
 
+` zet/20221003150911/README.md `
+
 # Related
 
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands

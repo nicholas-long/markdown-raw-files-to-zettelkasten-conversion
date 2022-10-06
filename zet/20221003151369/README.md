@@ -13,6 +13,8 @@ sudo apt-get install sublime-text
 ```
 
 ~/kb/linux/install_sublime.sh
+` zet/20221003151369/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

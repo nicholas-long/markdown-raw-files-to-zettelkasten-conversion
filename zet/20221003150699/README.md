@@ -3,6 +3,8 @@
 -r post_request.txt --dbms "mysql" --os-shell
 ```
 
+` zet/20221003150699/README.md `
+
 # Related
 
 - [20221003150709](/zet/20221003150709/README.md) sqlmap

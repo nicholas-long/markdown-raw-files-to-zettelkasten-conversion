@@ -1,5 +1,7 @@
 # bash scripting watch failed ssh login attempts as a live stream
 
+` zet/20221003151394/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

@@ -1,6 +1,8 @@
 # fail2ban default config location
 - /etc/fail2ban/action.d
 
+` zet/20221003150936/README.md `
+
 # Related
 
 - [20221003150937](/zet/20221003150937/README.md) fail2ban

@@ -1,5 +1,7 @@
 # bash scripting substitution syntax
 
+` zet/20221003151316/README.md `
+
 # Related
 
 - [20221003151315](/zet/20221003151315/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it

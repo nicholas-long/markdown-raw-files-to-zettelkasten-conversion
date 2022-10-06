@@ -8,6 +8,8 @@
   - test for injections in data
 - `graphql-path-enum` for finding paths A -> B (think like bloodhound)
 
+` zet/20221003150995/README.md `
+
 # Related
 
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs

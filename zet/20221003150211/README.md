@@ -7,6 +7,8 @@ d=$(( d * 1000 )) # convert to ms
 kafkacat -b kafka -C -t wifi-data-raw -e -o "s@$d"
 ```
 
+` zet/20221003150211/README.md `
+
 # Related
 
 

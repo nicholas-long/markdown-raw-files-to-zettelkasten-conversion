@@ -1,6 +1,8 @@
 # apk analysis emulate a phone with genymotion and virtualbox
 - find android version and phone that can run apk
 
+` zet/20221003150229/README.md `
+
 # Related
 
 - [20221003150231](/zet/20221003150231/README.md) apk analysis

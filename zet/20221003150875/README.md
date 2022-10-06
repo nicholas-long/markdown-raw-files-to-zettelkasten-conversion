@@ -3,6 +3,8 @@
 user ALL=(ALL) NOPASSWD: ALL
 ```
 
+` zet/20221003150875/README.md `
+
 # Related
 
 - [20221003150876](/zet/20221003150876/README.md) sudo sudoers file

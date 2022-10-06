@@ -5,6 +5,8 @@ cat << EOF >> filename.sh
 EOF
 ```
 
+` zet/20221003150894/README.md `
+
 # Related
 
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands

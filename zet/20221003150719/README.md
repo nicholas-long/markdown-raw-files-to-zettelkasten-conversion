@@ -6,6 +6,8 @@ for p in $(~/kb/bash-scripting/nmap-get-top-ports.sh 20); do
 done
 ```
 
+` zet/20221003150719/README.md `
+
 # Related
 
 - [20221003150720](/zet/20221003150720/README.md) curl

@@ -1,5 +1,7 @@
 # pfx extension PKCS#12 format certificate cracking
 
+` zet/20221003150279/README.md `
+
 # Related
 
 - [20221003150281](/zet/20221003150281/README.md) pfx extension PKCS#12 format certificate

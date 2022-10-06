@@ -1,5 +1,7 @@
 # python scripting
 
+` zet/20221003150105/README.md `
+
 # Related
 
 - [20221003150104](/zet/20221003150104/README.md) python scripting requests http

@@ -1,5 +1,7 @@
 # powershell PSCredential password
 
+` zet/20221003150465/README.md `
+
 # Related
 
 - [20221003150464](/zet/20221003150464/README.md) powershell PSCredential password import xml object load from file

@@ -5,6 +5,8 @@ the `gid` option specifies a group id that can read all processes.
 mount | grep hidepid
 ```
 
+` zet/20221003150895/README.md `
+
 # Related
 
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands

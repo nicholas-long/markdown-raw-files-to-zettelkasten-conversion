@@ -1,6 +1,8 @@
 # lxd priv esc without painful build problems
 Build an Alpine image and start it using the flag `security.privileged=true`, forcing the container to interact as root with the host filesystem.
 
+` zet/20221003150933/README.md `
+
 # Related
 
 - [20221003150932](/zet/20221003150932/README.md) lxd priv esc without painful build problems lxd priv esc x64

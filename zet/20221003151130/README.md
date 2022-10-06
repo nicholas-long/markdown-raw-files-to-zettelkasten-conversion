@@ -4,6 +4,8 @@ rpcclient -U helpdesk //$IP
 rpcclient $> setuserinfo2 adminuser 23 'ASDqwe123'
 ```
 
+` zet/20221003151130/README.md `
+
 # Related
 
 - [20221003151144](/zet/20221003151144/README.md) active directory 

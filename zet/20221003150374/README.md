@@ -1,5 +1,7 @@
 # volatility framework analyze dump files of volatile RAM file type "MS Windows 64bit crash dump, full dump, XXX pages"
 
+` zet/20221003150374/README.md `
+
 # Related
 
 - [20221003150375](/zet/20221003150375/README.md) volatility framework analyze dump files of volatile RAM

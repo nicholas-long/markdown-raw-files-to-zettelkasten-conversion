@@ -21,6 +21,8 @@
     - steal session id, maybe XSS
     - clickjacking (if no X frame options set )
 
+` zet/20221003151184/README.md `
+
 # Related
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP

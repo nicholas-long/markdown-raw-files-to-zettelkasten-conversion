@@ -1,5 +1,7 @@
 # linux capabilities
 
+` zet/20221003150171/README.md `
+
 # Related
 
 - [20221003150170](/zet/20221003150170/README.md) linux capabilities inheritance after exec

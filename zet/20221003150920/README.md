@@ -7,6 +7,8 @@ ss -lnpt
 find /etc -writable 2>/dev/null
 ```
 
+` zet/20221003150920/README.md `
+
 # Related
 
 - [20221003150919](/zet/20221003150919/README.md) linux enumeration quick commands list all recursively with ls sorting by modification date within directories

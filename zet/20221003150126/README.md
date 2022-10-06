@@ -3,6 +3,8 @@
 - add router to routes on hosts
 - create iptables rule to forward between 2 interfaces
 
+` zet/20221003150126/README.md `
+
 # Related
 
 - [20221003150125](/zet/20221003150125/README.md) routing using a linux box enable ip forwarding

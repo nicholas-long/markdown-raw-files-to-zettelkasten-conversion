@@ -8,6 +8,8 @@ feroxbuster --url $URL -w /usr/share/seclists/Discovery/Web-Content/raft-medium-
 feroxbuster --url $URL -w ~/kb/wordlists/custom.dirbusting
 ```
 
+` zet/20221003150738/README.md `
+
 # Related
 
 - [20221003150739](/zet/20221003150739/README.md) feroxbuster

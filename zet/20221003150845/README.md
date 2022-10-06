@@ -9,6 +9,8 @@ gobuster dir -e -t 50 -x php,txt,html -d -u $URL -w /usr/share/seclists/Discover
 gobuster dir -e -t 50 -x php,txt,html -d -u $URL -w cewl_wordlist
 ```
 
+` zet/20221003150845/README.md `
+
 # Related
 
 - [20221003150847](/zet/20221003150847/README.md) gobuster

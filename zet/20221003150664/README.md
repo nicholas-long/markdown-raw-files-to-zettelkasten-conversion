@@ -3,6 +3,8 @@
 showmount -e $IP
 ```
 
+` zet/20221003150664/README.md `
+
 # Related
 
 - [20221003150665](/zet/20221003150665/README.md) NFS

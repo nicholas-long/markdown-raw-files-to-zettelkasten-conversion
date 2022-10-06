@@ -3,6 +3,8 @@
 !mona jmp -r esp -cpb "<BAD_CHARS>"
 ```
 
+` zet/20221003150534/README.md `
+
 # Related
 
 - [20221003150535](/zet/20221003150535/README.md) immunity debugger mona commands search for opcode string jmp esp

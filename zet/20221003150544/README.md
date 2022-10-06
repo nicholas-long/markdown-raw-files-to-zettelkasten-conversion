@@ -5,6 +5,8 @@ msf-pattern_create -l 0xABC
 msf-pattern_offset -q 0x33445566
 ```
 
+` zet/20221003150544/README.md `
+
 # Related
 
 - [20221003150545](/zet/20221003150545/README.md) simple binary exploits pattern offset finding

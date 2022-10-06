@@ -4,6 +4,8 @@ by omitting format parameter
 ./username-anarchy -i test-names.txt
 ```
 
+` zet/20221003150430/README.md `
+
 # Related
 
 - [20221003150431](/zet/20221003150431/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale

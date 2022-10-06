@@ -1,5 +1,7 @@
 # IPMI intelligent platform management interface
 
+` zet/20221003150270/README.md `
+
 # Related
 
 - [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix

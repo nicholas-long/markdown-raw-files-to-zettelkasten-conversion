@@ -5,6 +5,8 @@ https://github.com/Sq00ky/Bash-Port-Scanner
 ./spookyscan.sh -i $IP -p 1000
 ```
 
+` zet/20221003150362/README.md `
+
 # Related
 
 - [20221003150363](/zet/20221003150363/README.md) portable TCP port scanner bash only

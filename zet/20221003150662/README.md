@@ -1,5 +1,7 @@
 # data analysis commands
 
+` zet/20221003150662/README.md `
+
 # Related
 
 - [20221003150661](/zet/20221003150661/README.md) data analysis commands dd copy from offset

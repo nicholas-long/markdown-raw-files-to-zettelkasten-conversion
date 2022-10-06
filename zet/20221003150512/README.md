@@ -1,5 +1,7 @@
 # pwn commands / tricks
 
+` zet/20221003150512/README.md `
+
 # Related
 
 - [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths

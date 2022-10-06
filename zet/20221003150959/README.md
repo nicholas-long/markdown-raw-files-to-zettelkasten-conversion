@@ -12,6 +12,8 @@
 - forgot password links on websites - unintended functionality
   - gmail - associate email addresses with recovery email addresses (partially censored, but strong evidence of correlation)
 
+` zet/20221003150959/README.md `
+
 # Related
 
 - [20221003150966](/zet/20221003150966/README.md) OSINT

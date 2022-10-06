@@ -1,5 +1,7 @@
 # linux free up space
 
+` zet/20221003150187/README.md `
+
 # Related
 
 - [20221003150186](/zet/20221003150186/README.md) linux free up space in /var/log/journal/

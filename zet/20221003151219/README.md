@@ -4,6 +4,8 @@ no comments in hql, so no commenting out the rest of the query
 logic errors
 `admin' or username='asdf` ~ "' and password = ..."
 
+` zet/20221003151219/README.md `
+
 # Related
 
 - [20221003151220](/zet/20221003151220/README.md) hql injection

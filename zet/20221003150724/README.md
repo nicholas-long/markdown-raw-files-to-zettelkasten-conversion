@@ -1,5 +1,7 @@
 # openssl pfx p12 file PKCS12
 
+` zet/20221003150724/README.md `
+
 # Related
 
 - [20221003150723](/zet/20221003150723/README.md) openssl pfx p12 file PKCS12 view information about certificate

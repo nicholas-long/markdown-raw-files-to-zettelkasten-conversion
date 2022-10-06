@@ -1,5 +1,7 @@
 # oracle database attacking tool odat escalate database account to DBA
 
+` zet/20221003150378/README.md `
+
 # Related
 
 - [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat

@@ -2,6 +2,8 @@
 https://github.com/hfiref0x/UACME
 compilation required - many build steps
 
+` zet/20221003151062/README.md `
+
 # Related
 
 - [20221003151064](/zet/20221003151064/README.md) bypass UAC with administrators group

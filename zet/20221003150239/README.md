@@ -1,5 +1,7 @@
 # extract command for file type
 
+` zet/20221003150239/README.md `
+
 # Related
 
 - [20221003150238](/zet/20221003150238/README.md) extract command for file type deb

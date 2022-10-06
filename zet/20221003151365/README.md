@@ -9,6 +9,8 @@ python3 -c 'from urllib.parse import quote;print(quote(input()))'
 ```
 
 ~/kb/bash-scripting/urlencode.sh
+` zet/20221003151365/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

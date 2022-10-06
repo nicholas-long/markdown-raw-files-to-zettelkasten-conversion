@@ -3,6 +3,8 @@
   - target things that might be compared with `==` and try changing them to `true`
 - brackets -> arrays
 
+` zet/20221003150574/README.md `
+
 # Related
 
 - [20221003150575](/zet/20221003150575/README.md) php type juggling methodology

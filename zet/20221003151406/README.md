@@ -23,6 +23,8 @@ zcat <( curl https://cve.mitre.org/data/downloads/allitems.csv.gz ) | \
 ```
 
 ~/kb/hacking/cve/get-tsv.sh
+` zet/20221003151406/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

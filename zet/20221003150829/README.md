@@ -1,5 +1,7 @@
 # postgres sql enumeration list
 
+` zet/20221003150829/README.md `
+
 # Related
 
 - [20221003150830](/zet/20221003150830/README.md) postgres sql enumeration

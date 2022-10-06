@@ -379,6 +379,8 @@ activate = 1
 [ssl_sect]
 system_default = kali_wide_compatibility
 ```
+` zet/20221003150348/README.md `
+
 # Related
 
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error

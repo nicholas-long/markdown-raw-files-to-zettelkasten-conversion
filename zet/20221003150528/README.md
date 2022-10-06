@@ -3,6 +3,8 @@
 set follow-fork-mode child
 ```
 
+` zet/20221003150528/README.md `
+
 # Related
 
 - [20221003150529](/zet/20221003150529/README.md) gdb commands

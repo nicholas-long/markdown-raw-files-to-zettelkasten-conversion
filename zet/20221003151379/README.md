@@ -18,6 +18,8 @@ docker run --rm \
 ```
 
 ~/kb/linux/runneo4j.sh
+` zet/20221003151379/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

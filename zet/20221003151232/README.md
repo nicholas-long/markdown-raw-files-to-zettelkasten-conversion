@@ -5,6 +5,8 @@ GRANT FILE ON *.* TO 'uname'@'localhost' with grant option;
 grant all privileges on dbname.* to 'yourusername'@'%' with grant option;
 ```
 
+` zet/20221003151232/README.md `
+
 # Related
 
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb

@@ -3,6 +3,8 @@
 find . -type f -name '*.sh' | xargs nvim -p
 ```
 
+` zet/20221003150068/README.md `
+
 # Related
 
 - [20221003150071](/zet/20221003150071/README.md) vim edit multiple files

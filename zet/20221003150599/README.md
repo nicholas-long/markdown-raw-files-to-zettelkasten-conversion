@@ -3,6 +3,8 @@
 psexec.py administrator@$IP -hashes abcd123abcd123abcd123abcd123abcd:abcd123abcd123abcd123abcd123abcd
 ```
 
+` zet/20221003150599/README.md `
+
 # Related
 
 - [20221003150600](/zet/20221003150600/README.md) impacket

@@ -1,5 +1,7 @@
 # wpscan initial config backups
 
+` zet/20221003150690/README.md `
+
 # Related
 
 - [20221003150693](/zet/20221003150693/README.md) wpscan initial

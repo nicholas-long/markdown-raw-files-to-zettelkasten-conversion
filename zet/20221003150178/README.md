@@ -2,6 +2,8 @@
 https://github.com/alacritty/alacritty
 https://github.com/alacritty/alacritty/blob/master/alacritty.yml
 
+` zet/20221003150178/README.md `
+
 # Related
 
 - [20221003150179](/zet/20221003150179/README.md) install alacritty  config file

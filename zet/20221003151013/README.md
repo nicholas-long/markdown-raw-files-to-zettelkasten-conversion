@@ -2,6 +2,8 @@
 /proc/self/environ
 protected in apache
 
+` zet/20221003151013/README.md `
+
 # Related
 
 - [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures

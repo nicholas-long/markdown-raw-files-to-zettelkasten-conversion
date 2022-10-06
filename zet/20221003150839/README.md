@@ -36,6 +36,8 @@ Global Flags:
   -v, --verbose           Verbose output (errors)
   -w, --wordlist string   Path to the wordlist
 ```
+` zet/20221003150839/README.md `
+
 # Related
 
 - [20221003150847](/zet/20221003150847/README.md) gobuster

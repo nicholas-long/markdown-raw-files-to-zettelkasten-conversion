@@ -1,5 +1,7 @@
 # wfuzz fuzzing details
 
+` zet/20221003150812/README.md `
+
 # Related
 
 - [20221003150811](/zet/20221003150811/README.md) wfuzz fuzzing details "X-Forwarded-For" header with custom IPS

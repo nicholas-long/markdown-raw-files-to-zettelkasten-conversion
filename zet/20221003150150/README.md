@@ -1,6 +1,8 @@
 # cyberpunk retro machine project Tandy TRS-80 Model 100 terminal
 must be connected to a computer through a null modem connection.
 
+` zet/20221003150150/README.md `
+
 # Related
 
 - [20221003150154](/zet/20221003150154/README.md) cyberpunk retro machine project

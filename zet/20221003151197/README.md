@@ -7,6 +7,8 @@
 - smb v1
   - ms08-067-netapi - but use DOS reverse shell instead of meterpreter
 
+` zet/20221003151197/README.md `
+
 # Related
 
 - [20221003151198](/zet/20221003151198/README.md) SMB

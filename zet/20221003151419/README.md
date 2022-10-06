@@ -14,6 +14,8 @@ curl http://archive.ubuntu.com/ubuntu/dists/ 2>/dev/null | \
 ```
 
 ~/kb/bash-scripting/get-current-ubuntu-distro.sh
+` zet/20221003151419/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

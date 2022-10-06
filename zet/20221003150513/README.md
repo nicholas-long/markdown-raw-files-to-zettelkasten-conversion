@@ -3,6 +3,8 @@
 context.terminal = ['tmux', 'new-window']
 ```
 
+` zet/20221003150513/README.md `
+
 # Related
 
 - [20221003150515](/zet/20221003150515/README.md) pwntools gdb debugging terminal

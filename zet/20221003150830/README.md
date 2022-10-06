@@ -1,6 +1,8 @@
 # postgres sql enumeration
 postgres client is `psql`
 
+` zet/20221003150830/README.md `
+
 # Related
 
 - [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list

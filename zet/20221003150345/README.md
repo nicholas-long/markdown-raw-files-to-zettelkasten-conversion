@@ -6,6 +6,8 @@ ncrack -p 22 --user root -P passwords.txt <IP> [-T 5]
 patator ssh_login host=<ip> port=22 user=root 0=/path/passwords.txt password=FILE0 -x ignore:mesg='Authentication failed'
 ```
 
+` zet/20221003150345/README.md `
+
 # Related
 
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force

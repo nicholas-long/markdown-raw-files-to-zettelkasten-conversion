@@ -1,5 +1,7 @@
 # apt package
 
+` zet/20221003150140/README.md `
+
 # Related
 
 - [20221003150139](/zet/20221003150139/README.md) apt package column

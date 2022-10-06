@@ -1,5 +1,7 @@
 # linux data science
 
+` zet/20221003151278/README.md `
+
 # Related
 
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities

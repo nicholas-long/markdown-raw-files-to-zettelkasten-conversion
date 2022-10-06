@@ -1,5 +1,7 @@
 # metasploit msf
 
+` zet/20221003150819/README.md `
+
 # Related
 
 - [20221003150818](/zet/20221003150818/README.md) metasploit msf run as script from rc file

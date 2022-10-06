@@ -77,6 +77,8 @@ rm $http_request
 ```
 
 ~/kb/hacking/scripts/copy-burp-request-as-python-script.sh
+` zet/20221003151408/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

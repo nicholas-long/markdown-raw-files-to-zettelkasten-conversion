@@ -8,6 +8,8 @@
   - disable colors everywhere in all bash aliases
   - bash prompt still has some weird escape characters
 
+` zet/20221003150147/README.md `
+
 # Related
 
 - [20221003150150](/zet/20221003150150/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal

@@ -2,6 +2,8 @@
 look like functions - they return one or more items
 queries can contain things like strings, but it's not JSON. JSON is returned by the API as the result of queries.
 
+` zet/20221003150992/README.md `
+
 # Related
 
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs

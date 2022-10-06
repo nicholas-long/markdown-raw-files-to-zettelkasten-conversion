@@ -45,6 +45,8 @@ rm -rf $tf
 ```
 
 ~/kb/bash-scripting/hash-git-repository.sh
+` zet/20221003151382/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

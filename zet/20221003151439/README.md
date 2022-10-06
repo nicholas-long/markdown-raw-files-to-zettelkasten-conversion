@@ -10,6 +10,8 @@
 ```
 
 ~/kb/awk-scripting/base64-every-line.awk
+` zet/20221003151439/README.md `
+
 # Related
 
 - [20221003151441](/zet/20221003151441/README.md) awk scripting

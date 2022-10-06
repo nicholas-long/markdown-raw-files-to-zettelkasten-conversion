@@ -3,6 +3,8 @@ encrypted with password
 A PFX file indicates a certificate in PKCS#12 format.
 Think of it as an archive that stores everything you need to deploy a certificate.
 
+` zet/20221003150281/README.md `
+
 # Related
 
 - [20221003150280](/zet/20221003150280/README.md) pfx extension PKCS#12 format certificate contents

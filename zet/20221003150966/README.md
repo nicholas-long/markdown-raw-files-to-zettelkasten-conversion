@@ -1,6 +1,8 @@
 # OSINT
 https://osintframework.com/
 
+` zet/20221003150966/README.md `
+
 # Related
 
 - [20221003150965](/zet/20221003150965/README.md) OSINT guides and step-by-step flowcharts

@@ -4,6 +4,8 @@ Check if dummy file exists. If not, do initialization.
 When done, touch dummy file so it does not initialize again.
 That should make it initialize only once.
 
+` zet/20221003150207/README.md `
+
 # Related
 
 - [20221003150206](/zet/20221003150206/README.md) example docker to initialize ksql commands initialize.sh

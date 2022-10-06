@@ -3,6 +3,8 @@
 enum4linux -A $IP
 
 ```
+` zet/20221003150785/README.md `
+
 # Related
 
 - [20221003150786](/zet/20221003150786/README.md) enum4linux

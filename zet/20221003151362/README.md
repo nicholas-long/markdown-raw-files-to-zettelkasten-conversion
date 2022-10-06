@@ -1,5 +1,7 @@
 # python scripting pwntools template binary exploit script
 
+` zet/20221003151362/README.md `
+
 # Related
 
 - [20221003151363](/zet/20221003151363/README.md) python scripting

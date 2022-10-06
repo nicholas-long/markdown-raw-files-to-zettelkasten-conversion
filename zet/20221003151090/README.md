@@ -2,6 +2,8 @@
 Find-InterestingDomainShareFile
 add `-CheckAccess` to check user permissions
 
+` zet/20221003151090/README.md `
+
 # Related
 
 - [20221003151091](/zet/20221003151091/README.md) powerview

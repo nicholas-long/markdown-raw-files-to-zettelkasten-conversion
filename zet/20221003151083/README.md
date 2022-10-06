@@ -4,6 +4,8 @@ These apps store executables in appdata and will load DLL payloads saved there.
 Add wrapper functions to call real DLL.
 This is currently very undetectable.
 
+` zet/20221003151083/README.md `
+
 # Related
 
 

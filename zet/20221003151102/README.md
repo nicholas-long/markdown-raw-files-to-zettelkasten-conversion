@@ -3,6 +3,8 @@
 certutil.exe -urlcache -split -f "https://download.sysinternals.com/files/PSTools.zip" pstools.zip
 ```
 
+` zet/20221003151102/README.md `
+
 # Related
 
 - [20221003151103](/zet/20221003151103/README.md) DOS commands

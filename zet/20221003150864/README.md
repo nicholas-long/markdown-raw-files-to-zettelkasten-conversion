@@ -5,6 +5,8 @@ pip3 install oathtool
 oathtool -b --totp ABCDEFGHABCDEFGH
 ```
 
+` zet/20221003150864/README.md `
+
 # Related
 
 - [20221003150865](/zet/20221003150865/README.md) two-factor authentication 2fa generate one time pins OTP

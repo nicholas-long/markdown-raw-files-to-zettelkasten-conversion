@@ -1,6 +1,8 @@
 # bash scripts sh java8
 ~/kb/linux/java8.sh
 
+` zet/20221003150086/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

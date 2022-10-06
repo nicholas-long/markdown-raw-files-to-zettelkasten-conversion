@@ -7,6 +7,8 @@
 `-A` run "all" scripts
 `-sC` equivalent to --script=default
 
+` zet/20221003150647/README.md `
+
 # Related
 
 - [20221003150648](/zet/20221003150648/README.md) nmap

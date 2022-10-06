@@ -1,5 +1,7 @@
 # AMSI detect windows defender
 
+` zet/20221003151066/README.md `
+
 # Related
 
 - [20221003151067](/zet/20221003151067/README.md) AMSI

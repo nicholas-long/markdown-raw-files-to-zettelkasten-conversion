@@ -6,6 +6,8 @@
 - manual inspection
 - strings
 
+` zet/20221003151213/README.md `
+
 # Related
 
 - [20221003151214](/zet/20221003151214/README.md) got leaked files

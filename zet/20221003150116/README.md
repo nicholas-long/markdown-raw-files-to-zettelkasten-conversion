@@ -4,6 +4,8 @@ Set up a local listener on port 5678 and connect to `$IP` `$PORT` using socks pr
 socat TCP4-LISTEN:5678,fork SOCKS4A:localhost:$IP:$PORT,socksport=9050
 ```
 
+` zet/20221003150116/README.md `
+
 # Related
 
 

@@ -36,6 +36,8 @@ rm -rf $tf
 ```
 
 ~/kb/hacking/priv-esc/strings-all-memory.sh
+` zet/20221003151375/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

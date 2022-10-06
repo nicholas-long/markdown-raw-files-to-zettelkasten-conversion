@@ -1,5 +1,7 @@
 # fixing golang module errors
 
+` zet/20221003150299/README.md `
+
 # Related
 
 - [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module

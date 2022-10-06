@@ -4,6 +4,8 @@
     PubkeyAcceptedKeyTypes +ssh-rsa
 ```
 
+` zet/20221003150349/README.md `
+
 # Related
 
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error

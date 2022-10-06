@@ -6,6 +6,8 @@ find /etc/ -type f -printf "%T+ %p\n" 2>/dev/null | grep -v 0000000000
 find /etc/ -type f -printf "%T+ %p\n" 2>/dev/null | grep -v 0000000000 | sort
 ```
 
+` zet/20221003150903/README.md `
+
 # Related
 
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands

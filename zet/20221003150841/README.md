@@ -1,6 +1,8 @@
 # gobuster fix HTTPS cert errors
 Set the --insecuressl flag.
 
+` zet/20221003150841/README.md `
+
 # Related
 
 - [20221003150847](/zet/20221003150847/README.md) gobuster

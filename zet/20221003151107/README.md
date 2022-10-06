@@ -1,6 +1,8 @@
 # dos commands net add user to domain group
 net group GroupName UserName /domain /add
 
+` zet/20221003151107/README.md `
+
 # Related
 
 - [20221003151108](/zet/20221003151108/README.md) dos commands net

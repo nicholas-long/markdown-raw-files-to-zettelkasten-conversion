@@ -1,6 +1,8 @@
 # LFI or directory traversal procedures read scripts from web server process cwd downloading with curl  prevent normalization of paths
 curl parameter `--path-as-is` to preserve any `../`
 
+` zet/20221003151009/README.md `
+
 # Related
 
 - [20221003151010](/zet/20221003151010/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl 

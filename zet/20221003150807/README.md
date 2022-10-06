@@ -1,5 +1,7 @@
 # brute force default credentials
 
+` zet/20221003150807/README.md `
+
 # Related
 
 - [20221003150806](/zet/20221003150806/README.md) brute force default credentials mysql

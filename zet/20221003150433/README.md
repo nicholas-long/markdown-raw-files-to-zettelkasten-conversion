@@ -1,5 +1,7 @@
 # generate wordlists
 
+` zet/20221003150433/README.md `
+
 # Related
 
 - [20221003150432](/zet/20221003150432/README.md) generate wordlists namemash - simple

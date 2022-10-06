@@ -12,6 +12,8 @@ After editing the file, you can run the following command to make the changes ta
 # sysctl -p
 ```
 
+` zet/20221003150123/README.md `
+
 # Related
 
 - [20221003150125](/zet/20221003150125/README.md) routing using a linux box enable ip forwarding

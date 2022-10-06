@@ -17,6 +17,8 @@ lxc config device add mycontainer mydevice disk source=/ path=/mnt/root recursiv
 lxc start mycontainer
 lxc exec mycontainer /bin/sh
 ```
+` zet/20221003150930/README.md `
+
 # Related
 
 - [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems

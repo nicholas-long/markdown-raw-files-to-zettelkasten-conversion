@@ -28,6 +28,8 @@
 - xslt server side injection extensible stylesheet languaje transformations
 - xssi cross site script inclusion
 
+` zet/20221003151180/README.md `
+
 # Related
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP

@@ -1,5 +1,7 @@
 # SSH brute force
 
+` zet/20221003150346/README.md `
+
 # Related
 
 - [20221003150345](/zet/20221003150345/README.md) SSH brute force command shortlist from hacktricks

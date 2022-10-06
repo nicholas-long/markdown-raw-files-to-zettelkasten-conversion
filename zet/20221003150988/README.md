@@ -1,5 +1,7 @@
 # mariadb mysql
 
+` zet/20221003150988/README.md `
+
 # Related
 
 - [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi

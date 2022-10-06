@@ -4,6 +4,8 @@ cp /usr/share/seclists/Miscellaneous/source-code/c-linux/root-shell.c .
 gcc -static -o root-shell root-shell.c
 ```
 
+` zet/20221003150928/README.md `
+
 # Related
 
 - [20221003150929](/zet/20221003150929/README.md) C setuid suid backdoor exploit

@@ -13,6 +13,8 @@ sudo docker run --rm -it -v "$(pwd):$(pwd)" -w "$(pwd)" ubuntubuildenv
 ```
 
 ~/kb/bash-scripting/ubuntu-docker-build-environment.sh
+` zet/20221003151392/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

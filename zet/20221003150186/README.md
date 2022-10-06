@@ -3,6 +3,8 @@
 sudo journalctl --vacuum-size=100M
 ```
 
+` zet/20221003150186/README.md `
+
 # Related
 
 - [20221003150187](/zet/20221003150187/README.md) linux free up space

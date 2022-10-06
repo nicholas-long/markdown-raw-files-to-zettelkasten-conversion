@@ -2,6 +2,8 @@
 C:\Windows\System32\license.rtf
 c:\windows\system32\eula.txt
 
+` zet/20221003151084/README.md `
+
 # Related
 
 - [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet

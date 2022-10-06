@@ -5,6 +5,8 @@ if [ -z "$KB_DIR" ]; then
 fi
 ```
 
+` zet/20221003151331/README.md `
+
 # Related
 
 - [20221003151332](/zet/20221003151332/README.md) bash scripting

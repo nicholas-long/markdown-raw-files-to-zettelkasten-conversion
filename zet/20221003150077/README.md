@@ -3,6 +3,8 @@
 panepath=$(tmux display-message -t "$pane" -a | grep pane_current_path | cut -d '=' -f 2)
 ```
 
+` zet/20221003150077/README.md `
+
 # Related
 
 - [20221003150078](/zet/20221003150078/README.md) tmux get current pane

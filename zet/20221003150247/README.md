@@ -1,5 +1,7 @@
 # enterprise PAM
 
+` zet/20221003150247/README.md `
+
 # Related
 
 - [20221003150246](/zet/20221003150246/README.md) enterprise PAM Thycotic

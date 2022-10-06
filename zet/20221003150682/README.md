@@ -3,6 +3,8 @@
 curl http://$IP | grep '<form'
 ```
 
+` zet/20221003150682/README.md `
+
 # Related
 
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands

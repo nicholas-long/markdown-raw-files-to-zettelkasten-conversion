@@ -11,6 +11,8 @@ find . -type f -ls 2>/dev/null |\
 ```
 
 ~/kb/bash-scripting/find-largest-files.sh
+` zet/20221003151376/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

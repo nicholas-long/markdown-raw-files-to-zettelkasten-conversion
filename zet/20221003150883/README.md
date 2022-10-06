@@ -2,6 +2,8 @@
 you cannot.
 `system("echo asdf")` does not look up `echo` in `PATH`
 
+` zet/20221003150883/README.md `
+
 # Related
 
 - [20221003150884](/zet/20221003150884/README.md) privilege escalation relative path abuse

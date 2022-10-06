@@ -1,5 +1,7 @@
 # routing using a linux box add router to routes on hosts
 
+` zet/20221003150122/README.md `
+
 # Related
 
 - [20221003150126](/zet/20221003150126/README.md) routing using a linux box

@@ -4,6 +4,8 @@ getfacl -R -s .
 getfacl -R -s /
 ```
 
+` zet/20221003150300/README.md `
+
 # Related
 
 - [20221003150301](/zet/20221003150301/README.md) plus sign in ls output file ACL reading ACLs

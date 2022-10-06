@@ -1,5 +1,7 @@
 # SNMP enumeration command
 
+` zet/20221003150698/README.md `
+
 # Related
 
 - [20221003150697](/zet/20221003150697/README.md) SNMP enumeration command snmpwalk 

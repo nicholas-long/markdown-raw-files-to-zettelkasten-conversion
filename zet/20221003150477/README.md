@@ -3,6 +3,8 @@
 Get-WindowsFeature *ad-certificate*, *adcs*
 ```
 
+` zet/20221003150477/README.md `
+
 # Related
 
 - [20221003150478](/zet/20221003150478/README.md) general enumeration Active Directory Certificate Services

@@ -3,6 +3,8 @@
 apktool d file.apk
 ```
 
+` zet/20221003150233/README.md `
+
 # Related
 
 - [20221003150239](/zet/20221003150239/README.md) extract command for file type

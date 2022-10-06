@@ -1,5 +1,7 @@
 # applocker limit allowed executables and allowed paths
 
+` zet/20221003151034/README.md `
+
 # Related
 
 - [20221003151033](/zet/20221003151033/README.md) applocker limit allowed executables and allowed paths bypass executable blocking

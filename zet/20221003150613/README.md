@@ -4,6 +4,8 @@ recurse
 dir
 ```
 
+` zet/20221003150613/README.md `
+
 # Related
 
 - [20221003150614](/zet/20221003150614/README.md) smbclient shell

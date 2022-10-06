@@ -7,6 +7,8 @@ $cred = New-Object System.Management.Automation.PSCredential('.\use1', $pass)
 New-PSDrive -Name "temp" -PSProvider "FileSystem" -Credential $cred -Root "\\192.168.1.69\temp"
 ```
 
+` zet/20221003150470/README.md `
+
 # Related
 
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks

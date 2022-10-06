@@ -16,6 +16,8 @@ Each module is invoked by a task, and an ordered list of tasks together forms a 
 Users write playbooks with tasks and modules to define the desired state of the system.
 https://spacelift.io/blog/ansible-tutorial
 
+` zet/20221003150339/README.md `
+
 # Related
 
 - [20221003150340](/zet/20221003150340/README.md) ansible

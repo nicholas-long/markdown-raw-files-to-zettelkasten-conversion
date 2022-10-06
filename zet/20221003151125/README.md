@@ -6,6 +6,8 @@ get SPN from the last column of `impacket-findDelegation` "DelegationRightsTo".
 impacket-getST -spn SERVICE/HOSTNAME_YOU_HAVE_DELEGATION_RIGHTS_TO.FQDN -impersonate TARGET_USER DOMAIN/USERNAME:PASSWORD
 ```
 
+` zet/20221003151125/README.md `
+
 # Related
 
 - [20221003151127](/zet/20221003151127/README.md) active directory  delegation

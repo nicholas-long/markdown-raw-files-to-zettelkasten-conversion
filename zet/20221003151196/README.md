@@ -4,6 +4,8 @@
 - ipmitool
 - zabbix -> authenticated RCE
 
+` zet/20221003151196/README.md `
+
 # Related
 
 

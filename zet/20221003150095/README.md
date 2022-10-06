@@ -1,6 +1,8 @@
 # bash scripts sh autogenerate all languages
 ~/kb/autogenerate-all-languages.sh
 
+` zet/20221003150095/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

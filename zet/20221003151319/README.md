@@ -3,6 +3,8 @@
 date +%Y
 ```
 
+` zet/20221003151319/README.md `
+
 # Related
 
 - [20221003151321](/zet/20221003151321/README.md) get current date - linux bash scripting

@@ -9,6 +9,8 @@ ExecStart=-/sbin/agetty --keep-baud 115200,38400,9600 %I $TERM
 ExecStart=-/sbin/agetty 9600 %I $TERM
 ```
 
+` zet/20221003150152/README.md `
+
 # Related
 
 - [20221003150153](/zet/20221003150153/README.md) cyberpunk retro machine project enable usb serial port terminal as a service

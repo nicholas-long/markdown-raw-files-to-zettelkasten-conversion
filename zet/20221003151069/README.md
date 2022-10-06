@@ -5,6 +5,8 @@ procdump.exe -accepteula -ma 1234
 procdump64.exe -accepteula -ma 1234
 ```
 
+` zet/20221003151069/README.md `
+
 # Related
 
 - [20221003151070](/zet/20221003151070/README.md) dump process memory

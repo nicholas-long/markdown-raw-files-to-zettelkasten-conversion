@@ -4,6 +4,8 @@ tmux list-panes | grep active | cut -d ']' -f 3 | awk '{print $1}'
 pane=$(tmux list-panes | grep active | cut -d ']' -f 3 | awk '{print $1}')
 ```
 
+` zet/20221003150078/README.md `
+
 # Related
 
 - [20221003150079](/zet/20221003150079/README.md) tmux

@@ -4,6 +4,8 @@ smbclient \\\\$IP\\Data -U John
 
 get "\Users\John\file.txt:SECRET:$DATA"
 ```
+` zet/20221003150605/README.md `
+
 # Related
 
 - [20221003150611](/zet/20221003150611/README.md) smbclient

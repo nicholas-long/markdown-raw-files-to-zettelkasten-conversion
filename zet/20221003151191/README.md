@@ -32,6 +32,8 @@
 - cgi-bin old servers -> shellshock
 - everything list (including web server version) [EVERYTHING](EVERYTHING.md#everything)
 
+` zet/20221003151191/README.md `
+
 # Related
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP

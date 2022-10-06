@@ -2,6 +2,8 @@
 active directory DNS is dynamic DNS.
 any domain user can add a DNS record.
 
+` zet/20221003151129/README.md `
+
 # Related
 
 - [20221003151144](/zet/20221003151144/README.md) active directory 

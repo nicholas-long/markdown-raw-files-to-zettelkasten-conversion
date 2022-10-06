@@ -3,6 +3,8 @@
 select * from wp_options where option_name = 'active_plugins'
 ```
 
+` zet/20221003150342/README.md `
+
 # Related
 
 - [20221003150343](/zet/20221003150343/README.md) wordpress

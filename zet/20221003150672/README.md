@@ -3,6 +3,8 @@
 crackmapexec smb LAB-DC -u 'guest' -p '' --rid-brute
 ```
 
+` zet/20221003150672/README.md `
+
 # Related
 
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands

@@ -3,6 +3,8 @@
 find / -type f -newermt "2022-02-20" -not -newermt "2022-02-28" 2>/dev/null
 ```
 
+` zet/20221003150913/README.md `
+
 # Related
 
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands

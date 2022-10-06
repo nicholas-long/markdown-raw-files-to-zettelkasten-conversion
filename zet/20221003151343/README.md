@@ -1,5 +1,7 @@
 # convert decimal to hex
 
+` zet/20221003151343/README.md `
+
 # Related
 
 - [20221003151342](/zet/20221003151342/README.md) convert decimal to hex GMSA managed password

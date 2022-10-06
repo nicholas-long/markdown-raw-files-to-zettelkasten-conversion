@@ -2,6 +2,8 @@
 /usr/share/seclists/Discovery/Web-Content/LinuxFileList.txt
 /usr/share/seclists/Fuzzing/LFI/LFI-gracefulsecurity-linux.txt
 
+` zet/20221003151007/README.md `
+
 # Related
 
 - [20221003151008](/zet/20221003151008/README.md) LFI or directory traversal procedures file wordlists

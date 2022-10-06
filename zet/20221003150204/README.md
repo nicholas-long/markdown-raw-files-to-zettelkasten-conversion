@@ -25,6 +25,8 @@ if [ $? != 0 ]; then
 fi
 ```
 
+` zet/20221003150204/README.md `
+
 # Related
 
 - [20221003150207](/zet/20221003150207/README.md) example docker to initialize ksql commands

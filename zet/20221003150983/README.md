@@ -1,5 +1,7 @@
 # mariadb mysql files
 
+` zet/20221003150983/README.md `
+
 # Related
 
 - [20221003150988](/zet/20221003150988/README.md) mariadb mysql

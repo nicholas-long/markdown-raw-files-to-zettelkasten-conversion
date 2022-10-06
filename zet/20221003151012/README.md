@@ -1,6 +1,8 @@
 # LFI or directory traversal procedures read scripts from web server process cwd
 /proc/self/cwd
 
+` zet/20221003151012/README.md `
+
 # Related
 
 - [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures

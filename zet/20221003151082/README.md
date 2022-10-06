@@ -6,6 +6,8 @@ https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Privesc/Pow
 Invoke-AllChecks
 ```
 
+` zet/20221003151082/README.md `
+
 # Related
 
 

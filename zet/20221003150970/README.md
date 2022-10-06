@@ -4,6 +4,8 @@
 - physical device - possible
   - need root to bypass SSL pinning
 
+` zet/20221003150970/README.md `
+
 # Related
 
 - [20221003150969](/zet/20221003150969/README.md) mobile apps and API testing steps for mobile app API + burpsuite

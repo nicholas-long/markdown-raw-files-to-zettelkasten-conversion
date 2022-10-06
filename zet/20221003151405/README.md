@@ -9,6 +9,8 @@ cd ~/kb && /home/coyote/.cargo/bin/alacritty -e tmux
 ```
 
 ~/kb/linux/alacritty-run-tmux.sh
+` zet/20221003151405/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

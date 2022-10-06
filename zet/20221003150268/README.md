@@ -1,5 +1,7 @@
 # IPMI intelligent platform management interface BMC
 
+` zet/20221003150268/README.md `
+
 # Related
 
 - [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface

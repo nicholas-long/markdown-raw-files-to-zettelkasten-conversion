@@ -3,6 +3,8 @@
 psql -U username -d database_name
 ```
 
+` zet/20221003150825/README.md `
+
 # Related
 
 - [20221003150830](/zet/20221003150830/README.md) postgres sql enumeration

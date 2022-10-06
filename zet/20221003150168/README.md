@@ -1,5 +1,7 @@
 # dump process memory
 
+` zet/20221003150168/README.md `
+
 # Related
 
 - [20221003150167](/zet/20221003150167/README.md) dump process memory with exe pseudofile ( simple )

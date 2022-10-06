@@ -1,5 +1,7 @@
 # awk and bash scripting partition split into files by column value analyzing CSV trade data : split into files for symbols
 
+` zet/20221003151346/README.md `
+
 # Related
 
 - [20221003151347](/zet/20221003151347/README.md) awk and bash scripting partition split into files by column value

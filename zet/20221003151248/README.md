@@ -30,6 +30,8 @@ tar -xvf cme_min.tar
 find home | grep py # it's all here!
 ```
 
+` zet/20221003151248/README.md `
+
 # Related
 
 - [20221003151250](/zet/20221003151250/README.md) sending installs to target

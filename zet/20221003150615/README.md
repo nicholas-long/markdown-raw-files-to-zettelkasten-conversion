@@ -4,6 +4,8 @@
 ftp -v -n -s:ftp.txt
 ```
 
+` zet/20221003150615/README.md `
+
 # Related
 
 - [20221003150623](/zet/20221003150623/README.md) PureFTP

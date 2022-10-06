@@ -2,6 +2,8 @@
 - ssh is protected by default
 - iptables-multiport.conf has default ban commands
 
+` zet/20221003150937/README.md `
+
 # Related
 
 - [20221003150936](/zet/20221003150936/README.md) fail2ban default config location

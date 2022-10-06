@@ -3,6 +3,8 @@
 sudo nmap -p- -v -sC -sV -oA nmap.all $IP
 ```
 
+` zet/20221003150644/README.md `
+
 # Related
 
 - [20221003150648](/zet/20221003150648/README.md) nmap

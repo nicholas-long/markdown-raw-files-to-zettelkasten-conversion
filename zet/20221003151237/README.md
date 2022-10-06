@@ -3,6 +3,8 @@
 wfuzz -u "http://$IP/FUZZ" -w /usr/share/seclists/Fuzzing/fuzz-Bo0oM.txt --hc 404
 ```
 
+` zet/20221003151237/README.md `
+
 # Related
 
 

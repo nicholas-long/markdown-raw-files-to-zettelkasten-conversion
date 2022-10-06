@@ -3,6 +3,8 @@
 dig @$IP -x $LOOKUP_IP
 ```
 
+` zet/20221003150854/README.md `
+
 # Related
 
 - [20221003150855](/zet/20221003150855/README.md) dns commands

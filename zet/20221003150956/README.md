@@ -6,6 +6,8 @@
   - user profile image -> reverse image search
   - fuzzing by typing partial names
 
+` zet/20221003150956/README.md `
+
 # Related
 
 - [20221003150966](/zet/20221003150966/README.md) OSINT

@@ -4,6 +4,8 @@ Add `\G`
 select * from users \G
 ```
 
+` zet/20221003151235/README.md `
+
 # Related
 
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb

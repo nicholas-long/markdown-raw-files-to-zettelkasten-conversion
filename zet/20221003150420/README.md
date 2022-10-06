@@ -6,6 +6,8 @@ finger-user-enum.pl -U /usr/share/seclists/Usernames/Names/names.txt -t $IP
 # pipe to less -S to handle long lines
 ```
 
+` zet/20221003150420/README.md `
+
 # Related
 
 

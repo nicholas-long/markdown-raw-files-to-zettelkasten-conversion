@@ -17,6 +17,8 @@
 - check payloadsallthethings for other payload specific ideas
 - does it look like a puzzle? try to find obscure article / writeup / bug report / bounty mentioning combination of services / vendors
 
+` zet/20221003151177/README.md `
+
 # Related
 
 

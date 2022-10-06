@@ -1,5 +1,7 @@
 # identify linux version from service version
 
+` zet/20221003151223/README.md `
+
 # Related
 
 - [20221003151222](/zet/20221003151222/README.md) identify linux version from service version ubuntu

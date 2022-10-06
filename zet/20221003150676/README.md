@@ -15,6 +15,8 @@ bloodhound-python -c All -u user -p password -dc 'FQDNMachineName.domain.local' 
 bloodhound-python -c All -u user -p password -dc 'FQDNMachineName.domain.local' -d 'domain.local' -ns $IP --dns-tcp
 ```
 
+` zet/20221003150676/README.md `
+
 # Related
 
 - [20221003150677](/zet/20221003150677/README.md) bloodhound

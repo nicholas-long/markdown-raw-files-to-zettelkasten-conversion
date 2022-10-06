@@ -4,6 +4,8 @@
 !mona find -s "\xFF\xE4" -m ModuleName.dll
 ```
 
+` zet/20221003150533/README.md `
+
 # Related
 
 - [20221003150535](/zet/20221003150535/README.md) immunity debugger mona commands search for opcode string jmp esp

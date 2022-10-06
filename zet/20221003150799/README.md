@@ -3,6 +3,8 @@
 openssl enc -aes-256-cbc -d -in $FILE -out decryptedfile -k password
 ```
 
+` zet/20221003150799/README.md `
+
 # Related
 
 - [20221003150801](/zet/20221003150801/README.md) openssl commands

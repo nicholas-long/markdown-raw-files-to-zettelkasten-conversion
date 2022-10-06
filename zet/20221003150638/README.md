@@ -1,5 +1,7 @@
 # nmap check for mountable NFS shares
 
+` zet/20221003150638/README.md `
+
 # Related
 
 - [20221003150648](/zet/20221003150648/README.md) nmap

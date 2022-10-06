@@ -3,6 +3,8 @@
 tr 'a-z' 'A-Z'
 ```
 
+` zet/20221003151326/README.md `
+
 # Related
 
 - [20221003151328](/zet/20221003151328/README.md) bash scripting convert text strings or wordlists

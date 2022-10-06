@@ -1,5 +1,7 @@
 # linux enumeration quick commands capabilities
 
+` zet/20221003150901/README.md `
+
 # Related
 
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands

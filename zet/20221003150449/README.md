@@ -3,6 +3,8 @@ kpcli
 navigate around like a file system iwth cd and ls.
 `show -f 0` to show item named 0 without term color highlights.
 
+` zet/20221003150449/README.md `
+
 # Related
 
 

@@ -1,5 +1,7 @@
 # bash scripting run neo4j in a docker
 
+` zet/20221003151380/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

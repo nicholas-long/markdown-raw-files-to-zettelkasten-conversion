@@ -19,6 +19,8 @@ pr == 1 { print }
 ```
 
 ~/kb/awk-scripting/print-markdown-content-nested-in-heading.awk
+` zet/20221003151435/README.md `
+
 # Related
 
 - [20221003151441](/zet/20221003151441/README.md) awk scripting

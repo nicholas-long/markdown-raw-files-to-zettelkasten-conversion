@@ -3,6 +3,8 @@
 socat TCP4-LISTEN:8081,fork exec:/bin/sh
 ```
 
+` zet/20221003150112/README.md `
+
 # Related
 
 - [20221003150113](/zet/20221003150113/README.md) socat execute program

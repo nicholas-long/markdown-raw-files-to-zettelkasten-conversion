@@ -1,5 +1,7 @@
 # sending installs to target install programs on target as tar archive file using docker to find installed dependencies
 
+` zet/20221003151249/README.md `
+
 # Related
 
 - [20221003151250](/zet/20221003151250/README.md) sending installs to target

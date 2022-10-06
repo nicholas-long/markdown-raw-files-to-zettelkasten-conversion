@@ -20,6 +20,8 @@
   - world writable directories
 - assess the functionality provided to it and seeing if we can abuse it
 
+` zet/20221003151182/README.md `
+
 # Related
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP

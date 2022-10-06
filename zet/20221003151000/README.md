@@ -2,6 +2,8 @@
 /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-big.txt
 /usr/share/seclists/Discovery/DNS/dns-Jhaddix.txt
 
+` zet/20221003151000/README.md `
+
 # Related
 
 - [20221003151004](/zet/20221003151004/README.md) API enumeration good wordlists

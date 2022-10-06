@@ -3,6 +3,8 @@
 gobuster dir -e -u $URL -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -t 20
 ```
 
+` zet/20221003150843/README.md `
+
 # Related
 
 - [20221003150847](/zet/20221003150847/README.md) gobuster

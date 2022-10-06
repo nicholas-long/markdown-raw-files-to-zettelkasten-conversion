@@ -27,6 +27,8 @@ $2 { # print range
 ```
 
 ~/kb/bash-scripting/nmap-get-top-ports.sh
+` zet/20221003151368/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

@@ -1,5 +1,7 @@
 # python scripting test exploit locally
 
+` zet/20221003151361/README.md `
+
 # Related
 
 - [20221003151363](/zet/20221003151363/README.md) python scripting

@@ -8,6 +8,8 @@
   - architecture (especially significant buildings)
 - geoguessr.com gamified location id; one free play per day
 
+` zet/20221003150960/README.md `
+
 # Related
 
 - [20221003150961](/zet/20221003150961/README.md) OSINT physical location OSINT

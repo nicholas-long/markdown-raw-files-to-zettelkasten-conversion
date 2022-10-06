@@ -4,6 +4,8 @@ try lowering MTU of the actual interface to accomodate packets with all the extr
 ifconfig tun0 MTU 1000
 ```
 
+` zet/20221003150329/README.md `
+
 # Related
 
 

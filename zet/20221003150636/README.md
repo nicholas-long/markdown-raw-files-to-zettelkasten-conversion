@@ -3,6 +3,8 @@
 nmap -A -v -p 1234 $IP
 ```
 
+` zet/20221003150636/README.md `
+
 # Related
 
 - [20221003150648](/zet/20221003150648/README.md) nmap

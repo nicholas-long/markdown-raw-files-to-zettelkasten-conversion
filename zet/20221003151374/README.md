@@ -10,6 +10,8 @@ source ~/kb/docker/build-github-repo-docker-image.sh
 ```
 
 ~/kb/hacking/dockers/crackmapexec.sh
+` zet/20221003151374/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

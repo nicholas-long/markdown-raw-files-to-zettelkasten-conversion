@@ -5,6 +5,8 @@
   ```
 - rogue potato (current) - lots of port forwarding
 
+` zet/20221003151075/README.md `
+
 # Related
 
 - [20221003151076](/zet/20221003151076/README.md) service account privileges exploiting

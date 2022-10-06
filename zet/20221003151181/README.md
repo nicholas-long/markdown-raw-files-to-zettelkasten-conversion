@@ -7,6 +7,8 @@
     - edit in source view and set text type at bottom to php code
 - wordpress -> edit plugins or themes to install web shell
 
+` zet/20221003151181/README.md `
+
 # Related
 
 - [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login

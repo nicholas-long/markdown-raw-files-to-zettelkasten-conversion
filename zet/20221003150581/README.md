@@ -1,6 +1,8 @@
 # php LFI include PHP filter URL
 `php://filter` case insensitive
 
+` zet/20221003150581/README.md `
+
 # Related
 
 - [20221003150582](/zet/20221003150582/README.md) php LFI

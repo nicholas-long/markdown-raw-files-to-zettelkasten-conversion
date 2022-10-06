@@ -4,6 +4,8 @@
 
 docker run --network host --rm -i edenhill/kcat:1.7.0 -b kafka:9092 $@
 ```
+` zet/20221003150212/README.md `
+
 # Related
 
 - [20221003150215](/zet/20221003150215/README.md) kafkacat install

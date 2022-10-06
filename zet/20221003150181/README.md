@@ -9,6 +9,8 @@ Install apt packages
 - pkg-config
 - librust-servo-fontconfig-sys-dev
 
+` zet/20221003150181/README.md `
+
 # Related
 
 - [20221003150182](/zet/20221003150182/README.md) install alacritty 

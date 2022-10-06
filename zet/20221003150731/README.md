@@ -13,6 +13,8 @@ Dynamic collection settings:
     -I, --dont-collect <FILE_EXTENSION>...
             File extension(s) to Ignore while collecting extensions (only used with --collect-extensions)
 ```
+` zet/20221003150731/README.md `
+
 # Related
 
 - [20221003150735](/zet/20221003150735/README.md) feroxbuster files, backups, and extensions

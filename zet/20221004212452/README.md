@@ -10,6 +10,8 @@ zet/20221003151332/README.md    bash scripting
 20221003151332
 zet/20221003151329/README.md    bash scripting
 
+` zet/20221004212452/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

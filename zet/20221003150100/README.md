@@ -1,5 +1,7 @@
 # python scripting argument variable argv
 
+` zet/20221003150100/README.md `
+
 # Related
 
 - [20221003150105](/zet/20221003150105/README.md) python scripting

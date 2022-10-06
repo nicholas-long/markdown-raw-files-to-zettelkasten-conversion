@@ -6,6 +6,8 @@ $EncodedText = [Convert]::ToBase64String($Bytes)
 $EncodedText
 ```
 
+` zet/20221003150728/README.md `
+
 # Related
 
 - [20221003150730](/zet/20221003150730/README.md) powershell

@@ -1,5 +1,7 @@
 # DNS
 
+` zet/20221003150134/README.md `
+
 # Related
 
 - [20221003150133](/zet/20221003150133/README.md) DNS add nameserver to resolv.conf

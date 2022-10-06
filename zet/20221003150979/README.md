@@ -2,6 +2,8 @@
 hashes can either be in `Password` or `authentication_string` columns
 `union select User, Password, authentication_string from mysql.users`
 
+` zet/20221003150979/README.md `
+
 # Related
 
 - [20221003150983](/zet/20221003150983/README.md) mariadb mysql files

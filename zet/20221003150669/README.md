@@ -9,6 +9,8 @@ crackmapexec smb $IP -u valid_users -p valid_passwords --no-bruteforce --continu
 crackmapexec winrm $IP -u valid_users -p valid_passwords --no-bruteforce --continue-on-success
 ```
 
+` zet/20221003150669/README.md `
+
 # Related
 
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands

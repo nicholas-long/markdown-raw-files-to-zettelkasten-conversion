@@ -4,6 +4,8 @@ COOKIES="PHPSESSID=1234"
 wfuzz -c -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt -b "$COOKIES" --hc 404 "http://$IP/location.php?FUZZ=sensible_value"
 ```
 
+` zet/20221003150653/README.md `
+
 # Related
 
 - [20221003150659](/zet/20221003150659/README.md) wfuzz

@@ -10,6 +10,8 @@ awk ' {
 ```
 
 ~/kb/bash-scripting/urlencode-base64-every-line.sh
+` zet/20221003151423/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

@@ -6,6 +6,8 @@ sudo nvim /etc/responder/Responder.conf
 # search for SSL
 ```
 
+` zet/20221003150832/README.md `
+
 # Related
 
 - [20221003150833](/zet/20221003150833/README.md) responder

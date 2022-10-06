@@ -5,6 +5,8 @@ cewl http://$IP -w cewl_wordlist
 cewl http://$IP -w cewl_wordlist_num --with-numbers
 ```
 
+` zet/20221003150795/README.md `
+
 # Related
 
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist

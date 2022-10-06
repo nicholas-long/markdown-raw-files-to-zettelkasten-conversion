@@ -1,5 +1,7 @@
 # get current date - linux bash scripting
 
+` zet/20221003151321/README.md `
+
 # Related
 
 - [20221003151320](/zet/20221003151320/README.md) get current date - linux bash scripting current unix epoch timestamp

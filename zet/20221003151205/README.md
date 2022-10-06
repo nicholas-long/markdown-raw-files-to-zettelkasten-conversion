@@ -3,6 +3,8 @@
 - 2020 - zerologon
 - 2022 relay DC attack CVE-2022-26925 variation of petitpotam
 
+` zet/20221003151205/README.md `
+
 # Related
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation

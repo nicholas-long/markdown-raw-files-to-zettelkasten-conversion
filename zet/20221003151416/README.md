@@ -18,6 +18,8 @@ $1 == "unknown" { next }
 ```
 
 ~/kb/awk-scripting/nmap-ports.sh
+` zet/20221003151416/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

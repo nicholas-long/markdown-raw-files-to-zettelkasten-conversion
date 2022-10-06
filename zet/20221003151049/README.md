@@ -4,6 +4,8 @@ net user AccountUsername P@ssw0rd1
 net user AccountUsername P@ssw0rd1 /domain
 ```
 
+` zet/20221003151049/README.md `
+
 # Related
 
 - [20221003151050](/zet/20221003151050/README.md) change user password

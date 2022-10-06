@@ -9,6 +9,8 @@
       - enter IP and port
 see "mobile apps and API testing"
 
+` zet/20221003150228/README.md `
+
 # Related
 
 - [20221003150229](/zet/20221003150229/README.md) apk analysis emulate a phone with genymotion and virtualbox

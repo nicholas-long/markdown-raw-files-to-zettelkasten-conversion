@@ -18,6 +18,8 @@ print(repr(params))
 ```
 
 ~/kb/python/decode-cookies.py
+` zet/20221003151358/README.md `
+
 # Related
 
 - [20221003151363](/zet/20221003151363/README.md) python scripting

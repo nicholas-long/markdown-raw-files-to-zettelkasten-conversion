@@ -1,5 +1,7 @@
 # dirty cow privilege escalation working version
 
+` zet/20221003150878/README.md `
+
 # Related
 
 - [20221003150879](/zet/20221003150879/README.md) dirty cow privilege escalation

@@ -3,6 +3,8 @@
 keytool -printcert -file CERT.RSA
 ```
 
+` zet/20221003150754/README.md `
+
 # Related
 
 - [20221003150755](/zet/20221003150755/README.md) keytool

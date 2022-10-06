@@ -1,5 +1,7 @@
 # smbmap
 
+` zet/20221003150635/README.md `
+
 # Related
 
 - [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration

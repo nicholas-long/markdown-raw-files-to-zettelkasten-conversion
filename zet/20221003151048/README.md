@@ -1,5 +1,7 @@
 # windows reverse shell AV bypass
 
+` zet/20221003151048/README.md `
+
 # Related
 
 - [20221003151047](/zet/20221003151047/README.md) windows reverse shell AV bypass active directory endpoint protection

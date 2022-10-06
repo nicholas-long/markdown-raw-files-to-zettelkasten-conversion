@@ -3,6 +3,8 @@
 cat /proc/*/status | awk '/CapEff/ && $2 !~ /^0*$/ { print name, pid, uid, $2 } /^Pid/ { pid = $2 } /^Uid/ { uid = $2 } /^Name/ { name = $2 }'
 ```
 
+` zet/20221003150898/README.md `
+
 # Related
 
 - [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities

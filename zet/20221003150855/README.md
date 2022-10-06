@@ -1,5 +1,7 @@
 # dns commands
 
+` zet/20221003150855/README.md `
+
 # Related
 
 - [20221003150854](/zet/20221003150854/README.md) dns commands reverse lookup with dig

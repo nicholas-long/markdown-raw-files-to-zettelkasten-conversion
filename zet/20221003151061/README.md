@@ -5,6 +5,8 @@ authentication is different for localhost.
 net use Z: \\127.0.0.1\c$
 ```
 
+` zet/20221003151061/README.md `
+
 # Related
 
 - [20221003151064](/zet/20221003151064/README.md) bypass UAC with administrators group

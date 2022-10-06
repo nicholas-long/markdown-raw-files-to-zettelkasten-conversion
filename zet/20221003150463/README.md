@@ -3,6 +3,8 @@
 $cred.getnetworkcredential().password
 ```
 
+` zet/20221003150463/README.md `
+
 # Related
 
 - [20221003150465](/zet/20221003150465/README.md) powershell PSCredential password

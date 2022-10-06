@@ -32,6 +32,8 @@
   - google name in quotes with `resume`
   - google drive links to resumes `site:google.com`
 
+` zet/20221003150955/README.md `
+
 # Related
 
 - [20221003150966](/zet/20221003150966/README.md) OSINT

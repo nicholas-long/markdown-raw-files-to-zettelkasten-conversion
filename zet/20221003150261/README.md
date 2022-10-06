@@ -7,6 +7,8 @@ crackable
 replayable
 can encrypt known string and xor to get cipher
 
+` zet/20221003150261/README.md `
+
 # Related
 
 - [20221003150265](/zet/20221003150265/README.md) block ciphers

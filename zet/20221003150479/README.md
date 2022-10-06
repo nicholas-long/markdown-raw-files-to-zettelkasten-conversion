@@ -3,6 +3,8 @@
 Get-Command
 ```
 
+` zet/20221003150479/README.md `
+
 # Related
 
 - [20221003150482](/zet/20221003150482/README.md) general enumeration

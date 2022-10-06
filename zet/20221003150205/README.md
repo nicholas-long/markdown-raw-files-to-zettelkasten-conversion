@@ -16,6 +16,8 @@ curl -X "POST" "http://$KSQL_SERVER/$sqltype" \
 echo
 ```
 
+` zet/20221003150205/README.md `
+
 # Related
 
 - [20221003150207](/zet/20221003150207/README.md) example docker to initialize ksql commands

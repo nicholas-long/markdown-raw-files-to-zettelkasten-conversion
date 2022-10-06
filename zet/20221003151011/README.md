@@ -2,6 +2,8 @@
 /usr/share/seclists/Discovery/Web-Content/raft-small-words.txt
 fuzz with known extensions
 
+` zet/20221003151011/README.md `
+
 # Related
 
 - [20221003151012](/zet/20221003151012/README.md) LFI or directory traversal procedures read scripts from web server process cwd

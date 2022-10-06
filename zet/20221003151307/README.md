@@ -8,6 +8,8 @@ This sets env-like variables that can be printed
 send "$password"
 ```
 
+` zet/20221003151307/README.md `
+
 # Related
 
 - [20221003151309](/zet/20221003151309/README.md) expect scripts

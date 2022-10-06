@@ -1,5 +1,7 @@
 # powershell tricks
 
+` zet/20221003150476/README.md `
+
 # Related
 
 - [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user

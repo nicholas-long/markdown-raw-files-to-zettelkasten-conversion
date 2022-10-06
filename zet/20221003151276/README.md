@@ -1,6 +1,8 @@
 # linux data science issues
 - Confusing Results With Unicode
 
+` zet/20221003151276/README.md `
+
 # Related
 
 - [20221003151278](/zet/20221003151278/README.md) linux data science

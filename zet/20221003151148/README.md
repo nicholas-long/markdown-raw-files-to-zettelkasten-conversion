@@ -6,6 +6,8 @@ https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/resou
 - replace all the options for domain and the hashes provided
 - working powershell commands included below
 
+` zet/20221003151148/README.md `
+
 # Related
 
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target

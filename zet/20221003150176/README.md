@@ -1,5 +1,7 @@
 # ex commands
 
+` zet/20221003150176/README.md `
+
 # Related
 
 - [20221003150175](/zet/20221003150175/README.md) ex commands  Some of these might apply to ed as well

@@ -4,6 +4,8 @@ LPORT=443
 nc -lvnp $LPORT < filename
 ```
 
+` zet/20221003150905/README.md `
+
 # Related
 
 - [20221003150907](/zet/20221003150907/README.md) linux enumeration quick commands transfer / download files with just bash

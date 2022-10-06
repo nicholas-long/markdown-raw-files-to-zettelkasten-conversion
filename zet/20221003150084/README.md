@@ -1,6 +1,8 @@
 # bash scripts sh oracle
 ~/kb/linux/oracle.sh
 
+` zet/20221003150084/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

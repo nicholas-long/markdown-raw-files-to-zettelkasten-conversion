@@ -3,6 +3,8 @@
 sqlplus64 user/pass@$IP:1521/SID as sysdba
 ```
 
+` zet/20221003150977/README.md `
+
 # Related
 
 - [20221003150978](/zet/20221003150978/README.md) oracle

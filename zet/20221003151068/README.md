@@ -3,6 +3,8 @@ right click process and select create dump file.
 must be run as admin.
 saves to `appdata/local/temp/procname.DMP`.
 
+` zet/20221003151068/README.md `
+
 # Related
 
 - [20221003151070](/zet/20221003151070/README.md) dump process memory

@@ -3,6 +3,8 @@
 - permission over computer -> resource based constrained delegation attack
   https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet#resource-based-constrained-delegation
 
+` zet/20221003151141/README.md `
+
 # Related
 
 - [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions

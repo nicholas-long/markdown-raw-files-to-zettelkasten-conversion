@@ -1,5 +1,7 @@
 # active directory 
 
+` zet/20221003151144/README.md `
+
 # Related
 
 - [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions

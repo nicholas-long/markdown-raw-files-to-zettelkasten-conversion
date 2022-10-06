@@ -16,6 +16,8 @@ rm -rf $tf
 ```
 
 ~/kb/bash-scripting/copy-text-from-image-url.sh
+` zet/20221003151389/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

@@ -7,6 +7,8 @@
 ```
 
 ~/kb/bash-scripting/decorate-passwd-file.sh
+` zet/20221003151397/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

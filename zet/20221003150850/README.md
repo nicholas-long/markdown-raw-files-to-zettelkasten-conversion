@@ -9,6 +9,8 @@ send
 quit
 ```
 
+` zet/20221003150850/README.md `
+
 # Related
 
 - [20221003150851](/zet/20221003150851/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate

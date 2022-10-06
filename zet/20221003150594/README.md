@@ -1,5 +1,7 @@
 # generating enumeration wordlists
 
+` zet/20221003150594/README.md `
+
 # Related
 
 - [20221003150593](/zet/20221003150593/README.md) generating enumeration wordlists exfiltrated passwd usernames to ssh key id_rsa fuzz list

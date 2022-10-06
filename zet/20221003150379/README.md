@@ -1,5 +1,7 @@
 # oracle database attacking tool odat enumerate users
 
+` zet/20221003150379/README.md `
+
 # Related
 
 - [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat

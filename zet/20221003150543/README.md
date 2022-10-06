@@ -1,5 +1,7 @@
 # simple binary exploits python exploit scripts
 
+` zet/20221003150543/README.md `
+
 # Related
 
 - [20221003150548](/zet/20221003150548/README.md) simple binary exploits

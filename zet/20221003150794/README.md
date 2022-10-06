@@ -1,5 +1,7 @@
 # generate cewl wordlist from file
 
+` zet/20221003150794/README.md `
+
 # Related
 
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist

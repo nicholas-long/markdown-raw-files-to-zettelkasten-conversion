@@ -1,6 +1,8 @@
 # bash scripts sh get ip tmux
 ~/kb/linux/get-ip-tmux.sh
 
+` zet/20221003150088/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

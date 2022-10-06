@@ -13,6 +13,8 @@ done | awk ' BEGIN { FS="-" }
 ```
 
 ~/kb/bash-scripting/generate-dates.sh
+` zet/20221003151387/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

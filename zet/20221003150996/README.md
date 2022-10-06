@@ -9,6 +9,8 @@
   - switching object's types
   - NoSQL injection through JSON types "custom scalar types"
 
+` zet/20221003150996/README.md `
+
 # Related
 
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs

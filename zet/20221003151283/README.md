@@ -2,6 +2,8 @@
 input to tsort is lines consisiting of two items "A B" where A comes before B.
 output is sorted by dependencies.
 
+` zet/20221003151283/README.md `
+
 # Related
 
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort

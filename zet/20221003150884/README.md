@@ -1,5 +1,7 @@
 # privilege escalation relative path abuse
 
+` zet/20221003150884/README.md `
+
 # Related
 
 - [20221003150883](/zet/20221003150883/README.md) privilege escalation relative path abuse using echo

@@ -5,6 +5,8 @@ ps -efw --forest
 ps -efw --forest -M                  # SELinux
 ```
 
+` zet/20221003150917/README.md `
+
 # Related
 
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands

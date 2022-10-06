@@ -1,5 +1,7 @@
 # hql injection
 
+` zet/20221003151220/README.md `
+
 # Related
 
 - [20221003151219](/zet/20221003151219/README.md) hql injection auth bypass example

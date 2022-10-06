@@ -1,5 +1,7 @@
 # enum4linux
 
+` zet/20221003150786/README.md `
+
 # Related
 
 - [20221003150785](/zet/20221003150785/README.md) enum4linux enumerate SMB shares and permissions

@@ -6,6 +6,8 @@ Install-Module DSInternals -Force
 ```
 if powershell gallery is not available on CTF boxes
 
+` zet/20221003150484/README.md `
+
 # Related
 
 - [20221003150485](/zet/20221003150485/README.md) active directory get GMSA service account properties get GMSA password and run commands

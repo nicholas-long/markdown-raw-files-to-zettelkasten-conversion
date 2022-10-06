@@ -6,6 +6,8 @@
   - malicious LNK
     - shortcut to open the legit executable; target for user to click
 
+` zet/20221003151262/README.md `
+
 # Related
 
 - [20221003151263](/zet/20221003151263/README.md) windows executable smartscreen protection

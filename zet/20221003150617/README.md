@@ -4,6 +4,8 @@
 /etc/init.d/pure-ftpd restart 
 ```
 
+` zet/20221003150617/README.md `
+
 # Related
 
 - [20221003150623](/zet/20221003150623/README.md) PureFTP

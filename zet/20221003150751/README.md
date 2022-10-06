@@ -3,6 +3,8 @@
 kerbrute passwordspray --dc $IP -d DOMAIN.local users password123
 ```
 
+` zet/20221003150751/README.md `
+
 # Related
 
 - [20221003150753](/zet/20221003150753/README.md) kerbrute

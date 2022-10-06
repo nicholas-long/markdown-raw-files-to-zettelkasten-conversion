@@ -8,6 +8,8 @@ comm -12 signups.txt purchases.txt
 comm -12 <(sort signups.txt) <(sort purchases.txt)
 ```
 
+` zet/20221003151304/README.md `
+
 # Related
 
 - [20221003151305](/zet/20221003151305/README.md) bash scripting set operations comm

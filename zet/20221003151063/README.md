@@ -32,6 +32,8 @@ FodhelperBypass -program cmd
 FodhelperBypass
 ```
 
+` zet/20221003151063/README.md `
+
 # Related
 
 - [20221003151064](/zet/20221003151064/README.md) bypass UAC with administrators group

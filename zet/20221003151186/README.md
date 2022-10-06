@@ -15,6 +15,8 @@
   - IDOR
   - kiterunner tool and wordlists
 
+` zet/20221003151186/README.md `
+
 # Related
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP

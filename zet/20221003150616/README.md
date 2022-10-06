@@ -9,6 +9,8 @@ echo put secret_data.txt>> ftp.txt
 echo bye >> ftp.txt
 ```
 
+` zet/20221003150616/README.md `
+
 # Related
 
 - [20221003150623](/zet/20221003150623/README.md) PureFTP

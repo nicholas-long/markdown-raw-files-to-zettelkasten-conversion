@@ -5,6 +5,8 @@ Register-ScheduledTask -Action $TaskAction -TaskName "GrantPerm"
 Start-ScheduledTask -TaskName "GrantPerm"
 ```
 
+` zet/20221003151079/README.md `
+
 # Related
 
 - [20221003151080](/zet/20221003151080/README.md) service account privileges restore

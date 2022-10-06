@@ -3,6 +3,8 @@
 openssl pkcs12 -export -inkey client.key -in client.cer -out client.p12
 ```
 
+` zet/20221003150787/README.md `
+
 # Related
 
 - [20221003150791](/zet/20221003150791/README.md) openssl

@@ -1,6 +1,8 @@
 # install alacritty  config file
 ~/.alacritty.yml
 
+` zet/20221003150179/README.md `
+
 # Related
 
 - [20221003150182](/zet/20221003150182/README.md) install alacritty 

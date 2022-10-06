@@ -1,5 +1,7 @@
 # threatcheck help obfuscate windows executable strings
 
+` zet/20221003150383/README.md `
+
 # Related
 
 - [20221003150382](/zet/20221003150382/README.md) threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender)

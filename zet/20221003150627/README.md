@@ -9,6 +9,8 @@ connection.bind()
 server.info
 ```
 
+` zet/20221003150627/README.md `
+
 # Related
 
 - [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous

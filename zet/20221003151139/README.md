@@ -9,6 +9,8 @@ within rpcclient shell
 setuserinfo2 targetuser 23 targetnewpwd
 ```
 
+` zet/20221003151139/README.md `
+
 # Related
 
 - [20221003151144](/zet/20221003151144/README.md) active directory 

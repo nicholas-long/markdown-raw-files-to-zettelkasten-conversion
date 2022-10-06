@@ -3,6 +3,8 @@
 tar -xzvf file.tar.gz
 ```
 
+` zet/20221003150237/README.md `
+
 # Related
 
 - [20221003150239](/zet/20221003150239/README.md) extract command for file type

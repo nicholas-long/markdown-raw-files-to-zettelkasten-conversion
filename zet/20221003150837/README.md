@@ -1,5 +1,7 @@
 # smb mount share
 
+` zet/20221003150837/README.md `
+
 # Related
 
 - [20221003150836](/zet/20221003150836/README.md) smb mount share unauthenticated

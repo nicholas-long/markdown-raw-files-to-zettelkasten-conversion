@@ -9,6 +9,8 @@
 sudo apt install -y alien
 alien --to-deb file.rpm
 ```
+` zet/20221003150192/README.md `
+
 # Related
 
 - [20221003150193](/zet/20221003150193/README.md) convert

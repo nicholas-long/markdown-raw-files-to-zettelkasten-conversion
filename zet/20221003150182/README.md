@@ -1,5 +1,7 @@
 # install alacritty 
 
+` zet/20221003150182/README.md `
+
 # Related
 
 - [20221003150181](/zet/20221003150181/README.md) install alacritty  fix build errors

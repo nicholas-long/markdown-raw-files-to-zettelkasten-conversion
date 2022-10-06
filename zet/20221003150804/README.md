@@ -11,6 +11,8 @@ try more than just the default colon separated default creds from seclists.
 hydra -L /usr/share/metasploit-framework/data/wordlists/tomcat_mgr_default_users.txt -P /usr/share/metasploit-framework/data/wordlists/tomcat_mgr_default_pass.txt http-get://$IP/manager/html
 ```
 
+` zet/20221003150804/README.md `
+
 # Related
 
 - [20221003150807](/zet/20221003150807/README.md) brute force default credentials

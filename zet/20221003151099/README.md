@@ -1,5 +1,7 @@
 # powershell commands encoded command nop bypass hidden
 
+` zet/20221003151099/README.md `
+
 # Related
 
 - [20221003151101](/zet/20221003151101/README.md) powershell commands

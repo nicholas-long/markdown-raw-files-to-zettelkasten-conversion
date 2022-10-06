@@ -8,6 +8,8 @@ example:
 smbclient \\\\$IP\\Data -U John -c 'prompt OFF;recurse ON;cd '\Users\John\';lcd '/tmp/John';mget *'
 ```
 
+` zet/20221003150607/README.md `
+
 # Related
 
 - [20221003150611](/zet/20221003150611/README.md) smbclient

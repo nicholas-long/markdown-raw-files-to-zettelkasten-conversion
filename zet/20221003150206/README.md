@@ -12,6 +12,8 @@ echo "This is where initializtion should happen."
 ./ksql.sh $KSQL_SERVER ksql "create or replace stream answers_raw (hash string, answer string) with (kafka_topic='answer', value_format='delimited', value_delimiter=':');"
 ```
 
+` zet/20221003150206/README.md `
+
 # Related
 
 - [20221003150207](/zet/20221003150207/README.md) example docker to initialize ksql commands

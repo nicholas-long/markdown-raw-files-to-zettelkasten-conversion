@@ -5,6 +5,8 @@ export KRB5CCNAME=$(pwd)/User.ccache
 crackmapexec smb fqdn.domain.local -u User --kerberos
 ```
 
+` zet/20221003150749/README.md `
+
 # Related
 
 - [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket

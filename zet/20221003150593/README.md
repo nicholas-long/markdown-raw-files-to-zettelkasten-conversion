@@ -3,6 +3,8 @@
 awk -F: '{print $6 "/.ssh/id_rsa" }' passwd
 ```
 
+` zet/20221003150593/README.md `
+
 # Related
 
 - [20221003150594](/zet/20221003150594/README.md) generating enumeration wordlists

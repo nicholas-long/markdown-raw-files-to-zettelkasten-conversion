@@ -8,6 +8,8 @@ Target:
 powershell -nop -enc <BASE64_ENCODED_PAYLOAD>
 ```
 
+` zet/20221003150729/README.md `
+
 # Related
 
 - [20221003150730](/zet/20221003150730/README.md) powershell

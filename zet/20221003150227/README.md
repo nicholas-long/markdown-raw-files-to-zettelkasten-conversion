@@ -1,5 +1,7 @@
 # grep patterns
 
+` zet/20221003150227/README.md `
+
 # Related
 
 - [20221003150226](/zet/20221003150226/README.md) grep patterns searching for IPs

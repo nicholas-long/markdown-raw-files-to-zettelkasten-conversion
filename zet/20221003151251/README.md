@@ -1,6 +1,8 @@
 # run executable binary programs within process memory windows cobalt strike BOF.NET common language runtime CLR .NET assemblies
 a BOF that loads CLR and runs .NET assemblies
 
+` zet/20221003151251/README.md `
+
 # Related
 
 - [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows cobalt strike

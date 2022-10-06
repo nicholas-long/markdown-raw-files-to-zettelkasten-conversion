@@ -5,6 +5,8 @@
   - strings
 - `cgo` - interoperability with C, common area for bugs
 
+` zet/20221003150516/README.md `
+
 # Related
 
 - [20221003150517](/zet/20221003150517/README.md) binary analysis

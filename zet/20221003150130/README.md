@@ -1,6 +1,8 @@
 # java download links jdk
 https://repo.huaweicloud.com/java/jdk/8u181-b13/jdk-8u181-linux-x64.tar.gz
 
+` zet/20221003150130/README.md `
+
 # Related
 
 - [20221003150131](/zet/20221003150131/README.md) java download links

@@ -1,5 +1,7 @@
 # volatility framework analyze dump files of volatile RAM
 
+` zet/20221003150375/README.md `
+
 # Related
 
 - [20221003150376](/zet/20221003150376/README.md) volatility framework

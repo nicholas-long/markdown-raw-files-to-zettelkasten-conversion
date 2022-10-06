@@ -9,6 +9,8 @@ NR == 1 {
 ```
 
 ~/kb/awk-scripting/get-columns.awk
+` zet/20221003151434/README.md `
+
 # Related
 
 - [20221003151441](/zet/20221003151441/README.md) awk scripting

@@ -1,5 +1,7 @@
 # john the ripper
 
+` zet/20221003150871/README.md `
+
 # Related
 
 - [20221003150870](/zet/20221003150870/README.md) john the ripper crack hashes from file with wordlist

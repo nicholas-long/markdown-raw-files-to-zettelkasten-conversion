@@ -1,5 +1,7 @@
 # LDAP enumeration authenticated
 
+` zet/20221003150625/README.md `
+
 # Related
 
 - [20221003150630](/zet/20221003150630/README.md) LDAP enumeration

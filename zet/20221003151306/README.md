@@ -1,5 +1,7 @@
 # bash scripting set operations
 
+` zet/20221003151306/README.md `
+
 # Related
 
 - [20221003151305](/zet/20221003151305/README.md) bash scripting set operations comm

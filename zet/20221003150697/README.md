@@ -9,6 +9,8 @@ snmpwalk -c public -v2c $IP
 snmpwalk -c public -v1 $IP
 ```
 
+` zet/20221003150697/README.md `
+
 # Related
 
 - [20221003150698](/zet/20221003150698/README.md) SNMP enumeration command

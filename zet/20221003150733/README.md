@@ -3,6 +3,8 @@
 feroxbuster --url $URL -x php -B -g
 ```
 
+` zet/20221003150733/README.md `
+
 # Related
 
 - [20221003150735](/zet/20221003150735/README.md) feroxbuster files, backups, and extensions

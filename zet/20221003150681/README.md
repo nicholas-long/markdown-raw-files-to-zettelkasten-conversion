@@ -1,5 +1,7 @@
 # tftp
 
+` zet/20221003150681/README.md `
+
 # Related
 
 - [20221003150680](/zet/20221003150680/README.md) tftp upload file

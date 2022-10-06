@@ -3,6 +3,8 @@
 > "Scope" sub-panel
 > add URL
 
+` zet/20221003150309/README.md `
+
 # Related
 
 - [20221003150310](/zet/20221003150310/README.md) burpsuite

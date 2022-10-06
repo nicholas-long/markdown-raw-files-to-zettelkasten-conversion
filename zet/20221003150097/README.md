@@ -3,6 +3,8 @@
 ~/kb/bash-scripting/what-installed-this-file.sh $(which ntpdate)
 ```
 
+` zet/20221003150097/README.md `
+
 # Related
 
 

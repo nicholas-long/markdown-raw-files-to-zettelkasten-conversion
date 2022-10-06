@@ -5,6 +5,8 @@ dd if=file.elf skip=22222 of=out.zip bs=1 count=100000
 dd if=file.elf skip=22222 of=out.zip bs=1
 ```
 
+` zet/20221003150661/README.md `
+
 # Related
 
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands

@@ -18,6 +18,8 @@ print(repr(params))
 ```
 
 ~/kb/python/tsv-to-python-dict.py
+` zet/20221003151352/README.md `
+
 # Related
 
 - [20221003151363](/zet/20221003151363/README.md) python scripting

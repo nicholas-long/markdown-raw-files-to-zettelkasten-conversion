@@ -1,5 +1,7 @@
 # routing using a linux box iptables rules
 
+` zet/20221003150120/README.md `
+
 # Related
 
 - [20221003150126](/zet/20221003150126/README.md) routing using a linux box

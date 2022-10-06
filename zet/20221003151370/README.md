@@ -8,6 +8,8 @@ cat composer.lock | jq -r '.packages[] | .name,.version' | paste - -
 ```
 
 ~/kb/hacking/tricks/get-versions-from-composer-lock-json.sh
+` zet/20221003151370/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

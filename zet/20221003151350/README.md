@@ -1,5 +1,7 @@
 # awk and bash scripting
 
+` zet/20221003151350/README.md `
+
 # Related
 
 - [20221003151349](/zet/20221003151349/README.md) awk and bash scripting rename or move files

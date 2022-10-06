@@ -1,5 +1,7 @@
 # linux hardening
 
+` zet/20221003151155/README.md `
+
 # Related
 
 - [20221003151154](/zet/20221003151154/README.md) linux hardening add hidepid to /proc at run time

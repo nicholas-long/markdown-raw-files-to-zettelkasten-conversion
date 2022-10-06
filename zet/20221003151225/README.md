@@ -60,6 +60,8 @@ r = requests.get(url, cookies=cookies, params={
 print(r.text)
 ```
 
+` zet/20221003151225/README.md `
+
 # Related
 
 - [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE

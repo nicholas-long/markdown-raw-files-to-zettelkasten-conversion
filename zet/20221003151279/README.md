@@ -2,6 +2,8 @@
 has TLDR page for command reference.
 https://github.com/mikefarah/yq
 
+` zet/20221003151279/README.md `
+
 # Related
 
 - [20221003151280](/zet/20221003151280/README.md) YAML parsing

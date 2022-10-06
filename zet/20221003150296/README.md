@@ -8,6 +8,8 @@ go get golang.org/x/crypto/pbkdf2
 go run file.go
 ```
 
+` zet/20221003150296/README.md `
+
 # Related
 
 - [20221003150299](/zet/20221003150299/README.md) fixing golang module errors

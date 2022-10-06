@@ -302,6 +302,8 @@ ACPI/ASL Checkpoints
 40 - System is waking up from the S4 sleep state
 AC - System has transitioned into ACPI mode. Interrupt controller is in APIC mode
 AA - System has transitioned into ACPI mode. Interrupt controller is in APIC mode
+` zet/20221003150219/README.md `
+
 # Related
 
 

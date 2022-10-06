@@ -5,6 +5,8 @@ pattern create 200
 pattern search $rsp
 ```
 
+` zet/20221003150530/README.md `
+
 # Related
 
 - [20221003150532](/zet/20221003150532/README.md) gef gdb plugin

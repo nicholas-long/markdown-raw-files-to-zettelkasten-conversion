@@ -3,6 +3,8 @@ sha1 hashing used in `ssh-rsa` key type deprecated as of OpenSSH 8.8.
 Add arguments
 ` -o 'PubkeyAcceptedKeyTypes +ssh-rsa' `
 
+` zet/20221003150858/README.md `
+
 # Related
 
 - [20221003150862](/zet/20221003150862/README.md) SSH arguments

@@ -1,5 +1,7 @@
 # bash scripting parse args with case statement
 
+` zet/20221003151418/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

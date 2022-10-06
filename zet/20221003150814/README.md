@@ -5,6 +5,8 @@ ps
 migrate 1234
 ```
 
+` zet/20221003150814/README.md `
+
 # Related
 
 - [20221003150816](/zet/20221003150816/README.md) meterpreter msf

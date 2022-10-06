@@ -1,5 +1,7 @@
 # decrypt azure AD connect passwords
 
+` zet/20221003151028/README.md `
+
 # Related
 
 - [20221003151027](/zet/20221003151027/README.md) decrypt azure AD connect passwords powershell MSSQL queries

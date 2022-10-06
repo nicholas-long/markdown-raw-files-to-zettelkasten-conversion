@@ -6,6 +6,8 @@ sudo npm install -g asar
 npx asar extract app.asar extracted
 ```
 
+` zet/20221003150234/README.md `
+
 # Related
 
 - [20221003150239](/zet/20221003150239/README.md) extract command for file type

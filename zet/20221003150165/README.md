@@ -1,5 +1,7 @@
 # linux job control
 
+` zet/20221003150165/README.md `
+
 # Related
 
 - [20221003150164](/zet/20221003150164/README.md) linux job control background running process

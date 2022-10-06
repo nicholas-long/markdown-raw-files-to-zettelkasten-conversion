@@ -17,6 +17,8 @@ ARGIND == 2 {
 ```
 
 ~/kb/awk-scripting/combine-files.awk
+` zet/20221003151433/README.md `
+
 # Related
 
 - [20221003151441](/zet/20221003151441/README.md) awk scripting

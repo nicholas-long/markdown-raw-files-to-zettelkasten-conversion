@@ -17,6 +17,8 @@ docker run --rm $imagename --help
 ```
 
 ~/kb/docker/build-github-repo-docker-image.sh
+` zet/20221003151391/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

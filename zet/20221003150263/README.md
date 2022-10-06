@@ -14,6 +14,8 @@
 the length of ciphertext encrypted with block mode is usually divisible by some power of 2
 https://en.wikipedia.org/wiki/Block_cipher#Notable_block_ciphers
 
+` zet/20221003150263/README.md `
+
 # Related
 
 - [20221003150264](/zet/20221003150264/README.md) block ciphers AES DES blowfish

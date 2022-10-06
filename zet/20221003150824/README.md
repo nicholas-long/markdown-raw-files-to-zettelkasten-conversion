@@ -3,6 +3,8 @@
 psql -h /var/opt/gitlab/postgresql -U gitlab gitlabhq_production
 ```
 
+` zet/20221003150824/README.md `
+
 # Related
 
 - [20221003150825](/zet/20221003150825/README.md) postgres sql enumeration connect to database

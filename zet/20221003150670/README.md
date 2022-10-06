@@ -4,6 +4,8 @@ check individual users and passwords and/or files the same way
 crackmapexec smb $IP -u users -p passwords
 ```
 
+` zet/20221003150670/README.md `
+
 # Related
 
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands

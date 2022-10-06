@@ -1,6 +1,8 @@
 # ssh port forwarding dynamic ( socks )
 -D 1080
 
+` zet/20221003150106/README.md `
+
 # Related
 
 - [20221003150107](/zet/20221003150107/README.md) ssh port forwarding

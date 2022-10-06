@@ -5,6 +5,8 @@ sudo apt install mingw-w64
 x86_64-w64-mingw32-g++ rev.c -o rev.dll -lws2_32 -shared
 ```
 
+` zet/20221003150328/README.md `
+
 # Related
 
 

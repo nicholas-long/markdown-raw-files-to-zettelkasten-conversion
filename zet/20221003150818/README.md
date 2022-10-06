@@ -3,6 +3,8 @@
 msfconsole -r script.rc
 ```
 
+` zet/20221003150818/README.md `
+
 # Related
 
 - [20221003150819](/zet/20221003150819/README.md) metasploit msf

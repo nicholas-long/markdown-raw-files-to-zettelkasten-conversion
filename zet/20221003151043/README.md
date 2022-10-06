@@ -3,6 +3,8 @@
 echo <YOUR DATA> > filename.txt:streamname.txt
 ```
 
+` zet/20221003151043/README.md `
+
 # Related
 
 - [20221003151045](/zet/20221003151045/README.md) windows alternate data streams commands

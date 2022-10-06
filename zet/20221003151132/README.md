@@ -10,6 +10,8 @@ python gMSADumper.py -u user -p e52cac67419a9a224a3b108f3fa6cb6d:8846f7eaee8fb11
 python gMSADumper.py -k -d domain.local -l dc01.domain.local
 ```
 
+` zet/20221003151132/README.md `
+
 # Related
 
 - [20221003151134](/zet/20221003151134/README.md) active directory  GMSA group managed service account

@@ -4,6 +4,8 @@ both files must be sorted on join key
 join -1 1 -2 3 <(sort data/completed_scanned_urls) <(sort -k 3 master-url-list.tsv)
 ```
 
+` zet/20221003151323/README.md `
+
 # Related
 
 - [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database

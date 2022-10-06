@@ -1,6 +1,8 @@
 # active directory  sensitive files
 ntds.dit - domain credentials
 
+` zet/20221003151137/README.md `
+
 # Related
 
 - [20221003151144](/zet/20221003151144/README.md) active directory 

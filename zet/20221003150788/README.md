@@ -6,6 +6,8 @@ ca.crt is the certificate chain exported from firefox
 ca.key is private key of a CA that has been leaked
 client.csr is the certificate signing request
 
+` zet/20221003150788/README.md `
+
 # Related
 
 - [20221003150791](/zet/20221003150791/README.md) openssl

@@ -1,6 +1,8 @@
 # python hex to bytes
 bytes.fromhex(str)
 
+` zet/20221003150944/README.md `
+
 # Related
 
 - [20221003150946](/zet/20221003150946/README.md) python

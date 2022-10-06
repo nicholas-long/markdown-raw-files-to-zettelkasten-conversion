@@ -3,6 +3,8 @@
 - config files
 - strings .class files for secrets
 
+` zet/20221003151211/README.md `
+
 # Related
 
 - [20221003151214](/zet/20221003151214/README.md) got leaked files

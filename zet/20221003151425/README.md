@@ -10,6 +10,8 @@ content { print }
 ```
 
 ~/kb/awk-scripting/get-http-post-content.awk
+` zet/20221003151425/README.md `
+
 # Related
 
 - [20221003151441](/zet/20221003151441/README.md) awk scripting

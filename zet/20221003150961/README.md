@@ -2,6 +2,8 @@
 - satellite images
 - flying drones
 
+` zet/20221003150961/README.md `
+
 # Related
 
 - [20221003150966](/zet/20221003150966/README.md) OSINT

@@ -1,6 +1,8 @@
 # bash scripts sh setup aliases
 ~/kb/linux/setup_aliases.sh
 
+` zet/20221003150082/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

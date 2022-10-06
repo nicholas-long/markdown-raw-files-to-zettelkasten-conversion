@@ -3,6 +3,8 @@
 ssh $USER@$IP -t bash --noprofile
 ```
 
+` zet/20221003150727/README.md `
+
 # Related
 
 

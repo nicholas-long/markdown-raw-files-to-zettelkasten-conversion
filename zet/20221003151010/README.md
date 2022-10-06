@@ -1,5 +1,7 @@
 # LFI or directory traversal procedures read scripts from web server process cwd downloading with curl 
 
+` zet/20221003151010/README.md `
+
 # Related
 
 - [20221003151012](/zet/20221003151012/README.md) LFI or directory traversal procedures read scripts from web server process cwd

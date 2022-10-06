@@ -45,6 +45,8 @@
 - got source code -> [got source code - analysis](got-source-code.md#got-source-code---analysis)
 - uncommon ideas [uncommon ideas list](HTTP.md#uncommon-ideas-list)
 
+` zet/20221003151192/README.md `
+
 # Related
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP

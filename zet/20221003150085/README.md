@@ -1,6 +1,8 @@
 # bash scripts sh named pipe to netcat
 ~/kb/linux/named-pipe-to-netcat.sh
 
+` zet/20221003150085/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

@@ -82,6 +82,8 @@
   - secrets, config, hardcoded creds
 - no access to read webroot -> try appending known filenames to path to read
 
+` zet/20221003151207/README.md `
+
 # Related
 
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits

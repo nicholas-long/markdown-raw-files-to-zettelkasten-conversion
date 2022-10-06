@@ -5,6 +5,8 @@ if [ -w "$(pwd)" ]; then
 fi
 ```
 
+` zet/20221003151296/README.md `
+
 # Related
 
 - [20221003151299](/zet/20221003151299/README.md) bash tricks

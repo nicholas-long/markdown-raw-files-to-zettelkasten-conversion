@@ -1,5 +1,7 @@
 # mimikatz
 
+` zet/20221003151089/README.md `
+
 # Related
 
 - [20221003151088](/zet/20221003151088/README.md) mimikatz all in one command for non-interactive powershell

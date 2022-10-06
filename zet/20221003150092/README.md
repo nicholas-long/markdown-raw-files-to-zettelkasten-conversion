@@ -1,6 +1,8 @@
 # bash scripts sh get tags
 ~/kb/docker/get-tags.sh
 
+` zet/20221003150092/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

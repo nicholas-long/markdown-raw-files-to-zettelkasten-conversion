@@ -1,5 +1,7 @@
 # bash scripting
 
+` zet/20221003151332/README.md `
+
 # Related
 
 - [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty

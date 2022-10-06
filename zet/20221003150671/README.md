@@ -1,5 +1,7 @@
 # crackmapexec cme commands test password username arguments or files
 
+` zet/20221003150671/README.md `
+
 # Related
 
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands

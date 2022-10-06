@@ -7,6 +7,8 @@ docker run --network host --rm -it edenhill/kcat:1.7.0 -b kafka:9092
 alias kcat="docker run --network host --rm -i edenhill/kcat:1.7.0 -b kafka:9092"
 ```
 
+` zet/20221003150214/README.md `
+
 # Related
 
 - [20221003150215](/zet/20221003150215/README.md) kafkacat install

@@ -15,6 +15,8 @@ chown -R ftpuser:ftpgroup /ftphome/
 
 ./setupftp.sh
 
+` zet/20221003150621/README.md `
+
 # Related
 
 - [20221003150623](/zet/20221003150623/README.md) PureFTP

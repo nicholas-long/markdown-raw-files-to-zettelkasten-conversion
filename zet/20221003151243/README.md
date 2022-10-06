@@ -3,6 +3,8 @@
 - set package name and version
 - put node.js payload in `index.js`
 
+` zet/20221003151243/README.md `
+
 # Related
 
 - [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads

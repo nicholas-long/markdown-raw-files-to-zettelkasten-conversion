@@ -3,6 +3,8 @@ https://github.com/xct/SeRestoreAbuse
 Executes a command as SYSTEM when SeRestorePrivilege is assigned.
 In case it's disabled, the program will enable it for you.
 
+` zet/20221003151041/README.md `
+
 # Related
 
 

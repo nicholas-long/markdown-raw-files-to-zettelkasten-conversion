@@ -85,6 +85,8 @@ rm -f "$CFGFILE"
 ```
 
 ~/kb/bash-scripting/colorize.sh
+` zet/20221003151413/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

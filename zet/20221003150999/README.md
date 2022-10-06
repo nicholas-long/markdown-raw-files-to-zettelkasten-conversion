@@ -9,6 +9,8 @@
  2171687 /usr/share/seclists/Discovery/DNS/dns-Jhaddix.txt
 ```
 
+` zet/20221003150999/README.md `
+
 # Related
 
 - [20221003151004](/zet/20221003151004/README.md) API enumeration good wordlists

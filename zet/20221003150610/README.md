@@ -3,6 +3,8 @@
 smbclient -N //$IP/share
 ```
 
+` zet/20221003150610/README.md `
+
 # Related
 
 - [20221003150611](/zet/20221003150611/README.md) smbclient

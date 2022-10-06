@@ -4,6 +4,8 @@ gdb
 ropper --search "pop r13"
 ```
 
+` zet/20221003150531/README.md `
+
 # Related
 
 - [20221003150532](/zet/20221003150532/README.md) gef gdb plugin

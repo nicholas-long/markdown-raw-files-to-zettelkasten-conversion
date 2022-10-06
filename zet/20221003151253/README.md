@@ -1,5 +1,7 @@
 # run executable binary programs within process memory windows cobalt strike
 
+` zet/20221003151253/README.md `
+
 # Related
 
 - [20221003151254](/zet/20221003151254/README.md) run executable binary programs within process memory windows

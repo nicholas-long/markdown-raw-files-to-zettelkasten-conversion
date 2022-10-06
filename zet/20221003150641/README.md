@@ -3,6 +3,8 @@
 proxychains -q nmap -sC -sV -sT -Pn -n -vvv $IP
 ```
 
+` zet/20221003150641/README.md `
+
 # Related
 
 - [20221003150648](/zet/20221003150648/README.md) nmap

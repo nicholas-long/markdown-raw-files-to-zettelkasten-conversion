@@ -5,6 +5,8 @@ impacket-smbserver -smb2support -username user -password password123 TMP $(pwd)
 impacket-smbserver -smb2support TMP $(pwd)
 ```
 
+` zet/20221003150596/README.md `
+
 # Related
 
 - [20221003150600](/zet/20221003150600/README.md) impacket

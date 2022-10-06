@@ -1,5 +1,7 @@
 # bash scripting define bash array
 
+` zet/20221003151386/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

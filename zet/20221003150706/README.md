@@ -2,6 +2,8 @@
 use an asterisk symbol to mark an injection point in a URL
 ` http://target.box/vuln.php?a=1&b=* `
 
+` zet/20221003150706/README.md `
+
 # Related
 
 - [20221003150709](/zet/20221003150709/README.md) sqlmap

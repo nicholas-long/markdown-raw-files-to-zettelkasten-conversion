@@ -38,6 +38,8 @@
 - everything from everything list [EVERYTHING](EVERYTHING.md#everything)
 - old -> [old SMB exploits](SMB.md#old-smb-exploits)
 
+` zet/20221003151198/README.md `
+
 # Related
 
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits

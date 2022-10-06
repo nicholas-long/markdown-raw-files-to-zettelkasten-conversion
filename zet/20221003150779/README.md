@@ -3,6 +3,8 @@
 crowbar -b rdp -n 1 -s $IP/32 -u username -C ./passwords
 ```
 
+` zet/20221003150779/README.md `
+
 # Related
 
 - [20221003150780](/zet/20221003150780/README.md) crowbar

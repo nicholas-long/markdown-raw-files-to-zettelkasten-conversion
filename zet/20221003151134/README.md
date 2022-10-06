@@ -1,6 +1,8 @@
 # active directory  GMSA group managed service account
 windows AD account with randomized, changing password to prevent kerberoasting service accounts
 
+` zet/20221003151134/README.md `
+
 # Related
 
 - [20221003151144](/zet/20221003151144/README.md) active directory 

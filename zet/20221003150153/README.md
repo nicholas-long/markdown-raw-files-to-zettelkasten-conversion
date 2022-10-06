@@ -7,6 +7,8 @@ systemctl daemon-reload
 systemctl enable serial-getty@ttyUSB0.service
 ```
 
+` zet/20221003150153/README.md `
+
 # Related
 
 - [20221003150154](/zet/20221003150154/README.md) cyberpunk retro machine project

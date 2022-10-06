@@ -3,6 +3,8 @@
 tftp -i 192.168.0.1 GET whoami.exe
 ```
 
+` zet/20221003150678/README.md `
+
 # Related
 
 - [20221003150681](/zet/20221003150681/README.md) tftp

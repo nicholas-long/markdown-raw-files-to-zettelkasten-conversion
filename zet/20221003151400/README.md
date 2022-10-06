@@ -15,6 +15,8 @@
 ```
 
 ~/kb/bash-scripting/update-all-git-repos.sh
+` zet/20221003151400/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

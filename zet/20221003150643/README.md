@@ -3,6 +3,8 @@
 sudo nmap -p- -v -sT -sC -sV --min-rate 10000 -oA nmap.all $IP
 ```
 
+` zet/20221003150643/README.md `
+
 # Related
 
 - [20221003150644](/zet/20221003150644/README.md) nmap all ports command

@@ -1,5 +1,7 @@
 # general enumeration Active Directory Certificate Services
 
+` zet/20221003150478/README.md `
+
 # Related
 
 - [20221003150482](/zet/20221003150482/README.md) general enumeration

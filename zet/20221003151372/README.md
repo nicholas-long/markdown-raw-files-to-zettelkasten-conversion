@@ -8,6 +8,8 @@ xxd -p -c 9999999999999
 ```
 
 ~/kb/bash-scripting/string-to-hex.sh
+` zet/20221003151372/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

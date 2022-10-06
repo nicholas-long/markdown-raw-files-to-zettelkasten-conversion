@@ -1,6 +1,8 @@
 # fzf run with preview
 --preview=bat
 
+` zet/20221003151266/README.md `
+
 # Related
 
 - [20221003151267](/zet/20221003151267/README.md) fzf

@@ -1,5 +1,7 @@
 # bash tricks
 
+` zet/20221003151299/README.md `
+
 # Related
 
 - [20221003151298](/zet/20221003151298/README.md) bash tricks run a command / program in a pty to get color output

@@ -6,6 +6,8 @@ sudo apt install volatility
 https://github.com/volatilityfoundation/volatility
 https://www.volatilityfoundation.org/
 
+` zet/20221003150373/README.md `
+
 # Related
 
 - [20221003150375](/zet/20221003150375/README.md) volatility framework analyze dump files of volatile RAM

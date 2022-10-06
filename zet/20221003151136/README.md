@@ -4,6 +4,8 @@ cycle:
 - access services
 - abuse permissions to get more permissions
 
+` zet/20221003151136/README.md `
+
 # Related
 
 - [20221003151144](/zet/20221003151144/README.md) active directory 

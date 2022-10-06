@@ -3,6 +3,8 @@
 kubectl auth can-i --list
 ```
 
+` zet/20221003150649/README.md `
+
 # Related
 
 - [20221003150650](/zet/20221003150650/README.md) kubernetes kubectl

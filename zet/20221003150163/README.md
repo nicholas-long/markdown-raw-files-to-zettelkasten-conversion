@@ -4,6 +4,8 @@ use percent sign and job number from the `jobs` command.
 fg %1
 ```
 
+` zet/20221003150163/README.md `
+
 # Related
 
 - [20221003150165](/zet/20221003150165/README.md) linux job control

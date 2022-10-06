@@ -3,6 +3,8 @@
 wpscan --url $URL -e ap,vt,cb,dbe,u1-10
 ```
 
+` zet/20221003150688/README.md `
+
 # Related
 
 - [20221003150693](/zet/20221003150693/README.md) wpscan initial

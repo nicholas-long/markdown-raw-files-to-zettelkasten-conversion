@@ -7,6 +7,8 @@ ntpdate -q $IP
 sudo ntpdate $IP
 ```
 
+` zet/20221003151051/README.md `
+
 # Related
 
 

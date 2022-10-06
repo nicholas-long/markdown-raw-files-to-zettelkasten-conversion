@@ -1,5 +1,7 @@
 # smbclient shell
 
+` zet/20221003150614/README.md `
+
 # Related
 
 - [20221003150613](/zet/20221003150613/README.md) smbclient shell recursive list directory

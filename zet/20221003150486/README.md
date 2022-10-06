@@ -3,6 +3,8 @@
 Get-AdServiceAccount AccountUsername -properties *
 ```
 
+` zet/20221003150486/README.md `
+
 # Related
 
 - [20221003150488](/zet/20221003150488/README.md) active directory

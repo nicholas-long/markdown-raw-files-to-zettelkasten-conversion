@@ -2,6 +2,8 @@
 https://github.com/urbanadventurer/username-anarchy
 list formats with `-l`.
 
+` zet/20221003150431/README.md `
+
 # Related
 
 - [20221003150433](/zet/20221003150433/README.md) generate wordlists

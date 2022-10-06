@@ -2,6 +2,8 @@
 
 This is a collection of bash scripts
 
+` zet/20221003151424/README.md `
+
 # Related
 
 - [20221003151423](/zet/20221003151423/README.md) bash scripting urlencode and base64 encode lines individually

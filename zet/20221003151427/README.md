@@ -14,6 +14,8 @@ printing == 1 && $0 !~ /^```/ {print}
 ```
 
 ~/kb/awk-scripting/snippet.awk
+` zet/20221003151427/README.md `
+
 # Related
 
 - [20221003151441](/zet/20221003151441/README.md) awk scripting

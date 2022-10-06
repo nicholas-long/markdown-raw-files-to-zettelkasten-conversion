@@ -1,5 +1,7 @@
 # powershell commands
 
+` zet/20221003151101/README.md `
+
 # Related
 
 - [20221003151100](/zet/20221003151100/README.md) powershell commands download and execute script

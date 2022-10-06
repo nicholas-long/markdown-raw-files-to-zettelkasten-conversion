@@ -13,6 +13,8 @@
     - names of services
     - words from nmap output?
 
+` zet/20221003151174/README.md `
+
 # Related
 
 - [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits

@@ -11,6 +11,8 @@ $3 ~ /^\*\* REJECT/ { next }
 ```
 
 ~/kb/hacking/cve/relevant.awk
+` zet/20221003151432/README.md `
+
 # Related
 
 - [20221003151441](/zet/20221003151441/README.md) awk scripting

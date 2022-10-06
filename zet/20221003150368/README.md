@@ -1,6 +1,8 @@
 # dump credentials from browsers chromium edge
 https://github.com/djhohnstein/SharpChromium
 
+` zet/20221003150368/README.md `
+
 # Related
 
 - [20221003150370](/zet/20221003150370/README.md) dump credentials from browsers chromium

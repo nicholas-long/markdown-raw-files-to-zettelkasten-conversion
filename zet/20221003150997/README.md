@@ -3,6 +3,8 @@ introspection can disclose fields. not considered a bug, it is like API document
 even if introspection is off, can still do normal API recon.
 occasionally verbose error messages will leak info by suggesting mistakes in queries.
 
+` zet/20221003150997/README.md `
+
 # Related
 
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs

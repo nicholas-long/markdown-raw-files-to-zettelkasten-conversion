@@ -1,5 +1,7 @@
 # LDAP enumeration
 
+` zet/20221003150630/README.md `
+
 # Related
 
 - [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous

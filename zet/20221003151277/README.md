@@ -21,6 +21,8 @@ https://blog.robertelder.org/data-science-linux-command-line/
   - tee
 - Piping Directly From A Database
 
+` zet/20221003151277/README.md `
+
 # Related
 
 - [20221003151278](/zet/20221003151278/README.md) linux data science

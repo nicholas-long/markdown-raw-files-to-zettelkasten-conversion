@@ -2,6 +2,8 @@
 crackmapexec --help
 crackmapexec smb --help
 
+` zet/20221003150673/README.md `
+
 # Related
 
 - [20221003150672](/zet/20221003150672/README.md) crackmapexec cme commands RID brute force

@@ -4,6 +4,8 @@ If varname exists and isn’t null, return word; otherwise return null.
 ${varname:+word}
 ```
 
+` zet/20221003151310/README.md `
+
 # Related
 
 - [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax

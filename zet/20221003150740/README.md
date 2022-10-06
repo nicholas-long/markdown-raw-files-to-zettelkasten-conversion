@@ -4,6 +4,8 @@ Change MYDATABASENAME. Default databasename is mysql.
 hydra -L /usr/share/seclists/Usernames/top-usernames-shortlist.txt -P /usr/share/wordlists/rockyou.txt -vv  mysql://192.168.0.1:3306/MYDATABASENAME -t 15
 ```
 
+` zet/20221003150740/README.md `
+
 # Related
 
 - [20221003150744](/zet/20221003150744/README.md) hydra brute force

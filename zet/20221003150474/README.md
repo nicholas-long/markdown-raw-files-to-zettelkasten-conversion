@@ -8,6 +8,8 @@ invoke-command -Computer ComputerHostname -Credential $cred -ScriptBlock { IEX(N
 change ComputerHostname.
 `-ConfigurationName ...` parameter might be required to run commands for special restricted user permissions
 
+` zet/20221003150474/README.md `
+
 # Related
 
 - [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user

@@ -1,5 +1,7 @@
 # active directory
 
+` zet/20221003150488/README.md `
+
 # Related
 
 - [20221003150487](/zet/20221003150487/README.md) active directory get user account

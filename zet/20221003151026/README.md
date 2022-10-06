@@ -7,6 +7,8 @@
   - service accounts have bad passwords and excess privileges
 - delegation
 
+` zet/20221003151026/README.md `
+
 # Related
 
 

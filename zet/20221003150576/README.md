@@ -1,5 +1,7 @@
 # php type juggling
 
+` zet/20221003150576/README.md `
+
 # Related
 
 - [20221003150575](/zet/20221003150575/README.md) php type juggling methodology

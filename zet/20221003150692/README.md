@@ -1,5 +1,7 @@
 # wpscan initial all plugins passive scan
 
+` zet/20221003150692/README.md `
+
 # Related
 
 - [20221003150693](/zet/20221003150693/README.md) wpscan initial

@@ -32,6 +32,8 @@ int main() {
   return 0;
 }
 ```
+` zet/20221003151290/README.md `
+
 # Related
 
 - [20221003151292](/zet/20221003151292/README.md) C template

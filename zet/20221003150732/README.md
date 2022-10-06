@@ -4,6 +4,8 @@ feroxbuster --url http://$IP/ -B -g -w /usr/share/seclists/Discovery/Web-Content
 feroxbuster --url http://$IP/ -B -g -w /usr/share/seclists/Discovery/Web-Content/raft-small-words.txt -x txt,log -C 403 -C 404 -e
 ```
 
+` zet/20221003150732/README.md `
+
 # Related
 
 - [20221003150735](/zet/20221003150735/README.md) feroxbuster files, backups, and extensions

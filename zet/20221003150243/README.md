@@ -6,6 +6,8 @@
 - static finished content goes in `_site/`
   - any extra files and scripts in root dir will be copied to site
 
+` zet/20221003150243/README.md `
+
 # Related
 
 

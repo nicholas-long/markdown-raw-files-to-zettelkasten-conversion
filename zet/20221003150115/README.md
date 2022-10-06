@@ -1,5 +1,7 @@
 # socat
 
+` zet/20221003150115/README.md `
+
 # Related
 
 - [20221003150114](/zet/20221003150114/README.md) socat port forwarding with socat

@@ -3,6 +3,8 @@
 ls -alRt
 ```
 
+` zet/20221003150919/README.md `
+
 # Related
 
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands

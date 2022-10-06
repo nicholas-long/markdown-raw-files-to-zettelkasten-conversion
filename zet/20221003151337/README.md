@@ -4,6 +4,8 @@
 BEGIN { FS = "\t" }
 ```
 
+` zet/20221003151337/README.md `
+
 # Related
 
 - [20221003151338](/zet/20221003151338/README.md) awk scripting

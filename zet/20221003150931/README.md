@@ -8,6 +8,8 @@ sed -i 's,yaml_path="latest-stable/releases/$apk_arch/latest-releases.yaml",yaml
 sudo ./build-alpine -a i686
 ```
 
+` zet/20221003150931/README.md `
+
 # Related
 
 - [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems

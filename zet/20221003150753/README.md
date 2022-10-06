@@ -1,6 +1,8 @@
 # kerbrute
 https://github.com/ropnop/kerbrute
 
+` zet/20221003150753/README.md `
+
 # Related
 
 - [20221003150752](/zet/20221003150752/README.md) kerbrute enumerate users using wordlist

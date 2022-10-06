@@ -1,6 +1,8 @@
 # bash scripts sh getip
 ~/kb/linux/getip.sh
 
+` zet/20221003150087/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

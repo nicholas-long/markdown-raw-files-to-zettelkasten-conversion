@@ -7,6 +7,8 @@ findomain -t "$URL" -q
 subfinder -d "$URL"
 ```
 
+` zet/20221003150550/README.md `
+
 # Related
 
 

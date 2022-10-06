@@ -3,6 +3,8 @@
 cat payload.bin | msfvenom -p - -f exe -a x64 --platform win -o output.exe
 ```
 
+` zet/20221003150524/README.md `
+
 # Related
 
 - [20221003150525](/zet/20221003150525/README.md) make executable binary with input shellcode

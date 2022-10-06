@@ -1,6 +1,8 @@
 # bash scripts sh ubuntu dockerfile template
 ~/kb/docker/templates/ubuntu-dockerfile-template.sh
 
+` zet/20221003150091/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

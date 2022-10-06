@@ -1,6 +1,8 @@
 # run executable binary programs within process memory windows cobalt strike BOF C DLLs
 build C assemblies as DLLs and run in memory on C2 client.
 
+` zet/20221003151252/README.md `
+
 # Related
 
 - [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows cobalt strike

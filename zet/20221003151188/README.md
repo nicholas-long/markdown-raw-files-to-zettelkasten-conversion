@@ -8,6 +8,8 @@
     - drupal / silverstripe -> droopescan
   - check plugin versions for vulns exploit-db AND google
 
+` zet/20221003151188/README.md `
+
 # Related
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP

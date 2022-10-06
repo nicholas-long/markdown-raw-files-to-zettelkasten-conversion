@@ -1,6 +1,8 @@
 # linux free up space in docker
 * see markdown notes about docker
 
+` zet/20221003150185/README.md `
+
 # Related
 
 - [20221003150187](/zet/20221003150187/README.md) linux free up space

@@ -4,6 +4,8 @@
   - edit value in `TOKEN_PRIVILEGES` struct
 - AdjustTokenPrivileges
 
+` zet/20221003151092/README.md `
+
 # Related
 
 - [20221003151093](/zet/20221003151093/README.md) windows API enable privilege

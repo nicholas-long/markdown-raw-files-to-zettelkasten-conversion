@@ -1,5 +1,7 @@
 # bash parse xml cli
 
+` zet/20221003151318/README.md `
+
 # Related
 
 - [20221003151317](/zet/20221003151317/README.md) bash parse xml cli with xpath using xpup

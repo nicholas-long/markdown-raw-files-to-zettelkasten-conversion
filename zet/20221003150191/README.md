@@ -1,5 +1,7 @@
 # zsh
 
+` zet/20221003150191/README.md `
+
 # Related
 
 - [20221003150190](/zet/20221003150190/README.md) zsh see default bindings for vim command and insert modes keybinds

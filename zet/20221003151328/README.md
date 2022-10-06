@@ -1,5 +1,7 @@
 # bash scripting convert text strings or wordlists
 
+` zet/20221003151328/README.md `
+
 # Related
 
 - [20221003151329](/zet/20221003151329/README.md) bash scripting

@@ -34,6 +34,8 @@ tips from InsiderPhD
       - waybackmachine
     - append any domain specific knowledge to wordlists
 
+` zet/20221003151005/README.md `
+
 # Related
 
 - [20221003151006](/zet/20221003151006/README.md) API enumeration

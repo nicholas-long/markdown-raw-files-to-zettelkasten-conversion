@@ -2,6 +2,8 @@
 some programs hide color output when not connected to tty and writing or piping output.
 make a pretend tty for them and log the output with `script` instead.
 
+` zet/20221003151298/README.md `
+
 # Related
 
 - [20221003151299](/zet/20221003151299/README.md) bash tricks

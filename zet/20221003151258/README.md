@@ -8,6 +8,8 @@ Target
 for i in {1..1000}; do nc -w 1 192.168.119.221 $i; echo $i; done
 ```
 
+` zet/20221003151258/README.md `
+
 # Related
 
 

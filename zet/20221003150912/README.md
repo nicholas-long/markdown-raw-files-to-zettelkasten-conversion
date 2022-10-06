@@ -5,6 +5,8 @@ touch --date "2008-01-01" /tmp/end
 find /data/images -type f -newer /tmp/start -not -newer /tmp/end 2>/dev/null
 ```
 
+` zet/20221003150912/README.md `
+
 # Related
 
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands

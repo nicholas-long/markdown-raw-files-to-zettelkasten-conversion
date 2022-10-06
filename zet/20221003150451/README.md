@@ -6,6 +6,8 @@ sudo apt install -y openjdk-17-jdk
 sudo apt install -y jd-gui
 ```
 
+` zet/20221003150451/README.md `
+
 # Related
 
 - [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze

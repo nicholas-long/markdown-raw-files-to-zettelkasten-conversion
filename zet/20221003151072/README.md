@@ -1,5 +1,7 @@
 # windows color script output winpeas log
 
+` zet/20221003151072/README.md `
+
 # Related
 
 - [20221003151073](/zet/20221003151073/README.md) windows color script output

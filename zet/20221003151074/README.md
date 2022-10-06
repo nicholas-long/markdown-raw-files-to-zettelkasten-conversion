@@ -3,6 +3,8 @@
   - enables it if it is disabled
   - grants everyone full control of C drive
 
+` zet/20221003151074/README.md `
+
 # Related
 
 - [20221003151076](/zet/20221003151076/README.md) service account privileges exploiting

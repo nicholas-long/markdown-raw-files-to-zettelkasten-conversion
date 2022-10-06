@@ -1,6 +1,8 @@
 # bash scripts sh package it all
 ~/kb/linux/package-it-all.sh
 
+` zet/20221003150083/README.md `
+
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

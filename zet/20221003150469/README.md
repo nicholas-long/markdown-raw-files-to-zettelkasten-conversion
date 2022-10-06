@@ -1,5 +1,7 @@
 # powershell tricks browse and edit registry
 
+` zet/20221003150469/README.md `
+
 # Related
 
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks

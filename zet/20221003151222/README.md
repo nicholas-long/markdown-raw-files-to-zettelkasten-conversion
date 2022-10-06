@@ -3,6 +3,8 @@
   - example: `ubuntu launchpad OpenSSH 7.6p1`
 - look for builds -> ubuntu release version name
 
+` zet/20221003151222/README.md `
+
 # Related
 
 - [20221003151223](/zet/20221003151223/README.md) identify linux version from service version

@@ -1,6 +1,8 @@
 # bypass UAC with administrators group
 need session in interactive process.
 
+` zet/20221003151064/README.md `
+
 # Related
 
 - [20221003151063](/zet/20221003151063/README.md) bypass UAC with administrators group fodhelper bypass

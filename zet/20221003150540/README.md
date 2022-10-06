@@ -7,6 +7,8 @@ payload = flat({
 })
 ```
 
+` zet/20221003150540/README.md `
+
 # Related
 
 - [20221003150543](/zet/20221003150543/README.md) simple binary exploits python exploit scripts

@@ -4,6 +4,8 @@
 pure-pw passwd offsec -f /etc/pure-ftpd/pureftpd.passwd
 ```
 
+` zet/20221003150619/README.md `
+
 # Related
 
 - [20221003150623](/zet/20221003150623/README.md) PureFTP

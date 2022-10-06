@@ -8,6 +8,8 @@ feroxbuster --url http://$IP/ -w /usr/share/seclists/Discovery/Web-Content/commo
 feroxbuster --url http://$IP/ -w /usr/share/seclists/Discovery/Web-Content/common.txt -g -e -f
 ```
 
+` zet/20221003150737/README.md `
+
 # Related
 
 - [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting
