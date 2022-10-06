@@ -51,6 +51,7 @@
 #enumeration
 #etc
 #ex
+#example
 #expect
 #extract
 #fail2ban
@@ -182,4 +183,5 @@
 #xterm
 #xxe
 #yaml
+#zettelkasten
 #zsh

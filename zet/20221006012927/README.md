@@ -36,7 +36,7 @@ this was related to the text cipher encryption page, which had dozens of stacked
 
 # Related
 
-- 20221006013612
+- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion
 
 Tags:
 
