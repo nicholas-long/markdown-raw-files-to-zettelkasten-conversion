@@ -33,6 +33,8 @@ Options:
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221006032933](/zet/20221006032933/README.md) problems / issues with zet cmd
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
+- https://github.com/naps62/zk
+- https://www.google.com/search?q=zettelkasten+fzf+vim
 
 Tags:
 
