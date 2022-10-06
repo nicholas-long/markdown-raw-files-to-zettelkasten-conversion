@@ -12,7 +12,7 @@ zet/20221003151329/README.md    bash scripting
 
 # Related
 
-- [20221003151424](/zet/20221003151424/README.md) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221003150086](/zet/20221003150086/README.md) bash scripts sh java8
 - [20221003150087](/zet/20221003150087/README.md) bash scripts sh getip
 - [20221003150084](/zet/20221003150084/README.md) bash scripts sh oracle

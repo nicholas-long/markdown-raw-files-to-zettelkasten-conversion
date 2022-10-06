@@ -10,7 +10,7 @@ xxd -p -c 9999999999999
 ~/kb/bash-scripting/string-to-hex.sh
 # Related
 
-- [20221003151424](/zet/20221003151424/README.md) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 
 Tags:

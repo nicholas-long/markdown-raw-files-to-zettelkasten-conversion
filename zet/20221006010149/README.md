@@ -11,7 +11,7 @@ sed '/Related/i ` zet/'$example'/README.md `\n' zet/$example/README.md
 
 # Related
 
-- 20221006010531
+- [20221006010531](/zet/20221006010531/README.md) sed scripts
 
 Tags:
 

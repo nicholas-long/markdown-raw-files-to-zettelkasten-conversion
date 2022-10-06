@@ -29,7 +29,7 @@ $2 { # print range
 ~/kb/bash-scripting/nmap-get-top-ports.sh
 # Related
 
-- [20221003151424](/zet/20221003151424/README.md) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 
 Tags:

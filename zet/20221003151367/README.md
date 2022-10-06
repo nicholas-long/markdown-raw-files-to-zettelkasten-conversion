@@ -15,7 +15,7 @@ curl "https://api.github.com/users/$u/repos?visibility=private" | jq -r '.[].htm
 ~/kb/bash-scripting/list-github-repos.sh
 # Related
 
-- [20221003151424](/zet/20221003151424/README.md) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 
 Tags:

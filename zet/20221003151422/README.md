@@ -8,7 +8,7 @@ awk '!seen[$0]++ { print }'
 ~/kb/bash-scripting/awk-print-unique-lines.sh
 # Related
 
-- [20221003151424](/zet/20221003151424/README.md) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 
 Tags:

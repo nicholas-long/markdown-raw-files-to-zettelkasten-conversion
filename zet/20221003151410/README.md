@@ -9,7 +9,7 @@ cat $1 | go run github.com/ericchiang/xpup@latest //request | base64 -d
 ~/kb/hacking/scripts/get-burp-http-saved-request.sh
 # Related
 
-- [20221003151424](/zet/20221003151424/README.md) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 
 Tags:

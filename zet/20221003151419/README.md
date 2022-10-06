@@ -16,7 +16,7 @@ curl http://archive.ubuntu.com/ubuntu/dists/ 2>/dev/null | \
 ~/kb/bash-scripting/get-current-ubuntu-distro.sh
 # Related
 
-- [20221003151424](/zet/20221003151424/README.md) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 
 Tags:

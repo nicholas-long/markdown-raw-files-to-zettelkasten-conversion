@@ -12,7 +12,7 @@ done | grep '^[A-Za-z0-9]*$'
 ~/kb/bash-scripting/find-alphanum-base64.sh
 # Related
 
-- [20221003151424](/zet/20221003151424/README.md) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 
 Tags:

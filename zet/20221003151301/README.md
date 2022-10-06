@@ -7,5 +7,6 @@ sed 's/\x1B\[[0-9;]*[JKmsu]//g'
 
 
 Tags:
+- [20221006010531](/zet/20221006010531/README.md) sed scripts
 
     

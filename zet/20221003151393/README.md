@@ -28,7 +28,7 @@ tail -f /var/log/auth.log | \
 ~/kb/bash-scripting/watch-failed-ssh-logins-live-check-shodan.sh
 # Related
 
-- [20221003151424](/zet/20221003151424/README.md) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 
 Tags:

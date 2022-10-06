@@ -14,7 +14,7 @@ find ~/.local/share/tldr/tldr/pages -type f -name '*.md' | \
 ~/kb/bash-scripting/search-tldr-commands-text.sh
 # Related
 
-- [20221003151424](/zet/20221003151424/README.md) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 
 Tags:

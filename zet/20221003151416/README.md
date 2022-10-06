@@ -20,7 +20,7 @@ $1 == "unknown" { next }
 ~/kb/awk-scripting/nmap-ports.sh
 # Related
 
-- [20221003151424](/zet/20221003151424/README.md) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 
 Tags:
