@@ -100,9 +100,31 @@ case $action in
       /^# [Rr]elated/ { refs = 1 }
     ' $arg
     ;;
-  search)
-    #TODO: full content searching
-    $0 enum | grep "$query" | fzf -m --preview="$0 preview -f {} 2>/dev/null"
+  search) # fuzzy search with optional content filter
+    if [ -z "$query" ]; then
+      query="$arg"
+    fi
+    $0 find -q "$query" | fzf -m --preview="$0 preview -f {} 2>/dev/null"
+    ;;
+  find) # full content search
+    if [ -z "$query" ]; then
+      query="$arg"
+    fi
+    find zet -name README.md | xargs grep "$query" | awk -F ':' '
+      BEGIN { OFS="\t" }
+      !seen[$1]++ {
+        command = "head -n 1 " $1
+        command | getline heading
+        close(command)
+        gsub(/^# /, "", heading)
+        outkw = ""
+        for (n = 2; n <= NF; n++){
+          if (outkw) outkw = outkw " "
+          outkw = outkw $n
+        }
+        print $1, heading, outkw
+      }
+      '
     ;;
   preview)
     if [ ! -z "$filearg" ]; then
