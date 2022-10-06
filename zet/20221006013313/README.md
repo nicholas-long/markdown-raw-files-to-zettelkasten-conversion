@@ -8,6 +8,8 @@
 
 # Related
 
+- [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
+
 - [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method
 
 - https://en.wikipedia.org/wiki/Zettelkasten
