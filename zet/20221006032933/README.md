@@ -1,5 +1,7 @@
 # problems / issues with zet cmd
 
+- recursive processes
+  - some is okay, but there are too many
 - enrich process is slow
   - debug with `bash -x` or similar
 
