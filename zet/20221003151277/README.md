@@ -27,6 +27,7 @@ https://blog.robertelder.org/data-science-linux-command-line/
 
 - [20221003151278](/zet/20221003151278/README.md) linux data science
 - ~/kb/data-engineering-pipelines/data-science-linux-commands.md
+- [20221006034046](/zet/20221006034046/README.md) kafka and zettelkasten graph docs
 
 Tags:
 
