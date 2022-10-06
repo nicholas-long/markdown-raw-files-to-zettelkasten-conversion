@@ -35,6 +35,8 @@ these videos are called "beginner boost" but they are filled with incredibly use
   - alpine shell builtins @ `2:09:00`
     - printf - yes
     - tee is a command not a builtin
+  - printf argument expansion and strings @ `2:41:00`
+    - cool find `printf -v` sets the printed value to a variable
 
 ` zet/20221006035818/README.md `
 
