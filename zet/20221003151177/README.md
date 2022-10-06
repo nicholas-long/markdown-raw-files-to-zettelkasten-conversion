@@ -21,6 +21,8 @@
 
 # Related
 
+- [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
+
 
 Tags:
 
