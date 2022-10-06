@@ -1,7 +1,8 @@
 # bash trick printf to variable
 
-saw in rwxrob skilstak video.
-linked various bash scripting concepts to tie together graph nodes.
+- saw in rwxrob skilstak video.
+- not posix compliant.
+- linked various bash scripting concepts to tie together graph nodes.
 
 ```
 printf -v
