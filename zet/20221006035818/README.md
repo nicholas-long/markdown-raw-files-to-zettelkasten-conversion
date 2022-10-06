@@ -10,9 +10,11 @@ these videos are called "beginner boost" but they are filled with incredibly use
     - why do math in bash?
   - using vim
     - cool tricks
+      - `!!` default shortcut to run `:.!` filter current line and pipe to program 
       - `!}` paragraphs
-        - pipe to program 
+        - `!}` default shortcut to run rest of paragraph through filter program
         - delete `!` char for an exact ex spec of the paragraph to grep out and substitute things
+
   - fundamentals: it is good to go back and learn the fundamentals of things like vi and ed/ex to work with things like reverse shells on alpine dockers, where most familiar and useful GNU/Linux utilities will not be installed in favor of lightweight busybox implementations.
 - video 9
   - posix info @ `0:49:00`
