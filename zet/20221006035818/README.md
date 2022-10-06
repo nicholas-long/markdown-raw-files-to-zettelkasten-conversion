@@ -21,6 +21,8 @@ these videos are called "beginner boost" but they are filled with incredibly use
   - vim tips
     - `ZZ` write close quit
   - inodes and small files @ `1:11:00`
+  - moving across filesystem boundaries does not work
+    - arch puts `/tmp` in a different filesystem
 
 ` zet/20221006035818/README.md `
 
