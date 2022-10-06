@@ -20,6 +20,8 @@ rm -rf $tf
 
 # Related
 
+- [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames
+
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 

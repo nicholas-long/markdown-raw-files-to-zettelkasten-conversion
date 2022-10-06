@@ -45,6 +45,8 @@ these videos are called "beginner boost" but they are filled with incredibly use
 
 # Related
 
+- [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames
+
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method
 - [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`
@@ -53,7 +55,7 @@ these videos are called "beginner boost" but they are filled with incredibly use
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221003150073](/zet/20221003150073/README.md) Run vim as a script on datafile, write to file `output`
 - [20221003150175](/zet/20221003150175/README.md) ex commands  Some of these might apply to ed as well
-- 20221003151239
+- [20221003151239](/zet/20221003151239/README.md) make date wordlist for fuzzing with bash and parameter expansion
 
 Tags:
 

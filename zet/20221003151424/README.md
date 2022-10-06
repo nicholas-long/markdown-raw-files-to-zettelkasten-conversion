@@ -6,6 +6,8 @@ This is a collection of bash scripts
 
 # Related
 
+- [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames
+
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 
 - [20221003151423](/zet/20221003151423/README.md) bash scripting urlencode and base64 encode lines individually

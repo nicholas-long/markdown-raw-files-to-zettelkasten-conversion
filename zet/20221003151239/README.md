@@ -9,6 +9,8 @@ echo 2020-{01..12}-{01..31} | sed 's/ /\n/g'
 
 # Related
 
+- [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos
+
 
 Tags:
 
