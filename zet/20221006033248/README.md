@@ -11,6 +11,8 @@
 
 # Related
 
+- [20221006145626](/zet/20221006145626/README.md) why does rwxrob's zettelkasten have so few links?
+
 - [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`
 
 - [20221006063114](/zet/20221006063114/README.md) small files are stored in inodes in ext4
