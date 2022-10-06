@@ -6,6 +6,8 @@ the process of converting markdown directories/files/heading level hierarchy not
 
 # Related
 
+- [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
+
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - https://github.com/nicholas-long/markdown-raw-files-to-zettelkasten-conversion
 - [20221006012927](/zet/20221006012927/README.md) update multiple zettel links
