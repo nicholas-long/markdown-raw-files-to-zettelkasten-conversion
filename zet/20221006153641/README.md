@@ -8,11 +8,11 @@ finished through page 12 of search https://github.com/search?p=12&q=zettelkasten
     - tools for converting
         - https://github.com/akosbalasko/yarle
         - https://github.com/jmatsuzaki/note-normalization-for-zettelkasten
+    - https://github.com/EmaApps/emanote
     - https://github.com/Zettlr/Zettlr
     - https://github.com/Zettelkasten-Team/Zettelkasten
     - https://github.com/org-roam/org-roam-ui
     - https://github.com/fiatjaf/neuron.vim/
-    - https://github.com/EmaApps/emanote
     - https://github.com/dendronhq/dendron
     - https://github.com/hackstream/zettel
     - https://github.com/mickael-menu/zk
@@ -38,6 +38,7 @@ finished through page 12 of search https://github.com/search?p=12&q=zettelkasten
     - https://github.com/oberblastmeister/neuron.nvim
         - Note: If you want to use this plugin with the latest neuron version please use the unstable branch
     - neuron program https://neuron.zettel.page/
+        - superseded by https://github.com/EmaApps/emanote
     - https://github.com/jameschip/Zettelkasten
     - https://github.com/mickael-menu/zk-nvim
         - actively maintained
