@@ -16,7 +16,7 @@ these videos are called "beginner boost" but they are filled with incredibly use
         - delete `!` char for an exact ex spec of the paragraph to grep out and substitute things
 
   - fundamentals: it is good to go back and learn the fundamentals of things like vi and ed/ex to work with things like reverse shells on alpine dockers, where most familiar and useful GNU/Linux utilities will not be installed in favor of lightweight busybox implementations.
-- video 9
+- video week 9
   - posix info @ `0:49:00`
   - scripting
   - "never use single square brackets"
@@ -37,13 +37,15 @@ these videos are called "beginner boost" but they are filled with incredibly use
     - tee is a command not a builtin
   - printf argument expansion and strings @ `2:41:00`
     - cool find `printf -v` sets the printed value to a variable
+  - parameter expansion in bash manual @ `2:57:00`
+    - ``` The  `$'  character  introduces  parameter expansion, command substitution, or arithmetic expansion.  ```
+  - passing environment variables into scripts as vim filters @ `3:13:00`
 
 ` zet/20221006035818/README.md `
 
 # Related
 
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
-
 - [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method
 - [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`
 - [20221006063114](/zet/20221006063114/README.md) small files are stored in inodes in ext4
@@ -51,6 +53,7 @@ these videos are called "beginner boost" but they are filled with incredibly use
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221003150073](/zet/20221003150073/README.md) Run vim as a script on datafile, write to file `output`
 - [20221003150175](/zet/20221003150175/README.md) ex commands  Some of these might apply to ed as well
+- 20221003151239
 
 Tags:
 
