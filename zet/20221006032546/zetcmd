@@ -276,7 +276,6 @@ case $action in
   enrich)
     scanoutput=$(mktemp)
     find zet -name README.md | xargs zet/$ZET_CMD_IMPLEMENTATION/scanrefs > $scanoutput
-    echo $scanoutput > tmpfile
     # get all tags
     tail -n 1 zet/*/README.md | awk '/^    #/' | sed -e 's/^    //g' -e 's/ /\n/g' | sort -u > all_tags
 
@@ -307,7 +306,7 @@ case $action in
       $1 == "backlink" {
         # link $2 to $3
         command = (ENVIRON["prog"] " addref -t " $2 " " $3)
-        print command # print for now
+        system ( command )
       }
       ' $scanoutput
 
@@ -317,7 +316,7 @@ case $action in
     # beautify links
     awk '$1 == "cleanup" {
       command = (ENVIRON["prog"] " enrich_links_single " $2)
-      print command
+      system ( command )
     }' $scanoutput
     ;;
 esac
