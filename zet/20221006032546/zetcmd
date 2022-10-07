@@ -1,7 +1,10 @@
 #!/bin/bash
 export ZET_CMD_IMPLEMENTATION=20221006032546
-
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+export prog="$0"
+
+[ -d zet ] || cd $SCRIPT_DIR && export prog="$SCRIPT_DIR/zc" # run me as symlink from my directory or in somewhere with zet/
+
 # the SCRIPT_DIR of symlinked zc command will be the root of the zettelkasten folder
 
 # parse args with case statement
@@ -31,7 +34,7 @@ while [[ $# -gt 0 ]]; do
       echo "Usage: $0 action [ options ]"
       echo "| action: [ new, rm, search, print, refs, preview ]"
       echo "Options:"
-      cat "$0" | grep '^\s\+-.|--.*' | sed 's/)$//'
+      cat "$prog" | grep '^\s\+-.|--.*' | sed 's/)$//'
       exit 1
       ;;
     *)
@@ -71,17 +74,17 @@ case $action in
     ;;
   spawn)
     ids=$(mktemp)
-    $0 find -q "$query" 2>/dev/null | fzf -m | awk '
+    $prog find -q "$query" 2>/dev/null | fzf -m | awk '
       {
         split($1,arr,"/")
         id = arr[2]
         print id
       }
       ' > $ids
-    newid=$($0 new -t "$query" | awk '/Created Zettel ID/ { print $NF }')
+    newid=$($prog new -t "$query" | awk '/Created Zettel ID/ { print $NF }')
     sed -i '/{{ref}}/d' zet/$newid/README.md # remove template ref stub
     for link in $(cat $ids); do
-      $0 addref -t "$newid" "$link"
+      $prog addref -t "$newid" "$link"
     done
     rm $ids
     echo "spawned new $newid" > /dev/stderr
@@ -127,7 +130,7 @@ case $action in
     if [ -z "$query" ]; then
       query="$arg"
     fi
-    $0 find -q "$query" | fzf -m --preview="$0 preview -f {} 2>/dev/null"
+    $prog find -q "$query" | fzf -m --preview="$prog preview -f {} 2>/dev/null"
     ;;
   find) # full content search
     if [ -z "$query" ]; then
@@ -175,18 +178,18 @@ case $action in
     fi
     find zet -name README.md | xargs sed -i "/$del_id/s/^.*$/- $forward_id/"
     rm -rf zet/$del_id
-    #$0 enrich # don't do this automatically
+    #$prog enrich # don't do this automatically
     ;;
 #  scanback)
 #    sorted_refs=$(mktemp)
 #    for zid in $(ls zet); do
 #      export zid
-#      $0 refs $zid 2>/dev/null | sort > $sorted_refs
+#      $prog refs $zid 2>/dev/null | sort > $sorted_refs
 #      for z2 in $(cat $sorted_refs); do
 #        if [ -z "$z2" ]; then # skip if empty
 #          continue
 #        fi
-#        count=$($0 refs $z2 2>/dev/null | awk '$0 == ENVIRON["zid"]' | wc -l)
+#        count=$($prog refs $z2 2>/dev/null | awk '$0 == ENVIRON["zid"]' | wc -l)
 #        if [ $count == 0 ]; then
 #          echo "$zid -> $z2"
 #        fi
@@ -207,14 +210,13 @@ case $action in
     ;;
 #  updateref)
 #    tf=$(mktemp)
-#    export prog="$0"
 #    # TODO: replace scanback here with scanrefs
-#    $0 scanback | awk 'NF == 3 {command = (ENVIRON["prog"] " addref -t " $3 " " $1); print command}' > $tf
+#    $prog scanback | awk 'NF == 3 {command = (ENVIRON["prog"] " addref -t " $3 " " $1); print command}' > $tf
 #    if [ "$(wc -l $tf | awk '{print $1}')" != 0 ]; then # not zero lines then need to recurse
 #      cat $tf
 #      wc -l $tf
 #      bash $tf
-#      $0 enrich # recurse
+#      $prog enrich # recurse
 #    fi
 #    rm $tf
 #    ;;
@@ -297,9 +299,6 @@ case $action in
         }
       }
     ' $scanoutput
-
-    # calling self recursively
-    export prog="$0"
 
     # check backlinks
     awk '
