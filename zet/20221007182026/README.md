@@ -7,13 +7,13 @@
 
 # Related
 
-- 20221006054727
+- [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
 
-- 20221006051705
+- [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 
-- 20221006153641
+- [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
 
-- 20221006013612
+- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 
 
 Tags:
