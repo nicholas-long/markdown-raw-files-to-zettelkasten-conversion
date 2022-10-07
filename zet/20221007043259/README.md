@@ -5,6 +5,7 @@
     - need to be kept in a paragraph
     - move to top when useful
         - log when useful or parse logs
+- make a script to autogenerate the information about zet cmd actions
 
 ` zet/20221007043259/README.md `
 
