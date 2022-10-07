@@ -15,6 +15,8 @@ done
 
 # Related
 
+- [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
+
 - [20221006010531](/zet/20221006010531/README.md) sed scripts
 
 Tags:

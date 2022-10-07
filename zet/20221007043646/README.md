@@ -10,6 +10,8 @@
 
 # Related
 
+- [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
+
 - [20221003151267](/zet/20221003151267/README.md) fzf
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 

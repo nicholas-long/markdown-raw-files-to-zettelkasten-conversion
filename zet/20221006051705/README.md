@@ -12,6 +12,8 @@
 
 # Related
 
+- [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
+
 - [20221006140520](/zet/20221006140520/README.md) zet cmd spawn feature
 
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd

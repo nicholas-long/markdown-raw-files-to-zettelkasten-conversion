@@ -6,6 +6,8 @@ This is a collection of bash scripts
 
 # Related
 
+- [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
+
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
 
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten

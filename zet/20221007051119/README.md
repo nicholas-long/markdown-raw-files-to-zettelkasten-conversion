@@ -111,6 +111,8 @@ esac
 
 # Related
 
+- [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
+
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
 
 - [20221006032933](/zet/20221006032933/README.md) problems / issues with zet cmd

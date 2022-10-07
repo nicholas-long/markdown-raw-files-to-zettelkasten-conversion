@@ -21,6 +21,8 @@ Options:
 
 # Related
 
+- [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
+
 
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
 
