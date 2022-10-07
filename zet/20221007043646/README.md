@@ -1,6 +1,6 @@
 # findings about implementing zettelkasten
 
-- findings
+- it is so cool and easy to add links when creating zettel
 
 ` zet/20221007043646/README.md `
 

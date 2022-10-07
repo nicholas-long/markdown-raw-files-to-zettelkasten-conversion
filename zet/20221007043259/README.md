@@ -1,7 +1,6 @@
 # zettelkasten generic ideas
 
 - linked a lot of stuff together for brainstorming in fzf
-  - it is so cool and easy to add links when creating zettel
 - ideas go here.
 
 ` zet/20221007043259/README.md `
