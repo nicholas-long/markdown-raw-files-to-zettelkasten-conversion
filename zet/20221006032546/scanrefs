@@ -1,19 +1,33 @@
 #!/usr/bin/awk -f
+# prints 2 or 3 fields
+# refs to clean up are printed with ref
+# ids that have un-enriched list item links are printed with cleanup
+#
+# ref 20221006032546 12345678901234
+# cleanup 12345678901234
+#
 BEGIN { }
 BEGINFILE {
+  scanning = 0
   fileid = FILENAME
   gsub(/^zet./,"",fileid)
   gsub(/\/.*$/,"",fileid)
-  print "SCANNING FILE", fileid
 }
-scanning && /^#/ { exit }
-scanning { print }
 /^# [Rr]elated/ { scanning = 1 }
 !scanning { next }
 /^- / {
   refid = $2
   gsub(/^\[/,"",refid)
   gsub(/].*$/,"",refid)
-  print "REF", fileid, refid
+  isref=0
+  if ($2 ~ /^[0-9]{14}/) {
+    isref=1
+    cleanup[fileid] = 1
+  }
+  if ($2 ~ /^\[[0-9]{14}\]/) isref=1
+  if ( isref ) print "ref", fileid, refid
+}
+END {
+  for (id in cleanup) print "cleanup", id
 }
 # vim: set syntax=awk:
