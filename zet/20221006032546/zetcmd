@@ -2,6 +2,7 @@
 export ZET_CMD_IMPLEMENTATION=20221006032546
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 export prog="$0"
+#TODO: use EDITOR env var
 
 # run me as symlink from my directory or in somewhere with zet/
 # the SCRIPT_DIR of symlinked zc command will be the root of the zettelkasten folder
@@ -88,7 +89,10 @@ case $action in
         print id
       }
       ' > $ids
-    newid=$($prog new -t "$query" | awk '/Created Zettel ID/ { print $NF }')
+    if [ -z "$title" ]; then
+      title="$query"
+    fi
+    newid=$($prog new -t "$title" | awk '/Created Zettel ID/ { print $NF }')
     sed -i '/{{ref}}/d' zet/$newid/README.md # remove template ref stub
     for link in $(cat $ids); do
       $prog addref -t "$newid" "$link"
