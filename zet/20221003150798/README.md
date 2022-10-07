@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
+
 - [20221007194303](/zet/20221007194303/README.md) github
 
 - [20221007193324](/zet/20221007193324/README.md) github actions
