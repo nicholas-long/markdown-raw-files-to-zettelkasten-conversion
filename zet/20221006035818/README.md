@@ -58,6 +58,15 @@ these videos are called "beginner boost" but they are filled with incredibly use
     ```
 
 - video week 10
+  - bash
+  - vim
+    - paragraphs `dap`
+    - words `dw.......`
+    - use simple commands and repeat with `.`
+  - the word grok @ `00:19:00`
+  - somebody named "Het" or "Senor Het" @ `00:23:45`
+    - content creator
+    - "into advanced stuff"
   - asdf @ `00:00:00`
 
 ` zet/20221006035818/README.md `
