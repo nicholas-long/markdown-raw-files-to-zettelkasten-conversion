@@ -22,6 +22,8 @@ Options:
 
 # Related
 
+- [20221007193634](/zet/20221007193634/README.md) example github actions scripts
+
 - [20221007181438](/zet/20221007181438/README.md) directories and bash scripts as commands
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
