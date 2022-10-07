@@ -1,6 +1,9 @@
 # problems / issues with zet cmd
 
-- not able to delete backlinks
+- annoying extra line breaks in related section of cards
+  - added when inserting references to cards automatically
+  - also not removed when deleting references
+- no support for one way links = not able to delete backlinks
   - they get reinserted
   - could save list of inserted ones to data file to never insert again
 - still need to figure out what to do about dead links - different than removing a link to be one way
