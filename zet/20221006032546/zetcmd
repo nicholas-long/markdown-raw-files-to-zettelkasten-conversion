@@ -158,8 +158,8 @@ case $action in
   unlink)
     #arg arg2
     echo "unlinking $arg $arg2"
-    sed -i "/$arg/d" zet/$arg2/README.md
-    sed -i "/$arg2/d" zet/$arg/README.md
+    [ -f "zet/$arg2/README.md" ] && sed -i "/$arg/d" zet/$arg2/README.md
+    [ -f "zet/$arg/README.md" ] && sed -i "/$arg2/d" zet/$arg/README.md
     ;;
   rm)
     del_id="$arg"
@@ -319,6 +319,10 @@ case $action in
       system ( command )
     }' $scanoutput
 
-    grep '^dead ' $scanoutput
+    awk '$1 == "dead" {
+      print
+      command = (ENVIRON["prog"] " unlink " $2 " " $3)
+      system ( command )
+    }' $scanoutput
     ;;
 esac
