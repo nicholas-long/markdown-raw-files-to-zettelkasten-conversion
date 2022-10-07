@@ -67,6 +67,11 @@ these videos are called "beginner boost" but they are filled with incredibly use
   - somebody named "Het" or "Senor Het" @ `00:23:45`
     - content creator
     - "into advanced stuff"
+  - cool speed trick: touch a file files with `> filename` with no command to write empty
+  - file extensions are bad @ `00:30:00` - `00:35:00`
+    - projects end up with things named `.sh` in them it's hard to change
+    - "it's like writing a function with hungarian notation at the end"
+  - running with no shebang
   - asdf @ `00:00:00`
 
 ` zet/20221006035818/README.md `
