@@ -96,6 +96,8 @@ finished through page 12 of search https://github.com/search?p=12&q=zettelkasten
 
 # Related
 
+- [20221007194303](/zet/20221007194303/README.md) github
+
 - [20221007193324](/zet/20221007193324/README.md) github actions
 
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion

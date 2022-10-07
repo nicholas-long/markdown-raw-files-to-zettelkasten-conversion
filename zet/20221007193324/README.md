@@ -6,6 +6,8 @@ the concept of github actions.
 
 # Related
 
+- [20221007194303](/zet/20221007194303/README.md) github
+
 - [20221007193634](/zet/20221007193634/README.md) example github actions scripts
 
 - [20221003150798](/zet/20221003150798/README.md) git

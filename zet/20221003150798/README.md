@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221007194303](/zet/20221007194303/README.md) github
+
 - [20221007193324](/zet/20221007193324/README.md) github actions
 
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
