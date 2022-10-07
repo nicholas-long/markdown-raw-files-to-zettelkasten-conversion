@@ -5,6 +5,8 @@
 - some links should be one-way links
     - ex: bash scripts is a list of all bash scripts and other things relevant to bash
         - remove a backlink to something, but keep scripts indexed by leaving link from ` bash -> thing `.
+- converting files from markdown hierarchy of headings
+    - creates really sparsely linked cards - need way more links!
 
 ` zet/20221007043646/README.md `
 
