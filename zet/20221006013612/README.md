@@ -6,7 +6,6 @@ the process of converting markdown directories/files/heading level hierarchy not
 
 # Related
 
-- [20221007144143](/zet/20221007144143/README.md) testing enrich tag
 
 - [20221006220044](/zet/20221006220044/README.md) adding stream notes
 
