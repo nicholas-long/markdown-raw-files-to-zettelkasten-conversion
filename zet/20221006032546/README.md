@@ -3,6 +3,7 @@
 name: zetcmd
 - need to put in PATH
   - add default PATH entry for user for home dir scripts?
+- cool regular expression for searching tags in vscode `^- \[[0-9]+].*git`
 
 ```
 Usage: ./zetcmd action [ options ]

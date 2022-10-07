@@ -2,6 +2,9 @@
 
 node for video notes.
 
+- should do standardized format with titles and links 
+    - on a line you could grep for
+
 ` zet/20221006213953/README.md `
 
 # Related

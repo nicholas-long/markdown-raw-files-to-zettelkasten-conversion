@@ -4,6 +4,9 @@ ippsec
 - content creator
 - works for hackthebox
 - new walkthrough videos for retired boxes every saturday.
+- videos searchable on https://ippsec.rocks/
+- tags videos with timestamps and content information on youtube
+    - making segment titles content searchable in zettelkasten will help find results
 
 ` zet/20221006214348/README.md `
 

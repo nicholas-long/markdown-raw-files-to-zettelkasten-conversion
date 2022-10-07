@@ -1,6 +1,7 @@
 # fastest way to take graph notes
 
 - new notes - obsidian + github + vscode
+  - vim plugin for vscode / github for editing
   - edit anywhere integrated vscode editor with `.` hotkey
   - loosely forms directed graph data using `[[links]]`
     - but i think those do not link together in github markdown ?
