@@ -1,6 +1,10 @@
 # findings about implementing zettelkasten
 
-- it is so cool and easy to add links when creating zettel
+- it is so easy to add tons of links when creating a zettel using fzf as a first step
+    - `spawn` action
+- some links should be one-way links
+    - ex: bash scripts is a list of all bash scripts and other things relevant to bash
+        - remove a backlink to something, but keep scripts indexed by leaving link from ` bash -> thing `.
 
 ` zet/20221007043646/README.md `
 
