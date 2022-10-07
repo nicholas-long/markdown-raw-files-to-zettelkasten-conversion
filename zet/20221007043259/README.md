@@ -1,7 +1,10 @@
 # zettelkasten generic ideas
 
 - linked a lot of stuff together for brainstorming in fzf
-- ideas go here.
+- the order of references should matter
+    - need to be kept in a paragraph
+    - move to top when useful
+        - log when useful or parse logs
 
 ` zet/20221007043259/README.md `
 
