@@ -208,8 +208,9 @@ case $action in
   updateref)
     tf=$(mktemp)
     export prog="$0"
+    # TODO: replace scanback here with scanrefs
     $0 scanback | awk 'NF == 3 {command = (ENVIRON["prog"] " addref -t " $3 " " $1); print command}' > $tf
-    if [ "$(wc -l $tf | awk '{print $1}')" != 0 ]; then
+    if [ "$(wc -l $tf | awk '{print $1}')" != 0 ]; then # not zero lines then need to recurse
       cat $tf
       wc -l $tf
       bash $tf
