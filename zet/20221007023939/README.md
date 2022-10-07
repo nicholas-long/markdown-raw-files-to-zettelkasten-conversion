@@ -19,4 +19,4 @@ Out[2]: 'Small'
 
 Tags:
 
-    #python #scripting #code 
+    #python #scripting #coding 
