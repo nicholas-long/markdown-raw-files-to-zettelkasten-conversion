@@ -39,4 +39,4 @@ Options:
 
 Tags:
 
-    #zettelkasten #bash #todo 
+    #zettelkasten #bash #todo #coding 

@@ -7,6 +7,7 @@
   - some is okay, but there are too many
 - enrich process is slow
   - debug with `bash -x` or similar
+  - taking a lot of time to do tags - improve performance
 
 ` zet/20221006032933/README.md `
 
