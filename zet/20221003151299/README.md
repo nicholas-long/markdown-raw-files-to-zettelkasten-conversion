@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+
 - [20221007181438](/zet/20221007181438/README.md) directories and bash scripts as commands
 
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten

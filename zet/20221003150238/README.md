@@ -7,6 +7,8 @@ ar x file.deb
 
 # Related
 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+
 - [20221003150239](/zet/20221003150239/README.md) extract command for file type
 - ~/kb/hacking/analysis/extract-commands.md
 

@@ -14,6 +14,8 @@ python2 pickles start with hex `80 03` and end with `.`
 
 # Related
 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+
 
 Tags:
 

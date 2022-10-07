@@ -13,6 +13,8 @@
 
 # Related
 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+
 - [20221003150338](/zet/20221003150338/README.md) ansible exploiting playbook
 - ~/kb/hacking/misc/ansible.md
 

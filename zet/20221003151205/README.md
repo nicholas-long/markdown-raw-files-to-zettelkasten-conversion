@@ -7,6 +7,8 @@
 
 # Related
 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation

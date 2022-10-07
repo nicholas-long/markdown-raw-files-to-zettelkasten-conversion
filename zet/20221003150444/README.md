@@ -5,6 +5,8 @@ https://github.com/carlospolop/hacktricks
 
 # Related
 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+
 - [20221007194303](/zet/20221007194303/README.md) github
 
 - [20221007193324](/zet/20221007193324/README.md) github actions

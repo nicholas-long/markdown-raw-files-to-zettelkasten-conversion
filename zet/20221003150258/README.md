@@ -6,6 +6,8 @@ https://addons.mozilla.org/en-GB/firefox/addon/multi-account-containers/
 
 # Related
 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+
 - [20221003150259](/zet/20221003150259/README.md) firefox
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
 

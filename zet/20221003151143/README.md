@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 
 - [20221003151144](/zet/20221003151144/README.md) active directory 

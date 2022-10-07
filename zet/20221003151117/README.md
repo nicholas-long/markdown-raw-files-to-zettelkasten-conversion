@@ -6,6 +6,8 @@ icalcs file.exe
 
 # Related
 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+
 - [20221003151124](/zet/20221003151124/README.md) dos commands
 - [20221003151116](/zet/20221003151116/README.md) dos commands file permissions access check sysinternals
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md

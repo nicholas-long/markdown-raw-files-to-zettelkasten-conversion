@@ -6,6 +6,8 @@ crackmapexec smb --help
 
 # Related
 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+
 - [20221003150672](/zet/20221003150672/README.md) crackmapexec cme commands RID brute force
 - [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files
 - [20221003150670](/zet/20221003150670/README.md) crackmapexec cme commands bruteforce SMB

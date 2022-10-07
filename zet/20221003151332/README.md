@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable

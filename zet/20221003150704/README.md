@@ -5,6 +5,8 @@
 
 # Related
 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+
 - [20221003150709](/zet/20221003150709/README.md) sqlmap
 - ~/kb/hacking/commands/sqlmap-commands.md
 

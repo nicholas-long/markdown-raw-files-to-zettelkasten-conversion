@@ -6,6 +6,8 @@ a list of hacking platforms for practice and education.
 
 # Related
 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+
 - [20221006220044](/zet/20221006220044/README.md) adding stream notes
 
 - [20221006213821](/zet/20221006213821/README.md) tryhackme

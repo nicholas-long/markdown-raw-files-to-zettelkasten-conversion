@@ -13,6 +13,8 @@ snmpwalk -c public -v1 $IP
 
 # Related
 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+
 - [20221003150698](/zet/20221003150698/README.md) SNMP enumeration command
 - ~/kb/hacking/commands/snmp-enumeration-commands.md
 
