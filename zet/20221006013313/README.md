@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
