@@ -72,6 +72,10 @@ these videos are called "beginner boost" but they are filled with incredibly use
     - projects end up with things named `.sh` in them it's hard to change
     - "it's like writing a function with hungarian notation at the end"
   - running with no shebang
+  - insecure to use `#!/usr/bin/env bash` type shebangs (privesc) `00:41:00`
+    - env looks things up in PATH
+    - prevalence in usage is related to ruby
+  - talking about privesc with misconfigured paths
   - asdf @ `00:00:00`
 
 ` zet/20221006035818/README.md `
