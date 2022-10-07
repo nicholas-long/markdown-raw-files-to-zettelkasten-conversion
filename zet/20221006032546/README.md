@@ -7,13 +7,15 @@ name: zc
 - cool regular expression for searching tags in vscode `^- \[[0-9]+].*git`
 
 ```
-Usage: ./zetcmd action [ options ]
-| action: [ new, rm, search, print, refs, preview ]
+./zc -h
+Usage: ./zc action [ options ]
+| action: [ new, rm, search, print, enrich, refs, preview ]
 Options:
-    -p|--paging
+    -e|--edit
     -f|--file|--forwarding-address
     -q|--query
     -t|--title|--target
+    -r|--reference
     -v|--verbose
     -h|--help
 ```
