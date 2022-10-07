@@ -6,6 +6,8 @@ hacking notes mega-node
 
 # Related
 
+- [20221006013313](/zet/20221006013313/README.md) zettelkasten
+
 - [20221006213311](/zet/20221006213311/README.md) hackthebox
 
 - [20221003150431](/zet/20221003150431/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale
