@@ -21,6 +21,11 @@ function printtags() {
   }
 }
 BEGIN {
+  command = "ls zet"
+  while ((command | getline id) > 0) {
+    print "id", id
+    ids[id] = 1
+  }
 }
 BEGINFILE {
   if (ARGIND > 1) { # if not on first file
@@ -48,7 +53,8 @@ BEGINFILE {
   if ( isref ) {
     seenref[xrefid(fileid, refid)]++
     seenooo[fileid " " refid] = 1
-    print "ref", fileid, refid
+    if (ids[refid]) print "ref", fileid, refid
+    else print "dead", fileid, refid
   }
 }
 END {

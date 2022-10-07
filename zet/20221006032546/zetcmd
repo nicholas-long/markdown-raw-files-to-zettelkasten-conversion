@@ -318,5 +318,7 @@ case $action in
       command = (ENVIRON["prog"] " enrich_links_single " $2)
       system ( command )
     }' $scanoutput
+
+    grep '^dead ' $scanoutput
     ;;
 esac
