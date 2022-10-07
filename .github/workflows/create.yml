@@ -19,7 +19,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: create
-        run: ./zc new -r 20221007185940 -t "TODO: new item"
+        run: ./zc new -r 20221007185940 -t 'TODO: new item'
 
       # Runs a set of commands using the runners shell
       - name: print diff
