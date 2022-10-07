@@ -1,6 +1,7 @@
 # zettelkasten note types
 
 - cool idea: "inbox" zettel that links to other notes
+- "principle of atomicity: put things which belong together in a Zettel, but try to separate concerns from one another."
 - bridge notes
   - notes between very different things
   - clarifying slightly different terminology by different authors
@@ -29,4 +30,4 @@ need more graph tools to clean up in order to do something like that.
 
 Tags:
 
-    #zettelkasten #notes 
+    #zettelkasten #notes #tips 
