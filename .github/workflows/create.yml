@@ -16,15 +16,12 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v3
-
       # Runs a single command using the runners shell
       - name: create
-        run: ./zc new -r 20221007185940 -t 'TODO: new item'
-
+        run: ./zc new -r 20221007185940 -t "TODO: new item"
       # Runs a set of commands using the runners shell
       - name: print diff
         run: git diff
-
       # commit and push
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
