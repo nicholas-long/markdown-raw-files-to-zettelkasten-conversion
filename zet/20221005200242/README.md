@@ -21,6 +21,8 @@ this is a list of possibly empty zettels.
 
 # Related
 
+- [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
+
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project

@@ -1,0 +1,19 @@
+#!/usr/bin/awk -f
+BEGIN { }
+BEGINFILE {
+  fileid = FILENAME
+  gsub(/^zet./,"",fileid)
+  gsub(/\/.*$/,"",fileid)
+  print "SCANNING FILE", fileid
+}
+scanning && /^#/ { exit }
+scanning { print }
+/^# [Rr]elated/ { scanning = 1 }
+!scanning { next }
+/^- / {
+  refid = $2
+  gsub(/^\[/,"",refid)
+  gsub(/].*$/,"",refid)
+  print "REF", fileid, refid
+}
+# vim: set syntax=awk:

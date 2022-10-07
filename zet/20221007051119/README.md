@@ -111,6 +111,8 @@ esac
 
 # Related
 
+- [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
+
 - [20221006032933](/zet/20221006032933/README.md) problems / issues with zet cmd
 
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
