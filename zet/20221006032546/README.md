@@ -21,6 +21,8 @@ Options:
 
 # Related
 
+- [20221007144143](/zet/20221007144143/README.md) testing enrich tag
+
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
 
 - [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process

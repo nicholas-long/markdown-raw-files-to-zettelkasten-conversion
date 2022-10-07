@@ -6,8 +6,8 @@ do not enrich this.
 
 # Related
 
-- 20221006032546
-- 20221006013612
+- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 
 Tags:
 
