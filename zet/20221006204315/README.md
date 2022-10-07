@@ -15,6 +15,8 @@
 
 # Related
 
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+
 - [20221006213953](/zet/20221006213953/README.md) video notes
 
 - [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method

@@ -7,6 +7,8 @@
 
 # Related
 
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+
 - [20221003151217](/zet/20221003151217/README.md) caddy
 - ~/kb/hacking/tricks/valid-https-server.md
 

@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
+
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 
 - [20221003151349](/zet/20221003151349/README.md) awk and bash scripting rename or move files

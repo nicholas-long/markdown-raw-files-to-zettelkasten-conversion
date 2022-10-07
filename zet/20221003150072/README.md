@@ -9,6 +9,8 @@ Edit config file `~/.SpaceVim.d/init.toml`
 
 # Related
 
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+
 
 Tags:
 

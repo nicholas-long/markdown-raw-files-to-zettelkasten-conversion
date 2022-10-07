@@ -9,6 +9,8 @@ node for video notes.
 
 # Related
 
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+
 - [20221006220044](/zet/20221006220044/README.md) adding stream notes
 
 - [20221006215623](/zet/20221006215623/README.md) scrambled machine video notes

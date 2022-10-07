@@ -7,6 +7,8 @@ vimdiff file1 file2
 
 # Related
 
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+
 - [20221003150067](/zet/20221003150067/README.md) vim
 - ~/kb/vim/vim.md
 

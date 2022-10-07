@@ -12,6 +12,8 @@
 
 # Related
 
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github

@@ -24,6 +24,8 @@ for each path
 
 # Related
 
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list
+
 - [20221006215135](/zet/20221006215135/README.md) siren
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP

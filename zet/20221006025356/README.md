@@ -6,6 +6,8 @@ linux reference links and concepts
 
 # Related
 
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+
 - [20221006214348](/zet/20221006214348/README.md) ippsec
 
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms

@@ -6,6 +6,10 @@ This is a collection of bash scripts
 
 # Related
 
+- [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
+
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+
 - [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames
 
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable

@@ -21,6 +21,8 @@
 
 # Related
 
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list
+
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 
 

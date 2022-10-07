@@ -9,6 +9,10 @@
 
 # Related
 
+- [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
+
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+
 - [20221006213953](/zet/20221006213953/README.md) video notes
 
 - [20221006204315](/zet/20221006204315/README.md) fastest way to take graph notes

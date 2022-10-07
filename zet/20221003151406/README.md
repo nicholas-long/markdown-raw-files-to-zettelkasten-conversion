@@ -27,6 +27,8 @@ zcat <( curl https://cve.mitre.org/data/downloads/allitems.csv.gz ) | \
 
 # Related
 
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 

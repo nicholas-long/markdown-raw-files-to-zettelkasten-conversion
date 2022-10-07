@@ -13,6 +13,8 @@
 
 # Related
 
+- [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
+
 - [20221006141216](/zet/20221006141216/README.md) weird issue with enrich
 
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd

@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
+
 - [20221003151298](/zet/20221003151298/README.md) bash tricks run a command / program in a pty to get color output
 - [20221003151296](/zet/20221003151296/README.md) bash tricks check if current directory is writable
 - ~/kb/bash-scripting/tricks.md

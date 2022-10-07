@@ -96,6 +96,8 @@ finished through page 12 of search https://github.com/search?p=12&q=zettelkasten
 
 # Related
 
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten

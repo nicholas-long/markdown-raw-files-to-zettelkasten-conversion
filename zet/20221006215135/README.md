@@ -8,6 +8,8 @@
 
 # Related
 
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list
+
 - [20221006213414](/zet/20221006213414/README.md) retired machines
 
 - [20221003151185](/zet/20221003151185/README.md) HTTP bypassing restrictions

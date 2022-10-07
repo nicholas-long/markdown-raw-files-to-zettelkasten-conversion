@@ -18,6 +18,8 @@ this stuff is from before adding zkilstak zettel.
 
 # Related
 
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+
 - [20221006213953](/zet/20221006213953/README.md) video notes
 
 - [20221006033248](/zet/20221006033248/README.md) rwxrob

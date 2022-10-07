@@ -11,6 +11,8 @@
 
 # Related
 
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list
+
 - [20221003151198](/zet/20221003151198/README.md) SMB
 - ~/kb/hacking/to-try-lists/SMB.md
 

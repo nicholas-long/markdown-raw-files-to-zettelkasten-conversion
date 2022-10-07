@@ -7,6 +7,8 @@
 
 # Related
 
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list
+
 - [20221003151174](/zet/20221003151174/README.md) SSH
 - ~/kb/hacking/to-try-lists/SSH.md
 

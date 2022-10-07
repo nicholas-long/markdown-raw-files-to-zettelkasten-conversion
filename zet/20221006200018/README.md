@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d
 
 - [20221006214348](/zet/20221006214348/README.md) ippsec

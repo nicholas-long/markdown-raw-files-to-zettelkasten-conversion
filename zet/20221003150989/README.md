@@ -17,6 +17,8 @@
 
 # Related
 
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list
+
 
 Tags:
 

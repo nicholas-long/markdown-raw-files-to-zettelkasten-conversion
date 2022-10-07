@@ -21,6 +21,8 @@
 
 # Related
 
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list
+
 - [20221003151177](/zet/20221003151177/README.md) Stuck to try list
 - [20221003150145](/zet/20221003150145/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal programs
 

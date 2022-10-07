@@ -8,6 +8,8 @@ newer technology -> developers adopting early without considering security.
 
 # Related
 
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+
 - [20221003150997](/zet/20221003150997/README.md) GraphQL APIs GraphQL introspection and recon
 - [20221003150996](/zet/20221003150996/README.md) GraphQL APIs common GraphQL bugs
 - [20221003150995](/zet/20221003150995/README.md) GraphQL APIs GraphQL tools
