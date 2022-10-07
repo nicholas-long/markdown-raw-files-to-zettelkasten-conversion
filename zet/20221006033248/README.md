@@ -12,6 +12,8 @@
 
 # Related
 
+- [20221007205652](/zet/20221007205652/README.md) find limit recusion depth
+
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
