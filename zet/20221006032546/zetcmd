@@ -292,7 +292,7 @@ case $action in
           t = $n
           gsub(/^#/,"",t)
           if (!(t in ignore)) {
-            print "- [" $2 "](/zet/" $2 "/README.md)" > "tagindex/" t ".md"
+            print "- [" $2 "](/zet/" $2 "/README.md)" | ("sort -u > tagindex/" t ".md")
           }
         }
       }
