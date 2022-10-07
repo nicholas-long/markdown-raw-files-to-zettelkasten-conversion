@@ -21,6 +21,8 @@ Options:
 
 # Related
 
+- [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process
+
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas

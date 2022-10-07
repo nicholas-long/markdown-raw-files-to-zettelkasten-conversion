@@ -111,11 +111,11 @@ esac
 
 # Related
 
-- 20221006032933
+- [20221006032933](/zet/20221006032933/README.md) problems / issues with zet cmd
 
-- 20221006032546
+- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 
-- 20221006141216
+- [20221006141216](/zet/20221006141216/README.md) weird issue with enrich
 
 
 Tags:
