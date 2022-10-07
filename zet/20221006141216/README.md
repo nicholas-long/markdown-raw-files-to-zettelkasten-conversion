@@ -1,7 +1,10 @@
 # weird issue with enrich
 
-- could be related to directories that are for deleted zettels that are not removed by git
-    - when i am testing stuff and deleting bad zettels, but the id remains, it could keep showing up in lists
+could be related to directories that are for deleted zettels that are not removed by git.
+when i am testing stuff and deleting bad zettels, but the id remains, it could keep showing up in lists.
+
+i don't think this is relevant anymore.
+i think this was before handling dead links.
 
 command output
 
@@ -29,4 +32,4 @@ awk: fatal: cannot open file `README.md' for reading: No such file or directory
 
 Tags:
 
-    #todo 
+    #DEL

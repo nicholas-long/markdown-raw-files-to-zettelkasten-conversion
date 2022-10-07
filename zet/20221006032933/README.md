@@ -3,11 +3,7 @@
 - not able to delete backlinks
   - they get reinserted
   - could save list of inserted ones to data file to never insert again
-- recursive processes
-  - some is okay, but there are too many
-- enrich process is slow
-  - debug with `bash -x` or similar
-  - taking a lot of time to do tags - improve performance
+- still need to figure out what to do about dead links - different than removing a link to be one way
 
 ` zet/20221006032933/README.md `
 

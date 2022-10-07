@@ -1,8 +1,9 @@
 # my implementation of zet cmd
 
-name: zetcmd
-- need to put in PATH
-  - add default PATH entry for user for home dir scripts?
+name: zc
+- spawn new actions from fzf selection window to select lots of references
+- github actions
+  - automatically enrich and make references bidirectional
 - cool regular expression for searching tags in vscode `^- \[[0-9]+].*git`
 
 ```
@@ -22,12 +23,8 @@ Options:
 # Related
 
 - [20221007181438](/zet/20221007181438/README.md) directories and bash scripts as commands
-
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
-
-
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
-
 - [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
