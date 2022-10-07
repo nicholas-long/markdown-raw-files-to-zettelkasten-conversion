@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221007181438](/zet/20221007181438/README.md) directories and bash scripts as commands
+
 - [20221003150155](/zet/20221003150155/README.md) linux assorted commands find disk mounting for root file system
 - ~/kb/linux/os-pseudo-filesystem-data-commands.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix

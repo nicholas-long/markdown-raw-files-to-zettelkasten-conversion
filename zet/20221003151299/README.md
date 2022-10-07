@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221007181438](/zet/20221007181438/README.md) directories and bash scripts as commands
+
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 
 - [20221003151298](/zet/20221003151298/README.md) bash tricks run a command / program in a pty to get color output

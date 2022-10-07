@@ -21,6 +21,8 @@ Options:
 
 # Related
 
+- [20221007181438](/zet/20221007181438/README.md) directories and bash scripts as commands
+
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
 
 
