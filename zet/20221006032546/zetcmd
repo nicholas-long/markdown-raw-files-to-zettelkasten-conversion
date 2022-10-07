@@ -3,9 +3,9 @@ export ZET_CMD_IMPLEMENTATION=20221006032546
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 export prog="$0"
 
-[ -d zet ] || cd $SCRIPT_DIR && export prog="$SCRIPT_DIR/zc" # run me as symlink from my directory or in somewhere with zet/
-
+# run me as symlink from my directory or in somewhere with zet/
 # the SCRIPT_DIR of symlinked zc command will be the root of the zettelkasten folder
+[ -d zet ] || cd $SCRIPT_DIR && export prog="$SCRIPT_DIR/zc"
 
 # parse args with case statement
 VERBOSE=0
@@ -180,23 +180,6 @@ case $action in
     rm -rf zet/$del_id
     #$prog enrich # don't do this automatically
     ;;
-#  scanback)
-#    sorted_refs=$(mktemp)
-#    for zid in $(ls zet); do
-#      export zid
-#      $prog refs $zid 2>/dev/null | sort > $sorted_refs
-#      for z2 in $(cat $sorted_refs); do
-#        if [ -z "$z2" ]; then # skip if empty
-#          continue
-#        fi
-#        count=$($prog refs $z2 2>/dev/null | awk '$0 == ENVIRON["zid"]' | wc -l)
-#        if [ $count == 0 ]; then
-#          echo "$zid -> $z2"
-#        fi
-#      done
-#    done
-#    rm $sorted_refs
-#    ;;
   addref)
     target="$title"
     f="zet/$target/README.md"
@@ -208,18 +191,6 @@ case $action in
       fi
     fi
     ;;
-#  updateref)
-#    tf=$(mktemp)
-#    # TODO: replace scanback here with scanrefs
-#    $prog scanback | awk 'NF == 3 {command = (ENVIRON["prog"] " addref -t " $3 " " $1); print command}' > $tf
-#    if [ "$(wc -l $tf | awk '{print $1}')" != 0 ]; then # not zero lines then need to recurse
-#      cat $tf
-#      wc -l $tf
-#      bash $tf
-#      $prog enrich # recurse
-#    fi
-#    rm $tf
-#    ;;
   enrich_links_single)
     zid="$arg"
     if [ -z $"zid" ]; then

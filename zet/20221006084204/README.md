@@ -1,5 +1,6 @@
 # future enhancements to zet cmd
 
+- github action for creating zettel
 - search multiple words in entire zettel content
 - automatic scripts stored in zettels
   - use cases
