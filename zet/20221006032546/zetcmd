@@ -152,7 +152,11 @@ case $action in
     if [ -z "$query" ]; then
       query="$arg"
     fi
-    $prog find -q "$query" | fzf -m --preview="$prog preview -f {} 2>/dev/null"
+    if [ 0 != "$makeedit" ]; then
+      $prog find -q "$query" | fzf -m --preview="$prog preview -f {} 2>/dev/null" | awk '{print $1}' | xargs $EDITOR -p # does this work in normal vim?
+    else
+      $prog find -q "$query" | fzf -m --preview="$prog preview -f {} 2>/dev/null"
+    fi
     ;;
   find) # full content search
     if [ -z "$query" ]; then
