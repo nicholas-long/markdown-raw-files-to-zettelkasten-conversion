@@ -18,6 +18,7 @@
 
 # Related
 
+- [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221008052510](/zet/20221008052510/README.md) 80-20 rule
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process

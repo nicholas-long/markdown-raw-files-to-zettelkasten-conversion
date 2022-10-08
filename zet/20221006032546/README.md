@@ -25,6 +25,7 @@ Options:
 
 # Related
 
+- [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
