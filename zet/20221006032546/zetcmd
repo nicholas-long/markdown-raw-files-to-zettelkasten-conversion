@@ -270,7 +270,8 @@ case $action in
     id="$arg"
     tf=$(mktemp)
     zet/$ZET_CMD_IMPLEMENTATION/fixlines zet/$id/README.md > $tf
-    bat $tf || cat $tf
+    bat $tf || cat $tf > /dev/stderr
+    mv "$tf" "zet/$id/README.md"
     rm $tf
     ;;
   enrich)
