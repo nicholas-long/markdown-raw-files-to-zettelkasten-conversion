@@ -87,7 +87,7 @@ case $action in
     if [ 0 != "$makeedit" ]; then
       nvim "$filepath"
     fi
-    echo "created zet ID $id" > /dev/stderr
+    echo "created zet ID $id"
     ;;
   spawn)
     ids=$(mktemp)
@@ -101,13 +101,15 @@ case $action in
     if [ -z "$title" ]; then
       title="$query"
     fi
-    newid=$($prog new -t "$title" | awk '/created zet ID/ { print $NF }')
+    newid=$($prog new -t "$title" | awk '/[Cc]reated [Zz]ett?e?l? ID/ { print $NF }')
+    echo "[diag] newid $newid" 2>/dev/stderr
     sed -i '/{{ref}}/d' zet/$newid/README.md # remove template ref stub
     for link in $(cat $ids); do
       $prog addref -t "$newid" "$link"
     done
     rm $ids
     echo "spawned new $newid" > /dev/stderr
+    $prog fixspaces "$newid"
     nvim zet/$newid/README.md
     ;;
   enum)
@@ -270,9 +272,7 @@ case $action in
     id="$arg"
     tf=$(mktemp)
     zet/$ZET_CMD_IMPLEMENTATION/fixlines zet/$id/README.md > $tf
-    bat $tf || cat $tf > /dev/stderr
     mv "$tf" "zet/$id/README.md"
-    rm $tf
     ;;
   enrich)
     scanoutput=$(mktemp)
