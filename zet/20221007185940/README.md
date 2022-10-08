@@ -6,6 +6,8 @@ probably added from github actions.
 
 # Related
 
+- [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
+
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 
 - [20221007192111](/zet/20221007192111/README.md) the first zettel generated from github
