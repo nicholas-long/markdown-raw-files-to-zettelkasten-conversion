@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221008052510](/zet/20221008052510/README.md) 80-20 rule
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas

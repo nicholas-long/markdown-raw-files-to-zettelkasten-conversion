@@ -332,6 +332,23 @@ case $action in
       $1 == "emptylines" {
         command = (ENVIRON["prog"] " fixspaces " $2)
         system ( command )
-      }' $scanoutput
+      }
+      ' $scanoutput
+    # spaces are fixed.
+
+    #TODO: need to redo anything?
+
+    # run every autoexec_enrich, passing in the script's full path
+    find zet -executable -name autoexec_enrich | awk '
+    BEGIN { FS = OFS = "/" }
+    {
+      file = $0
+      "realpath " file | getline
+      NF--
+      scriptpath = $0
+      "pwd" | getline
+      system(file " " $0 " " scriptpath)
+    }
+    '
     ;;
 esac

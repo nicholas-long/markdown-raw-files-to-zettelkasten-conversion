@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221007023939](/zet/20221007023939/README.md) python ternary operator
 - [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script
 - [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally

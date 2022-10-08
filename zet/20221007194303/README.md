@@ -6,6 +6,7 @@ concept of the github website owned by the company microsoft.
 
 # Related
 
+- [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis

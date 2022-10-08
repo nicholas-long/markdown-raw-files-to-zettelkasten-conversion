@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "implementation/autoexec_enrich got executed with $@"

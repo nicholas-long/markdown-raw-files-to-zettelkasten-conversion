@@ -6,6 +6,7 @@ the concept of github actions.
 
 # Related
 
+- [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221007193634](/zet/20221007193634/README.md) example github actions scripts

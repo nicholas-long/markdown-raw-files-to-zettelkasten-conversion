@@ -6,6 +6,7 @@ the concept of `workflow`
 
 # Related
 
+- [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221006204315](/zet/20221006204315/README.md) fastest way to take graph notes
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221003150551](/zet/20221003150551/README.md) linux

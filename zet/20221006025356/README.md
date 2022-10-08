@@ -6,6 +6,7 @@ linux reference links and concepts
 
 # Related
 
+- [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas

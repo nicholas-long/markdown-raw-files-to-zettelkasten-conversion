@@ -25,6 +25,7 @@ Options:
 
 # Related
 
+- [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
@@ -45,7 +46,7 @@ Options:
 - [20221006140520](/zet/20221006140520/README.md) zet cmd spawn feature
 - https://github.com/naps62/zk
 - https://www.google.com/search?q=zettelkasten+fzf+vim
-
+- [20221007205652](/zet/20221007205652/README.md) find limit recusion depth
 Tags:
 
     #zettelkasten #bash #todo #coding 
