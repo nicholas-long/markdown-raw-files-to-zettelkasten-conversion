@@ -19,6 +19,14 @@
     - things have been converted so many times... `markdown -> html -> HTTP -> lynx -> html -> colorized text`
 - search content?
   - `./zc search -q .`
+- zettel about what you are working on is really useful
+    - direct hotlinks to stuff you are doing like to do list
+    - already traversing a graph of web page links and scripts when doing normal web browsing
+- graph searching concepts
+    - if i want to get to a topic, i know a good path to get there through these links
+    - i can be working on one thing and get to any other notes with 2-5 clicks
+- i'm not an expert at designing these yet
+    - research graph theory
 
 ` zet/20221007043646/README.md `
 
