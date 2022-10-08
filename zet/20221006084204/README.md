@@ -1,5 +1,6 @@
 # future enhancements to zet cmd
 
+- track usage with quick addition of tee to a logfile after search
 - automatic scripts stored in zettels
   - use cases
     - enrich step (quick)
@@ -14,12 +15,13 @@
 
 # Related
 
-- [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
-- [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
-- [20221006140520](/zet/20221006140520/README.md) zet cmd spawn feature
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
+- [20221006140520](/zet/20221006140520/README.md) zet cmd spawn feature
+- [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221006032933](/zet/20221006032933/README.md) problems / issues with zet cmd
+- [20221008042814](/zet/20221008042814/README.md) WIP
 
 Tags:
 

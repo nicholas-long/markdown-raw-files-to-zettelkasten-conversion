@@ -6,9 +6,7 @@
     - need to be kept in a paragraph
     - move to top when useful
         - log when useful or parse logs
-- track usage with quick addition of tee to a logfile after search
-- make a script to autogenerate the information about zet cmd actions
-    - first reference implementation help page for the tool
+- numbering sequentially based on timestamps can be an arbitrary ordering imposed on zettels
 
 ` zet/20221007043259/README.md `
 
