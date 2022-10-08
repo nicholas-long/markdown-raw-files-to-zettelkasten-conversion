@@ -5,6 +5,7 @@ the livestream SKILSTAK Beginner Boost 2022 - Week 21 livestream
 - chat
 - go programming
     - go string formatting @ `3:45:41`
+- tests workflow @ `3:54:27`
 
 ` zet/20221008181850/README.md `
 
