@@ -15,6 +15,8 @@
 - can view on github with lynx if you search stuff with `/` to bypass huge text navbars
     - renders in colorized markdown way that looks kinda like bat
     - things have been converted so many times... `markdown -> html -> HTTP -> lynx -> html -> colorized text`
+- search content?
+  - `./zc search -q .`
 
 ` zet/20221007043646/README.md `
 
