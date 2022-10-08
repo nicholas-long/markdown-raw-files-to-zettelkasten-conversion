@@ -6,6 +6,7 @@
     - move to top when useful
         - log when useful or parse logs
 - make a script to autogenerate the information about zet cmd actions
+    - first reference implementation help page for the tool
 
 ` zet/20221007043259/README.md `
 
