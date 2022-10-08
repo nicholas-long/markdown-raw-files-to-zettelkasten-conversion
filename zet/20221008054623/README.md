@@ -9,9 +9,9 @@ the concept of `neo4j`
 
 # Related
 
-- 20221003151379
-- 20221003151380
-- 20221008054439
+- [20221003151379](/zet/20221003151379/README.md) bash scripting mount host neo4j data into docker
+- [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
+- [20221008054439](/zet/20221008054439/README.md) graph database
 
 Tags:
 

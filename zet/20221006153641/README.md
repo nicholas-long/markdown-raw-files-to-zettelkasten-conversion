@@ -96,6 +96,7 @@ finished through page 12 of search https://github.com/search?p=12&q=zettelkasten
 
 # Related
 
+- [20221008054439](/zet/20221008054439/README.md) graph database
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221007193324](/zet/20221007193324/README.md) github actions
