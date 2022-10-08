@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
+
 - [20221007181438](/zet/20221007181438/README.md) directories and bash scripts as commands
 
 - [20221003150661](/zet/20221003150661/README.md) data analysis commands dd copy from offset

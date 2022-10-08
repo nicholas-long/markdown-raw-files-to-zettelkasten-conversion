@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
+
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities
 - [20221003151276](/zet/20221003151276/README.md) linux data science issues
 - ~/kb/data-engineering-pipelines/data-science-linux-commands.md
