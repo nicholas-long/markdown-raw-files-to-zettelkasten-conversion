@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221008024933](/zet/20221008024933/README.md) vim code block lines
+
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas

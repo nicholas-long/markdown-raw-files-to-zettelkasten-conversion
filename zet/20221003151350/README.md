@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221008024933](/zet/20221008024933/README.md) vim code block lines
+
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten

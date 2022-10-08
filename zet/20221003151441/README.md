@@ -6,6 +6,8 @@ Collection of awk scripting examples
 
 # Related
 
+- [20221008024933](/zet/20221008024933/README.md) vim code block lines
+
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 
 - [20221003151440](/zet/20221003151440/README.md) awk scripting replace words with colorized versions
