@@ -9,6 +9,7 @@ the concept of a `file path`
 
 # Related
 
+- [20221008221940](/zet/20221008221940/README.md) URL
 - [20221008215400](/zet/20221008215400/README.md) file
 - [20221003150884](/zet/20221003150884/README.md) privilege escalation relative path abuse
 - [20221003150940](/zet/20221003150940/README.md) python imports library search path

@@ -6,6 +6,7 @@ the concept of a `program`
 
 # Related
 
+- [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221008213458](/zet/20221008213458/README.md) operating system
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221008213122](/zet/20221008213122/README.md) version

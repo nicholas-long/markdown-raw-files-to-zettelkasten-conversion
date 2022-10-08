@@ -9,9 +9,11 @@ the concept of `website`
 
 # Related
 
-- 20221008213825
-- 20221003151188
-- 20221003151193
+- [20221008221940](/zet/20221008221940/README.md) URL
+- [20221008221822](/zet/20221008221822/README.md) www - the web
+- [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
+- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS
+- [20221003151193](/zet/20221003151193/README.md) HTTP
 
 Tags:
 

@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221008221548](/zet/20221008221548/README.md) website
+- [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221008210209](/zet/20221008210209/README.md) nim makes smaller wasm binaries than rust
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD

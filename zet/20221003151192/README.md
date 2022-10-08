@@ -49,6 +49,7 @@
 
 # Related
 
+- [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221003151193](/zet/20221003151193/README.md) HTTP
