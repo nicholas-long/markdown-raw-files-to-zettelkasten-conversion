@@ -1,6 +1,15 @@
 # zettelkasten generic ideas
 
-- branches for different devices
+- cloning / copying a card
+    - backlinks do not point to same card
+    - using as a template
+- data and scripts in graph nodes
+- auto-enriching types of nodes
+  - simple single command at top of snippet gets evaluated and snippet replaced
+- store result of commands in flat files
+- different branches for using with different devices
+  - automatic merges should not be a problem
+    - use both lines
 - linked a lot of stuff together for brainstorming in fzf
 - the order of references should matter
     - need to be kept in a paragraph
