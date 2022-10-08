@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221008052510](/zet/20221008052510/README.md) 80-20 rule
 - [20221008042334](/zet/20221008042334/README.md) why does git ask questions instead of pulling changes
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd

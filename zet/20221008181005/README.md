@@ -14,14 +14,14 @@ sources:
 
 # Related
 
-- 20221003151275
+- [20221003151275](/zet/20221003151275/README.md) install docker compose cli extension
 - https://github.com/nicholas-long/vulnerable-software-hashes
-- 20221008042814
-- 20221007044552
-- 20221007193324
-- 20221007194303
-- 20221003150798
-- 20221003151424
+- [20221008042814](/zet/20221008042814/README.md) WIP
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list
+- [20221007193324](/zet/20221007193324/README.md) github actions
+- [20221007194303](/zet/20221007194303/README.md) github
+- [20221003150798](/zet/20221003150798/README.md) git
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
 
 Tags:
 

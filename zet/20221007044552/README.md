@@ -6,6 +6,7 @@ concept of a todo list.
 
 # Related
 
+- [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221008042814](/zet/20221008042814/README.md) WIP

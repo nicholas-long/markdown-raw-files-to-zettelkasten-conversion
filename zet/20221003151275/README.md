@@ -9,6 +9,7 @@ chmod +x ~/.docker/cli-plugins/docker-compose
 
 # Related
 
+- [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 
 Tags:
 
