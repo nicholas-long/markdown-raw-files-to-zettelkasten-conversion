@@ -1,4 +1,4 @@
-# SKILSTAK Beginner Boost 2022 - Week 21 livestream
+# SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
 
 the livestream SKILSTAK Beginner Boost 2022 - Week 21 livestream
 
@@ -17,6 +17,11 @@ the livestream SKILSTAK Beginner Boost 2022 - Week 21 livestream
         - developers say to use it in readmes maybe but don't
     - right way is `go install path@latest`
 - 4:38:24 - vanity urls
+- problems with go dependencies
+    - don't abuse use of `replace`
+    - technical debt in go ecosystem right now
+- 4:45:00 - go fix library warnings
+
 
 ` zet/20221008181850/README.md `
 
@@ -28,4 +33,4 @@ the livestream SKILSTAK Beginner Boost 2022 - Week 21 livestream
 
 Tags:
 
-    #videonotes
+    #videonotes #stream
