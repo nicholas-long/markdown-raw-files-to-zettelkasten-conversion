@@ -47,7 +47,7 @@ while [[ $# -gt 0 ]]; do
       echo "Usage: $0 action [ options ]"
       echo "| action      : [ spawn, search, find, rm, print, enrich, new, refs, preview ]"
       echo "| | fzf       : [ spawn, search ]"
-      echo "| | scripting : [ find, addref, rm, print, enrich, new, refs, preview ]"
+      echo "| | scripting : [ find, addref, rm, print, enrich, new, refs, preview, enum, unlink, enrich_links_single, fixspaces ]"
       echo "Options:"
       cat "$prog" | grep '^\s\+-.|--.*' | sed 's/)$//'
       exit 1
@@ -89,7 +89,7 @@ case $action in
     fi
     echo "created zet ID $id"
     ;;
-  spawn)
+  s|spawn)
     ids=$(mktemp)
     $prog find -q "$query" 2>/dev/null | fzf -m | awk '
       {
