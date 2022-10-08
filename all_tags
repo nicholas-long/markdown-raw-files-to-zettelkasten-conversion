@@ -24,6 +24,7 @@
 #calling
 #capabilities
 #check
+#cms
 #coding
 #command
 #common
@@ -45,12 +46,14 @@
 #dll
 #dns
 #docker
+#done
 #dos
 #ds
 #dump
 #edit
 #enable
 #encode
+#enhancement
 #enum4linux
 #enumeration
 #error
@@ -65,6 +68,7 @@
 #fidget
 #file
 #filehash
+#files
 #find
 #fix
 #force
@@ -78,11 +82,13 @@
 #get
 #git
 #github
+#go
 #gobuster
 #got
 #grep
 #hacking
 #hardware
+#hash
 #help
 #hibernate
 #html.templates
@@ -95,6 +101,7 @@
 #important
 #initialize
 #install
+#instanceof
 #iptables
 #java
 #jenkins
@@ -107,6 +114,7 @@
 #keytool
 #ksql
 #kubernetes
+#language
 #ldap
 #less
 #lfi
@@ -124,6 +132,7 @@
 #mysql
 #networking
 #nfs
+#nim
 #nmap
 #notes
 #noun
@@ -135,6 +144,7 @@
 #osint
 #package
 #packet
+#path
 #php
 #pivot
 #port
@@ -143,6 +153,9 @@
 #powerview
 #practice
 #privesc
+#procmon
+#program
+#programming
 #project
 #proxmox
 #pureftp
@@ -157,6 +170,7 @@
 #retired
 #routing
 #run
+#rust
 #script
 #scripting
 #sed
@@ -184,6 +198,7 @@
 #test
 #text
 #tftp
+#tip
 #tips
 #tldr
 #tmux
@@ -204,17 +219,20 @@
 #utilities
 #valid
 #vbscript
+#version
 #video
 #videonotes
 #videos
 #vim
 #virtualbox
 #vm
+#wasm
 #web
 #wfuzz
 #windows
 #workflow
 #wpscan
+#wtf
 #xml
 #xp
 #xterm

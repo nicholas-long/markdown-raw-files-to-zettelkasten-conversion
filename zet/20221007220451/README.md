@@ -6,6 +6,10 @@ hacking notes mega-node
 
 # Related
 
+- [20221008194048](/zet/20221008194048/README.md) good DLLs to hide in for sideloading
+- [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
+- [20221008195148](/zet/20221008195148/README.md) seclists etc files project
+- [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221006213311](/zet/20221006213311/README.md) hackthebox

@@ -10,6 +10,7 @@ wmic service get name,displayname,pathname,startmode | findstr /i "auto" | finds
 
 # Related
 
+- [20221008213254](/zet/20221008213254/README.md) file path
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221003151124](/zet/20221003151124/README.md) dos commands
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md

@@ -45,15 +45,15 @@ good DLLs to hide in for sideloading
 
 # Related
 
-- 20221007220451
-- 20221003151153
-- 20221003150354
-- 20221003151104
-- 20221003150355
-- 20221003150921
-- 20221003151105
-- 20221003151106
-- 20221003150934
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221003151153](/zet/20221003151153/README.md) windows
+- [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
+- [20221003151104](/zet/20221003151104/README.md) compile windows DLL to run commands DLL code building with mingw
+- [20221003150355](/zet/20221003150355/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries
+- [20221003150921](/zet/20221003150921/README.md) windows persistence and DLL hijacking locations
+- [20221003151105](/zet/20221003151105/README.md) compile windows DLL to run commands DLL code
+- [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
+- [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
 
 Tags:
 

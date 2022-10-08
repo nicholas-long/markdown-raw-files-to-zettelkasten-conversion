@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221008210746](/zet/20221008210746/README.md) use title of zettel as fzf prompt
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221003151266](/zet/20221003151266/README.md) fzf run with preview
 - [20221003151265](/zet/20221003151265/README.md) fzf install

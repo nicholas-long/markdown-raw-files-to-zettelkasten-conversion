@@ -6,6 +6,8 @@ This is a collection of bash scripts
 
 # Related
 
+- [20221008212000](/zet/20221008212000/README.md) coding / programming
+- [20221008212519](/zet/20221008212519/README.md) programming language
 - [20221008182309](/zet/20221008182309/README.md) learning git internals
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221008081231](/zet/20221008081231/README.md) debugging

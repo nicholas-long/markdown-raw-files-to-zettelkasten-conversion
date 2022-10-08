@@ -7,6 +7,7 @@ wfuzz -u "http://$IP/FUZZ" -w /usr/share/seclists/Fuzzing/fuzz-Bo0oM.txt --hc 40
 
 # Related
 
+- [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
 
 Tags:
 

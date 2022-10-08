@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221008215655](/zet/20221008215655/README.md) user account
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221003151080](/zet/20221003151080/README.md) service account privileges restore
 - [20221003151076](/zet/20221003151076/README.md) service account privileges exploiting

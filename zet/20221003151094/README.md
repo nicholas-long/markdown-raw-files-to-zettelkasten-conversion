@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221008213458](/zet/20221008213458/README.md) operating system
 - [20221003151093](/zet/20221003151093/README.md) windows API enable privilege
 - ~/kb/hacking/windows/enable-privilege-api.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix

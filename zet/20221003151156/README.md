@@ -8,6 +8,7 @@ hashcat --force --stdout -a 3 '?d?d?d?d?l?l?l?l' | while read line; do echo -n $
 
 # Related
 
+- [20221008215325](/zet/20221008215325/README.md) password
 
 Tags:
 

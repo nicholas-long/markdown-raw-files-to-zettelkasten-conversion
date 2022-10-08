@@ -20,12 +20,12 @@ hacker concept of CMS - slang lingo for web app / service
 
 # Related
 
-- 20221003151237
-- 20221003150242
-- 20221003150343
-- 20221003150694
-- 20221006213953
-- 20221007220451
+- [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
+- [20221003150242](/zet/20221003150242/README.md) identify service
+- [20221003150343](/zet/20221003150343/README.md) wordpress
+- [20221003150694](/zet/20221003150694/README.md) wpscan
+- [20221006213953](/zet/20221006213953/README.md) video notes
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
 
 Tags:
 

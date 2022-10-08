@@ -6,6 +6,9 @@ concept of the github website owned by the company microsoft.
 
 # Related
 
+- [20221008214406](/zet/20221008214406/README.md) sharing programming hiveminds
+- [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch
+- [20221008195148](/zet/20221008195148/README.md) seclists etc files project
 - [20221008182309](/zet/20221008182309/README.md) learning git internals
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards

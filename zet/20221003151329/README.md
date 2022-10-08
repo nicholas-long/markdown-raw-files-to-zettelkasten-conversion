@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221008212519](/zet/20221008212519/README.md) programming language
+- [20221008212000](/zet/20221008212000/README.md) coding / programming
 - [20221008182309](/zet/20221008182309/README.md) learning git internals
 - [20221008081231](/zet/20221008081231/README.md) debugging
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer

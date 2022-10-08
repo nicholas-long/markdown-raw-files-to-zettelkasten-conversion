@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221008214631](/zet/20221008214631/README.md) useful vim hotkeys
+- [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd

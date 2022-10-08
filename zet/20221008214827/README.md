@@ -6,10 +6,10 @@ the concept of `the concept of utility or being useful`
 
 # Related
 
-- 20221008214631
-- 20221008212802
-- 20221008061845
-- 20221003150067
+- [20221008214631](/zet/20221008214631/README.md) useful vim hotkeys
+- [20221008212802](/zet/20221008212802/README.md) software program
+- [20221008061845](/zet/20221008061845/README.md) workflow
+- [20221003150067](/zet/20221003150067/README.md) vim
 
 Tags:
 

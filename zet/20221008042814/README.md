@@ -6,8 +6,11 @@ stuff i am working on.
 
 # Related
 
+- [20221003151159](/zet/20221003151159/README.md) Credit where credit is due
+- [20221008213627](/zet/20221008213627/README.md) enhancement / improvement
+- [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch
 - [20221008182309](/zet/20221008182309/README.md) learning git internals
-- [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream
+- [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards

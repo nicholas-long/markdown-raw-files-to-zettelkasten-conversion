@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221008195148](/zet/20221008195148/README.md) seclists etc files project
+- [20221008212519](/zet/20221008212519/README.md) programming language
 - [20221008081231](/zet/20221008081231/README.md) debugging
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node

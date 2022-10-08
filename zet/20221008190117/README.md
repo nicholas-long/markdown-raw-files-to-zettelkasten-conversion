@@ -27,11 +27,11 @@ Switched to a new branch 'new-ideas-and-links'
 
 # Related
 
-- 20221007062330
-- 20221008042814
-- 20221008061845
-- 20221007194303
-- 20221003150798
+- [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
+- [20221008042814](/zet/20221008042814/README.md) WIP
+- [20221008061845](/zet/20221008061845/README.md) workflow
+- [20221007194303](/zet/20221007194303/README.md) github
+- [20221003150798](/zet/20221003150798/README.md) git
 - https://stackoverflow.com/questions/9537392/git-fetch-remote-branch
 
 Tags:

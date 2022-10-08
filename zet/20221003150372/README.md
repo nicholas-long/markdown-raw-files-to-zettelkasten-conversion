@@ -5,6 +5,7 @@ https://github.com/pwnwiki/webappdefaultsdb
 
 # Related
 
+- [20221008213254](/zet/20221008213254/README.md) file path
 
 Tags:
 

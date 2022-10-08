@@ -86,6 +86,8 @@
 
 # Related
 
+- [20221008215655](/zet/20221008215655/README.md) user account
+- [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits

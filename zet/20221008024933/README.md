@@ -8,6 +8,7 @@
 
 # Related
 
+- [20221008212000](/zet/20221008212000/README.md) coding / programming
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - [20221003151338](/zet/20221003151338/README.md) awk scripting

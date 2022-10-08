@@ -96,6 +96,7 @@ finished through page 12 of search https://github.com/search?p=12&q=zettelkasten
 
 # Related
 
+- [20221008214406](/zet/20221008214406/README.md) sharing programming hiveminds
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221008054439](/zet/20221008054439/README.md) graph database
 - [20221008042814](/zet/20221008042814/README.md) WIP

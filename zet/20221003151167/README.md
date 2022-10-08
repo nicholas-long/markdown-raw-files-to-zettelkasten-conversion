@@ -11,6 +11,9 @@
 
 # Related
 
+- [20221008215139](/zet/20221008215139/README.md) hash / checksum
+- [20221008215325](/zet/20221008215325/README.md) password
+- [20221008215739](/zet/20221008215739/README.md) go packages have checksums
 
 Tags:
 

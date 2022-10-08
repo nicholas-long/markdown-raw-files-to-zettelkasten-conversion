@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221008215530](/zet/20221008215530/README.md) username
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d
 - [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions

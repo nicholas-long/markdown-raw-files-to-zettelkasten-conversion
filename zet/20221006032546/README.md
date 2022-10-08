@@ -25,6 +25,8 @@ Options:
 
 # Related
 
+- [20221008210746](/zet/20221008210746/README.md) use title of zettel as fzf prompt
+
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd

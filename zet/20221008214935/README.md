@@ -6,7 +6,8 @@ the concept of the `go programming language`
 
 # Related
 
-- 20221008212519
+- [20221008215739](/zet/20221008215739/README.md) go packages have checksums
+- [20221008212519](/zet/20221008212519/README.md) programming language
 
 Tags:
 

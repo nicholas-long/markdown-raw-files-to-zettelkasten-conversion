@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221008210209](/zet/20221008210209/README.md) nim makes smaller wasm binaries than rust
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY

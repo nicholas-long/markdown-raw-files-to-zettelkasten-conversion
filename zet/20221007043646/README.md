@@ -32,6 +32,8 @@
 
 # Related
 
+- [20221003151159](/zet/20221003151159/README.md) Credit where credit is due
+- [20221008214406](/zet/20221008214406/README.md) sharing programming hiveminds
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221008052510](/zet/20221008052510/README.md) 80-20 rule

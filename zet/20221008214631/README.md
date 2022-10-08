@@ -12,9 +12,10 @@ gep
 
 # Related
 
-- 20221008212000
-- 20221008061845
-- 20221003150067
+- [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
+- [20221008212000](/zet/20221008212000/README.md) coding / programming
+- [20221008061845](/zet/20221008061845/README.md) workflow
+- [20221003150067](/zet/20221003150067/README.md) vim
 
 Tags:
 

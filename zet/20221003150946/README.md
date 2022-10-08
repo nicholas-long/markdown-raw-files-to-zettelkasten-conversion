@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221008212519](/zet/20221008212519/README.md) programming language
+- [20221008212000](/zet/20221008212000/README.md) coding / programming
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221007023939](/zet/20221007023939/README.md) python ternary operator
 - [20221003150945](/zet/20221003150945/README.md) python hex to string

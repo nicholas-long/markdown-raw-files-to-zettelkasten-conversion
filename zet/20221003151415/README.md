@@ -17,6 +17,7 @@ cat $1 | hashing
 
 # Related
 
+- [20221008215139](/zet/20221008215139/README.md) hash / checksum
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 

@@ -9,8 +9,9 @@ node for video notes.
 
 # Related
 
+- [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
-- [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream
+- [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006220044](/zet/20221006220044/README.md) adding stream notes

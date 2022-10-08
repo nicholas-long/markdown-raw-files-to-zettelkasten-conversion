@@ -20,6 +20,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 # Related
 
+- [20221008213254](/zet/20221008213254/README.md) file path
 - [20221003150942](/zet/20221003150942/README.md) python imports
 - [20221003150939](/zet/20221003150939/README.md) python imports library search path print with python command
 - ~/kb/hacking/python/python-imports.md
