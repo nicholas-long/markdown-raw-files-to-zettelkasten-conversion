@@ -6,6 +6,7 @@ concept of the github website owned by the company microsoft.
 
 # Related
 
+- [20221008182309](/zet/20221008182309/README.md) learning git internals
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221008061334](/zet/20221008061334/README.md) concepts
