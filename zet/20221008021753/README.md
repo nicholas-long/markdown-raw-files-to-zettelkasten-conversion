@@ -1,9 +1,8 @@
-# {{title}}
+# home .local/bin scripts
 
-content
-
-```
-```
+- `~/.local/bin`
+- i think local bin is set up in my environment scripts
+- move rest of dotfiles in too
 
 ` zet/20221008021753/README.md `
 
@@ -13,4 +12,4 @@ content
 
 Tags:
 
-    #todo
+    #bash #awk #me
