@@ -10,7 +10,7 @@ name: zc
 Usage: ./zc action [ options ]
 | action      : [ spawn, search, find, rm, print, enrich, new, refs, preview ]
 | | fzf       : [ spawn, search ]
-| | scripting : [ find, addref, rm, print, enrich, new, refs, preview ]
+| | scripting : [ find, addref, rm, print, enrich, new, refs, preview, enum, unlink, enrich_links_single, fixspaces ]
 Options:
     -e|--edit
     -f|--file|--forwarding-address
