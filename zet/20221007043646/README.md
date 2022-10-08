@@ -8,11 +8,13 @@
         - remove a backlink to something, but keep scripts indexed by leaving link from ` bash -> thing `.
 - converting files from markdown hierarchy of headings
     - creates really sparsely linked cards - need way more links!
+- cool regular expression for searching tags in vscode `^- \[[0-9]+].*git`
 
 ` zet/20221007043646/README.md `
 
 # Related
 
+- 20221007043646
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
 
 - [20221003151267](/zet/20221003151267/README.md) fzf

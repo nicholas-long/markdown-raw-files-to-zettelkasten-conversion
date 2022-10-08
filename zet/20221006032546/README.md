@@ -4,7 +4,6 @@ name: zc
 - spawn new actions from fzf selection window to select lots of references
 - github actions
   - automatically enrich and make references bidirectional
-- cool regular expression for searching tags in vscode `^- \[[0-9]+].*git`
 
 ```
 ./zc -h
