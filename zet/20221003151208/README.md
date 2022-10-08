@@ -7,9 +7,7 @@
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
-
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - ~/kb/hacking/to-try-lists/privesc/linux.md
 

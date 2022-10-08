@@ -13,7 +13,6 @@ xxd -p -c 9999999999999
 # Related
 
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
-
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 

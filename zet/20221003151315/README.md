@@ -8,7 +8,6 @@ echo ${name:="default"}
 # Related
 
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
-
 - [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax
 - [20221003151314](/zet/20221003151314/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it example
 - ~/kb/bash-scripting/substitution-syntax-braces.md

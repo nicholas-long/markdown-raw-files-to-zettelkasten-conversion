@@ -10,7 +10,6 @@ ifconfig tun0 MTU 1000
 
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 
-
 Tags:
 
     

@@ -21,9 +21,7 @@
 # Related
 
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns
-
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
-
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - ~/kb/hacking/to-try-lists/privesc/linux.md
 

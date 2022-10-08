@@ -8,7 +8,6 @@ openssl enc -aes-256-cbc -d -in $FILE -out decryptedfile -k password
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-
 - [20221003150801](/zet/20221003150801/README.md) openssl commands
 - ~/kb/hacking/commands/openssl-commands.md
 

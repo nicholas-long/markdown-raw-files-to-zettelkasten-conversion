@@ -12,7 +12,6 @@ find /etc -writable 2>/dev/null
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-
 - [20221003150919](/zet/20221003150919/README.md) linux enumeration quick commands list all recursively with ls sorting by modification date within directories
 - [20221003150918](/zet/20221003150918/README.md) linux enumeration quick commands enumerate open ports if `ss` is not present
 - [20221003150917](/zet/20221003150917/README.md) linux enumeration quick commands process tree ps

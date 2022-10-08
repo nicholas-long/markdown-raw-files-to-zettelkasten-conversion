@@ -53,7 +53,6 @@ timestamps from youtube
 # Related
 
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
-
 - https://www.youtube.com/watch?v=_8FE3JZIPfo
 - [20221006213414](/zet/20221006213414/README.md) retired machines
 - [20221006214348](/zet/20221006214348/README.md) ippsec

@@ -5,7 +5,6 @@
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-
 - [20221003151105](/zet/20221003151105/README.md) compile windows DLL to run commands DLL code
 - ~/kb/hacking/windows/dll-to-run-commands.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix

@@ -9,7 +9,6 @@
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-
 - [20221003151093](/zet/20221003151093/README.md) windows API enable privilege
 - ~/kb/hacking/windows/enable-privilege-api.md
 

@@ -14,7 +14,6 @@ PayloadsAllTheThings
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-
 - [20221003150975](/zet/20221003150975/README.md) XXE xml external entity
 - ~/kb/hacking/methodology/XXE.md
 

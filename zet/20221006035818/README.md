@@ -83,7 +83,6 @@ these videos are called "beginner boost" but they are filled with incredibly use
 # Related
 
 - [20221007205652](/zet/20221007205652/README.md) find limit recusion depth
-
 - [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method

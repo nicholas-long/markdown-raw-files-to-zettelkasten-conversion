@@ -10,7 +10,6 @@
 # Related
 
 - [20221008042814](/zet/20221008042814/README.md) WIP
-
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221007185940](/zet/20221007185940/README.md) unsorted nodes

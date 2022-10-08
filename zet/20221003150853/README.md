@@ -8,7 +8,6 @@ dig axfr @$IP zonetransfer.me
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-
 - [20221003150855](/zet/20221003150855/README.md) dns commands
 - ~/kb/hacking/commands/dns-commands.md
 

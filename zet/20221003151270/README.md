@@ -14,7 +14,6 @@
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-
 - [20221003151271](/zet/20221003151271/README.md) docker cleanup
 - ~/kb/docker/docker-hd-space.md
 

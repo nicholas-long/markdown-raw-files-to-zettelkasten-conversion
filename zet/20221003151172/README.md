@@ -87,9 +87,7 @@
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d
-
 - [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old
 - ~/kb/hacking/to-try-lists/active-directory-domain.md

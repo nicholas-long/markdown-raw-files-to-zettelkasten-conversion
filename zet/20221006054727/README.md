@@ -9,13 +9,9 @@
 # Related
 
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
-
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
-
 - [20221006145626](/zet/20221006145626/README.md) why does rwxrob's zettelkasten have so few links?
-
 - [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method
-
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 
 Tags:

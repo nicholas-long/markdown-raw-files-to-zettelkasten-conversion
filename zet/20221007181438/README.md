@@ -20,21 +20,13 @@ export prog="$0"
 # Related
 
 - [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
-
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
-
 - [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path
-
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
-
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands
-
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands
-
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
-
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
-
 
 Tags:
 

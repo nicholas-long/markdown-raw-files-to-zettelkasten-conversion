@@ -8,7 +8,6 @@ nvim -d file1 file2
 # Related
 
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
-
 - [20221003150065](/zet/20221003150065/README.md) neovim specific
 - ~/kb/vim/vim.md
 

@@ -8,7 +8,6 @@ sudo tcpdump -i tun0 -w $FILE
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
 - ~/kb/hacking/commands/packet-capture.md
 

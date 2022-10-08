@@ -16,7 +16,6 @@ AdjustTokenPrivileges(hToken, FALSE, &tkp, 0, (PTOKEN_PRIVILEGES)NULL, 0);
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-
 - [20221003151094](/zet/20221003151094/README.md) windows API
 - [20221003151092](/zet/20221003151092/README.md) windows API enable privilege API calls
 - ~/kb/hacking/windows/enable-privilege-api.md

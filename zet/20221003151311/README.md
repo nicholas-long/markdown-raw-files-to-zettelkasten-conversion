@@ -8,7 +8,6 @@ echo ${param:?"param is required. exiting."}
 # Related
 
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
-
 - [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax
 - ~/kb/bash-scripting/substitution-syntax-braces.md
 

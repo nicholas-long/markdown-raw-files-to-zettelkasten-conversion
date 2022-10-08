@@ -25,7 +25,6 @@
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - [20221003151181](/zet/20221003151181/README.md) HTTP compromised CMS login CMS auth code exec / becoming web user
 - ~/kb/hacking/to-try-lists/HTTP.md

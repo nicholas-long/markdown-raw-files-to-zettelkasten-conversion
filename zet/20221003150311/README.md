@@ -6,7 +6,6 @@ To fix NT_STATUS_CONNECTION_DISCONNECTED errors in new Kali installations add cl
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-
 - [20221003150312](/zet/20221003150312/README.md) SMB
 - ~/kb/hacking/misc/assorted-information.md
 

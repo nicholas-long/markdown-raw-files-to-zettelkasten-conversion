@@ -5,7 +5,6 @@
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-
 - [20221003150777](/zet/20221003150777/README.md) MSFVENOM
 - [20221003150765](/zet/20221003150765/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86)
 - ~/kb/hacking/commands/msfvenom-commands.md

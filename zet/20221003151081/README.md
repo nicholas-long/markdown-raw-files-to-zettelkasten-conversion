@@ -5,7 +5,6 @@
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-
 - [20221003151080](/zet/20221003151080/README.md) service account privileges restore
 - [20221003151076](/zet/20221003151076/README.md) service account privileges exploiting
 - ~/kb/hacking/windows/service-account-privileges.md
