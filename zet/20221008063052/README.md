@@ -1,7 +1,13 @@
 # autorunning scripts in cards
 
 the concept of `autorunning scripts in cards`.
-the first victim is the help snippet block on the implementation page.
+
+implemented:
+- help snippet block on the implementation page.
+
+```
+-rwxr-xr-x    1 kali kali  480 2022-10-08 07:34:11.336000000 +0000 autoexec_enrich
+```
 
 ` zet/20221008063052/README.md `
 
