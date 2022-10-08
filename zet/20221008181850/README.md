@@ -22,7 +22,11 @@ the livestream SKILSTAK Beginner Boost 2022 - Week 21 livestream
     - technical debt in go ecosystem right now
 - 4:45:00 - go fix library warnings
 - 5:14:15 - "must" in go
-
+- went off to eat for a while, could check out this section later
+- 6:09:15 - "node is hte last thing you want to pick for a greenfield project"
+- wasm -> nim
+    - python-esque syntax
+    - smaller runtime binaries than rust - ?
 
 ` zet/20221008181850/README.md `
 
