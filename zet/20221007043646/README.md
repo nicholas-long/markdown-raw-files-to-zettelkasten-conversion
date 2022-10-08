@@ -2,6 +2,7 @@
 
 - it is so easy to add tons of links when creating a zettel using fzf as a first step
     - `spawn` action
+- if you want some hierarchies and directory structure to find things while working on something in the terminal, make some symlinks to the zet directories
 - some links should be one-way links
     - ex: bash scripts is a list of all bash scripts and other things relevant to bash
         - remove a backlink to something, but keep scripts indexed by leaving link from ` bash -> thing `.
