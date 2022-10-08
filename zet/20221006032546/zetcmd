@@ -91,7 +91,7 @@ case $action in
     ;;
   s|spawn)
     ids=$(mktemp)
-    $prog find -q "$query" 2>/dev/null | fzf -m | awk '
+    $prog find -q "$query" 2>/dev/null | fzf -m "--prompt=$title >" | awk '
       {
         split($1,arr,"/")
         id = arr[2]

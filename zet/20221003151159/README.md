@@ -1,4 +1,14 @@
 # Credit where credit is due
+
+- this got imported by default from a rule file rules
+  - the one named "one rule to rule them all" - ?
+- pretty cool, could try importing other random markdown
+  - did not realize the markdown conversion process itself could be useful for importing
+    - hierarchical data -> starter graph
+
+original title:
+# Credit where credit is due
+
 The rule file is a combination of rules from various sources
 
 1. https://github.com/praetorian-inc/Hob0Rules (d3adhob0.rule, hob064.rule)
@@ -12,7 +22,9 @@ If we have missed adding someone in credit, feel free to send a note or open a g
 
 # Related
 
+- 20221008042814
+- [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 
 Tags:
 
-    
+    #wtf
