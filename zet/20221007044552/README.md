@@ -6,6 +6,8 @@ concept of a todo list.
 
 # Related
 
+- [20221008042814](/zet/20221008042814/README.md) WIP
+
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix

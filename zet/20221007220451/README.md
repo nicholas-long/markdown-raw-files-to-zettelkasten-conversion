@@ -6,6 +6,8 @@ hacking notes mega-node
 
 # Related
 
+- [20221008042814](/zet/20221008042814/README.md) WIP
+
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 
 - [20221006213311](/zet/20221006213311/README.md) hackthebox

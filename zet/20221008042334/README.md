@@ -9,9 +9,9 @@ it only seems to be happening on this server.
 
 # Related
 
-- 20221006032933
-- 20221007062330
-- 20221003150798
+- [20221006032933](/zet/20221006032933/README.md) problems / issues with zet cmd
+- [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
+- [20221003150798](/zet/20221003150798/README.md) git
 
 Tags:
 

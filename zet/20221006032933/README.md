@@ -12,6 +12,8 @@
 
 # Related
 
+- [20221008042334](/zet/20221008042334/README.md) why does git ask questions instead of pulling changes
+
 - [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process
 
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
