@@ -1,5 +1,6 @@
 # zettelkasten generic ideas
 
+- branches for different devices
 - linked a lot of stuff together for brainstorming in fzf
 - the order of references should matter
     - need to be kept in a paragraph

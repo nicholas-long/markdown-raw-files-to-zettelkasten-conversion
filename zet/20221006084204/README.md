@@ -1,15 +1,13 @@
 # future enhancements to zet cmd
 
-- github action for creating zettel
-  - probably can run a command with arguments
-  - i have changed the zet cmd so vim does not launch unless you use `-e` to make edits now
-- search multiple words in entire zettel content
-- a "wild connecting mode" to just select a bunch of stuff and associate it all together
 - automatic scripts stored in zettels
   - use cases
     - enrich step (quick)
     - cron
   - keep real info and data up to date
+  - be careful when importing scripts from other Zettelkasten...
+- search multiple words in entire zettel content
+- a "wild connecting mode" to just select a bunch of stuff and associate it all together
 - fzf interactive link traversal browsing
 
 ` zet/20221006084204/README.md `

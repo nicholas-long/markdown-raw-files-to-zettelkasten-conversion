@@ -1,6 +1,8 @@
 # findings about implementing zettelkasten
 
 - this is a functioning graph database written in like 350 lines of bash and awk
+- i can find information with links and add info to anything from anywhere
+    - integrated vscode in github platform
 - it is so easy to add tons of links when creating a zettel using fzf as a first step
     - `spawn` action
 - if you want some hierarchies and directory structure to find things while working on something in the terminal, make some symlinks to the zet directories
