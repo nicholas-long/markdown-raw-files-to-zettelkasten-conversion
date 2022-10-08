@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221008054439](/zet/20221008054439/README.md) graph database

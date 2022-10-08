@@ -16,6 +16,7 @@
 
 # Related
 
+- [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221006140520](/zet/20221006140520/README.md) zet cmd spawn feature
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd

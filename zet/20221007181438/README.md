@@ -19,6 +19,7 @@ export prog="$0"
 
 # Related
 
+- [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path

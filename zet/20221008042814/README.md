@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221003150483](/zet/20221003150483/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
