@@ -6,19 +6,7 @@ name: zc
   - automatically enrich and make references bidirectional
 
 ```
-./zc -h
-Usage: ./zc action [ options ]
-| action      : [ spawn, search, find, rm, print, enrich, new, refs, preview ]
-| | fzf       : [ spawn, search ]
-| | scripting : [ find, addref, rm, print, enrich, new, refs, preview ]
-Options:
-    -e|--edit
-    -f|--file|--forwarding-address
-    -q|--query
-    -t|--title|--target
-    -r|--reference
-    -v|--verbose
-    -h|--help
+asdf
 ```
 
 ` zet/20221006032546/README.md `
