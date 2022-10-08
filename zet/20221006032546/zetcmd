@@ -1,4 +1,12 @@
 #!/bin/bash
+
+# ############################################# #
+# #         ▗   ▄▖  ▄▖▄▖ #    Zettelkasten    # #
+# # ▛▘▛▌▌▌▛▌▜▘█▌▛▌▚▘▙▌▛▌ #    is      dope    # #
+# # ▙▖▙▌▙▌▙▌▐▖▙▖█▌▞▖▄▌█▌ #               A    # #
+# #     ▄▌               #    based      F    # #
+# ############################################# #
+
 export ZET_CMD_IMPLEMENTATION=20221006032546
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 export prog="$0"
