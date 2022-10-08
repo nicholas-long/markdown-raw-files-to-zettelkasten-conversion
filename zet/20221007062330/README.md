@@ -9,6 +9,7 @@ the concept of something that is broken.
 
 # Related
 
+- [20221003150098](/zet/20221003150098/README.md) todo
 - [20221008042334](/zet/20221008042334/README.md) why does git ask questions instead of pulling changes
 - [20221003150948](/zet/20221003150948/README.md) python fix SSL errors using requests library
 - [20221003150949](/zet/20221003150949/README.md) python fix SSL errors

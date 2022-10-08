@@ -11,7 +11,7 @@
 # Related
 
 - [20221008042814](/zet/20221008042814/README.md) WIP
-- 20221007062330
+- [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
 
 Tags:
 
