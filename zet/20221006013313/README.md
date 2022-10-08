@@ -9,8 +9,9 @@
 
 # Related
 
+- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221008054439](/zet/20221008054439/README.md) graph database
-- [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221007185940](/zet/20221007185940/README.md) unsorted nodes
@@ -24,10 +25,9 @@
 - https://github.com/rwxrob/zet
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
-- [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221006034046](/zet/20221006034046/README.md) kafka and zettelkasten graph docs
 - https://github.com/naps62/zk
+- [20221008042814](/zet/20221008042814/README.md) WIP
 
 Tags:
 

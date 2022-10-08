@@ -1,8 +1,5 @@
 # problems / issues with zet cmd
 
-- annoying extra line breaks in related section of cards
-  - added when inserting references to cards automatically
-  - also not removed when deleting references
 - no support for one way links = not able to delete backlinks
   - they get reinserted
   - could save list of inserted ones to data file to never insert again
@@ -12,12 +9,12 @@
 
 # Related
 
-- [20221008042334](/zet/20221008042334/README.md) why does git ask questions instead of pulling changes
-- [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process
-- [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
-- [20221006141216](/zet/20221006141216/README.md) weird issue with enrich
-- [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
+- [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
+- [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process
+- [20221006141216](/zet/20221006141216/README.md) weird issue with enrich
+- [20221008042334](/zet/20221008042334/README.md) why does git ask questions instead of pulling changes
 
 Tags:
 
