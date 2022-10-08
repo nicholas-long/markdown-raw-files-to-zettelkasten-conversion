@@ -45,7 +45,9 @@ while [[ $# -gt 0 ]]; do
       ;;
     -h|--help)
       echo "Usage: $0 action [ options ]"
-      echo "| action: [ new, rm, search, print, enrich, refs, preview ]"
+      echo "| action      : [ spawn, search, find, rm, print, enrich, new, refs, preview ]"
+      echo "| | fzf       : [ spawn, search ]"
+      echo "| | scripting : [ find, addref, rm, print, enrich, new, refs, preview ]"
       echo "Options:"
       cat "$prog" | grep '^\s\+-.|--.*' | sed 's/)$//'
       exit 1

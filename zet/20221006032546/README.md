@@ -9,7 +9,9 @@ name: zc
 ```
 ./zc -h
 Usage: ./zc action [ options ]
-| action: [ new, rm, search, print, enrich, refs, preview ]
+| action      : [ spawn, search, find, rm, print, enrich, new, refs, preview ]
+| | fzf       : [ spawn, search ]
+| | scripting : [ find, addref, rm, print, enrich, new, refs, preview ]
 Options:
     -e|--edit
     -f|--file|--forwarding-address
