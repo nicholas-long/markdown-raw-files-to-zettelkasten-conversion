@@ -6,6 +6,7 @@ the process of converting markdown directories/files/heading level hierarchy not
 
 # Related
 
+- [20221008052510](/zet/20221008052510/README.md) 80-20 rule
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
 - [20221006220044](/zet/20221006220044/README.md) adding stream notes
