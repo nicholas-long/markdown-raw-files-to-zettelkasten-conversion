@@ -9,6 +9,7 @@ node for video notes.
 
 # Related
 
+- [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006220044](/zet/20221006220044/README.md) adding stream notes

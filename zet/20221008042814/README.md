@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
