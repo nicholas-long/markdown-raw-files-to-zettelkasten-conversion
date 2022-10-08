@@ -70,10 +70,9 @@ while [[ $# -gt 0 ]]; do
   shift
 done
 
-echo "$action $title $arg $filearg" > /dev/stderr
+echo "[diag] $action $title $arg $filearg" > /dev/stderr
 case $action in
   n|new)
-    echo "making new"
     id=$(date -u +%Y%m%d%H%M%S)
     mkdir -p zet/$id
     filepath="zet/$id/README.md"
@@ -88,7 +87,7 @@ case $action in
     if [ 0 != "$makeedit" ]; then
       nvim "$filepath"
     fi
-    echo "Created Zettel ID $id"
+    echo "created zet ID $id" > /dev/stderr
     ;;
   spawn)
     ids=$(mktemp)
@@ -102,7 +101,7 @@ case $action in
     if [ -z "$title" ]; then
       title="$query"
     fi
-    newid=$($prog new -t "$title" | awk '/Created Zettel ID/ { print $NF }')
+    newid=$($prog new -t "$title" | awk '/created zet ID/ { print $NF }')
     sed -i '/{{ref}}/d' zet/$newid/README.md # remove template ref stub
     for link in $(cat $ids); do
       $prog addref -t "$newid" "$link"
@@ -267,6 +266,13 @@ case $action in
 
     cd - > /dev/null
     ;;
+  fixspaces)
+    id="$arg"
+    tf=$(mktemp)
+    zet/$ZET_CMD_IMPLEMENTATION/fixlines zet/$id/README.md > $tf
+    bat $tf || cat $tf
+    rm $tf
+    ;;
   enrich)
     scanoutput=$(mktemp)
     find zet -name README.md | xargs zet/$ZET_CMD_IMPLEMENTATION/scanrefs > $scanoutput
@@ -315,5 +321,12 @@ case $action in
       command = (ENVIRON["prog"] " unlink " $2 " " $3)
       system ( command )
     }' $scanoutput
+
+    # fix spaces
+    awk '
+      $1 == "emptylines" {
+        command = (ENVIRON["prog"] " fixspaces " $2)
+        system ( command )
+      }' $scanoutput
     ;;
 esac
