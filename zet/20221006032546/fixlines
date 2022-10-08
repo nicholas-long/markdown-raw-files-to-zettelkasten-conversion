@@ -1,15 +1,22 @@
 #!/usr/bin/awk -f
+# reformat whole markdown file
 ENDFILE {
-  if (last ~ /^    #/){ # take tags from last line of prev file
-    gsub(/^ +/,"") # strip leading spaces
-    gsub(/ +$/,"") # strip trailing spaces
-    print "tags", fileid, $0
-  }
   if (empties > 3) { # 3 empty lines allowed around references headings for zettel format
     print "emptylines", fileid, empties
   }
+  scanning=0
 }
-/^# [Rr]elated/ { scanning = 1 }
-!scanning { next }
+scanning && /^$/ { next } # skip blank lines after related
+/^Tags/ {
+  print ""
+  print
+  print ""
+  next
+}
+{ print }
+/^# [Rr]elated/ {
+  if (last !~ /^$/) print "" # insert blank before related
+  scanning = 1
+  print ""
+}
 { last = $0 }
-scanning && /^$/ { empties++ }
