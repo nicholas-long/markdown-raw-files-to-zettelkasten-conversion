@@ -6,19 +6,13 @@ the process of converting markdown directories/files/heading level hierarchy not
 
 # Related
 
+- 20221007043646
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
-
-
 - [20221006220044](/zet/20221006220044/README.md) adding stream notes
-
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
-
 - [20221006145626](/zet/20221006145626/README.md) why does rwxrob's zettelkasten have so few links?
-
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
-
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
-
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - https://github.com/nicholas-long/markdown-raw-files-to-zettelkasten-conversion
 - [20221006012927](/zet/20221006012927/README.md) update multiple zettel links
