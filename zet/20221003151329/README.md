@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221008081231](/zet/20221008081231/README.md) debugging
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node

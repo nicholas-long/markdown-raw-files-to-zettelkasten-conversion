@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221008081231](/zet/20221008081231/README.md) debugging
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221003151022](/zet/20221003151022/README.md) analyzing source code go web server

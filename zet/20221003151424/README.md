@@ -6,6 +6,7 @@ This is a collection of bash scripts
 
 # Related
 
+- [20221008081231](/zet/20221008081231/README.md) debugging
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221008052510](/zet/20221008052510/README.md) 80-20 rule
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer

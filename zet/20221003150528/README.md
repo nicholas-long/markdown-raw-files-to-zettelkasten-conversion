@@ -7,6 +7,7 @@ set follow-fork-mode child
 
 # Related
 
+- [20221008081231](/zet/20221008081231/README.md) debugging
 - [20221003150529](/zet/20221003150529/README.md) gdb commands
 - ~/kb/hacking/pwn/gdb-commands.md
 

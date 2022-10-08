@@ -73,6 +73,7 @@
 
 # Related
 
+- [20221008081231](/zet/20221008081231/README.md) debugging
 - [20221007194303](/zet/20221007194303/README.md) github
 
 Tags:
