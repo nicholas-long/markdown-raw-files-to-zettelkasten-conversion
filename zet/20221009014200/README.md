@@ -6,6 +6,7 @@ the concept of a `command`
 
 # Related
 
+- [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
 - [20221009015743](/zet/20221009015743/README.md) dockerfile
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221008212802](/zet/20221008212802/README.md) software program
