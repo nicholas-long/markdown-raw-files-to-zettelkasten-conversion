@@ -9,7 +9,7 @@ name: zc
 ./zc -h
 Usage: ./zc action [ options ]
 | action      : [ spawn, search, find, rm, print, enrich, new, refs, preview ]
-| | fzf       : [ spawn, search ]
+| | fzf       : [ spawn, search, vilink, viunlink ]
 | | scripting : [ find, addref, rm, print, enrich, new, refs, preview, enum, unlink, enrich_links_single, fixspaces ]
 Options:
     -e|--edit
