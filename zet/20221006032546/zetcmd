@@ -74,6 +74,14 @@ while [[ $# -gt 0 ]]; do
   shift
 done
 
+# this doesn't work yet
+#if [ "" == "$action" ]; then
+#  echo "defaulting to menu" > /dev/stderr
+#  env # debug
+#  export action="menu"
+#  sleep 3
+#fi
+
 echo "[diag] $action $title $arg $filearg" > /dev/stderr
 case $action in
   n|new)
@@ -93,7 +101,7 @@ case $action in
     fi
     echo "created zet ID $id"
     ;;
-  s|spawn)
+  spawn)
     if [ -z "$title" ]; then
       read -p "enter title> " title
     fi
@@ -153,7 +161,8 @@ case $action in
     ' $arg
     ;;
   menu)
-    $prog $(cat << EOF | fzf
+    selection=$(mktemp)
+    (cat << EOF
 search -p
 search -e
 spawn
@@ -161,7 +170,9 @@ connectome
 vilink
 viunlink
 EOF
-)
+    ) | fzf > $selection
+    $prog $(cat $selection)
+    rm "$selection"
     ;;
   connectome)
     find zet -name README.md | xargs awk '
