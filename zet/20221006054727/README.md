@@ -8,6 +8,7 @@
 
 # Related
 
+- [20221009022138](/zet/20221009022138/README.md) parse text in zettelkasten with python scripts
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006145626](/zet/20221006145626/README.md) why does rwxrob's zettelkasten have so few links?

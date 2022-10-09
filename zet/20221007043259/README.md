@@ -21,6 +21,7 @@
 
 # Related
 
+- [20221009022138](/zet/20221009022138/README.md) parse text in zettelkasten with python scripts
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221003151440](/zet/20221003151440/README.md) awk scripting replace words with colorized versions
 - [20221003151432](/zet/20221003151432/README.md) awk scripting filter the CVE list for potentially valid, relevant vulnerabilities
