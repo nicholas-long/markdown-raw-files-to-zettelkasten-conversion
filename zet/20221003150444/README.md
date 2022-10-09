@@ -10,6 +10,7 @@ https://github.com/carlospolop/hacktricks
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221007193324](/zet/20221007193324/README.md) github actions
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
+- [20221009183745](/zet/20221009183745/README.md) TODO: categorize github knowledge bases by attaching graph nodes
 
 Tags:
 

@@ -6,7 +6,11 @@ concept of the github website owned by the company microsoft.
 
 # Related
 
-- [20221009032056](/zet/20221009032056/README.md) keeping track of htb ctf flags
+- [20221007193634](/zet/20221007193634/README.md) example github actions scripts
+- [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
+- [20221003150443](/zet/20221003150443/README.md) seclists github
+- [20221003150798](/zet/20221003150798/README.md) git
+- [20221007193324](/zet/20221007193324/README.md) github actions
 - [20221009012547](/zet/20221009012547/README.md) Github UI tricks
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008214406](/zet/20221008214406/README.md) sharing programming hiveminds
@@ -22,11 +26,8 @@ concept of the github website owned by the company microsoft.
 - [20221003150952](/zet/20221003150952/README.md) OSINT organizations github OSINT
 - [20221003150442](/zet/20221003150442/README.md) payloads payloadsallthethings github
 - [20221003150444](/zet/20221003150444/README.md) hacktricks markdown data github
-- [20221007193634](/zet/20221007193634/README.md) example github actions scripts
-- [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
-- [20221003150443](/zet/20221003150443/README.md) seclists github
-- [20221003150798](/zet/20221003150798/README.md) git
-- [20221007193324](/zet/20221007193324/README.md) github actions
+- [20221009032056](/zet/20221009032056/README.md) keeping track of htb ctf flags
+- [20221009183745](/zet/20221009183745/README.md) TODO: categorize github knowledge bases by attaching graph nodes
 
 Tags:
 

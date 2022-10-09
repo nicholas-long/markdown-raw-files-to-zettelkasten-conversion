@@ -96,6 +96,7 @@ finished through page 12 of search https://github.com/search?p=12&q=zettelkasten
 
 # Related
 
+- [20221009183745](/zet/20221009183745/README.md) TODO: categorize github knowledge bases by attaching graph nodes
 - [20221008214406](/zet/20221008214406/README.md) sharing programming hiveminds
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221008054439](/zet/20221008054439/README.md) graph database
