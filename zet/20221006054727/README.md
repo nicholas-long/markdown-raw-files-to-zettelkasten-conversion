@@ -8,7 +8,7 @@
 
 # Related
 
-- 20221003151371
+- [20221003151371](/zet/20221003151371/README.md) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date
 - https://github.com/nicholas-long/kb/blob/main/bash-scripting/git-file-modification-date.sh
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
