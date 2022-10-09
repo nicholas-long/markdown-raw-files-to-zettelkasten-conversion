@@ -94,6 +94,9 @@ case $action in
     echo "created zet ID $id"
     ;;
   s|spawn)
+    if [ -z "$title" ]; then
+      read -p "enter title> " title
+    fi
     ids=$(mktemp)
     $prog find -q "$query" 2>/dev/null | fzf --preview-window=up -m "--prompt=$title >" | awk '
       {
@@ -102,9 +105,6 @@ case $action in
         print id
       }
       ' > $ids
-    if [ -z "$title" ]; then
-      title="$query"
-    fi
     newid=$($prog new -t "$title" | awk '/[Cc]reated [Zz]ett?e?l? ID/ { print $NF }')
     echo "[diag] newid $newid" 2>/dev/stderr
     sed -i '/{{ref}}/d' zet/$newid/README.md # remove template ref stub
