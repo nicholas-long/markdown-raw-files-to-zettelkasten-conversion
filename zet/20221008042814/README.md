@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221009091132](/zet/20221009091132/README.md) new links should come in at the bottom
 - [20221009022138](/zet/20221009022138/README.md) parse text in zettelkasten with python scripts

@@ -10,6 +10,7 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 
 # Related
 
+- [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
