@@ -91,6 +91,7 @@
 
 # Related
 
+- [20221009015558](/zet/20221009015558/README.md) docker
 - [20221008215655](/zet/20221008215655/README.md) user account
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node

@@ -8,6 +8,7 @@ That should make it initialize only once.
 
 # Related
 
+- [20221009015558](/zet/20221009015558/README.md) docker
 - [20221003150206](/zet/20221003150206/README.md) example docker to initialize ksql commands initialize.sh
 - [20221003150205](/zet/20221003150205/README.md) example docker to initialize ksql commands ksql.sh
 - [20221003150204](/zet/20221003150204/README.md) example docker to initialize ksql commands entry.sh

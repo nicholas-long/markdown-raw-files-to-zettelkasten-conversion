@@ -5,6 +5,7 @@ Build an Alpine image and start it using the flag `security.privileged=true`, fo
 
 # Related
 
+- [20221009021452](/zet/20221009021452/README.md) container
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221003150932](/zet/20221003150932/README.md) lxd priv esc without painful build problems lxd priv esc x64

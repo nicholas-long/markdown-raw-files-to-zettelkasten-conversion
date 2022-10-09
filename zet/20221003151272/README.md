@@ -10,6 +10,8 @@ alias dcb="docker compose build"
 
 # Related
 
+- [20221009021452](/zet/20221009021452/README.md) container
+- [20221009015743](/zet/20221009015743/README.md) dockerfile
 
 Tags:
 

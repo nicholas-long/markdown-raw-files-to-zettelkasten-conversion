@@ -25,6 +25,7 @@ services:
 
 # Related
 
+- [20221009015558](/zet/20221009015558/README.md) docker
 - [20221003150216](/zet/20221003150216/README.md) Initialize topics in dockers Full example
 - ~/kb/kafka/initialize-topics.md
 

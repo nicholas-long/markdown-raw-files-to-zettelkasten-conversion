@@ -20,6 +20,7 @@ echo
 
 # Related
 
+- [20221009015558](/zet/20221009015558/README.md) docker
 - [20221003150207](/zet/20221003150207/README.md) example docker to initialize ksql commands
 - ~/kb/kafka/ksql-initialize-example.md
 

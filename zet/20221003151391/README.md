@@ -21,6 +21,7 @@ docker run --rm $imagename --help
 
 # Related
 
+- [20221009015558](/zet/20221009015558/README.md) docker
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 

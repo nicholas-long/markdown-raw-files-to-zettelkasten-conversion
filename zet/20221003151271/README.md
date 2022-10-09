@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009015558](/zet/20221009015558/README.md) docker
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221008212519](/zet/20221008212519/README.md) programming language
 - [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control

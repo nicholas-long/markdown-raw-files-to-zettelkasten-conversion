@@ -48,15 +48,16 @@ ENTRYPOINT [ "pyrit" ]
 
 # Related
 
+- [20221009021452](/zet/20221009021452/README.md) container
 - https://github.com/nicholas-long/docker-collection/blob/main/kali-pyrit/Dockerfile
-- 20221003151378
-- 20221003151374
-- 20221003151398
-- 20221003151272
-- 20221009015032
-- 20221008214827
-- 20221009014200
-- 20221008215400
+- [20221003151378](/zet/20221003151378/README.md) bash scripting build and run enum4linux-ng docker
+- [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker
+- [20221003151398](/zet/20221003151398/README.md) bash scripting build and run impacket docker
+- [20221003151272](/zet/20221003151272/README.md) docker compose aliases for convenience
+- [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
+- [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
+- [20221008215400](/zet/20221008215400/README.md) file
 
 Tags:
 

@@ -6,6 +6,8 @@ the concept of `the concept of utility or being useful`
 
 # Related
 
+- [20221009021452](/zet/20221009021452/README.md) container
+- [20221009015743](/zet/20221009015743/README.md) dockerfile
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?
