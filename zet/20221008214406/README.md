@@ -6,6 +6,7 @@ starting new node for idea of sharing hiveminds or knowledge bases between progr
 - research more rwxrob tips
 - documentation and references and code are connected through zettel
 - if a zettel / card scripts and interacts with another, link documentation together
+- make a link one way by removing it from related and putting it in content and viunlink
 
 ```
 ```
