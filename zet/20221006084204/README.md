@@ -15,6 +15,7 @@
 
 # Related
 
+- [20221009102918](/zet/20221009102918/README.md) get titles in tag links
 - [20221009100510](/zet/20221009100510/README.md) concept of finished / being done
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
