@@ -25,8 +25,8 @@ Options:
 
 # Related
 
+- [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221008210746](/zet/20221008210746/README.md) use title of zettel as fzf prompt
-
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
@@ -49,6 +49,7 @@ Options:
 - https://github.com/naps62/zk
 - https://www.google.com/search?q=zettelkasten+fzf+vim
 - [20221007205652](/zet/20221007205652/README.md) find limit recusion depth
+
 Tags:
 
     #zettelkasten #bash #todo #coding 

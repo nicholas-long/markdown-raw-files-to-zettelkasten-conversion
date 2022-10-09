@@ -6,6 +6,7 @@ linux reference links and concepts
 
 # Related
 
+- [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - [20221009001455](/zet/20221009001455/README.md) RHCSE Red Hat Certified System Administrator

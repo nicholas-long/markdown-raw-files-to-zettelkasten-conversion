@@ -6,6 +6,7 @@ the concept of `coding / programming`
 
 # Related
 
+- [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221008214631](/zet/20221008214631/README.md) useful vim hotkeys
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines
 - [20221003150590](/zet/20221003150590/README.md) php code

@@ -6,6 +6,7 @@ the concept of `the concept of utility or being useful`
 
 # Related
 
+- [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?
 - [20221009012547](/zet/20221009012547/README.md) Github UI tricks
