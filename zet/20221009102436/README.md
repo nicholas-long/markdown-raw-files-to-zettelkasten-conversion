@@ -4,6 +4,10 @@ index of `hacking to try lists`.
 
 ` zet/20221009102436/README.md `
 
+```bash
+grep 'to-try' $(find zet -name README.md) | grep '~'
+```
+
 # Related
 
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
