@@ -46,7 +46,7 @@ while [[ $# -gt 0 ]]; do
     -h|--help)
       echo "Usage: $0 action [ options ]"
       echo "| action      : [ spawn, search, find, rm, print, enrich, new, refs, preview ]"
-      echo "| | fzf       : [ spawn, search, vilink, viunlink, connectome ]"
+      echo "| | fzf       : [ menu, spawn, search, vilink, viunlink, connectome ]"
       echo "| | scripting : [ find, addref, rm, print, enrich, new, refs, preview, enum, unlink, enrich_links_single, fixspaces ]"
       echo "Options:"
       cat "$prog" | grep '^\s\+-.|--.*' | sed 's/)$//'
@@ -91,7 +91,7 @@ case $action in
     ;;
   s|spawn)
     ids=$(mktemp)
-    $prog find -q "$query" 2>/dev/null | fzf -m "--prompt=$title >" | awk '
+    $prog find -q "$query" 2>/dev/null | fzf --preview-window=up -m "--prompt=$title >" | awk '
       {
         split($1,arr,"/")
         id = arr[2]
@@ -148,6 +148,17 @@ case $action in
       /^# [Rr]elated/ { refs = 1 }
     ' $arg
     ;;
+  menu)
+    $prog $(cat << EOF | fzf
+search
+search -e
+spawn
+connectome
+vilink
+viunlink
+EOF
+)
+    ;;
   connectome)
     find zet -name README.md | xargs awk '
       BEGIN { OFS="\t" }
@@ -156,7 +167,7 @@ case $action in
         head = $0
       }
       /^# Related/,/^Tags/ { if ($0 ~ /^- /) print FILENAME, head, $0 }
-    ' | fzf -m
+    ' | fzf -m --preview="$prog preview -f {} 2>/dev/null" --preview-window=up
     ;;
   search) # fuzzy search with optional content filter
     if [ -z "$query" ]; then
@@ -165,7 +176,10 @@ case $action in
     if [ 0 != "$makeedit" ]; then
       $prog find -q "$query" | fzf -m --preview="$prog preview -f {} 2>/dev/null" | awk '{print $1}' | xargs $EDITOR -p # does this work in normal vim?
     else
-      $prog find -q "$query" | fzf -m --preview="$prog preview -f {} 2>/dev/null"
+      selections=$(mktemp)
+      $prog find -q "$query" | fzf -m --preview="$prog preview -f {} 2>/dev/null" --preview-window=up 2>/dev/null > $selections
+      awk '{print $1}' "$selections" | xargs -n 1 $prog preview -f
+      rm "$selections"
     fi
     ;;
   find) # full content search
@@ -219,7 +233,7 @@ case $action in
   preview)
     if [ ! -z "$filearg" ]; then
       filearg=$(echo $filearg | awk '{print $1}')
-      bat --color=always "$filearg"
+      bat --language=md --paging=never --style=plain --color=always "$filearg"
     fi
     ;;
   unlink)

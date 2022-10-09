@@ -4,12 +4,14 @@ name: zc
 - spawn new actions from fzf selection window to select lots of references
 - github actions
   - automatically enrich and make references bidirectional
-
+- installing `echo "$(pwd)/zc \$@" > ~/.local/bin/z`
+  - run with `z menu`
+- help text
 ```
 ./zc -h
 Usage: ./zc action [ options ]
 | action      : [ spawn, search, find, rm, print, enrich, new, refs, preview ]
-| | fzf       : [ spawn, search, vilink, viunlink, connectome ]
+| | fzf       : [ menu, spawn, search, vilink, viunlink, connectome ]
 | | scripting : [ find, addref, rm, print, enrich, new, refs, preview, enum, unlink, enrich_links_single, fixspaces ]
 Options:
     -e|--edit
