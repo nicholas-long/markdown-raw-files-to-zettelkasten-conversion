@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
