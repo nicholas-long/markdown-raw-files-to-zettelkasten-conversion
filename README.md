@@ -11,3 +11,4 @@ Attempt at converting a library of raw markdown files in directories into a Zett
 - [work in progress](/zet/20221008042814/README.md)
 - screenshot
 ![screenshot of video notes](zet/20221009023024/screenshot_2022-10-08_213214.png)
+- [stuff that should be on this page](/zet/20221009192000/README.md)
