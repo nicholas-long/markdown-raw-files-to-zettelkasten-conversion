@@ -14,6 +14,7 @@ Usage: ./zc action [ options ]
 | | fzf       : [ menu, spawn, search, vilink, viunlink, connectome ]
 | | scripting : [ find, addref, rm, print, enrich, new, refs, preview, enum, unlink, enrich_links_single, fixspaces ]
 Options:
+    -p|--print
     -e|--edit
     -f|--file|--forwarding-address
     -q|--query
