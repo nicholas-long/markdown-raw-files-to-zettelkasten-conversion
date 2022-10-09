@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
 - [20221008212519](/zet/20221008212519/README.md) programming language
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221008052510](/zet/20221008052510/README.md) 80-20 rule

@@ -6,6 +6,7 @@ This is a collection of bash scripts
 
 # Related
 
+- [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
 - [20221008212519](/zet/20221008212519/README.md) programming language

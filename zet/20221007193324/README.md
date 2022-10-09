@@ -6,6 +6,7 @@ the concept of github actions.
 
 # Related
 
+- [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221008061334](/zet/20221008061334/README.md) concepts

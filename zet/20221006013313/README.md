@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
 - [20221009162948](/zet/20221009162948/README.md) useful vim hotkeys for zettelkasten
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221009022138](/zet/20221009022138/README.md) parse text in zettelkasten with python scripts
