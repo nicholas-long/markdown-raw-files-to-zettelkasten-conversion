@@ -10,6 +10,10 @@
 - search multiple words in entire zettel content
 - a "wild connecting mode" to just select a bunch of stuff and associate it all together
 - fzf interactive link traversal browsing
+- git history idea
+  - put new links on bottom instead of top?
+- parse abstractions out of text using python library - which one?
+- put timestamps on bottom? `{{date}}`
 
 ` zet/20221006084204/README.md `
 
