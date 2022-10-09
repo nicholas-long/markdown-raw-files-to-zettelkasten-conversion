@@ -12,7 +12,7 @@ indexdothtml="$mydir/../../README.md"
 # search for the IDs we found
 grep -Eo -f $references "$indexdothtml" > $found
 {
-  echo "Reference count:  $(wc -l $found) of $(wc -l $references)"
+  echo "Reference count:  $(wc -l $found | awk '{print $1}') of $(wc -l $references | awk '{print $1}')"
   echo "Missing:"
   grep -v -f $found $references
 } > $mydir/missing
@@ -27,8 +27,7 @@ BEGIN { pr = 0 }
 /```/ && pr { pr = 0; print; next }
 /```/ && !pr {
   command = ENVIRON["snippetcommand"]
-  print(command)
-  command = command " 2>/dev/null"
+  #command = command " 2>/dev/null"
   while ((command | getline) > 0) {
     print $0
   }

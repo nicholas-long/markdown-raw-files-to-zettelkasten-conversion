@@ -3,8 +3,7 @@
 list of links to put on the main page.
 
 ```
-cat /home/runner/work/markdown-raw-files-to-zettelkasten-conversion/markdown-raw-files-to-zettelkasten-conversion/zet/20221009192000/missing
-Reference count:  6 /tmp/tmp.yvTrULwyDS of 8 /tmp/tmp.8BY8CxDil7
+Reference count:  6 of 8
 Missing:
 20221009100510
 20221008183326
