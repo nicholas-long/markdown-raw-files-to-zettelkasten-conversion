@@ -2,7 +2,7 @@
 
 screenshot of taking notes
 
-![screenshot of video notes](/zet/20221009023024/Screenshot 2022-10-08 213214.png)
+![screenshot of video notes](/zet/20221009023024/screenshot_2022-10-08_213214.png)
 
 ` zet/20221009023024/README.md `
 
