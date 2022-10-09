@@ -1,6 +1,7 @@
 # findings about implementing zettelkasten
 
 - this is a functioning graph database written in like 350 lines of bash and awk
+- can tag the cards by adding files: find files by name to list
 - i can find information with links and add info to anything from anywhere
     - integrated vscode in github platform
 - it is so easy to add tons of links when creating a zettel using fzf as a first step
