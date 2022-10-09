@@ -28,6 +28,7 @@ Options:
 
 # Related
 
+- [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221009091132](/zet/20221009091132/README.md) new links should come in at the bottom
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
