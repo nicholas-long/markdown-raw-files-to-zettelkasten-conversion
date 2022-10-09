@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 - [20221003150551](/zet/20221003150551/README.md) linux

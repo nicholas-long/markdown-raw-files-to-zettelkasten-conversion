@@ -6,6 +6,7 @@ the process of `preparing for the OSCP exam`
 
 # Related
 
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
 - [20221003151040](/zet/20221003151040/README.md) create windows backdoor accounts
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host

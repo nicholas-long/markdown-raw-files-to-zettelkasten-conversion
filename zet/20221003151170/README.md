@@ -5,6 +5,7 @@
 
 # Related
 
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221003151172](/zet/20221003151172/README.md) active directory domain

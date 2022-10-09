@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008221548](/zet/20221008221548/README.md) website
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
