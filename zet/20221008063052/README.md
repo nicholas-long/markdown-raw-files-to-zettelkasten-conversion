@@ -13,6 +13,7 @@ implemented:
 
 # Related
 
+- [20221009095853](/zet/20221009095853/README.md) finished
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
