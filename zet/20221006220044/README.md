@@ -28,7 +28,7 @@ the process of adding stream notes today.
 - [20221006213311](/zet/20221006213311/README.md) hackthebox
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
-- 20221009095853
+- [20221009095853](/zet/20221009095853/README.md) finished
 
 Tags:
 

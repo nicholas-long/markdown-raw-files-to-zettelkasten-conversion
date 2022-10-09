@@ -6,6 +6,7 @@ things that are finished.
 
 # Related
 
+- [20221006220044](/zet/20221006220044/README.md) adding stream notes
 - [20221009162538](/zet/20221009162538/README.md) add menu
 - [20221009100510](/zet/20221009100510/README.md) concept of finished / being done
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
