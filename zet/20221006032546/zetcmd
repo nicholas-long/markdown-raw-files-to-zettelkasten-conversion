@@ -177,7 +177,7 @@ EOF
       $prog find -q "$query" | fzf -m --preview="$prog preview -f {} 2>/dev/null" | awk '{print $1}' | xargs $EDITOR -p # does this work in normal vim?
     else
       selections=$(mktemp)
-      $prog find -q "$query" | fzf -m --preview="$prog preview -f {} 2>/dev/null" --preview-window=up 2>/dev/null > $selections
+      $prog find -q "$query" | fzf -m --preview="$prog preview -f {} 2>/dev/null" --preview-window=up > $selections
       awk '{print $1}' "$selections" | xargs -n 1 $prog preview -f
       rm "$selections"
     fi
