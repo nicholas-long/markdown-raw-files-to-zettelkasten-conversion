@@ -154,7 +154,7 @@ case $action in
     ;;
   menu)
     $prog $(cat << EOF | fzf
-search
+search -p
 search -e
 spawn
 connectome
@@ -218,8 +218,7 @@ EOF
         for (n = 1; n < NR; n++) {
           previd = arr[n]
           command = (ENVIRON["prog"] " addref -t " latestid " " previd)
-          print command
-          #system(command)
+          system(command)
         }
       }
     '
