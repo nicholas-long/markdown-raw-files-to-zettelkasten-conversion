@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
+- [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - [20221008221548](/zet/20221008221548/README.md) website
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221008210209](/zet/20221008210209/README.md) nim makes smaller wasm binaries than rust

@@ -20,6 +20,7 @@ hacker concept of CMS - slang lingo for web app / service
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008221548](/zet/20221008221548/README.md) website
 - [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
 - [20221003150242](/zet/20221003150242/README.md) identify service

@@ -6,6 +6,7 @@ node for hackthebox.
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221006220044](/zet/20221006220044/README.md) adding stream notes
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d

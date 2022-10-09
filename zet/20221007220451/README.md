@@ -6,6 +6,8 @@ hacking notes mega-node
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
+- [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - [20221008194048](/zet/20221008194048/README.md) good DLLs to hide in for sideloading
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
 - [20221008195148](/zet/20221008195148/README.md) seclists etc files project

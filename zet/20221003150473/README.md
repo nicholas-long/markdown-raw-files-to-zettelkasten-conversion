@@ -10,6 +10,7 @@ runascs Username Password C:\path\to\file\shell.exe
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
 - ~/kb/hacking/powershell/powershell-tricks.md
 

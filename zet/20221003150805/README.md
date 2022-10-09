@@ -7,6 +7,7 @@ hydra -C /usr/share/seclists/Passwords/Default-Credentials/ssh-betterdefaultpass
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150807](/zet/20221003150807/README.md) brute force default credentials
 - ~/kb/hacking/commands/hydra-default-credentials.md
 

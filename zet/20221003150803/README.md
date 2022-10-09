@@ -6,6 +6,7 @@ header `Authorization: Basic FUZZ`
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150804](/zet/20221003150804/README.md) brute force default credentials tomcat
 - ~/kb/hacking/commands/hydra-default-credentials.md
 

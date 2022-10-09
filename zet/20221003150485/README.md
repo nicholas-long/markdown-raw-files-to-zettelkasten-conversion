@@ -16,6 +16,7 @@ Invoke-Command -Computer 127.0.0.1 -Credential $cred -ScriptBlock { IEX(New-Obje
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150486](/zet/20221003150486/README.md) active directory get GMSA service account properties
 - [20221003150484](/zet/20221003150484/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob
 - ~/kb/hacking/powershell/powershell-enumeration-commands.md

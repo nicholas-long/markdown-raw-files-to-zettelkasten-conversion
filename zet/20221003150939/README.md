@@ -8,6 +8,7 @@ sys.path
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150940](/zet/20221003150940/README.md) python imports library search path
 - ~/kb/hacking/python/python-imports.md
 

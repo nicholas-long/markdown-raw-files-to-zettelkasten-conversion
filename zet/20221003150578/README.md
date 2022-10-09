@@ -5,6 +5,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150582](/zet/20221003150582/README.md) php LFI
 - ~/kb/hacking/php/lfi.md
 

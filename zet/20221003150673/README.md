@@ -6,6 +6,7 @@ crackmapexec smb --help
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221008215530](/zet/20221008215530/README.md) username
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node

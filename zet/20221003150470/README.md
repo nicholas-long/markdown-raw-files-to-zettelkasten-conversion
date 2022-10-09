@@ -11,6 +11,7 @@ New-PSDrive -Name "temp" -PSProvider "FileSystem" -Credential $cred -Root "\\192
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks
 - ~/kb/hacking/powershell/powershell-tricks.md
 

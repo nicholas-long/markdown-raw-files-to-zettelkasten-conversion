@@ -5,6 +5,7 @@ https://github.com/ropnop/kerbrute
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008215530](/zet/20221008215530/README.md) username
 - [20221003150752](/zet/20221003150752/README.md) kerbrute enumerate users using wordlist
 - [20221003150751](/zet/20221003150751/README.md) kerbrute password spray users from user list file

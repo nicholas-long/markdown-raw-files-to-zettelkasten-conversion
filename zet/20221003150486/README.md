@@ -7,6 +7,7 @@ Get-AdServiceAccount AccountUsername -properties *
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - [20221003150485](/zet/20221003150485/README.md) active directory get GMSA service account properties get GMSA password and run commands

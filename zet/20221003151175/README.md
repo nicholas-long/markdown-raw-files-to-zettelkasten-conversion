@@ -20,6 +20,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008081231](/zet/20221008081231/README.md) debugging
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 

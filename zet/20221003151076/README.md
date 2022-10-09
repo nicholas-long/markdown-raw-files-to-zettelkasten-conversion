@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008215655](/zet/20221008215655/README.md) user account
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221003151081](/zet/20221003151081/README.md) service account privileges

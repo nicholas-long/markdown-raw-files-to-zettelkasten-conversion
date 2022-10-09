@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150995](/zet/20221003150995/README.md) GraphQL APIs GraphQL tools
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
 - [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing

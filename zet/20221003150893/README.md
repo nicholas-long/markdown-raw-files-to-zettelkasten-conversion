@@ -8,6 +8,8 @@ getfacl -R -s /
 
 # Related
 
+- [20221009001455](/zet/20221009001455/README.md) RHCSE Red Hat Certified System Administrator
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 
 Tags:
 

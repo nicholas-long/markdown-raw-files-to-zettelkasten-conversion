@@ -18,6 +18,7 @@ Hash mode #20
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008215139](/zet/20221008215139/README.md) hash / checksum
 - [20221008215325](/zet/20221008215325/README.md) password
 

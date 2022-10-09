@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d
 - [20221003151100](/zet/20221003151100/README.md) powershell commands download and execute script

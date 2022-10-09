@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert
 - [20221003150506](/zet/20221003150506/README.md) python pwn tricks convert little endian bytes to int
 - [20221003150505](/zet/20221003150505/README.md) python pwn tricks convert little endian bytes to floating point

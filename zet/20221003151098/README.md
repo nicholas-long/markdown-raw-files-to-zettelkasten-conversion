@@ -7,6 +7,7 @@ powershell.exe -nop -exec bypass -w hidden -enc BASE64STR
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151101](/zet/20221003151101/README.md) powershell commands
 - ~/kb/hacking/windows/windows-reverse-shell.md
 

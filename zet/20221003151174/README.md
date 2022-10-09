@@ -17,6 +17,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits
 - ~/kb/hacking/to-try-lists/SSH.md
 

@@ -9,6 +9,7 @@ gcc -pthread c0w.c  -o c0w -static
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150878](/zet/20221003150878/README.md) dirty cow privilege escalation working version
 - ~/kb/hacking/priv-esc/dirty-cow-no-gcc.md
 

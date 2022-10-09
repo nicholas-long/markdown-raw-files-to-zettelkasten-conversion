@@ -5,6 +5,7 @@ ConvertFrom-AdManagedPasswordBlob is not recognized as the name of a cmdlet, fun
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151132](/zet/20221003151132/README.md) active directory  GMSA group managed service account remote LDAP read GMSA passwords python script
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 

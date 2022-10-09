@@ -7,6 +7,7 @@ hydra -L users -P passwords -e nsr $IP ssh -t 1
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 
 Tags:
 

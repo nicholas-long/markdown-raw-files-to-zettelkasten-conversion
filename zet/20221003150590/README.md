@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
 - [20221003150589](/zet/20221003150589/README.md) php code return directory as array
 - [20221003150588](/zet/20221003150588/README.md) php code read file

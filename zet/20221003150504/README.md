@@ -7,6 +7,7 @@ address = int(addr_hex,16)
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert
 - ~/kb/hacking/pwn/python-tricks.md
 

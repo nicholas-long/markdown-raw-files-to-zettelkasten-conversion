@@ -15,6 +15,7 @@ hydra -L /usr/share/metasploit-framework/data/wordlists/tomcat_mgr_default_users
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150807](/zet/20221003150807/README.md) brute force default credentials
 - [20221003150803](/zet/20221003150803/README.md) brute force default credentials tomcat wfuzz
 - [20221003150802](/zet/20221003150802/README.md) brute force default credentials tomcat metasploit

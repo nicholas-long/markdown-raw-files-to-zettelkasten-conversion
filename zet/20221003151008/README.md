@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures
 - [20221003151007](/zet/20221003151007/README.md) LFI or directory traversal procedures file wordlists linux
 - ~/kb/hacking/methodology/LFI-procedure.md

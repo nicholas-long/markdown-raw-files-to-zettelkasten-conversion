@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221009001238](/zet/20221009001238/README.md) certification
 zet/20221006032546/README.md	my implementation of zet cmd	# my implementation of zet cmd
 - [20221008054439](/zet/20221008054439/README.md) graph database
 - [20221007194303](/zet/20221007194303/README.md) github

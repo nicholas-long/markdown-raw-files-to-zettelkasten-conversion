@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - [20221003151159](/zet/20221003151159/README.md) Credit where credit is due
 - [20221008213627](/zet/20221008213627/README.md) enhancement / improvement
 - [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch

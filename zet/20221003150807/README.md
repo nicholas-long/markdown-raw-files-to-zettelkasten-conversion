@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150806](/zet/20221003150806/README.md) brute force default credentials mysql
 - [20221003150805](/zet/20221003150805/README.md) brute force default credentials ssh
 - [20221003150804](/zet/20221003150804/README.md) brute force default credentials tomcat

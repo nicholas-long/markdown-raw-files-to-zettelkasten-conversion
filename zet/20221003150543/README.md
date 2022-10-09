@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150548](/zet/20221003150548/README.md) simple binary exploits
 - [20221003150542](/zet/20221003150542/README.md) simple binary exploits python exploit scripts import pwntools
 - [20221003150541](/zet/20221003150541/README.md) simple binary exploits python exploit scripts all bad characters

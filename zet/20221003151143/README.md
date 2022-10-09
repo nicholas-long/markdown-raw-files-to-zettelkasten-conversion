@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms

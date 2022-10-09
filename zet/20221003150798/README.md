@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch
 - [20221008195148](/zet/20221008195148/README.md) seclists etc files project
 - [20221008182309](/zet/20221008182309/README.md) learning git internals

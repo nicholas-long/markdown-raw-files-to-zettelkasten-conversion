@@ -82,6 +82,7 @@ C:/Program Files/Microsoft SQL Server/MSSQL14.SQLEXPRESS/Template Data/master.md
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151084](/zet/20221003151084/README.md) windows sensitive file disclosure cheat sheet determine version
 - ~/kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md
 

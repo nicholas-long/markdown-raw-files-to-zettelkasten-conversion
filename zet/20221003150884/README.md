@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008213254](/zet/20221008213254/README.md) file path
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221003150883](/zet/20221003150883/README.md) privilege escalation relative path abuse using echo

@@ -6,6 +6,7 @@ concept of a todo list.
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008213627](/zet/20221008213627/README.md) enhancement / improvement
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221008061845](/zet/20221008061845/README.md) workflow

@@ -10,6 +10,7 @@ wfuzz -c -w /usr/share/seclists/Discovery/Web-Content/common.txt --hc 404 http:/
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150659](/zet/20221003150659/README.md) wfuzz
 - ~/kb/hacking/commands/wfuzz-commands.md
 

@@ -7,6 +7,7 @@ iconv --to-code UTF-16LE | base64 -w0
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 
 Tags:
 

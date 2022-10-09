@@ -5,6 +5,7 @@ https://github.com/michenriksen/aquatone
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 
 Tags:

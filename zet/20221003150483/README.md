@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221003150484](/zet/20221003150484/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob
 - ~/kb/hacking/powershell/powershell-enumeration-commands.md

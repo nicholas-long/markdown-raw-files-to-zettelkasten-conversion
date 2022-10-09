@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150581](/zet/20221003150581/README.md) php LFI include PHP filter URL
 - [20221003150578](/zet/20221003150578/README.md) php LFI filename extension nullbyte tecnhique - below php 5.3
 - ~/kb/hacking/php/lfi.md

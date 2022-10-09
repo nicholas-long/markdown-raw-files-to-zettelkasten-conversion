@@ -7,6 +7,7 @@ bloodhound-python -c All -u user --hashes abcd123abcd123abcd123abcd123abcd:abcd1
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150676](/zet/20221003150676/README.md) bloodhound run python version in docker
 - ~/kb/hacking/commands/bloodhound.md
 

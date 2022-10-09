@@ -6,6 +6,7 @@ sudo ln -s /opt/linux-exploit-suggester/linux-exploit-suggester.sh /var/www/html
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 
 Tags:
 

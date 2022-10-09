@@ -6,6 +6,7 @@ Recon/PowerView.ps1
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151090](/zet/20221003151090/README.md) powerview enumerate sensitive information disclosure on file shares
 - ~/kb/hacking/windows/powerview-commands.md
 

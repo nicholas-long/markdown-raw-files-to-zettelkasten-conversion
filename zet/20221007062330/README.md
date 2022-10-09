@@ -9,6 +9,7 @@ the concept of something that is broken.
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221003150098](/zet/20221003150098/README.md) todo

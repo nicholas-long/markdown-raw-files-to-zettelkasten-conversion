@@ -7,6 +7,7 @@ getcap -r / 2>/dev/null
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md
 

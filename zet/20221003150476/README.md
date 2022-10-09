@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d
 - [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
 - [20221003150470](/zet/20221003150470/README.md) powershell tricks mount smb share as drive "letter"

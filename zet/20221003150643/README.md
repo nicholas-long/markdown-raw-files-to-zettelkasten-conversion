@@ -7,6 +7,7 @@ sudo nmap -p- -v -sT -sC -sV --min-rate 10000 -oA nmap.all $IP
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221003150644](/zet/20221003150644/README.md) nmap all ports command
 - ~/kb/hacking/commands/nmap-command.md

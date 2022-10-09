@@ -9,6 +9,7 @@ msf-pattern_offset -q 0x33445566
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150545](/zet/20221003150545/README.md) simple binary exploits pattern offset finding
 - ~/kb/hacking/pwn/basic-win-pwn.md
 

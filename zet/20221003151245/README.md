@@ -10,6 +10,7 @@ Process p=new ProcessBuilder(cmd).redirectErrorStream(true).start();Socket s=new
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151247](/zet/20221003151247/README.md) Jenkins / Groovy (Java) Reverse Shell
 - ~/kb/hacking/tricks/jenkins-rev-shell-code.md
 

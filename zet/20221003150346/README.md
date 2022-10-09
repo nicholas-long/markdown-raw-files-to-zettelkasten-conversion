@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150345](/zet/20221003150345/README.md) SSH brute force command shortlist from hacktricks
 - [20221003150344](/zet/20221003150344/README.md) SSH brute force old key exchange algorithms
 - ~/kb/hacking/misc/bruteforcing-tools.md

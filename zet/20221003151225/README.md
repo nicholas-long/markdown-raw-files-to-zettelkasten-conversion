@@ -64,6 +64,7 @@ print(r.text)
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE
 - ~/kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md
 

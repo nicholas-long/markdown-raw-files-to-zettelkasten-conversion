@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151235](/zet/20221003151235/README.md) mysql mariadb display query output as pretty printed text with column names
 - [20221003151234](/zet/20221003151234/README.md) mysql mariadb UDF shell
 - [20221003151233](/zet/20221003151233/README.md) mysql mariadb write any binary file with file permissions
