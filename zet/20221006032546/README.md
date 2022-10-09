@@ -5,6 +5,7 @@ name: zc
 - github actions
   - automatically enrich and make references bidirectional
 - installing `echo "$(pwd)/zc \$@" > ~/.local/bin/z`
+  - problem with this shortcut: args not quoted
   - run with `z menu`
 - help text
 ```
