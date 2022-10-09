@@ -4,9 +4,6 @@ name: zc
 - spawn new actions from fzf selection window to select lots of references
 - github actions
   - automatically enrich and make references bidirectional
-- installing `echo "$(pwd)/zc \$@" > ~/.local/bin/z`
-  - problem with this shortcut: args not quoted
-  - run with `z menu`
 - help text
 ```
 ./zc -h
