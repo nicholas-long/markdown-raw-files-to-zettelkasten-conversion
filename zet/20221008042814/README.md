@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`
 - [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
 - [20221009104752](/zet/20221009104752/README.md) stuff to research

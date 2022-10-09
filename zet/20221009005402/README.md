@@ -6,6 +6,7 @@ the process of `preparing for the OSCP exam`
 
 # Related
 
+- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
 - [20221003151040](/zet/20221003151040/README.md) create windows backdoor accounts

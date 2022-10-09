@@ -6,6 +6,7 @@ hacking notes mega-node
 
 # Related
 
+- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - [20221008194048](/zet/20221008194048/README.md) good DLLs to hide in for sideloading
