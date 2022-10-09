@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009012547](/zet/20221009012547/README.md) Github UI tricks
 - [20221008214631](/zet/20221008214631/README.md) useful vim hotkeys
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221008061845](/zet/20221008061845/README.md) workflow
