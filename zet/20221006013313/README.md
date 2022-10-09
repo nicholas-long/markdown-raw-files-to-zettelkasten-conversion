@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221009022138](/zet/20221009022138/README.md) parse text in zettelkasten with python scripts
 - [20221008214406](/zet/20221008214406/README.md) sharing programming hiveminds
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes

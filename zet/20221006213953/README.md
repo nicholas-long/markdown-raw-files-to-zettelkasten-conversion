@@ -9,6 +9,7 @@ node for video notes.
 
 # Related
 
+- [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
