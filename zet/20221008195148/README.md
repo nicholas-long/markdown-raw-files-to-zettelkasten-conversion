@@ -13,9 +13,9 @@ the seclists etc files project
 
 # Related
 
+- https://github.com/danielmiessler/SecLists/pull/785
 - https://github.com/nicholas-long/SecLists
 - https://github.com/danielmiessler/SecLists
-- https://github.com/danielmiessler/SecLists/pull/785
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 - [20221003150798](/zet/20221003150798/README.md) git
 - [20221007194303](/zet/20221007194303/README.md) github
@@ -24,8 +24,14 @@ the seclists etc files project
 - [20221003150551](/zet/20221003150551/README.md) linux
 - [20221006025356](/zet/20221006025356/README.md) linux
 - /usr/share/seclists/Fuzzing/LFI/LFI-etc-files-of-all-linux-packages.txt
-- ./zc find -q 'deb package extract'
-- ./zc find -q apt
+- 20221006025730
+- 20221003150238
+- 20221003150237
+- 20221003150234
+- 20221003150235
+- 20221003150662
+- 20221003151014
+- 20221003151007
 
 Tags:
 
