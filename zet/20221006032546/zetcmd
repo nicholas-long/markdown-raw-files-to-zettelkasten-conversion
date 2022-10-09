@@ -46,7 +46,7 @@ while [[ $# -gt 0 ]]; do
     -h|--help)
       echo "Usage: $0 action [ options ]"
       echo "| action      : [ spawn, search, find, rm, print, enrich, new, refs, preview ]"
-      echo "| | fzf       : [ spawn, search, vilink, viunlink ]"
+      echo "| | fzf       : [ spawn, search, vilink, viunlink, connectome ]"
       echo "| | scripting : [ find, addref, rm, print, enrich, new, refs, preview, enum, unlink, enrich_links_single, fixspaces ]"
       echo "Options:"
       cat "$prog" | grep '^\s\+-.|--.*' | sed 's/)$//'
@@ -112,7 +112,7 @@ case $action in
     $prog fixspaces "$newid"
     nvim zet/$newid/README.md
     ;;
-  enum)
+  enum) # enum tags
     #TODO: join tags with related tags in enum
     find zet -name README.md | xargs awk '
       BEGIN { OFS="\t" }
@@ -147,6 +147,16 @@ case $action in
       }
       /^# [Rr]elated/ { refs = 1 }
     ' $arg
+    ;;
+  connectome)
+    find zet -name README.md | xargs awk '
+      BEGIN { OFS="\t" }
+      FNR == 1 {
+        gsub(/^# +/,"")
+        head = $0
+      }
+      /^# Related/,/^Tags/ { if ($0 ~ /^- /) print FILENAME, head, $0 }
+    ' | fzf -m
     ;;
   search) # fuzzy search with optional content filter
     if [ -z "$query" ]; then
