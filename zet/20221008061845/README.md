@@ -6,11 +6,12 @@ the concept of `workflow`
 
 # Related
 
+- [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch
-- [20221008214631](/zet/20221008214631/README.md) useful vim hotkeys
+- [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221006204315](/zet/20221006204315/README.md) fastest way to take graph notes
 - [20221006213953](/zet/20221006213953/README.md) video notes

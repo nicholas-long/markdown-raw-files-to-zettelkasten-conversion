@@ -7,9 +7,10 @@ this file is markdown.
 
 # Related
 
-- 20221006013612
-- 20221009171616
-- 20221008215400
+- [20221009172522](/zet/20221009172522/README.md) obsidian
+- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
+- [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`
+- [20221008215400](/zet/20221008215400/README.md) file
 
 Tags:
 

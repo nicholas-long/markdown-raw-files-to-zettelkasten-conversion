@@ -6,6 +6,7 @@ the concept of a `program`
 
 # Related
 
+- [20221009172522](/zet/20221009172522/README.md) obsidian
 - [20221009021452](/zet/20221009021452/README.md) container
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

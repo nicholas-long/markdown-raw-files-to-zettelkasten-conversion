@@ -6,6 +6,8 @@ the process of converting markdown directories/files/heading level hierarchy not
 
 # Related
 
+- [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`
+- [20221009172351](/zet/20221009172351/README.md) markdown file format
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221008052510](/zet/20221008052510/README.md) 80-20 rule
