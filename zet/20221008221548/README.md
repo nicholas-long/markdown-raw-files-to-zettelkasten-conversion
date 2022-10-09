@@ -9,6 +9,7 @@ the concept of `website`
 
 # Related
 
+- [20221009032056](/zet/20221009032056/README.md) keeping track of htb ctf flags
 - [20221008221940](/zet/20221008221940/README.md) URL
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service

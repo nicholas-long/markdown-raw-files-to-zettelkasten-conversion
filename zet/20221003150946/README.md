@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009032056](/zet/20221009032056/README.md) keeping track of htb ctf flags
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008212519](/zet/20221008212519/README.md) programming language
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
