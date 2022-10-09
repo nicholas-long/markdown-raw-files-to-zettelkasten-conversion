@@ -27,6 +27,16 @@
     - i can be working on one thing and get to any other notes with 2-5 clicks
 - i'm not an expert at designing these yet
     - research graph theory
+- issue tracking workflow nodes
+  - github has issue tracking - it should be possible to open issues in github and type in zettel IDs and have a relevant zettel linking everything together
+  - list of nodes
+    - todo
+    - wip
+    - done
+  - make concepts for each
+  - make instance for project node
+    - connect to concept node, i.e. a project's todo list is an instance of a "todo list concept" and connected to the project
+      - easy to find it
 
 ` zet/20221007043646/README.md `
 
