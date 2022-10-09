@@ -29,6 +29,8 @@ Options:
 
 # Related
 
+- [20221009162538](/zet/20221009162538/README.md) add menu
+- [20221009162948](/zet/20221009162948/README.md) useful vim hotkeys for zettelkasten
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221009091132](/zet/20221009091132/README.md) new links should come in at the bottom
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes

@@ -13,6 +13,7 @@ gep
 
 # Related
 
+- [20221009162948](/zet/20221009162948/README.md) useful vim hotkeys for zettelkasten
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
