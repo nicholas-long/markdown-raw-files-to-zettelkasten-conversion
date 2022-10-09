@@ -24,14 +24,14 @@ the seclists etc files project
 - [20221003150551](/zet/20221003150551/README.md) linux
 - [20221006025356](/zet/20221006025356/README.md) linux
 - /usr/share/seclists/Fuzzing/LFI/LFI-etc-files-of-all-linux-packages.txt
-- 20221006025730
-- 20221003150238
-- 20221003150237
-- 20221003150234
-- 20221003150235
-- 20221003150662
-- 20221003151014
-- 20221003151007
+- [20221006025730](/zet/20221006025730/README.md) apt repositories
+- [20221003150238](/zet/20221003150238/README.md) extract command for file type deb
+- [20221003150237](/zet/20221003150237/README.md) extract command for file type tar.gz
+- [20221003150234](/zet/20221003150234/README.md) extract command for file type asar
+- [20221003150235](/zet/20221003150235/README.md) extract command for file type xz
+- [20221003150662](/zet/20221003150662/README.md) data analysis commands
+- [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures
+- [20221003151007](/zet/20221003151007/README.md) LFI or directory traversal procedures file wordlists linux
 
 Tags:
 

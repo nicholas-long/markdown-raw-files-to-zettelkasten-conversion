@@ -6,6 +6,7 @@ page for apt repositories
 
 # Related
 
+- [20221008195148](/zet/20221008195148/README.md) seclists etc files project
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 
 Tags:
