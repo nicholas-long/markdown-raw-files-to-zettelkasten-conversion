@@ -1,6 +1,11 @@
-# sharing programming hiveminds
+# sharing programming projects with zettelkasten
 
 starting new node for idea of sharing hiveminds or knowledge bases between programmers
+
+- create issues for things to fix and link to a new zettel for research and notes about it
+- research more rwxrob tips
+- documentation and references and code are connected through zettel
+- if a zettel / card scripts and interacts with another, link documentation together
 
 ```
 ```
