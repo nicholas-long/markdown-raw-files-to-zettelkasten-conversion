@@ -19,8 +19,12 @@ export prog="$0"
 # parse args with case statement
 VERBOSE=0
 makeedit=0
+mustprint=0
 while [[ $# -gt 0 ]]; do
   case $1 in
+    -p|--print)
+      mustprint=1
+      ;;
     -e|--edit)
       makeedit=1
       ;;
@@ -178,7 +182,11 @@ EOF
     else
       selections=$(mktemp)
       $prog find -q "$query" | fzf -m --preview="$prog preview -f {} 2>/dev/null" --preview-window=up > $selections
-      awk '{print $1}' "$selections" | xargs -n 1 $prog preview -f
+      if [ 1 == $mustprint ]; then
+        awk '{print $1}' "$selections" | xargs -n 1 $prog preview -f
+      else
+        awk '{print $1}' "$selections"
+      fi
       rm "$selections"
     fi
     ;;
@@ -210,8 +218,8 @@ EOF
         for (n = 1; n < NR; n++) {
           previd = arr[n]
           command = (ENVIRON["prog"] " addref -t " latestid " " previd)
-          #print command
-          system(command)
+          print command
+          #system(command)
         }
       }
     '
