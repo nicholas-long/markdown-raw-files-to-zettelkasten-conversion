@@ -6,6 +6,7 @@ the concept of `workflow`
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch

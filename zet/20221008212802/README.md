@@ -6,6 +6,7 @@ the concept of a `program`
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221008213458](/zet/20221008213458/README.md) operating system

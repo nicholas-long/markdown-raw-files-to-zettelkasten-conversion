@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?
 - [20221009012547](/zet/20221009012547/README.md) Github UI tricks
 - [20221008214631](/zet/20221008214631/README.md) useful vim hotkeys
