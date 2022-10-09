@@ -6,6 +6,10 @@ the concept of `useful vim hotkeys for zettelkasten`
 ```
 df/;DI- jk
 ```
+- reload card
+```
+:e %
+```
 
 ` zet/20221009162948/README.md `
 
