@@ -50,6 +50,24 @@
     - screens `ctrl` + `win` + left or right
         - hard to change this hotkey
     - `win` v = clipboard manager - if i have to memorize any windows hotkeys, this would be it
+- awk and graph databases
+    - really good segment of awk book about implementing a database query language LINK LINK LINK LINK LINK LINK
+        - stuffed some awk commands together with pipes
+            - totally unsafe from an injection standpoint to concatenate strings and command arguments
+                - bash is designed to escape commands and strings and stuff, so it can deal with those issues separately
+    - i wouldn't want to use awk to search a graph database
+        - no local variables except function arguments
+            - not a problem for small programs, queries, or stream operatons (<100 lines of code)
+            - big problem for writing serious programs
+        - recursive algorithms do not do well in stream processors - unless you go the "quick and dirty" route and spawn processes
+            - let OS handle some of the work - subprocesses are fine in moderation
+                - like a good one that produces a long stream of data
+                - not a million tiny ones
+                - forking takes time, and it is obviously slower than function calls, but it's probably not problematic now that all processes on the machine are the same cached binary (check out docker, alpine, and busybox)
+    - however, awk would be relatively convenient for enumerating nodes
+    - and extremely convenient for processing any output text
+- unix join command (for relational data)
+- python for exploration algorithms
 
 ` zet/20221007043646/README.md `
 
