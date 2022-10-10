@@ -6,6 +6,7 @@ the concept of `workflow`
 
 # Related
 
+- [20221010071719](/zet/20221010071719/README.md) nodes to add
 - [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?

@@ -6,6 +6,7 @@ concept of a todo list.
 
 # Related
 
+- [20221010071719](/zet/20221010071719/README.md) nodes to add
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
