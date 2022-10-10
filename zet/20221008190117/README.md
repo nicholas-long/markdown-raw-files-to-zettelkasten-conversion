@@ -27,6 +27,7 @@ Switched to a new branch 'new-ideas-and-links'
 
 # Related
 
+- [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
 - [20221008042814](/zet/20221008042814/README.md) WIP

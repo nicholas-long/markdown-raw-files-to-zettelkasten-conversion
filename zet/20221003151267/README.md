@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221009162538](/zet/20221009162538/README.md) add menu
 - [20221008210746](/zet/20221008210746/README.md) use title of zettel as fzf prompt
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten

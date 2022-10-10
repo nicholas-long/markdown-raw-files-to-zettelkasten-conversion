@@ -20,6 +20,7 @@ https://spacelift.io/blog/ansible-tutorial
 
 # Related
 
+- [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221003150340](/zet/20221003150340/README.md) ansible
 - ~/kb/hacking/misc/ansible.md
 

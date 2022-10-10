@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221009012547](/zet/20221009012547/README.md) Github UI tricks
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008212519](/zet/20221008212519/README.md) programming language

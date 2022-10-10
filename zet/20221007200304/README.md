@@ -23,6 +23,7 @@
 
 # Related
 
+- [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221009162538](/zet/20221009162538/README.md) add menu
 - [20221008061334](/zet/20221008061334/README.md) concepts

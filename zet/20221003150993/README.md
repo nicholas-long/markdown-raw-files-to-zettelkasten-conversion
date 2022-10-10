@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - ~/kb/hacking/methodology/API-enumeration.md
 

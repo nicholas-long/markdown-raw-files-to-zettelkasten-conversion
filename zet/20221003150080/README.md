@@ -9,6 +9,7 @@ Fix:
 
 # Related
 
+- [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 
 Tags:
 

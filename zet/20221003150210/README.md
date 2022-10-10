@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221003150209](/zet/20221003150209/README.md) kafkacat add data to topic
 - ~/kb/kafka/kafkacat.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix

@@ -4,10 +4,11 @@
 
 # Related
 
+- [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?
 - [20221009012547](/zet/20221009012547/README.md) Github UI tricks
-- [20221008214631](/zet/20221008214631/README.md) useful vim hotkeys
+- [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines
