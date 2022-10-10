@@ -3,6 +3,7 @@
 hacking notes mega-node
 
 - potential places to look for XSS:
+    - not that any of these are vulnerable specifically, it just seems like an anti-pattern
     - google search for `github markdown render javascript`
         - check what uses these thing(s):
             - https://github.com/ryanflorence/render-markdown-javascript
