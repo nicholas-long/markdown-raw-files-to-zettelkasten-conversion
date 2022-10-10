@@ -30,6 +30,7 @@
 - [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method
 - https://en.wikipedia.org/wiki/Zettelkasten
 - https://github.com/rwxrob/zet
+- https://github.com/rwxrob/zet/tree/main/20210723205230#what-are-zettelcasting-and-zettelcasts
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types
 - [20221006034046](/zet/20221006034046/README.md) kafka and zettelkasten graph docs
