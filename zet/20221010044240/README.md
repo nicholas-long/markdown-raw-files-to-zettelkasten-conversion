@@ -1,8 +1,8 @@
-# {{title}}
+# titles of nodes should repopulate
 
-the concept of `{{title}}`
+- awk
 
-```
+```bash
 ```
 
 ` zet/20221010044240/README.md `
@@ -10,7 +10,11 @@ the concept of `{{title}}`
 # Related
 
 - 20221007185940
+- awk scripting
+- bash
+- WIP
+- https://github.com/nicholas-long/markdown-raw-files-to-zettelkasten-conversion/issues/4
 
 Tags:
 
-    #todo #idea
+    #todo
