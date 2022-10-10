@@ -44,6 +44,7 @@ starting new node for idea of sharing hiveminds or knowledge bases between progr
         - text = data
         - card catalog = graph (comp sci)
     - fzf + printing out card titles and their link titles = fuzzy search how ideas can be related to one another or for specific links between them
+    - grep, awk + fzf = a search engine with like a prefilter for only relevant files?
     - github actions = commands to run on in (this) zettelkast "program"
     - an old tablet + a card = touchscreen ui
     - vscode web with vim extension and vim behave slightly differently
