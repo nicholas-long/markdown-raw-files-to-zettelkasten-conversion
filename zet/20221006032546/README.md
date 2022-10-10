@@ -28,6 +28,7 @@ Options:
 
 # Related
 
+- [20221010153630](/zet/20221010153630/README.md) make symlinks for markdown titles for search optimization
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
 - [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`

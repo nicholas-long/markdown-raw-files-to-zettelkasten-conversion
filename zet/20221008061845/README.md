@@ -6,6 +6,7 @@ the concept of `workflow`
 
 # Related
 
+- [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221010071719](/zet/20221010071719/README.md) nodes to add
 - [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`

@@ -6,6 +6,8 @@ stuff i am working on.
 
 # Related
 
+- [20221010153630](/zet/20221010153630/README.md) make symlinks for markdown titles for search optimization
+- [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221010071719](/zet/20221010071719/README.md) nodes to add
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten

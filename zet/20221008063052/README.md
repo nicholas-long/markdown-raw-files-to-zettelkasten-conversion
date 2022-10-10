@@ -13,6 +13,7 @@ implemented:
 
 # Related
 
+- [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221008042814](/zet/20221008042814/README.md) WIP

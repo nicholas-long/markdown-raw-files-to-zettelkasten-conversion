@@ -6,6 +6,7 @@ linux reference links and concepts
 
 # Related
 
+- [20221010153630](/zet/20221010153630/README.md) make symlinks for markdown titles for search optimization
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

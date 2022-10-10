@@ -8,6 +8,7 @@
 
 # Related
 
+- [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221003151371](/zet/20221003151371/README.md) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date
 - https://github.com/nicholas-long/kb/blob/main/bash-scripting/git-file-modification-date.sh
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
