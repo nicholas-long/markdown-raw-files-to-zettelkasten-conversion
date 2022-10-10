@@ -3,8 +3,9 @@
 list of links to put on the main page.
 
 ```
-Reference count:  6 of 9
+Reference count:  6 of 10
 Missing:
+20221007182026
 20221008063052
 20221009100510
 20221008183326
@@ -14,6 +15,7 @@ Missing:
 
 # Related
 
+- [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221009100510](/zet/20221009100510/README.md) concept of finished / being done
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
