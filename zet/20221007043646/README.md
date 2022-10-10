@@ -68,6 +68,7 @@
     - and extremely convenient for processing any output text
 - unix join command (for relational data)
 - python for exploration algorithms
+- be careful not to "take work home with you"
 
 ` zet/20221007043646/README.md `
 
