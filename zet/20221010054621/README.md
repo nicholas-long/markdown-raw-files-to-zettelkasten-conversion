@@ -2,6 +2,8 @@
 
 attempt to recreate.
 
+- interesting - the document just appeared, in a separate session, at least half a day later.
+
 ` zet/20221010054621/README.md `
 
 # Related
