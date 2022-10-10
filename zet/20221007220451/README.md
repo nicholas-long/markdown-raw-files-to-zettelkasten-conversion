@@ -2,6 +2,11 @@
 
 hacking notes mega-node
 
+- potential places to look for XSS:
+    - google search for `github markdown render javascript`
+        - check what uses these thing(s):
+            - https://github.com/ryanflorence/render-markdown-javascript
+
 ` zet/20221007220451/README.md `
 
 # Related
