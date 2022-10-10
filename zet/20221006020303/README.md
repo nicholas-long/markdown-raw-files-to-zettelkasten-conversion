@@ -11,6 +11,11 @@
   - literature - about something you read
   - people
   - companies
+- hub notes
+  - same as "map of content"
+  - tieing lots of things together
+  - index into other notes / label?
+  - one instance of what i was calling a "concept"
 
 > why not just all nouns in general?
 need more graph tools to clean up in order to do something like that.
@@ -27,6 +32,7 @@ need more graph tools to clean up in order to do something like that.
 - <https://notes.andymatuschak.org/Taxonomy_of_note_types?stackedNotes=z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm&stackedNotes=z6eWsRsp4aWrQ8YbyYqsUNLg2g5ZXGcTy9Dpo>
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221009183745](/zet/20221009183745/README.md) TODO: categorize github knowledge bases by attaching graph nodes
+- https://www.youtube.com/watch?v=UaoWblf7cPo
 
 Tags:
 
