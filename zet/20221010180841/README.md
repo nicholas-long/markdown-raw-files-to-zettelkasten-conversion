@@ -4,6 +4,30 @@ screen and tmux
 
 - i used screen in tandy model 100 project
   - because it still has support for various serial tty terminal features and things that history probably forgot about
+- interesting historical context
+- save hotkey `ctrl+a`
+- anecdote about why it's important, long running processes and remote connections dying
+- run screen or tmux for long-running processes
+  - i know this but it's important enough to be worth remembering these options are available
+- screen shares keyboard just like tmux
+- talking about "issues with memory corruption" at 15:45
+  - is he talking about screen 4.5.0 local privilege escalation - https://www.exploit-db.com/exploits/41154
+    - WOW i cannot believe i remembered that off the top of my head
+- why @ 17:00
+- use ctrl-A for hotkey because of muscle memory from using screen
+  - i do need a new hotkey unfortunately since ctrl space is often not possible to do on a lot of devices
+  - testing: if you change this, you have to fix
+    - ctrl a apt repo hotkey
+    - ...?
+  - ctrl a is way more responsive
+    - i bet ctrl space is not intended to be sent as an escape code normally and is unsupported most places except fancy terminal emulators
+- no arrow keys (ofc)
+
+- 
+- 
+- 
+- 
+- 
 
 ```
 [diag] find   
