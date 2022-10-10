@@ -3,6 +3,12 @@
 the concept of `a screenshot of github graph showing acceleration`
 
 ![gantt chart](/zet/20221010184202/screenshot_improvement.png)
+
+![improvement](/zet/20221010184202/Screenshot_2022-10-10_142030.png)
+![improvement](/zet/20221010184202/Screenshot_2022-10-10_142249.png)
+![improvement](/zet/20221010184202/Screenshot_2022-10-10_143445_without_tagindex.png)
+![removing tag index dir](/zet/20221010184202/Screenshot_2022-10-10_143445_without_tagindex.png)
+
 ```
 ![20221010184202](/zet/20221010184202/screenshot_improvement.png)
 cd zet/20221010184202
@@ -26,12 +32,6 @@ Screenshot_2022-10-10_143445_without_tagindex.png
 ![improvement](/zet/20221010184202/Screenshot_2022-10-10_142249.png)
 ![improvement](/zet/20221010184202/Screenshot_2022-10-10_143445_without_tagindex.png)
 ```
-
-![improvement](/zet/20221010184202/Screenshot_2022-10-10_142030.png)
-![improvement](/zet/20221010184202/Screenshot_2022-10-10_142249.png)
-![improvement](/zet/20221010184202/Screenshot_2022-10-10_143445_without_tagindex.png)
-
-![removing tag index dir](/zet/20221010184202/Screenshot_2022-10-10_143445_without_tagindex.png)
 
 ` zet/20221010184202/README.md `
 
