@@ -33,6 +33,7 @@
 
 # Related
 
+- [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
 - [20221009183745](/zet/20221009183745/README.md) TODO: categorize github knowledge bases by attaching graph nodes
 - [20221009022138](/zet/20221009022138/README.md) parse text in zettelkasten with python scripts
