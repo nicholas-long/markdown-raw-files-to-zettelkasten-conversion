@@ -9,12 +9,12 @@ starting new node for idea of sharing hiveminds or knowledge bases between progr
                 - can connect concepts together with links to start investigating between different github repos with knowledge bases
         - everything is a file (directory)
     - my implementation: - link
+        - based on rwxrob zet repo at - link
+            - research rwxrob tips
         - Related header - everything below it should be considered touched or altered by scripts
         - could use embedded yml file if necessary? - link
             - prevent formatting issues later
             - but there plenty of reasons why links between markdown pages should be valid links between nodes in a graph database
-        - based on rwxrob zet repo at - link
-            - research rwxrob tips
 - documentation, references, and code are connected through cards
     - if a zettel / card has scripts that interact with one another, link documentation together
     - make a link one way by
