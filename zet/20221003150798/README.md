@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
 - [20221009012547](/zet/20221009012547/README.md) Github UI tricks
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

@@ -9,6 +9,7 @@ git checkout $COMMIT_HASH -- .
 
 # Related
 
+- [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221003150798](/zet/20221003150798/README.md) git
 - ~/kb/hacking/commands/git.md
 

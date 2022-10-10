@@ -81,6 +81,7 @@ jobs:
 
 # Related
 
+- [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221003151281](/zet/20221003151281/README.md) YAML

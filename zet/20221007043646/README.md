@@ -75,6 +75,7 @@
 
 # Related
 
+- [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221003151159](/zet/20221003151159/README.md) Credit where credit is due

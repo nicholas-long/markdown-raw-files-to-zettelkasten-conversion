@@ -96,6 +96,7 @@ finished through page 12 of search https://github.com/search?p=12&q=zettelkasten
 
 # Related
 
+- [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
 - [20221010182027](/zet/20221010182027/README.md) github copilot analysis
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically

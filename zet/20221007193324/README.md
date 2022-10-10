@@ -6,6 +6,7 @@ the concept of github actions.
 
 # Related
 
+- [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
