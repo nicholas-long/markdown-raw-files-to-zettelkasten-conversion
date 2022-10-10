@@ -1,5 +1,7 @@
 # findings about implementing zettelkasten
 
+![20221010184202](/zet/20221010184202/screenshot_improvement.png)
+
 - this is a functioning graph database written in like 350 lines of bash and awk
 - can tag the cards by adding files: find files by name to list
 - i can find information with links and add info to anything from anywhere
