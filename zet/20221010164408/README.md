@@ -14,6 +14,14 @@
  187   │     ;;
 ```
 
+```
+commit 60d0aadd429a15e79bb3623f8d309208b25a3809
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Mon Oct 10 16:41:11 2022 +0000
+
+    added loop and ability to enrich and quit - get back to work lol - retyping shortcut is annoying
+```
+
 ` zet/20221010164408/README.md `
 
 # Related
