@@ -96,9 +96,10 @@ finished through page 12 of search https://github.com/search?p=12&q=zettelkasten
 
 # Related
 
+- [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
 - [20221009183745](/zet/20221009183745/README.md) TODO: categorize github knowledge bases by attaching graph nodes
-- [20221008214406](/zet/20221008214406/README.md) sharing programming hiveminds
+- [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221008054439](/zet/20221008054439/README.md) graph database
 - [20221008042814](/zet/20221008042814/README.md) WIP
