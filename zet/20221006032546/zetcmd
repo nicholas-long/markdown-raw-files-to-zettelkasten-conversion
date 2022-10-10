@@ -161,18 +161,29 @@ case $action in
     ' $arg
     ;;
   menu)
-    selection=$(mktemp)
-    (cat << EOF
+    while [ 1 ]; do
+      selection=$(mktemp)
+      (cat << EOF
 search -p
 search -e
 spawn
 connectome
 vilink
 viunlink
+enrich
+quitter
 EOF
-    ) | fzf > $selection
-    $prog $(cat $selection)
-    rm "$selection"
+      ) | fzf > $selection
+      export answer=$(cat $selection) # have to export this or if does not work as intended - why?
+      if [ "$answer" == "" ]; then
+        exit 0
+      fi
+      if [ "$answer" == "quitter" ]; then
+        exit 0
+      fi
+      $prog $answer
+      rm "$selection"
+    done
     ;;
   connectome)
     find zet -name README.md | xargs awk '
