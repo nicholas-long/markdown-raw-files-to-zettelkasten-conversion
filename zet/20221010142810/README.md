@@ -4,7 +4,7 @@
 - i know why they do it wrong
   - get it online working ASAP
   - get that part of the project done
-  - can containers even be secure? at some point you have to say, this thing runs the code, and i hope they don't get into this docker
+  - can containers even be secure? at some point you have to say, "this thing runs the code, and i hope they don't get into this docker"
     - user mode containers are starting to become a thing - research ?
 - developers != sudoers?
 - mounting development directory is an antipattern because you might forget to turn it off before releasing
@@ -188,18 +188,18 @@ Options:
 
 # Related
 
-- 20221009015032
-- 20221008042814
-- 20221003151210
-- 20221003150651
-- 20221003151272
-- 20221003150207
-- 20221003150890
-- 20221003151380
-- 20221003151083
-- 20221009021452
-- 20221009015743
-- 20221009015558
+- [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
+- [20221008042814](/zet/20221008042814/README.md) WIP
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
+- [20221003150651](/zet/20221003150651/README.md) kubernetes
+- [20221003151272](/zet/20221003151272/README.md) docker compose aliases for convenience
+- [20221003150207](/zet/20221003150207/README.md) example docker to initialize ksql commands
+- [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
+- [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
+- [20221003151083](/zet/20221003151083/README.md) establishing persistence on windows target in enterprise penetration test
+- [20221009021452](/zet/20221009021452/README.md) container
+- [20221009015743](/zet/20221009015743/README.md) dockerfile
+- [20221009015558](/zet/20221009015558/README.md) docker
 
 Tags:
 

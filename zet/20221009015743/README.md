@@ -48,6 +48,7 @@ ENTRYPOINT [ "pyrit" ]
 
 # Related
 
+- [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221009021452](/zet/20221009021452/README.md) container
 - https://github.com/nicholas-long/docker-collection/blob/main/kali-pyrit/Dockerfile
 - [20221003151378](/zet/20221003151378/README.md) bash scripting build and run enum4linux-ng docker

@@ -8,6 +8,7 @@ That should make it initialize only once.
 
 # Related
 
+- [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221003150206](/zet/20221003150206/README.md) example docker to initialize ksql commands initialize.sh
 - [20221003150205](/zet/20221003150205/README.md) example docker to initialize ksql commands ksql.sh

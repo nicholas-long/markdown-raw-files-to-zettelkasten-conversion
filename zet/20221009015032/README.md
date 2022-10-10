@@ -6,6 +6,7 @@ let's make a dockerfile for zet cmd
 
 # Related
 
+- [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221009015743](/zet/20221009015743/README.md) dockerfile
 - [20221003150551](/zet/20221003150551/README.md) linux

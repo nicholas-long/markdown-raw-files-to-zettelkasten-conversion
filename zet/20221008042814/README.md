@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221010071719](/zet/20221010071719/README.md) nodes to add
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
