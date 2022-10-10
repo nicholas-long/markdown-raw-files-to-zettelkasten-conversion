@@ -2,10 +2,36 @@
 
 the concept of `a screenshot of github graph showing acceleration`
 
-![20221010184202](/zet/20221010184202/screenshot_improvement.png)
+![gantt chart](/zet/20221010184202/screenshot_improvement.png)
 ```
 ![20221010184202](/zet/20221010184202/screenshot_improvement.png)
+cd zet/20221010184202
+# windows file names - seriously windows wtf
+# filenames can't have a colon in them, are case insensitive, break git... they are trying to work in every edge case possible, and yet why does everything need spaces all the time like this for no reason?
+# wow my user experience is so greatly improved that i don't have a pesky `-` in my filename that would help prevent those edge cases
+# or the old classic first thing to do on a windows computer: enable show file extensions because WTF
+# - microsoft wanted file extensions in the first place
+# - the whole `.HTM` thing instead of `.html`
+└─$ mv Screenshot\ 2022-10-10\ 142249.png Screenshot_2022-10-10_142249.png
+└─$ mv Screenshot\ 2022-10-10\ 142030.png Screenshot_2022-10-10_142030.png
+# - vim edit tmux keyboard hotkey clutched it
+Screenshot_2022-10-10_142030.png
+Screenshot_2022-10-10_142249.png
+Screenshot_2022-10-10_143445_without_tagindex.png
+
+Screenshot_2022-10-10_142030.png
+Screenshot_2022-10-10_142249.png
+Screenshot_2022-10-10_143445_without_tagindex.png
+![improvement](/zet/20221010184202/Screenshot_2022-10-10_142030.png)
+![improvement](/zet/20221010184202/Screenshot_2022-10-10_142249.png)
+![improvement](/zet/20221010184202/Screenshot_2022-10-10_143445_without_tagindex.png)
 ```
+
+![improvement](/zet/20221010184202/Screenshot_2022-10-10_142030.png)
+![improvement](/zet/20221010184202/Screenshot_2022-10-10_142249.png)
+![improvement](/zet/20221010184202/Screenshot_2022-10-10_143445_without_tagindex.png)
+
+![removing tag index dir](/zet/20221010184202/Screenshot_2022-10-10_143445_without_tagindex.png)
 
 ` zet/20221010184202/README.md `
 
