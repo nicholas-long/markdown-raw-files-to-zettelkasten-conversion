@@ -30,6 +30,11 @@
 - SaaS visual link editor for zettelkasten
 - figure out data engineering methodology to integrate with existing graph databases like neo4j with scripts
   - experiment with some dockers and scripts
+- track recently modified cards in git
+  - fuzzy search "git modification"
+- link to a completely random card
+  - change every hour?
+    - reason to implement cron-type enriching automatically
 
 ` zet/20221007043259/README.md `
 
