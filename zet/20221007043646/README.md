@@ -12,6 +12,8 @@
 - some links should be one-way links
     - ex: bash scripts is a list of all bash scripts and other things relevant to bash
         - remove a backlink to something, but keep scripts indexed by leaving link from ` bash -> thing `.
+    - machines need one way links
+    - people are good at reading context but bad at navigating complicated UIs until they have a much higher level of experience with them, so links to documentation should be two way or you will get lost and waste time
 - converting files from markdown hierarchy of headings
     - creates really sparsely linked cards - need way more links!
 - cool regular expression for searching tags in vscode `^- \[[0-9]+].*git`
@@ -26,6 +28,7 @@
 - graph searching concepts
     - if i want to get to a topic, i know a good path to get there through these links
     - i can be working on one thing and get to any other notes with 2-5 clicks
+    - only have to remember which things are connected together to navigate the "UI"
 - i'm not an expert at designing these yet
     - research graph theory
 - issue tracking workflow nodes
