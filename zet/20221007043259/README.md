@@ -28,13 +28,29 @@
   - https://gist.github.com/derhuerst/19e0844796fa3b62e1e9567a1dc0b5a3o
     - old - still works?
 - SaaS visual link editor for zettelkasten
-- figure out data engineering methodology to integrate with existing graph databases like neo4j with scripts
-  - experiment with some dockers and scripts
-- track recently modified cards in git
-  - fuzzy search "git modification"
-- link to a completely random card
-  - change every hour?
-    - reason to implement cron-type enriching automatically
+  - is this the right word?
+    - SAAS = paid APIs?
+    - PAAS = github?
+- prompts
+  - "what about that one time i ..."
+
+move this stuff to cards it is growing kinda big
+------------------------------------------------
+
+- talk about that one time i was analyzing 15000 files and made vim macros and hotkeys to act kind of like a bell labs cardboard learning computer, but for processing text lines
+  - kind of a weird idea
+  - some macros are useful
+  - feel like i learned something about workflow in process
+
+- specific card behavior ideas
+  - figure out data engineering methodology to integrate with existing graph databases like neo4j with scripts
+    - experiment with some dockers and scripts
+  - track recently modified cards in git
+    - fuzzy search "git modification"
+  - link to a completely random card
+    - change every hour?
+      - reason to implement cron-type enriching automatically
+  - 
 
 ` zet/20221007043259/README.md `
 

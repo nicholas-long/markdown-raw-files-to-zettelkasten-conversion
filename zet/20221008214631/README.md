@@ -4,6 +4,8 @@ useful vim hotkeys and tricks
 
 - get a zettel id from a file path `df/;D`
 - `gea` add to previous word
+- markdown headings - `0v$r-`
+    - 0 optional
 
 ```
 gep
