@@ -10,17 +10,8 @@
 - different branches for using with different devices
   - automatic merges should not be a problem
     - use both lines
-- linked a lot of stuff together for brainstorming in fzf
-- the order of references should matter
-    - need to be kept in a paragraph
-    - move to top when useful
-        - log when useful or parse logs
 - numbering sequentially based on timestamps can be an arbitrary ordering imposed on zettels
 - recently modified list node from github
-- it seems like generally, links should be directed, but depending on the tool, backlinks will be inserted
-  - i strongly believe links should be bidirectional
-    - but maybe the link's text can be something meaningful like a type of relationship?
-      - like `is-a` in OOP inheritance diagrams - img
 - 3-way connection search
   - fuzzy search all nodes outgoing connections pairs
 - get some pictures of graphs in here
@@ -34,8 +25,7 @@
 - prompts
   - "what about that one time i ..."
 
-move this stuff to cards it is growing kinda big
-------------------------------------------------
+## move this stuff to cards it is growing kinda big
 
 - talk about that one time i was analyzing 15000 files and made vim macros and hotkeys to act kind of like a bell labs cardboard learning computer, but for processing text lines
   - kind of a weird idea
@@ -51,6 +41,19 @@ move this stuff to cards it is growing kinda big
     - change every hour?
       - reason to implement cron-type enriching automatically
   - 
+
+### seen this around
+
+- it seems like generally, links should be directed, but depending on the tool, backlinks will be inserted
+  - i strongly believe links should be bidirectional
+    - but maybe the link's text can be something meaningful like a type of relationship?
+      - like `is-a` in OOP inheritance diagrams - img
+
+- linked a lot of stuff together for brainstorming in fzf
+- the order of references should matter
+    - need to be kept in a paragraph
+    - move to top when useful
+        - log when useful or parse logs
 
 ` zet/20221007043259/README.md `
 
