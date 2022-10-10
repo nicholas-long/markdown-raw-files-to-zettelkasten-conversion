@@ -9,8 +9,12 @@
   - type a title
   - select N nodes
   - card is created with links
+  - edit with vim
 - `vilink` `viunlink` - visually add / remove links
   - you can link between more than 2 at a time but i would not recommend going wild with this because it links all of them to each other in a web.
+  - you can also unlink more than 2 at a time
+  - i think that's a decent way to clear some stuff out
+  - has nothing to do with vi but is fzf picker
 - `enrich` - content generation process
   - grab any links
   - automatically runs when you commit or merge things to main branch - link
