@@ -6,6 +6,9 @@ useful vim hotkeys and tricks
 - `gea` add to previous word
 - markdown headings - `0v$r-`
     - 0 optional
+- `d/` delete until...
+  three backticks = delete snippet
+- `d]` `{` `}` moving paragraphs quickly
 
 ```
 gep
