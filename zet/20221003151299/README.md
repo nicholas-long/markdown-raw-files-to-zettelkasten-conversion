@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221010164408](/zet/20221010164408/README.md) why do i have to export this line in bash or it does not work as intended
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221009012547](/zet/20221009012547/README.md) Github UI tricks
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221010164408](/zet/20221010164408/README.md) why do i have to export this line in bash or it does not work as intended
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - [20221010150900](/zet/20221010150900/README.md) draw stuff on cards with tablet
 - [20221009100510](/zet/20221009100510/README.md) concept of finished / being done

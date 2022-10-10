@@ -28,6 +28,7 @@ Options:
 
 # Related
 
+- [20221010164408](/zet/20221010164408/README.md) why do i have to export this line in bash or it does not work as intended
 - [20221010153630](/zet/20221010153630/README.md) make symlinks for markdown titles for search optimization
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
