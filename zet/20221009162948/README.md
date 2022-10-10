@@ -34,6 +34,7 @@ c  "o   /- [^Mww"zye:e zet/^Rz/README.tx<80>kb<80>kbmd^M
 
 # Related
 
+- [20221008024933](/zet/20221008024933/README.md) vim code block lines
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221003150177](/zet/20221003150177/README.md) notes
