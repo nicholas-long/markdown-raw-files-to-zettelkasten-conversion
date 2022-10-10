@@ -38,6 +38,7 @@ tips from InsiderPhD
 
 # Related
 
+- [20221010054621](/zet/20221010054621/README.md) github doesn't let me edit a markdown page with template braces
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221003151006](/zet/20221003151006/README.md) API enumeration
 - ~/kb/hacking/methodology/API-enumeration.md

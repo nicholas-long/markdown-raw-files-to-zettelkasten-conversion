@@ -1,5 +1,6 @@
 # future enhancements to zet cmd
 
+- readline vi hotkeys
 - track usage with quick addition of tee to a logfile after search
 - automatic scripts stored in zettels
   - use cases

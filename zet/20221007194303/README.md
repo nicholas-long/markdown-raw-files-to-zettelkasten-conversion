@@ -6,6 +6,7 @@ concept of the github website owned by the company microsoft.
 
 # Related
 
+- [20221010054621](/zet/20221010054621/README.md) github doesn't let me edit a markdown page with template braces
 - [20221007193634](/zet/20221007193634/README.md) example github actions scripts
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
 - [20221003150443](/zet/20221003150443/README.md) seclists github
@@ -13,7 +14,7 @@ concept of the github website owned by the company microsoft.
 - [20221007193324](/zet/20221007193324/README.md) github actions
 - [20221009012547](/zet/20221009012547/README.md) Github UI tricks
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-- [20221008214406](/zet/20221008214406/README.md) sharing programming hiveminds
+- [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch
 - [20221008195148](/zet/20221008195148/README.md) seclists etc files project
 - [20221008182309](/zet/20221008182309/README.md) learning git internals
