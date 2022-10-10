@@ -28,6 +28,8 @@
   - https://gist.github.com/derhuerst/19e0844796fa3b62e1e9567a1dc0b5a3o
     - old - still works?
 - SaaS visual link editor for zettelkasten
+- figure out data engineering methodology to integrate with existing graph databases like neo4j with scripts
+  - experiment with some dockers and scripts
 
 ` zet/20221007043259/README.md `
 
