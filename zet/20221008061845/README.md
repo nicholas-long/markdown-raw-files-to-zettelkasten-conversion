@@ -1,6 +1,14 @@
 # workflow
 
 the concept of `workflow`
+hub node for `workflow`
+
+- my workflow
+  - some kind of vim
+  - bash scripts
+  - awk scripts
+  - fzf
+  - searchable templates for copy paste
 
 ` zet/20221008061845/README.md `
 
