@@ -9,6 +9,12 @@ the concept of `website`
 
 # Related
 
+- [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
+- [20221003150289](/zet/20221003150289/README.md) default webroots
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221003150288](/zet/20221003150288/README.md) default webroots wamp
+- [20221003151153](/zet/20221003151153/README.md) windows
+- [20221003151058](/zet/20221003151058/README.md) windows directory traversal path traversal LFI strings
 - [20221010175613](/zet/20221010175613/README.md) midjourney AI generated art
 - [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
 - [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github

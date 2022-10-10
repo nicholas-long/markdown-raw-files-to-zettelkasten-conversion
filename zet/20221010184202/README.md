@@ -11,6 +11,10 @@ the concept of `a screenshot of github graph showing acceleration`
 
 # Related
 
+- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221008042814](/zet/20221008042814/README.md) WIP
+- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
+- [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221009100510](/zet/20221009100510/README.md) concept of finished / being done

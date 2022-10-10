@@ -29,6 +29,9 @@ Options:
 
 # Related
 
+- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
+- [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
+- [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221010164408](/zet/20221010164408/README.md) why do i have to export this line in bash or it does not work as intended
 - [20221010153630](/zet/20221010153630/README.md) make symlinks for markdown titles for search optimization
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
@@ -39,7 +42,6 @@ Options:
 - [20221009162948](/zet/20221009162948/README.md) useful vim hotkeys for zettelkasten
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221009091132](/zet/20221009091132/README.md) new links should come in at the bottom
-- [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221008210746](/zet/20221008210746/README.md) use title of zettel as fzf prompt
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards

@@ -4,8 +4,13 @@
 
 # Related
 
-- [20221008221940](/zet/20221008221940/README.md) URL
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221003150288](/zet/20221003150288/README.md) default webroots wamp
+- [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
+- [20221008221548](/zet/20221008221548/README.md) website
+- [20221003151153](/zet/20221003151153/README.md) windows
+- [20221003151058](/zet/20221003151058/README.md) windows directory traversal path traversal LFI strings
+- [20221008221940](/zet/20221008221940/README.md) URL
 - [20221003150287](/zet/20221003150287/README.md) default webroots xampp
 - [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems
 - [20221003150283](/zet/20221003150283/README.md) default webroots debian system

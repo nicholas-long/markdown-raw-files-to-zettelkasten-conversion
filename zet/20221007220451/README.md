@@ -12,6 +12,12 @@ hacking notes mega-node
 
 # Related
 
+- [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
+- [20221003150288](/zet/20221003150288/README.md) default webroots wamp
+- [20221003150289](/zet/20221003150289/README.md) default webroots
+- [20221008221548](/zet/20221008221548/README.md) website
+- [20221003151153](/zet/20221003151153/README.md) windows
+- [20221003151058](/zet/20221003151058/README.md) windows directory traversal path traversal LFI strings
 - [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
 - [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
@@ -155,7 +161,6 @@ hacking notes mega-node
 - [20221003150146](/zet/20221003150146/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks char mappings
 - [20221003150921](/zet/20221003150921/README.md) windows persistence and DLL hijacking locations
 - [20221003150444](/zet/20221003150444/README.md) hacktricks markdown data github
-- [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 
 Tags:
 

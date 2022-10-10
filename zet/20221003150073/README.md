@@ -12,6 +12,7 @@ vim -c ':execute "normal! yyp\<esc>:w! output\<enter>\<esc>:q!\<enter>"' datafil
 
 # Related
 
+- [20221010191246](/zet/20221010191246/README.md) problems discovered from obsidian node graph proving it is useful
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
 - [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks
 - [20221003151299](/zet/20221003151299/README.md) bash tricks

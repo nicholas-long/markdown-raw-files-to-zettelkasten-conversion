@@ -6,9 +6,14 @@ a list of hacking platforms for practice and education.
 
 # Related
 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221003150288](/zet/20221003150288/README.md) default webroots wamp
+- [20221003150289](/zet/20221003150289/README.md) default webroots
+- [20221008221548](/zet/20221008221548/README.md) website
+- [20221003151153](/zet/20221003151153/README.md) windows
+- [20221003151058](/zet/20221003151058/README.md) windows directory traversal path traversal LFI strings
 - [20221009032056](/zet/20221009032056/README.md) keeping track of htb ctf flags
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221006220044](/zet/20221006220044/README.md) adding stream notes
 - [20221006213821](/zet/20221006213821/README.md) tryhackme
 - [20221006213649](/zet/20221006213649/README.md) offensive security
