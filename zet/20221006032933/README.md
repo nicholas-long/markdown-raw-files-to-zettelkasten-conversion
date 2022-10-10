@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd

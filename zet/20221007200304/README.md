@@ -23,6 +23,7 @@
 
 # Related
 
+- [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221009162538](/zet/20221009162538/README.md) add menu
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221003150551](/zet/20221003150551/README.md) linux

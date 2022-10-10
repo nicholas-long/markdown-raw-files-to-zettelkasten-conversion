@@ -111,6 +111,7 @@ esac
 
 # Related
 
+- [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221009091132](/zet/20221009091132/README.md) new links should come in at the bottom
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix

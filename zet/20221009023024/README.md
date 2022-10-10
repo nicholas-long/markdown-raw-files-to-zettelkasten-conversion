@@ -8,6 +8,7 @@ screenshot of taking notes
 
 # Related
 
+- [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221006213953](/zet/20221006213953/README.md) video notes

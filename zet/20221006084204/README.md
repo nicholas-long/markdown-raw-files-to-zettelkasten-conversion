@@ -19,6 +19,7 @@
 
 # Related
 
+- [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`
 - [20221009102918](/zet/20221009102918/README.md) get titles in tag links
 - [20221009100510](/zet/20221009100510/README.md) concept of finished / being done

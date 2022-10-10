@@ -20,6 +20,7 @@
 
 # Related
 
+- [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd

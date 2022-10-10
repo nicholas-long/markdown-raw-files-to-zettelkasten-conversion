@@ -9,6 +9,7 @@ converting markdown formats with scripts
 
 # Related
 
+- [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221009172351](/zet/20221009172351/README.md) markdown file format
 - [20221009172522](/zet/20221009172522/README.md) obsidian
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd

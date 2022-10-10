@@ -9,6 +9,7 @@ the concept of `zettelkasten can be like a living knowledge base`
 
 # Related
 
+- [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github

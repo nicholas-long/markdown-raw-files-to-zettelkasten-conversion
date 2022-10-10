@@ -6,6 +6,7 @@ let's make a dockerfile for zet cmd
 
 # Related
 
+- [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221009015743](/zet/20221009015743/README.md) dockerfile
 - [20221003150551](/zet/20221003150551/README.md) linux
 - [20221006025356](/zet/20221006025356/README.md) linux

@@ -130,29 +130,28 @@ show this to Hayden later when he's not busy.
 
 # Related
 
+- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006140520](/zet/20221006140520/README.md) zet cmd spawn feature
+- [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method
+- [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
+- [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
+- [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
+- [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`
+- [20221009162948](/zet/20221009162948/README.md) useful vim hotkeys for zettelkasten
+- [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process
+- [20221006032933](/zet/20221006032933/README.md) problems / issues with zet cmd
+- [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
+- [20221006033248](/zet/20221006033248/README.md) rwxrob
+- [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
+- [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
+- [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
+- [20221008061334](/zet/20221008061334/README.md) concepts
+- [20221008042814](/zet/20221008042814/README.md) WIP
+- [20221009091132](/zet/20221009091132/README.md) new links should come in at the bottom
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
-- 20221006032546
-- 20221006140520
-- 20221009171616
-- 20221006142610
-- 20221007043646
-- 20221007051119
-- 20221006032933
-- 20221006084204
-- 20221006033248
-- 20221007200304
-- 20221009162948
-- 20221007055535
-- 20221009211130
-- 20221006051705
-- 20221009023024
-- 20221009015032
-- 20221008061334
-- 20221008042814
-- 20221009091132
 
 Tags:
 

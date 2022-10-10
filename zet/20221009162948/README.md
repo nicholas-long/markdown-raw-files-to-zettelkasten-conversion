@@ -15,6 +15,7 @@ df/;DI- jk
 
 # Related
 
+- [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221003150177](/zet/20221003150177/README.md) notes
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten

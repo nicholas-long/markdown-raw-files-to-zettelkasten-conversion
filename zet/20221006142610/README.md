@@ -10,6 +10,7 @@ I recommend the zettelkasten note taking method for penetration testing notes.
 
 # Related
 
+- [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006204315](/zet/20221006204315/README.md) fastest way to take graph notes
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts

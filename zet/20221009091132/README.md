@@ -8,6 +8,7 @@
 
 # Related
 
+- [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221008221940](/zet/20221008221940/README.md) URL
