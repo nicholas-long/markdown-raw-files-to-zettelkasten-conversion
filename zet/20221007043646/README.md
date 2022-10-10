@@ -39,6 +39,10 @@
     - connect to concept node, i.e. a project's todo list is an instance of a "todo list concept" and connected to the project
       - easy to find it
 - i can't watch a video without thinking of ideas, and i can get to a relevant card in 2 or 3 clicks to write them down
+- git already tracks file changes - take advantage of this in scripts
+    - can use git to go back in time and replay changes to filesystem
+    - can see if enrichment process has changed any files and needs to run again
+        - repeated `git add .` and `git status --porcelain` commands
 
 ` zet/20221007043646/README.md `
 
