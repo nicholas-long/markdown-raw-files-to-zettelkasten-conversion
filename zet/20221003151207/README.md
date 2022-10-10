@@ -86,6 +86,7 @@
 
 # Related
 
+- [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008215655](/zet/20221008215655/README.md) user account

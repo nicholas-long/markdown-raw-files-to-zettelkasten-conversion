@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221003150238](/zet/20221003150238/README.md) extract command for file type deb
 - [20221003150237](/zet/20221003150237/README.md) extract command for file type tar.gz

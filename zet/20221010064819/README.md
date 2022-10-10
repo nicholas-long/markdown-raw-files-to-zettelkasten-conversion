@@ -34,25 +34,25 @@ the concept of `locating the origin of files by hash to determine version`
 
 # Related
 
-- 20221003151403
-- 20221003150660
-- 20221003150237
-- 20221003150236
-- 20221003150238
-- 20221003150239
-- 20221003151382
-- 20221008195148
-- 20221007194303
-- 20221008213357
-- 20221006025730
-- 20221003150285
-- 20221003150383
-- 20221008221548
-- 20221003151210
-- 20221003151207
-- 20221008221940
-- 20221008215400
-- 20221008215139
+- [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf
+- [20221003150660](/zet/20221003150660/README.md) data analysis commands binwalk find and extract LZMA zip streams quickly
+- [20221003150237](/zet/20221003150237/README.md) extract command for file type tar.gz
+- [20221003150236](/zet/20221003150236/README.md) extract command for file type tar.xz
+- [20221003150238](/zet/20221003150238/README.md) extract command for file type deb
+- [20221003150239](/zet/20221003150239/README.md) extract command for file type
+- [20221003151382](/zet/20221003151382/README.md) bash scripting take only unique git hashes and do md5 hashes of those files
+- [20221008195148](/zet/20221008195148/README.md) seclists etc files project
+- [20221007194303](/zet/20221007194303/README.md) github
+- [20221008213357](/zet/20221008213357/README.md) version of program
+- [20221006025730](/zet/20221006025730/README.md) apt repositories
+- [20221003150285](/zet/20221003150285/README.md) default webroots BSD systems OpenBSD httpd
+- [20221003150383](/zet/20221003150383/README.md) threatcheck help obfuscate windows executable strings
+- [20221008221548](/zet/20221008221548/README.md) website
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
+- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
+- [20221008221940](/zet/20221008221940/README.md) URL
+- [20221008215400](/zet/20221008215400/README.md) file
+- [20221008215139](/zet/20221008215139/README.md) hash / checksum
 
 Tags:
 

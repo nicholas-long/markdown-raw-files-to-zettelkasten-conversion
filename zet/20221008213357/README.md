@@ -6,6 +6,7 @@ the concept of a `version of a program`
 
 # Related
 
+- [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008213627](/zet/20221008213627/README.md) enhancement / improvement
 - [20221008212802](/zet/20221008212802/README.md) software program
