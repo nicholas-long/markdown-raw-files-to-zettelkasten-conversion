@@ -6,6 +6,7 @@ the process of converting markdown directories/files/heading level hierarchy not
 
 # Related
 
+- [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd

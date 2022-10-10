@@ -7,6 +7,7 @@ this file is markdown.
 
 # Related
 
+- [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
 - [20221009172522](/zet/20221009172522/README.md) obsidian
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`

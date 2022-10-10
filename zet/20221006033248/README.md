@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
 - [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8

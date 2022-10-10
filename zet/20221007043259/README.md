@@ -63,6 +63,7 @@
 
 # Related
 
+- [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
 - [20221010155109](/zet/20221010155109/README.md) add link titles to youtube or some other links
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base

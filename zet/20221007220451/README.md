@@ -12,6 +12,8 @@ hacking notes mega-node
 
 # Related
 
+- [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
+- [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam

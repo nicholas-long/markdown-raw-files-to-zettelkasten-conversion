@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 
 Tags:

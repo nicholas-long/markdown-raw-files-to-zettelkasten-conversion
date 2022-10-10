@@ -8,6 +8,7 @@
 
 # Related
 
+- [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
 - [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
 - [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221003151371](/zet/20221003151371/README.md) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date
