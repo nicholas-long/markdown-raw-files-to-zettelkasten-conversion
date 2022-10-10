@@ -49,6 +49,7 @@ show this to Hayden later when he's not busy.
 
 ## using tools together in strange / convenient ways - examples - make a card
 
+- liveoverflow youtube link
 - git = good CMS with version control, similar to how a jekyll blog works
     - commits = automatically writing a changelog?
 - zettelkasten
