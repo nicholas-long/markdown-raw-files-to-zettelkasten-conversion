@@ -24,6 +24,9 @@
 - 3-way connection search
   - fuzzy search all nodes outgoing connections pairs
 - get some pictures of graphs in here
+- scripting card idea: get user stars
+  - https://gist.github.com/derhuerst/19e0844796fa3b62e1e9567a1dc0b5a3o
+    - old - still works?
 
 ` zet/20221007043259/README.md `
 
