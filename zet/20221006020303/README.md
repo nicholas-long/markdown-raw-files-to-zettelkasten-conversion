@@ -16,9 +16,8 @@
   - tieing lots of things together
   - index into other notes / label?
   - one instance of what i was calling a "concept"
-
-> why not just all nouns in general?
-need more graph tools to clean up in order to do something like that.
+- most note taking software does not automatically insert backlinks but will show them in a UI somewhere
+  - but i want this to work anywhere - keep backlinks, but the text could literally say `BACKLINK` or something
 
 ` zet/20221006020303/README.md `
 
