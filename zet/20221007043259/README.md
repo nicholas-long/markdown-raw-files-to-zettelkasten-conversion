@@ -16,6 +16,14 @@
     - move to top when useful
         - log when useful or parse logs
 - numbering sequentially based on timestamps can be an arbitrary ordering imposed on zettels
+- recently modified list node from github
+- it seems like generally, links should be directed, but depending on the tool, backlinks will be inserted
+  - i strongly believe links should be bidirectional
+    - but maybe the link's text can be something meaningful like a type of relationship?
+      - like `is-a` in OOP inheritance diagrams - img
+- 3-way connection search
+  - fuzzy search all nodes outgoing connections pairs
+- get some pictures of graphs in here
 
 ` zet/20221007043259/README.md `
 
