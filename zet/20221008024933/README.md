@@ -3,11 +3,13 @@
 - highlight with `V%`
 - move with my cool visual mode bind for moving lines
   - visual mode is good for something
+- moved to vim zettelkasten tricks 20221009162948
 
 ` zet/20221008024933/README.md `
 
 # Related
 
+- 20221009162948
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
@@ -19,4 +21,4 @@
 
 Tags:
 
-    #vim #workflow
+    #vim #workflow #delete

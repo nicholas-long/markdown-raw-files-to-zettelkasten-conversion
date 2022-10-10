@@ -2,15 +2,34 @@
 
 the concept of `useful vim hotkeys for zettelkasten`
 
+- i like this: visual mode + arrow keys = throw lines [ up/down, begin/end paragraph ]
+  - you weren't going to use them for anything else anyway
+
 - macro to convert line to reference where item 1 is a file path to a zettel
 ```
 df/;DI- jk
 ```
+
+- open links as files macro
+```
+reg
+c  "o   /- [^Mww"zye:e zet/^Rz/README.tx<80>kb<80>kbmd^M
+```
+  - what happened there at the end?
+
 - reload card
 ```
 :e %
 ```
 
+- vim code block lines
+  - highlight with `V%`
+  - move with my cool visual mode bind for moving lines
+    - visual mode is good for something
+
+- highlight with `V%`
+- move with my cool visual mode bind for moving lines
+  - visual mode is good for something
 ` zet/20221009162948/README.md `
 
 # Related
