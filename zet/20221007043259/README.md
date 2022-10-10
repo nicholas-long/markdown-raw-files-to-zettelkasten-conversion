@@ -1,31 +1,23 @@
 # zettelkasten generic ideas
 
-- cloning / copying a card
-    - backlinks do not point to same card
-    - using as a template
 - data and scripts in graph nodes
-- auto-enriching types of nodes
-  - simple single command at top of snippet gets evaluated and snippet replaced
+  - conventions?
 - store result of commands in flat files
-- different branches for using with different devices
-  - automatic merges should not be a problem
-    - use both lines
 - numbering sequentially based on timestamps can be an arbitrary ordering imposed on zettels
-- recently modified list node from github
-- 3-way connection search
-  - fuzzy search all nodes outgoing connections pairs
 - get some pictures of graphs in here
-- scripting card idea: get user stars
-  - https://gist.github.com/derhuerst/19e0844796fa3b62e1e9567a1dc0b5a3o
-    - old - still works?
 - SaaS visual link editor for zettelkasten
   - is this the right word?
     - SAAS = paid APIs?
     - PAAS = github?
-- prompts
-  - "what about that one time i ..."
 
 ## move this stuff to cards it is growing kinda big
+
+## tips
+- prompts
+  - "what about that one time i ..."
+- different branches for using with different devices
+  - automatic merges should not be a problem
+    - use both lines in a merge prompt and keep all IDs - references get cleaned up
 
 - talk about that one time i was analyzing 15000 files and made vim macros and hotkeys to act kind of like a bell labs cardboard learning computer, but for processing text lines
   - kind of a weird idea
@@ -33,6 +25,7 @@
   - feel like i learned something about workflow in process
 
 - specific card behavior ideas
+  - recently modified list node from github
   - figure out data engineering methodology to integrate with existing graph databases like neo4j with scripts
     - experiment with some dockers and scripts
   - track recently modified cards in git
@@ -40,7 +33,18 @@
   - link to a completely random card
     - change every hour?
       - reason to implement cron-type enriching automatically
-  - 
+  - get user starred repos (to index them in here for reference in other places)
+    - https://gist.github.com/derhuerst/19e0844796fa3b62e1e9567a1dc0b5a3o
+      - old - still works?
+
+### move to implementation
+
+- cron type nodes
+- 3-way connection search
+  - fuzzy search all nodes outgoing connections pairs
+- cloning / copying a card
+    - backlinks do not point to same card
+    - using as a template
 
 ### seen this around
 
