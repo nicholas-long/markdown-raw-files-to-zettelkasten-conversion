@@ -15,6 +15,7 @@
   - put new links on bottom instead of top?
 - parse abstractions out of text using python library - which one?
 - put timestamps on bottom? `{{date}}`
+- make reference template / example implementations
 
 ` zet/20221006084204/README.md `
 

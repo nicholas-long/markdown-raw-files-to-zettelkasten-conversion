@@ -23,6 +23,7 @@
 
 # Related
 
+- [20221010155109](/zet/20221010155109/README.md) add link titles to youtube or some other links
 - [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006213953](/zet/20221006213953/README.md) video notes

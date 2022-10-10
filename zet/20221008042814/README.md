@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221010155109](/zet/20221010155109/README.md) add link titles to youtube or some other links
 - [20221010153630](/zet/20221010153630/README.md) make symlinks for markdown titles for search optimization
 - [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker

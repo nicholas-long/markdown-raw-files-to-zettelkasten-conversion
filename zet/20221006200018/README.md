@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221010155109](/zet/20221010155109/README.md) add link titles to youtube or some other links
 - [20221010150900](/zet/20221010150900/README.md) draw stuff on cards with tablet
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d

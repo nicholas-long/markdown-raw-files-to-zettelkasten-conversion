@@ -9,6 +9,7 @@ node for video notes.
 
 # Related
 
+- [20221010155109](/zet/20221010155109/README.md) add link titles to youtube or some other links
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
