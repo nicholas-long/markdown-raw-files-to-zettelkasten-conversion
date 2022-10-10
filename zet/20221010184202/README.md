@@ -2,7 +2,9 @@
 
 the concept of `a screenshot of github graph showing acceleration`
 
+![20221010184202](/zet/20221010184202/screenshot_improvement.png)
 ```
+![20221010184202](/zet/20221010184202/screenshot_improvement.png)
 ```
 
 ` zet/20221010184202/README.md `
