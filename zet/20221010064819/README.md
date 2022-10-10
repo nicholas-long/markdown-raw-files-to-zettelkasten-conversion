@@ -34,6 +34,7 @@ the concept of `locating the origin of files by hash to determine version`
 
 # Related
 
+- [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf
 - [20221003150660](/zet/20221003150660/README.md) data analysis commands binwalk find and extract LZMA zip streams quickly
 - [20221003150237](/zet/20221003150237/README.md) extract command for file type tar.gz
