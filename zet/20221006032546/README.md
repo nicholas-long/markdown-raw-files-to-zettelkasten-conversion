@@ -4,6 +4,7 @@ name: zc
 - spawn new actions from fzf selection window to select lots of references
 - github actions
   - automatically enrich and make references bidirectional
+- graph data entry and linking tool
 - installing
   - [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
 - help text
