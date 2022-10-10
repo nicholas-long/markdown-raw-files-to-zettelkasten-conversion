@@ -6,6 +6,12 @@ This is a collection of bash scripts
 
 # Related
 
+- [20221003151332](/zet/20221003151332/README.md) bash scripting
+- [20221003150067](/zet/20221003150067/README.md) vim
+- [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks
+- [20221003151329](/zet/20221003151329/README.md) bash scripting
+- [20221003151299](/zet/20221003151299/README.md) bash tricks
+- [20221003150073](/zet/20221003150073/README.md) Run vim as a script on datafile, write to file `output`
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

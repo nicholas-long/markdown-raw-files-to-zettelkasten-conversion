@@ -4,6 +4,12 @@
 
 # Related
 
+- [20221003151329](/zet/20221003151329/README.md) bash scripting
+- [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks
+- [20221003150067](/zet/20221003150067/README.md) vim
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
+- [20221003151299](/zet/20221003151299/README.md) bash tricks
+- [20221003150073](/zet/20221003150073/README.md) Run vim as a script on datafile, write to file `output`
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008212519](/zet/20221008212519/README.md) programming language
 - [20221008212000](/zet/20221008212000/README.md) coding / programming

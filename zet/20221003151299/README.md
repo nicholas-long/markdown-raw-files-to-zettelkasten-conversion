@@ -4,6 +4,12 @@
 
 # Related
 
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
+- [20221003151332](/zet/20221003151332/README.md) bash scripting
+- [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks
+- [20221003151329](/zet/20221003151329/README.md) bash scripting
+- [20221003150067](/zet/20221003150067/README.md) vim
+- [20221003150073](/zet/20221003150073/README.md) Run vim as a script on datafile, write to file `output`
 - [20221010164408](/zet/20221010164408/README.md) why do i have to export this line in bash or it does not work as intended
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221009012547](/zet/20221009012547/README.md) Github UI tricks

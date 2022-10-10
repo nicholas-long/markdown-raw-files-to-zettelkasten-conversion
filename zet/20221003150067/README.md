@@ -4,6 +4,11 @@
 
 # Related
 
+- [20221003151329](/zet/20221003151329/README.md) bash scripting
+- [20221003151332](/zet/20221003151332/README.md) bash scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
+- [20221003151299](/zet/20221003151299/README.md) bash tricks
+- [20221003150073](/zet/20221003150073/README.md) Run vim as a script on datafile, write to file `output`
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?
