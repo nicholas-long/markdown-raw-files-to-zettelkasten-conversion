@@ -23,6 +23,7 @@ bat zet/$(tmux saveb - | head -n 1)/README.md
 
 # Related
 
+- [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
 - [20221003151329](/zet/20221003151329/README.md) bash scripting

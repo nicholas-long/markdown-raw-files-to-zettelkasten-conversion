@@ -6,6 +6,7 @@ concept of the github website owned by the company microsoft.
 
 # Related
 
+- [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version

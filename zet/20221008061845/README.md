@@ -14,6 +14,7 @@ hub node for `workflow`
 
 # Related
 
+- [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
 - [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221010071719](/zet/20221010071719/README.md) nodes to add

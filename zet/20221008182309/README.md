@@ -11,6 +11,7 @@ learning git internals
 
 # Related
 
+- [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003151332](/zet/20221003151332/README.md) bash scripting

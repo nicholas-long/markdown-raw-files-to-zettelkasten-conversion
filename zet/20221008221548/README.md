@@ -9,6 +9,8 @@ the concept of `website`
 
 # Related
 
+- [20221010175613](/zet/20221010175613/README.md) midjourney AI generated art
+- [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
 - [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221010150900](/zet/20221010150900/README.md) draw stuff on cards with tablet
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version

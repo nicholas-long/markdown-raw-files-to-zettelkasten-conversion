@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221003150074](/zet/20221003150074/README.md) tmux copy to buffer from bash pipes
 - ~/kb/tmux/copy-buffer.md

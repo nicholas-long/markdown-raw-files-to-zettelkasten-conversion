@@ -12,13 +12,13 @@ the concept of `reinforcement learning and motivation and candy rewards`
 
 # Related
 
-- 20221007044552
-- 20221006054727
-- 20221009012547
-- 20221007194303
-- 20221008061845
-- 20221008182309
-- 20221008221548
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list
+- [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
+- [20221009012547](/zet/20221009012547/README.md) Github UI tricks
+- [20221007194303](/zet/20221007194303/README.md) github
+- [20221008061845](/zet/20221008061845/README.md) workflow
+- [20221008182309](/zet/20221008182309/README.md) learning git internals
+- [20221008221548](/zet/20221008221548/README.md) website
 
 Tags:
 

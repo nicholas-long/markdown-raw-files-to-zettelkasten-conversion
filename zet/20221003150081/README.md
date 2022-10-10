@@ -10,6 +10,7 @@ Make sure `$TERM` is set to `xterm-256color` and the user shell is set correctly
 
 # Related
 
+- [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
 
 Tags:
 
