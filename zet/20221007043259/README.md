@@ -27,6 +27,7 @@
 - scripting card idea: get user stars
   - https://gist.github.com/derhuerst/19e0844796fa3b62e1e9567a1dc0b5a3o
     - old - still works?
+- SaaS visual link editor for zettelkasten
 
 ` zet/20221007043259/README.md `
 

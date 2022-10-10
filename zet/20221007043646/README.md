@@ -43,11 +43,16 @@
     - can use git to go back in time and replay changes to filesystem
     - can see if enrichment process has changed any files and needs to run again
         - repeated `git add .` and `git status --porcelain` commands
+- workflow - windows
+    - screens `ctrl` + `win` + left or right
+        - hard to change this hotkey
+    - `win` v = clipboard manager - if i have to memorize any windows hotkeys, this would be it
 
 ` zet/20221007043646/README.md `
 
 # Related
 
+- 20221007043259
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221003151159](/zet/20221003151159/README.md) Credit where credit is due
 - [20221008214406](/zet/20221008214406/README.md) sharing programming hiveminds
