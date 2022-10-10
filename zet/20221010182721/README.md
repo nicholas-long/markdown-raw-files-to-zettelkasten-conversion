@@ -1,6 +1,9 @@
 # how was hacktricks made?
 
 - `GitBook:`
+  - taken from a project to software service feature by github now
+  - https://freestuff.dev/alternative/gitbook/
+    - there's lots of tagging metadata at this url
 - kind of like a zettelkasten?
 
 ` zet/20221010182721/README.md `
