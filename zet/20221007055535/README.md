@@ -31,6 +31,7 @@ cat zc | grep -E '^[^(]+)'
 
 # Related
 
+- [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221007193324](/zet/20221007193324/README.md) github actions
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
