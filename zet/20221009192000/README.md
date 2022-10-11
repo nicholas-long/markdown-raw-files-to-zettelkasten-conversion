@@ -5,8 +5,11 @@ this is a node you can attach things to in order to indicate that they should go
 a script will check to see if the ID numbers appear on the main README.
 
 ```
-Reference count:  19 of 19
+Reference count:  19 of 22
 Missing:
+20221006213953
+20221008061334
+20221009104752
 20221007185940
 20221003151172
 20221011181347
@@ -16,13 +19,16 @@ Missing:
 
 # Related
 
+- [20221008042814](/zet/20221008042814/README.md) WIP
+- [20221006213953](/zet/20221006213953/README.md) video notes
+- [20221008061334](/zet/20221008061334/README.md) concepts
+- [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221007185940](/zet/20221007185940/README.md) unsorted nodes
 - [20221003151172](/zet/20221003151172/README.md) active directory domain
 - [20221011181347](/zet/20221011181347/README.md) hacking notes template 1
 - [20221009172522](/zet/20221009172522/README.md) obsidian
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
-- [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration

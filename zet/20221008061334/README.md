@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221009021452](/zet/20221009021452/README.md) container
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
