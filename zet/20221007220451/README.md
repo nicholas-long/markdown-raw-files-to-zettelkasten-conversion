@@ -12,6 +12,7 @@ hacking notes mega-node
 
 # Related
 
+- [20221011092204](/zet/20221011092204/README.md) catch up on alh4zr3d streams
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 - [20221003150288](/zet/20221003150288/README.md) default webroots wamp
 - [20221003150289](/zet/20221003150289/README.md) default webroots

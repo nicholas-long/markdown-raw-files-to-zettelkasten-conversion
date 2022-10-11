@@ -9,6 +9,7 @@ node for video notes.
 
 # Related
 
+- [20221011092204](/zet/20221011092204/README.md) catch up on alh4zr3d streams
 - [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
 - [20221010155109](/zet/20221010155109/README.md) add link titles to youtube or some other links
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes

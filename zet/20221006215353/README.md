@@ -6,6 +6,9 @@
 - API enumeration tricks and tools
 - heard about insiderphd from ippsec
 
+- next to watch
+- https://www.youtube.com/watch?v=5qSq1S2sRC8
+
 ` zet/20221006215353/README.md `
 
 # Related
