@@ -1,7 +1,19 @@
 # collection of zettelkasten tips from youtube
 
+- https://www.youtube.com/watch?v=7TnUNN39NBU - contains more advanced implementation tips beyond the beginner level - done
+  - https://www.youtube.com/watch?v=XUltI4v_UU4&t=0s - previous video
+  - "focusing bias" - paying attention to fixing one aspect of problems ?
+  - tags are doors, not corridors
+  - tag index - wow good i got that right, i just thought it was a reasonable idea
+    - it looks like it's actually important
+    - should add titles
+  - folgezettel = child nodes
+
 - https://www.youtube.com/watch?v=XUltI4v_UU4&t=0s
-- https://www.youtube.com/watch?v=7TnUNN39NBU
+  - fleeting notes
+    - make an inbox of fleeting notes
+      - github action to add card is that?
+      - not connected to much, connect to inbox on front page
 
 ```
 ```
