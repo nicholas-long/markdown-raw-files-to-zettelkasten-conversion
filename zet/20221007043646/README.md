@@ -73,6 +73,10 @@
 - edit in 1 tab.
 - be careful not to "take work home with you"
 - what about not deleting things but archiving them in place and choosing not to copy them to the next implementation of knowledge systems in a few years `commit 3a4d69105ae71127885d08acfc9746ad21b665ef`
+- link pull requests to cards - dope idea from rwxrob
+  - can edit the card
+  - pull request link shows up cool in github
+  - the URL contains information about the id of the request even if the cards are moved elsewhere
 
 ` zet/20221007043646/README.md `
 
