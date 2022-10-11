@@ -1,6 +1,7 @@
 # fix to try list cards
 
-the concept of `fix to try list cards`
+- issue tracking https://github.com/nicholas-long/markdown-raw-files-to-zettelkasten-conversion/issues/8
+- update links from kb relative paths to zet
 
 ```
 ```
@@ -9,6 +10,7 @@ the concept of `fix to try list cards`
 
 # Related
 
+- https://github.com/nicholas-long/markdown-raw-files-to-zettelkasten-conversion/issues/8
 - [20221003151172](/zet/20221003151172/README.md) active directory domain
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
