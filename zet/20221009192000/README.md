@@ -5,14 +5,16 @@ this is a node you can attach things to in order to indicate that they should go
 a script will check to see if the ID numbers appear on the main README.
 
 ```
-Reference count:  19 of 16
+Reference count:  19 of 17
 Missing:
+20221011181347
 ```
 
 ` zet/20221009192000/README.md `
 
 # Related
 
+- [20221011181347](/zet/20221011181347/README.md) hacking notes template 1
 - [20221009172522](/zet/20221009172522/README.md) obsidian
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
