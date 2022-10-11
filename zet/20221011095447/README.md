@@ -3,7 +3,7 @@
 - right now, vilink will link together a bunch of stuff.
 - one to many links are necessary.
 - i should change it to do one to many
-- move multi-link to separate feature.
+- fixed in commit a3c5f2d3f44cd3fe42a455dee3d353044235183d
 
 ```
 ```
@@ -19,4 +19,4 @@
 
 Tags:
 
-    #todo #enhancement
+    #enhancement

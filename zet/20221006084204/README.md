@@ -10,6 +10,7 @@
   - be careful when importing scripts from other Zettelkasten...
 - search multiple words in entire zettel content
 - a "wild connecting mode" to just select a bunch of stuff and associate it all together
+  - removed from vilink: move multi-link to separate feature. - removed for now
 - fzf interactive link traversal browsing
 - git history idea
   - put new links on bottom instead of top?
