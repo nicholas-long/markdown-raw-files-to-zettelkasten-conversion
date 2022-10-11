@@ -1,6 +1,8 @@
-# privesc notes
+# privesc steps
 
-the concept of `privesc notes`
+- start
+  - reverse shell as `www-data`
+  - SSH as user `username`
 
 ```
 ```
