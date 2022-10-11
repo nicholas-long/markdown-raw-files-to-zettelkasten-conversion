@@ -160,12 +160,12 @@ case $action in
       (cat << EOF
 search -p
 search -e
+lazygit
 spawn
-connectome
+enrich
 vilink
 viunlink
-enrich
-lazygit
+connectome
 quitter
 EOF
       ) | fzf "--prompt=pull first> " > $selection
