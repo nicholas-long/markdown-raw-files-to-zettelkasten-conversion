@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221011095447](/zet/20221011095447/README.md) change vilink behavior - 1 to many
 - [20221011094643](/zet/20221011094643/README.md) find out from rwxrob why osidian markdown links do not work on github
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221011093146](/zet/20221011093146/README.md) watch rwxrob for workflow and bash tips - notes

@@ -40,6 +40,7 @@ Options:
 
 # Related
 
+- [20221011095447](/zet/20221011095447/README.md) change vilink behavior - 1 to many
 - [20221011090542](/zet/20221011090542/README.md) ripgrep might be useful
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
