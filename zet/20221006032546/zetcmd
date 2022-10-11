@@ -106,7 +106,7 @@ case $action in
       read -p "enter title> " title
     fi
     ids=$(mktemp)
-    $prog find -q "$query" 2>/dev/null | fzf --preview-window=up -m "--prompt=$title >" | awk '
+    $prog find -q "$query" 2>/dev/null | fzf --preview="$prog preview -f {} 2>/dev/null" --preview-window=up -m "--prompt=$title >" | awk '
       {
         split($1,arr,"/")
         id = arr[2]
