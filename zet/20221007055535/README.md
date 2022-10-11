@@ -1,6 +1,9 @@
 # full list of zetcmd actions
 
-- `menu` - fzf loop
+- `menu` - interactive fzf menu loop
+  - extra options from menu:
+    - lazygit - run lazygit to check changes to filesystem after a step
+    - quitter - exit loop
 - `connectome` - explore connections between nodes with fuzzy searching (brainstorming)
 - `search`
   - `-p` print
@@ -19,19 +22,19 @@
   - grab any links
   - automatically runs when you commit or merge things to main branch - link
 
-- implementation details and internals
-  - `unlink`
-  - `preview`
-    - it's hard to get fzf settings right so there is one place for previews happening and it's in a subprocess
-    - you can call it
-  - `new`
-  - `enum`
+- commands for scripting
+  - `addref -t 11111111111111 22222222222222`
+  - `unlink` - unlink 2 nodes by IDs - how?
   - `refs`
-  - `find`
-  - `rm`
-  - `addref`
+  - `find` - use `-q` to pass a grep query within vim when running line
+  - `new` - create from command line with title and single reference
+  - `enum`
+  - `rm` - is this necessary?
+- implementation details and internals
+  - `preview` - it's hard to get fzf settings right so there is one place for previews happening and it's in a subprocess
   - `enrich_links_single`
-  - `fixspaces`
+  - `fixspaces` - clean up spaces in references
+    - no need to run manually - called from `enrich`
 
 - flags
 ```
@@ -57,4 +60,4 @@
 
 Tags:
 
-    #bash #zettelkasten 
+    #zettelkasten  #command #reference
