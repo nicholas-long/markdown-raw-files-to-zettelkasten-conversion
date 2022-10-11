@@ -9,6 +9,7 @@ the concept of `services`
 
 # Related
 
+- [20221011182254](/zet/20221011182254/README.md) ports - enum
 - [20221011182140](/zet/20221011182140/README.md) machine high-level overview notes
 - [20221011181531](/zet/20221011181531/README.md) steps
 - [20221011181920](/zet/20221011181920/README.md) working notes - foothold
