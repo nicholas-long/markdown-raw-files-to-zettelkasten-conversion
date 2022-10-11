@@ -1,6 +1,8 @@
 # stuff to put on main page
 
 list of links to put on the main page.
+this is a node you can attach things to in order to indicate that they should go on the main page.
+a script will check to see if the ID numbers appear on the main README.
 
 ```
 Reference count:  21 of 14
