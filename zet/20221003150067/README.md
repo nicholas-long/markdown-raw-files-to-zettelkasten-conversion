@@ -26,6 +26,7 @@
 - [20221003150066](/zet/20221003150066/README.md) vim diff
 - ~/kb/vim/vim.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- https://www.youtube.com/watch?v=aHm36-na4-4
 
 Tags:
 
