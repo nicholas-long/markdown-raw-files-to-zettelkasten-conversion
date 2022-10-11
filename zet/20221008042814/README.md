@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221011192157](/zet/20221011192157/README.md) cool names for the project
 - [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221011155715](/zet/20221011155715/README.md) how to make a node in my implementation?

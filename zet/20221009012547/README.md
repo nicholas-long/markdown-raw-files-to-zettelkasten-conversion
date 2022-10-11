@@ -21,6 +21,7 @@ tips:
 
 # Related
 
+- [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221010182027](/zet/20221010182027/README.md) github copilot analysis
 - [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards

@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs
 - [20221011153359](/zet/20221011153359/README.md) ability to clone cards
 - [20221006033248](/zet/20221006033248/README.md) rwxrob

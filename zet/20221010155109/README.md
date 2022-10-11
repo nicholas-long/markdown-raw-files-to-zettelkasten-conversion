@@ -8,6 +8,7 @@
 
 # Related
 
+- [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
