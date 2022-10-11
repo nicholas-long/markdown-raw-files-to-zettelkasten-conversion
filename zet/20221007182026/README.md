@@ -2,6 +2,7 @@
 
 - converted https://github.com/nicholas-long/kb to zettelkasten with bash and awk scripts
 - started adding zettels and implementing command simultaneously
+- click the parent directory of this README to view files
 
 ` zet/20221007182026/README.md `
 
