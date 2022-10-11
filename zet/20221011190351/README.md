@@ -1,0 +1,19 @@
+# fix to try list cards
+
+the concept of `fix to try list cards`
+
+```
+```
+
+` zet/20221011190351/README.md `
+
+# Related
+
+- [20221003151172](/zet/20221003151172/README.md) active directory domain
+- [20221003151192](/zet/20221003151192/README.md) HTTP TRY
+- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
+- [20221008042814](/zet/20221008042814/README.md) WIP
+
+Tags:
+
+    #todo

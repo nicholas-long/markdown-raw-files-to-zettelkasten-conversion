@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221011155715](/zet/20221011155715/README.md) how to make a node in my implementation?
 - [20221011153359](/zet/20221011153359/README.md) ability to clone cards
 - [20221011145639](/zet/20221011145639/README.md) why does kali apt break bat?
