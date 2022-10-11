@@ -12,6 +12,7 @@ feature
   Which would return the current projects issues
   ```
   - would it be possible to use this on github actions?
+- maybe a feature to close them too? or reconnect the cards to the finished pile
 
 ` zet/20221010161950/README.md `
 
