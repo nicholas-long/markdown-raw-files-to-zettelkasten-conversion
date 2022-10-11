@@ -1,6 +1,8 @@
 # preparing for the OSCP exam
 
-the process of `preparing for the OSCP exam`
+- document the process of `preparing for the OSCP exam`
+- find the rest of the nodes that go in here
+  - link to a card about it
 
 ` zet/20221009005402/README.md `
 
