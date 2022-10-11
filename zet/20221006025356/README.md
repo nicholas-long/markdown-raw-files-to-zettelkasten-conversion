@@ -6,6 +6,7 @@ linux reference links and concepts
 
 # Related
 
+- [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys
 - [20221010153630](/zet/20221010153630/README.md) make symlinks for markdown titles for search optimization
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd

@@ -18,6 +18,7 @@ gep
 
 # Related
 
+- [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
