@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221011145143](/zet/20221011145143/README.md) bat
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
 - [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks

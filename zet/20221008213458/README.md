@@ -9,6 +9,7 @@ the concept of `operating system`
 
 # Related
 
+- [20221011145037](/zet/20221011145037/README.md) kali linux
 - [20221009001455](/zet/20221009001455/README.md) RHCSE Red Hat Certified System Administrator
 - [20221008215400](/zet/20221008215400/README.md) file
 - [20221008212802](/zet/20221008212802/README.md) software program
