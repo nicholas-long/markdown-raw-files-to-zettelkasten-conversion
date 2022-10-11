@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221011153230](/zet/20221011153230/README.md) template example card for scripts
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
 - [20221008212519](/zet/20221008212519/README.md) programming language

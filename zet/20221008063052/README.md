@@ -13,6 +13,8 @@ implemented:
 
 # Related
 
+- [20221011153359](/zet/20221011153359/README.md) ability to clone cards
+- [20221011153230](/zet/20221011153230/README.md) template example card for scripts
 - [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221009095853](/zet/20221009095853/README.md) finished

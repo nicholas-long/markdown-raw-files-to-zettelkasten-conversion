@@ -67,6 +67,7 @@
 
 # Related
 
+- [20221011153359](/zet/20221011153359/README.md) ability to clone cards
 - [20221011134623](/zet/20221011134623/README.md) note taking template for heckin boxes
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try

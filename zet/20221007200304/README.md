@@ -23,6 +23,7 @@
 
 # Related
 
+- [20221011153230](/zet/20221011153230/README.md) template example card for scripts
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product

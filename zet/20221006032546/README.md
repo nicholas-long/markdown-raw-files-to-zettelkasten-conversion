@@ -41,7 +41,9 @@ Options:
 
 # Related
 
-- [20221011145143](/zet/20221011145143/README.md) bat
+- [20221011153359](/zet/20221011153359/README.md) ability to clone cards
+- [20221011153230](/zet/20221011153230/README.md) template example card for scripts
+- [20221011145143](/zet/20221011145143/README.md) bat command pretty printer
 - [20221011095447](/zet/20221011095447/README.md) change vilink behavior - 1 to many
 - [20221011090542](/zet/20221011090542/README.md) ripgrep might be useful
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions

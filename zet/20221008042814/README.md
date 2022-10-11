@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221011153359](/zet/20221011153359/README.md) ability to clone cards
 - [20221011145639](/zet/20221011145639/README.md) why does kali apt break bat?
 - [20221011095447](/zet/20221011095447/README.md) change vilink behavior - 1 to many
 - [20221011094643](/zet/20221011094643/README.md) find out from rwxrob why osidian markdown links do not work on github

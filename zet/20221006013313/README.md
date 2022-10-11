@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221011153359](/zet/20221011153359/README.md) ability to clone cards
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
@@ -18,7 +19,7 @@
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221008054439](/zet/20221008054439/README.md) graph database
-- [20221008214406](/zet/20221008214406/README.md) sharing programming hiveminds
+- [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221006204315](/zet/20221006204315/README.md) fastest way to take graph notes
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method

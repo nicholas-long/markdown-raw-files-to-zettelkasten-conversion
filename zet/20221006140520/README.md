@@ -20,6 +20,7 @@
 
 # Related
 
+- [20221011153230](/zet/20221011153230/README.md) template example card for scripts
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
