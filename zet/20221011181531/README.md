@@ -17,4 +17,4 @@ the concept of `steps`
 
 Tags:
 
-    #todo #idea
+    #notes
