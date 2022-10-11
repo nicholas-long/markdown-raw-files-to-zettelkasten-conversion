@@ -3,7 +3,7 @@
 - `verticalboy`
   - dope af
   - reminds me of virtualboy from the 90s, but not in a copyrighted way
-  `zeticalboy` ?
+  - `zeticalboy` ?
 - `zetgrvf`
   - "zettelkasten graph visual function"
   - forces people to learn how to use aliases
