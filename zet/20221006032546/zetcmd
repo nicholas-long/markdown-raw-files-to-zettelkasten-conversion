@@ -22,8 +22,12 @@ fi
 VERBOSE=0
 makeedit=0
 mustprint=0
+multiple=0
 while [[ $# -gt 0 ]]; do
   case $1 in
+    -m|--multiple)
+      multiple=1
+      ;;
     -p|--print)
       mustprint=1
       ;;
@@ -184,6 +188,9 @@ EOF
     done
     ;;
   connectome)
+    if [ 0 != "$multiple" ]; then
+      export extraargs="-m "
+    fi
     find zet -name README.md | xargs awk '
       BEGIN { OFS="\t" }
       FNR == 1 {
@@ -191,7 +198,7 @@ EOF
         head = $0
       }
       /^# Related/,/^Tags/ { if ($0 ~ /^- /) print FILENAME, head, $0 }
-    ' | fzf -m --preview="$prog preview -f {} 2>/dev/null" --preview-window=up
+    ' | fzf $extraargs --preview="$prog preview -f {} 2>/dev/null" --preview-window=up "--prompt=$arg"
     ;;
   search) # fuzzy search with optional content filter
     if [ -z "$query" ]; then
@@ -230,20 +237,17 @@ EOF
       }
       '
     ;;
-  vilink) # visual linking # TODO: documentation
-    $prog search | zet/$ZET_CMD_IMPLEMENTATION/parseids | awk '
-      { arr[NR]=$0 }
-      NR > 1 {
+  vilink) # visual linking # change to connectome ?
+    export start_id=$($prog connectome "select 1>" | zet/$ZET_CMD_IMPLEMENTATION/parseids)
+    $prog connectome -m "select many>" | zet/$ZET_CMD_IMPLEMENTATION/parseids | awk '
+      {
         latestid = $0
-        for (n = 1; n < NR; n++) {
-          previd = arr[n]
-          command = (ENVIRON["prog"] " addref -t " latestid " " previd)
-          system(command)
-        }
+        command = (ENVIRON["prog"] " addref -t " ENVIRON["start_id"] " " latestid)
+        system(command)
       }
     '
     ;;
-  viunlink) # visual linking # TODO: documentation
+  viunlink) # visual linking
     $prog search | zet/$ZET_CMD_IMPLEMENTATION/parseids | awk '
       { arr[NR]=$0 }
       NR > 1 {
