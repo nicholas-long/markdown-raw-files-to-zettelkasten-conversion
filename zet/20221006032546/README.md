@@ -16,7 +16,8 @@ name: zc
 - TODO: dependencies?
   - fzf
   - bat (the real one, not the kali package)
-  - lots of stuff - needs a docker
+  - lazygit
+- needs a docker
 
 - help text
 ```
