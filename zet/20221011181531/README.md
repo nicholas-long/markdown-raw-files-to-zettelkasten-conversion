@@ -9,7 +9,7 @@ the concept of `steps`
 
 # Related
 
-- 20221011181347
+- [20221011181347](/zet/20221011181347/README.md) hacking notes template 1
 
 Tags:
 

@@ -9,8 +9,8 @@ the concept of `machine web services`
 
 # Related
 
-- 20221011181347
-- 20221011182350
+- [20221011181347](/zet/20221011181347/README.md) hacking notes template 1
+- [20221011182350](/zet/20221011182350/README.md) services
 
 Tags:
 

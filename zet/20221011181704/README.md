@@ -9,8 +9,8 @@ the concept of `passwords`
 
 # Related
 
-- 20221011181605
-- 20221011181347
+- [20221011181605](/zet/20221011181605/README.md) creds
+- [20221011181347](/zet/20221011181347/README.md) hacking notes template 1
 
 Tags:
 
