@@ -41,6 +41,7 @@ Options:
 
 # Related
 
+- [20221011192157](/zet/20221011192157/README.md) cool names for the project
 - [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs
 - [20221011155715](/zet/20221011155715/README.md) how to make a node in my implementation?
 - [20221011153359](/zet/20221011153359/README.md) ability to clone cards
