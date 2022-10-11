@@ -41,6 +41,9 @@
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221008212929](/zet/20221008212929/README.md) running process
 - [20221008221822](/zet/20221008221822/README.md) www - the web
+- https://www.youtube.com/watch?v=Vdd2MTv6vrs
+- https://gitlab.com/rwxrob/dotfiles
+- https://github.com/rwxrob/config
 
 Tags:
 
