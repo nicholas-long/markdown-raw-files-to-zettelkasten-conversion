@@ -3,10 +3,12 @@
 - `verticalboy`
   - dope af
   - reminds me of virtualboy from the 90s, but not in a copyrighted way
+  `zeticalboy` ?
 - `zetgrvf`
   - "zettelkasten graph visual function"
   - forces people to learn how to use aliases
   - probably not taken
+- something involving "second brain" or "hivemind" and linux terminal stuff
 
 ```
 ```
