@@ -23,12 +23,12 @@
 
 # Related
 
-- [20221011134623](/zet/20221011134623/README.md) note taking template for heckin boxes
-- [20221010155109](/zet/20221010155109/README.md) add link titles to youtube or some other links
 - [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221006204315](/zet/20221006204315/README.md) fastest way to take graph notes
+- [20221011134623](/zet/20221011134623/README.md) note taking template for heckin boxes
+- [20221010155109](/zet/20221010155109/README.md) add link titles to youtube or some other links
 - [20221006145626](/zet/20221006145626/README.md) why does rwxrob's zettelkasten have so few links?
 - <https://notes.andymatuschak.org/Taxonomy_of_note_types?stackedNotes=z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm&stackedNotes=z6eWsRsp4aWrQ8YbyYqsUNLg2g5ZXGcTy9Dpo>
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
