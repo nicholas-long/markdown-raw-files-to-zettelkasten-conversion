@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf?
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page

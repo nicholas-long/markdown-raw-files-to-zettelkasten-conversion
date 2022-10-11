@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf?
 - [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
