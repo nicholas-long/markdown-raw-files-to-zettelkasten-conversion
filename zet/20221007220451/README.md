@@ -12,6 +12,8 @@ hacking notes mega-node
 
 # Related
 
+- [20221011093146](/zet/20221011093146/README.md) watch rwxrob for workflow and bash tips - notes
+- [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221011092204](/zet/20221011092204/README.md) catch up on alh4zr3d streams
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 - [20221003150288](/zet/20221003150288/README.md) default webroots wamp

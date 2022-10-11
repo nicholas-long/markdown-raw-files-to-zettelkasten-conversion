@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221011092959](/zet/20221011092959/README.md) conda active directory hacking videos
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - [20221008215530](/zet/20221008215530/README.md) username

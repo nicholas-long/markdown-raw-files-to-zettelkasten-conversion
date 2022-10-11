@@ -8,6 +8,8 @@ node for streamers and content creators.
 
 # Related
 
+- [20221011092959](/zet/20221011092959/README.md) conda active directory hacking videos
+- [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221006220044](/zet/20221006220044/README.md) adding stream notes
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD

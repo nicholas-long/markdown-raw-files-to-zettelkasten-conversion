@@ -6,6 +6,8 @@ stuff i am working on.
 
 # Related
 
+- [20221011092421](/zet/20221011092421/README.md) hacking video notes
+- [20221011093146](/zet/20221011093146/README.md) watch rwxrob for workflow and bash tips - notes
 - [20221011092204](/zet/20221011092204/README.md) catch up on alh4zr3d streams
 - [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf?
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions

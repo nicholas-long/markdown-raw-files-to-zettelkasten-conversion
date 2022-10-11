@@ -3,8 +3,9 @@
 list of links to put on the main page.
 
 ```
-Reference count:  7 of 13
+Reference count:  7 of 14
 Missing:
+20221011092421
 20221006032546
 20221010184202
 20221007182026
@@ -17,6 +18,7 @@ Missing:
 
 # Related
 
+- [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
