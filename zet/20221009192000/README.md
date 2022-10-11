@@ -5,10 +5,8 @@ this is a node you can attach things to in order to indicate that they should go
 a script will check to see if the ID numbers appear on the main README.
 
 ```
-Reference count:  17 of 16
+Reference count:  19 of 16
 Missing:
-20221009172522
-20221003151207
 ```
 
 ` zet/20221009192000/README.md `
