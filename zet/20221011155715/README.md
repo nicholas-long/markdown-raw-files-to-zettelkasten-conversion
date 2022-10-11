@@ -1,6 +1,6 @@
 # how to make a node in my implementation?
 
-- TODO: put video here
+[![asciicast](https://asciinema.org/a/527384.svg)](https://asciinema.org/a/527384)
 
 ```
 ```
