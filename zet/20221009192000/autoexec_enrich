@@ -11,7 +11,7 @@ echo "checking stuff on the main page... $@" >/dev/stderr
 $prog refs $CARD_ID > $references # get references
 indexdothtml="$mydir/../../README.md"
 # search for the IDs we found
-$implementation/parseids $indexdothtml | sort -u > $found
+zet/$implementation/parseids $indexdothtml | sort -u > $found
 {
   echo "Reference count:  $(wc -l $found | awk '{print $1}') of $(wc -l $references | awk '{print $1}')"
   echo "Missing:"
