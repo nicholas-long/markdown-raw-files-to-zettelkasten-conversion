@@ -3,15 +3,8 @@
 list of links to put on the main page.
 
 ```
-Reference count:  7 of 14
+Reference count:  21 of 14
 Missing:
-20221011092421
-20221006032546
-20221010184202
-20221007182026
-20221008063052
-20221009100510
-20221008183326
 ```
 
 ` zet/20221009192000/README.md `
