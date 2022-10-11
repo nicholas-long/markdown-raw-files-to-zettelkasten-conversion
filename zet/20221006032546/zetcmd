@@ -168,7 +168,7 @@ enrich
 lazygit
 quitter
 EOF
-      ) | fzf > $selection
+      ) | fzf "--prompt=pull first> " > $selection
       export answer=$(cat $selection) # have to export this or if does not work as intended - why?
       if [ "$answer" == "" ]; then
         exit 0
