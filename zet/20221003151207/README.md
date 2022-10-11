@@ -86,6 +86,7 @@
 
 # Related
 
+- [20221011182016](/zet/20221011182016/README.md) working notes - privesc
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
