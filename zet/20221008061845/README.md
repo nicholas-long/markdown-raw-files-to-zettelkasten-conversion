@@ -14,11 +14,12 @@ hub node for `workflow`
 
 # Related
 
+- [20221003151135](/zet/20221003151135/README.md) active directory  workflow for penetration test on windows network in organization
+- [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221011090542](/zet/20221011090542/README.md) ripgrep might be useful
 - [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
-- [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221010071719](/zet/20221010071719/README.md) nodes to add
 - [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`
@@ -36,7 +37,6 @@ hub node for `workflow`
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
-- [20221003151135](/zet/20221003151135/README.md) active directory  workflow for penetration test on windows network in organization
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
 
 Tags:

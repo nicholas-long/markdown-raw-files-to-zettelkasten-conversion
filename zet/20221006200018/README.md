@@ -1,5 +1,6 @@
 # OCR youtube video frames
 
+- an interesting idea for a project
 - ffmpeg
   - ` ffmpeg -ss 04:00 -t 03:00 -i yourvideofilename.mp4 -r 1 image-%03d.png `
 - tesseract
