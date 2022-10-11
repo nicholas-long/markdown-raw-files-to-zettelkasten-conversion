@@ -6,6 +6,7 @@ a list of hacking platforms for practice and education.
 
 # Related
 
+- [20221011134623](/zet/20221011134623/README.md) note taking template for heckin boxes
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221003150288](/zet/20221003150288/README.md) default webroots wamp
 - [20221003150289](/zet/20221003150289/README.md) default webroots
