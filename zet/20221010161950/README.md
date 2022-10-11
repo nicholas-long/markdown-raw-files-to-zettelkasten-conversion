@@ -2,13 +2,24 @@
 
 feature
 
-```
-```
+- https://stackoverflow.com/questions/18376014/is-possible-to-list-the-git-repository-issues-in-command-line
+  ```
+  No, not directly with the "vanilla" git command line.
+  There is a "command-line wrapper for git that makes you better at GitHub." (according to the site)
+  http://hub.github.com/
+  You can then run:
+  $ git browse -- issues
+  Which would return the current projects issues
+  ```
+  - would it be possible to use this on github actions?
 
 ` zet/20221010161950/README.md `
 
 # Related
 
+- https://hub.github.com/
+- https://stackoverflow.com/questions/18376014/is-possible-to-list-the-git-repository-issues-in-command-line
+- WIP
 - [20221006032933](/zet/20221006032933/README.md) problems / issues with zet cmd
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs

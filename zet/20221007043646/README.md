@@ -77,6 +77,8 @@
   - can edit the card
   - pull request link shows up cool in github
   - the URL contains information about the id of the request even if the cards are moved elsewhere
+- do not have to worry about sorting idea cards, sort the cards' links that are most often used to improve traversal time
+  - grab tracking stats from somewhere
 
 ` zet/20221007043646/README.md `
 
