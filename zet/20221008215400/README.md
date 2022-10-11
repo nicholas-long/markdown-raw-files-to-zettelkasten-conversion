@@ -8,6 +8,8 @@ the concept of a `file`
 
 # Related
 
+- 20221011145143
+
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - [20221009172351](/zet/20221009172351/README.md) markdown file format
 - [20221009015743](/zet/20221009015743/README.md) dockerfile
