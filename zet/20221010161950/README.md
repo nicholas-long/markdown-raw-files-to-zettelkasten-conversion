@@ -23,7 +23,6 @@ feature
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - https://hub.github.com/
 - https://stackoverflow.com/questions/18376014/is-possible-to-list-the-git-repository-issues-in-command-line
-- WIP
 - [20221006032933](/zet/20221006032933/README.md) problems / issues with zet cmd
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
