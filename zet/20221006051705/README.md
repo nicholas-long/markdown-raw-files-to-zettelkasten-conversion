@@ -20,6 +20,7 @@
 
 # Related
 
+- [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - workflow
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion

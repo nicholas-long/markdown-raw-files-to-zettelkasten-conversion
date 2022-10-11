@@ -18,6 +18,9 @@ feature
 
 # Related
 
+- [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
+- [20221008061845](/zet/20221008061845/README.md) workflow
+- [20221008042814](/zet/20221008042814/README.md) WIP
 - https://hub.github.com/
 - https://stackoverflow.com/questions/18376014/is-possible-to-list-the-git-repository-issues-in-command-line
 - WIP
