@@ -10,7 +10,9 @@
 export ZET_CMD_IMPLEMENTATION=20221006032546
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 export prog="$0"
-#TODO: use EDITOR env var
+if [ -z "$EDITOR" ]; then
+  EDITOR=$(which nvim 2>/dev/null || which vim 2>/dev/null || which vi 2>/dev/null )
+fi
 
 # run me as symlink from my directory or in somewhere with zet/
 # the SCRIPT_DIR of symlinked zc command will be the root of the zettelkasten folder
@@ -74,14 +76,6 @@ while [[ $# -gt 0 ]]; do
   shift
 done
 
-# this doesn't work yet
-#if [ "" == "$action" ]; then
-#  echo "defaulting to menu" > /dev/stderr
-#  env # debug
-#  export action="menu"
-#  sleep 3
-#fi
-
 echo "[diag] $action $title $arg $filearg" > /dev/stderr
 case $action in
   n|new)
@@ -97,7 +91,7 @@ case $action in
     fi
     sed -i "s|00000000000000|$id|" "$filepath"
     if [ 0 != "$makeedit" ]; then
-      nvim "$filepath"
+      $EDITOR "$filepath"
     fi
     echo "created zet ID $id"
     ;;
@@ -122,7 +116,7 @@ case $action in
     rm $ids
     echo "spawned new $newid" > /dev/stderr
     $prog fixspaces "$newid"
-    nvim zet/$newid/README.md
+    $EDITOR zet/$newid/README.md
     ;;
   enum) # enum tags
     #TODO: join tags with related tags in enum
