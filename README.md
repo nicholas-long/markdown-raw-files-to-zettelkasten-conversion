@@ -1,7 +1,8 @@
 # main page for markdown-raw-files-to-zettelkasten-conversion
 Attempt at converting a library of raw markdown files in directories into a Zettelkasten
 
-- [information about this project](/zet/20221006013612/README.md)
+- what a zettelkasten is and why i'm converting my notes
+  - [information about this project](/zet/20221006013612/README.md)
   - [findings](/zet/20221007043646/README.md)
   - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
   - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
