@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221011094643](/zet/20221011094643/README.md) find out from rwxrob why osidian markdown links do not work on github
 - [20221011093146](/zet/20221011093146/README.md) watch rwxrob for workflow and bash tips - notes
 - [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys
 - [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
