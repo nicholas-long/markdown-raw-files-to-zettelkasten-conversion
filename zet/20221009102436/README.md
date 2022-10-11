@@ -10,6 +10,7 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 
 # Related
 
+- [20221011181920](/zet/20221011181920/README.md) working notes - foothold
 - [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
 - [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
