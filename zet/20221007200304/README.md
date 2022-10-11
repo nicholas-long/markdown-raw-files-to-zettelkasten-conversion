@@ -23,6 +23,8 @@
 
 # Related
 
+- [20221006013313](/zet/20221006013313/README.md) zettelkasten
+- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221009162538](/zet/20221009162538/README.md) add menu
@@ -32,8 +34,6 @@
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221003150798](/zet/20221003150798/README.md) git
 - [20221007194303](/zet/20221007194303/README.md) github
-- [20221006013313](/zet/20221006013313/README.md) zettelkasten
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 
 Tags:
 

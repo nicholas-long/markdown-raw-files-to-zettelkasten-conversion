@@ -30,6 +30,10 @@
     - experiment with some dockers and scripts
   - track recently modified cards in git
     - fuzzy search "git modification"
+  - check formatting
+    - does github care about 2 space formatting?
+      - awk script to check for list item formatting = 2 spaces
+    - spaces after titles
   - link to a completely random card
     - change every hour?
       - reason to implement cron-type enriching automatically

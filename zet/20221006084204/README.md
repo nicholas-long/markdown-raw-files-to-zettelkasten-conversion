@@ -21,6 +21,7 @@
 
 # Related
 
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221011095447](/zet/20221011095447/README.md) change vilink behavior - 1 to many
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
