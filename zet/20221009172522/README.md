@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - https://obsidian.md/
 - [20221011094643](/zet/20221011094643/README.md) find out from rwxrob why osidian markdown links do not work on github

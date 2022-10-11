@@ -6,7 +6,10 @@ the concept of a `program`
 
 # Related
 
-- [20221011145143](/zet/20221011145143/README.md) bat
+- [20221011180032](/zet/20221011180032/README.md) roam research
+- [20221011175948](/zet/20221011175948/README.md) evernote
+- [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs
+- [20221011145143](/zet/20221011145143/README.md) bat command pretty printer
 - [20221010175613](/zet/20221010175613/README.md) midjourney AI generated art
 - [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
 - [20221009172522](/zet/20221009172522/README.md) obsidian
