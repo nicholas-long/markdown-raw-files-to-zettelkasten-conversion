@@ -1,31 +1,35 @@
 # markdown to zettelkasten conversion project
 
-the process of converting markdown directories/files/heading level hierarchy notes into zettelkasten format.
+- the process of converting markdown directories/files/heading level hierarchy notes into zettelkasten format.
+- i based the format of the zettelkasten on https://github.com/rwxrob/zet
+  - changed the links to point to README.md so that the graph view works in obsidian
+  - wrote my own implementation of a command to enter data into it which launches neovim and fzf
+    - check it out - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 
 ` zet/20221006013612/README.md `
 
 # Related
 
-- [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
-- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
-- [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`
-- [20221009172351](/zet/20221009172351/README.md) markdown file format
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
-- [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
-- [20221008052510](/zet/20221008052510/README.md) 80-20 rule
-- [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
-- [20221006220044](/zet/20221006220044/README.md) adding stream notes
-- [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
-- [20221006145626](/zet/20221006145626/README.md) why does rwxrob's zettelkasten have so few links?
-- [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
+- [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
+- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
+- [20221009172351](/zet/20221009172351/README.md) markdown file format
+- [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
+- [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
+- [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
+- [20221008052510](/zet/20221008052510/README.md) 80-20 rule
+- [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
+- [20221006220044](/zet/20221006220044/README.md) adding stream notes
+- [20221006145626](/zet/20221006145626/README.md) why does rwxrob's zettelkasten have so few links?
 - https://github.com/nicholas-long/markdown-raw-files-to-zettelkasten-conversion
 - [20221006012927](/zet/20221006012927/README.md) update multiple zettel links
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - https://github.com/evantravers/plaintext-migration
+- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 
 Tags:
 
