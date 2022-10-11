@@ -9,6 +9,7 @@ the concept of `hacking notes template 1`
 
 # Related
 
+- [20221011184954](/zet/20221011184954/README.md) proof, flags, and screenshots
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221011183500](/zet/20221011183500/README.md) potential exploits
 - [20221011181920](/zet/20221011181920/README.md) working notes - foothold
@@ -22,7 +23,7 @@ the concept of `hacking notes template 1`
 - [20221011181605](/zet/20221011181605/README.md) creds
 - [20221011182254](/zet/20221011182254/README.md) ports - enum
 - [20221011182016](/zet/20221011182016/README.md) working notes - privesc
-- [20221011181820](/zet/20221011181820/README.md) privesc notes
+- [20221011181820](/zet/20221011181820/README.md) privesc steps
 - [20221011134623](/zet/20221011134623/README.md) note taking template for heckin boxes
 
 Tags:
