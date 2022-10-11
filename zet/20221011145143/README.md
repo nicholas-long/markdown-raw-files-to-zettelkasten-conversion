@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221008215400](/zet/20221008215400/README.md) file
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221011145639](/zet/20221011145639/README.md) why does kali apt break bat?
 - https://github.com/sharkdp/bat
