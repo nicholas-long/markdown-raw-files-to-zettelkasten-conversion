@@ -1,4 +1,4 @@
-# markdown-raw-files-to-zettelkasten-conversion
+# main page for markdown-raw-files-to-zettelkasten-conversion
 Attempt at converting a library of raw markdown files in directories into a Zettelkasten
 
 - [information about this project](/zet/20221006013612/README.md)
@@ -11,12 +11,14 @@ Attempt at converting a library of raw markdown files in directories into a Zett
   - [20221011092421](/zet/20221011092421/README.md) hacking video notes
   - [hacking to try lists](/zet/20221009102436/README.md)
     - [linux privesc](zet/20221003151210/README.md)
+    - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
   - [OSCP prep](/zet/20221009005402/README.md)
 - [concept hub for all todo lists](/zet/20221007044552/README.md)
   - [work in progress](/zet/20221008042814/README.md)
   - [20221009100510](/zet/20221009100510/README.md) concept of finished / being done
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
-- screenshot
-![screenshot of video notes](zet/20221010184202/Screenshot_2022-10-10_142249.png)
-![screenshot of video notes](zet/20221009023024/screenshot_2022-10-08_213214.png)
+- screenshots
+  - [20221009172522](/zet/20221009172522/README.md) obsidian
+  ![screenshot of video notes](zet/20221010184202/Screenshot_2022-10-10_142249.png)
+  ![screenshot of video notes](zet/20221009023024/screenshot_2022-10-08_213214.png)
 - [stuff that should be on this page](/zet/20221009192000/README.md)
