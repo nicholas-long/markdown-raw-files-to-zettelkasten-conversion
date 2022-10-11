@@ -9,6 +9,7 @@ start a zk based note taking template for storing box notes
 
 # Related
 
+- https://github.com/nicholas-long/kb/tree/main/hacking/notes-template
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
