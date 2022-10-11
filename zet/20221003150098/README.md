@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221011090542](/zet/20221011090542/README.md) ripgrep might be useful
 - [20221010175613](/zet/20221010175613/README.md) midjourney AI generated art
 - [20221010164408](/zet/20221010164408/README.md) why do i have to export this line in bash or it does not work as intended
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
