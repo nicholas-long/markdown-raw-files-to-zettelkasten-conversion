@@ -9,6 +9,7 @@ the concept of `potential exploits`
 
 # Related
 
+- [20221011181347](/zet/20221011181347/README.md) hacking notes template 1
 - [20221011181920](/zet/20221011181920/README.md) working notes - foothold
 - [20221011181531](/zet/20221011181531/README.md) steps
 - [20221011181453](/zet/20221011181453/README.md) exploit path

@@ -9,6 +9,7 @@ the concept of `hacking notes template 1`
 
 # Related
 
+- [20221011183500](/zet/20221011183500/README.md) potential exploits
 - [20221011181920](/zet/20221011181920/README.md) working notes - foothold
 - [20221011182140](/zet/20221011182140/README.md) machine high-level overview notes
 - [20221011181531](/zet/20221011181531/README.md) steps
