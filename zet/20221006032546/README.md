@@ -41,6 +41,7 @@ Options:
 
 # Related
 
+- [20221011155715](/zet/20221011155715/README.md) how to make a node in my implementation?
 - [20221011153359](/zet/20221011153359/README.md) ability to clone cards
 - [20221011153230](/zet/20221011153230/README.md) template example card for scripts
 - [20221011145143](/zet/20221011145143/README.md) bat command pretty printer

@@ -14,6 +14,7 @@ hub node for `workflow`
 
 # Related
 
+- [20221011155715](/zet/20221011155715/README.md) how to make a node in my implementation?
 - [20221003151135](/zet/20221003151135/README.md) active directory  workflow for penetration test on windows network in organization
 - [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221011090542](/zet/20221011090542/README.md) ripgrep might be useful
