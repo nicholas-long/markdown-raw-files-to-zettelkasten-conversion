@@ -9,6 +9,7 @@ the concept of `exploit path`
 
 # Related
 
+- [20221011183500](/zet/20221011183500/README.md) potential exploits
 - [20221011181347](/zet/20221011181347/README.md) hacking notes template 1
 
 Tags:
