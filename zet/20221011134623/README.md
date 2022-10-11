@@ -1,6 +1,8 @@
 # note taking template for heckin boxes
 
 start a zk based note taking template for storing box notes
+- have to clone the whole zettelkasten for each machine
+- but then notes come with the context of all the rest of the stuff in the zk
 
 ```
 ```
