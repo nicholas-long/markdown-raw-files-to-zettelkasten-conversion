@@ -9,6 +9,7 @@ node for video notes.
 
 # Related
 
+- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs
 - [20221006214142](/zet/20221006214142/README.md) streamers
