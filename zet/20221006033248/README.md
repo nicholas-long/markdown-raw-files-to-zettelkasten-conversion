@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys
 - [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
 - [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten

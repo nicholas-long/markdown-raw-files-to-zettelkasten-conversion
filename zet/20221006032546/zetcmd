@@ -171,12 +171,16 @@ connectome
 vilink
 viunlink
 enrich
+lazygit
 quitter
 EOF
       ) | fzf > $selection
       export answer=$(cat $selection) # have to export this or if does not work as intended - why?
       if [ "$answer" == "" ]; then
         exit 0
+      fi
+      if [ "$answer" == "lazygit" ]; then
+        lazygit || (git status && sleep 5)
       fi
       if [ "$answer" == "quitter" ]; then
         exit 0
