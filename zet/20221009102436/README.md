@@ -10,16 +10,8 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 
 # Related
 
-- [20221011181920](/zet/20221011181920/README.md) working notes - foothold
-- [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
-- [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
-- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
-- [20221008042814](/zet/20221008042814/README.md) WIP
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam
-- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-- [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
-- [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old
 - [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access
 - [20221003151172](/zet/20221003151172/README.md) active directory domain
@@ -51,6 +43,14 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 - [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files
 - [20221003151213](/zet/20221003151213/README.md) got leaked files TRY
 - [20221003151214](/zet/20221003151214/README.md) got leaked files
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
+- [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
+- [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans
+- [20221011181920](/zet/20221011181920/README.md) working notes - foothold
+- [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
+- [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
+- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
+- [20221008042814](/zet/20221008042814/README.md) WIP
 
 Tags:
 
