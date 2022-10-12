@@ -1,5 +1,6 @@
 # future enhancements to zet cmd
 
+- add nodes from graph text file like graphviz
 - put new links on bottom instead of top? -- made card?
 - readline vi hotkeys
 - track usage with quick addition of tee to a logfile after search
