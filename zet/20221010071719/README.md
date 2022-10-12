@@ -1,12 +1,6 @@
 # nodes to add
 
-- event bus
-- database
-- kafka
-- confluent - ew
-  - stack: most likely scala + akka because nobody would use java
-  - link to node labeling companies
-- java
+- akka ?
 
 ` zet/20221010071719/README.md `
 
