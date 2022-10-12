@@ -8,6 +8,7 @@ findings about video notes
 
 # Related
 
+- [20221012095659](/zet/20221012095659/README.md) working in github in the same branch on multiple devices
 - [20221012090938](/zet/20221012090938/README.md) my netbook
 - [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
 - [20221012065200](/zet/20221012065200/README.md) side panels work in vim with tmux over ssh now?
