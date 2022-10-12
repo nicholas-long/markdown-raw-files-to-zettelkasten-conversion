@@ -7,6 +7,7 @@ copy \\192.168.0.1\server_name\shell.exe shell.exe
 
 # Related
 
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

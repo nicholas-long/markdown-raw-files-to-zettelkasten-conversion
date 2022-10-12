@@ -306,6 +306,7 @@ AA - System has transitioned into ACPI mode. Interrupt controller is in APIC mod
 
 # Related
 
+- [20221012211416](/zet/20221012211416/README.md) my gaming desktop
 
 Tags:
 

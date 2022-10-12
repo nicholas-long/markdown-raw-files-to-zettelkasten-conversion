@@ -6,6 +6,7 @@ the concept of `hash / checksum`
 
 # Related
 
+- [20221012211416](/zet/20221012211416/README.md) my gaming desktop
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - [20221008215400](/zet/20221008215400/README.md) file
 - [20221008215325](/zet/20221008215325/README.md) password
