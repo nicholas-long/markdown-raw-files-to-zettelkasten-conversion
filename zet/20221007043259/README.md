@@ -8,6 +8,7 @@
   - is this the right word?
     - SAAS = paid APIs?
     - PAAS = github?
+- choose your own adventure game
 
 ## move this stuff to cards it is growing kinda big
 
