@@ -1,8 +1,7 @@
 # nodes to add
 
-- node for labeling something as an organization "concept company org"
-- javascript
-  - nodejs
+- event bus
+- database
 - kafka
 - confluent - ew
   - stack: most likely scala + akka because nobody would use java
