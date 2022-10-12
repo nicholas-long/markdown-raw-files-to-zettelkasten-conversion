@@ -14,7 +14,10 @@ mv zet/20221012144502/autocmd_enrich zet/20221012144502/autoexec_enrich
 # get vim highlighting syntax from others
 
 # implement autocmd
+touch zet/20221012144502/file_git_date
+chmod +x zet/20221012144502/file_git_date
 
+zet/20221012144502/autoexec_enrich
 ```
 
 ` zet/20221012144502/README.md `

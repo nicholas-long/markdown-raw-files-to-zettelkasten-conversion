@@ -1,4 +1,5 @@
 # bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date
+
 ~/kb/bash-scripting/git-file-modification-date.sh
 ```bash
 #!/bin/bash
