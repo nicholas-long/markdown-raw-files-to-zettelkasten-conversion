@@ -22,6 +22,7 @@
 
 # Related
 
+- [20221012102144](/zet/20221012102144/README.md) preview window for menu
 - [20221011153359](/zet/20221011153359/README.md) ability to clone cards
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221011095447](/zet/20221011095447/README.md) change vilink behavior - 1 to many

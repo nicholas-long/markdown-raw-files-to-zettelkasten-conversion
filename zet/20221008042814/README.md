@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221012102144](/zet/20221012102144/README.md) preview window for menu
 - [20221012094712](/zet/20221012094712/README.md) strange issues with sort and locale and tags
 - [20221012090938](/zet/20221012090938/README.md) my netbook
 - [20221012090359](/zet/20221012090359/README.md) first post from netbook

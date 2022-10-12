@@ -26,6 +26,7 @@
 
 # Related
 
+- [20221012101349](/zet/20221012101349/README.md) ubuntu
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [20221012094712](/zet/20221012094712/README.md) strange issues with sort and locale and tags

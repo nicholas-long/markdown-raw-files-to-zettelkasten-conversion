@@ -9,6 +9,7 @@ the concept of `linux terminal`
 
 # Related
 
+- [20221012102144](/zet/20221012102144/README.md) preview window for menu
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221003150564](/zet/20221003150564/README.md) python upgrade shell (TTY Shell)
 - [20221003151259](/zet/20221003151259/README.md) stabilize shell with script command
