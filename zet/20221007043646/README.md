@@ -79,6 +79,15 @@
   - the URL contains information about the id of the request even if the cards are moved elsewhere
 - do not have to worry about sorting idea cards, sort the cards' links that are most often used to improve traversal time
   - grab tracking stats from somewhere
+- need format: like always use dashed lists like this
+  - thinking about format or trying to do sentences or clean up the card slows things down
+  - they grow
+    - elaboration, iterative edits
+  - they combine
+    - joining into sentences
+    - organizing into "paragraphs" or large groups
+  - they get orgainized / sorted
+  - items travel across links as projects are completed
 
 ` zet/20221007043646/README.md `
 
