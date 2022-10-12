@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221012145943](/zet/20221012145943/README.md) changes in the weather during my lifetime
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221012134856](/zet/20221012134856/README.md) what is org roam?
