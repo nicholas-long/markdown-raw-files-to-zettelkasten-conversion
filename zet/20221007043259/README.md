@@ -1,15 +1,16 @@
 # zettelkasten generic ideas
 
-- data and scripts in graph nodes
-  - conventions?
-- store result of commands in flat files
+- lists kept up to date with graph queries
+- edit cards from on the road to run batch jobs
 - numbering sequentially based on timestamps can be an arbitrary ordering imposed on zettels
-- get some pictures of graphs in here
 - SaaS visual link editor for zettelkasten
   - is this the right word?
     - SAAS = paid APIs?
     - PAAS = github?
-- computer science experiments
+
+## move this stuff to cards it is growing kinda big
+
+- computer science experiments - make a card
   - use GPT or library to make bot that sounds like me from all this data
   - git history, words + concepts, spike trains -> transhumanism
   - hacking assistant
@@ -21,8 +22,6 @@
     - link to cards with scripts to add skills?
     - dockers to run common commands
   - reuse AI code completion in weird ways to help in research process
-
-## move this stuff to cards it is growing kinda big
 
 ## tips
 - prompts
