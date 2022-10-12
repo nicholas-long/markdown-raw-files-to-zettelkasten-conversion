@@ -49,8 +49,10 @@
 
 # Related
 
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis
+- [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks )
+- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221003151214](/zet/20221003151214/README.md) got leaked files
 - [20221003151167](/zet/20221003151167/README.md) got hashes
 - [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing
@@ -68,6 +70,7 @@
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
+- got access to database - general SQL - where?
 
 Tags:
 
