@@ -5,6 +5,8 @@
     - lazygit - run lazygit to check changes to filesystem after a step
     - quitter - exit loop
 - `connectome` - explore connections between nodes with fuzzy searching (brainstorming)
+  - https://en.wikipedia.org/wiki/Connectome
+  - really rich combinations of search keywords comes from showing all links and combining the 2 titles
 - `search`
   - `-p` print
   - `-e` edit with vim (or `$EDITOR`?)
@@ -53,6 +55,7 @@
 
 # Related
 
+- https://en.wikipedia.org/wiki/Connectome
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221007193324](/zet/20221007193324/README.md) github actions
