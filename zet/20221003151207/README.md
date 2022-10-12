@@ -86,6 +86,7 @@
 
 # Related
 
+- [20221003151060](/zet/20221003151060/README.md) location of services in windows registry
 - [20221011182016](/zet/20221011182016/README.md) working notes - privesc
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version

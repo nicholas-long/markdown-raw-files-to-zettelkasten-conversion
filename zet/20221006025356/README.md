@@ -6,6 +6,7 @@ linux reference links and concepts
 
 # Related
 
+- [20221003150202](/zet/20221003150202/README.md) fix grub not showing windows partition
 - [20221012135747](/zet/20221012135747/README.md) unix text editors
 - [20221012101349](/zet/20221012101349/README.md) ubuntu
 - [20221012094712](/zet/20221012094712/README.md) strange issues with sort and locale and tags

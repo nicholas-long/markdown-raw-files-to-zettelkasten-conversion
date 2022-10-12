@@ -7,12 +7,9 @@ cd HKLM:\SYSTEM\CurrentControlSet\Services\
 
 # Related
 
-- 20221003151207
-
-- 20221003151094
-
-- 20221003151153
-
+- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
+- [20221003151094](/zet/20221003151094/README.md) windows API
+- [20221003151153](/zet/20221003151153/README.md) windows
 
 Tags:
 
