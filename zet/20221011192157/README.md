@@ -20,10 +20,11 @@
 
 # Related
 
+- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221008042814](/zet/20221008042814/README.md) WIP
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 
 Tags:
 

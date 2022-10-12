@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221011192157](/zet/20221011192157/README.md) cool names for the project
 - [20221012070358](/zet/20221012070358/README.md) recording and logging
 - [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
