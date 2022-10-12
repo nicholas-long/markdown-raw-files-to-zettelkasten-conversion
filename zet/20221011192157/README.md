@@ -1,5 +1,8 @@
 # cool names for the project
 
+- `zkvr`
+  - Zettelkastenvektorrechner
+  - https://dict.leo.org/german-english/Vektorrechner
 - `verticalboy`
   - dope af
   - reminds me of virtualboy from the 90s, but not in a copyrighted way
