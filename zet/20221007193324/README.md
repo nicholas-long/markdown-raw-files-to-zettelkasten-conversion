@@ -6,6 +6,7 @@ the concept of github actions.
 
 # Related
 
+- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically

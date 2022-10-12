@@ -42,6 +42,7 @@ Options:
 
 # Related
 
+- [20221007193324](/zet/20221007193324/README.md) github actions
 - [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
 - [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
