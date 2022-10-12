@@ -21,12 +21,12 @@ echo IDs currently attached to node
 $prog refs $RECENT_MOD | grep -v -f $recentids | grep -v $MY_ID | awk '
 {
   command = ENVIRON["prog"] " unlink " ENVIRON["RECENT_MOD"] " " $0
-  print(command)
-  #system(command)
+  #print(command)
+  system(command)
 }
 '
-
 # cleared out all the old IDs.
+
 idstherenow=$(mktemp)
 awk '
 pr { print }
