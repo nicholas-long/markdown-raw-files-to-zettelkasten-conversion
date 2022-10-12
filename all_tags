@@ -1,6 +1,4 @@
 
-#ARCHIVE
-#DEL
 #active
 #ad
 #ai
@@ -8,6 +6,7 @@
 #api
 #apk
 #apt
+#ARCHIVE
 #assorted
 #awk
 #awk-scripting
@@ -22,11 +21,11 @@
 #bsd
 #buzzwords
 #c
-#c-language
 #calling
 #capabilities
 #cert
 #check
+#c-language
 #cms
 #coding
 #command
@@ -44,11 +43,12 @@
 #curl
 #cyberpunk
 #data
-#data-engineering-pipelines
 #database
+#data-engineering-pipelines
 #debug
 #debugging
 #decrypt
+#DEL
 #deserialization
 #dirty
 #dll
@@ -222,11 +222,11 @@
 #tips
 #tldr
 #tmux
-#to-try-list
 #todo
 #tomcat
 #tools
 #topological
+#to-try-list
 #trick
 #tricks
 #troubleshoot
