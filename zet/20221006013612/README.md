@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully
 - [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
