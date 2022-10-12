@@ -6,6 +6,7 @@ categorize github knowledge bases by attaching graph nodes
 
 # Related
 
+- [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types
 - [20221003150442](/zet/20221003150442/README.md) payloads payloadsallthethings github

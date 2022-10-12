@@ -96,6 +96,7 @@ finished through page 12 of search https://github.com/search?p=12&q=zettelkasten
 
 # Related
 
+- [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221011153359](/zet/20221011153359/README.md) ability to clone cards
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration

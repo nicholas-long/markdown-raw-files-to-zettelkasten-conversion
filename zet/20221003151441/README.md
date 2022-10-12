@@ -6,6 +6,7 @@ Collection of awk scripting examples
 
 # Related
 
+- [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
 - [20221008212519](/zet/20221008212519/README.md) programming language
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221008052510](/zet/20221008052510/README.md) 80-20 rule

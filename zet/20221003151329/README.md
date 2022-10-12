@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks
 - [20221003151332](/zet/20221003151332/README.md) bash scripting

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn
 - [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf?
 - [20221010153630](/zet/20221010153630/README.md) make symlinks for markdown titles for search optimization
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
