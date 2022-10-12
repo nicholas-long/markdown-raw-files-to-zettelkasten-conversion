@@ -14,6 +14,7 @@ hub node for `workflow`
 
 # Related
 
+- [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221012095659](/zet/20221012095659/README.md) working in github in the same branch on multiple devices
 - [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
 - [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly

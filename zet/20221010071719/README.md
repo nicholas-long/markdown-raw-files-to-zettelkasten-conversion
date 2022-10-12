@@ -1,5 +1,6 @@
 # nodes to add
 
+- link to modification date
 - akka ?
 
 ` zet/20221010071719/README.md `

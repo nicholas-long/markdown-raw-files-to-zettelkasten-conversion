@@ -22,6 +22,7 @@ done
 
 # Related
 
+- [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
