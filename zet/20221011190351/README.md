@@ -2,6 +2,7 @@
 
 - issue tracking https://github.com/nicholas-long/markdown-raw-files-to-zettelkasten-conversion/issues/8
 - update links from kb relative paths to zet
+- added links to HTTP to try list
 
 ```
 ```
