@@ -10,13 +10,20 @@
   - touchscreen works in alacritty and some other terminal emulators
     - not for scrolling, for highlighting or selecting / clicking
 - problems
+  - only one usb
+  - battery life
+    - terrible for web browsing
+    - hours and hours in just terminal doing light editing work
+  - ubuntu does not remember that i want the screen rotated to normal computer mode
+    - had that problem with kali too. fixed in x display settings by diagnosing xorg log?
+  - keyboard kinda cramped
+    - vim is actually the only way it's practical to type or edit anything
   - touchpad C mouse lol - terrible
     - microsoft folding mice fit in pocket - use that instead
       - i don't know about bluetooth, use the one with a dongle
-  - keyboard kinda cramped
-    - vim is actually the only way it's practical to type or edit anything
-  - ubuntu does not remember that i want the screen rotated to normal computer mode
-    - had that problem with kali too. fixed in x display settings by diagnosing xorg log?
+  - came with weird charging cable - doesn't like other cables?
+    - looks like USB C but nothing else works with it
+    - usbc port on laptop is just for power
 - can i remap caps lock to esc?
 
 ```
