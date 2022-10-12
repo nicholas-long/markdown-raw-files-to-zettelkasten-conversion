@@ -18,6 +18,8 @@ touch zet/20221012144502/file_git_date
 chmod +x zet/20221012144502/file_git_date
 
 zet/20221012144502/autoexec_enrich
+ln -s zet/20221012144502 trackmoddate
+
 ```
 
 ` zet/20221012144502/README.md `
