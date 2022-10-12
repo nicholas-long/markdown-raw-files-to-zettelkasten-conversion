@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151225](/zet/20221003151225/README.md) php filter LFI to iconv RCE original get 0 script
 - [20221003151224](/zet/20221003151224/README.md) php filter LFI to iconv RCE updated conversion table for all base64 (hacktricks)

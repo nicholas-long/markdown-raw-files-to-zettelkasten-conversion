@@ -10,6 +10,7 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 
 # Related
 
+- [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old
@@ -29,7 +30,6 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 - [20221003151189](/zet/20221003151189/README.md) HTTP specific HTTP server exploit possibilities
 - [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list
 - [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list
-- [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
 - [20221003151198](/zet/20221003151198/README.md) SMB

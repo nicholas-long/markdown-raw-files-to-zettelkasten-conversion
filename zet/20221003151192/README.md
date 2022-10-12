@@ -49,9 +49,20 @@
 
 # Related
 
-- [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis
+- [20221003151214](/zet/20221003151214/README.md) got leaked files
+- [20221003151167](/zet/20221003151167/README.md) got hashes
+- [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing
+- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
+- [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE
+- [20221003150581](/zet/20221003150581/README.md) php LFI include PHP filter URL
+- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal
+- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login
+- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS
+- [20221003151184](/zet/20221003151184/README.md) HTTP found login form
+- [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
