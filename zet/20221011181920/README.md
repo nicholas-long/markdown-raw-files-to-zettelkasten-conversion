@@ -9,6 +9,7 @@ the concept of `working notes - foothold`
 
 # Related
 
+- [20221003151194](/zet/20221003151194/README.md) procedure
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221011184954](/zet/20221011184954/README.md) proof, flags, and screenshots
 - [20221011183500](/zet/20221011183500/README.md) potential exploits

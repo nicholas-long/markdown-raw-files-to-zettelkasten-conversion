@@ -33,6 +33,9 @@
 
 # Related
 
+- [20221011181920](/zet/20221011181920/README.md) working notes - foothold
+- [20221011181531](/zet/20221011181531/README.md) steps
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
 
 Tags:
 

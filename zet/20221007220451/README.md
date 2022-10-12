@@ -12,6 +12,7 @@ hacking notes mega-node
 
 # Related
 
+- [20221003151194](/zet/20221003151194/README.md) procedure
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221011145037](/zet/20221011145037/README.md) kali linux
 - [20221011134623](/zet/20221011134623/README.md) note taking template for heckin boxes
