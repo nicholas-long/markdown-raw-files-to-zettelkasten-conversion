@@ -8,6 +8,12 @@
 
 # Related
 
+- 20221008212802
+
+- 20221008215655
+
+- 20221006025356
+
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
 - [20221007185940](/zet/20221007185940/README.md) unsorted nodes
