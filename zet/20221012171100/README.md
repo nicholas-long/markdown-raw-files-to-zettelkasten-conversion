@@ -1,6 +1,6 @@
-# recently created hub
+# recently created nodes hub
 
-- concept of `recently modified hub`
+- concept of `recently created hub`
 - nodes created in the last 8 hours
 
 zet/20221012171100/README.md
