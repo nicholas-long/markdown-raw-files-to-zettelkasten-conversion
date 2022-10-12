@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221012094712](/zet/20221012094712/README.md) strange issues with sort and locale and tags
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221011145143](/zet/20221011145143/README.md) bat command pretty printer

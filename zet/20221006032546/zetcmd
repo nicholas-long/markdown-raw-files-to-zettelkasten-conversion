@@ -365,7 +365,7 @@ EOF
     scanoutput=$(mktemp)
     find zet -name README.md | xargs zet/$ZET_CMD_IMPLEMENTATION/scanrefs > $scanoutput
     # get all tags
-    tail -n 1 zet/*/README.md | awk '/^    #/' | sed -e 's/^    //g' -e 's/ /\n/g' | sort -u -f > all_tags
+    tail -n 1 zet/*/README.md | awk '/^    #/' | sed -e 's/^    //g' -e 's/ /\n/g' | LC_COLLATE=C sort -u -f > all_tags
 
     # index tags
     rm -rf tagindex
