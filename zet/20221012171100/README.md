@@ -1,6 +1,9 @@
-# recently modified hub
+# recently created hub
 
 - concept of `recently modified hub`
+- nodes created in the last 8 hours
+
+zet/20221012171100/README.md
 
 ```
 ```
@@ -28,4 +31,4 @@
 
 Tags:
 
-    #idea
+    
