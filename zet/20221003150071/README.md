@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221012135747](/zet/20221012135747/README.md) unix text editors
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221003150070](/zet/20221003150070/README.md) vim edit multiple files add args while running and converting into tabs

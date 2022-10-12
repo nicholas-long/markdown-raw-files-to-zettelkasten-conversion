@@ -6,6 +6,7 @@ the concept of a `program`
 
 # Related
 
+- [20221012135301](/zet/20221012135301/README.md) emacs
 - [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten
 - [20221012134856](/zet/20221012134856/README.md) what is org roam?
 - [20221012082959](/zet/20221012082959/README.md) discord
