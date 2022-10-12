@@ -2,6 +2,7 @@
 
 - lists kept up to date with graph queries
 - edit cards from on the road to run batch jobs
+- some cards can be like a data pipeline with data pushed from servers periodically with crons
 - numbering sequentially based on timestamps can be an arbitrary ordering imposed on zettels
 - SaaS visual link editor for zettelkasten
   - is this the right word?
