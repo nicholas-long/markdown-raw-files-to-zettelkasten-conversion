@@ -97,6 +97,10 @@
   - link it to what needs to know about it
   - i normally cannot even manage my email inbox - too much information
   - project can manage itself?
+- little scripts in cards is okay, but treating it like a database modifying itself in git is annoying.
+  - should only run scripts that update things without user intervention in crons
+- it would work as a graph database in a really low overhead docker type of environment or embedded system.
+- 
 
 ` zet/20221007043646/README.md `
 
