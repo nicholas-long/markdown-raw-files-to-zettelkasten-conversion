@@ -12,6 +12,14 @@
 - computer science experiments
   - use GPT or library to make bot that sounds like me from all this data
   - git history, words + concepts, spike trains -> transhumanism
+  - hacking assistant
+    - "evil alexa, run a nessus scan on this smart fridge"
+      - that native javascript library built into chrome that recognizes words - ?
+      - https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API
+      - https://www.section.io/engineering-education/speech-recognition-in-javascript/
+      - graph queries and other tools should help make this possible - need to research graph stuff and language processing
+    - link to cards with scripts to add skills?
+    - dockers to run common commands
 
 ## move this stuff to cards it is growing kinda big
 
