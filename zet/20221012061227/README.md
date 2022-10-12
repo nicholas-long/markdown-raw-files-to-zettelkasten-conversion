@@ -1,0 +1,25 @@
+# scared of using vim to take notes
+
+change EDITOR variable
+
+```
+export EDITOR=nano
+```
+
+` zet/20221012061227/README.md `
+
+# Related
+
+- 20221009012547
+- 20221009165318
+- 20221011155715
+- 20221006032546
+- 20221006213953
+- 20221003150067
+- 20221008061845
+- 20221003150067
+- 20221008214631
+
+Tags:
+
+    #fix
