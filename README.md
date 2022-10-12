@@ -26,3 +26,14 @@ Attempt at converting a library of raw markdown files in directories into a Zett
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [stuff that should be on this page](/zet/20221009192000/README.md)
 - [recently created notes](/zet/20221012171100/README.md)
+
+- where to i put these?
+- [20221006213953](/zet/20221006213953/README.md) video notes
+- [20221008061845](/zet/20221008061845/README.md) workflow
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+- [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
+- [20221008061334](/zet/20221008061334/README.md) concepts
+- [20221009104752](/zet/20221009104752/README.md) stuff to research
+- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- [20221003151172](/zet/20221003151172/README.md) active directory domain
+- [20221011181347](/zet/20221011181347/README.md) hacking notes template 1
