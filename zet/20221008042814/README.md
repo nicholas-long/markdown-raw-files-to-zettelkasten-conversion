@@ -6,6 +6,8 @@ stuff i am working on.
 
 # Related
 
+- 20221012145054
+
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221012134856](/zet/20221012134856/README.md) what is org roam?
 - [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn
