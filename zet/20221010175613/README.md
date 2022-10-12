@@ -6,6 +6,7 @@ fun to play with.
 
 # Related
 
+- [20221012082959](/zet/20221012082959/README.md) discord
 - [20221010182027](/zet/20221010182027/README.md) github copilot analysis
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221003151278](/zet/20221003151278/README.md) linux data science
