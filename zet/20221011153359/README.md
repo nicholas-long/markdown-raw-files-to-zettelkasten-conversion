@@ -9,6 +9,7 @@ the concept of `ability to clone cards`
 
 # Related
 
+- [20221012144502](/zet/20221012144502/README.md) track modification dates
 - https://github.com/nicholas-long/markdown-raw-files-to-zettelkasten-conversion/issues/7
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github

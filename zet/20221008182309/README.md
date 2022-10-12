@@ -11,6 +11,7 @@ learning git internals
 
 # Related
 
+- [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
 - [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
 - [20221008042814](/zet/20221008042814/README.md) WIP

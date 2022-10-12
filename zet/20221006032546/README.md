@@ -42,6 +42,7 @@ Options:
 
 # Related
 
+- [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
 - [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn
 - [20221012102144](/zet/20221012102144/README.md) preview window for menu
