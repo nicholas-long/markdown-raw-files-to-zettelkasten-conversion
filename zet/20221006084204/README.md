@@ -27,6 +27,7 @@
 
 # Related
 
+- [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
 - [20221012102144](/zet/20221012102144/README.md) preview window for menu
 - [20221011153359](/zet/20221011153359/README.md) ability to clone cards
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas

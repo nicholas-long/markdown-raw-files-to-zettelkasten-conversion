@@ -24,6 +24,7 @@ done
 
 # Related
 
+- [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
 - [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
 - [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
