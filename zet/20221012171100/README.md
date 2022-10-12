@@ -9,10 +9,7 @@
 
 # Related
 
-- 
-
 - [20221012171100](/zet/20221012171100/README.md) recently modified hub
-- 
 - [20221012153512](/zet/20221012153512/README.md) database
 - [20221012153643](/zet/20221012153643/README.md) kafka
 - [20221012145943](/zet/20221012145943/README.md) changes in the weather during my lifetime

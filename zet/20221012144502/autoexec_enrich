@@ -35,7 +35,13 @@ echo "Ids there now"
 cat $idstherenow
 
 echo "Ids to add"
-grep -v -f $idstherenow $recentids | sort -n | xargs -n 1 $prog addref -t $RECENT_MOD 
+grep -v -f $idstherenow $recentids | sort -n | awk '
+/^[0-9]+$/ {
+  command = ENVIRON["prog"] " addref -t " ENVIRON["RECENT_MOD"] " " $0
+  system(command)
+}
+'
+#xargs -n 1 $prog addref -t $RECENT_MOD 
 
 #find zet -type f -name README.md 2>/dev/null | awk -F / '$(NF - 1) > ENVIRON["recenttimestamp"]'
 #| \zet/$IMPL/parseids | grep -v -f <( cat << EOF
