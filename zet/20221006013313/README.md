@@ -9,8 +9,8 @@
 
 # Related
 
-- [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten
 - [20221012134856](/zet/20221012134856/README.md) what is org roam?
+- [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten
 - [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
 - [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
