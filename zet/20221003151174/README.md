@@ -17,6 +17,7 @@
 
 # Related
 
+- [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits

@@ -4,7 +4,9 @@
 
 # Related
 
-- [20221011145143](/zet/20221011145143/README.md) bat
+- [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
+- [20221012070318](/zet/20221012070318/README.md) linux terminal
+- [20221011145143](/zet/20221011145143/README.md) bat command pretty printer
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
 - [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks

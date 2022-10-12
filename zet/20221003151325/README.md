@@ -12,6 +12,7 @@ cutycapt/kali-rolling 0.0~svn10-0.1+b2 amd64
 
 # Related
 
+- [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 
 Tags:

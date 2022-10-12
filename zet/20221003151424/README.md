@@ -6,6 +6,7 @@ This is a collection of bash scripts
 
 # Related
 
+- [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221011153230](/zet/20221011153230/README.md) template example card for scripts
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
 - [20221003150067](/zet/20221003150067/README.md) vim

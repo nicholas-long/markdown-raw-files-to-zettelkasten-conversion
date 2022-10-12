@@ -6,6 +6,7 @@ the concept of `the concept of utility or being useful`
 
 # Related
 
+- [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221009162948](/zet/20221009162948/README.md) useful vim hotkeys for zettelkasten
 - [20221009021452](/zet/20221009021452/README.md) container
 - [20221009015743](/zet/20221009015743/README.md) dockerfile

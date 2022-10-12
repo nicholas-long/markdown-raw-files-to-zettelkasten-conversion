@@ -6,6 +6,8 @@ linux reference links and concepts
 
 # Related
 
+- [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
+- [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys
 - [20221010153630](/zet/20221010153630/README.md) make symlinks for markdown titles for search optimization
 - [20221009015558](/zet/20221009015558/README.md) docker

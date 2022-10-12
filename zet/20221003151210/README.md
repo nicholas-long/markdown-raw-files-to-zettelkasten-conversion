@@ -91,6 +91,7 @@
 
 # Related
 
+- [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221011182016](/zet/20221011182016/README.md) working notes - privesc
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version

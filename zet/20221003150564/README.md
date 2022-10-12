@@ -7,6 +7,7 @@ python -c 'import pty;pty.spawn("/bin/bash");'
 
 # Related
 
+- [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 
 Tags:
