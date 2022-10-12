@@ -44,6 +44,7 @@
 
 # Related
 
+- [20221012090938](/zet/20221012090938/README.md) my netbook
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221008042814](/zet/20221008042814/README.md) WIP
 
