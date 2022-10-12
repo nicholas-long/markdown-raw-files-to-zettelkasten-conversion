@@ -198,6 +198,7 @@ EOF
         head = $0
       }
       /^# Related/,/^Tags/ { if ($0 ~ /^- /) print FILENAME, head, $0 }
+      ENDFILE { print FILENAME, head, "" }
     ' | fzf $extraargs --preview="$prog preview -f {} 2>/dev/null" --preview-window=up "--prompt=$arg"
     ;;
   search) # fuzzy search with optional content filter
