@@ -100,7 +100,7 @@
 - little scripts in cards is okay, but treating it like a database modifying itself in git is annoying.
   - should only run scripts that update things without user intervention in crons
 - it would work as a graph database in a really low overhead docker type of environment or embedded system.
-- 
+- it is easier to script something for a lot of nodes than to play with a graph UI visualizer
 
 ` zet/20221007043646/README.md `
 
