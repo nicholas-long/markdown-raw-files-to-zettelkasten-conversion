@@ -6,6 +6,8 @@ the concept of `coding / programming`
 
 # Related
 
+- [20221012154059](/zet/20221012154059/README.md) scala
+- [20221012154324](/zet/20221012154324/README.md) java
 - [20221012153019](/zet/20221012153019/README.md) javascript
 - [20221012153227](/zet/20221012153227/README.md) nodejs
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd

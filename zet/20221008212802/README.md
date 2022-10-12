@@ -6,6 +6,7 @@ the concept of a `program`
 
 # Related
 
+- [20221012154324](/zet/20221012154324/README.md) java
 - [20221012153227](/zet/20221012153227/README.md) nodejs
 - [20221012135301](/zet/20221012135301/README.md) emacs
 - [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten

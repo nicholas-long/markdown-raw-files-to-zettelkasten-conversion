@@ -6,6 +6,8 @@ the concept of `programming language`
 
 # Related
 
+- [20221012154324](/zet/20221012154324/README.md) java
+- [20221012154059](/zet/20221012154059/README.md) scala
 - [20221012153019](/zet/20221012153019/README.md) javascript
 - [20221012135301](/zet/20221012135301/README.md) emacs
 - [20221008213122](/zet/20221008213122/README.md) version

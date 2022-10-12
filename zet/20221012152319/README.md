@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221012153843](/zet/20221012153843/README.md) confluent
 - [20221012152421](/zet/20221012152421/README.md) micosoft
 - [20221009001455](/zet/20221009001455/README.md) RHCSE Red Hat Certified System Administrator
 - [20221006213821](/zet/20221006213821/README.md) tryhackme
