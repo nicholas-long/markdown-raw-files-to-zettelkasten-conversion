@@ -92,6 +92,11 @@
 - if the links and structure are all there, then you can take working notes directly on cards
   - can find them on phone in a few seconds
   - jot something down on web editor
+- able to manage a project
+  - put it all in a place
+  - link it to what needs to know about it
+  - i normally cannot even manage my email inbox - too much information
+  - project can manage itself?
 
 ` zet/20221007043646/README.md `
 
