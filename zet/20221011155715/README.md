@@ -1,4 +1,4 @@
-# how to make a node in my implementation?
+# video of how to make a node in my implementation
 
 [![asciicast](https://asciinema.org/a/527384.svg)](https://asciinema.org/a/527384)
 
@@ -15,4 +15,4 @@
 
 Tags:
 
-    #todo
+    #video
