@@ -6,6 +6,7 @@ the concept of a `program`
 
 # Related
 
+- [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
 - [20221012154324](/zet/20221012154324/README.md) java
 - [20221012153227](/zet/20221012153227/README.md) nodejs
 - [20221012135301](/zet/20221012135301/README.md) emacs

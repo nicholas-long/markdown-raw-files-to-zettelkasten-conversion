@@ -6,6 +6,7 @@ the concept of `user account`
 
 # Related
 
+- [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
 - [20221003151076](/zet/20221003151076/README.md) service account privileges exploiting
 - [20221003151081](/zet/20221003151081/README.md) service account privileges
 - [20221003150879](/zet/20221003150879/README.md) dirty cow privilege escalation
