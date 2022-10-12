@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221012153643](/zet/20221012153643/README.md) kafka
 - [20221012153342](/zet/20221012153342/README.md) event bus
 - [20221012153512](/zet/20221012153512/README.md) database
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
