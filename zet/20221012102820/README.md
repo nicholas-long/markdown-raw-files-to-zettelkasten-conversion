@@ -2,6 +2,8 @@
 
 - concept of `use connectome for context and keyword during spawn`
 - shouldn't take too long
+- this causes problems because nodes with 0 connections do not show up
+  - quick fix: print them out too?
 
 ```
 ```
