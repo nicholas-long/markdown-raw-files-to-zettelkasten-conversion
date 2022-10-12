@@ -20,6 +20,7 @@
 
 # Related
 
+- [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
 - [20221011153230](/zet/20221011153230/README.md) template example card for scripts
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
