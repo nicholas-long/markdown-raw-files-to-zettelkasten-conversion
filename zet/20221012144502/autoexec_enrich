@@ -6,6 +6,8 @@ export IMPL=20221006032546
 export recenttimestamp=$(date --date='1 hours ago' --iso +%Y%m%d%H%M%S)
 echo "$recenttimestamp"
 
+find zet -type f -name README.md 2>/dev/null | awk -F / '$(NF - 1) > ENVIRON["recenttimestamp"] { print $(NF - 1) }'
+
 #tf=$(mktemp)
 #echo "not enabled yet"
 #exit 0
