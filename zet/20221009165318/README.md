@@ -17,6 +17,7 @@ the concept of `putting zet cmd script in dotfiles`
 
 # Related
 
+- [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts

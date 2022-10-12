@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
