@@ -88,6 +88,10 @@
     - organizing into "paragraphs" or large groups
   - they get orgainized / sorted
   - items travel across links as projects are completed
+  - updated template to have dash lists to edit for speed
+- if the links and structure are all there, then you can take working notes directly on cards
+  - can find them on phone in a few seconds
+  - jot something down on web editor
 
 ` zet/20221007043646/README.md `
 
