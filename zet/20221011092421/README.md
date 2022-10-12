@@ -15,6 +15,7 @@ to do next:
 
 # Related
 
+- [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221011093146](/zet/20221011093146/README.md) watch rwxrob for workflow and bash tips - notes

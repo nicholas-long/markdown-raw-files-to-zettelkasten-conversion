@@ -20,6 +20,7 @@
 
 # Related
 
+- [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - workflow
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten

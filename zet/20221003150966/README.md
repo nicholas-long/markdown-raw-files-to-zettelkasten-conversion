@@ -5,6 +5,7 @@ https://osintframework.com/
 
 # Related
 
+- [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221003150965](/zet/20221003150965/README.md) OSINT guides and step-by-step flowcharts
 - [20221003150964](/zet/20221003150964/README.md) OSINT sock puppets
 - [20221003150963](/zet/20221003150963/README.md) OSINT search engine OSINT

@@ -79,6 +79,7 @@
 
 # Related
 
+- [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221012134856](/zet/20221012134856/README.md) what is org roam?
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
