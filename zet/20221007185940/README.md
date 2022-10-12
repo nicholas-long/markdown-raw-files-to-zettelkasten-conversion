@@ -7,7 +7,6 @@ probably added from github actions.
 # Related
 
 - [20221012213538](/zet/20221012213538/README.md) collect loose nodes and sort them out
-- [20221012145943](/zet/20221012145943/README.md) changes in the weather during my lifetime
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221010044240](/zet/20221010044240/README.md) titles of nodes should repopulate
 - [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
