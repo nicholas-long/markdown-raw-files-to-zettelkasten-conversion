@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
 - [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs

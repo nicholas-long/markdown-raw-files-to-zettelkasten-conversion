@@ -6,6 +6,7 @@ linux reference links and concepts
 
 # Related
 
+- [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
 - [20221012082959](/zet/20221012082959/README.md) discord
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221012070318](/zet/20221012070318/README.md) linux terminal

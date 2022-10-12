@@ -6,6 +6,7 @@ concept of the github website owned by the company microsoft.
 
 # Related
 
+- [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
 - [20221011192157](/zet/20221011192157/README.md) cool names for the project
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221010182027](/zet/20221010182027/README.md) github copilot analysis
