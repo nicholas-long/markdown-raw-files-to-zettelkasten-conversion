@@ -5,8 +5,10 @@
   - size of mini tablet screen with full intel/amd PC
     - could probably be built ARM instead but it came out before that trend
   - hardware `One Mix`
-      - came with windows 10
-      - windows 11 might be okay for it but 10 wasn't great
+    - came with windows 10
+    - windows 11 might be okay for it but 10 wasn't great
+  - touchscreen works in alacritty and some other terminal emulators
+    - not for scrolling, for highlighting or selecting / clicking
 - problems
   - touchpad C mouse lol - terrible
     - microsoft folding mice fit in pocket - use that instead
