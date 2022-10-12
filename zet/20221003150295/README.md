@@ -8,6 +8,8 @@ node-modules/        created at runtime
 
 # Related
 
+- [20221012153019](/zet/20221012153019/README.md) javascript
+- [20221012153227](/zet/20221012153227/README.md) nodejs
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 
 Tags:

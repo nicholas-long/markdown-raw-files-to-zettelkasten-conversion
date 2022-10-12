@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221012152421](/zet/20221012152421/README.md) micosoft
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 - [20221003150289](/zet/20221003150289/README.md) default webroots
 - [20221008221548](/zet/20221008221548/README.md) website

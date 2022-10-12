@@ -9,8 +9,8 @@
 
 # Related
 
-- 20221003150458
-- 20221003150210
+- [20221003150458](/zet/20221003150458/README.md) redis-cli apt repository
+- [20221003150210](/zet/20221003150210/README.md) kafkacat
 
 Tags:
 

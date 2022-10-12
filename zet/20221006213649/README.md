@@ -6,6 +6,7 @@
 
 # Related
 
+- [20221012152319](/zet/20221012152319/README.md) concept of company or organization
 - [20221011145037](/zet/20221011145037/README.md) kali linux
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam

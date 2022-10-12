@@ -9,6 +9,9 @@ the concept of `website`
 
 # Related
 
+- [20221012153019](/zet/20221012153019/README.md) javascript
+- [20221012152319](/zet/20221012152319/README.md) concept of company or organization
+- [20221012153227](/zet/20221012153227/README.md) nodejs
 - [20221012095659](/zet/20221012095659/README.md) working in github in the same branch on multiple devices
 - [20221012082959](/zet/20221012082959/README.md) discord
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session

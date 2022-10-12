@@ -4,8 +4,9 @@
 
 # Related
 
+- [20221012152319](/zet/20221012152319/README.md) concept of company or organization
 
 Tags:
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
     

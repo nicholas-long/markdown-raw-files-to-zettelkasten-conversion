@@ -25,6 +25,7 @@ https://blog.robertelder.org/data-science-linux-command-line/
 
 # Related
 
+- [20221012153512](/zet/20221012153512/README.md) database
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151278](/zet/20221003151278/README.md) linux data science
 - ~/kb/data-engineering-pipelines/data-science-linux-commands.md

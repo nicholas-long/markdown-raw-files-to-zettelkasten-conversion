@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221012153512](/zet/20221012153512/README.md) database
 - [20221010175613](/zet/20221010175613/README.md) midjourney AI generated art
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities

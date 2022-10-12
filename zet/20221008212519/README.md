@@ -6,6 +6,7 @@ the concept of `programming language`
 
 # Related
 
+- [20221012153019](/zet/20221012153019/README.md) javascript
 - [20221012135301](/zet/20221012135301/README.md) emacs
 - [20221008213122](/zet/20221008213122/README.md) version
 - [20221008214935](/zet/20221008214935/README.md) go language

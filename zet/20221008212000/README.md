@@ -6,8 +6,10 @@ the concept of `coding / programming`
 
 # Related
 
+- [20221012153019](/zet/20221012153019/README.md) javascript
+- [20221012153227](/zet/20221012153227/README.md) nodejs
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
-- [20221008214631](/zet/20221008214631/README.md) useful vim hotkeys
+- [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines
 - [20221003150590](/zet/20221003150590/README.md) php code
 - [20221003150946](/zet/20221003150946/README.md) python

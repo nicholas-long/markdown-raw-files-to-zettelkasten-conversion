@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221012153512](/zet/20221012153512/README.md) database
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150988](/zet/20221003150988/README.md) mariadb mysql
 - [20221003150982](/zet/20221003150982/README.md) mariadb mysql files check permissions
