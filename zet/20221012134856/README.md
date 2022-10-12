@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently modified hub
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221012135301](/zet/20221012135301/README.md) emacs
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
