@@ -1,13 +1,14 @@
 #!/bin/bash
-MY_ID=20221012144502
+export MY_ID=20221012144502
 export RECENT_MOD=20221012171100
-IMPL=20221006032546
+export IMPL=20221006032546
 
-recent=$(date --date='1 hour ago' --iso)
+recent=$(date --date='now' --iso)
+echo $recent
 
 tf=$(mktemp)
-echo "not enabled yet"
-exit 0
+#echo "not enabled yet"
+#exit 0
 
 # IDs currently attached to node
 echo IDs currently attached to node
@@ -19,7 +20,27 @@ $prog refs $RECENT_MOD | grep -v $MY_ID | awk '
 '
 # cleared out all the old IDs.
 
-find zet -newermt "$recent" -type f -name README.md 2>/dev/null
+find zet -type f -name README.md -newermt "$recent" 2>/dev/null | zet/$IMPL/parseids | grep -v -f <( cat << EOF
+$MY_ID
+EOF
+)  | awk '
+{
+  id = $0
+  command = "git log --date=unix -- zet/" id "/README.md"
+  while ((command | getline) > 0) {
+    if ($0 ~ /^Date:/) {
+      print $2, id
+    }
+  }
+  close(command)
+}
+' | sort -n | awk '
+{
+  id = $2
+  command = ENVIRON["prog"] " addref -t " ENVIRON["MY_ID"] " " id
+  print(command)
+}
+'
 
 rm "$tf"
 #| while read line; do
