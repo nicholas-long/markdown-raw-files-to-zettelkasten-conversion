@@ -7,6 +7,12 @@ cat dpkg.log | grep 'status installed' | awk /2-26/
 
 # Related
 
+- 20221003150156
+
+- 20221003150140
+
+- 20221006025356
+
 
 Tags:
 
