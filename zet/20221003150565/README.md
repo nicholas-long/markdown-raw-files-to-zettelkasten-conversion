@@ -7,6 +7,7 @@ nc -w 3 192.168.0.1 1234 < out.file
 
 # Related
 
+- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
 
 Tags:
 

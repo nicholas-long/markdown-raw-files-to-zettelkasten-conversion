@@ -9,6 +9,7 @@ This is a supporting repo for blog post https://www.notsosecure.com/one-rule-to-
 
 # Related
 
+- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
 
 Tags:
 

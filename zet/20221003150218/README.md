@@ -8,6 +8,7 @@ kafkacat -F kafka.config -C -t TOPIC -c 1
 
 # Related
 
+- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
 
 Tags:
 

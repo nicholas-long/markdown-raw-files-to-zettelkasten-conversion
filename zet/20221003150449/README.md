@@ -7,6 +7,7 @@ navigate around like a file system iwth cd and ls.
 
 # Related
 
+- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
 
 Tags:
 

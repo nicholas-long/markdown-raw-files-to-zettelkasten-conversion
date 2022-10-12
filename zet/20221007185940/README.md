@@ -14,142 +14,133 @@ probably added from github actions.
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221007192111](/zet/20221007192111/README.md) the first zettel generated from github
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
-- 20221012200853
-- 20221012195542
-- 20221011095152
-- 20221009165127
-- 20221009162251
-- 20221009094357
-- 20221009094344
-- 20221009094313
-- 20221009094122
-- 20221008211707
-- 20221006153444
-- 20221006153432
-- 20221006140135
-- 20221006140122
-- 20221006140015
-- 20221006135903
-- 20221005195739
-- 20221005194814
-- 20221003151442
-- 20221003151431
-- 20221003151340
-- 20221003151339
-- 20221003151322
-- 20221003151302
-- 20221003151300
-- 20221003151274
-- 20221003151268
-- 20221003151260
-- 20221003151258
-- 20221003151241
-- 20221003151238
-- 20221003151221
-- 20221003151218
-- 20221003151204
-- 20221003151203
-- 20221003151202
-- 20221003151201
-- 20221003151200
-- 20221003151199
-- 20221003151196
-- 20221003151195
-- 20221003151169
-- 20221003151168
-- 20221003151165
-- 20221003151164
-- 20221003151160
-- 20221003151158
-- 20221003151059
-- 20221003151056
-- 20221003151055
-- 20221003151053
-- 20221003151036
-- 20221003151035
-- 20221003151030
-- 20221003151029
-- 20221003150973
-- 20221003150892
-- 20221003150891
-- 20221003150882
-- 20221003150880
-- 20221003150874
-- 20221003150838
-- 20221003150834
-- 20221003150727
-- 20221003150726
-- 20221003150684
-- 20221003150631
-- 20221003150577
-- 20221003150566
-- 20221003150565
-- 20221003150559
-- 20221003150557
-- 20221003150550
-- 20221003150549
-- 20221003150527
-- 20221003150523
-- 20221003150518
-- 20221003150459
-- 20221003150456
-- 20221003150455
-- 20221003150450
-- 20221003150449
-- 20221003150445
-- 20221003150440
-- 20221003150439
-- 20221003150438
-- 20221003150436
-- 20221003150426
-- 20221003150420
-- 20221003150366
-- 20221003150365
-- 20221003150361
-- 20221003150358
-- 20221003150357
-- 20221003150353
-- 20221003150352
-- 20221003150347
-- 20221003150335
-- 20221003150332
-- 20221003150331
-- 20221003150330
-- 20221003150328
-- 20221003150323
-- 20221003150322
-- 20221003150317
-- 20221003150315
-- 20221003150294
-- 20221003150293
-- 20221003150291
-- 20221003150276
-- 20221003150271
-- 20221003150266
-- 20221003150260
-- 20221003150257
-- 20221003150256
-- 20221003150255
-- 20221003150254
-- 20221003150253
-- 20221003150252
-- 20221003150251
-- 20221003150248
-- 20221003150240
-- 20221003150222
-- 20221003150218
-- 20221003150211
-- 20221003150199
-- 20221003150198
-- 20221003150195
-- 20221003150136
-- 20221003150135
-- 20221003150132
-- 20221003150118
-- 20221003150117
-- 20221003150116
-- 20221003150097
-- 20221003150076
+- [20221008211707](/zet/20221008211707/README.md) making cool stuff
+- [20221006153444](/zet/20221006153444/README.md) Related
+- [20221006153432](/zet/20221006153432/README.md) Related
+- [20221006140135](/zet/20221006140135/README.md) Related
+- [20221006140122](/zet/20221006140122/README.md) Related
+- [20221006140015](/zet/20221006140015/README.md) Related
+- [20221006135903](/zet/20221006135903/README.md) Related
+- [20221005195739](/zet/20221005195739/README.md) testing 123
+- [20221005194814](/zet/20221005194814/README.md) ` zet/20221005194814/README.md `
+- [20221003151442](/zet/20221003151442/README.md) Box drawing ascii unicode characters
+- [20221003151431](/zet/20221003151431/README.md) awk scripting check output of grep and next line using awk "grep -A 1 -R '^# ' ."
+- [20221003151340](/zet/20221003151340/README.md) awk print unbuffered output
+- [20221003151339](/zet/20221003151339/README.md) enumerate all python imports; chain 2 awk scripts with a filter
+- [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream
+- [20221003151302](/zet/20221003151302/README.md) get current script directory
+- [20221003151300](/zet/20221003151300/README.md) drop newlines from stream with tr
+- [20221003151274](/zet/20221003151274/README.md) install mandown
+- [20221003151268](/zet/20221003151268/README.md) Lookup missing packages
+- [20221003151260](/zet/20221003151260/README.md) run windows exploit on linux using wine
+- [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
+- [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
+- [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
+- [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup
+- [20221003151218](/zet/20221003151218/README.md) send email over SMTP from command line with swaks
+- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
+- [20221003151203](/zet/20221003151203/README.md) LDAP
+- [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986
+- [20221003151201](/zet/20221003151201/README.md) RDP
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
+- [20221003151199](/zet/20221003151199/README.md) finger tcp 79
+- [20221003151196](/zet/20221003151196/README.md) IPMI
+- [20221003151195](/zet/20221003151195/README.md) DNS
+- [20221003151169](/zet/20221003151169/README.md) NFS
+- [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy
+- [20221003151165](/zet/20221003151165/README.md) TFTP udp 69
+- [20221003151164](/zet/20221003151164/README.md) SNMP
+- [20221003151160](/zet/20221003151160/README.md) password_cracking_rule
+- [20221003151158](/zet/20221003151158/README.md) License
+- [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
+- [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows
+- [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
+- [20221003151053](/zet/20221003151053/README.md) lsass process contains credentials
+- [20221003151036](/zet/20221003151036/README.md) program files UNP directory
+- [20221003151035](/zet/20221003151035/README.md) hidden shares
+- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
+- [20221003151029](/zet/20221003151029/README.md) MS08-067
+- [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup
+- [20221003150892](/zet/20221003150892/README.md) get all root process IDs
+- [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present
+- [20221003150882](/zet/20221003150882/README.md) writing to and modifying setuid binaries
+- [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560
+- [20221003150874](/zet/20221003150874/README.md) nikto command
+- [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap
+- [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack
+- [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal
+- [20221003150726](/zet/20221003150726/README.md) openssl view information about certificate request
+- [20221003150684](/zet/20221003150684/README.md) encode string as base64 url encoded
+- [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
+- [20221003150577](/zet/20221003150577/README.md) php quick client phishing attack credential harvesting
+- [20221003150566](/zet/20221003150566/README.md) Netcat Receiving file
+- [20221003150565](/zet/20221003150565/README.md) Netcat Sending file
+- [20221003150559](/zet/20221003150559/README.md) Kali Default PHP CMD Shell
+- [20221003150557](/zet/20221003150557/README.md) WhiteWinterWolf Webshell
+- [20221003150550](/zet/20221003150550/README.md) Sub domain Enum
+- [20221003150549](/zet/20221003150549/README.md) URL CRAWL/ Discovery waybackurls
+- [20221003150527](/zet/20221003150527/README.md) Generate reverse shell shellcode payload
+- [20221003150523](/zet/20221003150523/README.md) heap exploit resources
+- [20221003150518](/zet/20221003150518/README.md) pwntools sigreturn
+- [20221003150459](/zet/20221003150459/README.md) openssl cipher commands encrypt text
+- [20221003150456](/zet/20221003150456/README.md) bruteforce-salted-openssl to brute force openssl encrypted files
+- [20221003150455](/zet/20221003150455/README.md) ike-scan for ike IPsec VPNs
+- [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
+- [20221003150449](/zet/20221003150449/README.md) keepass CLI tool open and edit keepass databases
+- [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
+- [20221003150440](/zet/20221003150440/README.md) Compiled versions of .NET Windows enumeration tools
+- [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
+- [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
+- [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
+- [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
+- [20221003150420](/zet/20221003150420/README.md) finger user enum
+- [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI
+- [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell
+- [20221003150361](/zet/20221003150361/README.md) connect to minecraft server and send chat messages
+- [20221003150358](/zet/20221003150358/README.md) jxplorer connect to LDAP GUI access
+- [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
+- [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script
+- [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
+- [20221003150347](/zet/20221003150347/README.md) bruteforcing services
+- [20221003150335](/zet/20221003150335/README.md) java serialization payload `rO0` base64 `AC ED 00 05` in hex
+- [20221003150332](/zet/20221003150332/README.md) default openssl message digest
+- [20221003150331](/zet/20221003150331/README.md) log4j log4shell
+- [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext
+- [20221003150328](/zet/20221003150328/README.md) compile windows c++ binaries on linux
+- [20221003150323](/zet/20221003150323/README.md) crowdstrike falcon
+- [20221003150322](/zet/20221003150322/README.md) cyber reason
+- [20221003150317](/zet/20221003150317/README.md) malwarebytes
+- [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag
+- [20221003150294](/zet/20221003150294/README.md) wireshark TLS1.2 handshake packet
+- [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
+- [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
+- [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
+- [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
+- [20221003150266](/zet/20221003150266/README.md) systemd-private
+- [20221003150260](/zet/20221003150260/README.md) sperl and suidperl
+- [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082
+- [20221003150256](/zet/20221003150256/README.md) IPsec VPN UDP port 500 2500 strongswan
+- [20221003150255](/zet/20221003150255/README.md) solidity
+- [20221003150254](/zet/20221003150254/README.md) beacon object file BOF
+- [20221003150253](/zet/20221003150253/README.md) PXE boot
+- [20221003150252](/zet/20221003150252/README.md) httponly cookie option
+- [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange
+- [20221003150248](/zet/20221003150248/README.md) Azure AD connect
+- [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells
+- [20221003150222](/zet/20221003150222/README.md) change interface mac address
+- [20221003150218](/zet/20221003150218/README.md) Connecting to confluent
+- [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset
+- [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
+- [20221003150198](/zet/20221003150198/README.md) control key mappings for sh
+- [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
+- [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive
+- [20221003150135](/zet/20221003150135/README.md) enable horizontal scroll in less
+- [20221003150132](/zet/20221003150132/README.md) find file with name matching regular expression
+- [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
+- [20221003150117](/zet/20221003150117/README.md) OSI networking model
+- [20221003150116](/zet/20221003150116/README.md) Socat over proxy
+- [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
+- [20221003150076](/zet/20221003150076/README.md) swap panes
 
 Tags:
 

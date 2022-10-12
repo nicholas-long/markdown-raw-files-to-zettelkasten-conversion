@@ -12,6 +12,7 @@ for i in {1..1000}; do nc -w 1 192.168.119.221 $i; echo $i; done
 
 # Related
 
+- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
 
 Tags:
 
