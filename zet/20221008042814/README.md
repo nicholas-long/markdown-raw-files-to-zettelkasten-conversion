@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221012090359](/zet/20221012090359/README.md) first post from netbook
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly

@@ -42,6 +42,7 @@ Options:
 
 # Related
 
+- [20221012090359](/zet/20221012090359/README.md) first post from netbook
 - [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
 - [20221007193324](/zet/20221007193324/README.md) github actions
 - [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
