@@ -39,8 +39,10 @@ cat $idstherenow
 echo "Ids to add"
 grep -v -f $idstherenow $recentids | sort -n | awk '
 /^[0-9]+$/ {
-  command = ENVIRON["prog"] " addref -t " ENVIRON["RECENT_MOD"] " " $0
-  system(command)
+  if ($0 != ENVIRON["MY_ID"] && $0 != ENVIRON["RECENT_MOD"]) {
+    command = ENVIRON["prog"] " addref -t " ENVIRON["RECENT_MOD"] " " $0
+    system(command)
+  }
 }
 '
 
