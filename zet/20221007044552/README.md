@@ -6,10 +6,10 @@ concept of a todo list.
 
 # Related
 
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
 - [20221010071719](/zet/20221010071719/README.md) nodes to add
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008213627](/zet/20221008213627/README.md) enhancement / improvement
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
