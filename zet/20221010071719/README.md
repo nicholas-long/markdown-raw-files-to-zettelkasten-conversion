@@ -1,5 +1,6 @@
 # nodes to add
 
+- node for labeling something as an organization "concept company org"
 - javascript
   - nodejs
 - kafka
