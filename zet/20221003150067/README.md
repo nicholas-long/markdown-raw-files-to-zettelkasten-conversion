@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221012065200](/zet/20221012065200/README.md) side panels work in vim with tmux over ssh now?
 - [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
 - [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs
 - [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf?
