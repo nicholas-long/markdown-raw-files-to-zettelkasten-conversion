@@ -11,6 +11,7 @@ start a zk based note taking template for storing box notes
 
 # Related
 
+- [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
 - [20221011181347](/zet/20221011181347/README.md) hacking notes template 1
 - https://github.com/nicholas-long/kb/tree/main/hacking/notes-template
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types

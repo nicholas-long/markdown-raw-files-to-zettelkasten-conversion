@@ -6,6 +6,9 @@ stuff i am working on.
 
 # Related
 
+- [20221011092421](/zet/20221011092421/README.md) hacking video notes
+- [20221006213953](/zet/20221006213953/README.md) video notes
+- [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
@@ -23,12 +26,11 @@ stuff i am working on.
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221011192157](/zet/20221011192157/README.md) cool names for the project
 - [20221011190351](/zet/20221011190351/README.md) fix to try list cards
-- [20221011155715](/zet/20221011155715/README.md) how to make a node in my implementation?
+- [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
 - [20221011153359](/zet/20221011153359/README.md) ability to clone cards
 - [20221011145639](/zet/20221011145639/README.md) why does kali apt break bat?
 - [20221011095447](/zet/20221011095447/README.md) change vilink behavior - 1 to many
 - [20221011094643](/zet/20221011094643/README.md) find out from rwxrob why osidian markdown links do not work on github
-- [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221011093146](/zet/20221011093146/README.md) watch rwxrob for workflow and bash tips - notes
 - [20221011092204](/zet/20221011092204/README.md) catch up on alh4zr3d streams
 - [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf?

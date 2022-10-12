@@ -14,6 +14,7 @@ hub node for `workflow`
 
 # Related
 
+- [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
 - [20221012065200](/zet/20221012065200/README.md) side panels work in vim with tmux over ssh now?
 - [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
