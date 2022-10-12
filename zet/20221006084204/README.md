@@ -1,22 +1,27 @@
 # future enhancements to zet cmd
 
+- put new links on bottom instead of top? -- made card?
 - readline vi hotkeys
 - track usage with quick addition of tee to a logfile after search
-- automatic scripts stored in zettels
+- a "wild connecting mode" to just select a bunch of stuff and associate it all together
+  - removed from vilink: move multi-link to separate feature. - removed for now
+- fzf interactive link traversal browsing
+- put timestamps on bottom? `{{date}}`
+- make reference template / example implementations
+
+## move these
+
+- parse abstractions out of text using python library - which one?
+  - move to experiments
+- automatic scripts stored in zettels - done sort of
+  - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
   - use cases
     - enrich step (quick)
     - cron
   - keep real info and data up to date
   - be careful when importing scripts from other Zettelkasten...
-- search multiple words in entire zettel content
-- a "wild connecting mode" to just select a bunch of stuff and associate it all together
-  - removed from vilink: move multi-link to separate feature. - removed for now
-- fzf interactive link traversal browsing
-- git history idea
-  - put new links on bottom instead of top?
-- parse abstractions out of text using python library - which one?
-- put timestamps on bottom? `{{date}}`
-- make reference template / example implementations
+- search multiple words in entire zettel content - done sort of
+- git history idea - has card
 
 ` zet/20221006084204/README.md `
 
