@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221012134856](/zet/20221012134856/README.md) what is org roam?
 - [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn
 - [20221012102144](/zet/20221012102144/README.md) preview window for menu
 - [20221012094712](/zet/20221012094712/README.md) strange issues with sort and locale and tags

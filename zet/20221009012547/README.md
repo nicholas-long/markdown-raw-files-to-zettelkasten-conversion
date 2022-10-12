@@ -21,6 +21,7 @@ tips:
 
 # Related
 
+- [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten
 - [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration

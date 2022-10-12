@@ -6,6 +6,7 @@ concept of the github website owned by the company microsoft.
 
 # Related
 
+- [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten
 - [20221012095659](/zet/20221012095659/README.md) working in github in the same branch on multiple devices
 - [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
 - [20221011192157](/zet/20221011192157/README.md) cool names for the project

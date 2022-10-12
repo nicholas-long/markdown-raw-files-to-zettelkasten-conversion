@@ -9,6 +9,7 @@ node for video notes.
 
 # Related
 
+- [20221012134856](/zet/20221012134856/README.md) what is org roam?
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
