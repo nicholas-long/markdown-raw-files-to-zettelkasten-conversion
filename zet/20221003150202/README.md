@@ -7,6 +7,10 @@ sudo echo GRUB_DISABLE_OS_PROBER=false >> /etc/default/grub && sudo update-grub
 
 # Related
 
+- 20221007062330
+
+- 20221006025356
+
 
 Tags:
 
