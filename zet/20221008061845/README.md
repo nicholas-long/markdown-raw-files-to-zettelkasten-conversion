@@ -14,6 +14,7 @@ hub node for `workflow`
 
 # Related
 
+- [20221012065200](/zet/20221012065200/README.md) side panels work in vim with tmux over ssh now?
 - [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically

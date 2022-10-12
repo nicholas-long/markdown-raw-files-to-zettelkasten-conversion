@@ -8,6 +8,7 @@ findings about video notes
 
 # Related
 
+- [20221012065200](/zet/20221012065200/README.md) side panels work in vim with tmux over ssh now?
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
