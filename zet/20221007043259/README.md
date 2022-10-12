@@ -9,6 +9,9 @@
   - is this the right word?
     - SAAS = paid APIs?
     - PAAS = github?
+- computer science experiments
+  - use GPT or library to make bot that sounds like me from all this data
+  - git history, words + concepts, spike trains -> transhumanism
 
 ## move this stuff to cards it is growing kinda big
 
