@@ -25,3 +25,4 @@ Attempt at converting a library of raw markdown files in directories into a Zett
   - [20221009100510](/zet/20221009100510/README.md) concept of finished / being done
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [stuff that should be on this page](/zet/20221009192000/README.md)
+- [recently created notes](/zet/20221012171100/README.md)
