@@ -20,6 +20,7 @@
 
 # Related
 
+- [20221012082959](/zet/20221012082959/README.md) discord
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
 - [20221007194303](/zet/20221007194303/README.md) github

@@ -9,6 +9,7 @@ the concept of `website`
 
 # Related
 
+- [20221012082959](/zet/20221012082959/README.md) discord
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 - [20221003150289](/zet/20221003150289/README.md) default webroots

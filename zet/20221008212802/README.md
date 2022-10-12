@@ -6,6 +6,7 @@ the concept of a `program`
 
 # Related
 
+- [20221012082959](/zet/20221012082959/README.md) discord
 - [20221011180032](/zet/20221011180032/README.md) roam research
 - [20221011175948](/zet/20221011175948/README.md) evernote
 - [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs
