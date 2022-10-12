@@ -1,20 +1,36 @@
 #!/bin/bash
 MY_ID=20221012144502
+export RECENT_MOD=20221012171100
+IMPL=20221006032546
 
-recent=$(date --date='1 day ago' --iso)
+recent=$(date --date='1 hour ago' --iso)
 
+tf=$(mktemp)
 echo "not enabled yet"
 exit 0
 
-find zet -newermt "$recent" -name README.md 2>/dev/null | while read line; do
-  export filename=$line
-  git log --date=unix -- "$filename" | awk '
-  BEGIN { OFS = "\t" }
-  /^Date/ {
-    epoch = $2
-    "date --date @" epoch " --iso" | getline isodate
-    print epoch, isodate, ENVIRON["filename"]
-    exit 0
-  }'
-  shift
-done
+# IDs currently attached to node
+echo IDs currently attached to node
+$prog refs $RECENT_MOD | grep -v $MY_ID | awk '
+{
+  command = ENVIRON["prog"] " unlink " ENVIRON["RECENT_MOD"] " " $0
+  system(command)
+}
+'
+# cleared out all the old IDs.
+
+find zet -newermt "$recent" -type f -name README.md 2>/dev/null
+
+rm "$tf"
+#| while read line; do
+#  export filename=$line
+#  git log --date=unix -- "$filename" | awk '
+#  BEGIN { OFS = "\t" }
+#  /^Date/ {
+#    epoch = $2
+#    "date --date @" epoch " --iso" | getline isodate
+#    print epoch, isodate, ENVIRON["filename"]
+#    exit 0
+#  }'
+#  shift
+#done

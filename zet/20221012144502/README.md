@@ -26,6 +26,7 @@ ln -s zet/20221012144502 trackmoddate
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently modified hub
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221003151371](/zet/20221003151371/README.md) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date
