@@ -10,7 +10,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently modified hub
 - [20221012135747](/zet/20221012135747/README.md) unix text editors
 - [20221008212519](/zet/20221008212519/README.md) programming language
 - [20221003150067](/zet/20221003150067/README.md) vim

@@ -27,7 +27,6 @@ zet/20221012171100/README.md
 - [20221012145943](/zet/20221012145943/README.md) changes in the weather during my lifetime
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221012135747](/zet/20221012135747/README.md) unix text editors
-- [20221012135301](/zet/20221012135301/README.md) emacs
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:
