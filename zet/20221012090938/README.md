@@ -26,10 +26,8 @@
 
 # Related
 
-- 20221007043646
-
-- 20221008183326
-
+- [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
+- [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [20221012094712](/zet/20221012094712/README.md) strange issues with sort and locale and tags
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221012090359](/zet/20221012090359/README.md) first post from netbook

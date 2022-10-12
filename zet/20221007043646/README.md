@@ -102,6 +102,7 @@
 
 # Related
 
+- [20221012090938](/zet/20221012090938/README.md) my netbook
 - [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
