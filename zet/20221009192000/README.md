@@ -5,9 +5,12 @@ this is a node you can attach things to in order to indicate that they should go
 a script will check to see if the ID numbers appear on the main README.
 
 ```
-Reference count:  19 of 22
+Reference count:  19 of 25
 Missing:
 20221006213953
+20221008061845
+20221007043259
+20221011155715
 20221008061334
 20221009104752
 20221007185940
@@ -19,18 +22,12 @@ Missing:
 
 # Related
 
-- 20221008061845
-
-- 20221011092421
-
-- 20221007043259
-
-- 20221006213953
-
-- 20221011155715
-
-- [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221006213953](/zet/20221006213953/README.md) video notes
+- [20221008061845](/zet/20221008061845/README.md) workflow
+- [20221011092421](/zet/20221011092421/README.md) hacking video notes
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+- [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
+- [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221007185940](/zet/20221007185940/README.md) unsorted nodes
@@ -38,7 +35,6 @@ Missing:
 - [20221011181347](/zet/20221011181347/README.md) hacking notes template 1
 - [20221009172522](/zet/20221009172522/README.md) obsidian
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
-- [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
