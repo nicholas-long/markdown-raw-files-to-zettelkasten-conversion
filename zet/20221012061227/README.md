@@ -1,6 +1,6 @@
-# scared of using vim to take notes
+# scared of using vim to take notes?
 
-change EDITOR variable
+change EDITOR environment variable
 
 ```
 export EDITOR=nano
