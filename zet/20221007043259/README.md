@@ -20,6 +20,7 @@
       - graph queries and other tools should help make this possible - need to research graph stuff and language processing
     - link to cards with scripts to add skills?
     - dockers to run common commands
+  - reuse AI code completion in weird ways to help in research process
 
 ## move this stuff to cards it is growing kinda big
 
