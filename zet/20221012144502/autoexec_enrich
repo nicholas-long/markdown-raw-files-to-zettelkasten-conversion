@@ -3,10 +3,10 @@ export MY_ID=20221012144502
 export RECENT_MOD=20221012171100
 export IMPL=20221006032546
 
-recent=$(date --date='now' --iso)
-echo $recent
+export recenttimestamp=$(date --date='1 hours ago' --iso +%Y%m%d%H%M%S)
+echo $recenttimestamp
 
-tf=$(mktemp)
+#tf=$(mktemp)
 #echo "not enabled yet"
 #exit 0
 
@@ -20,38 +20,27 @@ $prog refs $RECENT_MOD | grep -v $MY_ID | awk '
 '
 # cleared out all the old IDs.
 
-find zet -type f -name README.md -newermt "$recent" 2>/dev/null | zet/$IMPL/parseids | grep -v -f <( cat << EOF
-$MY_ID
-EOF
-)  | awk '
-{
-  id = $0
-  command = "git log --date=unix -- zet/" id "/README.md"
-  while ((command | getline) > 0) {
-    if ($0 ~ /^Date:/) {
-      print $2, id
-    }
-  }
-  close(command)
-}
-' | sort -n | awk '
-{
-  id = $2
-  command = ENVIRON["prog"] " addref -t " ENVIRON["MY_ID"] " " id
-  print(command)
-}
-'
+find zet -type f -name README.md 2>/dev/null | awk -F / '$(NF - 1) > ENVIRON["recenttimestamp"]'
+#| \zet/$IMPL/parseids | grep -v -f <( cat << EOF
+#$MY_ID
+#EOF
+#)  | awk '
+#{
+#  id = $0
+#  command = "git log --date=unix -- zet/" id "/README.md"
+#  while ((command | getline) > 0) {
+#    if ($0 ~ /^Date:/) {
+#      print $2, id
+#    }
+#  }
+#  close(command)
+#}
+#' | sort -n | awk '
+#{
+#  id = $2
+#  command = ENVIRON["prog"] " addref -t " ENVIRON["RECENT_MOD"] " " id
+#  system(command)
+#}
+#'
 
-rm "$tf"
-#| while read line; do
-#  export filename=$line
-#  git log --date=unix -- "$filename" | awk '
-#  BEGIN { OFS = "\t" }
-#  /^Date/ {
-#    epoch = $2
-#    "date --date @" epoch " --iso" | getline isodate
-#    print epoch, isodate, ENVIRON["filename"]
-#    exit 0
-#  }'
-#  shift
-#done
+#rm "$tf"
