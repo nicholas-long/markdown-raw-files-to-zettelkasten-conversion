@@ -16,7 +16,8 @@ find zet -type f -name README.md 2>/dev/null | awk -F / '$(NF - 1) > ENVIRON["re
 
 # IDs currently attached to node
 echo IDs currently attached to node
-# remove everything that isn't recent or the ID of this script card
+# remove everything that isn't recent that is there already
+# don't ever remove this card's id
 $prog refs $RECENT_MOD | grep -v -f $recentids | grep -v $MY_ID | awk '
 {
   command = ENVIRON["prog"] " unlink " ENVIRON["RECENT_MOD"] " " $0
@@ -24,6 +25,7 @@ $prog refs $RECENT_MOD | grep -v -f $recentids | grep -v $MY_ID | awk '
   #system(command)
 }
 '
+
 # cleared out all the old IDs.
 idstherenow=$(mktemp)
 awk '
@@ -41,6 +43,10 @@ grep -v -f $idstherenow $recentids | sort -n | awk '
   system(command)
 }
 '
+
+rm "$idstherenow"
+rm "$recentids"
+
 #xargs -n 1 $prog addref -t $RECENT_MOD 
 
 #find zet -type f -name README.md 2>/dev/null | awk -F / '$(NF - 1) > ENVIRON["recenttimestamp"]'
