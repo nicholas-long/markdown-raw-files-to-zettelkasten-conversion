@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
 - [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs
 - [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf?
 - [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys
