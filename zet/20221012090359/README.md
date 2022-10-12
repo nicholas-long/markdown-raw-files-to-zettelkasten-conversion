@@ -4,7 +4,7 @@
 - testing workflow
   - seems nice
 - typing sucks on small keyboards, but i can jot down a quick note and connect it to a bunch of stuff
-- tags are not in a deterministic order
+- tags are not in a deterministic order?
 ```
 ┌─Status──────────────────────────┐┌─Unstaged Changes───────────────────────────────────────────────────┐
 │↑0↓0 markdown-raw-files-to-zettel││diff --git a/all_tags b/all_tags                                    │
