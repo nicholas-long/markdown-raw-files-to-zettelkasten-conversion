@@ -21,11 +21,11 @@
 #bsd
 #buzzwords
 #c
+#c-language
 #calling
 #capabilities
 #cert
 #check
-#c-language
 #cms
 #coding
 #command
@@ -43,8 +43,8 @@
 #curl
 #cyberpunk
 #data
-#database
 #data-engineering-pipelines
+#database
 #debug
 #debugging
 #decrypt
@@ -222,11 +222,11 @@
 #tips
 #tldr
 #tmux
+#to-try-list
 #todo
 #tomcat
 #tools
 #topological
-#to-try-list
 #trick
 #tricks
 #troubleshoot
