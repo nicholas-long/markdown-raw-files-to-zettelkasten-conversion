@@ -11,6 +11,7 @@ queries are usually URL encoded
 
 # Related
 
+- [20221003150457](/zet/20221003150457/README.md) GraphQLmap for GraphQL enumeration
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - ~/kb/hacking/methodology/API-enumeration.md
 

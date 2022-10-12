@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150457](/zet/20221003150457/README.md) GraphQLmap for GraphQL enumeration
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
