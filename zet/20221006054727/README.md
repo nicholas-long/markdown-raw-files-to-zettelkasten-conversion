@@ -3,6 +3,22 @@
 - add summaries of previous day in history's git commits as zettels
 - connect them to relevant files by searhcing for `- ~/kb/` links
 - the idea of time should add some context to random zettels and will add structure to the graph
+- the bash script about the last modified date is useful
+```bash
+#!/bin/bash
+while [[ $# -gt 0 ]]; do
+  export filename=$1
+  git log --date=unix -- "$1" | awk '
+  BEGIN { OFS = "\t" }
+  /^Date/ {
+    epoch = $2
+    "date --date @" epoch " --iso" | getline isodate
+    print epoch, isodate, ENVIRON["filename"] # -> commit id
+    exit 0 # -> dont
+  }'
+  shift
+done
+```
 
 ` zet/20221006054727/README.md `
 
