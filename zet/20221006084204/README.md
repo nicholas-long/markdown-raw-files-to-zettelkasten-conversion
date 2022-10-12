@@ -28,6 +28,7 @@
 
 # Related
 
+- [20221010044240](/zet/20221010044240/README.md) titles of nodes should repopulate
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
 - [20221012102144](/zet/20221012102144/README.md) preview window for menu

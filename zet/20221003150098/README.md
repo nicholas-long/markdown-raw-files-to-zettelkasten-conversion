@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221010044240](/zet/20221010044240/README.md) titles of nodes should repopulate
 - [20221012145943](/zet/20221012145943/README.md) changes in the weather during my lifetime
 - [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
 - [20221011134623](/zet/20221011134623/README.md) note taking template for heckin boxes
