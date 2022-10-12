@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221012220453](/zet/20221012220453/README.md) unlink should be easier
 - [20221012213538](/zet/20221012213538/README.md) collect loose nodes and sort them out
 - [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully
 - [20221012211416](/zet/20221012211416/README.md) my gaming desktop
