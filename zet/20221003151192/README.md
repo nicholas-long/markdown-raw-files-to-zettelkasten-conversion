@@ -49,6 +49,7 @@
 
 # Related
 
+- [20221003150976](/zet/20221003150976/README.md) IDOR general steps
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis
 - [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks )
 - [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list

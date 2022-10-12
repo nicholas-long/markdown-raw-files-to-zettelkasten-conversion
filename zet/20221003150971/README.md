@@ -57,6 +57,7 @@
 
 # Related
 
+- [20221003150976](/zet/20221003150976/README.md) IDOR general steps
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD
 
 Tags:

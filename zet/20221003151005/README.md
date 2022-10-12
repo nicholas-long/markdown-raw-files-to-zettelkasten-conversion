@@ -38,6 +38,7 @@ tips from InsiderPhD
 
 # Related
 
+- [20221003150976](/zet/20221003150976/README.md) IDOR general steps
 - [20221003150457](/zet/20221003150457/README.md) GraphQLmap for GraphQL enumeration
 - [20221010054621](/zet/20221010054621/README.md) github doesn't let me edit a markdown page with template braces
 - [20221008061845](/zet/20221008061845/README.md) workflow
