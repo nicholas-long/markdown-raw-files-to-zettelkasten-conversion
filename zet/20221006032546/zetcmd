@@ -255,10 +255,11 @@ EOF
     BEGIN { pr = 0 }
     pr && /^- / { print }
     NR > 1 && /^# Related/ { pr = 1 }
-    ' $readfile | zet/$ZET_CMD_IMPLEMENTATION/parseids | awk '
+    ' $readfile | fzf -m | zet/$ZET_CMD_IMPLEMENTATION/parseids | awk '
       {
         latestid = $0
         command = (ENVIRON["prog"] " unlink " ENVIRON["start_id"] " " latestid)
+        #print(command)
         system(command)
       }
     '
