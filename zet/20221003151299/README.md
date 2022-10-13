@@ -4,6 +4,10 @@
 
 # Related
 
+- [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal
+- [20221003150726](/zet/20221003150726/README.md) openssl view information about certificate request
+- [20221003150892](/zet/20221003150892/README.md) get all root process IDs
+- [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack
 - [20221003151339](/zet/20221003151339/README.md) enumerate all python imports; chain 2 awk scripts with a filter
 - [20221003151302](/zet/20221003151302/README.md) get current script directory
 - [20221003151300](/zet/20221003151300/README.md) drop newlines from stream with tr

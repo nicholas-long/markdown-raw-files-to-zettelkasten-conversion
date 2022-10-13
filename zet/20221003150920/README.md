@@ -11,6 +11,9 @@ find /etc -writable 2>/dev/null
 
 # Related
 
+- [20221003150565](/zet/20221003150565/README.md) Netcat Sending file
+- [20221003150892](/zet/20221003150892/README.md) get all root process IDs
+- [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221003150919](/zet/20221003150919/README.md) linux enumeration quick commands list all recursively with ls sorting by modification date within directories

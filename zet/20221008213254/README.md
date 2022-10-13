@@ -9,6 +9,7 @@ the concept of a `file path`
 
 # Related
 
+- [20221003151036](/zet/20221003151036/README.md) program files UNP directory
 - [20221003151302](/zet/20221003151302/README.md) get current script directory
 - [20221008221940](/zet/20221008221940/README.md) URL
 - [20221008215400](/zet/20221008215400/README.md) file

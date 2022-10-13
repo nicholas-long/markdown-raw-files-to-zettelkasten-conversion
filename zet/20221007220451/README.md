@@ -12,6 +12,12 @@ hacking notes mega-node
 
 # Related
 
+- [20221003150557](/zet/20221003150557/README.md) WhiteWinterWolf Webshell
+- [20221003150874](/zet/20221003150874/README.md) nikto command
+- [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal
+- [20221003150549](/zet/20221003150549/README.md) URL CRAWL/ Discovery waybackurls
+- [20221003150577](/zet/20221003150577/README.md) php quick client phishing attack credential harvesting
+- [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
 - [20221003151194](/zet/20221003151194/README.md) procedure
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes

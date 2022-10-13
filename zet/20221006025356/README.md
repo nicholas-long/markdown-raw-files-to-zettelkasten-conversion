@@ -6,6 +6,8 @@ linux reference links and concepts
 
 # Related
 
+- [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
+- [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560
 - [20221003151169](/zet/20221003151169/README.md) NFS
 - [20221003151196](/zet/20221003151196/README.md) IPMI
 - [20221003151164](/zet/20221003151164/README.md) SNMP

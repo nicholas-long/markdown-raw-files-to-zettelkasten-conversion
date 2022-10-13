@@ -42,6 +42,8 @@
 
 # Related
 
+- [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap
+- [20221003151035](/zet/20221003151035/README.md) hidden shares
 - [20221003151169](/zet/20221003151169/README.md) NFS
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

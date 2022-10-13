@@ -20,6 +20,7 @@
 
 # Related
 
+- [20221003150882](/zet/20221003150882/README.md) writing to and modifying setuid binaries
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns

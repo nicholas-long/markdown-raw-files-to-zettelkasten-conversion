@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003150221](/zet/20221003150221/README.md) surface tablet
 - [20221008215139](/zet/20221008215139/README.md) hash / checksum
 - [20221003150972](/zet/20221003150972/README.md) crack salted md5 hash with hashcat

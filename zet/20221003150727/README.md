@@ -7,12 +7,9 @@ ssh $USER@$IP -t bash --noprofile
 
 # Related
 
-- 20221007220451
-
-- 20221003151299
-
-- 20221003151210
-
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221003151299](/zet/20221003151299/README.md) bash tricks
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 
 Tags:
 

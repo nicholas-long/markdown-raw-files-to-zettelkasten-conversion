@@ -10,6 +10,7 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 
 # Related
 
+- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
 - [20221003151196](/zet/20221003151196/README.md) IPMI
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 - [20221003151199](/zet/20221003151199/README.md) finger tcp 79

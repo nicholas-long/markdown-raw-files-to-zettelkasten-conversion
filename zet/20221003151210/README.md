@@ -91,6 +91,11 @@
 
 # Related
 
+- [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal
+- [20221003150882](/zet/20221003150882/README.md) writing to and modifying setuid binaries
+- [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560
+- [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack
+- [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present
 - [20221003151165](/zet/20221003151165/README.md) TFTP udp 69
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 - [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall

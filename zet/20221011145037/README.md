@@ -9,6 +9,7 @@ the concept of `kali linux`
 
 # Related
 
+- [20221003150559](/zet/20221003150559/README.md) Kali Default PHP CMD Shell
 - [20221011145639](/zet/20221011145639/README.md) why does kali apt break bat?
 - [20221006213649](/zet/20221006213649/README.md) offensive security
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node

@@ -5,10 +5,8 @@ analyze process dump with pypykatz
 
 # Related
 
-- 20221003151207
-
-- 20221003151172
-
+- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
+- [20221003151172](/zet/20221003151172/README.md) active directory domain
 
 Tags:
 

@@ -5,10 +5,8 @@ used for windows update
 
 # Related
 
-- 20221008213254
-
-- 20221003151153
-
+- [20221008213254](/zet/20221008213254/README.md) file path
+- [20221003151153](/zet/20221003151153/README.md) windows
 
 Tags:
 

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150559](/zet/20221003150559/README.md) Kali Default PHP CMD Shell
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151225](/zet/20221003151225/README.md) php filter LFI to iconv RCE original get 0 script

@@ -9,6 +9,7 @@ the concept of a `password`
 
 # Related
 
+- [20221003150577](/zet/20221003150577/README.md) php quick client phishing attack credential harvesting
 - [20221008215530](/zet/20221008215530/README.md) username
 - [20221003150870](/zet/20221003150870/README.md) john the ripper crack hashes from file with wordlist
 - [20221003150279](/zet/20221003150279/README.md) pfx extension PKCS#12 format certificate cracking

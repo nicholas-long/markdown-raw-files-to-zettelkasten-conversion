@@ -7,6 +7,7 @@ net view \\192.168.0.1
 
 # Related
 
+- [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap
 - [20221003151124](/zet/20221003151124/README.md) dos commands
 
 Tags:

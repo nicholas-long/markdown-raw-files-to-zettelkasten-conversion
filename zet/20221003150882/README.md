@@ -6,10 +6,8 @@ https://unix.stackexchange.com/questions/284947/why-suid-bit-is-unset-after-file
 
 # Related
 
-- 20221003151209
-
-- 20221003151210
-
+- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 
 Tags:
 

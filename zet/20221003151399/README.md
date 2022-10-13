@@ -14,6 +14,7 @@ done | grep '^[A-Za-z0-9]*$'
 
 # Related
 
+- [20221003150684](/zet/20221003150684/README.md) encode string as base64 url encoded
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 

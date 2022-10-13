@@ -86,6 +86,8 @@
 
 # Related
 
+- [20221003151053](/zet/20221003151053/README.md) lsass process contains credentials
+- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
 - [20221003151218](/zet/20221003151218/README.md) send email over SMTP from command line with swaks
 - [20221003151203](/zet/20221003151203/README.md) LDAP
 - [20221003151201](/zet/20221003151201/README.md) RDP

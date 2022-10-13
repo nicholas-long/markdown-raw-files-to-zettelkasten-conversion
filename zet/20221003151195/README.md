@@ -10,6 +10,8 @@
 
 # Related
 
+- [20221003150550](/zet/20221003150550/README.md) Sub domain Enum
+- [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup
 - [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
 - [20221003150134](/zet/20221003150134/README.md) DNS
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists

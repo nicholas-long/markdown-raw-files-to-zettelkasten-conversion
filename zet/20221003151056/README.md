@@ -11,12 +11,9 @@ For more information, please visit https://go.microsoft.com/fwlink/?LinkId=51834
 
 # Related
 
-- 20221003151213
-
-- 20221003151207
-
-- 20221003151200
-
+- [20221003151213](/zet/20221003151213/README.md) got leaked files TRY
+- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 
 Tags:
 

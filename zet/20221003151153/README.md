@@ -7,6 +7,11 @@
 
 # Related
 
+- [20221003151029](/zet/20221003151029/README.md) MS08-067
+- [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
+- [20221003151036](/zet/20221003151036/README.md) program files UNP directory
+- [20221003151035](/zet/20221003151035/README.md) hidden shares
+- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
 - [20221003151165](/zet/20221003151165/README.md) TFTP udp 69
 - [20221003151164](/zet/20221003151164/README.md) SNMP

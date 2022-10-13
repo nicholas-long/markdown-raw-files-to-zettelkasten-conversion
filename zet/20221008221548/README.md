@@ -9,6 +9,7 @@ the concept of `website`
 
 # Related
 
+- [20221003150549](/zet/20221003150549/README.md) URL CRAWL/ Discovery waybackurls
 - [20221012153019](/zet/20221012153019/README.md) javascript
 - [20221012152319](/zet/20221012152319/README.md) concept of company or organization
 - [20221012153227](/zet/20221012153227/README.md) nodejs

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150874](/zet/20221003150874/README.md) nikto command
 - [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221003150481](/zet/20221003150481/README.md) general enumeration get list of filepaths recursively
 - [20221003150480](/zet/20221003150480/README.md) general enumeration get processes

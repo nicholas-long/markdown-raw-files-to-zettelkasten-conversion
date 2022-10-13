@@ -5,12 +5,9 @@ shares with a `$` at the end of the name are hidden by default on windows
 
 # Related
 
-- 20221003151198
-
-- 20221003151153
-
-- 20221003150312
-
+- [20221003151198](/zet/20221003151198/README.md) SMB
+- [20221003151153](/zet/20221003151153/README.md) windows
+- [20221003150312](/zet/20221003150312/README.md) SMB
 
 Tags:
 

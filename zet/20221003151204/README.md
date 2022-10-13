@@ -27,6 +27,7 @@
 
 # Related
 
+- [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221003151285](/zet/20221003151285/README.md) postgres cannot find table name

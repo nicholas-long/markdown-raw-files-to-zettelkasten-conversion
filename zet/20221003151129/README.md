@@ -6,6 +6,8 @@ any domain user can add a DNS record.
 
 # Related
 
+- [20221003150550](/zet/20221003150550/README.md) Sub domain Enum
+- [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup
 - [20221003151195](/zet/20221003151195/README.md) DNS
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node

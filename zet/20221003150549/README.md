@@ -7,14 +7,10 @@ echo "$URL" | waybackurls| httpx-pd -silent > link.txt
 
 # Related
 
-- 20221008221548
-
-- 20221007220451
-
-- 20221003150966
-
-- 20221003150953
-
+- [20221008221548](/zet/20221008221548/README.md) website
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221003150966](/zet/20221003150966/README.md) OSINT
+- [20221003150953](/zet/20221003150953/README.md) OSINT organizations
 
 Tags:
 

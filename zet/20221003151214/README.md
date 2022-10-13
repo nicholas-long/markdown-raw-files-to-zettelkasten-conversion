@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
 - [20221003151164](/zet/20221003151164/README.md) SNMP
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists

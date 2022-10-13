@@ -83,10 +83,8 @@ sm4-ofb
 
 # Related
 
-- 20221008212802
-
-- 20221003150791
-
+- [20221008212802](/zet/20221008212802/README.md) software program
+- [20221003150791](/zet/20221003150791/README.md) openssl
 
 Tags:
 

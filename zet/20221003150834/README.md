@@ -8,14 +8,10 @@ sucrack -u root -
 
 # Related
 
-- 20221008215655
-
-- 20221008215530
-
-- 20221003151299
-
-- 20221003151210
-
+- [20221008215655](/zet/20221008215655/README.md) user account
+- [20221008215530](/zet/20221008215530/README.md) username
+- [20221003151299](/zet/20221003151299/README.md) bash tricks
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 
 Tags:
 
