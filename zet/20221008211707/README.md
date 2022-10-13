@@ -9,6 +9,7 @@ the concept of `making cool stuff`
 
 # Related
 
+- [20221013035616](/zet/20221013035616/README.md) fun
 - [20221003150098](/zet/20221003150098/README.md) todo
 
 Tags:

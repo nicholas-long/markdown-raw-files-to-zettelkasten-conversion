@@ -6,6 +6,7 @@ fun to play with.
 
 # Related
 
+- [20221013035616](/zet/20221013035616/README.md) fun
 - [20221012082959](/zet/20221012082959/README.md) discord
 - [20221010182027](/zet/20221010182027/README.md) github copilot analysis
 - [20221003150098](/zet/20221003150098/README.md) todo

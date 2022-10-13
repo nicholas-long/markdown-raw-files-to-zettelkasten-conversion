@@ -30,6 +30,7 @@ tail -f /var/log/auth.log | \
 
 # Related
 
+- [20221013035616](/zet/20221013035616/README.md) fun
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 
