@@ -44,7 +44,7 @@ while [ 1 == "$going" ]; do
         print $0
         fflush()
       }
-    ' "$doc" > "$selection"
+    ' "$doc" | fzf > "$selection"
     if [ ! -z "$id" ]; then
       zet/$IMPL/parseids $selection | sort -u | xargs -n 1 zet/$IMPL/zetcmd unlink "$id"
     fi
