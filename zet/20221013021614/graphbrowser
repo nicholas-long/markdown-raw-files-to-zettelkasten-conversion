@@ -1,0 +1,54 @@
+#!/bin/bash
+MYID=20221013021614
+IMPL=20221006032546
+
+# running preview subprocess
+if [ "$1" == "preview" ]; then
+  bat --color=always $2
+  exit 0
+fi
+
+# main loop
+going=1
+doc="README.md"
+selection=$(mktemp)
+while [ 1 == "$going" ]; do
+  awk '
+  BEGIN {
+    print "exit"
+    print "unlink"
+    fflush()
+  }
+  /^ *- \[.*\]\(\/zet\/[0-9]+\/README.md\)/ {
+    print "goto", $0
+    fflush()
+  }
+  ' "$doc" | fzf --preview="$0 preview '$doc'" --preview-window=up > "$selection"
+  sel="$(cat $selection)"
+  act=$(cat $selection | awk '{print $1}')
+  id=$(echo "$doc" | awk -F / '{ print $(NF-1) }')
+  if [ "$act" == "exit" ]; then
+    exit 0
+  elif [ "$act" == "goto" ]; then
+    doc=$(awk '{
+      gsub(/\).*$/,"")
+      gsub(/^.*\(/,"")
+      gsub(/^\//,"")
+      print
+    }' $selection)
+    echo "changed to $doc"
+  elif [ "$act" == "unlink" ]; then
+    echo "DEBUG: current id is $id"
+    awk '
+      /^ *- \[.*\]\(\/zet\/[0-9]+\/README.md\)/ {
+        print $0
+        fflush()
+      }
+    ' "$doc" > "$selection"
+    if [ ! -z "$id" ]; then
+      zet/$IMPL/parseids $selection | sort -u | xargs -n 1 zet/$IMPL/zetcmd unlink "$id"
+    fi
+  fi
+  sleep 1
+done
+rm "$selection"
