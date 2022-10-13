@@ -7,6 +7,7 @@ john --wordlist=/usr/share/wordlists/rockyou.txt mypasswd
 
 # Related
 
+- [20221013192245](/zet/20221013192245/README.md) cracking hashes
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008215325](/zet/20221008215325/README.md) password
 - [20221003150871](/zet/20221003150871/README.md) john the ripper

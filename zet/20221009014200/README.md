@@ -6,6 +6,7 @@ the concept of a `command`
 
 # Related
 
+- [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
 - [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
 - [20221003150874](/zet/20221003150874/README.md) nikto command

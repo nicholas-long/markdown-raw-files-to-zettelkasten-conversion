@@ -86,6 +86,7 @@
 
 # Related
 
+- [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
@@ -111,7 +112,7 @@
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008215655](/zet/20221008215655/README.md) user account
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - ~/kb/hacking/to-try-lists/privesc/windows.md

@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221013192245](/zet/20221013192245/README.md) cracking hashes
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221013185406](/zet/20221013185406/README.md) etc passwd file on linux
 - [20221008215325](/zet/20221008215325/README.md) password

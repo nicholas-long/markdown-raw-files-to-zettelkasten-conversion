@@ -6,6 +6,7 @@ concept of the github website owned by the company microsoft.
 
 # Related
 
+- [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
 - [20221003150440](/zet/20221003150440/README.md) Compiled versions of .NET Windows enumeration tools
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools

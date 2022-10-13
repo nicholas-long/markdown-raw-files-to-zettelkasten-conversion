@@ -12,6 +12,7 @@ hacking notes hub
 
 # Related
 
+- [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
 - [20221003150317](/zet/20221003150317/README.md) malwarebytes

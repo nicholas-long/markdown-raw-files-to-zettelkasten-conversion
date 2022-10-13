@@ -25,16 +25,17 @@
 
 # Related
 
-- 20221003150869
-- 20221003150870
-- 20221003150745
-- 20221008215139
-- 20221013185456
-- 20221003150276
-- 20221003151156
-- 20221003151157
-- 20221003150972
-- 20221003150871
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221003150869](/zet/20221003150869/README.md) john the ripper use rules to crack hashes from file with wordlist
+- [20221003150870](/zet/20221003150870/README.md) john the ripper crack hashes from file with wordlist
+- [20221003150745](/zet/20221003150745/README.md) cracking keepass database with image key 2 john
+- [20221008215139](/zet/20221008215139/README.md) hash / checksum
+- [20221013185456](/zet/20221013185456/README.md) shadow file
+- [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
+- [20221003151156](/zet/20221003151156/README.md) hashcat generate passwords from password masks and output to stdout
+- [20221003151157](/zet/20221003151157/README.md) hashcat generate wordlist from file with rules
+- [20221003150972](/zet/20221003150972/README.md) crack salted md5 hash with hashcat
+- [20221003150871](/zet/20221003150871/README.md) john the ripper
 
 Tags:
 

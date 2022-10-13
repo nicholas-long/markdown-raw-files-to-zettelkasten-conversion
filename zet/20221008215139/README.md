@@ -6,6 +6,8 @@ the concept of `hash / checksum`
 
 # Related
 
+- [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
+- [20221013192245](/zet/20221013192245/README.md) cracking hashes
 - [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
 - [20221013185120](/zet/20221013185120/README.md) crypto and blockchain stuff
 - [20221013185456](/zet/20221013185456/README.md) shadow file

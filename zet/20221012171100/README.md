@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221013192245](/zet/20221013192245/README.md) cracking hashes
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat

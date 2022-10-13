@@ -10,6 +10,8 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 
 # Related
 
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
 - [20221003151196](/zet/20221003151196/README.md) IPMI
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
