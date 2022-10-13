@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221003151260](/zet/20221003151260/README.md) run windows exploit on linux using wine
 - [20221003151060](/zet/20221003151060/README.md) location of services in windows registry
 - [20221012211416](/zet/20221012211416/README.md) my gaming desktop
 - [20221012152421](/zet/20221012152421/README.md) micosoft

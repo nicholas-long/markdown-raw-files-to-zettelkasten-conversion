@@ -7,16 +7,11 @@ find / -name '*.py' -exec grep "" /dev/null {} \; 2>/dev/null | awk -F: '$2 ~ /i
 
 # Related
 
-- 20221008181005
-
-- 20221003151367
-
-- 20221003151299
-
-- 20221003150946
-
-- 20221003150942
-
+- [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
+- [20221003151367](/zet/20221003151367/README.md) bash scripting list public github repositories for user
+- [20221003151299](/zet/20221003151299/README.md) bash tricks
+- [20221003150946](/zet/20221003150946/README.md) python
+- [20221003150942](/zet/20221003150942/README.md) python imports
 
 Tags:
 

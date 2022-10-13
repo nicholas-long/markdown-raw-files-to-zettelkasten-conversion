@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151442](/zet/20221003151442/README.md) Box drawing ascii unicode characters
 - [20221008212000](/zet/20221008212000/README.md) coding / programming

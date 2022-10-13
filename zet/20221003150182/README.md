@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003151274](/zet/20221003151274/README.md) install mandown
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221003150181](/zet/20221003150181/README.md) install alacritty  fix build errors
 - [20221003150180](/zet/20221003150180/README.md) install alacritty  commands

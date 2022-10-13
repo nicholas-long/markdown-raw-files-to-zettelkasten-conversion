@@ -7,10 +7,8 @@ kali APT packages have same name
 
 # Related
 
-- 20221006025356
-
-- 20221003151153
-
+- [20221006025356](/zet/20221006025356/README.md) linux
+- [20221003151153](/zet/20221003151153/README.md) windows
 
 Tags:
 

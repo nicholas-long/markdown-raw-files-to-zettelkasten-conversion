@@ -14,6 +14,7 @@ sources:
 
 # Related
 
+- [20221003151339](/zet/20221003151339/README.md) enumerate all python imports; chain 2 awk scripts with a filter
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - [20221003151275](/zet/20221003151275/README.md) install docker compose cli extension
 - https://github.com/nicholas-long/vulnerable-software-hashes

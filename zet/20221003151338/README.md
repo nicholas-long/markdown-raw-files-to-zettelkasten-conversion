@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003151431](/zet/20221003151431/README.md) awk scripting check output of grep and next line using awk "grep -A 1 -R '^# ' ."
 - [20221003151340](/zet/20221003151340/README.md) awk print unbuffered output
 - [20221010044240](/zet/20221010044240/README.md) titles of nodes should repopulate
 - [20221011153230](/zet/20221011153230/README.md) template example card for scripts

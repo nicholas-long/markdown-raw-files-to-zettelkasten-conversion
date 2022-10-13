@@ -6,6 +6,7 @@ concept of the github website owned by the company microsoft.
 
 # Related
 
+- [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
 - [20221012152421](/zet/20221012152421/README.md) micosoft
 - [20221012152319](/zet/20221012152319/README.md) concept of company or organization
 - [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten

@@ -4,6 +4,10 @@
 
 # Related
 
+- [20221003151339](/zet/20221003151339/README.md) enumerate all python imports; chain 2 awk scripts with a filter
+- [20221003151302](/zet/20221003151302/README.md) get current script directory
+- [20221003151300](/zet/20221003151300/README.md) drop newlines from stream with tr
+- [20221003151431](/zet/20221003151431/README.md) awk scripting check output of grep and next line using awk "grep -A 1 -R '^# ' ."
 - [20221003151340](/zet/20221003151340/README.md) awk print unbuffered output
 - [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
 - [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn

@@ -5,6 +5,7 @@
 
 # Related
 
+- [20221003151300](/zet/20221003151300/README.md) drop newlines from stream with tr
 - [20221012153512](/zet/20221012153512/README.md) database
 - [20221003151278](/zet/20221003151278/README.md) linux data science
 - ~/kb/data-engineering-pipelines/data-science-linux-commands.md

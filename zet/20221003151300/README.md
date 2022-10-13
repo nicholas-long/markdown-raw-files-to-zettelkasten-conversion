@@ -7,12 +7,9 @@ tr -d "\n"
 
 # Related
 
-- 20221003151299
-
-- 20221003151276
-
-- 20221003150662
-
+- [20221003151299](/zet/20221003151299/README.md) bash tricks
+- [20221003151276](/zet/20221003151276/README.md) linux data science issues
+- [20221003150662](/zet/20221003150662/README.md) data analysis commands
 
 Tags:
 

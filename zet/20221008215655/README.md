@@ -6,6 +6,7 @@ the concept of `user account`
 
 # Related
 
+- [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
 - [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
 - [20221003151076](/zet/20221003151076/README.md) service account privileges exploiting
 - [20221003151081](/zet/20221003151081/README.md) service account privileges

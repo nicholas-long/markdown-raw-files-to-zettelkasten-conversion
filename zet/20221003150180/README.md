@@ -8,6 +8,7 @@ cargo install alacritty
 
 # Related
 
+- [20221003151274](/zet/20221003151274/README.md) install mandown
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221003150182](/zet/20221003150182/README.md) install alacritty 
 - ~/kb/linux/install-alacritty.md

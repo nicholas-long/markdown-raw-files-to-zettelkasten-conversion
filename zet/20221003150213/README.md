@@ -7,6 +7,7 @@ sudo apt install kafkacat
 
 # Related
 
+- [20221003151274](/zet/20221003151274/README.md) install mandown
 - [20221003150215](/zet/20221003150215/README.md) kafkacat install
 - ~/kb/kafka/quick-and-dirty-kafkacat.md
 
