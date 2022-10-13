@@ -51,14 +51,16 @@ while [ 1 == "$going" ]; do
     if [ ! -z "$id" ]; then
       zet/$IMPL/parseids $selection | sort -u | xargs -n 1 zet/$IMPL/zetcmd unlink "$id"
     fi
+    sleep 1
   elif [ "$act" == "link" ]; then
     zet/$IMPL/zetcmd connectome -m | awk '{print $1}' > $selection
     if [ ! -z "$id" ]; then
       zet/$IMPL/parseids $selection | sort -u | xargs -n 1 zet/$IMPL/zetcmd addref -t "$id"
     fi
+    sleep 1
   elif [ "$act" == "back" ]; then
     doc="$prevdoc"
+    echo "back to $doc"
   fi
-  sleep 1
 done
 rm "$selection"
