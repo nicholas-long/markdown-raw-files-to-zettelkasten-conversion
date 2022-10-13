@@ -86,6 +86,7 @@
 
 # Related
 
+- [20221013192245](/zet/20221013192245/README.md) cracking hashes
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
@@ -100,7 +101,7 @@
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008215530](/zet/20221008215530/README.md) username
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d
 - [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old
