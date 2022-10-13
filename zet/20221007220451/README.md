@@ -12,6 +12,8 @@ hacking notes mega-node
 
 # Related
 
+- [20221003150347](/zet/20221003150347/README.md) bruteforcing services
+- [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
 - [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script
 - [20221003150361](/zet/20221003150361/README.md) connect to minecraft server and send chat messages
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003151218](/zet/20221003151218/README.md) send email over SMTP from command line with swaks
 - [20221003151203](/zet/20221003151203/README.md) LDAP

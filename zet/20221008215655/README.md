@@ -6,6 +6,8 @@ the concept of `user account`
 
 # Related
 
+- [20221013180230](/zet/20221013180230/README.md) session cookie or access token
+- [20221013180125](/zet/20221013180125/README.md) concept of a cookie
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150420](/zet/20221003150420/README.md) finger user enum

@@ -10,6 +10,8 @@ identifies a user account.
 
 # Related
 
+- [20221013180125](/zet/20221013180125/README.md) concept of a cookie
+- [20221013180230](/zet/20221013180230/README.md) session cookie or access token
 - [20221003150577](/zet/20221003150577/README.md) php quick client phishing attack credential harvesting
 - [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack
 - [20221008215655](/zet/20221008215655/README.md) user account

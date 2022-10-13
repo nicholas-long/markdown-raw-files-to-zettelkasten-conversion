@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221003150347](/zet/20221003150347/README.md) bruteforcing services
+- [20221003150335](/zet/20221003150335/README.md) java serialization payload `rO0` base64 `AC ED 00 05` in hex
 - [20221003150361](/zet/20221003150361/README.md) connect to minecraft server and send chat messages
 - [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986
 - [20221003151199](/zet/20221003151199/README.md) finger tcp 79

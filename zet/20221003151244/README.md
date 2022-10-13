@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221013175957](/zet/20221013175957/README.md) serialization concept
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221013175128](/zet/20221013175128/README.md) preparing exploit payloads
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

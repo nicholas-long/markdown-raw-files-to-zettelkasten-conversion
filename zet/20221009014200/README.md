@@ -6,6 +6,7 @@ the concept of a `command`
 
 # Related
 
+- [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
 - [20221003150874](/zet/20221003150874/README.md) nikto command
 - [20221003150726](/zet/20221003150726/README.md) openssl view information about certificate request
 - [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump

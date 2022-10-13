@@ -49,6 +49,7 @@
 
 # Related
 
+- [20221013180230](/zet/20221013180230/README.md) session cookie or access token
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
 - [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy
 - [20221003150976](/zet/20221003150976/README.md) IDOR general steps

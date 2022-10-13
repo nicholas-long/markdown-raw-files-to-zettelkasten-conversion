@@ -12,12 +12,9 @@
 
 # Related
 
-- 20221007220451
-
-- 20221003150744
-
-- 20221003150242
-
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221003150744](/zet/20221003150744/README.md) hydra brute force
+- [20221003150242](/zet/20221003150242/README.md) identify service
 
 Tags:
 

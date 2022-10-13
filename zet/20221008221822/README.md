@@ -8,6 +8,7 @@ the concept of `www - the web`
 
 # Related
 
+- [20221013180125](/zet/20221013180125/README.md) concept of a cookie
 - [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
 - [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages

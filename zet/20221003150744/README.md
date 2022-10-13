@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150347](/zet/20221003150347/README.md) bruteforcing services
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150743](/zet/20221003150743/README.md) hydra brute force HTTP Basic Authentication
 - [20221003150742](/zet/20221003150742/README.md) hydra brute force HTTP Get Request

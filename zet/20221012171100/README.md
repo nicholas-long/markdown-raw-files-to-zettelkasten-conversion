@@ -11,6 +11,9 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221013180230](/zet/20221013180230/README.md) session cookie or access token
+- [20221013180125](/zet/20221013180125/README.md) concept of a cookie
+- [20221013175957](/zet/20221013175957/README.md) serialization concept
 - [20221013175128](/zet/20221013175128/README.md) preparing exploit payloads
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
 - [20221013173355](/zet/20221013173355/README.md) the process of enumerating a target

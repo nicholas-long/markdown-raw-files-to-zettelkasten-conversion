@@ -9,6 +9,7 @@ the concept of `website`
 
 # Related
 
+- [20221013180125](/zet/20221013180125/README.md) concept of a cookie
 - [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
 - [20221003150549](/zet/20221003150549/README.md) URL CRAWL/ Discovery waybackurls

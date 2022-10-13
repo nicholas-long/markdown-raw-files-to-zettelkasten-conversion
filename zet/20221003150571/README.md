@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221013175957](/zet/20221013175957/README.md) serialization concept
 - [20221003150570](/zet/20221003150570/README.md) PHP unserialize payload gadget chains like ysoserial but for PHP
 - ~/kb/hacking/php/deserialization-attacks.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix

@@ -14,6 +14,7 @@ python2 pickles start with hex `80 03` and end with `.`
 
 # Related
 
+- [20221013175957](/zet/20221013175957/README.md) serialization concept
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 

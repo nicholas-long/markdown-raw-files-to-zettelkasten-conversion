@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
 - [20221003150440](/zet/20221003150440/README.md) Compiled versions of .NET Windows enumeration tools
 - [20221003150455](/zet/20221003150455/README.md) ike-scan for ike IPsec VPNs
 - [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
