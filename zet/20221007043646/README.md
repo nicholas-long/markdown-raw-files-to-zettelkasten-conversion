@@ -106,6 +106,7 @@
 
 # Related
 
+- [20221013180437](/zet/20221013180437/README.md) differences organizing zettelkasten in graph vs files in hierarchy
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221007192111](/zet/20221007192111/README.md) the first zettel generated from github
 - [20221012095659](/zet/20221012095659/README.md) working in github in the same branch on multiple devices

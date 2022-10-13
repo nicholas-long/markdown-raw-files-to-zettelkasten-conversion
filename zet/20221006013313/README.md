@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221013180437](/zet/20221013180437/README.md) differences organizing zettelkasten in graph vs files in hierarchy
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221012134856](/zet/20221012134856/README.md) what is org roam?
 - [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten

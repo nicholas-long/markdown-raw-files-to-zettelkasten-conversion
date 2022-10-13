@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221013180437](/zet/20221013180437/README.md) differences organizing zettelkasten in graph vs files in hierarchy
 - [20221013180230](/zet/20221013180230/README.md) session cookie or access token
 - [20221013180125](/zet/20221013180125/README.md) concept of a cookie
 - [20221013175957](/zet/20221013175957/README.md) serialization concept

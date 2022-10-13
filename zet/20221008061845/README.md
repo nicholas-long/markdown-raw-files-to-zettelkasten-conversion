@@ -14,6 +14,7 @@ hub node for `workflow`
 
 # Related
 
+- [20221013180437](/zet/20221013180437/README.md) differences organizing zettelkasten in graph vs files in hierarchy
 - [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221012095659](/zet/20221012095659/README.md) working in github in the same branch on multiple devices
