@@ -101,6 +101,10 @@
   - should only run scripts that update things without user intervention in crons
 - it would work as a graph database in a really low overhead docker type of environment or embedded system.
 - it is easier to script something for a lot of nodes than to play with a graph UI visualizer
+- get to notes right away from terminal through known path of links, just like website
+- a new note and a connection can be the same as putting something on a todo list
+  - concept hub for todo lists - all todo lists there
+  - nodes for todo, WIP, done ~ issue tracking
 
 ` zet/20221007043646/README.md `
 
