@@ -12,7 +12,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently modified hub
 - [20221012154059](/zet/20221012154059/README.md) scala
 - [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI
 - [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze

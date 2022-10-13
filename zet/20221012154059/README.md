@@ -13,7 +13,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently modified hub
 - [20221012154324](/zet/20221012154324/README.md) java
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
 - [20221008212519](/zet/20221008212519/README.md) programming language

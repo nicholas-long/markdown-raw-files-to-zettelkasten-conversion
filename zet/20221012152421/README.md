@@ -14,7 +14,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently modified hub
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221012152319](/zet/20221012152319/README.md) concept of company or organization
 - [20221003150221](/zet/20221003150221/README.md) surface tablet

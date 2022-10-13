@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently modified hub
 - [20221003150372](/zet/20221003150372/README.md) web app paths defaults db
 - [20221008221548](/zet/20221008221548/README.md) website
 - [20221003151243](/zet/20221003151243/README.md) preparing malicious package payloads node npm package
