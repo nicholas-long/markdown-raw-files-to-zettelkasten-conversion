@@ -12,8 +12,6 @@ probably added from github actions.
 - [20221007192111](/zet/20221007192111/README.md) the first zettel generated from github
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221008211707](/zet/20221008211707/README.md) making cool stuff
-- [20221005195739](/zet/20221005195739/README.md) testing 123
-- [20221005194814](/zet/20221005194814/README.md) ` zet/20221005194814/README.md `
 - [20221003151442](/zet/20221003151442/README.md) Box drawing ascii unicode characters
 - [20221003151431](/zet/20221003151431/README.md) awk scripting check output of grep and next line using awk "grep -A 1 -R '^# ' ."
 - [20221003151340](/zet/20221003151340/README.md) awk print unbuffered output

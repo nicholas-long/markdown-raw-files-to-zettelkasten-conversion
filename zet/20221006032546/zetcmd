@@ -248,19 +248,27 @@ EOF
       }
     '
     ;;
-  viunlink) # visual linking
-    $prog search | zet/$ZET_CMD_IMPLEMENTATION/parseids | awk '
-      { arr[NR]=$0 }
-      NR > 1 {
+  viunlink) # unlink 1 node from its connections
+    export start_id=$($prog connectome "select 1>" | zet/$ZET_CMD_IMPLEMENTATION/parseids)
+    $prog connectome -m "select many>" | zet/$ZET_CMD_IMPLEMENTATION/parseids | awk '
+      {
         latestid = $0
-        for (n = 1; n < NR; n++) {
-          previd = arr[n]
-          command = (ENVIRON["prog"] " unlink " latestid " " previd)
-          print command
-          system(command)
-        }
+        command = (ENVIRON["prog"] " unlink " ENVIRON["start_id"] " " latestid)
+        system(command)
       }
     '
+    #$prog search | zet/$ZET_CMD_IMPLEMENTATION/parseids | awk '
+    #  { arr[NR]=$0 }
+    #  NR > 1 {
+    #    latestid = $0
+    #    for (n = 1; n < NR; n++) {
+    #      previd = arr[n]
+    #      command = (ENVIRON["prog"] " unlink " latestid " " previd)
+    #      print command
+    #      system(command)
+    #    }
+    #  }
+    #'
     ;;
   preview)
     if [ ! -z "$filearg" ]; then
