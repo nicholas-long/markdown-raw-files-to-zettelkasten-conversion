@@ -10,6 +10,8 @@
     - SAAS = paid APIs?
     - PAAS = github?
 - choose your own adventure game
+- bot to automatically link together cards
+  - only do it once - if ppl remove links then they do not belong
 
 ## move this stuff to cards it is growing kinda big
 
