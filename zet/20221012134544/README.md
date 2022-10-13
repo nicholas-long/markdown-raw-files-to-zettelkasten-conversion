@@ -11,6 +11,8 @@
 
 # Related
 
+- 20221012134856
+
 - [20221009012547](/zet/20221009012547/README.md) Github UI tricks
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
 - [20221007194303](/zet/20221007194303/README.md) github
