@@ -7,7 +7,12 @@ complicated - refer to ippsec "conceal" video
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221006214348
+
+- 20221006213953
+
+- 20221003150455
+
 
 Tags:
 

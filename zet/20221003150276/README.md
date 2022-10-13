@@ -5,7 +5,20 @@ convert shadow file to passwd file with hashes for john
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221009014200
+
+- 20221008215400
+
+- 20221007220451
+
+- 20221006025356
+
+- 20221003151397
+
+- 20221003150926
+
+- 20221003150871
+
 
 Tags:
 

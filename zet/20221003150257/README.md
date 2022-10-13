@@ -5,7 +5,16 @@ java version of mysql database
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221012153512
+
+- 20221007220451
+
+- 20221003151204
+
+- 20221003151200
+
+- 20221003150242
+
 
 Tags:
 

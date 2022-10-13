@@ -6,7 +6,18 @@ has default google authenticator key in setup instructions
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221008221822
+
+- 20221003150866
+
+- 20221003150865
+
+- 20221003151192
+
+- 20221003151184
+
+- 20221003150250
+
 
 Tags:
 

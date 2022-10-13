@@ -5,7 +5,14 @@ Solidity is an object-oriented, high-level language for implementing smart contr
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221008212519
+
+- 20221008212000
+
+- 20221007220451
+
+- 20221006214729
+
 
 Tags:
 

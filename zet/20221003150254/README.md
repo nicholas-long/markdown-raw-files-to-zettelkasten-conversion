@@ -6,7 +6,16 @@ see section on ["run executable binary programs within process memory"](tricks/r
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221013174958
+
+- 20221003151144
+
+- 20221007220451
+
+- 20221006214729
+
+- 20221006213953
+
 
 Tags:
 
