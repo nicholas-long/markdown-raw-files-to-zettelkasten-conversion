@@ -12,8 +12,7 @@
 
 # Related
 
-- 20221006214142
-
+- [20221006214142](/zet/20221006214142/README.md) streamers
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos
 - [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8

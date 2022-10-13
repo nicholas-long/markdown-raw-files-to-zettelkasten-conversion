@@ -8,6 +8,7 @@ node for streamers and content creators.
 
 # Related
 
+- [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221011092959](/zet/20221011092959/README.md) conda active directory hacking videos
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

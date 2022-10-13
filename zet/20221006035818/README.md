@@ -82,8 +82,7 @@ these videos are called "beginner boost" but they are filled with incredibly use
 
 # Related
 
-- 20221006213953
-
+- [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221007205652](/zet/20221007205652/README.md) find limit recusion depth
 - [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames
