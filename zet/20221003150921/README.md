@@ -6,6 +6,7 @@
 
 # Related
 
+- [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
 - [20221008194048](/zet/20221008194048/README.md) good DLLs to hide in for sideloading
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 

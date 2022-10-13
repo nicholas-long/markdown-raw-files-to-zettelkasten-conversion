@@ -86,6 +86,8 @@
 
 # Related
 
+- [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
+- [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003151053](/zet/20221003151053/README.md) lsass process contains credentials
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
 - [20221003151218](/zet/20221003151218/README.md) send email over SMTP from command line with swaks

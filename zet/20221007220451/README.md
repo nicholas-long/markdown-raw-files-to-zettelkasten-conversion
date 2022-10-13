@@ -12,6 +12,7 @@ hacking notes mega-node
 
 # Related
 
+- [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script
 - [20221003150361](/zet/20221003150361/README.md) connect to minecraft server and send chat messages
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
 - [20221003150449](/zet/20221003150449/README.md) keepass CLI tool open and edit keepass databases

@@ -7,6 +7,9 @@
 
 # Related
 
+- [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
+- [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
+- [20221003150328](/zet/20221003150328/README.md) compile windows c++ binaries on linux
 - [20221003150440](/zet/20221003150440/README.md) Compiled versions of .NET Windows enumeration tools
 - [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI
 - [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell

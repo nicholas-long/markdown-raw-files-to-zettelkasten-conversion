@@ -6,6 +6,8 @@ the concept of `user account`
 
 # Related
 
+- [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
+- [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150420](/zet/20221003150420/README.md) finger user enum
 - [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack
 - [20221003150577](/zet/20221003150577/README.md) php quick client phishing attack credential harvesting

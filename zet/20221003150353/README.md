@@ -28,14 +28,11 @@ exit
 
 # Related
 
-- 20221008215325
-
-- 20221007220451
-
-- 20221006025356
-
-- 20221003151210
-
+- [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
+- [20221008215325](/zet/20221008215325/README.md) password
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221006025356](/zet/20221006025356/README.md) linux
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 
 Tags:
 

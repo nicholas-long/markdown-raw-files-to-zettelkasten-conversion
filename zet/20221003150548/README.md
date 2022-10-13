@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221013175128](/zet/20221013175128/README.md) preparing exploit payloads
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150547](/zet/20221003150547/README.md) simple binary exploits jmp esp instruction FF E4
 - [20221003150545](/zet/20221003150545/README.md) simple binary exploits pattern offset finding

@@ -6,6 +6,7 @@ the concept of `programming language`
 
 # Related
 
+- [20221003150328](/zet/20221003150328/README.md) compile windows c++ binaries on linux
 - [20221012154324](/zet/20221012154324/README.md) java
 - [20221012154059](/zet/20221012154059/README.md) scala
 - [20221012153019](/zet/20221012153019/README.md) javascript

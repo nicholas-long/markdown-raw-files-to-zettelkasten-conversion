@@ -5,6 +5,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings
 
 # Related
 
+- [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007194303](/zet/20221007194303/README.md) github
