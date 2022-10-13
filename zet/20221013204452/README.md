@@ -16,8 +16,7 @@
 
 # Related
 
-- 20221013195816
-
+- [20221013195816](/zet/20221013195816/README.md) ability to spawn from an existing card
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
