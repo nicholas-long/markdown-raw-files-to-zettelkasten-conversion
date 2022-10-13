@@ -11,6 +11,7 @@
 
 # Related
 
+- [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells
 - [20221008081231](/zet/20221008081231/README.md) debugging
 - [20221003151023](/zet/20221003151023/README.md) analyzing source code
 - ~/kb/hacking/methodology/source-analysis.md

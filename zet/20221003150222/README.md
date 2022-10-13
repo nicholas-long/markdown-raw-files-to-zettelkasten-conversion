@@ -9,14 +9,9 @@ sudo ifconfig wlan0 up
 
 # Related
 
-- 20221007220451
-
-- 20221013185251
-
-- 20221007220451
-
-- 20221003150117
-
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
+- [20221013185251](/zet/20221013185251/README.md) general information concept FYI
+- [20221003150117](/zet/20221003150117/README.md) OSI networking model
 
 Tags:
 

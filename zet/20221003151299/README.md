@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
 - [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal
@@ -37,7 +38,7 @@
 - [20221008081231](/zet/20221008081231/README.md) debugging
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221007181438](/zet/20221007181438/README.md) directories and bash scripts as commands
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221003151298](/zet/20221003151298/README.md) bash tricks run a command / program in a pty to get color output

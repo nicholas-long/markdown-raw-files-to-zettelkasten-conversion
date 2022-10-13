@@ -9,33 +9,34 @@
 
 # Related
 
-- 20221003151275
-- 20221003150181
-- 20221003150214
-- 20221003151120
-- 20221003150180
-- 20221003150213
-- 20221003150182
-- 20221003150215
-- 20221003151274
-- 20221003150622
-- 20221003151215
-- 20221003151265
-- 20221003150199
-- 20221003150632
-- 20221003150097
-- 20221003150212
-- 20221008042334
-- 20221003150178
-- 20221003150179
-- 20221003151248
-- 20221003151369
-- 20221003151366
-- 20221003151250
-- 20221003151249
-- 20221003150298
-- 20221003151056
-- 20221003150137
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221003151275](/zet/20221003151275/README.md) install docker compose cli extension
+- [20221003150181](/zet/20221003150181/README.md) install alacritty  fix build errors
+- [20221003150214](/zet/20221003150214/README.md) kafkacat install alias for kcat
+- [20221003151120](/zet/20221003151120/README.md) dos commands installed drivers
+- [20221003150180](/zet/20221003150180/README.md) install alacritty  commands
+- [20221003150213](/zet/20221003150213/README.md) kafkacat install APT
+- [20221003150182](/zet/20221003150182/README.md) install alacritty 
+- [20221003150215](/zet/20221003150215/README.md) kafkacat install
+- [20221003151274](/zet/20221003151274/README.md) install mandown
+- [20221003150622](/zet/20221003150622/README.md) PureFTP Install
+- [20221003151215](/zet/20221003151215/README.md) caddy install
+- [20221003151265](/zet/20221003151265/README.md) fzf install
+- [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
+- [20221003150632](/zet/20221003150632/README.md) list dpkg packages installed on a certain date
+- [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
+- [20221003150212](/zet/20221003150212/README.md) kafkacat install quick and dirty shell script using docker
+- [20221008042334](/zet/20221008042334/README.md) why does git ask questions instead of pulling changes
+- [20221003150178](/zet/20221003150178/README.md) install alacritty  config file example yaml config
+- [20221003150179](/zet/20221003150179/README.md) install alacritty  config file
+- [20221003151248](/zet/20221003151248/README.md) sending installs to target install pip modules on target as files with no dependencies on network connection to pip
+- [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext
+- [20221003151366](/zet/20221003151366/README.md) bash scripting install vscode
+- [20221003151250](/zet/20221003151250/README.md) sending installs to target
+- [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies
+- [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module
+- [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows
+- [20221003150137](/zet/20221003150137/README.md) installing virtualbox
 
 Tags:
 

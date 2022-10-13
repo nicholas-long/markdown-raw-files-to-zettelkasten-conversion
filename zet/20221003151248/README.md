@@ -34,6 +34,7 @@ find home | grep py # it's all here!
 
 # Related
 
+- [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221003151250](/zet/20221003151250/README.md) sending installs to target
 - ~/kb/hacking/tricks/install-pip-modules-on-target-as-files.md
 

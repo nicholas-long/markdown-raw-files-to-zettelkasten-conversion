@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes
 - [20221009172351](/zet/20221009172351/README.md) markdown file format
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd

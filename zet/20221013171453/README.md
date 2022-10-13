@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells
 - [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
 - [20221003150440](/zet/20221003150440/README.md) Compiled versions of .NET Windows enumeration tools
 - [20221003150455](/zet/20221003150455/README.md) ike-scan for ike IPsec VPNs
@@ -21,7 +22,7 @@
 - [20221006025730](/zet/20221006025730/README.md) apt repositories
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221007194303](/zet/20221007194303/README.md) github
 
 Tags:

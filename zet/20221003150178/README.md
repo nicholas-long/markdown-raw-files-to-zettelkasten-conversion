@@ -6,6 +6,7 @@ https://github.com/alacritty/alacritty/blob/master/alacritty.yml
 
 # Related
 
+- [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221003150179](/zet/20221003150179/README.md) install alacritty  config file
 - ~/kb/linux/install-alacritty.md
 

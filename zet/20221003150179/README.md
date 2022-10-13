@@ -5,6 +5,7 @@
 
 # Related
 
+- [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221003151274](/zet/20221003151274/README.md) install mandown
 - [20221003150182](/zet/20221003150182/README.md) install alacritty 
 - [20221003150178](/zet/20221003150178/README.md) install alacritty  config file example yaml config

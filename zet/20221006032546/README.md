@@ -42,6 +42,7 @@ Options:
 
 # Related
 
+- [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation

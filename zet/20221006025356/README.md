@@ -6,6 +6,7 @@ linux reference links and concepts
 
 # Related
 
+- [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
 - [20221003150253](/zet/20221003150253/README.md) PXE boot
 - [20221003150266](/zet/20221003150266/README.md) systemd-private

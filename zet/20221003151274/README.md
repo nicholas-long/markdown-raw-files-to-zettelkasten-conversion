@@ -9,6 +9,7 @@ RUN git clone https://github.com/Titor8115/mandown && cd mandown && make && make
 # Related
 
 - [20221003151274](/zet/20221003151274/README.md) install mandown
+- [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221009172351](/zet/20221009172351/README.md) markdown file format
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext

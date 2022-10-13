@@ -13,6 +13,7 @@ implemented:
 
 # Related
 
+- [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes
 - [20221007181438](/zet/20221007181438/README.md) directories and bash scripts as commands
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221011153359](/zet/20221011153359/README.md) ability to clone cards
