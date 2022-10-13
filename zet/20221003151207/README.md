@@ -86,6 +86,12 @@
 
 # Related
 
+- [20221003151165](/zet/20221003151165/README.md) TFTP udp 69
+- [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup
+- [20221003151203](/zet/20221003151203/README.md) LDAP
+- [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
+- [20221003151201](/zet/20221003151201/README.md) RDP
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
 - [20221003151060](/zet/20221003151060/README.md) location of services in windows registry
 - [20221011182016](/zet/20221011182016/README.md) working notes - privesc

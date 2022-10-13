@@ -9,12 +9,9 @@ This is a supporting repo for blog post https://www.notsosecure.com/one-rule-to-
 
 # Related
 
-- 20221013035124
-
-- 20221012221003
-
-- 20221005194814
-
+- [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
+- [20221012221003](/zet/20221012221003/README.md) weird related bug documents
+- [20221005194814](/zet/20221005194814/README.md) related bug problem zettel
 
 Tags:
 

@@ -5,6 +5,7 @@ docker available
 
 # Related
 
+- [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221003150781](/zet/20221003150781/README.md) enum4linux-ng next gen default smb enumeration
 - ~/kb/hacking/commands/enum4linux-command.md
 

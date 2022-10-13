@@ -6,14 +6,10 @@ C:\windows\tasks
 
 # Related
 
-- 20221003151207
-
-- 20221003151204
-
-- 20221003151200
-
-- 20221003151153
-
+- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
+- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
+- [20221003151153](/zet/20221003151153/README.md) windows
 
 Tags:
 

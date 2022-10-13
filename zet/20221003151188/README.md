@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

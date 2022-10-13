@@ -27,36 +27,22 @@
 
 # Related
 
-- 20221009102436
-
-- 20221003151285
-
-- 20221003151236
-
-- 20221003151234
-
-- 20221003151192
-
-- 20221003151188
-
-- 20221003150988
-
-- 20221003150987
-
-- 20221003150984
-
-- 20221003150983
-
-- 20221003150981
-
-- 20221003150980
-
-- 20221003150979
-
-- 20221003150829
-
-- 20221003150826
-
+- [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
+- [20221003151285](/zet/20221003151285/README.md) postgres cannot find table name
+- [20221003151236](/zet/20221003151236/README.md) mysql mariadb
+- [20221003151234](/zet/20221003151234/README.md) mysql mariadb UDF shell
+- [20221003151192](/zet/20221003151192/README.md) HTTP TRY
+- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS
+- [20221003150988](/zet/20221003150988/README.md) mariadb mysql
+- [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi
+- [20221003150984](/zet/20221003150984/README.md) mariadb mysql SQLi information tables
+- [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
+- [20221003150981](/zet/20221003150981/README.md) mariadb mysql files read
+- [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
+- [20221003150979](/zet/20221003150979/README.md) mariadb mysql files read database users
+- [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list
+- [20221003150826](/zet/20221003150826/README.md) postgres sql enumeration exit
 
 Tags:
 

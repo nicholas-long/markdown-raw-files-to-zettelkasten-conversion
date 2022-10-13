@@ -5,10 +5,8 @@
 
 # Related
 
-- 20221009102436
-
-- 20221003150242
-
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
+- [20221003150242](/zet/20221003150242/README.md) identify service
 
 Tags:
 

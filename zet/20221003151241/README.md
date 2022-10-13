@@ -8,16 +8,11 @@ Filter non windows hosts `| grep 'bytes from' | grep -v 'ttl=12'`
 
 # Related
 
-- 20221006025356
-
-- 20221003150786
-
-- 20221003150782
-
-- 20221003150683
-
-- 20221003150482
-
+- [20221006025356](/zet/20221006025356/README.md) linux
+- [20221003150786](/zet/20221003150786/README.md) enum4linux
+- [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen
+- [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
+- [20221003150482](/zet/20221003150482/README.md) general enumeration
 
 Tags:
 

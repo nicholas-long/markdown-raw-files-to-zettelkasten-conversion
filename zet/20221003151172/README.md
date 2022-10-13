@@ -86,6 +86,9 @@
 
 # Related
 
+- [20221003151218](/zet/20221003151218/README.md) send email over SMTP from command line with swaks
+- [20221003151203](/zet/20221003151203/README.md) LDAP
+- [20221003151201](/zet/20221003151201/README.md) RDP
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists

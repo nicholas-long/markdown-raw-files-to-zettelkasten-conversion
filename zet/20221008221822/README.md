@@ -8,6 +8,7 @@ the concept of `www - the web`
 
 # Related
 
+- [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy
 - [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS
 - [20221012152319](/zet/20221012152319/README.md) concept of company or organization
 - [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys

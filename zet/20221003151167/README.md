@@ -11,6 +11,7 @@
 
 # Related
 
+- [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221008215139](/zet/20221008215139/README.md) hash / checksum
 - [20221008215325](/zet/20221008215325/README.md) password

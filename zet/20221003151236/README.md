@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
 - [20221012153512](/zet/20221012153512/README.md) database
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151235](/zet/20221003151235/README.md) mysql mariadb display query output as pretty printed text with column names

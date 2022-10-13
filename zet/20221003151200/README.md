@@ -24,16 +24,12 @@
 
 # Related
 
-- 20221009102436
-
-- 20221003151210
-
-- 20221009102436
-
-- 20221003151207
-
-- 20221003151153
-
+- [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
+- [20221003151169](/zet/20221003151169/README.md) NFS
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
+- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
+- [20221003151153](/zet/20221003151153/README.md) windows
 
 Tags:
 

@@ -6,6 +6,10 @@ linux reference links and concepts
 
 # Related
 
+- [20221003151169](/zet/20221003151169/README.md) NFS
+- [20221003151196](/zet/20221003151196/README.md) IPMI
+- [20221003151164](/zet/20221003151164/README.md) SNMP
+- [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
 - [20221003151268](/zet/20221003151268/README.md) Lookup missing packages
 - [20221003151260](/zet/20221003151260/README.md) run windows exploit on linux using wine

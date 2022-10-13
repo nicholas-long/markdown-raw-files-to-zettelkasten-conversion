@@ -49,6 +49,8 @@
 
 # Related
 
+- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
+- [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy
 - [20221003150976](/zet/20221003150976/README.md) IDOR general steps
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis
 - [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks )

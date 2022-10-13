@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150785](/zet/20221003150785/README.md) enum4linux enumerate SMB shares and permissions
 - [20221003150784](/zet/20221003150784/README.md) enum4linux Scan Host

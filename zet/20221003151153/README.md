@@ -7,6 +7,13 @@
 
 # Related
 
+- [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
+- [20221003151165](/zet/20221003151165/README.md) TFTP udp 69
+- [20221003151164](/zet/20221003151164/README.md) SNMP
+- [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup
+- [20221003151203](/zet/20221003151203/README.md) LDAP
+- [20221003151201](/zet/20221003151201/README.md) RDP
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 - [20221003151260](/zet/20221003151260/README.md) run windows exploit on linux using wine
 - [20221003151060](/zet/20221003151060/README.md) location of services in windows registry
 - [20221012211416](/zet/20221012211416/README.md) my gaming desktop

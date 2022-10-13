@@ -8,12 +8,9 @@ swaks -s $IP -f from@sender.com -t to@recipient.com --header "Subject: this is t
 
 # Related
 
-- 20221003151172
-
-- 20221003151144
-
-- 20221003150488
-
+- [20221003151172](/zet/20221003151172/README.md) active directory domain
+- [20221003151144](/zet/20221003151144/README.md) active directory 
+- [20221003150488](/zet/20221003150488/README.md) active directory
 
 Tags:
 

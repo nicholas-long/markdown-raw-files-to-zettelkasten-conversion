@@ -91,6 +91,8 @@
 
 # Related
 
+- [20221003151165](/zet/20221003151165/README.md) TFTP udp 69
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 - [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221011182016](/zet/20221011182016/README.md) working notes - privesc

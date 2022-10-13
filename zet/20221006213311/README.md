@@ -6,6 +6,7 @@ node for hackthebox.
 
 # Related
 
+- [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
 - [20221012152319](/zet/20221012152319/README.md) concept of company or organization
 - [20221011134623](/zet/20221011134623/README.md) note taking template for heckin boxes
 - [20221009032056](/zet/20221009032056/README.md) keeping track of htb ctf flags

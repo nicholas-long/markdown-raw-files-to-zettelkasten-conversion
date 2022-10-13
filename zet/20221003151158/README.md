@@ -6,8 +6,7 @@ Additional custom rules are added besides those mentioned above, these additiona
 
 # Related
 
-- 20221013035124
-
+- [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 
 Tags:
 

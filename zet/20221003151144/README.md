@@ -4,6 +4,9 @@
 
 # Related
 
+- [20221003151218](/zet/20221003151218/README.md) send email over SMTP from command line with swaks
+- [20221003151203](/zet/20221003151203/README.md) LDAP
+- [20221003151201](/zet/20221003151201/README.md) RDP
 - [20221011092959](/zet/20221011092959/README.md) conda active directory hacking videos
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam

@@ -10,14 +10,11 @@
 
 # Related
 
-- 20221003150134
-
-- 20221009102436
-
-- 20221003151129
-
-- 20221003150242
-
+- [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
+- [20221003150134](/zet/20221003150134/README.md) DNS
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
+- [20221003151129](/zet/20221003151129/README.md) active directory  DNS
+- [20221003150242](/zet/20221003150242/README.md) identify service
 
 Tags:
 
