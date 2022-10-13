@@ -5,6 +5,7 @@
 - preview window in menu that shows
   - help for option
   - dashboard, stats, git ?
+- added git porcelain status with color
 
 ```
 ```

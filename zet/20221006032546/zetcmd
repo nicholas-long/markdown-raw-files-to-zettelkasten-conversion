@@ -174,7 +174,7 @@ viunlink
 connectome
 quitter
 EOF
-      ) | fzf "--prompt=pull first> " > $selection
+      ) | fzf --preview="zet/$ZET_CMD_IMPLEMENTATION/previewgit" --preview-window=up "--prompt=pull first> " > $selection
       export answer=$(cat $selection) # have to export this or if does not work as intended - why?
       if [ "$answer" == "" ]; then
         exit 0
