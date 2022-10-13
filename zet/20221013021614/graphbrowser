@@ -16,6 +16,7 @@ while [ 1 == "$going" ]; do
   awk '
   BEGIN {
     print "exit"
+    print "link"
     print "unlink"
     fflush()
   }
@@ -47,6 +48,11 @@ while [ 1 == "$going" ]; do
     ' "$doc" | fzf > "$selection"
     if [ ! -z "$id" ]; then
       zet/$IMPL/parseids $selection | sort -u | xargs -n 1 zet/$IMPL/zetcmd unlink "$id"
+    fi
+  elif [ "$act" == "link" ]; then
+    zet/$IMPL/zetcmd connectome -m | awk '{print $1}' > $selection
+    if [ ! -z "$id" ]; then
+      zet/$IMPL/parseids $selection | sort -u | xargs -n 1 zet/$IMPL/zetcmd addref -t "$id"
     fi
   fi
   sleep 1
