@@ -4,6 +4,7 @@
 - info and download at https://obsidian.md/
 - links made from inside obsidian do not work on github. - why?
   - i bet it has to do with markdown formats and that rwxrob knows the answer
+- iframes can render a youtube video in obisidian - WTF?
 
 ```
 ```
@@ -12,6 +13,7 @@
 
 # Related
 
+- [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - https://obsidian.md/

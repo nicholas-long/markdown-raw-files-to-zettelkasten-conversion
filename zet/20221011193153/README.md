@@ -54,6 +54,9 @@
     - plant seed into "evergreen forest"
   - "bip tag"
     - yaml in document?
+  - template notes for youtube
+  - iframes can render a youtube video in obisidian
+    - WTF?
 
 ```
 ```
@@ -62,6 +65,7 @@
 
 # Related
 
+- [20221009172522](/zet/20221009172522/README.md) obsidian
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
