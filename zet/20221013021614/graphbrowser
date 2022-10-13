@@ -15,10 +15,11 @@ selection=$(mktemp)
 while [ 1 == "$going" ]; do
   awk '
   BEGIN {
-    print "exit"
+    print "edit"
+    print "back"
     print "link"
     print "unlink"
-    print "back"
+    print "exit"
     fflush()
   }
   /^ *- \[.*\]\(\/zet\/[0-9]+\/README.md\)/ {
@@ -61,6 +62,11 @@ while [ 1 == "$going" ]; do
   elif [ "$act" == "back" ]; then
     doc="$prevdoc"
     echo "back to $doc"
+  elif [ "$act" == "edit" ]; then
+    if [ -z "$EDITOR" ]; then
+      EDITOR=$(which nvim 2>/dev/null || which vim 2>/dev/null || which vi 2>/dev/null )
+    fi
+    $EDITOR "$doc"
   fi
 done
 rm "$selection"
