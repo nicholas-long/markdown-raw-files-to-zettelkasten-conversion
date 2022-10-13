@@ -184,6 +184,9 @@ EOF
         exit 0
       elif [ "$answer" == "browser" ]; then
         zet/$GRAPHBROWSER/graphbrowser
+      elif [ "$answer" == "enrich" ]; then
+        $prog enrich
+        $prog enrich # do it twice for now
       else
         $prog $answer
       fi
