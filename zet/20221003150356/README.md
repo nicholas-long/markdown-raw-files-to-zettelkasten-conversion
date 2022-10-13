@@ -5,6 +5,14 @@ https://github.com/C0nd4/OSCP-Priv-Esc
 
 # Related
 
+- 20221011092959
+
+- 20221009102436
+
+- 20221007220451
+
+- 20221007194303
+
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221009001238](/zet/20221009001238/README.md) certification
 

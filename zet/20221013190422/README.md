@@ -3,6 +3,7 @@
 - concept of `headline exploits`
 - exploits which are so good that everyone has heard about them in the news
 - a bunch of people googling "how to check if vulnerable to ..." all at once
+- headline exploits by year? - start with a node, build it out into specific years later
 
 ```
 ```
