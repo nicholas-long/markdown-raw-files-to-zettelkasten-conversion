@@ -7,7 +7,16 @@ SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221008213254
+
+- 20221008070202
+
+- 20221003151332
+
+- 20221003151329
+
+- 20221003151299
+
 
 Tags:
 

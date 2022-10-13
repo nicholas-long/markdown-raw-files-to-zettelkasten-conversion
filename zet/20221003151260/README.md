@@ -7,7 +7,10 @@ kali APT packages have same name
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221006025356
+
+- 20221003151153
+
 
 Tags:
 

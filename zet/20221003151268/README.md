@@ -5,7 +5,12 @@ https://command-not-found.com/pkexec
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221012101349
+
+- 20221009015743
+
+- 20221006025356
+
 
 Tags:
 

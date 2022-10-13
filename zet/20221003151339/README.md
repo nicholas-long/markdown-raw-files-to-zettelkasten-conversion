@@ -7,7 +7,16 @@ find / -name '*.py' -exec grep "" /dev/null {} \; 2>/dev/null | awk -F: '$2 ~ /i
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221008181005
+
+- 20221003151367
+
+- 20221003151299
+
+- 20221003150946
+
+- 20221003150942
+
 
 Tags:
 

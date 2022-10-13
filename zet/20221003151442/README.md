@@ -56,7 +56,6 @@ drwxr-xr-x  3 kali kali 4096 Jan 27 17:58 priv-esc                              
 - [20221013035616](/zet/20221013035616/README.md) fun
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221003151443](/zet/20221003151443/README.md) kb
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
 
 Tags:
 
