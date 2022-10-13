@@ -17,6 +17,7 @@ ln -s zet/20221013021614/ browser
 
 # Related
 
+- [20221013203732](/zet/20221013203732/README.md) feels like "being plugged into the matrix"
 - [20221013195816](/zet/20221013195816/README.md) ability to spawn from an existing card
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221012102144](/zet/20221012102144/README.md) preview window for menu
