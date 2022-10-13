@@ -15,7 +15,6 @@
 - [20221010044240](/zet/20221010044240/README.md) titles of nodes should repopulate
 - [20221012145943](/zet/20221012145943/README.md) changes in the weather during my lifetime
 - [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
-- [20221011134623](/zet/20221011134623/README.md) note taking template for heckin boxes
 - [20221011090542](/zet/20221011090542/README.md) ripgrep might be useful
 - [20221010175613](/zet/20221010175613/README.md) midjourney AI generated art
 - [20221010164408](/zet/20221010164408/README.md) why do i have to export this line in bash or it does not work as intended

@@ -6,7 +6,6 @@ stuff i am working on.
 
 # Related
 
-- [20221008211707](/zet/20221008211707/README.md) making cool stuff
 - [20221012221003](/zet/20221012221003/README.md) weird related bug documents
 - [20221012213538](/zet/20221012213538/README.md) collect loose nodes and sort them out
 - [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully

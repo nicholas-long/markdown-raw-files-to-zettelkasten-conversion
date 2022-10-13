@@ -12,7 +12,6 @@ probably added from github actions.
 - [20221007192111](/zet/20221007192111/README.md) the first zettel generated from github
 - [20221003151442](/zet/20221003151442/README.md) Box drawing ascii unicode characters
 - [20221003151431](/zet/20221003151431/README.md) awk scripting check output of grep and next line using awk "grep -A 1 -R '^# ' ."
-- [20221003151340](/zet/20221003151340/README.md) awk print unbuffered output
 - [20221003151339](/zet/20221003151339/README.md) enumerate all python imports; chain 2 awk scripts with a filter
 - [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream
 - [20221003151302](/zet/20221003151302/README.md) get current script directory
