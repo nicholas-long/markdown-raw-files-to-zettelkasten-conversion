@@ -5,8 +5,9 @@ this is a node you can attach things to in order to indicate that they should go
 a script will check to see if the ID numbers appear on the main README.
 
 ```
-Reference count:  29 of 26
+Reference count:  29 of 27
 Missing:
+20221013204452
 20221013035616
 ```
 
@@ -14,6 +15,7 @@ Missing:
 
 # Related
 
+- [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221013035616](/zet/20221013035616/README.md) fun
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221008061845](/zet/20221008061845/README.md) workflow
@@ -35,7 +37,7 @@ Missing:
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221009100510](/zet/20221009100510/README.md) concept of finished / being done
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten

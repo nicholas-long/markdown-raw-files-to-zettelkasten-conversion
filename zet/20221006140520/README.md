@@ -20,6 +20,7 @@
 
 # Related
 
+- [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn
 - [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
 - [20221011153230](/zet/20221011153230/README.md) template example card for scripts

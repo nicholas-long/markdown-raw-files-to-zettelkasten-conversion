@@ -19,13 +19,11 @@ the concept of `zettelkasten note taking software programs`
 
 # Related
 
-- 20221006032546
-
+- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
 - [20221011180032](/zet/20221011180032/README.md) roam research
 - [20221011175948](/zet/20221011175948/README.md) evernote
 - https://www.youtube.com/watch?v=hvLLVCcPsIE
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221009172522](/zet/20221009172522/README.md) obsidian
 - [20221006204315](/zet/20221006204315/README.md) fastest way to take graph notes

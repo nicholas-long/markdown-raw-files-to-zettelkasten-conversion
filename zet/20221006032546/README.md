@@ -42,6 +42,7 @@ Options:
 
 # Related
 
+- [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221013203732](/zet/20221013203732/README.md) feels like "being plugged into the matrix"
 - [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions

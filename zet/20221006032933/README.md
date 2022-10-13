@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd

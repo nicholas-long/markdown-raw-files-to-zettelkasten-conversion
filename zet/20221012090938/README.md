@@ -33,6 +33,7 @@
 
 # Related
 
+- [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
 - [20221013203732](/zet/20221013203732/README.md) feels like "being plugged into the matrix"
 - [20221012101349](/zet/20221012101349/README.md) ubuntu
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
