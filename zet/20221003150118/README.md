@@ -5,7 +5,20 @@ terminal -> features -> "disable application keypad mode"
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221013185251
+
+- 20221008212802
+
+- 20221010222312
+
+- 20221008061845
+
+- 20221003151174
+
+- 20221003151153
+
+- 20221003150862
+
 
 Tags:
 

@@ -25,10 +25,17 @@ Transmission and reception of raw bit streams over a physical medium
 
 # Related
 
+- 20221011092421
+
+- 20221007220451
+
+- 20221003150717
+
+- 20221003150648
+
 - [20221003150222](/zet/20221003150222/README.md) change interface mac address
 - [20221003150253](/zet/20221003150253/README.md) PXE boot
 - [20221003150455](/zet/20221003150455/README.md) ike-scan for ike IPsec VPNs
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
 
 Tags:
 

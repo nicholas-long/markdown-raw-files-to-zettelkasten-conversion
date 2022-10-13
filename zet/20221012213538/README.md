@@ -166,9 +166,12 @@ BEGIN { id = "BEGIN" }
 
 # Related
 
+- 20221003151275
+
+- 20221009095853
+
 - [20221007185940](/zet/20221007185940/README.md) unsorted nodes
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
-- [20221008042814](/zet/20221008042814/README.md) WIP
 
 Tags:
 

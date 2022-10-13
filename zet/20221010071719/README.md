@@ -1,7 +1,7 @@
 # nodes to add
 
 
-- concept of installing something
+- concept hub for tricks?
 
 ` zet/20221010071719/README.md `
 

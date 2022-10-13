@@ -8,7 +8,12 @@ socat TCP4-LISTEN:5678,fork SOCKS4A:localhost:$IP:$PORT,socksport=9050
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221003151161
+
+- 20221003150604
+
+- 20221003150107
+
 
 Tags:
 
