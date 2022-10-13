@@ -18,6 +18,7 @@ Hash mode #20
 
 # Related
 
+- [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
 - [20221012211416](/zet/20221012211416/README.md) my gaming desktop
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008215139](/zet/20221008215139/README.md) hash / checksum

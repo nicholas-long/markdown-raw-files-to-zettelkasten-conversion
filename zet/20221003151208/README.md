@@ -6,6 +6,8 @@
 
 # Related
 
+- [20221013190422](/zet/20221013190422/README.md) headline exploits
+- [20221003150331](/zet/20221003150331/README.md) log4j log4shell
 - [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

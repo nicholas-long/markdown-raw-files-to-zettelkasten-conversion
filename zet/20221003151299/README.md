@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal
 - [20221003150726](/zet/20221003150726/README.md) openssl view information about certificate request

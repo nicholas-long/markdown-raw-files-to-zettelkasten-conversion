@@ -7,6 +7,7 @@ most domains will prefer kerberos, but will allow NTLMv2 as a backup.
 
 # Related
 
+- [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221003151144](/zet/20221003151144/README.md) active directory 

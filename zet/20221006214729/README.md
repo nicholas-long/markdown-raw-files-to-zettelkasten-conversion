@@ -9,6 +9,10 @@
 
 # Related
 
+- [20221003150254](/zet/20221003150254/README.md) beacon object file BOF
+- [20221013185120](/zet/20221013185120/README.md) crypto and blockchain stuff
+- [20221003150317](/zet/20221003150317/README.md) malwarebytes
+- [20221003150255](/zet/20221003150255/README.md) solidity
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - https://www.twitch.tv/alh4zr3d/videos

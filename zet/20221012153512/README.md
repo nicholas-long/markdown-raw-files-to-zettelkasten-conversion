@@ -10,6 +10,8 @@
 
 # Related
 
+- [20221013185406](/zet/20221013185406/README.md) etc passwd file on linux
+- [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082
 - [20221003150449](/zet/20221003150449/README.md) keepass CLI tool open and edit keepass databases
 - [20221012153643](/zet/20221012153643/README.md) kafka
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities

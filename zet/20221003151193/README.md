@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150252](/zet/20221003150252/README.md) httponly cookie option
 - [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221003151302](/zet/20221003151302/README.md) get current script directory
 - [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
 - [20221003150067](/zet/20221003150067/README.md) vim

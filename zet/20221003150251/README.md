@@ -5,12 +5,9 @@ allows client and server to derive the same key.
 
 # Related
 
-- 20221003151174
-
-- 20221003150791
-
-- 20221003150419
-
+- [20221003151174](/zet/20221003151174/README.md) SSH
+- [20221003150791](/zet/20221003150791/README.md) openssl
+- [20221003150419](/zet/20221003150419/README.md) text cipher encryption decryption tools
 
 Tags:
 

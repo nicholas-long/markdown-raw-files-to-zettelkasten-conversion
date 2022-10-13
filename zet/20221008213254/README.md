@@ -9,6 +9,7 @@ the concept of a `file path`
 
 # Related
 
+- [20221003150253](/zet/20221003150253/README.md) PXE boot
 - [20221013180437](/zet/20221013180437/README.md) differences organizing zettelkasten in graph vs files in hierarchy
 - [20221003151036](/zet/20221003151036/README.md) program files UNP directory
 - [20221003151302](/zet/20221003151302/README.md) get current script directory

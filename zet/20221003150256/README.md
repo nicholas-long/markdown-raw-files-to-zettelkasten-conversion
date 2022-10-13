@@ -7,12 +7,9 @@ complicated - refer to ippsec "conceal" video
 
 # Related
 
-- 20221006214348
-
-- 20221006213953
-
-- 20221003150455
-
+- [20221006214348](/zet/20221006214348/README.md) ippsec
+- [20221006213953](/zet/20221006213953/README.md) video notes
+- [20221003150455](/zet/20221003150455/README.md) ike-scan for ike IPsec VPNs
 
 Tags:
 

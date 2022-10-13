@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082
 - [20221003150347](/zet/20221003150347/README.md) bruteforcing services
 - [20221003150335](/zet/20221003150335/README.md) java serialization payload `rO0` base64 `AC ED 00 05` in hex
 - [20221003150361](/zet/20221003150361/README.md) connect to minecraft server and send chat messages

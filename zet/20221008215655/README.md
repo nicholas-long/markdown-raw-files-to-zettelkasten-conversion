@@ -6,6 +6,11 @@ the concept of `user account`
 
 # Related
 
+- [20221013185456](/zet/20221013185456/README.md) shadow file
+- [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
+- [20221013185406](/zet/20221013185406/README.md) etc passwd file on linux
+- [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat
+- [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
 - [20221013180230](/zet/20221013180230/README.md) session cookie or access token
 - [20221013180125](/zet/20221013180125/README.md) concept of a cookie
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target

@@ -7,18 +7,12 @@ it is not possible to disable key exchange in TLS1.3
 
 # Related
 
-- 20221007220451
-
-- 20221003150717
-
-- 20221003150716
-
-- 20221003150715
-
-- 20221003150711
-
-- 20221003150662
-
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221003150717](/zet/20221003150717/README.md) packet capture
+- [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
+- [20221003150715](/zet/20221003150715/README.md) packet capture with tcpdump log data to pcap file
+- [20221003150711](/zet/20221003150711/README.md) packet capture read pcap data with tshark
+- [20221003150662](/zet/20221003150662/README.md) data analysis commands
 
 Tags:
 

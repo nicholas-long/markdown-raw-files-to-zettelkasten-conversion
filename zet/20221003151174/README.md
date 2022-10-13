@@ -17,6 +17,8 @@
 
 # Related
 
+- [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
+- [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange
 - [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists

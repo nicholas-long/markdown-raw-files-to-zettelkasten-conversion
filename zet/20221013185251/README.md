@@ -10,8 +10,9 @@
 
 # Related
 
-- 20221007043259
-- 20221006020303
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+- [20221006020303](/zet/20221006020303/README.md) zettelkasten note types
 
 Tags:
 

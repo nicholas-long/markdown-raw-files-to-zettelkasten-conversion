@@ -11,6 +11,7 @@
 
 # Related
 
+- [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
 - [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221008215139](/zet/20221008215139/README.md) hash / checksum

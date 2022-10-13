@@ -27,6 +27,7 @@
 
 # Related
 
+- [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows

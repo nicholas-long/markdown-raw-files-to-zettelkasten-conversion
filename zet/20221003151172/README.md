@@ -86,6 +86,7 @@
 
 # Related
 
+- [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf

@@ -11,6 +11,7 @@
 
 # Related
 
+- [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

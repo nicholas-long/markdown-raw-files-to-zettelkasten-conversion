@@ -91,6 +91,10 @@
 
 # Related
 
+- [20221003150266](/zet/20221003150266/README.md) systemd-private
+- [20221003150322](/zet/20221003150322/README.md) cyber reason
+- [20221013190422](/zet/20221013190422/README.md) headline exploits
+- [20221003150260](/zet/20221003150260/README.md) sperl and suidperl
 - [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads

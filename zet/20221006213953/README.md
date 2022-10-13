@@ -9,6 +9,9 @@ node for video notes.
 
 # Related
 
+- [20221003150256](/zet/20221003150256/README.md) IPsec VPN UDP port 500 2500 strongswan
+- [20221003150254](/zet/20221003150254/README.md) beacon object file BOF
+- [20221003150253](/zet/20221003150253/README.md) PXE boot
 - [20221012134856](/zet/20221012134856/README.md) what is org roam?
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?

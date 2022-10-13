@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat
 - [20221003150449](/zet/20221003150449/README.md) keepass CLI tool open and edit keepass databases
 - [20221003150370](/zet/20221003150370/README.md) dump credentials from browsers chromium
 - [20221003150367](/zet/20221003150367/README.md) dump credentials from browsers firefox

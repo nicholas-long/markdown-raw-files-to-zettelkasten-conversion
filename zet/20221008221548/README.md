@@ -9,6 +9,8 @@ the concept of `website`
 
 # Related
 
+- [20221003150248](/zet/20221003150248/README.md) Azure AD connect
+- [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag
 - [20221013180125](/zet/20221013180125/README.md) concept of a cookie
 - [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages

@@ -6,6 +6,7 @@ the concept of `container`
 
 # Related
 
+- [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221003151275](/zet/20221003151275/README.md) install docker compose cli extension
 - [20221003151272](/zet/20221003151272/README.md) docker compose aliases for convenience

@@ -6,6 +6,11 @@ linux reference links and concepts
 
 # Related
 
+- [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
+- [20221003150253](/zet/20221003150253/README.md) PXE boot
+- [20221003150266](/zet/20221003150266/README.md) systemd-private
+- [20221013185456](/zet/20221013185456/README.md) shadow file
+- [20221013185406](/zet/20221013185406/README.md) etc passwd file on linux
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150328](/zet/20221003150328/README.md) compile windows c++ binaries on linux

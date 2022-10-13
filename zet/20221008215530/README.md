@@ -10,6 +10,7 @@ identifies a user account.
 
 # Related
 
+- [20221013185406](/zet/20221013185406/README.md) etc passwd file on linux
 - [20221013180125](/zet/20221013180125/README.md) concept of a cookie
 - [20221013180230](/zet/20221013180230/README.md) session cookie or access token
 - [20221003150577](/zet/20221003150577/README.md) php quick client phishing attack credential harvesting

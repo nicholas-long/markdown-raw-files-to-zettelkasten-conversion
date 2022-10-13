@@ -80,6 +80,7 @@
 
 # Related
 
+- [20221013185251](/zet/20221013185251/README.md) general information concept FYI
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221012134856](/zet/20221012134856/README.md) what is org roam?
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150516](/zet/20221003150516/README.md) binary analysis golang
 - ~/kb/hacking/pwn/binary-analysis.md

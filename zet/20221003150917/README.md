@@ -9,6 +9,7 @@ ps -efw --forest -M                  # SELinux
 
 # Related
 
+- [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221003150892](/zet/20221003150892/README.md) get all root process IDs
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands

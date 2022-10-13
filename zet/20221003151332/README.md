@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221003151302](/zet/20221003151302/README.md) get current script directory
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
 - [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks

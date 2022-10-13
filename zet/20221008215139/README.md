@@ -6,6 +6,9 @@ the concept of `hash / checksum`
 
 # Related
 
+- [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
+- [20221013185120](/zet/20221013185120/README.md) crypto and blockchain stuff
+- [20221013185456](/zet/20221013185456/README.md) shadow file
 - [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup
 - [20221012211416](/zet/20221012211416/README.md) my gaming desktop
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version

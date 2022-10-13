@@ -5,6 +5,7 @@ https://github.com/AlessandroZ/LaZagne
 
 # Related
 
+- [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat
 - [20221003150449](/zet/20221003150449/README.md) keepass CLI tool open and edit keepass databases
 - [20221008215655](/zet/20221008215655/README.md) user account
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node

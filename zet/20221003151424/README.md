@@ -6,6 +6,7 @@ This is a collection of bash scripts
 
 # Related
 
+- [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221011153230](/zet/20221011153230/README.md) template example card for scripts

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat
 - [20221003150449](/zet/20221003150449/README.md) keepass CLI tool open and edit keepass databases
 - [20221003151038](/zet/20221003151038/README.md) dumping credentials as admin in remote desktop RDP or GUI
 - ~/kb/hacking/windows/windows-information.md

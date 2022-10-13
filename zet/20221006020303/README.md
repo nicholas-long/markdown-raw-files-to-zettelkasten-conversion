@@ -23,6 +23,7 @@
 
 # Related
 
+- [20221013185251](/zet/20221013185251/README.md) general information concept FYI
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube

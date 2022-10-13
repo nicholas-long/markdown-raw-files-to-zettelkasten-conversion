@@ -5,16 +5,11 @@ java version of mysql database
 
 # Related
 
-- 20221012153512
-
-- 20221007220451
-
-- 20221003151204
-
-- 20221003151200
-
-- 20221003150242
-
+- [20221012153512](/zet/20221012153512/README.md) database
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
+- [20221003150242](/zet/20221003150242/README.md) identify service
 
 Tags:
 

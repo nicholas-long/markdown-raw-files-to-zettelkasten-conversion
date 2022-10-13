@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
 - [20221003150550](/zet/20221003150550/README.md) Sub domain Enum
 - [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup
 - [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes

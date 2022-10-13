@@ -7,6 +7,7 @@ openssl enc -aes-256-cbc -e -in $FILE -out outputfile -k password
 
 # Related
 
+- [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221003150801](/zet/20221003150801/README.md) openssl commands
 - ~/kb/hacking/commands/openssl-commands.md

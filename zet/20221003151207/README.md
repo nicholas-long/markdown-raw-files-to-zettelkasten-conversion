@@ -86,6 +86,8 @@
 
 # Related
 
+- [20221013190422](/zet/20221013190422/README.md) headline exploits
+- [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
 - [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py

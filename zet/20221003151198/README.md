@@ -42,6 +42,7 @@
 
 # Related
 
+- [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap
 - [20221003151035](/zet/20221003151035/README.md) hidden shares
 - [20221003151169](/zet/20221003151169/README.md) NFS

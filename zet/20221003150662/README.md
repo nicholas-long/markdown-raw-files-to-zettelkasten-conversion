@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221003150294](/zet/20221003150294/README.md) wireshark TLS1.2 handshake packet
+- [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext
 - [20221003151300](/zet/20221003151300/README.md) drop newlines from stream with tr
 - [20221012153512](/zet/20221012153512/README.md) database
 - [20221008195148](/zet/20221008195148/README.md) seclists etc files project

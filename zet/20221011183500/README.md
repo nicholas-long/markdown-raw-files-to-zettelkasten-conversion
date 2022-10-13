@@ -9,6 +9,8 @@ the concept of `potential exploits`
 
 # Related
 
+- [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
+- [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
 - [20221003150361](/zet/20221003150361/README.md) connect to minecraft server and send chat messages
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working

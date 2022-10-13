@@ -7,6 +7,7 @@ sudo tcpdump -i tun0 -w $FILE
 
 # Related
 
+- [20221003150294](/zet/20221003150294/README.md) wireshark TLS1.2 handshake packet
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
 - ~/kb/hacking/commands/packet-capture.md

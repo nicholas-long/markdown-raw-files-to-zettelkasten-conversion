@@ -7,6 +7,9 @@
 
 # Related
 
+- [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat
+- [20221003150248](/zet/20221003150248/README.md) Azure AD connect
+- [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150328](/zet/20221003150328/README.md) compile windows c++ binaries on linux

@@ -8,6 +8,7 @@ tshark -r $FILE
 
 # Related
 
+- [20221003150294](/zet/20221003150294/README.md) wireshark TLS1.2 handshake packet
 - [20221003150717](/zet/20221003150717/README.md) packet capture
 - ~/kb/hacking/commands/packet-capture.md
 

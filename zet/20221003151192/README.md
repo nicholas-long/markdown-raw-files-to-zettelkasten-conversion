@@ -49,6 +49,8 @@
 
 # Related
 
+- [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
+- [20221003150331](/zet/20221003150331/README.md) log4j log4shell
 - [20221013180230](/zet/20221013180230/README.md) session cookie or access token
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
 - [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy

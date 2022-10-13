@@ -20,6 +20,7 @@
 
 # Related
 
+- [20221003150260](/zet/20221003150260/README.md) sperl and suidperl
 - [20221013175128](/zet/20221013175128/README.md) preparing exploit payloads
 - [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
 - [20221003150882](/zet/20221003150882/README.md) writing to and modifying setuid binaries

@@ -25,6 +25,7 @@ Transmission and reception of raw bit streams over a physical medium
 
 # Related
 
+- [20221003150253](/zet/20221003150253/README.md) PXE boot
 - [20221003150455](/zet/20221003150455/README.md) ike-scan for ike IPsec VPNs
 - [20221007185940](/zet/20221007185940/README.md) unsorted nodes
 

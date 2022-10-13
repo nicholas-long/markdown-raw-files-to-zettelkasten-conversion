@@ -6,6 +6,7 @@ a list of hacking platforms for practice and education.
 
 # Related
 
+- [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
 - [20221013035616](/zet/20221013035616/README.md) fun
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes

@@ -6,6 +6,7 @@ the concept of `programming language`
 
 # Related
 
+- [20221003150255](/zet/20221003150255/README.md) solidity
 - [20221003150328](/zet/20221003150328/README.md) compile windows c++ binaries on linux
 - [20221012154324](/zet/20221012154324/README.md) java
 - [20221012154059](/zet/20221012154059/README.md) scala

@@ -6,6 +6,10 @@ the concept of `coding / programming`
 
 # Related
 
+- [20221003150248](/zet/20221003150248/README.md) Azure AD connect
+- [20221013185120](/zet/20221013185120/README.md) crypto and blockchain stuff
+- [20221003150255](/zet/20221003150255/README.md) solidity
+- [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
 - [20221003150328](/zet/20221003150328/README.md) compile windows c++ binaries on linux
 - [20221013035616](/zet/20221013035616/README.md) fun
 - [20221012154059](/zet/20221012154059/README.md) scala

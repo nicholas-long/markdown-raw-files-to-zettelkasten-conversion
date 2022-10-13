@@ -24,6 +24,8 @@
 
 # Related
 
+- [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082
+- [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
 - [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
 - [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows

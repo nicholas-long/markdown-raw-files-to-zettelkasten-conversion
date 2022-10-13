@@ -6,12 +6,9 @@ these are tmp directories that belong to the individual services.
 
 # Related
 
-- 20221007220451
-
-- 20221006025356
-
-- 20221003151210
-
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221006025356](/zet/20221006025356/README.md) linux
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 
 Tags:
 

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
 - [20221003151218](/zet/20221003151218/README.md) send email over SMTP from command line with swaks
 - [20221003151201](/zet/20221003151201/README.md) RDP
 - [20221011092959](/zet/20221011092959/README.md) conda active directory hacking videos

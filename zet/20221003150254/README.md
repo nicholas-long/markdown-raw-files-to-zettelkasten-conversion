@@ -6,16 +6,11 @@ see section on ["run executable binary programs within process memory"](tricks/r
 
 # Related
 
-- 20221013174958
-
-- 20221003151144
-
-- 20221007220451
-
-- 20221006214729
-
-- 20221006213953
-
+- [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
+- [20221003151144](/zet/20221003151144/README.md) active directory 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221006214729](/zet/20221006214729/README.md) alh4zr3d
+- [20221006213953](/zet/20221006213953/README.md) video notes
 
 Tags:
 

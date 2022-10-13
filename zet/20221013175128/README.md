@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
+- [20221003150331](/zet/20221003150331/README.md) log4j log4shell
 - [20221013175957](/zet/20221013175957/README.md) serialization concept
 - [20221003150335](/zet/20221003150335/README.md) java serialization payload `rO0` base64 `AC ED 00 05` in hex
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub

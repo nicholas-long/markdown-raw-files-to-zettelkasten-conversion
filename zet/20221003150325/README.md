@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150323](/zet/20221003150323/README.md) crowdstrike falcon
 - [20221012152319](/zet/20221012152319/README.md) concept of company or organization
 
 Tags:

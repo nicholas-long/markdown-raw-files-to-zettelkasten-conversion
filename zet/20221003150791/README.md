@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
+- [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange
 - [20221003150726](/zet/20221003150726/README.md) openssl view information about certificate request
 - [20221003150459](/zet/20221003150459/README.md) openssl cipher commands encrypt text
 - [20221003150332](/zet/20221003150332/README.md) default openssl message digest

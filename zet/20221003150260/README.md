@@ -5,10 +5,8 @@ variations of perl designed to handle setuid security properly
 
 # Related
 
-- 20221003151210
-
-- 20221003151209
-
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
+- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
 
 Tags:
 

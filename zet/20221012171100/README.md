@@ -11,6 +11,15 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221013190422](/zet/20221013190422/README.md) headline exploits
+- [20221013190051](/zet/20221013190051/README.md) blue team
+- [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat
+- [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
+- [20221013185456](/zet/20221013185456/README.md) shadow file
+- [20221013185406](/zet/20221013185406/README.md) etc passwd file on linux
+- [20221013185251](/zet/20221013185251/README.md) general information concept FYI
+- [20221013185120](/zet/20221013185120/README.md) crypto and blockchain stuff
+- [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
 - [20221013180437](/zet/20221013180437/README.md) differences organizing zettelkasten in graph vs files in hierarchy
 - [20221013180230](/zet/20221013180230/README.md) session cookie or access token
 - [20221013180125](/zet/20221013180125/README.md) concept of a cookie

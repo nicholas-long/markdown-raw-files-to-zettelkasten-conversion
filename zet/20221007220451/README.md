@@ -12,6 +12,16 @@ hacking notes mega-node
 
 # Related
 
+- [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
+- [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
+- [20221003150317](/zet/20221003150317/README.md) malwarebytes
+- [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082
+- [20221003150255](/zet/20221003150255/README.md) solidity
+- [20221003150254](/zet/20221003150254/README.md) beacon object file BOF
+- [20221003150266](/zet/20221003150266/README.md) systemd-private
+- [20221003150294](/zet/20221003150294/README.md) wireshark TLS1.2 handshake packet
+- [20221003150322](/zet/20221003150322/README.md) cyber reason
+- [20221013185120](/zet/20221013185120/README.md) crypto and blockchain stuff
 - [20221003150347](/zet/20221003150347/README.md) bruteforcing services
 - [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
 - [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script

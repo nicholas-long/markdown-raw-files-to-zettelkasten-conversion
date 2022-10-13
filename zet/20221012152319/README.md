@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221013185120](/zet/20221013185120/README.md) crypto and blockchain stuff
+- [20221003150248](/zet/20221003150248/README.md) Azure AD connect
 - [20221012153843](/zet/20221012153843/README.md) confluent
 - [20221012152421](/zet/20221012152421/README.md) micosoft
 - [20221009001455](/zet/20221009001455/README.md) RHCSE Red Hat Certified System Administrator
