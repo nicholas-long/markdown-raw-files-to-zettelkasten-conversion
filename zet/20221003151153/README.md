@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
 - [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat
 - [20221003150248](/zet/20221003150248/README.md) Azure AD connect
 - [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
@@ -35,7 +36,7 @@
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 - [20221003150289](/zet/20221003150289/README.md) default webroots
 - [20221008221548](/zet/20221008221548/README.md) website
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150288](/zet/20221003150288/README.md) default webroots wamp
 - [20221003151058](/zet/20221003151058/README.md) windows directory traversal path traversal LFI strings
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam

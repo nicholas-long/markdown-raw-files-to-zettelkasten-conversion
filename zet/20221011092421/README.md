@@ -15,6 +15,7 @@ to do next:
 
 # Related
 
+- [20221003150117](/zet/20221003150117/README.md) OSI networking model
 - [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
 - [20221003150317](/zet/20221003150317/README.md) malwarebytes
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
@@ -25,7 +26,7 @@ to do next:
 - [20221010155109](/zet/20221010155109/README.md) add link titles to youtube or some other links
 - [20221006214142](/zet/20221006214142/README.md) streamers
 - [20221006213953](/zet/20221006213953/README.md) video notes
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 
 Tags:
 

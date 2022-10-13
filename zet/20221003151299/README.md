@@ -4,6 +4,10 @@
 
 # Related
 
+- [20221003150198](/zet/20221003150198/README.md) control key mappings for sh
+- [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
+- [20221003150135](/zet/20221003150135/README.md) enable horizontal scroll in less
+- [20221003150132](/zet/20221003150132/README.md) find file with name matching regular expression
 - [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
 - [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools

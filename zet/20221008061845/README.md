@@ -14,6 +14,9 @@ hub node for `workflow`
 
 # Related
 
+- [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
+- [20221003150076](/zet/20221003150076/README.md) swap panes
+- [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
 - [20221013180437](/zet/20221013180437/README.md) differences organizing zettelkasten in graph vs files in hierarchy
 - [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell
 - [20221012144502](/zet/20221012144502/README.md) track modification dates

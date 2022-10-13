@@ -9,6 +9,8 @@ the concept of a `file path`
 
 # Related
 
+- [20221003150132](/zet/20221003150132/README.md) find file with name matching regular expression
+- [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
 - [20221003150253](/zet/20221003150253/README.md) PXE boot
 - [20221013180437](/zet/20221013180437/README.md) differences organizing zettelkasten in graph vs files in hierarchy
 - [20221003151036](/zet/20221003151036/README.md) program files UNP directory

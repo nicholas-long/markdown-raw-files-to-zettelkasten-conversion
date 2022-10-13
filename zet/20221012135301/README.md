@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221003150198](/zet/20221003150198/README.md) control key mappings for sh
 - [20221012135747](/zet/20221012135747/README.md) unix text editors
 - [20221008212519](/zet/20221008212519/README.md) programming language
 - [20221003150067](/zet/20221003150067/README.md) vim

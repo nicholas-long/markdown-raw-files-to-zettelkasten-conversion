@@ -12,6 +12,7 @@ hacking notes hub
 
 # Related
 
+- [20221003150117](/zet/20221003150117/README.md) OSI networking model
 - [20221003150222](/zet/20221003150222/README.md) change interface mac address
 - [20221013192245](/zet/20221013192245/README.md) cracking hashes
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP

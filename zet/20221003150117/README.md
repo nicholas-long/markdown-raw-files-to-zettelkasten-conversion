@@ -25,14 +25,10 @@ Transmission and reception of raw bit streams over a physical medium
 
 # Related
 
-- 20221011092421
-
-- 20221007220451
-
-- 20221003150717
-
-- 20221003150648
-
+- [20221011092421](/zet/20221011092421/README.md) hacking video notes
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
+- [20221003150717](/zet/20221003150717/README.md) packet capture
+- [20221003150648](/zet/20221003150648/README.md) nmap
 - [20221003150222](/zet/20221003150222/README.md) change interface mac address
 - [20221003150253](/zet/20221003150253/README.md) PXE boot
 - [20221003150455](/zet/20221003150455/README.md) ike-scan for ike IPsec VPNs

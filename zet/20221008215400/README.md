@@ -8,6 +8,9 @@ the concept of a `file`
 
 # Related
 
+- [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
+- [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive
+- [20221003150132](/zet/20221003150132/README.md) find file with name matching regular expression
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
 - [20221013185406](/zet/20221013185406/README.md) etc passwd file on linux
 - [20221011145143](/zet/20221011145143/README.md) bat command pretty printer

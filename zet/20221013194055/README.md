@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151275](/zet/20221003151275/README.md) install docker compose cli extension
 - [20221003150181](/zet/20221003150181/README.md) install alacritty  fix build errors
@@ -24,7 +25,6 @@
 - [20221003151265](/zet/20221003151265/README.md) fzf install
 - [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
 - [20221003150632](/zet/20221003150632/README.md) list dpkg packages installed on a certain date
-- [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
 - [20221003150212](/zet/20221003150212/README.md) kafkacat install quick and dirty shell script using docker
 - [20221008042334](/zet/20221008042334/README.md) why does git ask questions instead of pulling changes
 - [20221003150178](/zet/20221003150178/README.md) install alacritty  config file example yaml config

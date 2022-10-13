@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150117](/zet/20221003150117/README.md) OSI networking model
 - [20221003150294](/zet/20221003150294/README.md) wireshark TLS1.2 handshake packet
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
 - [20221003150711](/zet/20221003150711/README.md) packet capture read pcap data with tshark

@@ -6,6 +6,7 @@ the concept of a `program`
 
 # Related
 
+- [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150449](/zet/20221003150449/README.md) keepass CLI tool open and edit keepass databases
 - [20221003150459](/zet/20221003150459/README.md) openssl cipher commands encrypt text

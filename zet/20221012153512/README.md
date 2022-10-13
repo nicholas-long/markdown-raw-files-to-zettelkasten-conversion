@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221003150132](/zet/20221003150132/README.md) find file with name matching regular expression
 - [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset
 - [20221013185406](/zet/20221013185406/README.md) etc passwd file on linux
 - [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082

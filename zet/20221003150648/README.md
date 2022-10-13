@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150117](/zet/20221003150117/README.md) OSI networking model
 - [20221003150647](/zet/20221003150647/README.md) nmap flags
 - [20221003150644](/zet/20221003150644/README.md) nmap all ports command
 - [20221003150642](/zet/20221003150642/README.md) nmap common ports command

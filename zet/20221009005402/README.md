@@ -8,6 +8,7 @@
 
 # Related
 
+- [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
@@ -311,7 +312,7 @@
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221006214142](/zet/20221006214142/README.md) streamers
 - [20221006213311](/zet/20221006213311/README.md) hackthebox
 

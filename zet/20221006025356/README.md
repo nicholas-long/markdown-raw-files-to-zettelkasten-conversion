@@ -6,6 +6,11 @@ linux reference links and concepts
 
 # Related
 
+- [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
+- [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
+- [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive
+- [20221003150135](/zet/20221003150135/README.md) enable horizontal scroll in less
+- [20221003150132](/zet/20221003150132/README.md) find file with name matching regular expression
 - [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
 - [20221003150253](/zet/20221003150253/README.md) PXE boot

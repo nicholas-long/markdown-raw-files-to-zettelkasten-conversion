@@ -9,6 +9,8 @@ the concept of `tmux workflow`
 
 # Related
 
+- [20221003150076](/zet/20221003150076/README.md) swap panes
+- [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
 - [20221012065200](/zet/20221012065200/README.md) side panels work in vim with tmux over ssh now?
 - [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
 - [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks

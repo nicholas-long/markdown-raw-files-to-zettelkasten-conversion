@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150076](/zet/20221003150076/README.md) swap panes
 - [20221012065200](/zet/20221012065200/README.md) side panels work in vim with tmux over ssh now?
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
