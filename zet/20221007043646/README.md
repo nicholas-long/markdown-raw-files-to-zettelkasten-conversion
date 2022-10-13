@@ -106,6 +106,8 @@
 
 # Related
 
+- 20221008042814
+
 - [20221007192111](/zet/20221007192111/README.md) the first zettel generated from github
 - [20221012095659](/zet/20221012095659/README.md) working in github in the same branch on multiple devices
 - [20221012090938](/zet/20221012090938/README.md) my netbook

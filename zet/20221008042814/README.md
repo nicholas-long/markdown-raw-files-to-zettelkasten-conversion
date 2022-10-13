@@ -24,7 +24,6 @@ stuff i am working on.
 - [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
-- [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
