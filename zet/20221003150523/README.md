@@ -6,7 +6,14 @@ https://heap-exploitation.dhavalkapil.com/diving_into_glibc_heap/malloc_chunk
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221003150526
+
+- 20221003150512
+
+- 20221003150509
+
+- 20221003150503
+
 
 Tags:
 

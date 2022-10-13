@@ -5,7 +5,10 @@ bruteforce-salted-openssl
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221013035124
+
+- 20221007194303
+
 
 Tags:
 
