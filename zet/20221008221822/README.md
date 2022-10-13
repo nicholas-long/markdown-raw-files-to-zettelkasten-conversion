@@ -8,6 +8,9 @@ the concept of `www - the web`
 
 # Related
 
+- [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
+- [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
+- [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
 - [20221003150874](/zet/20221003150874/README.md) nikto command
 - [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy
 - [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS

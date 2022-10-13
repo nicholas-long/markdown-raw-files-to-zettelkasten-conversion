@@ -24,6 +24,8 @@
 
 # Related
 
+- [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
+- [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
 - [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows

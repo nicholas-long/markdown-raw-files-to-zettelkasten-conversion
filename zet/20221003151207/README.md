@@ -86,6 +86,10 @@
 
 # Related
 
+- [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
+- [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
+- [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI
+- [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell
 - [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
 - [20221003151053](/zet/20221003151053/README.md) lsass process contains credentials

@@ -6,6 +6,8 @@ concept of the github website owned by the company microsoft.
 
 # Related
 
+- [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
+- [20221003150440](/zet/20221003150440/README.md) Compiled versions of .NET Windows enumeration tools
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221003150456](/zet/20221003150456/README.md) bruteforce-salted-openssl to brute force openssl encrypted files
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials

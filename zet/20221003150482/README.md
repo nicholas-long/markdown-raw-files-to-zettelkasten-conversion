@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221013173355](/zet/20221013173355/README.md) the process of enumerating a target
 - [20221003150874](/zet/20221003150874/README.md) nikto command
 - [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221003150481](/zet/20221003150481/README.md) general enumeration get list of filepaths recursively

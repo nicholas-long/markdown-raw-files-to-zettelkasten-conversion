@@ -7,22 +7,14 @@ navigate around like a file system iwth cd and ls.
 
 # Related
 
-- 20221013171453
-
-- 20221012153512
-
-- 20221008212802
-
-- 20221007220451
-
-- 20221003151039
-
-- 20221003150439
-
-- 20221003150371
-
-- 20221003150341
-
+- [20221013171453](/zet/20221013171453/README.md) important repositories and tools
+- [20221012153512](/zet/20221012153512/README.md) database
+- [20221008212802](/zet/20221008212802/README.md) software program
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin
+- [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
+- [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
+- [20221003150341](/zet/20221003150341/README.md) database creds
 
 Tags:
 

@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221013173355](/zet/20221013173355/README.md) the process of enumerating a target
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 

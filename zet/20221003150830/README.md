@@ -5,6 +5,7 @@ postgres client is `psql`
 
 # Related
 
+- [20221013173355](/zet/20221013173355/README.md) the process of enumerating a target
 - [20221012153512](/zet/20221012153512/README.md) database
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node

@@ -19,6 +19,8 @@
 
 # Related
 
+- [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
+- [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists

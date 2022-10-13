@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
 - [20221012154324](/zet/20221012154324/README.md) java
 - [20221012152319](/zet/20221012152319/README.md) concept of company or organization
 - [20221003150977](/zet/20221003150977/README.md) oracle connect as sysdba enable file read privileges

@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221009172351](/zet/20221009172351/README.md) markdown file format

@@ -11,6 +11,7 @@ find /etc -writable 2>/dev/null
 
 # Related
 
+- [20221013173355](/zet/20221013173355/README.md) the process of enumerating a target
 - [20221003150565](/zet/20221003150565/README.md) Netcat Sending file
 - [20221003150892](/zet/20221003150892/README.md) get all root process IDs
 - [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present

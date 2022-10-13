@@ -6,6 +6,7 @@ the concept of `user account`
 
 # Related
 
+- [20221003150420](/zet/20221003150420/README.md) finger user enum
 - [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack
 - [20221003150577](/zet/20221003150577/README.md) php quick client phishing attack credential harvesting
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials

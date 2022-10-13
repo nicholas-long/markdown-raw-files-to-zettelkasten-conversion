@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221003150449](/zet/20221003150449/README.md) keepass CLI tool open and edit keepass databases
 - [20221012153643](/zet/20221012153643/README.md) kafka
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands

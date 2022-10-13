@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150361](/zet/20221003150361/README.md) connect to minecraft server and send chat messages
 - [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986
 - [20221003151199](/zet/20221003151199/README.md) finger tcp 79
 - [20221003151196](/zet/20221003151196/README.md) IPMI

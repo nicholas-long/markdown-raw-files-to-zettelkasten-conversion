@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221003151193](/zet/20221003151193/README.md) HTTP

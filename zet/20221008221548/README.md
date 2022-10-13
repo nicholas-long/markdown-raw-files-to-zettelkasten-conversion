@@ -9,6 +9,8 @@ the concept of `website`
 
 # Related
 
+- [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
+- [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
 - [20221003150549](/zet/20221003150549/README.md) URL CRAWL/ Discovery waybackurls
 - [20221012153019](/zet/20221012153019/README.md) javascript
 - [20221012152319](/zet/20221012152319/README.md) concept of company or organization

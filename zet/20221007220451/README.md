@@ -12,6 +12,12 @@ hacking notes mega-node
 
 # Related
 
+- [20221003150361](/zet/20221003150361/README.md) connect to minecraft server and send chat messages
+- [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
+- [20221003150449](/zet/20221003150449/README.md) keepass CLI tool open and edit keepass databases
+- [20221003150440](/zet/20221003150440/README.md) Compiled versions of .NET Windows enumeration tools
+- [20221003150455](/zet/20221003150455/README.md) ike-scan for ike IPsec VPNs
+- [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221003150557](/zet/20221003150557/README.md) WhiteWinterWolf Webshell
 - [20221003150874](/zet/20221003150874/README.md) nikto command

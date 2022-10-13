@@ -7,6 +7,9 @@
 
 # Related
 
+- [20221003150440](/zet/20221003150440/README.md) Compiled versions of .NET Windows enumeration tools
+- [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI
+- [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell
 - [20221003151029](/zet/20221003151029/README.md) MS08-067
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
 - [20221003151036](/zet/20221003151036/README.md) program files UNP directory

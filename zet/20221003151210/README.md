@@ -91,6 +91,8 @@
 
 # Related
 
+- [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
+- [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
 - [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal
 - [20221003150882](/zet/20221003150882/README.md) writing to and modifying setuid binaries
 - [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560

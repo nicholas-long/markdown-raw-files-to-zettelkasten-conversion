@@ -5,8 +5,7 @@ https://book.hacktricks.xyz/network-services-pentesting/pentesting-ldap#jxplorer
 
 # Related
 
-- 20221003150630
-
+- [20221003150630](/zet/20221003150630/README.md) LDAP enumeration
 
 Tags:
 
