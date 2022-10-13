@@ -250,7 +250,12 @@ EOF
     ;;
   viunlink) # unlink 1 node from its connections
     export start_id=$($prog connectome "select 1>" | zet/$ZET_CMD_IMPLEMENTATION/parseids)
-    $prog connectome -m "select many>" | zet/$ZET_CMD_IMPLEMENTATION/parseids | awk '
+    readfile="zet/$start_id/README.md"
+    awk '
+    BEGIN { pr = 0 }
+    pr && /^- / { print }
+    NR > 1 && /^# Related/ { pr = 1 }
+    ' $readfile | zet/$ZET_CMD_IMPLEMENTATION/parseids | awk '
       {
         latestid = $0
         command = (ENVIRON["prog"] " unlink " ENVIRON["start_id"] " " latestid)

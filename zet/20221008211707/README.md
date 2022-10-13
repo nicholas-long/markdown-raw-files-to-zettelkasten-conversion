@@ -9,7 +9,10 @@ the concept of `making cool stuff`
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221003150098
+
+- 20221008042814
+
 
 Tags:
 
