@@ -4,9 +4,13 @@
 - new process:
   - select 1 node
   - pick from its links
+- fixed in commits
+  - fixed commit 2d11eeb08bcd8578301d3764b4159d8c6941e237
+  - tested commit fde489629ebb95d2e27cb89dbf4b602f8c8ac451
 
 ```
 testing removing 20221005194814 from unsorted nodes 20221007185940
+
 ```
 
 ` zet/20221012220453/README.md `
@@ -20,4 +24,4 @@ testing removing 20221005194814 from unsorted nodes 20221007185940
 
 Tags:
 
-    #idea #todo
+    #idea
