@@ -61,6 +61,7 @@
     - double tab headphones
     - transcribes the last 45 seconds of audio
     - add a caption
+- `30:02`
 
 ```
 ```
