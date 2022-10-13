@@ -6,14 +6,13 @@ probably added from github actions.
 
 # Related
 
-- [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
-- [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script
+- 
+
 - [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
 - [20221003150347](/zet/20221003150347/README.md) bruteforcing services
 - [20221003150335](/zet/20221003150335/README.md) java serialization payload `rO0` base64 `AC ED 00 05` in hex
 - [20221003150331](/zet/20221003150331/README.md) log4j log4shell
 - [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext
-- [20221003150328](/zet/20221003150328/README.md) compile windows c++ binaries on linux
 - [20221003150323](/zet/20221003150323/README.md) crowdstrike falcon
 - [20221003150322](/zet/20221003150322/README.md) cyber reason
 - [20221003150317](/zet/20221003150317/README.md) malwarebytes

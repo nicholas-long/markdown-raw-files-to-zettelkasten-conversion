@@ -1,6 +1,9 @@
 # nodes to add
 
-- link to modification date
+- persistence
+  - PAM module backdoor
+  - DLL sideloading
+- preparing exploit payloads
 - akka ?
 
 ` zet/20221010071719/README.md `
