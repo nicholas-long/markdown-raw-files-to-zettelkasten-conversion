@@ -19,6 +19,7 @@ sudo pip3 install asciinema
 
 # Related
 
+- [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003151299](/zet/20221003151299/README.md) bash tricks

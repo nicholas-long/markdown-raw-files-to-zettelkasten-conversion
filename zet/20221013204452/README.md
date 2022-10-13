@@ -9,8 +9,7 @@
 
 # Related
 
-- 20221012070836
-
+- [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221006032933](/zet/20221006032933/README.md) problems / issues with zet cmd
