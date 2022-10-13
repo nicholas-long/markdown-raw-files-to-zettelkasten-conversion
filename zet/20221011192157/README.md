@@ -3,15 +3,19 @@
 - `zkvr`
   - Zettelkastenvektorrechner
   - https://dict.leo.org/german-english/Vektorrechner
+  - sounds pretty cool
+  - good general opinion
 - `verticalboy`
   - dope af
   - reminds me of virtualboy from the 90s, but not in a copyrighted way
-  - `zeticalboy` ?
+  - good general opinion
+- something involving "second brain" or "hivemind" and linux terminal stuff
+
+## the bin
 - `zetgrvf`
   - "zettelkasten graph visual function"
   - forces people to learn how to use aliases
   - probably not taken
-- something involving "second brain" or "hivemind" and linux terminal stuff
 
 ```
 ```
@@ -29,4 +33,4 @@
 
 Tags:
 
-    #todo #idea
+    #todo #idea #naming

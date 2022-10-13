@@ -1,5 +1,6 @@
 # zettelkasten generic ideas
 
+- deep questions - graph search through notes to see how 2 nodes are connected
 - lists kept up to date with graph queries
 - edit cards from on the road to run batch jobs
 - some cards can be like a data pipeline with data pushed from servers periodically with crons

@@ -1,6 +1,9 @@
 # discord
 
 - concept of `discord`
+- does *not* like terminal UIs for their platform
+- does support extensive API for bots
+- client is an electron app?
 
 ```
 ```
