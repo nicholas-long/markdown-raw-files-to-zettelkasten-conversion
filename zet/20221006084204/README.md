@@ -32,6 +32,7 @@
 
 # Related
 
+- [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221013221136](/zet/20221013221136/README.md) implement a graph query language
 - [20221013214821](/zet/20221013214821/README.md) check for command injection
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action

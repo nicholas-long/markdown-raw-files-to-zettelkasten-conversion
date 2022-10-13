@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150198](/zet/20221003150198/README.md) control key mappings for sh
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
