@@ -15,6 +15,46 @@
       - github action to add card is that?
       - not connected to much, connect to inbox on front page
 
+- https://www.youtube.com/watch?v=Ewhfok91AdE
+  - obsidian
+  - graph view
+  - evergreen notes
+    - evergren note - return and imporve it over time
+  - chrome extension youtube addon `yinote`
+    - timestamps from videos
+    - good for literature notes
+    - alternative to "rocketnote", which costs like $30
+    - can link to google docs
+    - looks like it can link to github ?
+    - relating to my implementation: could automatically pull in video links and timestamps into a card instead of making video notes cards ?
+  - system is good for ADHD?
+    - obsessed with improving workflow
+    - "well defined tasks negate the need for the use of a limited supply of willpower"
+  - human nature says we look for confirmation bias, things that fit/agree with our exising premises
+  - concepts from andy mattieschaek's/mataczyk [SP] evergreen notes
+    - distilling idea to simplest component so it is a note in itslef
+    - link heavily to note
+    - atomic
+    - evergren note - return and imporve it over time
+  - talks about running bash scripts on notes
+  - "command click" notes - open up side panels, scroll through them like note cards on a desk
+  - drawback to digital:
+    - back with paper notes, you only wrote down what you actually cared about retaining
+      - prioritizing / sorting on the spot
+      - with copy paste, you can pull in too much
+        - only save what you care about?
+  - step-by-step system
+    - incoming content
+    - idea distillation
+    - produced output
+  - workflow flowcharts
+  - plant analogies for ideas: seedlings
+    - seeds of ideas
+    - incubator = WIP
+    - plant seed into "evergreen forest"
+  - "bip tag"
+    - yaml in document?
+
 ```
 ```
 

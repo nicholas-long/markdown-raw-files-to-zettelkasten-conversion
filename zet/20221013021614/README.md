@@ -8,6 +8,7 @@
   - add and remove links quickly
   - navigate back - very useful
     - if you edit links in cards you are working on, you could get trapped and need to hop back to previous card
+- TODO: edit a document and specific links in tabs from menu?
 
 ```
 ln -s zet/20221013021614/ browser

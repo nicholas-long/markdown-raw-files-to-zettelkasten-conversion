@@ -17,7 +17,7 @@ $1 == "M" {
   print YELLOW $0 NORMAL
   next
 }
-$1 == "??" && $2 ~ /zet\//{
+($1 == "??" || $1 == "A") && $2 ~ /zet\//{
   print GREEN $0 NORMAL
   next
 }

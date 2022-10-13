@@ -12,6 +12,10 @@
 - choose your own adventure game
 - bot to automatically link together cards
   - only do it once - if ppl remove links then they do not belong
+- i bet information that happens chronologically could be stored like a chain, like the git commit history enhancement
+  - spiral? linkages between events and linkages to outside concepts
+- use notes to organize and produce own videos?
+- flowcharts and decision trees
 
 ## move this stuff to cards it is growing kinda big
 

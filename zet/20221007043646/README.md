@@ -106,6 +106,22 @@
   - concept hub for todo lists - all todo lists there
   - nodes for todo, WIP, done ~ issue tracking
 
+- distinct workflow operations i do - make a card
+  - searching
+    - learning and distilling
+    - googling
+    - fuzzy finding
+    - grep text or data files
+  - analyzing
+    - focusing
+    - organizing
+      - prioritizing
+        - sorting links
+        - sorting content
+      - connecting cards
+  - experimenting - heckin around with commands on the terminal or within vim
+    - scripting
+
 ` zet/20221007043646/README.md `
 
 # Related
