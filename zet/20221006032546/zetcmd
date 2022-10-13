@@ -8,6 +8,7 @@
 #            |___/                                      
 
 export ZET_CMD_IMPLEMENTATION=20221006032546
+export GRAPHBROWSER=20221013021614
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
 export prog="$0"
 if [ -z "$EDITOR" ]; then
@@ -162,11 +163,12 @@ case $action in
     while [ 1 ]; do
       selection=$(mktemp)
       (cat << EOF
-search -p
-search -e
+browser
 lazygit
 spawn
 enrich
+search -p
+search -e
 vilink
 viunlink
 connectome
@@ -176,14 +178,15 @@ EOF
       export answer=$(cat $selection) # have to export this or if does not work as intended - why?
       if [ "$answer" == "" ]; then
         exit 0
-      fi
-      if [ "$answer" == "lazygit" ]; then
+      elif [ "$answer" == "lazygit" ]; then
         lazygit || (git status && sleep 5)
-      fi
-      if [ "$answer" == "quitter" ]; then
+      elif [ "$answer" == "quitter" ]; then
         exit 0
+      elif [ "$answer" == "browser" ]; then
+        zet/$GRAPHBROWSER/graphbrowser
+      else
+        $prog $answer
       fi
-      $prog $answer
       rm "$selection"
     done
     ;;
