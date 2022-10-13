@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221003151159](/zet/20221003151159/README.md) Credit where credit is due
 - [20221012221003](/zet/20221012221003/README.md) weird related bug documents
 - [20221012213538](/zet/20221012213538/README.md) collect loose nodes and sort them out

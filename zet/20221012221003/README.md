@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221005194814](/zet/20221005194814/README.md) related bug problem zettel
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221008042814](/zet/20221008042814/README.md) WIP
