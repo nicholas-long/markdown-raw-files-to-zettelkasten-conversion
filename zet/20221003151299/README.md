@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003151340](/zet/20221003151340/README.md) awk print unbuffered output
 - [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
 - [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn
 - [20221012094712](/zet/20221012094712/README.md) strange issues with sort and locale and tags

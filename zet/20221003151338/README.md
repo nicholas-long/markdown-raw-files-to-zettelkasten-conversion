@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003151340](/zet/20221003151340/README.md) awk print unbuffered output
 - [20221010044240](/zet/20221010044240/README.md) titles of nodes should repopulate
 - [20221011153230](/zet/20221011153230/README.md) template example card for scripts
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product

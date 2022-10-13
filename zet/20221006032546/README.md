@@ -42,6 +42,7 @@ Options:
 
 # Related
 
+- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221012220453](/zet/20221012220453/README.md) unlink should be easier
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn

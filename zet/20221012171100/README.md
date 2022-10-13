@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221013005916](/zet/20221013005916/README.md) ability to move a link from one node to another
 - [20221012221003](/zet/20221012221003/README.md) weird related bug documents
 - [20221012220453](/zet/20221012220453/README.md) unlink should be easier
