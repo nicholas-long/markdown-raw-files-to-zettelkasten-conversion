@@ -96,6 +96,7 @@ finished through page 12 of search https://github.com/search?p=12&q=zettelkasten
 
 # Related
 
+- [20221007192111](/zet/20221007192111/README.md) the first zettel generated from github
 - [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten
 - [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
