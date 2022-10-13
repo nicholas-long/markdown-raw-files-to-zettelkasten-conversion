@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221013195816](/zet/20221013195816/README.md) ability to spawn from an existing card
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes
 - [20221013192245](/zet/20221013192245/README.md) cracking hashes

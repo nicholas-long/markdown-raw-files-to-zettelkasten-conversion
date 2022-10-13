@@ -28,6 +28,7 @@
 
 # Related
 
+- [20221013195816](/zet/20221013195816/README.md) ability to spawn from an existing card
 - [20221013005916](/zet/20221013005916/README.md) ability to move a link from one node to another
 - [20221012220453](/zet/20221012220453/README.md) unlink should be easier
 - [20221010044240](/zet/20221010044240/README.md) titles of nodes should repopulate
