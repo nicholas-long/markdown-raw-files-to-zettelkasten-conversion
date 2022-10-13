@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221013005916](/zet/20221013005916/README.md) ability to move a link from one node to another
 - [20221008211707](/zet/20221008211707/README.md) making cool stuff
 - [20221010044240](/zet/20221010044240/README.md) titles of nodes should repopulate
 - [20221012145943](/zet/20221012145943/README.md) changes in the weather during my lifetime
