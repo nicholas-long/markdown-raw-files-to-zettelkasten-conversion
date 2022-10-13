@@ -54,7 +54,6 @@ stuff i am working on.
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009091132](/zet/20221009091132/README.md) new links should come in at the bottom
 - [20221009022138](/zet/20221009022138/README.md) parse text in zettelkasten with python scripts
-- [20221003151159](/zet/20221003151159/README.md) Credit where credit is due
 - [20221008213627](/zet/20221008213627/README.md) enhancement / improvement
 - [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch
 - [20221008182309](/zet/20221008182309/README.md) learning git internals

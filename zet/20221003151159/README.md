@@ -22,8 +22,10 @@ If we have missed adding someone in credit, feel free to send a note or open a g
 
 # Related
 
-- [20221008042814](/zet/20221008042814/README.md) WIP
-- [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
+- 20221006013612
+
+- 20221003150098
+
 
 Tags:
 
