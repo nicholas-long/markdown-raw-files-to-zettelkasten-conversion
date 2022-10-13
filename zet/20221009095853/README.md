@@ -6,6 +6,7 @@ things that are finished.
 
 # Related
 
+- [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221012220453](/zet/20221012220453/README.md) unlink should be easier
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration

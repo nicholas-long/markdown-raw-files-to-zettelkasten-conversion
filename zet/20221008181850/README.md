@@ -32,10 +32,8 @@ the livestream SKILSTAK Beginner Boost 2022 - Week 21 livestream
 
 # Related
 
-- 20221009095853
-
-- 20221008214935
-
+- [20221009095853](/zet/20221009095853/README.md) finished
+- [20221008214935](/zet/20221008214935/README.md) go language
 - [20221008210209](/zet/20221008210209/README.md) nim makes smaller wasm binaries than rust
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
