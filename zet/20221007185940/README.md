@@ -7,11 +7,6 @@ probably added from github actions.
 # Related
 
 - 
-- [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells
-- [20221003150222](/zet/20221003150222/README.md) change interface mac address
-- [20221003150218](/zet/20221003150218/README.md) Connecting to confluent
-- [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset
-- [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
 - [20221003150198](/zet/20221003150198/README.md) control key mappings for sh
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
 - [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive

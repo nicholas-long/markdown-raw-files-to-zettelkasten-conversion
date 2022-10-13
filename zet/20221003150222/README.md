@@ -9,7 +9,14 @@ sudo ifconfig wlan0 up
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221007220451
+
+- 20221013185251
+
+- 20221007220451
+
+- 20221003150117
+
 
 Tags:
 
