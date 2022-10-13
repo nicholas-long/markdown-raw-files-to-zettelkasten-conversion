@@ -9,7 +9,6 @@ probably added from github actions.
 - [20221012213538](/zet/20221012213538/README.md) collect loose nodes and sort them out
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-- [20221007192111](/zet/20221007192111/README.md) the first zettel generated from github
 - [20221003151442](/zet/20221003151442/README.md) Box drawing ascii unicode characters
 - [20221003151431](/zet/20221003151431/README.md) awk scripting check output of grep and next line using awk "grep -A 1 -R '^# ' ."
 - [20221003151339](/zet/20221003151339/README.md) enumerate all python imports; chain 2 awk scripts with a filter
