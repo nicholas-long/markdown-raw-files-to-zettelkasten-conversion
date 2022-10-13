@@ -12,6 +12,7 @@ hacking notes mega-node
 
 # Related
 
+- [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221003150557](/zet/20221003150557/README.md) WhiteWinterWolf Webshell
 - [20221003150874](/zet/20221003150874/README.md) nikto command
 - [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal

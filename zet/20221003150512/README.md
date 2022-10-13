@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221003150518](/zet/20221003150518/README.md) pwntools sigreturn
+- [20221003150523](/zet/20221003150523/README.md) heap exploit resources
 - [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths
 - ~/kb/hacking/pwn/tricks.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix

@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221003150523](/zet/20221003150523/README.md) heap exploit resources
+- [20221003150518](/zet/20221003150518/README.md) pwntools sigreturn
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150502](/zet/20221003150502/README.md) pwntools synchronizing output sending wait until receive
 - [20221003150501](/zet/20221003150501/README.md) pwntools FmtStr automated format string exploitation

@@ -6,6 +6,8 @@ concept of the github website owned by the company microsoft.
 
 # Related
 
+- [20221013171453](/zet/20221013171453/README.md) important repositories and tools
+- [20221003150456](/zet/20221003150456/README.md) bruteforce-salted-openssl to brute force openssl encrypted files
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
 - [20221012152421](/zet/20221012152421/README.md) micosoft
 - [20221012152319](/zet/20221012152319/README.md) concept of company or organization

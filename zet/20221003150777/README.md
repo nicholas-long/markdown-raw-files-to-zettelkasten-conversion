@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150527](/zet/20221003150527/README.md) Generate reverse shell shellcode payload
 - [20221003150776](/zet/20221003150776/README.md) MSFVENOM Windows Binary (.exe) executable
 - [20221003150766](/zet/20221003150766/README.md) MSFVENOM Linux Binary (.elf)
 - [20221003150760](/zet/20221003150760/README.md) MSFVENOM Java Server Pages (.jsp)
