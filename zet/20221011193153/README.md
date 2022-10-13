@@ -57,6 +57,10 @@
   - template notes for youtube
   - iframes can render a youtube video in obisidian
     - WTF?
+  - "airrquote" - podcast notes ...?
+    - double tab headphones
+    - transcribes the last 45 seconds of audio
+    - add a caption
 
 ```
 ```

@@ -1,5 +1,9 @@
 # future enhancements to zet cmd
 
+- launch new tmux windows or panes for things
+  - tmux popup ?
+  - tmux windows
+  - panes
 - add nodes from graph text file like graphviz
 - put new links on bottom instead of top? -- made card?
 - readline vi hotkeys

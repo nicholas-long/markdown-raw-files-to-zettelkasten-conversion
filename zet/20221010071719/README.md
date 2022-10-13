@@ -1,7 +1,6 @@
 # nodes to add
 
-
-- concept hub for tricks?
+- TODO for each project
 
 ` zet/20221010071719/README.md `
 

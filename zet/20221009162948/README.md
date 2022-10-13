@@ -30,6 +30,9 @@ c  "o   /- [^Mww"zye:e zet/^Rz/README.tx<80>kb<80>kbmd^M
 - highlight with `V%`
 - move with my cool visual mode bind for moving lines
   - visual mode is good for something
+
+- open markdown links' document in tabs - good for workflow?
+
 ` zet/20221009162948/README.md `
 
 # Related
