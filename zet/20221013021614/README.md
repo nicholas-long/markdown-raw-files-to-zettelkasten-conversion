@@ -1,11 +1,13 @@
 # terminal graph browser
 
 - concept of `terminal graph browser`
-- would be awesome
+- is awesome
 - fzf loop just like `zc`
   - preview window shows document always, menu picks options, option to visit links
-- attaching work here
-- symlink in main dir
+- text user interface ( TUI ) to follow links like web browser
+  - add and remove links quickly
+  - navigate back - very useful
+    - if you edit links in cards you are working on, you could get trapped and need to hop back to previous card
 
 ```
 ln -s zet/20221013021614/ browser
@@ -21,4 +23,4 @@ ln -s zet/20221013021614/ browser
 
 Tags:
 
-    #idea
+    #idea #tui
