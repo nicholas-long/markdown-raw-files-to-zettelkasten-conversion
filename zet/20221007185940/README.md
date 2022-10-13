@@ -6,22 +6,6 @@ probably added from github actions.
 
 # Related
 
-- [20221012213538](/zet/20221012213538/README.md) collect loose nodes and sort them out
-- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
-- [20221003150455](/zet/20221003150455/README.md) ike-scan for ike IPsec VPNs
-- [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
-- [20221003150449](/zet/20221003150449/README.md) keepass CLI tool open and edit keepass databases
-- [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
-- [20221003150440](/zet/20221003150440/README.md) Compiled versions of .NET Windows enumeration tools
-- [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
-- [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
-- [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
-- [20221003150420](/zet/20221003150420/README.md) finger user enum
-- [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI
-- [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell
-- [20221003150361](/zet/20221003150361/README.md) connect to minecraft server and send chat messages
-- [20221003150358](/zet/20221003150358/README.md) jxplorer connect to LDAP GUI access
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script
 - [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
@@ -64,6 +48,9 @@ probably added from github actions.
 - [20221003150116](/zet/20221003150116/README.md) Socat over proxy
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
 - [20221003150076](/zet/20221003150076/README.md) swap panes
+- [20221012213538](/zet/20221012213538/README.md) collect loose nodes and sort them out
+- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
+- [20221007220451](/zet/20221007220451/README.md) hacking notes node
 
 Tags:
 

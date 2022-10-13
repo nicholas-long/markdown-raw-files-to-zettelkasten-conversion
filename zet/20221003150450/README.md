@@ -9,7 +9,17 @@ sudo apt install -y padbuster
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221013171453
+
+- 20221008221822
+
+- 20221003150102
+
+- 20221007220451
+
+- 20221003150978
+
+- remove link to oracle databases, company
 
 Tags:
 
