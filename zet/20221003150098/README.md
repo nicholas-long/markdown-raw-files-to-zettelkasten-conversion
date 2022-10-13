@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221003151159](/zet/20221003151159/README.md) Credit where credit is due
 - [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?
 - [20221013005916](/zet/20221013005916/README.md) ability to move a link from one node to another
 - [20221008211707](/zet/20221008211707/README.md) making cool stuff

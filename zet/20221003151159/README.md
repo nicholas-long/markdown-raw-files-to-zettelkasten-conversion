@@ -22,10 +22,8 @@ If we have missed adding someone in credit, feel free to send a note or open a g
 
 # Related
 
-- 20221006013612
-
-- 20221003150098
-
+- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
+- [20221003150098](/zet/20221003150098/README.md) todo
 
 Tags:
 
