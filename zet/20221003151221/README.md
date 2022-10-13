@@ -7,7 +7,16 @@ pypykatz registry --sam SAM.old --security SECURITY.OLD --software SOFTWARE.OLD 
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221008215139
+
+- 20221003151207
+
+- 20221003151167
+
+- 20221003151153
+
+- 20221003150946
+
 
 Tags:
 

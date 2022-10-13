@@ -8,7 +8,16 @@ Filter non windows hosts `| grep 'bytes from' | grep -v 'ttl=12'`
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221006025356
+
+- 20221003150786
+
+- 20221003150782
+
+- 20221003150683
+
+- 20221003150482
+
 
 Tags:
 

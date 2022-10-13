@@ -8,7 +8,12 @@ swaks -s $IP -f from@sender.com -t to@recipient.com --header "Subject: this is t
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221003151172
+
+- 20221003151144
+
+- 20221003150488
+
 
 Tags:
 
