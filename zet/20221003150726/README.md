@@ -8,7 +8,14 @@ openssl req -in $FILE -text
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221009014200
+
+- 20221003151299
+
+- 20221003150801
+
+- 20221003150791
+
 
 Tags:
 

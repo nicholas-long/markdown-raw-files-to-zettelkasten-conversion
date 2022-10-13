@@ -7,7 +7,12 @@ ssh $USER@$IP -t bash --noprofile
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221007220451
+
+- 20221003151299
+
+- 20221003151210
+
 
 Tags:
 

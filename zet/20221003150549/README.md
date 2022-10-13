@@ -7,7 +7,14 @@ echo "$URL" | waybackurls| httpx-pd -silent > link.txt
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221008221548
+
+- 20221007220451
+
+- 20221003150966
+
+- 20221003150953
+
 
 Tags:
 

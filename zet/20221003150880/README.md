@@ -7,7 +7,12 @@ A workaround in some older HTB or CTF boxes was just to remove setuid.
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221006025356
+
+- 20221003151210
+
+- 20221003151208
+
 
 Tags:
 

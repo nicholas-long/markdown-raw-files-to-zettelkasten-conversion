@@ -7,7 +7,8 @@ nc -l -p 1234 > out.file
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221003150138
+
 
 Tags:
 

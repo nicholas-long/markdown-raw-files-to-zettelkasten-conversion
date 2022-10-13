@@ -5,7 +5,10 @@ analyze process dump with pypykatz
 
 # Related
 
-- [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- 20221003151207
+
+- 20221003151172
+
 
 Tags:
 
