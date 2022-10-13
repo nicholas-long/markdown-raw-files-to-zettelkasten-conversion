@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221013214821](/zet/20221013214821/README.md) check for command injection
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221003151159](/zet/20221003151159/README.md) Credit where credit is due
 - [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?
