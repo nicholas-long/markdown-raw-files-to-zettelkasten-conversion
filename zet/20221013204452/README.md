@@ -1,6 +1,13 @@
 # make a video of terminal graph browser and zkvr workflow loop in action
 
 - concept of `make a video of terminal graph browser and zkvr workflow loop in action`
+- things to demo
+  - browsing
+  - spawn from existing card (when that feature is done)
+    - selecting links
+  - adding and removing links
+  - searching
+  - quick example of sorting in vim
 
 ```
 ```
@@ -8,6 +15,8 @@
 ` zet/20221013204452/README.md `
 
 # Related
+
+- 20221013195816
 
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
