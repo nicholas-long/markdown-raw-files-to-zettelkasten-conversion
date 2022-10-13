@@ -7,7 +7,6 @@ a script will check to see if the ID numbers appear on the main README.
 ```
 Reference count:  29 of 28
 Missing:
-20221012144502
 20221013204452
 20221013035616
 ```
@@ -16,7 +15,6 @@ Missing:
 
 # Related
 
-- [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221013035616](/zet/20221013035616/README.md) fun
 - [20221006213953](/zet/20221006213953/README.md) video notes
