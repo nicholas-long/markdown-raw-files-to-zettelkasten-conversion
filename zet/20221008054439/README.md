@@ -9,6 +9,7 @@ the concept of graph database
 
 # Related
 
+- [20221013221136](/zet/20221013221136/README.md) implement a graph query language
 - [20221012153512](/zet/20221012153512/README.md) database
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221008054623](/zet/20221008054623/README.md) neo4j

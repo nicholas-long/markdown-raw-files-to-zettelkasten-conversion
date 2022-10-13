@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
 - [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
 - [20221003150222](/zet/20221003150222/README.md) change interface mac address

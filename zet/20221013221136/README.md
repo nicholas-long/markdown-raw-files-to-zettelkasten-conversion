@@ -17,11 +17,12 @@
 
 # Related
 
-- 20221009102918
-- 20221008054439
-- 20221003150098
-- 20221006084204
-- 20221006032546
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221009102918](/zet/20221009102918/README.md) get titles in tag links
+- [20221008054439](/zet/20221008054439/README.md) graph database
+- [20221003150098](/zet/20221003150098/README.md) todo
+- [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 
 Tags:
 

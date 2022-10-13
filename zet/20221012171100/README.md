@@ -11,6 +11,8 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
+- [20221013221136](/zet/20221013221136/README.md) implement a graph query language
 - [20221013214821](/zet/20221013214821/README.md) check for command injection
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221013203732](/zet/20221013203732/README.md) feels like "being plugged into the matrix"

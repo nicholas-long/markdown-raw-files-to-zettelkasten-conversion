@@ -6,6 +6,7 @@ the concept of `the concept of utility or being useful`
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150132](/zet/20221003150132/README.md) find file with name matching regular expression
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session

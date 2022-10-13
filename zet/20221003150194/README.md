@@ -8,6 +8,7 @@ set -o vi
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150198](/zet/20221003150198/README.md) control key mappings for sh
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 

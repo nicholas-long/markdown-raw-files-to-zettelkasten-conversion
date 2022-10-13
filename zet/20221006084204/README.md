@@ -32,6 +32,7 @@
 
 # Related
 
+- [20221013221136](/zet/20221013221136/README.md) implement a graph query language
 - [20221013214821](/zet/20221013214821/README.md) check for command injection
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221013195816](/zet/20221013195816/README.md) ability to spawn from an existing card

@@ -9,16 +9,17 @@
 
 # Related
 
-- 20221003150194
-- 20221009013945
-- 20221011075934
-- 20221009162948
-- 20221008214631
-- 20221006025356
-- 20221008214827
-- 20221008061334
-- 20221013185251
-- 20221003151299
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221003150194](/zet/20221003150194/README.md) set the bash prompt to use vi hotkeys
+- [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?
+- [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys
+- [20221009162948](/zet/20221009162948/README.md) useful vim hotkeys for zettelkasten
+- [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks
+- [20221006025356](/zet/20221006025356/README.md) linux
+- [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
+- [20221008061334](/zet/20221008061334/README.md) concepts
+- [20221013185251](/zet/20221013185251/README.md) general information concept FYI
+- [20221003151299](/zet/20221003151299/README.md) bash tricks
 
 Tags:
 

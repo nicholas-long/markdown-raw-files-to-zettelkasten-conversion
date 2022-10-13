@@ -18,6 +18,7 @@ gep
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150076](/zet/20221003150076/README.md) swap panes
 - [20221013035616](/zet/20221013035616/README.md) fun
 - [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?

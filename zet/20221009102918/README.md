@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221013221136](/zet/20221013221136/README.md) implement a graph query language
 - [20221008213627](/zet/20221008213627/README.md) enhancement / improvement
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 
