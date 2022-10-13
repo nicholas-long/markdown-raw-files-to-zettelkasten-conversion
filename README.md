@@ -35,3 +35,4 @@ Attempt at converting a library of raw markdown files in directories into a Zett
 - [stuff that should be on this page](/zet/20221009192000/README.md)
 - [recently created notes](/zet/20221012171100/README.md)
 - [20221007185940](/zet/20221007185940/README.md) unsorted nodes
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
