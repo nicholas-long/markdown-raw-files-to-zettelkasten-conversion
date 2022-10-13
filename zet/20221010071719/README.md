@@ -1,9 +1,7 @@
 # nodes to add
 
-- persistence
-  - PAM module backdoor
-  - DLL sideloading
-- preparing exploit payloads
+- cookie
+- serialization
 - akka ?
 
 ` zet/20221010071719/README.md `
