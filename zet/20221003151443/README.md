@@ -1,5 +1,9 @@
 # kb
-Snippets, boilerplate code templates, notes, and examples
+
+- repository located at https://github.com/nicholas-long/kb/
+- "Snippets, boilerplate code templates, notes, and examples"
+- searchable markdown content i was using for a template search engine fzf alias
+- converted to this zettelkasten
 
 ` zet/20221003151443/README.md `
 
