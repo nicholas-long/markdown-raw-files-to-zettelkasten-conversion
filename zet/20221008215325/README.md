@@ -9,6 +9,7 @@ the concept of a `password`
 
 # Related
 
+- [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221013185456](/zet/20221013185456/README.md) shadow file
 - [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script
 - [20221003150577](/zet/20221003150577/README.md) php quick client phishing attack credential harvesting

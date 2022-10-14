@@ -6,12 +6,13 @@ a list of hacking platforms for practice and education.
 
 # Related
 
+- [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
 - [20221013035616](/zet/20221013035616/README.md) fun
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221011134623](/zet/20221011134623/README.md) note taking template for heckin boxes
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150288](/zet/20221003150288/README.md) default webroots wamp
 - [20221003150289](/zet/20221003150289/README.md) default webroots
 - [20221008221548](/zet/20221008221548/README.md) website

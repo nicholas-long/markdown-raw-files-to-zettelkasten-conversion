@@ -9,6 +9,7 @@ chmod +x ~/.docker/cli-plugins/docker-compose
 
 # Related
 
+- [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221003151274](/zet/20221003151274/README.md) install mandown
 - [20221009021452](/zet/20221009021452/README.md) container

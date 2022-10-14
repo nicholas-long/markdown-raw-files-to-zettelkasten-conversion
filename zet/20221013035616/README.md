@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
 - [20221003150361](/zet/20221003150361/README.md) connect to minecraft server and send chat messages
 - [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream

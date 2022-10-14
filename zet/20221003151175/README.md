@@ -21,13 +21,9 @@
 # Related
 
 - [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin
-
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
-
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
-
 - [20221003150341](/zet/20221003150341/README.md) database creds
-
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
 - [20221003151195](/zet/20221003151195/README.md) DNS

@@ -92,7 +92,6 @@
 # Related
 
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
-
 - [20221003150266](/zet/20221003150266/README.md) systemd-private
 - [20221003150322](/zet/20221003150322/README.md) cyber reason
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
