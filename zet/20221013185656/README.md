@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003150972](/zet/20221003150972/README.md) crack salted md5 hash with hashcat
 - [20221003151156](/zet/20221003151156/README.md) hashcat generate passwords from password masks and output to stdout
 - [20221003151140](/zet/20221003151140/README.md) active directory  NTLMv2 vs kerberos authentication on the network
