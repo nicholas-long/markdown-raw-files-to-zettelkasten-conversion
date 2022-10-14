@@ -1,6 +1,7 @@
-# session cookie or access token
+# session cookie, API key, or access token
 
 - concept of `session cookie or access token`
+- access to things
 
 ```
 ```
