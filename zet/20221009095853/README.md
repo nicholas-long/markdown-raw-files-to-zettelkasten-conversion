@@ -6,7 +6,8 @@ things that are finished.
 
 # Related
 
-- [20221014150222](/zet/20221014150222/README.md) make a list of all kb files
+- [20221014183030](/zet/20221014183030/README.md) create cards for kb files
+- [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes
 - [20221013195816](/zet/20221013195816/README.md) ability to spawn from an existing card
