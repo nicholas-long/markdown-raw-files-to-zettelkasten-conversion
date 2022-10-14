@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221012152319](/zet/20221012152319/README.md) concept of company or organization
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
 - [20221008215139](/zet/20221008215139/README.md) hash / checksum

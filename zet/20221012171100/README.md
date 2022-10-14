@@ -30,7 +30,6 @@ zet/20221012171100/README.md
 - [20221013185456](/zet/20221013185456/README.md) shadow file
 - [20221013185406](/zet/20221013185406/README.md) etc passwd file on linux
 - [20221013185251](/zet/20221013185251/README.md) general information concept FYI
-- [20221013185120](/zet/20221013185120/README.md) crypto and blockchain stuff
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:
