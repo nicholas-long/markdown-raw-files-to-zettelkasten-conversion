@@ -97,10 +97,11 @@ while [ 1 == "$going" ]; do
   elif [ "$act" == "spawn" ]; then
     id=$(echo "$doc" | awk -F / '{print $(NF-1)}')
     read -p "enter title> " title
-    newid=$(./zc new -z "$title" -r "$id" | awk '/created zet ID/ { print $NF }')
+    newid=$(./zc new -t "$title" -r "$id" | awk '/created zet ID/ { print $NF }')
     echo "spawned $newid"
     sleep 1
     ./zc enrich_links_single $id
+    ./zc addref -t $id $newid
     ./zc enrich_links_single $newid
     sleep 1
   fi
