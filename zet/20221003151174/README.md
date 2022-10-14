@@ -1,4 +1,4 @@
-# SSH
+# SSH to try list
 - credential reuse
   - hydra with low threads
     - old key exchange -> use patator instead
