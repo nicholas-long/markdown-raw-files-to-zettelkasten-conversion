@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221014024704](/zet/20221014024704/README.md) list of sparse nodes
 - [20221014023054](/zet/20221014023054/README.md) distinct workflow operations i do in this zettelkasten
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
@@ -30,7 +31,6 @@ zet/20221012171100/README.md
 - [20221013185406](/zet/20221013185406/README.md) etc passwd file on linux
 - [20221013185251](/zet/20221013185251/README.md) general information concept FYI
 - [20221013185120](/zet/20221013185120/README.md) crypto and blockchain stuff
-- [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:
