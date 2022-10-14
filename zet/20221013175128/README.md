@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221014074852](/zet/20221014074852/README.md) "Keep It Simple Stupid" principle of engineering and design
 - [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
 - [20221003150331](/zet/20221003150331/README.md) log4j log4shell
 - [20221013175957](/zet/20221013175957/README.md) serialization concept

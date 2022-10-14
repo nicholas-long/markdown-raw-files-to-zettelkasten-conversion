@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014153143](/zet/20221014153143/README.md) scroll preview window
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn
 - [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf?
