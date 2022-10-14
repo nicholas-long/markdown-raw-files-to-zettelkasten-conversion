@@ -33,9 +33,10 @@ awk '
 
 # Related
 
+- [20221009095853](/zet/20221009095853/README.md) finished
+
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
-- [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221014183030](/zet/20221014183030/README.md) create cards for kb files
 - [20221003151443](/zet/20221003151443/README.md) kb
 - [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents
