@@ -83,6 +83,7 @@ while [ 1 == "$going" ]; do
     if [ ! -z "$id" ]; then
       zet/$IMPL/parseids $selection | sort -u | xargs -n 1 zet/$IMPL/zetcmd addref -t "$id"
     fi
+    ./zc enrich_links_single "$id"
     sleep 1
   elif [ "$act" == "back" ]; then
     temp="$doc"
