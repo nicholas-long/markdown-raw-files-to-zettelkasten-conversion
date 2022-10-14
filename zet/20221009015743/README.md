@@ -48,6 +48,7 @@ ENTRYPOINT [ "pyrit" ]
 
 # Related
 
+- [20221014201909](/zet/20221014201909/README.md) add lazygit to dockerfile for zet cmd
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221003151268](/zet/20221003151268/README.md) Lookup missing packages

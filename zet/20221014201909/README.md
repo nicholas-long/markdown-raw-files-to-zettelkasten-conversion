@@ -9,14 +9,11 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221014154703](/zet/20221014154703/README.md) lazygit program
-
 - [20221009015743](/zet/20221009015743/README.md) dockerfile
-
 - [20221008042814](/zet/20221008042814/README.md) WIP
-
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
-
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 
 Tags:

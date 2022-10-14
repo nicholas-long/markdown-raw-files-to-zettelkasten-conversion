@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221014201909](/zet/20221014201909/README.md) add lazygit to dockerfile for zet cmd
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221008214935](/zet/20221008214935/README.md) go language

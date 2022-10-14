@@ -6,6 +6,8 @@ things that are finished.
 
 # Related
 
+- [20221008195148](/zet/20221008195148/README.md) seclists etc files project
+- [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221014191506](/zet/20221014191506/README.md) associate kb cards with converted cards
 - [20221014183030](/zet/20221014183030/README.md) create cards for kb files
 - [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents

@@ -49,6 +49,7 @@ Options:
 
 # Related
 
+- [20221014201909](/zet/20221014201909/README.md) add lazygit to dockerfile for zet cmd
 - [20221014190239](/zet/20221014190239/README.md) kb file named kb/bash-scripting/check-empty-var.md
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221014154703](/zet/20221014154703/README.md) lazygit program

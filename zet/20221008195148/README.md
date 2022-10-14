@@ -14,7 +14,6 @@ the seclists etc files project
 # Related
 
 - [20221009095853](/zet/20221009095853/README.md) finished
-
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - https://github.com/danielmiessler/SecLists/pull/785
 - https://github.com/nicholas-long/SecLists

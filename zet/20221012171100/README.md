@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221014201909](/zet/20221014201909/README.md) add lazygit to dockerfile for zet cmd
 - [20221014191506](/zet/20221014191506/README.md) associate kb cards with converted cards
 - [20221014190301](/zet/20221014190301/README.md) kb file named kb/bash-scripting/debugging.md
 - [20221014190259](/zet/20221014190259/README.md) kb file named kb/bash-scripting/tricks.md

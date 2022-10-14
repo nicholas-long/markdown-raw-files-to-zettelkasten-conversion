@@ -8,7 +8,6 @@ done.
 # Related
 
 - [20221014201909](/zet/20221014201909/README.md) add lazygit to dockerfile for zet cmd
-
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
