@@ -17,7 +17,6 @@ zet/20221012171100/README.md
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221014074852](/zet/20221014074852/README.md) KISS principle of engineering and design
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
-- [20221014074318](/zet/20221014074318/README.md) important choices of tech stack
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:

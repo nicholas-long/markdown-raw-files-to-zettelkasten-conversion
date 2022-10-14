@@ -70,6 +70,7 @@
 
 # Related
 
+- [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221009172522](/zet/20221009172522/README.md) obsidian
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221006213953](/zet/20221006213953/README.md) video notes

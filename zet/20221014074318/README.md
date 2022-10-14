@@ -25,7 +25,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221008215400](/zet/20221008215400/README.md) file
