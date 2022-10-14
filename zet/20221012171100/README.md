@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221014072547](/zet/20221014072547/README.md) ideas need to be explained and connected to relevant things
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221014070023](/zet/20221014070023/README.md) findings from implementing deep connectome search
 - [20221014062642](/zet/20221014062642/README.md) organize OSCP related notes

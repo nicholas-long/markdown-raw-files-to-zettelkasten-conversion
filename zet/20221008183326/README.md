@@ -8,6 +8,7 @@ findings about video notes
 
 # Related
 
+- [20221014072547](/zet/20221014072547/README.md) ideas need to be explained and connected to relevant things
 - [20221013180437](/zet/20221013180437/README.md) differences organizing zettelkasten in graph vs files in hierarchy
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
