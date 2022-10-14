@@ -358,7 +358,6 @@ zet/20221012171100/README.md
 - [20221014154703](/zet/20221014154703/README.md) lazygit program
 - [20221014153143](/zet/20221014153143/README.md) scroll preview window
 - [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents
-- [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:

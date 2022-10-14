@@ -6,6 +6,7 @@ concept of the github website owned by the company microsoft.
 
 # Related
 
+- [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells

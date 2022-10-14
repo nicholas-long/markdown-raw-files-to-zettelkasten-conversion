@@ -14,6 +14,7 @@ hub node for `workflow`
 
 # Related
 
+- [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014154703](/zet/20221014154703/README.md) lazygit program
 - [20221003151408](/zet/20221003151408/README.md) bash scripting parse burpsuite saved request file and convert to python requests script for copying

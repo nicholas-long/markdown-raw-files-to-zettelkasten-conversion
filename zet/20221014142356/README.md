@@ -10,7 +10,6 @@
 # Related
 
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221009012547](/zet/20221009012547/README.md) Github UI tricks
 - [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks
