@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221003151352](/zet/20221003151352/README.md) python scripting convert tsv with key and value fields to python dictionary
 - [20221003151360](/zet/20221003151360/README.md) python scripting connect to remote server
 - [20221003151363](/zet/20221003151363/README.md) python scripting

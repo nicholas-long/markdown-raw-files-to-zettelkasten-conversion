@@ -15,6 +15,7 @@
 
 # Related
 
+- [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221008214935](/zet/20221008214935/README.md) go language
 - [20221003151267](/zet/20221003151267/README.md) fzf
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub

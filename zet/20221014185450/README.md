@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221003151372](/zet/20221003151372/README.md) bash scripting convert string to hex with no newlines
 - [20221003151375](/zet/20221003151375/README.md) bash scripting run strings on memory dumps for every readable process
 - [20221003151404](/zet/20221003151404/README.md) bash scripting decorate XML with colors for tags, attributes, and content

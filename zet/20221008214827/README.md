@@ -6,6 +6,9 @@ the concept of `the concept of utility or being useful`
 
 # Related
 
+- [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
+- [20221010222312](/zet/20221010222312/README.md) tmux workflow
+- [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150132](/zet/20221003150132/README.md) find file with name matching regular expression

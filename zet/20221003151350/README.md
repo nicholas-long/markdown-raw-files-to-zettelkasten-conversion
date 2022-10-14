@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014190117](/zet/20221014190117/README.md) kb file named kb/awk-scripting/bash-awk-quick-commands.md
 - [20221014160551](/zet/20221014160551/README.md) terminal emulator program
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution

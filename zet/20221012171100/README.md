@@ -11,6 +11,8 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221014213613](/zet/20221014213613/README.md) boilerplate code template
+- [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014205906](/zet/20221014205906/README.md) coding in golang
 - [20221014201909](/zet/20221014201909/README.md) add lazygit to dockerfile for zet cmd
 - [20221014191506](/zet/20221014191506/README.md) associate kb cards with converted cards

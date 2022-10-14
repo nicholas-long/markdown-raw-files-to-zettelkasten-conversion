@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014190241](/zet/20221014190241/README.md) kb file named kb/bash-scripting/stream-operations.md
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution

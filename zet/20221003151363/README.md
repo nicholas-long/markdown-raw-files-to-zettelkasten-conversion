@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014190229](/zet/20221014190229/README.md) kb file named kb/auto-python.md
 - [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

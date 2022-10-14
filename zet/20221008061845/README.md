@@ -14,6 +14,7 @@ hub node for `workflow`
 
 # Related
 
+- [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014154703](/zet/20221014154703/README.md) lazygit program
 - [20221003151408](/zet/20221003151408/README.md) bash scripting parse burpsuite saved request file and convert to python requests script for copying
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology

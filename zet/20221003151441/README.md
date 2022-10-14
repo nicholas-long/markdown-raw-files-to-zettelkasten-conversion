@@ -6,6 +6,7 @@ Collection of awk scripting examples
 
 # Related
 
+- [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md
 - [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
 - [20221008212519](/zet/20221008212519/README.md) programming language

@@ -9,6 +9,7 @@ the concept of `template example card for scripts`
 
 # Related
 
+- [20221014213613](/zet/20221014213613/README.md) boilerplate code template
 - [20221011153359](/zet/20221011153359/README.md) ability to clone cards
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process

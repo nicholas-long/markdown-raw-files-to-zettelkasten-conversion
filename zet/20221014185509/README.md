@@ -10,7 +10,6 @@
 # Related
 
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
-
 - [20221003151436](/zet/20221003151436/README.md) awk scripting print all variations of spaces between tokens
 - [20221003151433](/zet/20221003151433/README.md) awk scripting combine lines from two files combinatorically with symbol between
 - [20221003151429](/zet/20221003151429/README.md) awk scripting print all variations of upper and lower case for given lowercase string
