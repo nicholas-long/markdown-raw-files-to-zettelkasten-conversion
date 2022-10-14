@@ -5,6 +5,7 @@ Snippets, boilerplate code templates, notes, and examples
 
 # Related
 
+- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221014191506](/zet/20221014191506/README.md) associate kb cards with converted cards
 - [20221014185959](/zet/20221014185959/README.md) kb file named kb/hacking/php/deserialization-attacks.md
 - [20221014185958](/zet/20221014185958/README.md) kb file named kb/hacking/php/type-juggling.md

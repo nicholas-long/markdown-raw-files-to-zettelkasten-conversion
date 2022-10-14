@@ -34,7 +34,6 @@ awk '
 # Related
 
 - [20221009095853](/zet/20221009095853/README.md) finished
-
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221014183030](/zet/20221014183030/README.md) create cards for kb files

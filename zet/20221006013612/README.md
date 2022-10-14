@@ -13,7 +13,6 @@
 # Related
 
 - [20221003151443](/zet/20221003151443/README.md) kb
-
 - [20221014191506](/zet/20221014191506/README.md) associate kb cards with converted cards
 - [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology

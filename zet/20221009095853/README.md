@@ -6,6 +6,7 @@ things that are finished.
 
 # Related
 
+- [20221014191506](/zet/20221014191506/README.md) associate kb cards with converted cards
 - [20221014183030](/zet/20221014183030/README.md) create cards for kb files
 - [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
