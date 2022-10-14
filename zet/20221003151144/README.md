@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
+- [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
 - [20221003150254](/zet/20221003150254/README.md) beacon object file BOF
 - [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
@@ -14,7 +16,7 @@
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - [20221008215530](/zet/20221008215530/README.md) username
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d
 - [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions
 - [20221003151140](/zet/20221003151140/README.md) active directory  NTLMv2 vs kerberos authentication on the network

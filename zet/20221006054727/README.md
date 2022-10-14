@@ -25,9 +25,7 @@ done
 # Related
 
 - [20221008182309](/zet/20221008182309/README.md) learning git internals
-
 - [20221003150798](/zet/20221003150798/README.md) git
-
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
 - [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards

@@ -25,6 +25,7 @@ Transmission and reception of raw bit streams over a physical medium
 
 # Related
 
+- [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150717](/zet/20221003150717/README.md) packet capture

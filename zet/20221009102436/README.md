@@ -10,6 +10,7 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 
 # Related
 
+- [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
@@ -30,7 +31,7 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 - [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access
 - [20221003151172](/zet/20221003151172/README.md) active directory domain
 - [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits
-- [20221003151174](/zet/20221003151174/README.md) SSH
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list
 - [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks )
 - [20221003151181](/zet/20221003151181/README.md) HTTP compromised CMS login CMS auth code exec / becoming web user
 - [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login

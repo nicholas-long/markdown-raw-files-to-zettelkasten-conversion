@@ -9,6 +9,7 @@ the concept of `potential exploits`
 
 # Related
 
+- [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
 - [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
