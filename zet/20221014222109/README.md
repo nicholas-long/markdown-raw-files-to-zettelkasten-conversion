@@ -15,6 +15,7 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 
 Tags:

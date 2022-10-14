@@ -15,7 +15,6 @@
 # Related
 
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
-
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - workflow

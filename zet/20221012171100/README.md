@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
 - [20221014213613](/zet/20221014213613/README.md) boilerplate code template
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
