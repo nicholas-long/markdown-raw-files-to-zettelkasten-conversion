@@ -1,15 +1,16 @@
 # main page for markdown-raw-files-to-zettelkasten-conversion
 Attempt at converting a library of raw markdown files in directories into a Zettelkasten
 
+- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+  ![screenshot of graph explorer](/zet/20221010184202/Screenshot_2022-10-14_014740.png)
+  - [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
+  - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
+  - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - what a zettelkasten is and why i'm converting my notes
   - [information about this project](/zet/20221006013612/README.md)
   - [findings](/zet/20221007043646/README.md)
   - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
   - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
-  - [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
-  - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
-  - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - screenshots
   - [20221009172522](/zet/20221009172522/README.md) obsidian
   - what it looks like in the graph view in obsidian
