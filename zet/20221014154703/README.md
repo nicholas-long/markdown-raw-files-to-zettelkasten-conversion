@@ -4,6 +4,7 @@
 - i think it's written in go?
 - easy to make commits
 - very good to have as part of workflow if you are into terminal user interfaces
+- https://github.com/jesseduffield/lazygit
 
 ```
 ```
