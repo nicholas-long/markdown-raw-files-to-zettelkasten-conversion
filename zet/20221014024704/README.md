@@ -814,7 +814,6 @@
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221008054439](/zet/20221008054439/README.md) graph database
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes
 
 Tags:
