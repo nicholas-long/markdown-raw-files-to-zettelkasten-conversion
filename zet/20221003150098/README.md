@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221014153143](/zet/20221014153143/README.md) scroll preview window
 - [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
 - [20221013221136](/zet/20221013221136/README.md) implement a graph query language
 - [20221013214821](/zet/20221013214821/README.md) check for command injection

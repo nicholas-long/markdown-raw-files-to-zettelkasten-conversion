@@ -18,6 +18,7 @@ ln -s zet/20221013021614/ browser
 
 # Related
 
+- [20221014153143](/zet/20221014153143/README.md) scroll preview window
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221014070023](/zet/20221014070023/README.md) findings from implementing deep connectome search
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
