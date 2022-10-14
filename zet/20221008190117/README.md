@@ -27,6 +27,7 @@ Switched to a new branch 'new-ideas-and-links'
 
 # Related
 
+- [20221014154703](/zet/20221014154703/README.md) lazygit program
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product

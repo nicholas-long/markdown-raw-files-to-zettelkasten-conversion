@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221003150076](/zet/20221003150076/README.md) swap panes
 - [20221012065200](/zet/20221012065200/README.md) side panels work in vim with tmux over ssh now?

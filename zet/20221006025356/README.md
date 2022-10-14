@@ -6,7 +6,9 @@ linux reference links and concepts
 
 # Related
 
-- [20221014074852](/zet/20221014074852/README.md) KISS principle of engineering and design
+- [20221003151335](/zet/20221003151335/README.md) bash command reference
+- [20221014160244](/zet/20221014160244/README.md) qterminal terminal emulator program
+- [20221014074852](/zet/20221014074852/README.md) "Keep It Simple Stupid" principle of engineering and design
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file

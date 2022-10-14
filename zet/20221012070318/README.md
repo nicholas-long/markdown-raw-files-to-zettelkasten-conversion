@@ -9,7 +9,10 @@ the concept of `linux terminal`
 
 # Related
 
-- [20221014074852](/zet/20221014074852/README.md) KISS principle of engineering and design
+- [20221014160244](/zet/20221014160244/README.md) qterminal terminal emulator program
+- [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
+- [20221003150080](/zet/20221003150080/README.md) ctrl H does not work as a hotkey in qterminal by default 
+- [20221014074852](/zet/20221014074852/README.md) "Keep It Simple Stupid" principle of engineering and design
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
 - [20221003151442](/zet/20221003151442/README.md) Box drawing ascii unicode characters
 - [20221012102144](/zet/20221012102144/README.md) preview window for menu

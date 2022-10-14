@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221014155450](/zet/20221014155450/README.md) nim language
 - [20221003150254](/zet/20221003150254/README.md) beacon object file BOF
 - [20221013185120](/zet/20221013185120/README.md) crypto and blockchain stuff
 - [20221003150317](/zet/20221003150317/README.md) malwarebytes
@@ -24,7 +25,7 @@
 - [20221006213649](/zet/20221006213649/README.md) offensive security
 - [20221006213821](/zet/20221006213821/README.md) tryhackme
 - [20221006213311](/zet/20221006213311/README.md) hackthebox
-- [20221003151172](/zet/20221003151172/README.md) active directory domain
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS
 - [20221003151144](/zet/20221003151144/README.md) active directory 
 - [20221003150488](/zet/20221003150488/README.md) active directory

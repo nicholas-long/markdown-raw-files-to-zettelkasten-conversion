@@ -10,7 +10,6 @@
 # Related
 
 - [20221013175128](/zet/20221013175128/README.md) preparing exploit payloads
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221012135747](/zet/20221012135747/README.md) unix text editors
 - [20221012070318](/zet/20221012070318/README.md) linux terminal

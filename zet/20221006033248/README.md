@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221008214935](/zet/20221008214935/README.md) go language
 - [20221014074318](/zet/20221014074318/README.md) important choices of tech stack
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology

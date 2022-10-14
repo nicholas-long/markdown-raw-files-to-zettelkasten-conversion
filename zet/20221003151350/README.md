@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014160551](/zet/20221014160551/README.md) terminal emulator program
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221014074318](/zet/20221014074318/README.md) important choices of tech stack
 - [20221008195148](/zet/20221008195148/README.md) seclists etc files project

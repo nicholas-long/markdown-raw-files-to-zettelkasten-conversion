@@ -6,6 +6,8 @@ the concept of a `program`
 
 # Related
 
+- [20221003150080](/zet/20221003150080/README.md) ctrl H does not work as a hotkey in qterminal by default 
+- [20221014160244](/zet/20221014160244/README.md) qterminal terminal emulator program
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf

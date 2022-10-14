@@ -13,18 +13,13 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221014154703](/zet/20221014154703/README.md) lazygit program
-
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
-
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
-
 - [20221003150079](/zet/20221003150079/README.md) tmux
-
 - [20221003150075](/zet/20221003150075/README.md) tmux
-
 - [20221003150067](/zet/20221003150067/README.md) vim
-
 
 Tags:
 

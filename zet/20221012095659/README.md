@@ -19,6 +19,7 @@
 
 # Related
 
+- [20221014154703](/zet/20221014154703/README.md) lazygit program
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221008061845](/zet/20221008061845/README.md) workflow

@@ -13,11 +13,8 @@
 # Related
 
 - [20221013185251](/zet/20221013185251/README.md) general information concept FYI
-
 - [20221012153512](/zet/20221012153512/README.md) database
-
 - [20221008054439](/zet/20221008054439/README.md) graph database
-
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs

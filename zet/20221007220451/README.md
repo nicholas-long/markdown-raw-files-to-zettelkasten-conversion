@@ -12,8 +12,8 @@ hacking notes hub
 
 # Related
 
+- [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
-
 - [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
 - [20221013214821](/zet/20221013214821/README.md) check for command injection
 - [20221003150117](/zet/20221003150117/README.md) OSI networking model

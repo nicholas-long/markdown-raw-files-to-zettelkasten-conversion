@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
+- [20221014160551](/zet/20221014160551/README.md) terminal emulator program
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221003150076](/zet/20221003150076/README.md) swap panes

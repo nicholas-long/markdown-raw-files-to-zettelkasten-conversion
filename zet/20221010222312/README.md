@@ -9,6 +9,7 @@ the concept of `tmux workflow`
 
 # Related
 
+- [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221003150076](/zet/20221003150076/README.md) swap panes
