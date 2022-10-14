@@ -13,6 +13,7 @@
 - fzf interactive link traversal browsing
 - put timestamps on bottom? `{{date}}`
 - make reference template / example implementations
+- split up command actions into files like https://github.com/naps62/zk
 
 ## move these
 

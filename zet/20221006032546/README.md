@@ -107,7 +107,7 @@ Options:
 - [20221012220453](/zet/20221012220453/README.md) unlink should be easier
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
-- https://github.com/naps62/zk - why is this link here?
+- https://github.com/naps62/zk - another implementation in bash for reference
 - https://www.google.com/search?q=zettelkasten+fzf+vim ?
 
 Tags:
