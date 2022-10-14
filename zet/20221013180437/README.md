@@ -20,7 +20,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221008061845](/zet/20221008061845/README.md) workflow
