@@ -4,6 +4,7 @@
   - they get reinserted
   - could save list of inserted ones to data file to never insert again
 - still need to figure out what to do about dead links - different than removing a link to be one way
+- have to enrich twice because of some nodes that run scripts
 
 ` zet/20221006032933/README.md `
 

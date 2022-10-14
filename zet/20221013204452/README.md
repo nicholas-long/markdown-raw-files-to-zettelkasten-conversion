@@ -16,6 +16,10 @@
 
 # Related
 
+- [20221008042814](/zet/20221008042814/README.md) WIP
+
+- [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
+
 - [20221013195816](/zet/20221013195816/README.md) ability to spawn from an existing card
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
