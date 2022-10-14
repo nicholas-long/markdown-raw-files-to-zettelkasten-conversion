@@ -91,6 +91,8 @@
 
 # Related
 
+- [20221014181941](/zet/20221014181941/README.md) general privilege escalation
+
 - [20221003150266](/zet/20221003150266/README.md) systemd-private
 - [20221003150322](/zet/20221003150322/README.md) cyber reason
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
@@ -115,7 +117,7 @@
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221008215655](/zet/20221008215655/README.md) user account
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
 - [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
