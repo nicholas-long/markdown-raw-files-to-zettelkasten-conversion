@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221003150194](/zet/20221003150194/README.md) set the bash prompt to use vi hotkeys
 - [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?

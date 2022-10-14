@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221003151408](/zet/20221003151408/README.md) bash scripting parse burpsuite saved request file and convert to python requests script for copying
+- [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running

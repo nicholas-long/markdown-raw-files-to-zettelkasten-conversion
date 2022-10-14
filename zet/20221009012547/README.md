@@ -21,6 +21,7 @@ tips:
 
 # Related
 
+- [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten
 - [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221003151302](/zet/20221003151302/README.md) get current script directory
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
@@ -20,7 +21,7 @@
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty

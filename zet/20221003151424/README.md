@@ -6,6 +6,7 @@ This is a collection of bash scripts
 
 # Related
 
+- [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
@@ -29,7 +30,7 @@ This is a collection of bash scripts
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221007181438](/zet/20221007181438/README.md) directories and bash scripts as commands
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions

@@ -8,7 +8,6 @@
 # Related
 
 - [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts
-
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 - [20221003151153](/zet/20221003151153/README.md) windows
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host

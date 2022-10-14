@@ -10,13 +10,9 @@
 # Related
 
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
-
 - [20221003151217](/zet/20221003151217/README.md) caddy
-
 - [20221003151215](/zet/20221003151215/README.md) caddy install
-
 - [20221003150443](/zet/20221003150443/README.md) seclists github
-
 - [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells
 - [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
 - [20221003150440](/zet/20221003150440/README.md) Compiled versions of .NET Windows enumeration tools

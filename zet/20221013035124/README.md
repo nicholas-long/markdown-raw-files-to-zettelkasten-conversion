@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003151016](/zet/20221003151016/README.md) nmap scripts search by type
 - [20221014024704](/zet/20221014024704/README.md) list of sparse nodes
 - [20221003150456](/zet/20221003150456/README.md) bruteforce-salted-openssl to brute force openssl encrypted files
 - [20221003151160](/zet/20221003151160/README.md) password_cracking_rule

@@ -12,6 +12,7 @@ printf -v
 
 # Related
 
+- [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221007205652](/zet/20221007205652/README.md) find limit recusion depth
 - [20221003151314](/zet/20221003151314/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it example
 - [20221003151315](/zet/20221003151315/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it

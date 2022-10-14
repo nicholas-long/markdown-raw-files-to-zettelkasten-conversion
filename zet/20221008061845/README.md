@@ -14,6 +14,7 @@ hub node for `workflow`
 
 # Related
 
+- [20221003151408](/zet/20221003151408/README.md) bash scripting parse burpsuite saved request file and convert to python requests script for copying
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221014072547](/zet/20221014072547/README.md) ideas need to be explained and connected to relevant things
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
