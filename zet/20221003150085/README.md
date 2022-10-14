@@ -5,6 +5,7 @@
 
 # Related
 
+- [20221014185449](/zet/20221014185449/README.md) kb file named kb/shell-script-list.md
 - [20221003150565](/zet/20221003150565/README.md) Netcat Sending file
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/shell-script-list.md

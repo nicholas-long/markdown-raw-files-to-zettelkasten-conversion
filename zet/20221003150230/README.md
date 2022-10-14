@@ -5,6 +5,7 @@ https://github.com/Konloch/bytecode-viewer
 
 # Related
 
+- [20221014190111](/zet/20221014190111/README.md) kb file named kb/hacking/analysis/apk-analysis.md
 - [20221003150231](/zet/20221003150231/README.md) apk analysis
 - ~/kb/hacking/analysis/apk-analysis.md
 

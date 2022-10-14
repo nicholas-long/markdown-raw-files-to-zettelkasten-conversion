@@ -6,6 +6,7 @@ compilation required - many build steps
 
 # Related
 
+- [20221014185716](/zet/20221014185716/README.md) kb file named kb/hacking/windows/uacbypass/uac-bypass.md
 - [20221003151064](/zet/20221003151064/README.md) bypass UAC with administrators group
 - ~/kb/hacking/windows/uacbypass/uac-bypass.md
 

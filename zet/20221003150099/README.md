@@ -9,7 +9,8 @@ url = f"http://{ip}/api/example"
 
 # Related
 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221014185507](/zet/20221014185507/README.md) kb file named kb/python/coding-reference.md
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150105](/zet/20221003150105/README.md) python scripting
 - ~/kb/python/coding-reference.md
 

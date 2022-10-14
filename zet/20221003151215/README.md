@@ -8,6 +8,7 @@ Download from https://caddyserver.com
 
 # Related
 
+- [20221014185557](/zet/20221014185557/README.md) kb file named kb/hacking/tricks/valid-https-server.md
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221003151274](/zet/20221003151274/README.md) install mandown

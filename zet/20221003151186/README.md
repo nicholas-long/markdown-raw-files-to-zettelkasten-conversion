@@ -19,13 +19,14 @@
 
 # Related
 
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
 - [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md

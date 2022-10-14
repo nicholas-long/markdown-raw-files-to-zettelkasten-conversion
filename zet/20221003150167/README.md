@@ -7,6 +7,7 @@ cp /proc/$1/exe /tmp/exe
 
 # Related
 
+- [20221014190151](/zet/20221014190151/README.md) kb file named kb/linux/dump-process-memory.md
 - [20221003150168](/zet/20221003150168/README.md) dump process memory
 - ~/kb/linux/dump-process-memory.md
 

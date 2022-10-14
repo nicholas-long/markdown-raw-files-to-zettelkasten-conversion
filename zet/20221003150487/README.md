@@ -7,8 +7,9 @@ Get-AdUser AccountUsername
 
 # Related
 
+- [20221014190037](/zet/20221014190037/README.md) kb file named kb/hacking/powershell/powershell-enumeration-commands.md
 - [20221008215530](/zet/20221008215530/README.md) username
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - ~/kb/hacking/powershell/powershell-enumeration-commands.md
 

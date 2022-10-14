@@ -10,6 +10,7 @@ client.csr is the certificate signing request
 
 # Related
 
+- [20221014185857](/zet/20221014185857/README.md) kb file named kb/hacking/commands/openssl-general.md
 - [20221003150791](/zet/20221003150791/README.md) openssl
 - ~/kb/hacking/commands/openssl-general.md
 

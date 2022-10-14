@@ -17,6 +17,7 @@ gobuster dir -e -t 50 -u $URL -w /usr/share/seclists/Discovery/Web-Content/commo
 
 # Related
 
+- [20221014185834](/zet/20221014185834/README.md) kb file named kb/hacking/commands/gobuster.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150847](/zet/20221003150847/README.md) gobuster
 - ~/kb/hacking/commands/gobuster.md

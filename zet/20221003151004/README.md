@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185733](/zet/20221014185733/README.md) kb file named kb/hacking/methodology/API-enumeration.md
 - [20221013173355](/zet/20221013173355/README.md) the process of enumerating a target
 - [20221003151006](/zet/20221003151006/README.md) API enumeration
 - [20221003151003](/zet/20221003151003/README.md) API enumeration good wordlists seclists for endpoints

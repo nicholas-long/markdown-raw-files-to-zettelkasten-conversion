@@ -14,6 +14,7 @@ feroxbuster --url http://$IP/ -B -g -w /usr/share/seclists/Discovery/Web-Content
 
 # Related
 
+- [20221014185909](/zet/20221014185909/README.md) kb file named kb/hacking/commands/feroxbuster-command.md
 - [20221003150739](/zet/20221003150739/README.md) feroxbuster
 - [20221003150734](/zet/20221003150734/README.md) feroxbuster files, backups, and extensions fix recursion loop
 - [20221003150733](/zet/20221003150733/README.md) feroxbuster files, backups, and extensions backups and extensions files command

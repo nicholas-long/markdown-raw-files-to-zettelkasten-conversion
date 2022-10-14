@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
 - [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails

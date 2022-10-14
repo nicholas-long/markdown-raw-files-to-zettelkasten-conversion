@@ -8,6 +8,7 @@ sudo mount -t cifs -o username=user_name //$IP/share_name /mnt/
 
 # Related
 
+- [20221014185837](/zet/20221014185837/README.md) kb file named kb/hacking/commands/smb-mount-share.md
 - [20221003150837](/zet/20221003150837/README.md) smb mount share
 - ~/kb/hacking/commands/smb-mount-share.md
 

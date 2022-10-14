@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185550](/zet/20221014185550/README.md) kb file named kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md
 - [20221003150559](/zet/20221003150559/README.md) Kali Default PHP CMD Shell
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

@@ -6,7 +6,8 @@ https://posts.specterops.io/certified-pre-owned-d95910965cd2
 
 # Related
 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221014185700](/zet/20221014185700/README.md) kb file named kb/hacking/windows/active-directory-certificate-services.md
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003151096](/zet/20221003151096/README.md) active directory certificate services AD CS privesc
 - [20221003151095](/zet/20221003151095/README.md) active directory certificate services AD CS risks
 - ~/kb/hacking/windows/active-directory-certificate-services.md

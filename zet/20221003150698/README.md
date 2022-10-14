@@ -4,8 +4,9 @@
 
 # Related
 
+- [20221014185920](/zet/20221014185920/README.md) kb file named kb/hacking/commands/snmp-enumeration-commands.md
 - [20221013173355](/zet/20221013173355/README.md) the process of enumerating a target
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150697](/zet/20221003150697/README.md) SNMP enumeration command snmpwalk 
 - [20221003150696](/zet/20221003150696/README.md) SNMP enumeration command onesixtyone
 - [20221003150695](/zet/20221003150695/README.md) SNMP enumeration command enumerating / dumping interesting and categorized information

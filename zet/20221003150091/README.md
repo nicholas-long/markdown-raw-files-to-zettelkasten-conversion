@@ -5,6 +5,7 @@
 
 # Related
 
+- [20221014185449](/zet/20221014185449/README.md) kb file named kb/shell-script-list.md
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/shell-script-list.md

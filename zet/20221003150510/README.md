@@ -7,6 +7,7 @@ patchelf --set-interpreter ./lib64/ld-2.23.so --set-rpath ./lib64/ chapter2.patc
 
 # Related
 
+- [20221014190019](/zet/20221014190019/README.md) kb file named kb/hacking/pwn/tricks.md
 - [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths
 - ~/kb/hacking/pwn/tricks.md
 

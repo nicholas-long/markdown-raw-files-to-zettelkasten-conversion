@@ -6,6 +6,7 @@ add `-CheckAccess` to check user permissions
 
 # Related
 
+- [20221014185703](/zet/20221014185703/README.md) kb file named kb/hacking/windows/powerview-commands.md
 - [20221003151091](/zet/20221003151091/README.md) powerview
 - ~/kb/hacking/windows/powerview-commands.md
 

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md
 - [20221003150264](/zet/20221003150264/README.md) block ciphers AES DES blowfish
 - [20221003150262](/zet/20221003150262/README.md) block ciphers CBC cipher cipher block chaining cipher mode of operation
 - [20221003150261](/zet/20221003150261/README.md) block ciphers ECB electronic code book cipher mode of operation

@@ -9,6 +9,7 @@ gcc -fPIC -shared -o drop-shell.so drop-shell.c
 
 # Related
 
+- [20221014185802](/zet/20221014185802/README.md) kb file named kb/hacking/priv-esc/c-shells-and-setuid.md
 - [20221003150929](/zet/20221003150929/README.md) C setuid suid backdoor exploit
 - ~/kb/hacking/priv-esc/c-shells-and-setuid.md
 

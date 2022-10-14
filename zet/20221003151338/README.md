@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190125](/zet/20221014190125/README.md) kb file named kb/awk-scripting/snippets.md
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
 - [20221003151431](/zet/20221003151431/README.md) awk scripting check output of grep and next line using awk "grep -A 1 -R '^# ' ."
 - [20221003151340](/zet/20221003151340/README.md) awk print unbuffered output

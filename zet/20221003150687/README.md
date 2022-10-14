@@ -7,6 +7,7 @@ wpscan --url $URL -e ap --plugins-detection aggressive
 
 # Related
 
+- [20221014185921](/zet/20221014185921/README.md) kb file named kb/hacking/commands/wpscan-command.md
 - [20221003150693](/zet/20221003150693/README.md) wpscan initial
 - ~/kb/hacking/commands/wpscan-command.md
 

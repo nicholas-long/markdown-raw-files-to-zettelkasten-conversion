@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185947](/zet/20221014185947/README.md) kb file named kb/hacking/commands/smbclient-commands.md
 - [20221003150610](/zet/20221003150610/README.md) smbclient null authentication
 - [20221003150609](/zet/20221003150609/README.md) smbclient list Shares (As Guest)
 - [20221003150608](/zet/20221003150608/README.md) smbclient connect to A Share (As User John)

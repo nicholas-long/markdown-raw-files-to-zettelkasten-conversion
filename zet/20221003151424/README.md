@@ -6,6 +6,7 @@ This is a collection of bash scripts
 
 # Related
 
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn

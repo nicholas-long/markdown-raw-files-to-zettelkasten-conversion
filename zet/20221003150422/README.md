@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
 - [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process

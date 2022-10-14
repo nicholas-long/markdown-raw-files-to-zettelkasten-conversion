@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190259](/zet/20221014190259/README.md) kb file named kb/bash-scripting/tricks.md
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221003151408](/zet/20221003151408/README.md) bash scripting parse burpsuite saved request file and convert to python requests script for copying
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution

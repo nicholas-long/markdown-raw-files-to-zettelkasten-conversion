@@ -9,14 +9,10 @@
 
 # Related
 
-- 20221003151061
-
-- 20221003151062
-
-- 20221003151064
-
-- 20221003151063
-
+- [20221003151061](/zet/20221003151061/README.md) bypass UAC with administrators group read files quickly using smb shares
+- [20221003151062](/zet/20221003151062/README.md) bypass UAC with administrators group uacme bypass
+- [20221003151064](/zet/20221003151064/README.md) bypass UAC with administrators group
+- [20221003151063](/zet/20221003151063/README.md) bypass UAC with administrators group fodhelper bypass
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

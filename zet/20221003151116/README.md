@@ -8,6 +8,7 @@ ac.exe /accepteula -uwcqv "Authenticated Users" *
 
 # Related
 
+- [20221014185655](/zet/20221014185655/README.md) kb file named kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 - [20221003151117](/zet/20221003151117/README.md) dos commands file permissions
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 

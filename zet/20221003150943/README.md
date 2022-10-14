@@ -10,6 +10,7 @@ string.punctuation
 
 # Related
 
+- [20221014185753](/zet/20221014185753/README.md) kb file named kb/hacking/python/python-quick-reference.md
 - [20221003150946](/zet/20221003150946/README.md) python
 - ~/kb/hacking/python/python-quick-reference.md
 

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190117](/zet/20221014190117/README.md) kb file named kb/awk-scripting/bash-awk-quick-commands.md
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 - [20221003151348](/zet/20221003151348/README.md) awk and bash scripting rename or move files automatically programatically generate file names
 - ~/kb/awk-scripting/bash-awk-quick-commands.md

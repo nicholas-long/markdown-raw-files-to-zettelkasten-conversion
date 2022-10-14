@@ -6,6 +6,7 @@
 
 # Related
 
+- [20221014185657](/zet/20221014185657/README.md) kb file named kb/hacking/windows/dll-to-run-commands.md
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 - [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI
 - [20221003151105](/zet/20221003151105/README.md) compile windows DLL to run commands DLL code

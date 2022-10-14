@@ -8,6 +8,7 @@ curl -F myFile=@file.jpg http://$IP/upload.php
 
 # Related
 
+- [20221014185915](/zet/20221014185915/README.md) kb file named kb/hacking/commands/curl.md
 - [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
 - [20221003150720](/zet/20221003150720/README.md) curl
 - ~/kb/hacking/commands/curl.md

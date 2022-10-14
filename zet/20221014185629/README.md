@@ -9,12 +9,9 @@
 
 # Related
 
-- 20221003151170
-
-- 20221003151172
-
-- 20221003151171
-
+- [20221003151170](/zet/20221003151170/README.md) active directory domain old
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
+- [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

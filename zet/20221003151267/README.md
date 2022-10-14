@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190236](/zet/20221014190236/README.md) kb file named kb/fzf-fuzzy-find/help.md
 - [20221014153143](/zet/20221014153143/README.md) scroll preview window
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn

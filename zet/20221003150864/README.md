@@ -9,6 +9,7 @@ oathtool -b --totp ABCDEFGHABCDEFGH
 
 # Related
 
+- [20221014185826](/zet/20221014185826/README.md) kb file named kb/hacking/commands/two-factor.md
 - [20221003150865](/zet/20221003150865/README.md) two-factor authentication 2fa generate one time pins OTP
 - ~/kb/hacking/commands/two-factor.md
 

@@ -22,8 +22,9 @@ check `man stty`, section "Output settings", it should be able to accomplish all
 
 # Related
 
+- [20221014190158](/zet/20221014190158/README.md) kb file named kb/linux/cyberpunk-retro-machine-serial-terminals.md
 - [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150147](/zet/20221003150147/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks
 - ~/kb/linux/cyberpunk-retro-machine-serial-terminals.md
 

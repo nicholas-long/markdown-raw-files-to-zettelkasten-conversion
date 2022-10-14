@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190227](/zet/20221014190227/README.md) kb file named kb/data-engineering-pipelines/data-science-linux-commands.md
 - [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset
 - [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221012153512](/zet/20221012153512/README.md) database

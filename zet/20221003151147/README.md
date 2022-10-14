@@ -35,6 +35,7 @@ Get-DomainComputer $targetComputer -Properties 'msds-allowedtoactonbehalfofother
 
 # Related
 
+- [20221014185652](/zet/20221014185652/README.md) kb file named kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md
 - [20221011183500](/zet/20221011183500/README.md) potential exploits
 - [20221008215655](/zet/20221008215655/README.md) user account
 - [20221006213414](/zet/20221006213414/README.md) retired machines

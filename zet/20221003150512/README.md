@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190019](/zet/20221014190019/README.md) kb file named kb/hacking/pwn/tricks.md
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221003150518](/zet/20221003150518/README.md) pwntools sigreturn
 - [20221003150523](/zet/20221003150523/README.md) heap exploit resources

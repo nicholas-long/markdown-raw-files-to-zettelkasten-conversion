@@ -11,6 +11,7 @@ python3 ds_store_parser.py -i ../.DS_Store
 
 # Related
 
+- [20221014185729](/zet/20221014185729/README.md) kb file named kb/hacking/methodology/ds-store-file.md
 - [20221003151019](/zet/20221003151019/README.md) .DS_Store file ds_store Mac OS
 - ~/kb/hacking/methodology/ds-store-file.md
 

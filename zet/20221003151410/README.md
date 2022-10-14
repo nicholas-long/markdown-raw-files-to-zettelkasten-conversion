@@ -11,6 +11,7 @@ cat $1 | go run github.com/ericchiang/xpup@latest //request | base64 -d
 
 # Related
 
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md

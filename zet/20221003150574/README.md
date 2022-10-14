@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221014185958](/zet/20221014185958/README.md) kb file named kb/hacking/php/type-juggling.md
 - [20221003150575](/zet/20221003150575/README.md) php type juggling methodology
 - ~/kb/hacking/php/type-juggling.md
 

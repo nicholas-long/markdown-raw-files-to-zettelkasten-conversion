@@ -9,7 +9,8 @@ The client specifies the ports.
 
 # Related
 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221014185949](/zet/20221014185949/README.md) kb file named kb/hacking/commands/pivot-tunnel-through-chisel.md
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150604](/zet/20221003150604/README.md) tunneling through chisel - socks
 - ~/kb/hacking/commands/pivot-tunnel-through-chisel.md
 

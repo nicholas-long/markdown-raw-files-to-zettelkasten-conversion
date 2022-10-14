@@ -9,12 +9,9 @@
 
 # Related
 
-- 20221003150460
-
-- 20221003150462
-
-- 20221003150461
-
+- [20221003150460](/zet/20221003150460/README.md) tomcat config files and credentials
+- [20221003150462](/zet/20221003150462/README.md) tomcat
+- [20221003150461](/zet/20221003150461/README.md) tomcat management console admin login URL
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

@@ -18,6 +18,7 @@ for rawline in fileinput.input():
 
 # Related
 
+- [20221014190229](/zet/20221014190229/README.md) kb file named kb/auto-python.md
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221003151363](/zet/20221003151363/README.md) python scripting
 - ~/kb/auto-python.md

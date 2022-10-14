@@ -7,6 +7,7 @@ cat payload.bin | msfvenom -p - -f exe -a x64 --platform win -o output.exe
 
 # Related
 
+- [20221014190010](/zet/20221014190010/README.md) kb file named kb/hacking/pwn/shellcode-to-executable.md
 - [20221003150525](/zet/20221003150525/README.md) make executable binary with input shellcode
 - ~/kb/hacking/pwn/shellcode-to-executable.md
 

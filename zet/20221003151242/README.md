@@ -6,6 +6,7 @@
 
 # Related
 
+- [20221014185536](/zet/20221014185536/README.md) kb file named kb/hacking/tricks/malicious-packages.md
 - [20221003151243](/zet/20221003151243/README.md) preparing malicious package payloads node npm package
 - ~/kb/hacking/tricks/malicious-packages.md
 

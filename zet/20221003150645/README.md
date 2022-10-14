@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md
 - [20221003150647](/zet/20221003150647/README.md) nmap flags
 - ~/kb/hacking/commands/nmap-command.md
 

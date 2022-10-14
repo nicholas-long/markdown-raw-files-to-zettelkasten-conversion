@@ -7,6 +7,7 @@ msfconsole -r script.rc
 
 # Related
 
+- [20221014185848](/zet/20221014185848/README.md) kb file named kb/hacking/commands/metasploit.md
 - [20221003150819](/zet/20221003150819/README.md) metasploit msf
 - ~/kb/hacking/commands/metasploit.md
 

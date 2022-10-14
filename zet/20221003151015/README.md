@@ -18,6 +18,7 @@ vuln
 
 # Related
 
+- [20221014185730](/zet/20221014185730/README.md) kb file named kb/hacking/methodology/nmap-scripts.md
 - [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts
 - [20221003151017](/zet/20221003151017/README.md) nmap scripts
 - ~/kb/hacking/methodology/nmap-scripts.md

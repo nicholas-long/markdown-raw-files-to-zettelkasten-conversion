@@ -14,6 +14,7 @@ ssh user@$IP "/usr/bin/tcpdump -i lo -U -s0 -w - 'not port 22'" | wireshark -k -
 
 # Related
 
+- [20221014185917](/zet/20221014185917/README.md) kb file named kb/hacking/commands/packet-capture.md
 - [20221003150717](/zet/20221003150717/README.md) packet capture
 - ~/kb/hacking/commands/packet-capture.md
 

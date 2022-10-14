@@ -5,6 +5,7 @@ after migration, local exploit suggester might not work properly. suggest starti
 
 # Related
 
+- [20221014185848](/zet/20221014185848/README.md) kb file named kb/hacking/commands/metasploit.md
 - [20221003150814](/zet/20221003150814/README.md) meterpreter msf migrate
 - ~/kb/hacking/commands/metasploit.md
 

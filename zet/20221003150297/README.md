@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
 - [20221003150299](/zet/20221003150299/README.md) fixing golang module errors
 - ~/kb/hacking/misc/assorted-information.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185950](/zet/20221014185950/README.md) kb file named kb/hacking/commands/impacket-commands.md
 - [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands
 - [20221003150599](/zet/20221003150599/README.md) impacket psexec get remote shell over SMB with administrator account
 - [20221003150598](/zet/20221003150598/README.md) impacket ASREP roast with Get-NPUsers

@@ -49,6 +49,7 @@
 
 # Related
 
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
 - [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
 - [20221003150331](/zet/20221003150331/README.md) log4j log4shell
 - [20221013180230](/zet/20221013180230/README.md) session cookie or access token
@@ -72,7 +73,7 @@
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form
 - [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221008221822](/zet/20221008221822/README.md) www - the web
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md

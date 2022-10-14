@@ -36,6 +36,7 @@ int main() {
 
 # Related
 
+- [20221014185452](/zet/20221014185452/README.md) kb file named kb/c-language/templates.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151292](/zet/20221003151292/README.md) C template
 - ~/kb/c-language/templates.md

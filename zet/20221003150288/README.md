@@ -5,7 +5,8 @@ c:/wamp/www
 
 # Related
 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221014190057](/zet/20221014190057/README.md) kb file named kb/hacking/misc/web-server-default-webroots.md
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 - [20221003150289](/zet/20221003150289/README.md) default webroots
 - [20221008221548](/zet/20221008221548/README.md) website

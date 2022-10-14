@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190106](/zet/20221014190106/README.md) kb file named kb/hacking/analysis/identify-service-data.md
 - [20221003151203](/zet/20221003151203/README.md) LDAP
 - [20221014164014](/zet/20221014164014/README.md) protocol for application communication
 - [20221003151193](/zet/20221003151193/README.md) HTTP

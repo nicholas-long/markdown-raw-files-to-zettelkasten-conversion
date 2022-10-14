@@ -81,7 +81,8 @@ rm $http_request
 
 # Related
 
-- [20221014142356](/zet/20221014142356/README.md) concept of a trick or neat solution
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221008211707](/zet/20221008211707/README.md) making cool stuff
 - [20221008061845](/zet/20221008061845/README.md) workflow

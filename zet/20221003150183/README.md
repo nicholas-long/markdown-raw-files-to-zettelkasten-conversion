@@ -7,6 +7,7 @@ sudo usermod -aG docker $USER
 
 # Related
 
+- [20221014190143](/zet/20221014190143/README.md) kb file named kb/linux/users-groups.md
 - [20221003150184](/zet/20221003150184/README.md) add user to group
 - ~/kb/linux/users-groups.md
 

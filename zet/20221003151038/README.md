@@ -6,6 +6,7 @@
 
 # Related
 
+- [20221014185718](/zet/20221014185718/README.md) kb file named kb/hacking/windows/windows-information.md
 - [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin
 - ~/kb/hacking/windows/windows-information.md
 

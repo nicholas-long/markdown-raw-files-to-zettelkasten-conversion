@@ -8,6 +8,7 @@ ropper --search "pop r13"
 
 # Related
 
+- [20221014190004](/zet/20221014190004/README.md) kb file named kb/hacking/pwn/gef-commands.md
 - [20221003150532](/zet/20221003150532/README.md) gef gdb plugin
 - ~/kb/hacking/pwn/gef-commands.md
 

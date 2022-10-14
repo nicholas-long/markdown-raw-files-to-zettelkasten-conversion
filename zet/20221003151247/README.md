@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185534](/zet/20221014185534/README.md) kb file named kb/hacking/tricks/jenkins-rev-shell-code.md
 - [20221003151246](/zet/20221003151246/README.md) Jenkins / Groovy (Java) Reverse Shell Linux
 - [20221003151245](/zet/20221003151245/README.md) Jenkins / Groovy (Java) Reverse Shell Windows
 - ~/kb/hacking/tricks/jenkins-rev-shell-code.md

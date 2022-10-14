@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221014190210](/zet/20221014190210/README.md) kb file named kb/linux/routing.md
 - [20221003150125](/zet/20221003150125/README.md) routing using a linux box enable ip forwarding
 - [20221003150122](/zet/20221003150122/README.md) routing using a linux box add router to routes on hosts
 - [20221003150120](/zet/20221003150120/README.md) routing using a linux box iptables rules

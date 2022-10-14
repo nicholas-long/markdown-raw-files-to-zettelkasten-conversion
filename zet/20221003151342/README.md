@@ -8,6 +8,7 @@ cat managed_password | awk '{ printf("%.2x", $1) }'
 
 # Related
 
+- [20221014190119](/zet/20221014190119/README.md) kb file named kb/awk-scripting/convert-decimal-to-hex.md
 - [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
 - ~/kb/awk-scripting/convert-decimal-to-hex.md
 

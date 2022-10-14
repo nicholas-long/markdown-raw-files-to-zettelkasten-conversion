@@ -8,6 +8,7 @@ search for scripts of type "vuln"
 
 # Related
 
+- [20221014185730](/zet/20221014185730/README.md) kb file named kb/hacking/methodology/nmap-scripts.md
 - [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221003151017](/zet/20221003151017/README.md) nmap scripts

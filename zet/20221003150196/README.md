@@ -11,6 +11,7 @@ iptables -t nat -A POSTROUTING -o wlan0 -j MASQUERADE
 
 # Related
 
+- [20221014190132](/zet/20221014190132/README.md) kb file named kb/linux/iptables.md
 - [20221003150197](/zet/20221003150197/README.md) iptables rules
 - ~/kb/linux/iptables.md
 

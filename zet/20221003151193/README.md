@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
 - [20221003151195](/zet/20221003151195/README.md) DNS
 - [20221014164014](/zet/20221014164014/README.md) protocol for application communication
 - [20221003150242](/zet/20221003150242/README.md) identify service

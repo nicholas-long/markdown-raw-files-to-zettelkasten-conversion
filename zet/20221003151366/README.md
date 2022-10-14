@@ -18,6 +18,7 @@ sudo apt install code # or code-insiders
 
 # Related
 
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221003151274](/zet/20221003151274/README.md) install mandown
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

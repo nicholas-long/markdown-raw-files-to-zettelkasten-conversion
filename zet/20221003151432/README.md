@@ -15,6 +15,7 @@ $3 ~ /^\*\* REJECT/ { next }
 
 # Related
 
+- [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - ~/kb/auto-awk.md

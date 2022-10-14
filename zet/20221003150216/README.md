@@ -73,6 +73,7 @@ services:
 
 # Related
 
+- [20221014185518](/zet/20221014185518/README.md) kb file named kb/kafka/initialize-topics.md
 - [20221003150217](/zet/20221003150217/README.md) Initialize topics in dockers
 - ~/kb/kafka/initialize-topics.md
 

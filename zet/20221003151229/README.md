@@ -32,6 +32,7 @@ echo ts.Close >> wget.vbs
 
 # Related
 
+- [20221014185547](/zet/20221014185547/README.md) kb file named kb/hacking/tricks/vbscript-wget-hack.md
 - [20221003151230](/zet/20221003151230/README.md) VBScript
 - ~/kb/hacking/tricks/vbscript-wget-hack.md
 

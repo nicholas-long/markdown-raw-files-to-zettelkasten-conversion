@@ -6,6 +6,7 @@ In this mode, krbrelayx will either decrypt and dump incoming TGTs embedded in a
 
 # Related
 
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
 - [20221003150389](/zet/20221003150389/README.md) krbrelayx
 - ~/kb/hacking/misc/important-repositories-tools.md

@@ -12,6 +12,7 @@ fuzz `/proc/FUZZ/cmdline` for list of running processes
 
 # Related
 
+- [20221014185732](/zet/20221014185732/README.md) kb file named kb/hacking/methodology/LFI-procedure.md
 - [20221008195148](/zet/20221008195148/README.md) seclists etc files project
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151013](/zet/20221003151013/README.md) LFI or directory traversal procedures environment variables

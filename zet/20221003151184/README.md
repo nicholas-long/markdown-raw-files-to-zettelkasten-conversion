@@ -25,12 +25,13 @@
 
 # Related
 
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
 - [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
 - [20221013180230](/zet/20221013180230/README.md) session cookie or access token
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md

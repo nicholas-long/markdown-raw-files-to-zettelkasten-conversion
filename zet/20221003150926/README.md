@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185804](/zet/20221014185804/README.md) kb file named kb/hacking/priv-esc/etc-passwd-writable-line.md
 - [20221013185406](/zet/20221013185406/README.md) etc passwd file on linux
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

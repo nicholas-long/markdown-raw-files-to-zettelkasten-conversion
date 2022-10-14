@@ -14,6 +14,7 @@ uid=0(root) gid=0(root) groups=0(root)
 
 # Related
 
+- [20221014185811](/zet/20221014185811/README.md) kb file named kb/hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md
 - [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
 - ~/kb/hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md
 

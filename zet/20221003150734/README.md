@@ -13,6 +13,7 @@ avoid infinite loop created by combining
 
 # Related
 
+- [20221014185909](/zet/20221014185909/README.md) kb file named kb/hacking/commands/feroxbuster-command.md
 - [20221003150735](/zet/20221003150735/README.md) feroxbuster files, backups, and extensions
 - ~/kb/hacking/commands/feroxbuster-command.md
 

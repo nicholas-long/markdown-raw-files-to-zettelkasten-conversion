@@ -8,6 +8,7 @@ impacket-wmiexec -k -no-pass domain.local/Administrator@fqdn.domain.local
 
 # Related
 
+- [20221014185905](/zet/20221014185905/README.md) kb file named kb/hacking/commands/windows-active-directory-kerberos-commands.md
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands

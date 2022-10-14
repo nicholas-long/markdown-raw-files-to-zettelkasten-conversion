@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190207](/zet/20221014190207/README.md) kb file named kb/linux/java-jdk-links.md
 - [20221003150130](/zet/20221003150130/README.md) java download links jdk
 - ~/kb/linux/java-jdk-links.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix

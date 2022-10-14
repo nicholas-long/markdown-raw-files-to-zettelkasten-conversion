@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185505](/zet/20221014185505/README.md) kb file named kb/vim/vim.md
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221014074318](/zet/20221014074318/README.md) important choices of tech stack
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology

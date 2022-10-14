@@ -10,6 +10,7 @@ f = FmtStr(exec_fmt, offset=6)
 
 # Related
 
+- [20221014190022](/zet/20221014190022/README.md) kb file named kb/hacking/pwn/pwntools.md
 - [20221003150503](/zet/20221003150503/README.md) pwntools
 - ~/kb/hacking/pwn/pwntools.md
 

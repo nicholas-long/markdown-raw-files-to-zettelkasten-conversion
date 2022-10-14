@@ -11,6 +11,7 @@
 
 # Related
 
+- [20221014185745](/zet/20221014185745/README.md) kb file named kb/hacking/methodology/mobile-apps-and-api-testing.md
 - [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing
 - ~/kb/hacking/methodology/mobile-apps-and-api-testing.md
 

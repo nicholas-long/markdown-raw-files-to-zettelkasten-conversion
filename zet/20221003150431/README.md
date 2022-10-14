@@ -6,7 +6,8 @@ list formats with `-l`.
 
 # Related
 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150433](/zet/20221003150433/README.md) generate wordlists
 - [20221003150430](/zet/20221003150430/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale output all formats
 - ~/kb/hacking/misc/important-repositories-tools.md

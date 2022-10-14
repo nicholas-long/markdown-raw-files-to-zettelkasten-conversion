@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185901](/zet/20221014185901/README.md) kb file named kb/hacking/commands/msfvenom-commands.md
 - [20221003150776](/zet/20221003150776/README.md) MSFVENOM Windows Binary (.exe) executable
 - [20221003150770](/zet/20221003150770/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) service
 - [20221003150769](/zet/20221003150769/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) Reverse Shell

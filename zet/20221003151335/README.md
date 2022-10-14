@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190238](/zet/20221014190238/README.md) kb file named kb/bash-scripting/file-operations.md
 - [20221014160551](/zet/20221014160551/README.md) terminal emulator program
 - [20221011145037](/zet/20221011145037/README.md) kali linux
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub

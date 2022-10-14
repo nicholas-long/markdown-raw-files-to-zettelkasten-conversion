@@ -5,6 +5,7 @@ protects user by only opening executables if they are signed.
 
 # Related
 
+- [20221014185525](/zet/20221014185525/README.md) kb file named kb/hacking/tricks/windows-smartscreen-bypass.md
 - [20221003151262](/zet/20221003151262/README.md) windows executable smartscreen protection bypass ( apt 29 )
 - ~/kb/hacking/tricks/windows-smartscreen-bypass.md
 

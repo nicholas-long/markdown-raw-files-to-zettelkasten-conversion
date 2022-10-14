@@ -6,6 +6,7 @@ fuzz with known extensions
 
 # Related
 
+- [20221014185732](/zet/20221014185732/README.md) kb file named kb/hacking/methodology/LFI-procedure.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151012](/zet/20221003151012/README.md) LFI or directory traversal procedures read scripts from web server process cwd
 - ~/kb/hacking/methodology/LFI-procedure.md

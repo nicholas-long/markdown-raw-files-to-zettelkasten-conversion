@@ -108,6 +108,7 @@ print(r.text)
 
 # Related
 
+- [20221014185550](/zet/20221014185550/README.md) kb file named kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md
 - [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE
 - ~/kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md
 

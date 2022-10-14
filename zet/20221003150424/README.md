@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
 - [20221003150423](/zet/20221003150423/README.md) kerberos attack on windows host ticket attacks forgery
 - [20221003150422](/zet/20221003150422/README.md) kerberos attack on windows host ticket attacks extraction and harvesting

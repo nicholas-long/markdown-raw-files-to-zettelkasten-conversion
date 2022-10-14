@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221014185551](/zet/20221014185551/README.md) kb file named kb/hacking/tricks/identify-linux-version-service-versions.md
 - [20221008213122](/zet/20221008213122/README.md) version
 - [20221003151223](/zet/20221003151223/README.md) identify linux version from service version
 - ~/kb/hacking/tricks/identify-linux-version-service-versions.md

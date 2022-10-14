@@ -97,6 +97,7 @@ usage: fzf [options]
 
 # Related
 
+- [20221014190236](/zet/20221014190236/README.md) kb file named kb/fzf-fuzzy-find/help.md
 - [20221014153143](/zet/20221014153143/README.md) scroll preview window
 - [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn
 - [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf?

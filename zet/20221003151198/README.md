@@ -42,6 +42,7 @@
 
 # Related
 
+- [20221014185612](/zet/20221014185612/README.md) kb file named kb/hacking/to-try-lists/SMB.md
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits

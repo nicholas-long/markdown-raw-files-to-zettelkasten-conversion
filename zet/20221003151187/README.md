@@ -18,6 +18,7 @@
 
 # Related
 
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY

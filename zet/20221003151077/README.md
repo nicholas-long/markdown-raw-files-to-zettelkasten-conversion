@@ -5,6 +5,7 @@ https://github.com/itm4n/FullPowers
 
 # Related
 
+- [20221014185710](/zet/20221014185710/README.md) kb file named kb/hacking/windows/service-account-privileges.md
 - [20221003151080](/zet/20221003151080/README.md) service account privileges restore
 - ~/kb/hacking/windows/service-account-privileges.md
 

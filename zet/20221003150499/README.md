@@ -32,6 +32,7 @@ python2 shocker.py -H $IP --cgi /cgi-bin/test/test.cgi
 
 # Related
 
+- [20221014190024](/zet/20221014190024/README.md) kb file named kb/hacking/exploit/shellshock-exploit.md
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221003150500](/zet/20221003150500/README.md) shellshock python2 exploit
 - ~/kb/hacking/exploit/shellshock-exploit.md

@@ -9,6 +9,7 @@ nmap -n -sV --script "ldap* and not brute" --script-args 'ldap.maxobjects=-1' $I
 
 # Related
 
+- [20221014185944](/zet/20221014185944/README.md) kb file named kb/hacking/commands/ldap.md
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list

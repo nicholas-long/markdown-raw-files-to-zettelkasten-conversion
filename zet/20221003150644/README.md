@@ -7,6 +7,7 @@ sudo nmap -p- -v -sC -sV -oA nmap.all $IP
 
 # Related
 
+- [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md
 - [20221003151016](/zet/20221003151016/README.md) nmap scripts search by type
 - [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub

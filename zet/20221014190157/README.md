@@ -9,10 +9,8 @@
 
 # Related
 
-- 20221003150155
-
-- 20221003150156
-
+- [20221003150155](/zet/20221003150155/README.md) linux assorted commands find disk mounting for root file system
+- [20221003150156](/zet/20221003150156/README.md) linux assorted commands
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

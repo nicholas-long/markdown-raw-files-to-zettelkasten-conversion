@@ -9,6 +9,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 # Related
 
+- [20221014185751](/zet/20221014185751/README.md) kb file named kb/hacking/python/fix-ssl.md
 - [20221003150948](/zet/20221003150948/README.md) python fix SSL errors using requests library
 - ~/kb/hacking/python/fix-ssl.md
 

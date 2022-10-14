@@ -38,6 +38,7 @@ echo $decrypted
 
 # Related
 
+- [20221014185721](/zet/20221014185721/README.md) kb file named kb/hacking/windows/decrypt-azure-ad-connect.md
 - [20221003151028](/zet/20221003151028/README.md) decrypt azure AD connect passwords
 - ~/kb/hacking/windows/decrypt-azure-ad-connect.md
 

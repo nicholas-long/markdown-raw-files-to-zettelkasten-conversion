@@ -7,6 +7,7 @@ panepath=$(tmux display-message -t "$pane" -a | grep pane_current_path | cut -d 
 
 # Related
 
+- [20221014190216](/zet/20221014190216/README.md) kb file named kb/tmux/get-data-info.md
 - [20221003150078](/zet/20221003150078/README.md) tmux get current pane
 - ~/kb/tmux/get-data-info.md
 

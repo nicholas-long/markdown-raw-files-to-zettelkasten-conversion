@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
 - [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
 - [20221003150305](/zet/20221003150305/README.md) modify date with touch timestomping set destination file date the same as source file date
 - ~/kb/hacking/misc/assorted-information.md

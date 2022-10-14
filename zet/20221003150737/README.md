@@ -12,6 +12,7 @@ feroxbuster --url http://$IP/ -w /usr/share/seclists/Discovery/Web-Content/commo
 
 # Related
 
+- [20221014185909](/zet/20221014185909/README.md) kb file named kb/hacking/commands/feroxbuster-command.md
 - [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting
 - ~/kb/hacking/commands/feroxbuster-command.md
 

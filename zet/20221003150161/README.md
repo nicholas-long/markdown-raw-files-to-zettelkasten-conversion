@@ -7,6 +7,7 @@ git config --global credential.helper store
 
 # Related
 
+- [20221014190154](/zet/20221014190154/README.md) kb file named kb/linux/git-settings.md
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221003150162](/zet/20221003150162/README.md) git config settings
 - ~/kb/linux/git-settings.md

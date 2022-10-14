@@ -19,6 +19,7 @@
 
 # Related
 
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221014154703](/zet/20221014154703/README.md) lazygit program
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

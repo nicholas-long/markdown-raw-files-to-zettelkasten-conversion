@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185825](/zet/20221014185825/README.md) kb file named kb/hacking/commands/john-the-ripper-crack-with-wordlist.md
 - [20221013192245](/zet/20221013192245/README.md) cracking hashes
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
 - [20221003150870](/zet/20221003150870/README.md) john the ripper crack hashes from file with wordlist

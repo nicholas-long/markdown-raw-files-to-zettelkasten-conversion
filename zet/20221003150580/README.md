@@ -8,6 +8,7 @@ php://filter/convert.base64-encode/resource=
 
 # Related
 
+- [20221014185955](/zet/20221014185955/README.md) kb file named kb/hacking/php/lfi.md
 - [20221003150581](/zet/20221003150581/README.md) php LFI include PHP filter URL
 - ~/kb/hacking/php/lfi.md
 

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190206](/zet/20221014190206/README.md) kb file named kb/linux/assorted-notes-and-tips.md
 - [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
 - [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup
 - [20221003150550](/zet/20221003150550/README.md) Sub domain Enum

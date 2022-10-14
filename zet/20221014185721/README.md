@@ -9,10 +9,8 @@
 
 # Related
 
-- 20221003151027
-
-- 20221003151028
-
+- [20221003151027](/zet/20221003151027/README.md) decrypt azure AD connect passwords powershell MSSQL queries
+- [20221003151028](/zet/20221003151028/README.md) decrypt azure AD connect passwords
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

@@ -6,6 +6,7 @@ c:\windows\system32\eula.txt
 
 # Related
 
+- [20221014185706](/zet/20221014185706/README.md) kb file named kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet
 - ~/kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md

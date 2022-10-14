@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185557](/zet/20221014185557/README.md) kb file named kb/hacking/tricks/valid-https-server.md
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221003151216](/zet/20221003151216/README.md) caddy stand up https server with a valid certificate

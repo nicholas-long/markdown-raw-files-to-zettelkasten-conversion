@@ -25,6 +25,7 @@ https://blog.robertelder.org/data-science-linux-command-line/
 
 # Related
 
+- [20221014190227](/zet/20221014190227/README.md) kb file named kb/data-engineering-pipelines/data-science-linux-commands.md
 - [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset
 - [20221012153512](/zet/20221012153512/README.md) database
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - ~/kb/auto-awk.md

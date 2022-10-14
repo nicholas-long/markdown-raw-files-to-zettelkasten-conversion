@@ -4,7 +4,8 @@
 
 # Related
 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221014190037](/zet/20221014190037/README.md) kb file named kb/hacking/powershell/powershell-enumeration-commands.md
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150482](/zet/20221003150482/README.md) general enumeration
 - [20221003150477](/zet/20221003150477/README.md) general enumeration Active Directory Certificate Services is AD CS enabled
 - ~/kb/hacking/powershell/powershell-enumeration-commands.md

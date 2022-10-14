@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190048](/zet/20221014190048/README.md) kb file named kb/hacking/misc/troubleshoot-error-messages.md
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
 - [20221003150349](/zet/20221003150349/README.md) troubleshooting fix error "sign_and_send_pubkey: no mutual signature supported"
 - [20221003150348](/zet/20221003150348/README.md) troubleshooting fix error ValueError: unsupported hash type MD4 python hashlib openssl conf

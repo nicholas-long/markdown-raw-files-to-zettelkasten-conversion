@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190151](/zet/20221014190151/README.md) kb file named kb/linux/dump-process-memory.md
 - [20221003150167](/zet/20221003150167/README.md) dump process memory with exe pseudofile ( simple )
 - [20221003150166](/zet/20221003150166/README.md) dump process memory with dd ( complicated )
 - ~/kb/linux/dump-process-memory.md

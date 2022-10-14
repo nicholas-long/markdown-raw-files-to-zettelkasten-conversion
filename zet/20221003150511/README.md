@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190019](/zet/20221014190019/README.md) kb file named kb/hacking/pwn/tricks.md
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks

@@ -11,6 +11,7 @@ sudo dpkg -i bat_0.19.0_amd64.deb
 
 # Related
 
+- [20221014190236](/zet/20221014190236/README.md) kb file named kb/fzf-fuzzy-find/help.md
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221003151274](/zet/20221003151274/README.md) install mandown
 - [20221009162538](/zet/20221009162538/README.md) add menu

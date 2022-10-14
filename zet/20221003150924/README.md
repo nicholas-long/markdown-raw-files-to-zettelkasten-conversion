@@ -7,6 +7,7 @@ openssl passwd -1 -salt coyote0x90
 
 # Related
 
+- [20221014185804](/zet/20221014185804/README.md) kb file named kb/hacking/priv-esc/etc-passwd-writable-line.md
 - [20221003150926](/zet/20221003150926/README.md) /etc/passwd writable line privilege escalation exploit
 - ~/kb/hacking/priv-esc/etc-passwd-writable-line.md
 

@@ -9,10 +9,8 @@
 
 # Related
 
-- 20221003150832
-
-- 20221003150833
-
+- [20221003150832](/zet/20221003150832/README.md) responder add ssl certificate
+- [20221003150833](/zet/20221003150833/README.md) responder
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

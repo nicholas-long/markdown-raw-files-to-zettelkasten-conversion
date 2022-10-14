@@ -9,6 +9,7 @@ echo ${name:2:2}
 
 # Related
 
+- [20221014190250](/zet/20221014190250/README.md) kb file named kb/bash-scripting/substitution-syntax-braces.md
 - [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax
 - ~/kb/bash-scripting/substitution-syntax-braces.md
 

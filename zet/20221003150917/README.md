@@ -9,6 +9,7 @@ ps -efw --forest -M                  # SELinux
 
 # Related
 
+- [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
 - [20221003150135](/zet/20221003150135/README.md) enable horizontal scroll in less
 - [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221003150892](/zet/20221003150892/README.md) get all root process IDs

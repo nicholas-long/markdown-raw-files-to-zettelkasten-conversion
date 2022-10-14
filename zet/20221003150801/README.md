@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185852](/zet/20221014185852/README.md) kb file named kb/hacking/commands/openssl-commands.md
 - [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext
 - [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
 - [20221003150332](/zet/20221003150332/README.md) default openssl message digest

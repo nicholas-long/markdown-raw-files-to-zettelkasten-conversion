@@ -27,6 +27,7 @@ BOOL WINAPI DllMain(
 
 # Related
 
+- [20221014185657](/zet/20221014185657/README.md) kb file named kb/hacking/windows/dll-to-run-commands.md
 - [20221008194048](/zet/20221008194048/README.md) good DLLs to hide in for sideloading
 - [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
 - [20221003151104](/zet/20221003151104/README.md) compile windows DLL to run commands DLL code building with mingw

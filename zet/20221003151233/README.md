@@ -12,6 +12,7 @@ additional UDF exploit info: https://book.hacktricks.xyz/network-services-pentes
 
 # Related
 
+- [20221014185545](/zet/20221014185545/README.md) kb file named kb/hacking/tricks/mysql-tricks.md
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
 - ~/kb/hacking/tricks/mysql-tricks.md
 

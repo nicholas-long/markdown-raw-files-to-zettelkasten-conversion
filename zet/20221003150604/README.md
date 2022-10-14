@@ -5,6 +5,7 @@ Tunnel through 443 and open a socks proxy on attacker localhost.
 
 # Related
 
+- [20221014185949](/zet/20221014185949/README.md) kb file named kb/hacking/commands/pivot-tunnel-through-chisel.md
 - [20221003150116](/zet/20221003150116/README.md) Socat over proxy
 - [20221003150603](/zet/20221003150603/README.md) tunneling through chisel - socks Attacker
 - [20221003150602](/zet/20221003150602/README.md) tunneling through chisel - socks Target

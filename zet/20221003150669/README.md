@@ -13,6 +13,7 @@ crackmapexec winrm $IP -u valid_users -p valid_passwords --no-bruteforce --conti
 
 # Related
 
+- [20221014185929](/zet/20221014185929/README.md) kb file named kb/hacking/commands/crackmapexec-commands.md
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
 - ~/kb/hacking/commands/crackmapexec-commands.md
 

@@ -6,6 +6,7 @@
 
 # Related
 
+- [20221014190152](/zet/20221014190152/README.md) kb file named kb/linux/job-control.md
 - [20221003150165](/zet/20221003150165/README.md) linux job control
 - ~/kb/linux/job-control.md
 

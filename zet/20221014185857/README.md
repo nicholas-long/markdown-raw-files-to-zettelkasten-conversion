@@ -9,16 +9,11 @@
 
 # Related
 
-- 20221003150787
-
-- 20221003150788
-
-- 20221003150790
-
-- 20221003150789
-
-- 20221003150791
-
+- [20221003150787](/zet/20221003150787/README.md) openssl convert certificate to PKCS12 format
+- [20221003150788](/zet/20221003150788/README.md) openssl sign a certificate signing request with the private key of a CA certificate authority
+- [20221003150790](/zet/20221003150790/README.md) openssl create a key 4096 bits
+- [20221003150789](/zet/20221003150789/README.md) openssl create certificate signing request
+- [20221003150791](/zet/20221003150791/README.md) openssl
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

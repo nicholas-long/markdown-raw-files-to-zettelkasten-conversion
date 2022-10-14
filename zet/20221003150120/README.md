@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190210](/zet/20221014190210/README.md) kb file named kb/linux/routing.md
 - [20221003150126](/zet/20221003150126/README.md) routing using a linux box
 - [20221003150119](/zet/20221003150119/README.md) routing using a linux box iptables rules forward all traffic between two interfaces
 - ~/kb/linux/routing.md

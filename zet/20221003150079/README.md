@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190216](/zet/20221014190216/README.md) kb file named kb/tmux/get-data-info.md
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221014160551](/zet/20221014160551/README.md) terminal emulator program
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples

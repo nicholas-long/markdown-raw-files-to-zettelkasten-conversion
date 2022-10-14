@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185953](/zet/20221014185953/README.md) kb file named kb/hacking/php/PHP-quick-command-reference.md
 - [20221003150559](/zet/20221003150559/README.md) Kali Default PHP CMD Shell
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008212000](/zet/20221008212000/README.md) coding / programming

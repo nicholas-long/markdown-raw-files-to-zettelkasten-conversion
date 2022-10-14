@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - [20221008215325](/zet/20221008215325/README.md) password
 - [20221003150432](/zet/20221003150432/README.md) generate wordlists namemash - simple
 - [20221003150431](/zet/20221003150431/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale

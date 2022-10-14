@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221014185525](/zet/20221014185525/README.md) kb file named kb/hacking/tricks/windows-smartscreen-bypass.md
 - [20221003151263](/zet/20221003151263/README.md) windows executable smartscreen protection
 - ~/kb/hacking/tricks/windows-smartscreen-bypass.md
 

@@ -9,12 +9,9 @@
 
 # Related
 
-- 20221003150510
-
-- 20221003150512
-
-- 20221003150511
-
+- [20221003150510](/zet/20221003150510/README.md) pwn commands / tricks patchelf ld paths use custom ld version and library path
+- [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks
+- [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

@@ -6,6 +6,7 @@ There is a container image that comes with this. Try it.
 
 # Related
 
+- [20221014185801](/zet/20221014185801/README.md) kb file named kb/hacking/priv-esc/lxd/lxd-priv-esc.md
 - [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems
 - ~/kb/hacking/priv-esc/lxd/lxd-priv-esc.md
 

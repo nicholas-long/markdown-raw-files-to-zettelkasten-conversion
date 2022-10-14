@@ -7,6 +7,7 @@ file_put_contents('/dest/file', 'file contents', FILE_APPEND);
 
 # Related
 
+- [20221014185953](/zet/20221014185953/README.md) kb file named kb/hacking/php/PHP-quick-command-reference.md
 - [20221003150587](/zet/20221003150587/README.md) php code write to file
 - ~/kb/hacking/php/PHP-quick-command-reference.md
 

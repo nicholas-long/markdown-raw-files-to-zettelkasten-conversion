@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185944](/zet/20221014185944/README.md) kb file named kb/hacking/commands/ldap.md
 - [20221003150358](/zet/20221003150358/README.md) jxplorer connect to LDAP GUI access
 - [20221013173355](/zet/20221013173355/README.md) the process of enumerating a target
 - [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous

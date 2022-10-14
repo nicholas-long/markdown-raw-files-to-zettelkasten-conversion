@@ -11,6 +11,7 @@ r = requests.get(url, cookies=cookies, params=params)
 
 # Related
 
+- [20221014185507](/zet/20221014185507/README.md) kb file named kb/python/coding-reference.md
 - [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221003150104](/zet/20221003150104/README.md) python scripting requests http

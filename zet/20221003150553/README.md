@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md
 - [20221003150559](/zet/20221003150559/README.md) Kali Default PHP CMD Shell
 - [20221003150552](/zet/20221003150552/README.md) PhpmyAdmin write shell Windows
 - ~/kb/hacking/common-commands.md

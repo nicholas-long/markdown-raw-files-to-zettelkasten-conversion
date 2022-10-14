@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190241](/zet/20221014190241/README.md) kb file named kb/bash-scripting/stream-operations.md
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
 - [20221003151327](/zet/20221003151327/README.md) bash scripting convert text strings or wordlists to lowercase

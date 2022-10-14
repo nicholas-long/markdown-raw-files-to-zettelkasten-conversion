@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185909](/zet/20221014185909/README.md) kb file named kb/hacking/commands/feroxbuster-command.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting
 - [20221003150735](/zet/20221003150735/README.md) feroxbuster files, backups, and extensions

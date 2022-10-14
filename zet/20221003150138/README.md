@@ -5,6 +5,7 @@ netcat-traditional
 
 # Related
 
+- [20221014190201](/zet/20221014190201/README.md) kb file named kb/linux/utilities-packages.md
 - [20221003150566](/zet/20221003150566/README.md) Netcat Receiving file
 - [20221003150565](/zet/20221003150565/README.md) Netcat Sending file
 - [20221003150140](/zet/20221003150140/README.md) apt package

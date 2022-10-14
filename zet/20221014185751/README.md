@@ -9,12 +9,9 @@
 
 # Related
 
-- 20221003150948
-
-- 20221003150949
-
-- 20221003150947
-
+- [20221003150948](/zet/20221003150948/README.md) python fix SSL errors using requests library
+- [20221003150949](/zet/20221003150949/README.md) python fix SSL errors
+- [20221003150947](/zet/20221003150947/README.md) python fix SSL errors using requests library ignore errors
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185654](/zet/20221014185654/README.md) kb file named kb/hacking/windows/windows-active-directory-and-privilege-information.md
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 - [20221006215623](/zet/20221006215623/README.md) scrambled machine video notes
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target

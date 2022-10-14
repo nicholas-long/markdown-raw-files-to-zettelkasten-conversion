@@ -8,6 +8,7 @@ ll $(mount | awk '$3 == "/" {print $1}')
 
 # Related
 
+- [20221014190157](/zet/20221014190157/README.md) kb file named kb/linux/os-pseudo-filesystem-data-commands.md
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands
 - ~/kb/linux/os-pseudo-filesystem-data-commands.md
 

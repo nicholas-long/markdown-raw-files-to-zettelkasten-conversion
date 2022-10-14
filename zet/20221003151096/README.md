@@ -8,6 +8,7 @@ and the CA creates and signs a certificate using the attacker-supplied SAN, the 
 
 # Related
 
+- [20221014185700](/zet/20221014185700/README.md) kb file named kb/hacking/windows/active-directory-certificate-services.md
 - [20221003151097](/zet/20221003151097/README.md) active directory certificate services AD CS
 - ~/kb/hacking/windows/active-directory-certificate-services.md
 

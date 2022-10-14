@@ -9,14 +9,10 @@
 
 # Related
 
-- 20221003151145
-
-- 20221003151146
-
-- 20221003151148
-
-- 20221003151147
-
+- [20221003151145](/zet/20221003151145/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec convert kirbi to ccache
+- [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec
+- [20221003151148](/zet/20221003151148/README.md) resource based constrained delegation S4U attack
+- [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

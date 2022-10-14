@@ -7,8 +7,9 @@ crowbar -b rdp -n 1 -s $IP/32 -u username@DOMAIN.local -C ./passwords
 
 # Related
 
+- [20221014185900](/zet/20221014185900/README.md) kb file named kb/hacking/commands/crowbar.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150779](/zet/20221003150779/README.md) crowbar brute force RDP
 - ~/kb/hacking/commands/crowbar.md
 

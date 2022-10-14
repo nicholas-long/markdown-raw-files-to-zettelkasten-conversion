@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185940](/zet/20221014185940/README.md) kb file named kb/hacking/commands/smbmap.md
 - [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration
 - ~/kb/hacking/commands/smbmap.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix

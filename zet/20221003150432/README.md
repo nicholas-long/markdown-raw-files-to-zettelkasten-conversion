@@ -6,6 +6,7 @@ https://gist.github.com/superkojiman/11076951
 
 # Related
 
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150433](/zet/20221003150433/README.md) generate wordlists
 - ~/kb/hacking/misc/important-repositories-tools.md

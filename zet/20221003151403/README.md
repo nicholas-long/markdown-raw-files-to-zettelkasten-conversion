@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md

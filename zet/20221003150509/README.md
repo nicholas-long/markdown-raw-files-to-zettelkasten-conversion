@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190021](/zet/20221014190021/README.md) kb file named kb/hacking/pwn/python-tricks.md
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221003150523](/zet/20221003150523/README.md) heap exploit resources
 - [20221003150518](/zet/20221003150518/README.md) pwntools sigreturn

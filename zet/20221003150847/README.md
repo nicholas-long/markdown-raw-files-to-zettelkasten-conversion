@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185834](/zet/20221014185834/README.md) kb file named kb/hacking/commands/gobuster.md
 - [20221003150550](/zet/20221003150550/README.md) Sub domain Enum
 - [20221003150846](/zet/20221003150846/README.md) gobuster dirbusting
 - [20221003150845](/zet/20221003150845/README.md) gobuster scan files and discover backups

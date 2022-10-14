@@ -34,6 +34,7 @@ featured types:
 
 # Related
 
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - [20221003150419](/zet/20221003150419/README.md) text cipher encryption decryption tools
 - ~/kb/hacking/misc/important-repositories-tools.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix

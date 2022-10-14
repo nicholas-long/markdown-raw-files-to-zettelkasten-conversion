@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190018](/zet/20221014190018/README.md) kb file named kb/hacking/pwn/debug-terminal-setup.md
 - [20221008081231](/zet/20221008081231/README.md) debugging
 - [20221003150514](/zet/20221003150514/README.md) pwntools gdb debugging terminal set to work in vs code:
 - [20221003150513](/zet/20221003150513/README.md) pwntools gdb debugging terminal tmux

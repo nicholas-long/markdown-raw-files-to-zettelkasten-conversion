@@ -9,10 +9,8 @@
 
 # Related
 
-- 20221003151090
-
-- 20221003151091
-
+- [20221003151090](/zet/20221003151090/README.md) powerview enumerate sensitive information disclosure on file shares
+- [20221003151091](/zet/20221003151091/README.md) powerview
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

@@ -13,6 +13,7 @@ alien --to-deb file.rpm
 
 # Related
 
+- [20221014190138](/zet/20221014190138/README.md) kb file named kb/linux/package-manager-commands.md
 - [20221003150193](/zet/20221003150193/README.md) convert
 - ~/kb/linux/package-manager-commands.md
 

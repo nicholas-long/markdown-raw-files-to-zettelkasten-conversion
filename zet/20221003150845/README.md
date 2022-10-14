@@ -13,6 +13,7 @@ gobuster dir -e -t 50 -x php,txt,html -d -u $URL -w cewl_wordlist
 
 # Related
 
+- [20221014185834](/zet/20221014185834/README.md) kb file named kb/hacking/commands/gobuster.md
 - [20221003150847](/zet/20221003150847/README.md) gobuster
 - ~/kb/hacking/commands/gobuster.md
 

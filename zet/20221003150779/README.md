@@ -7,6 +7,7 @@ crowbar -b rdp -n 1 -s $IP/32 -u username -C ./passwords
 
 # Related
 
+- [20221014185900](/zet/20221014185900/README.md) kb file named kb/hacking/commands/crowbar.md
 - [20221003151201](/zet/20221003151201/README.md) RDP
 - [20221003150780](/zet/20221003150780/README.md) crowbar
 - [20221003150778](/zet/20221003150778/README.md) crowbar brute force RDP active directory domain joined

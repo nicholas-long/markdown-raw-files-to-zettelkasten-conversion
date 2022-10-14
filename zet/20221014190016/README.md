@@ -9,10 +9,8 @@
 
 # Related
 
-- 20221003150516
-
-- 20221003150517
-
+- [20221003150516](/zet/20221003150516/README.md) binary analysis golang
+- [20221003150517](/zet/20221003150517/README.md) binary analysis
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

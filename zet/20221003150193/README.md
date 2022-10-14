@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190138](/zet/20221014190138/README.md) kb file named kb/linux/package-manager-commands.md
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221003150192](/zet/20221003150192/README.md) convert package type to deb rpm slp lsb tgz
 - ~/kb/linux/package-manager-commands.md

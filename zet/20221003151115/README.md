@@ -4,7 +4,8 @@
 
 # Related
 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221014185655](/zet/20221014185655/README.md) kb file named kb/hacking/windows/dos-and-powershell-enumeration-quick.md
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003151124](/zet/20221003151124/README.md) dos commands
 - [20221003151114](/zet/20221003151114/README.md) dos commands services sc enable service
 - [20221003151113](/zet/20221003151113/README.md) dos commands services sc set binary path

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185911](/zet/20221014185911/README.md) kb file named kb/hacking/commands/encode-powershell-base64-windows.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d
 - [20221003150729](/zet/20221003150729/README.md) powershell encode commands as base64 with windows wide char strings in linux

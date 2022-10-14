@@ -7,6 +7,7 @@ The C# program works even if windows remote management is disabled.
 
 # Related
 
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
 - ~/kb/hacking/misc/important-repositories-tools.md
 

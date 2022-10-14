@@ -8,6 +8,7 @@ BEGIN { FS = OFS = "\t" }
 
 # Related
 
+- [20221014190125](/zet/20221014190125/README.md) kb file named kb/awk-scripting/snippets.md
 - [20221003151337](/zet/20221003151337/README.md) awk scripting initialize TSV tab separated values
 - ~/kb/awk-scripting/snippets.md
 

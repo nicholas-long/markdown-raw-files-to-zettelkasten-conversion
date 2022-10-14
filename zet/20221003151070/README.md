@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185713](/zet/20221014185713/README.md) kb file named kb/hacking/windows/dump-process-memory.md
 - [20221003151069](/zet/20221003151069/README.md) dump process memory with sysinternals procdump
 - [20221003151068](/zet/20221003151068/README.md) dump process memory with task manager as admin
 - ~/kb/hacking/windows/dump-process-memory.md

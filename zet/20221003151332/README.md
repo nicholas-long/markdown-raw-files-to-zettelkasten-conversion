@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190239](/zet/20221014190239/README.md) kb file named kb/bash-scripting/check-empty-var.md
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221013190051](/zet/20221013190051/README.md) blue team

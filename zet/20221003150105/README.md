@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185507](/zet/20221014185507/README.md) kb file named kb/python/coding-reference.md
 - [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths

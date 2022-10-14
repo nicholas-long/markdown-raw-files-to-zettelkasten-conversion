@@ -9,6 +9,7 @@ cewl http://$IP -w cewl_wordlist_num --with-numbers
 
 # Related
 
+- [20221014185855](/zet/20221014185855/README.md) kb file named kb/hacking/commands/generate-cewl-wordlist.md
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist
 - ~/kb/hacking/commands/generate-cewl-wordlist.md
 

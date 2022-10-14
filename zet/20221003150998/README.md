@@ -8,6 +8,7 @@ newer technology -> developers adopting early without considering security.
 
 # Related
 
+- [20221014185733](/zet/20221014185733/README.md) kb file named kb/hacking/methodology/API-enumeration.md
 - [20221003151003](/zet/20221003151003/README.md) API enumeration good wordlists seclists for endpoints
 - [20221003150443](/zet/20221003150443/README.md) seclists github
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD
@@ -17,7 +18,7 @@ newer technology -> developers adopting early without considering security.
 - [20221003150996](/zet/20221003150996/README.md) GraphQL APIs common GraphQL bugs
 - [20221003150995](/zet/20221003150995/README.md) GraphQL APIs GraphQL tools
 - [20221003150994](/zet/20221003150994/README.md) GraphQL APIs common specific GraphQL endpoints
-- [20221003150993](/zet/20221003150993/README.md) GraphQL APIs how GraphQL works
+- [20221003150993](/zet/20221003150993/README.md) how GraphQL APIs work
 - [20221003150992](/zet/20221003150992/README.md) GraphQL APIs writing GraphQL queries
 - [20221003150991](/zet/20221003150991/README.md) GraphQL APIs writing GraphQL mutations
 - [20221003150990](/zet/20221003150990/README.md) GraphQL APIs example GraphQL queries from InsiderPHD video

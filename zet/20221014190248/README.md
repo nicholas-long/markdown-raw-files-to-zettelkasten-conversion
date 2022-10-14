@@ -9,10 +9,8 @@
 
 # Related
 
-- 20221003151318
-
-- 20221003151317
-
+- [20221003151318](/zet/20221003151318/README.md) bash parse xml cli
+- [20221003151317](/zet/20221003151317/README.md) bash parse xml cli with xpath using xpup
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

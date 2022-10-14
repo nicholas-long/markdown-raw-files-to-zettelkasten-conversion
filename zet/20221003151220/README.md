@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185554](/zet/20221014185554/README.md) kb file named kb/hacking/tricks/hibernate-hql-injection.md
 - [20221003151219](/zet/20221003151219/README.md) hql injection auth bypass example
 - ~/kb/hacking/tricks/hibernate-hql-injection.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix

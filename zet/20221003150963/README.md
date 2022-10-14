@@ -18,6 +18,7 @@
 
 # Related
 
+- [20221014185750](/zet/20221014185750/README.md) kb file named kb/hacking/methodology/osint-overview.md
 - [20221003150966](/zet/20221003150966/README.md) OSINT
 - ~/kb/hacking/methodology/osint-overview.md
 

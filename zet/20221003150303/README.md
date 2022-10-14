@@ -8,6 +8,7 @@ Tue Jan 19 03:14:08 UTC 2038
 
 # Related
 
+- [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
 - [20221003150304](/zet/20221003150304/README.md) convert epoch to human readable bash
 - ~/kb/hacking/misc/assorted-information.md
 

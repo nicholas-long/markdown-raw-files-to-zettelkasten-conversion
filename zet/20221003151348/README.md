@@ -8,6 +8,7 @@ ls | awk '{ split($0,arr,"-"); system("mv " $0 " " arr[1] ".md") }'
 
 # Related
 
+- [20221014190117](/zet/20221014190117/README.md) kb file named kb/awk-scripting/bash-awk-quick-commands.md
 - [20221003151349](/zet/20221003151349/README.md) awk and bash scripting rename or move files
 - ~/kb/awk-scripting/bash-awk-quick-commands.md
 

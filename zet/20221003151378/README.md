@@ -14,6 +14,7 @@ source ~/kb/docker/build-github-repo-docker-image.sh
 
 # Related
 
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221009015743](/zet/20221009015743/README.md) dockerfile
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

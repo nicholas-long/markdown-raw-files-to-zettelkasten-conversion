@@ -7,10 +7,11 @@
 
 # Related
 
+- [20221014185628](/zet/20221014185628/README.md) kb file named kb/hacking/to-try-lists/SSH.md
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
-- [20221003151174](/zet/20221003151174/README.md) SSH
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list
 - ~/kb/hacking/to-try-lists/SSH.md
 
 Tags:

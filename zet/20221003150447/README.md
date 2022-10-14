@@ -7,6 +7,7 @@ sudo apt install -y poppler-utils
 
 # Related
 
+- [20221014190045](/zet/20221014190045/README.md) kb file named kb/hacking/misc/tools-and-apt-packages.md
 - [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing
 - ~/kb/hacking/misc/tools-and-apt-packages.md
 

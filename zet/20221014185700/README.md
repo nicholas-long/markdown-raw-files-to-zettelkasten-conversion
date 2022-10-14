@@ -9,12 +9,9 @@
 
 # Related
 
-- 20221003151095
-
-- 20221003151096
-
-- 20221003151097
-
+- [20221003151095](/zet/20221003151095/README.md) active directory certificate services AD CS risks
+- [20221003151096](/zet/20221003151096/README.md) active directory certificate services AD CS privesc
+- [20221003151097](/zet/20221003151097/README.md) active directory certificate services AD CS
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

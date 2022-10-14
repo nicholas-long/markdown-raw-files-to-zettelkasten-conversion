@@ -7,6 +7,7 @@ https://www.exploit-db.com/exploits/46697
 
 # Related
 
+- [20221014190106](/zet/20221014190106/README.md) kb file named kb/hacking/analysis/identify-service-data.md
 - [20221003150242](/zet/20221003150242/README.md) identify service
 - ~/kb/hacking/analysis/identify-service-data.md
 

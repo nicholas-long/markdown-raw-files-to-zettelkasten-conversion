@@ -10,6 +10,7 @@ done
 
 # Related
 
+- [20221014185915](/zet/20221014185915/README.md) kb file named kb/hacking/commands/curl.md
 - [20221003150720](/zet/20221003150720/README.md) curl
 - ~/kb/hacking/commands/curl.md
 

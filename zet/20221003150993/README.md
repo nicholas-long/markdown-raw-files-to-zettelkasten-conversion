@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221014185733](/zet/20221014185733/README.md) kb file named kb/hacking/methodology/API-enumeration.md
 - [20221013185251](/zet/20221013185251/README.md) general information concept FYI
 - [20221012153512](/zet/20221012153512/README.md) database
 - [20221008054439](/zet/20221008054439/README.md) graph database

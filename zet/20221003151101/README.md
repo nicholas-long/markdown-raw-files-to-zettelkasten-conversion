@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185658](/zet/20221014185658/README.md) kb file named kb/hacking/windows/windows-reverse-shell.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d

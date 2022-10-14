@@ -7,7 +7,8 @@ nmap -v -sC -sV $IP
 
 # Related
 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150648](/zet/20221003150648/README.md) nmap
 - ~/kb/hacking/commands/nmap-command.md
 

@@ -5,6 +5,7 @@
 
 # Related
 
+- [20221014190200](/zet/20221014190200/README.md) kb file named kb/linux/proxmox.md
 - [20221003150142](/zet/20221003150142/README.md) proxmox server layout
 - ~/kb/linux/proxmox.md
 

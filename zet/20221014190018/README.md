@@ -9,12 +9,9 @@
 
 # Related
 
-- 20221003150514
-
-- 20221003150513
-
-- 20221003150515
-
+- [20221003150514](/zet/20221003150514/README.md) pwntools gdb debugging terminal set to work in vs code:
+- [20221003150513](/zet/20221003150513/README.md) pwntools gdb debugging terminal tmux
+- [20221003150515](/zet/20221003150515/README.md) pwntools gdb debugging terminal
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

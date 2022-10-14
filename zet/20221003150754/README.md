@@ -7,6 +7,7 @@ keytool -printcert -file CERT.RSA
 
 # Related
 
+- [20221014185903](/zet/20221014185903/README.md) kb file named kb/hacking/commands/keytool.md
 - [20221003150755](/zet/20221003150755/README.md) keytool
 - ~/kb/hacking/commands/keytool.md
 

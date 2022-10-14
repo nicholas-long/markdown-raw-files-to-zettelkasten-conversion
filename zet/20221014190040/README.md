@@ -9,12 +9,9 @@
 
 # Related
 
-- 20221003150463
-
-- 20221003150465
-
-- 20221003150464
-
+- [20221003150463](/zet/20221003150463/README.md) powershell PSCredential password print password from object
+- [20221003150465](/zet/20221003150465/README.md) powershell PSCredential password
+- [20221003150464](/zet/20221003150464/README.md) powershell PSCredential password import xml object load from file
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

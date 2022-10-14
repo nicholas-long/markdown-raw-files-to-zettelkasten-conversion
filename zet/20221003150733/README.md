@@ -7,6 +7,7 @@ feroxbuster --url $URL -x php -B -g
 
 # Related
 
+- [20221014185909](/zet/20221014185909/README.md) kb file named kb/hacking/commands/feroxbuster-command.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150735](/zet/20221003150735/README.md) feroxbuster files, backups, and extensions
 - ~/kb/hacking/commands/feroxbuster-command.md

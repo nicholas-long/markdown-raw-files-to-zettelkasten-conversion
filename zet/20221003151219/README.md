@@ -8,6 +8,7 @@ logic errors
 
 # Related
 
+- [20221014185554](/zet/20221014185554/README.md) kb file named kb/hacking/tricks/hibernate-hql-injection.md
 - [20221003151220](/zet/20221003151220/README.md) hql injection
 - ~/kb/hacking/tricks/hibernate-hql-injection.md
 

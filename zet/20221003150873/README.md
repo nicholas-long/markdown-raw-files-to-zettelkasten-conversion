@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185823](/zet/20221014185823/README.md) kb file named kb/hacking/commands/quick-servers.md
 - [20221003150565](/zet/20221003150565/README.md) Netcat Sending file
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150872](/zet/20221003150872/README.md) host quick server smtp receive email server

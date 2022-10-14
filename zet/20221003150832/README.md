@@ -10,6 +10,7 @@ sudo nvim /etc/responder/Responder.conf
 
 # Related
 
+- [20221014185840](/zet/20221014185840/README.md) kb file named kb/hacking/commands/responder.md
 - [20221003150833](/zet/20221003150833/README.md) responder
 - ~/kb/hacking/commands/responder.md
 

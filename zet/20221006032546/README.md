@@ -49,6 +49,7 @@ Options:
 
 # Related
 
+- [20221014190239](/zet/20221014190239/README.md) kb file named kb/bash-scripting/check-empty-var.md
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221014154703](/zet/20221014154703/README.md) lazygit program
 - [20221014074318](/zet/20221014074318/README.md) important choices of tech stack

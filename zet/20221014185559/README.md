@@ -9,14 +9,10 @@
 
 # Related
 
-- 20221003151213
-
-- 20221003151211
-
-- 20221003151212
-
-- 20221003151214
-
+- [20221003151213](/zet/20221003151213/README.md) got leaked files TRY
+- [20221003151211](/zet/20221003151211/README.md) got leaked files jar
+- [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files
+- [20221003151214](/zet/20221003151214/README.md) got leaked files
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

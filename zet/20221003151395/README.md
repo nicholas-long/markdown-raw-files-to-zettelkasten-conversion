@@ -12,6 +12,7 @@ cat $HOME/.git-credentials | awk -F '[/:@]' '/github/ {print $5}'
 
 # Related
 
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 

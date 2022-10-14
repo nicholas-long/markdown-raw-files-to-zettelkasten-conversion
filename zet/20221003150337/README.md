@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221014190054](/zet/20221014190054/README.md) kb file named kb/hacking/misc/ansible.md
 - [20221003150338](/zet/20221003150338/README.md) ansible exploiting playbook
 - ~/kb/hacking/misc/ansible.md
 

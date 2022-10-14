@@ -9,10 +9,8 @@
 
 # Related
 
-- 20221003150884
-
-- 20221003150883
-
+- [20221003150884](/zet/20221003150884/README.md) privilege escalation relative path abuse
+- [20221003150883](/zet/20221003150883/README.md) privilege escalation relative path abuse using echo
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

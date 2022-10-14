@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190037](/zet/20221014190037/README.md) kb file named kb/hacking/powershell/powershell-enumeration-commands.md
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts
 - [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers

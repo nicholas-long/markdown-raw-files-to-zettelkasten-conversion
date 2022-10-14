@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014190039](/zet/20221014190039/README.md) kb file named kb/hacking/powershell/powershell-tricks.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks
 - [20221003150474](/zet/20221003150474/README.md) powershell tricks run powershell commands as another user with SecureString credential

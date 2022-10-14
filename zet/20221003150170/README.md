@@ -10,6 +10,7 @@ setcap cap_dac_override+i /usr/bin/net    # i flag says it's allowed to inherit 
 
 # Related
 
+- [20221014190149](/zet/20221014190149/README.md) kb file named kb/linux/capabilities.md
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities
 - ~/kb/linux/capabilities.md
 

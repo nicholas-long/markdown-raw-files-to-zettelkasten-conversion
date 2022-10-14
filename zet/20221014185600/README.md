@@ -9,12 +9,9 @@
 
 # Related
 
-- 20221003151209
-
-- 20221003151208
-
-- 20221003151210
-
+- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
+- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 

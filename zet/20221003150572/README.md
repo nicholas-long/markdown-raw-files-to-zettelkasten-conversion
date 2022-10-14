@@ -14,6 +14,7 @@ $ echo -n aabg7XSs | md5sum
 
 # Related
 
+- [20221014185958](/zet/20221014185958/README.md) kb file named kb/hacking/php/type-juggling.md
 - [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion
 - ~/kb/hacking/php/type-juggling.md
 

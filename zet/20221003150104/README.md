@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014185507](/zet/20221014185507/README.md) kb file named kb/python/coding-reference.md
 - [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag
 - [20221003150105](/zet/20221003150105/README.md) python scripting
 - [20221003150103](/zet/20221003150103/README.md) python scripting requests http upload file

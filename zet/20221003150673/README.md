@@ -6,10 +6,11 @@ crackmapexec smb --help
 
 # Related
 
+- [20221014185929](/zet/20221014185929/README.md) kb file named kb/hacking/commands/crackmapexec-commands.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221008215530](/zet/20221008215530/README.md) username
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150672](/zet/20221003150672/README.md) crackmapexec cme commands RID brute force
 - [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files
 - [20221003150670](/zet/20221003150670/README.md) crackmapexec cme commands bruteforce SMB
