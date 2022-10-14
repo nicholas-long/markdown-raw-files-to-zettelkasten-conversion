@@ -6,7 +6,6 @@ stuff i am working on.
 
 # Related
 
-- [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221012221003](/zet/20221012221003/README.md) weird related bug documents
