@@ -6,46 +6,46 @@ show this to Hayden later when he's not busy.
 ## outline of the process
 
 - "card" = a directory in zet
-    - has permanent IDs and links to other permanent IDs
-        - so permanent that the same ID number could be the same concept across databases?
-            - can connect concepts together with links to start investigating between different github repos with knowledge bases
-    - everything is a file (directory)
+  - has permanent IDs and links to other permanent IDs
+    - so permanent that the same ID number could be the same concept across databases?
+      - can connect concepts together with links to start investigating between different github repos with knowledge bases
+  - everything is a file (directory)
 
 - my implementation: - link
-    - based on rwxrob zet repo at - link
-        - research rwxrob tips
-    - Related header - everything below it should be considered touched or altered by scripts
-    - could use embedded yml file if necessary? - link
-        - prevent formatting issues later
-        - but there plenty of reasons why links between markdown pages should be valid links between nodes in a graph database
+  - based on rwxrob zet repo at - link
+    - research rwxrob tips
+  - Related header - everything below it should be considered touched or altered by scripts
+  - could use embedded yml file if necessary? - link
+    - prevent formatting issues later
+    - but there plenty of reasons why links between markdown pages should be valid links between nodes in a graph database
 
 ## linking things together
 
 - links
-    - links are used for traversing between cards when working as well as tagging and marking things for later investigation or processing by a script
-    - it's easy to copy information between two cards that are connected together
-    - links at the top of the related list get used more, so they should be sorted by priority
-    - tieing things together in certain ways may make sense to me, but does it make sense to other developers?
-        - develop conventions for things, perhaps in a card somewhere for reference
-        - base organization ideas and workflows on real algorithms from university classes
-            - like how it's cool to sort a deck of cards using quicksort if you can remember how to quicksort recursively
-    - i'm not sure if it's a good idea to add links at the top or bottom of the list - i have a card about this?
-        - how it relates to collaboration:
-        - stuff at the top will be annoying, get in the way, and get processed right away, so it's probably polite to move it to the bottom
-        - on the other hand, a card being linked is an "event happening" and other cards and people visiting them will be aware of it soon
-            - someone can edit it and move it wihtin literally seconds on the web interface
+  - links are used for traversing between cards when working as well as tagging and marking things for later investigation or processing by a script
+  - it's easy to copy information between two cards that are connected together
+  - links at the top of the related list get used more, so they should be sorted by priority
+  - tieing things together in certain ways may make sense to me, but does it make sense to other developers?
+    - develop conventions for things, perhaps in a card somewhere for reference
+    - base organization ideas and workflows on real algorithms from university classes
+      - like how it's cool to sort a deck of cards using quicksort if you can remember how to quicksort recursively
+  - i'm not sure if it's a good idea to add links at the top or bottom of the list - i have a card about this?
+    - how it relates to collaboration:
+    - stuff at the top will be annoying, get in the way, and get processed right away, so it's probably polite to move it to the bottom
+    - on the other hand, a card being linked is an "event happening" and other cards and people visiting them will be aware of it soon
+      - someone can edit it and move it wihtin literally seconds on the web interface
 
 - ideas about implementation
-    - scripts running on a card can bring in a feed of data from some website
-    - put ideas in text on an existing card, or think of a new card and place to put them. connect it to any relevant resources or code snippets
-    - you can write ideas down quickly and succinctly, like twitter posts are, and then elaborate and fix the grammar later to sound more professional
-    - documentation, references, and code are connected through cards
-        - if a zettel / card has scripts that interact with one another, link documentation together
-        - make a link one way by
-            - removing it from related
-            - putting human readable link in content
-            - `viunlink`
-    - create issues for things to fix and link to a new zettel for research and notes about it
+  - scripts running on a card can bring in a feed of data from some website
+  - put ideas in text on an existing card, or think of a new card and place to put them. connect it to any relevant resources or code snippets
+  - you can write ideas down quickly and succinctly, like twitter posts are, and then elaborate and fix the grammar later to sound more professional
+  - documentation, references, and code are connected through cards
+    - if a zettel / card has scripts that interact with one another, link documentation together
+    - make a link one way by
+      - removing it from related
+      - putting human readable link in content
+      - `viunlink`
+  - create issues for things to fix and link to a new zettel for research and notes about it
 
 ` zet/20221008214406/README.md `
 
