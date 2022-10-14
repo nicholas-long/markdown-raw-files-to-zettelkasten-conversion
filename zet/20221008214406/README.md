@@ -47,37 +47,11 @@ show this to Hayden later when he's not busy.
             - `viunlink`
     - create issues for things to fix and link to a new zettel for research and notes about it
 
-## important choices
-
-- use appropriate language for job
-    - my opinions:
-    - awk -> processing streams, data, forget about SQL forever and use it instead
-    - bash -> good for using someone else's programs and piping those programs together. quick text combining.
-    - python -> authenticated API calls
-        - printing text
-        - async = spaghetti code full of pipes - no
-            - pipes are built into the OS already - get rekt async
-    - C# -> cool linq queries i guess?
-- platform = unix
-    - text files = programs
-    - exit code = status code for error handling
-    - text output of program = result
-    - filesystem directory structure and files on disk = actual data, not just a path to look up stuff in contents
-    - unix shell scripting has been around, in some form or another, since the late 70s, so i'm comfortable using that as a platform.
-        - programs = files
-        - the outputs of programs = files
-        - files = variables
-        - big functions = programs
-        - piping data from one place to another is kind of like `.map` or `.Select` in js and .NET
-    - don't bother reimplementing functionality that's already provided by an existing program or platform if you can reasonably integrate it by changing it or scripting it using the most trivial of text processing techniques
-- platform += markdown
-    - markdown is becoming standardized in some ways, and used across platforms
-        - will this iteration last forever? probably not. but you can fix a whole bunch of plain text files really easily with sed and awk.
-    - you could run this in a docker somewhere easily - it's kind of cool that they can run code for us, for instance, but i can do that myself too if i have to.
-
 ` zet/20221008214406/README.md `
 
 # Related
+
+- [20221014074318](/zet/20221014074318/README.md) choices of tech stack
 
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221014072547](/zet/20221014072547/README.md) ideas need to be explained and connected to relevant things
