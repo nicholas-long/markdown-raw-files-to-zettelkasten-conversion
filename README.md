@@ -29,7 +29,7 @@ Attempt at converting a library of raw markdown files in directories into a Zett
 - [20221008061334](/zet/20221008061334/README.md) concepts
   - [20221008061845](/zet/20221008061845/README.md) workflow
   - [concept hub for all todo lists](/zet/20221007044552/README.md)
-    - [work in progress](/zet/20221008042814/README.md)
+    - [WIP work in progress](/zet/20221008042814/README.md)
     - [20221009100510](/zet/20221009100510/README.md) concept of finished / being done
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
