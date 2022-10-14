@@ -1,4 +1,4 @@
-# SMB
+# SMB to try list
 - guest access to shares
   - null auth
   - guest access with only username required
@@ -42,6 +42,10 @@
 
 # Related
 
+- [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
+
+- [20221003150312](/zet/20221003150312/README.md) SMB
+
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap
 - [20221003151035](/zet/20221003151035/README.md) hidden shares
@@ -49,7 +53,6 @@
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
-- [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
 - ~/kb/hacking/to-try-lists/SMB.md
 
 Tags:

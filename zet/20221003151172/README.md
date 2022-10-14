@@ -86,6 +86,10 @@
 
 # Related
 
+- [20221003151198](/zet/20221003151198/README.md) SMB
+
+- [20221011181920](/zet/20221011181920/README.md) working notes - foothold
+
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003150473](/zet/20221003150473/README.md) powershell tricks run powershell commands as another user with RunasCs
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
