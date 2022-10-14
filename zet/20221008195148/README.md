@@ -13,6 +13,8 @@ the seclists etc files project
 
 # Related
 
+- [20221009095853](/zet/20221009095853/README.md) finished
+
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - https://github.com/danielmiessler/SecLists/pull/785
 - https://github.com/nicholas-long/SecLists
@@ -21,7 +23,7 @@ the seclists etc files project
 - [20221003150798](/zet/20221003150798/README.md) git
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221003150443](/zet/20221003150443/README.md) seclists github
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150551](/zet/20221003150551/README.md) linux
 - [20221006025356](/zet/20221006025356/README.md) linux
 - /usr/share/seclists/Fuzzing/LFI/LFI-etc-files-of-all-linux-packages.txt
