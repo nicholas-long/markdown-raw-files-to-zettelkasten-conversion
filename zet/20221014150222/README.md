@@ -1,4 +1,4 @@
-# make a list of all kb files
+# list of all kb files and references in imported documents
 
 - concept of `make a list of all kb files`
 - add them as cards

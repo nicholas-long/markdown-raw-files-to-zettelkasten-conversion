@@ -9,7 +9,6 @@ stuff i am working on.
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221014062642](/zet/20221014062642/README.md) organize OSCP related notes
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
-- [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221012221003](/zet/20221012221003/README.md) weird related bug documents
 - [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully
 - [20221012145943](/zet/20221012145943/README.md) changes in the weather during my lifetime
