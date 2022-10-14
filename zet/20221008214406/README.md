@@ -47,20 +47,6 @@ show this to Hayden later when he's not busy.
             - `viunlink`
     - create issues for things to fix and link to a new zettel for research and notes about it
 
-## ideas need to be explained and connected to relevant things - make a card
-
-- writing down and connecting ideas quickly means they can be cataloged for later processing somewhere else
-- from our perspective, we won't forget things
-    - i swear writing down notes reduces anxiety, and my partner does too, except hers are only on paper.
-- from the perspective of memes and information, the information has been safely copied and cataloged
-    - if information has "evolved" to a point that it "wants to survive" and is "scared" of being forgotten, then it follows that it is trying to get saved somewhere
-    - will be connected to various other topics where it can be noticed
-- https://en.wikipedia.org/wiki/Meme
-    ```
-    Memes, analogously to genes, vary in their aptitude to replicate; successful memes remain and spread, whereas unfit ones stall and are forgotten. Thus, memes that prove more effective at replicating and surviving are selected in the meme pool.
-    Memes first need retention. The longer a meme stays in its hosts, the higher its chances of propagation are. When a host uses a meme, the meme's life is extended.[31] The reuse of the neural space hosting a certain meme's copy to host different memes is the greatest threat to that meme's copy.[32] A meme that increases the longevity of its hosts will generally survive longer. On the contrary, a meme that shortens the longevity of its hosts will tend to disappear faster. However, as hosts are mortal, retention is not sufficient to perpetuate a meme in the long term; memes also need transmission
-        ```
-
 ## reasoning behind choices for tech stack
 
 - don't depend on a platform or technology forever - card
@@ -112,6 +98,8 @@ show this to Hayden later when he's not busy.
 ` zet/20221008214406/README.md `
 
 # Related
+
+- [20221014072547](/zet/20221014072547/README.md) ideas need to be explained and connected to relevant things
 
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
