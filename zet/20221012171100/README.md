@@ -11,8 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
-- 20221014142356
-
+- [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221014074852](/zet/20221014074852/README.md) KISS principle of engineering and design
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
