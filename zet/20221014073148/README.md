@@ -24,40 +24,24 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
-
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
-
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
-
 - [20221008061845](/zet/20221008061845/README.md) workflow
-
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
-
 - [20221009172522](/zet/20221009172522/README.md) obsidian
-
 - [20221008215400](/zet/20221008215400/README.md) file
-
 - [20221008213254](/zet/20221008213254/README.md) file path
-
 - [20221007194303](/zet/20221007194303/README.md) github
-
 - [20221007193324](/zet/20221007193324/README.md) github actions
-
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
-
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
-
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
-
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
-
 - [20221003151267](/zet/20221003151267/README.md) fzf
-
 - [20221003150798](/zet/20221003150798/README.md) git
-
 - [20221003150067](/zet/20221003150067/README.md) vim
-
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 
 Tags:

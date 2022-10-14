@@ -8,6 +8,7 @@ the concept of a `file`
 
 # Related
 
+- [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
 - [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive
 - [20221003150132](/zet/20221003150132/README.md) find file with name matching regular expression

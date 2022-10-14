@@ -37,6 +37,7 @@ Screenshot_2022-10-10_143445_without_tagindex.png
 
 # Related
 
+- [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page

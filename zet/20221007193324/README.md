@@ -15,6 +15,7 @@
 
 # Related
 
+- [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221007192111](/zet/20221007192111/README.md) the first zettel generated from github
 - [20221012101349](/zet/20221012101349/README.md) ubuntu
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd

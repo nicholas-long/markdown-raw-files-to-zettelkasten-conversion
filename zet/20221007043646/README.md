@@ -110,6 +110,7 @@
 
 # Related
 
+- [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221014072547](/zet/20221014072547/README.md) ideas need to be explained and connected to relevant things
 - [20221014070023](/zet/20221014070023/README.md) findings from implementing deep connectome search
 - [20221014023054](/zet/20221014023054/README.md) distinct workflow operations i do in this zettelkasten

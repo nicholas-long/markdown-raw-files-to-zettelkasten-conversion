@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221012135747](/zet/20221012135747/README.md) unix text editors
 - [20221012135301](/zet/20221012135301/README.md) emacs

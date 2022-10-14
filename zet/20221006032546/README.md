@@ -44,6 +44,7 @@ Options:
 
 # Related
 
+- [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221014070023](/zet/20221014070023/README.md) findings from implementing deep connectome search
 - [20221013221136](/zet/20221013221136/README.md) implement a graph query language
 - [20221013214821](/zet/20221013214821/README.md) check for command injection

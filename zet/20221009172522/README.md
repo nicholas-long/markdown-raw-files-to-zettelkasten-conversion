@@ -13,6 +13,7 @@
 
 # Related
 
+- [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page

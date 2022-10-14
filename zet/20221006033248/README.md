@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221006214142](/zet/20221006214142/README.md) streamers
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos

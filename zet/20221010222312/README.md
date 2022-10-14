@@ -9,6 +9,7 @@ the concept of `tmux workflow`
 
 # Related
 
+- [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221003150076](/zet/20221003150076/README.md) swap panes
 - [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty

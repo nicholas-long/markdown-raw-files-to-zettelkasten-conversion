@@ -14,6 +14,7 @@ hub node for `workflow`
 
 # Related
 
+- [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221014072547](/zet/20221014072547/README.md) ideas need to be explained and connected to relevant things
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
