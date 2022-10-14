@@ -17,7 +17,6 @@
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
 - [20221003150449](/zet/20221003150449/README.md) keepass CLI tool open and edit keepass databases
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003150140](/zet/20221003150140/README.md) apt package
 - [20221006025730](/zet/20221006025730/README.md) apt repositories
 - [20221003151299](/zet/20221003151299/README.md) bash tricks

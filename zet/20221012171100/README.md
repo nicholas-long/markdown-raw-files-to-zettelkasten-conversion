@@ -36,8 +36,6 @@ zet/20221012171100/README.md
 - [20221013175957](/zet/20221013175957/README.md) serialization concept
 - [20221013175128](/zet/20221013175128/README.md) preparing exploit payloads
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
-- [20221013173355](/zet/20221013173355/README.md) the process of enumerating a target
-- [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:

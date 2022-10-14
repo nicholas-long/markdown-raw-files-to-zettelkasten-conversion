@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003150688](/zet/20221003150688/README.md) wpscan initial enumerate user id range
 - [20221003150640](/zet/20221003150640/README.md) nmap run "all" enumeration and scripts
 - [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts
