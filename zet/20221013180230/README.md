@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221003150252](/zet/20221003150252/README.md) httponly cookie option
 - [20221008215530](/zet/20221008215530/README.md) username
 - [20221008215655](/zet/20221008215655/README.md) user account

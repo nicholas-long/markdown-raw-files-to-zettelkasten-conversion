@@ -6,6 +6,7 @@ the concept of `user account`
 
 # Related
 
+- [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
 - [20221013185456](/zet/20221013185456/README.md) shadow file
 - [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key

@@ -18,11 +18,12 @@
 
 # Related
 
+- [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
 

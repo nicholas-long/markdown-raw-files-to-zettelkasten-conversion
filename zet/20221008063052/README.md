@@ -14,7 +14,6 @@ implemented:
 # Related
 
 - [20221007193324](/zet/20221007193324/README.md) github actions
-
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes
 - [20221007181438](/zet/20221007181438/README.md) directories and bash scripts as commands
