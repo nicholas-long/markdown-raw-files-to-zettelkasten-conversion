@@ -15,6 +15,7 @@ newid=$(./zc new -t "$title" -r "$id" | awk '/created zet ID/ { print $NF }')
 
 # Related
 
+- [20221003151443](/zet/20221003151443/README.md) kb
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - 
 - [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents
