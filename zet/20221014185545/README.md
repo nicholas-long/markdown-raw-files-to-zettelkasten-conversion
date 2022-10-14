@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
 - [20221003151233](/zet/20221003151233/README.md) mysql mariadb write any binary file with file permissions
 - [20221003151235](/zet/20221003151235/README.md) mysql mariadb display query output as pretty printed text with column names

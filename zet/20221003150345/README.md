@@ -10,6 +10,7 @@ patator ssh_login host=<ip> port=22 user=root 0=/path/passwords.txt password=FIL
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221014190050](/zet/20221014190050/README.md) kb file named kb/hacking/misc/bruteforcing-tools.md
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
 - ~/kb/hacking/misc/bruteforcing-tools.md

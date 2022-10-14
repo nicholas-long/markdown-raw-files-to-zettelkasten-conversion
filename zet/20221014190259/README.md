@@ -10,7 +10,6 @@
 # Related
 
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
-
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003151297](/zet/20221003151297/README.md) bash tricks run a command / program in a pty to get color output shodan host
 - [20221003151298](/zet/20221003151298/README.md) bash tricks run a command / program in a pty to get color output

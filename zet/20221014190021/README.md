@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert
 - [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes
 - [20221003150505](/zet/20221003150505/README.md) python pwn tricks convert little endian bytes to floating point

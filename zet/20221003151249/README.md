@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221014185533](/zet/20221014185533/README.md) kb file named kb/hacking/tricks/install-pip-modules-on-target-as-files.md
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221003151250](/zet/20221003151250/README.md) sending installs to target

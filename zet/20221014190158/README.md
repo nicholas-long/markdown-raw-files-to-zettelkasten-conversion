@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150150](/zet/20221003150150/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal
 - [20221003150149](/zet/20221003150149/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal serial codes
 - [20221003150147](/zet/20221003150147/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks

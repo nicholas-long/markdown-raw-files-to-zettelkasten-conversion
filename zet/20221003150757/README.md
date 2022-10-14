@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221014185901](/zet/20221014185901/README.md) kb file named kb/hacking/commands/msfvenom-commands.md
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks

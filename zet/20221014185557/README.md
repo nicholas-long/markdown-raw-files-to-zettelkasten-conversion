@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003151217](/zet/20221003151217/README.md) caddy
 - [20221003151215](/zet/20221003151215/README.md) caddy install
 - [20221003151216](/zet/20221003151216/README.md) caddy stand up https server with a valid certificate

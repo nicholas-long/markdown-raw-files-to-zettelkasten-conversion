@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150473](/zet/20221003150473/README.md) powershell tricks run powershell commands as another user with RunasCs
 - [20221003150468](/zet/20221003150468/README.md) powershell tricks browse and edit registry set registry values
 - [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry

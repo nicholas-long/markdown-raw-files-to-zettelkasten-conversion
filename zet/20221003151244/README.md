@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221014185536](/zet/20221014185536/README.md) kb file named kb/hacking/tricks/malicious-packages.md
 - [20221013175957](/zet/20221013175957/README.md) serialization concept
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf

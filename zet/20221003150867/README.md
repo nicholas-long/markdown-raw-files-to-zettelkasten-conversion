@@ -8,6 +8,7 @@ locate 2john | sed -e 's/.*\///g' -e 's/\..*//g'
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221014185825](/zet/20221014185825/README.md) kb file named kb/hacking/commands/john-the-ripper-crack-with-wordlist.md
 - [20221003150868](/zet/20221003150868/README.md) john the ripper find all file formats supported with a 2john script or tojohn
 - ~/kb/hacking/commands/john-the-ripper-crack-with-wordlist.md

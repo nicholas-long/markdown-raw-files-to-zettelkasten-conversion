@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221014191506](/zet/20221014191506/README.md) associate kb cards with converted cards
 - [20221014185959](/zet/20221014185959/README.md) kb file named kb/hacking/php/deserialization-attacks.md
