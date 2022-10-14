@@ -19,7 +19,6 @@ stuff i am working on.
 - [20221012134856](/zet/20221012134856/README.md) what is org roam?
 - [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn
 - [20221012094712](/zet/20221012094712/README.md) strange issues with sort and locale and tags
-- [20221012090938](/zet/20221012090938/README.md) my netbook
 - [20221012090359](/zet/20221012090359/README.md) first post from netbook
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221006213953](/zet/20221006213953/README.md) video notes
