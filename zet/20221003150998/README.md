@@ -8,6 +8,8 @@ newer technology -> developers adopting early without considering security.
 
 # Related
 
+- [20221006215353](/zet/20221006215353/README.md) InsiderPHD
+
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221003150997](/zet/20221003150997/README.md) GraphQL APIs GraphQL introspection and recon

@@ -8,6 +8,8 @@
 
 # Related
 
+- [20221014062642](/zet/20221014062642/README.md) organize OSCP related notes
+
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
@@ -61,7 +63,7 @@
 - [20221003150805](/zet/20221003150805/README.md) brute force default credentials ssh
 - [20221003150857](/zet/20221003150857/README.md) ssh-keygen
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
-- [20221003151174](/zet/20221003151174/README.md) SSH
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list
 - [20221003151198](/zet/20221003151198/README.md) SMB
 - [20221003150312](/zet/20221003150312/README.md) SMB
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
