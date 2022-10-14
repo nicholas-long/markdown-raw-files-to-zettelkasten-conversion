@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221012135747](/zet/20221012135747/README.md) unix text editors
 - [20221012135301](/zet/20221012135301/README.md) emacs
 - [20221012065200](/zet/20221012065200/README.md) side panels work in vim with tmux over ssh now?

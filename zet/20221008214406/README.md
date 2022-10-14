@@ -114,7 +114,6 @@ show this to Hayden later when he's not busy.
 # Related
 
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
-
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221006140520](/zet/20221006140520/README.md) zet cmd spawn feature

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn

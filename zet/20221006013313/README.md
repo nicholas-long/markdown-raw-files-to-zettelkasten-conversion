@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221013180437](/zet/20221013180437/README.md) differences organizing zettelkasten in graph vs files in hierarchy
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221012134856](/zet/20221012134856/README.md) what is org roam?
@@ -42,7 +43,7 @@
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
 - [20221009022138](/zet/20221009022138/README.md) parse text in zettelkasten with python scripts
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 
 Tags:

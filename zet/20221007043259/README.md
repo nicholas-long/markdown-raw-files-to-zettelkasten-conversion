@@ -87,6 +87,7 @@
 
 # Related
 
+- [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221013185251](/zet/20221013185251/README.md) general information concept FYI
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221012134856](/zet/20221012134856/README.md) what is org roam?

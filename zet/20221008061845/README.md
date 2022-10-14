@@ -14,6 +14,7 @@ hub node for `workflow`
 
 # Related
 
+- [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
 - [20221003150076](/zet/20221003150076/README.md) swap panes

@@ -96,6 +96,7 @@ finished through page 12 of search https://github.com/search?p=12&q=zettelkasten
 
 # Related
 
+- [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221013035616](/zet/20221013035616/README.md) fun
 - [20221007192111](/zet/20221007192111/README.md) the first zettel generated from github
 - [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten

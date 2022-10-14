@@ -8,6 +8,7 @@ the concept of `www - the web`
 
 # Related
 
+- [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
 - [20221003150252](/zet/20221003150252/README.md) httponly cookie option
 - [20221013180125](/zet/20221013180125/README.md) concept of a cookie

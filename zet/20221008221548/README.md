@@ -9,6 +9,7 @@ the concept of `website`
 
 # Related
 
+- [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221003150248](/zet/20221003150248/README.md) Azure AD connect
 - [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag
 - [20221013180125](/zet/20221013180125/README.md) concept of a cookie
@@ -23,7 +24,7 @@ the concept of `website`
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 - [20221003150289](/zet/20221003150289/README.md) default webroots
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150288](/zet/20221003150288/README.md) default webroots wamp
 - [20221003151153](/zet/20221003151153/README.md) windows
 - [20221003151058](/zet/20221003151058/README.md) windows directory traversal path traversal LFI strings

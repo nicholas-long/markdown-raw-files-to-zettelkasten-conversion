@@ -25,42 +25,25 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
-
 - [20221008054439](/zet/20221008054439/README.md) graph database
-
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
-
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
-
 - [20221009015743](/zet/20221009015743/README.md) dockerfile
-
 - [20221009015558](/zet/20221009015558/README.md) docker
-
 - [20221008221822](/zet/20221008221822/README.md) www - the web
-
 - [20221008221548](/zet/20221008221548/README.md) website
-
 - [20221008212802](/zet/20221008212802/README.md) software program
-
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
-
 - [20221007194303](/zet/20221007194303/README.md) github
-
 - [20221003150798](/zet/20221003150798/README.md) git
-
 - [20221003150113](/zet/20221003150113/README.md) socat execute program
-
 - [20221008061845](/zet/20221008061845/README.md) workflow
-
 - [20221008042814](/zet/20221008042814/README.md) WIP
-
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
-
 - [20221003150079](/zet/20221003150079/README.md) tmux
-
 - [20221003150067](/zet/20221003150067/README.md) vim
-
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 
 Tags:

@@ -6,6 +6,7 @@ concept of the github website owned by the company microsoft.
 
 # Related
 
+- [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads

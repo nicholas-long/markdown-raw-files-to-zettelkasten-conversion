@@ -48,6 +48,7 @@ ENTRYPOINT [ "pyrit" ]
 
 # Related
 
+- [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221003151268](/zet/20221003151268/README.md) Lookup missing packages
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221009021452](/zet/20221009021452/README.md) container
