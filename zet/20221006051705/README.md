@@ -4,21 +4,17 @@
   - putting on github not ideal - information disclosure
   - working daily notes
 - public repo
+  - let zk take over role of managing dotfiles for environments
+    - not secrets
+    - take over role of kb searching with new shortcuts in `pen-test-environ` repo
   - can literally just copy information from private repos to public in by copying the directories in
     - enriching process should remove any dead links to private zettels
-- take over role of kb searching with new shortcuts in `pen-test-environ` repo
-- workflow for releasing private -> public
-  - copy all zet/ directory
-  - go through lazygit, revert any files containing PII before commit -> deleted
-  - enrich -> deletes links?
-    - eventually, this should mark links as dead
-    - go through and remove any dead links that reveal sensitive information or disclose IDs which could be used to determine file paths on your system
-  - make sure content is appropriate
-  - commit and push to a branch, pull request
 
 ` zet/20221006051705/README.md `
 
 # Related
+
+- [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
