@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221014150222](/zet/20221014150222/README.md) make a list of all kb files
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221014062642](/zet/20221014062642/README.md) organize OSCP related notes
 - [20221014024704](/zet/20221014024704/README.md) list of sparse nodes
