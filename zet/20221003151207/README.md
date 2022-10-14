@@ -87,11 +87,8 @@
 # Related
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
-
 - [20221003151144](/zet/20221003151144/README.md) active directory 
-
 - [20221003151137](/zet/20221003151137/README.md) active directory  sensitive files
-
 - [20221003150473](/zet/20221003150473/README.md) powershell tricks run powershell commands as another user with RunasCs
 - [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
 - [20221013190422](/zet/20221013190422/README.md) headline exploits

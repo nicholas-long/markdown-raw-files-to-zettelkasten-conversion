@@ -5,9 +5,7 @@
 # Related
 
 - [20221014164014](/zet/20221014164014/README.md) protocol for application communication
-
 - [20221003150242](/zet/20221003150242/README.md) identify service
-
 - [20221003150252](/zet/20221003150252/README.md) httponly cookie option
 - [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists

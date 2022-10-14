@@ -42,10 +42,9 @@
 
 # Related
 
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
-
 - [20221003150312](/zet/20221003150312/README.md) SMB
-
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap
 - [20221003151035](/zet/20221003151035/README.md) hidden shares

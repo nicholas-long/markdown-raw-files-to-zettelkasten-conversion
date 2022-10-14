@@ -6,6 +6,7 @@ the concept of a `command`
 
 # Related
 
+- [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
 - [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive
 - [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset

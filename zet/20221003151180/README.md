@@ -32,6 +32,7 @@
 
 # Related
 
+- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

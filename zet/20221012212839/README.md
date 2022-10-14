@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150422](/zet/20221003150422/README.md) kerberos attack on windows host ticket attacks extraction and harvesting
 - [20221003151443](/zet/20221003151443/README.md) kb
 - [20221014150222](/zet/20221014150222/README.md) make a list of all kb files
 - [20221009172351](/zet/20221009172351/README.md) markdown file format

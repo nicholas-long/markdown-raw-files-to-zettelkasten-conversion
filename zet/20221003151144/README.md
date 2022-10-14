@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
+- [20221006215623](/zet/20221006215623/README.md) scrambled machine video notes
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
 - [20221003150254](/zet/20221003150254/README.md) beacon object file BOF

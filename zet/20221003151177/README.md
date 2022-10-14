@@ -21,6 +21,7 @@
 
 # Related
 
+- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet

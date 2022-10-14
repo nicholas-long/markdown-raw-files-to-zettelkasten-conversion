@@ -11,6 +11,7 @@
 
 # Related
 
+- [20221014164014](/zet/20221014164014/README.md) protocol for application communication
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 
 Tags:
