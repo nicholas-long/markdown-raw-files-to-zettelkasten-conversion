@@ -3,34 +3,40 @@ MYID=20221013021614
 IMPL=20221006032546
 
 # running preview subprocess
-if [ "$1" == "preview" ]; then
+if [ "$1" == "video" ]; then
   bat --color=always $2
   exit 0
 fi
 
 # main loop
 going=1
-doc="README.md"
+export doc="README.md"
+if [ ! -z "$1" ]; then
+  export doc="$1"
+fi
 selection=$(mktemp)
 while [ 1 == "$going" ]; do
   awk '
   BEGIN {
     print "edit"
     print "back"
+    if (ENVIRON["TMUX"] ~ /tmux/) {
+      print "tab"
+    }
     print "link"
     print "unlink"
-    print "exit"
+    print "quit"
     fflush()
   }
   /^ *- \[.*\]\(\/zet\/[0-9]+\/README.md\)/ {
     print "goto", $0
     fflush()
   }
-  ' "$doc" | fzf --preview="$0 preview '$doc'" --preview-window=up > "$selection"
+  ' "$doc" | fzf --preview="$0 video '$doc'" --preview-window=up --prompt="$doc :" > "$selection"
   sel="$(cat $selection)"
   act=$(cat $selection | awk '{print $1}')
   id=$(echo "$doc" | awk -F / '{ print $(NF-1) }')
-  if [ "$act" == "exit" ]; then
+  if [ "$act" == "quit" ]; then
     exit 0
   elif [ "$act" == "goto" ]; then
     prevdoc="$doc"
@@ -66,7 +72,13 @@ while [ 1 == "$going" ]; do
     if [ -z "$EDITOR" ]; then
       EDITOR=$(which nvim 2>/dev/null || which vim 2>/dev/null || which vi 2>/dev/null )
     fi
-    $EDITOR "$doc"
+    if [ ! -z $TMUX ]; then
+      tmux new-window $EDITOR "$doc"
+    else
+      $EDITOR "$doc"
+    fi
+  elif [ "$act" == "tab" ]; then
+    tmux new-window $0 "$doc"
   fi
 done
 rm "$selection"
