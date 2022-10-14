@@ -382,11 +382,14 @@ NR > 1 && /^[0-9]+$/ {
 
 # Related
 
+- [20221009095853](/zet/20221009095853/README.md) finished
+
+- [20221014191506](/zet/20221014191506/README.md) associate kb cards with converted cards
+
 - [20221003151443](/zet/20221003151443/README.md) kb
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - 
 - [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents
-- [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully
 
 Tags:
