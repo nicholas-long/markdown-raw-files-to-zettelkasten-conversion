@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
 - [20221014024704](/zet/20221014024704/README.md) list of sparse nodes
 - [20221014023054](/zet/20221014023054/README.md) distinct workflow operations i do in this zettelkasten
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
@@ -27,9 +28,6 @@ zet/20221012171100/README.md
 - [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat
 - [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
-- [20221013185456](/zet/20221013185456/README.md) shadow file
-- [20221013185406](/zet/20221013185406/README.md) etc passwd file on linux
-- [20221013185251](/zet/20221013185251/README.md) general information concept FYI
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:

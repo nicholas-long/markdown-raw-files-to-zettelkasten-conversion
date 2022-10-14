@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221013185456](/zet/20221013185456/README.md) shadow file
 - [20221003150926](/zet/20221003150926/README.md) /etc/passwd writable line privilege escalation exploit
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
