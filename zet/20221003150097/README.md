@@ -1,6 +1,6 @@
 # find out which dpkg apt package installed a file
 ```bash
-~/kb/bash-scripting/what-installed-this-file.sh $(which ntpdate)
+grep -R filename /var/lib/dpkg/info/*.list
 ```
 
 ` zet/20221003150097/README.md `
@@ -17,4 +17,4 @@
 
 Tags:
 
-    
+    #bash #linux #debian #apt
