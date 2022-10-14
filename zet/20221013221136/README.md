@@ -17,7 +17,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221009102918](/zet/20221009102918/README.md) get titles in tag links
 - [20221008054439](/zet/20221008054439/README.md) graph database
 - [20221003150098](/zet/20221003150098/README.md) todo

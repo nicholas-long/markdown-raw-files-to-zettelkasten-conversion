@@ -9,7 +9,6 @@
 # Related
 
 - [20221014062642](/zet/20221014062642/README.md) organize OSCP related notes
-
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page

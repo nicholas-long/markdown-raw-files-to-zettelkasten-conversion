@@ -14,7 +14,6 @@ TERM_PROGRAM=tmux
 # Related
 
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
