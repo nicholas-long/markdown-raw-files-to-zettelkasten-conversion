@@ -81,6 +81,20 @@ rm $http_request
 
 # Related
 
+- [20221014142356](/zet/20221014142356/README.md) concept of a trick or neat solution
+
+- [20221008221822](/zet/20221008221822/README.md) www - the web
+
+- [20221008211707](/zet/20221008211707/README.md) making cool stuff
+
+- [20221008061845](/zet/20221008061845/README.md) workflow
+
+- [20221003150946](/zet/20221003150946/README.md) python
+
+- [20221003150310](/zet/20221003150310/README.md) burpsuite
+
+- [20221003151299](/zet/20221003151299/README.md) bash tricks
+
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 
