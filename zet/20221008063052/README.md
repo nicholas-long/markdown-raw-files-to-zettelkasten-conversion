@@ -13,6 +13,9 @@ implemented:
 
 # Related
 
+- [20221007193324](/zet/20221007193324/README.md) github actions
+
+- [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes
 - [20221007181438](/zet/20221007181438/README.md) directories and bash scripts as commands
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
@@ -25,7 +28,6 @@ implemented:
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
 - [20221007194303](/zet/20221007194303/README.md) github
-- [20221007193324](/zet/20221007193324/README.md) github actions
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 
