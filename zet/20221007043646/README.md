@@ -105,6 +105,8 @@
 - a new note and a connection can be the same as putting something on a todo list
   - concept hub for todo lists - all todo lists there
   - nodes for todo, WIP, done ~ issue tracking
+- it seems like it will be helpful to add links when browsing if you want to get somewhere instead of just searching and launching tabs
+  - if things are related by context, utility?
 
 ` zet/20221007043646/README.md `
 

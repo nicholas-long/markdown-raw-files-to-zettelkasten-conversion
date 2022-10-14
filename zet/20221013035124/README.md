@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+
 - [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully
 - [20221003150422](/zet/20221003150422/README.md) kerberos attack on windows host ticket attacks extraction and harvesting
 - [20221003151016](/zet/20221003151016/README.md) nmap scripts search by type

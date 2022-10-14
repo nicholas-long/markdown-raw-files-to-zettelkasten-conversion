@@ -17,6 +17,9 @@
 - use notes to organize and produce own videos?
 - flowcharts and decision trees
 - generate a cool video by checking out commits iteratively and watch graph grow in obsidian
+- parse code and turn into cards with links
+  - symbols - ctags
+  - link to external things (i.e. vulnerable funcetions, etc.)
 
 ## move this stuff to cards it is growing kinda big
 

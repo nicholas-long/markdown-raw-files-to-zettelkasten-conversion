@@ -40,6 +40,11 @@ Options:
     -h|--help
 ```
 
+- i think the project should be broken into 3 parts
+  - console utility (colelction of scripts)
+  - graph browser, linker, editor
+  - workflow loop
+
 ` zet/20221006032546/README.md `
 
 # Related
