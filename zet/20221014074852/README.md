@@ -1,4 +1,4 @@
-# KISS principle of engineering and design
+# "Keep It Simple Stupid" principle of engineering and design
 
 - concept of `KISS principle of engineering and design`
 
@@ -8,6 +8,8 @@
 ` zet/20221014074852/README.md `
 
 # Related
+
+- [20221013175128](/zet/20221013175128/README.md) preparing exploit payloads
 
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
