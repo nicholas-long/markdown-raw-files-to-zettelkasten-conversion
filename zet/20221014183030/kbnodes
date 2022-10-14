@@ -1,50 +1,3 @@
-# create cards for kb files
-
-- concept of `create cards for kb files`
-- how to add a reference
-```
-./zc addref -t $id $newid
-```
-- kb files stored in `zet/20221014150222/list_of_kb_files`
-- making a new card with a title and a reference id
-```bash
-newid=$(./zc new -t "$title" -r "$id" | awk '/created zet ID/ { print $NF }')
-```
-
-- saved node IDs in file `zet/20221014183030/kbnodes`
-- script
-```bash
-
-for f in $(cat zet/20221014150222/list_of_kb_files)
-do
-  kbid=20221003151443
-  title="kb file named $f"
-  ./zc new -t "$title" -r "$kbid" | awk '/created zet ID/ { print $NF }'
-  sleep 1.5 # stupid way to prevent unique IDs
-done
-
-touch zet/20221014183030/createscript
-cp output zet/20221014183030/
-# going to save gz file
-
-[diag] new kb file named kb/docker/install-docker-compose.md
-[diag] addref 20221014185440 20221003151443
-20221014185440
-[diag] new kb file named kb/docker/installations/install-mandown.md
-[diag] addref 20221014185441 20221003151443
-20221014185441
-[diag] new kb file named kb/docker/run-container-in-background.md
-[diag] addref 20221014185443 20221003151443
-20221014185443
-
-# get IDs and paths from stream of diagnostic logs
-awk '
-/new kb file named/ { fn = $NF }
-NR > 1 && /^[0-9]+$/ {
-  id = $1
-  print id, fn
-}' zet/20221014183030/output
-
 20221014185440 kb/docker/install-docker-compose.md
 20221014185441 kb/docker/installations/install-mandown.md
 20221014185443 kb/docker/run-container-in-background.md
@@ -375,20 +328,3 @@ NR > 1 && /^[0-9]+$/ {
 20221014190257 kb/bash-scripting/strip-newlines.md
 20221014190259 kb/bash-scripting/tricks.md
 20221014190301 kb/bash-scripting/debugging.md
-
-```
-
-` zet/20221014183030/README.md `
-
-# Related
-
-- [20221003151443](/zet/20221003151443/README.md) kb
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
-- 
-- [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents
-- [20221008042814](/zet/20221008042814/README.md) WIP
-- [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully
-
-Tags:
-
-    #todo #notes

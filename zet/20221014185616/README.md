@@ -1,0 +1,16 @@
+# kb file named kb/hacking/to-try-lists/DNS.md
+
+- concept of `kb file named kb/hacking/to-try-lists/DNS.md`
+
+```
+```
+
+` zet/20221014185616/README.md `
+
+# Related
+
+- 20221003151443
+
+Tags:
+
+    #idea

@@ -1,0 +1,16 @@
+# kb file named kb/hacking/to-try-lists/RDP.md
+
+- concept of `kb file named kb/hacking/to-try-lists/RDP.md`
+
+```
+```
+
+` zet/20221014185608/README.md `
+
+# Related
+
+- 20221003151443
+
+Tags:
+
+    #idea

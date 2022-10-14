@@ -1,0 +1,10 @@
+#!/bin/bash
+
+for f in $(cat zet/20221014150222/list_of_kb_files)
+do
+  kbid=20221003151443
+  title="kb file named $f"
+  ./zc new -t "$title" -r "$kbid" | awk '/created zet ID/ { print $NF }'
+  sleep 1.5 # stupid way to prevent unique IDs
+done
+
