@@ -19,6 +19,7 @@ find zet -name README.md | xargs implementation/scanrefs | awk '/^ref/ { refs[$2
 
 # Related
 
+- [20221014062642](/zet/20221014062642/README.md) organize OSCP related notes
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221014024704](/zet/20221014024704/README.md) list of sparse nodes
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project

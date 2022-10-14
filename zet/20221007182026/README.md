@@ -9,7 +9,6 @@
 # Related
 
 - [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents
-
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer

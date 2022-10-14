@@ -22,6 +22,8 @@ echo list of references is at zet/20221014150222/kb_references
 
 # Related
 
+- [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
+- [20221014062642](/zet/20221014062642/README.md) organize OSCP related notes
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
