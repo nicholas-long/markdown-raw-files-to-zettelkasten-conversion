@@ -19,8 +19,7 @@ find zet -name README.md | xargs implementation/scanrefs | awk '/^ref/ { refs[$2
 
 # Related
 
-- 20221009095853
-
+- [20221009095853](/zet/20221009095853/README.md) finished
 - [20221014024704](/zet/20221014024704/README.md) list of sparse nodes
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
