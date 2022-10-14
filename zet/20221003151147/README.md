@@ -35,6 +35,18 @@ Get-DomainComputer $targetComputer -Properties 'msds-allowedtoactonbehalfofother
 
 # Related
 
+- [20221011183500](/zet/20221011183500/README.md) potential exploits
+
+- [20221008215655](/zet/20221008215655/README.md) user account
+
+- [20221006213414](/zet/20221006213414/README.md) retired machines
+
+- [20221003151144](/zet/20221003151144/README.md) active directory 
+
+- [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
+
+- [20221003150677](/zet/20221003150677/README.md) bloodhound
+
 - [20221003151148](/zet/20221003151148/README.md) resource based constrained delegation S4U attack
 - ~/kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md
 
