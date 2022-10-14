@@ -5,6 +5,8 @@
 - usually fast
 - less code required to develop vs. GUI programs
   - no async stuff
+- lots of them seem to be written in go
+  - maybe something about workflow / pipelines and linux
 
 ```
 ```
@@ -12,6 +14,10 @@
 ` zet/20221014154934/README.md `
 
 # Related
+
+- [20221008214935](/zet/20221008214935/README.md) go language
+
+- [20221003151267](/zet/20221003151267/README.md) fzf
 
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221014154703](/zet/20221014154703/README.md) lazygit program

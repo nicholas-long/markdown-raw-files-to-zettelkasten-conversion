@@ -1,6 +1,13 @@
 # go language
 
-the concept of the `go programming language`
+- the concept of the `go programming language`
+- lots of terminal user interfaces seem to be written in go
+  - maybe something about workflow / pipelines and linux?
+- platform independent binaries
+  - no dependency on libc (or windows DLLs)?
+- difficult to reverse engineer
+  - strings done differently than other languages - no null term
+  - enormous binaries with tons of symbols that are statically linked with go code implementations
 
 ` zet/20221008214935/README.md `
 
