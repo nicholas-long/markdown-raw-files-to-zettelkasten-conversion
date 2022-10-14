@@ -111,7 +111,6 @@
 # Related
 
 - [20221014023054](/zet/20221014023054/README.md) distinct workflow operations
-
 - [20221013180437](/zet/20221013180437/README.md) differences organizing zettelkasten in graph vs files in hierarchy
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221007192111](/zet/20221007192111/README.md) the first zettel generated from github
