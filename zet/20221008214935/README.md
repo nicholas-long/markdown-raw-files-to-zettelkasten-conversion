@@ -13,6 +13,13 @@
 
 # Related
 
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis
+
+
+- [20221003150516](/zet/20221003150516/README.md) binary analysis golang
+
+- [20221014205906](/zet/20221014205906/README.md) coding in golang
+
 - [20221014154703](/zet/20221014154703/README.md) lazygit program
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
