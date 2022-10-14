@@ -4,7 +4,12 @@ IMPL=20221006032546
 
 # running preview subprocess
 if [ "$1" == "video" ]; then
-  bat --color=always $2
+  if [ "$3" == "stat" ]; then
+    zet/$IMPL/previewgit
+  else
+    bat --color=always $2
+  fi
+
   exit 0
 fi
 
@@ -23,6 +28,16 @@ while [ 1 == "$going" ]; do
     if (ENVIRON["TMUX"] ~ /tmux/) {
       print "tab"
     }
+    doc = ENVIRON["doc"]
+    if (doc != "README.md") {
+      id = doc
+      gsub(/^zet\//,"",id)
+      gsub(/\/.*$/,"",id)
+      if (id != "README.md") print "spawn", id
+    } else {
+      id = 0
+    }
+    print "stat"
     print "link"
     print "unlink"
     print "quit"
@@ -32,7 +47,7 @@ while [ 1 == "$going" ]; do
     print "goto", $0
     fflush()
   }
-  ' "$doc" | fzf --preview="$0 video '$doc'" --preview-window=up --prompt="$doc :" > "$selection"
+  ' "$doc" | fzf --preview="$0 video '$doc' {}" "--preview-window=up,75%" --prompt="$doc :" > "$selection"
   sel="$(cat $selection)"
   act=$(cat $selection | awk '{print $1}')
   id=$(echo "$doc" | awk -F / '{ print $(NF-1) }')
@@ -79,6 +94,14 @@ while [ 1 == "$going" ]; do
     fi
   elif [ "$act" == "tab" ]; then
     tmux new-window $0 "$doc"
+  elif [ "$act" == "spawn" ]; then
+    newid=$(zet/$IMPL/zetcmd new -z "spawned" -r $id | awk '/created zet ID/ { print $NF }')
+    echo "spawned $newid"
+    sleep 1
+    id=$(echo "$doc" | awk -F / '{print $(NF-1)}')
+    $0 enrich_links_single $newid
+    $0 enrich_links_single $id
+    sleep 1
   fi
 done
 rm "$selection"
