@@ -100,8 +100,8 @@ while [ 1 == "$going" ]; do
     newid=$(./zc new -t "$title" -r "$id" | awk '/created zet ID/ { print $NF }')
     echo "spawned $newid"
     sleep 1
-    ./zc enrich_links_single $id
     ./zc addref -t $id $newid
+    ./zc enrich_links_single $id
     ./zc enrich_links_single $newid
     sleep 1
   fi
