@@ -20,6 +20,7 @@
 - parse code and turn into cards with links
   - symbols - ctags
   - link to external things (i.e. vulnerable funcetions, etc.)
+- link github projects to cards that grow big?
 
 ## move this stuff to cards it is growing kinda big
 
