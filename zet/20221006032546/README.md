@@ -1,5 +1,7 @@
 # my implementation of zet cmd
 
+![screenshot of graph explorer](/zet/20221010184202/Screenshot_2022-10-14_014740.png)
+
 name: zc
 - fzf selection window to select lots of references or spawn new nodes
 - github actions
