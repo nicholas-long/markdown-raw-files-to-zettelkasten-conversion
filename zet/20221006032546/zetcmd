@@ -323,7 +323,7 @@ EOF
     ;;
   enrich_links_single)
     zid="$arg"
-    if [ -z $"zid" ]; then
+    if [ -z "$zid" ]; then
       continue
     fi
     #get references
