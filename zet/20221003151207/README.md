@@ -86,6 +86,7 @@
 
 # Related
 
+- [20221003150473](/zet/20221003150473/README.md) powershell tricks run powershell commands as another user with RunasCs
 - [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat

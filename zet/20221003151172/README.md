@@ -86,6 +86,7 @@
 
 # Related
 
+- [20221003150473](/zet/20221003150473/README.md) powershell tricks run powershell commands as another user with RunasCs
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
 - [20221013192245](/zet/20221013192245/README.md) cracking hashes
 - [20221013190422](/zet/20221013190422/README.md) headline exploits

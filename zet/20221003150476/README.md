@@ -5,7 +5,6 @@
 # Related
 
 - [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks
-
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d
 - [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
