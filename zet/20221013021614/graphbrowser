@@ -2,6 +2,10 @@
 MYID=20221013021614
 IMPL=20221006032546
 
+if [ -z "$EDITOR" ]; then
+  EDITOR=$(which nvim 2>/dev/null || which vim 2>/dev/null || which vi 2>/dev/null )
+fi
+
 # running preview subprocess
 if [ "$1" == "video" ]; then
   if [ "$3" == "stat" ]; then
@@ -9,7 +13,6 @@ if [ "$1" == "video" ]; then
   else
     bat --color=always $2
   fi
-
   exit 0
 fi
 
@@ -84,9 +87,6 @@ while [ 1 == "$going" ]; do
     doc="$prevdoc"
     echo "back to $doc"
   elif [ "$act" == "edit" ]; then
-    if [ -z "$EDITOR" ]; then
-      EDITOR=$(which nvim 2>/dev/null || which vim 2>/dev/null || which vi 2>/dev/null )
-    fi
     if [ ! -z $TMUX ]; then
       tmux new-window $EDITOR "$doc"
     else
@@ -104,6 +104,9 @@ while [ 1 == "$going" ]; do
     ./zc enrich_links_single $id
     ./zc enrich_links_single $newid
     sleep 1
+    if [ ! -z $TMUX ]; then
+      tmux new-window $EDITOR "zet/$newid/README.md"
+    fi
   fi
 done
 rm "$selection"
