@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150705](/zet/20221003150705/README.md) sqlmap custom injection marker specify exact SQL injection
 - [20221003150706](/zet/20221003150706/README.md) sqlmap custom injection marker
 - [20221003150709](/zet/20221003150709/README.md) sqlmap

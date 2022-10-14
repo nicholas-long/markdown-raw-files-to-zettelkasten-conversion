@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150807](/zet/20221003150807/README.md) brute force default credentials
 - [20221003150806](/zet/20221003150806/README.md) brute force default credentials mysql
 - [20221003150804](/zet/20221003150804/README.md) brute force default credentials tomcat

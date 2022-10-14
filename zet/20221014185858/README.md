@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150783](/zet/20221003150783/README.md) enum4linux Scan Host Suppress Errors
 - [20221003150786](/zet/20221003150786/README.md) enum4linux
 - [20221003150784](/zet/20221003150784/README.md) enum4linux Scan Host

@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150872](/zet/20221003150872/README.md) host quick server smtp receive email server
 - [20221003150873](/zet/20221003150873/README.md) host quick server
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub

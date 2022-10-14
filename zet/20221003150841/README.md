@@ -5,6 +5,7 @@ Set the --insecuressl flag.
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221014185834](/zet/20221014185834/README.md) kb file named kb/hacking/commands/gobuster.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix

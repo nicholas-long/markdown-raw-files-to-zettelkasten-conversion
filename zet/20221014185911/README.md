@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150730](/zet/20221003150730/README.md) powershell
 - [20221003150728](/zet/20221003150728/README.md) powershell base64 encode equivalent within ps
 - [20221003150729](/zet/20221003150729/README.md) powershell encode commands as base64 with windows wide char strings in linux

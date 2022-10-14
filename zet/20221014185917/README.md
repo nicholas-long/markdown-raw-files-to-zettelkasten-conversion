@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
 - [20221003150711](/zet/20221003150711/README.md) packet capture read pcap data with tshark
 - [20221003150714](/zet/20221003150714/README.md) packet capture with tcpdump watch traffic

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
 - [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module

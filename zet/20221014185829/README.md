@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm
 - [20221003150856](/zet/20221003150856/README.md) ssh-keygen generate key to file no password prompt
 - [20221003150862](/zet/20221003150862/README.md) SSH arguments

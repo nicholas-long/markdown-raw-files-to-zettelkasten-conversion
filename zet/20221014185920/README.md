@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150698](/zet/20221003150698/README.md) SNMP enumeration command
 - [20221003150696](/zet/20221003150696/README.md) SNMP enumeration command onesixtyone
 - [20221003150697](/zet/20221003150697/README.md) SNMP enumeration command snmpwalk 

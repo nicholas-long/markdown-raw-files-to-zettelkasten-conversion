@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221014185854](/zet/20221014185854/README.md) kb file named kb/hacking/commands/git.md
 - [20221014154703](/zet/20221014154703/README.md) lazygit program

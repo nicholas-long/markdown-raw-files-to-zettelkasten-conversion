@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150763](/zet/20221003150763/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) Bind Shell
 - [20221003150760](/zet/20221003150760/README.md) MSFVENOM Java Server Pages (.jsp)

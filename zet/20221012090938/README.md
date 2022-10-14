@@ -34,9 +34,7 @@
 # Related
 
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
-
 - [20221008061845](/zet/20221008061845/README.md) workflow
-
 - [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
 - [20221013203732](/zet/20221013203732/README.md) feels like "being plugged into the matrix"
 - [20221012101349](/zet/20221012101349/README.md) ubuntu

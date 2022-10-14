@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150811](/zet/20221003150811/README.md) wfuzz fuzzing details "X-Forwarded-For" header with custom IPS
 - [20221003150809](/zet/20221003150809/README.md) wfuzz fuzzing details show or hide responses containing text regex
 - [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details

@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150828](/zet/20221003150828/README.md) postgres sql enumeration list databases
 - [20221003150825](/zet/20221003150825/README.md) postgres sql enumeration connect to database
 - [20221003150824](/zet/20221003150824/README.md) postgres sql enumeration connect to database using file socket

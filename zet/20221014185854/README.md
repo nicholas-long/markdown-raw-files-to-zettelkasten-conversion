@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150798](/zet/20221003150798/README.md) git
 - [20221003150797](/zet/20221003150797/README.md) git recover orphaned commits and files and restore a directory after reset
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub

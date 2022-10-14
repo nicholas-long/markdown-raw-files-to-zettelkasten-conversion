@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150744](/zet/20221003150744/README.md) hydra brute force
 - [20221003150741](/zet/20221003150741/README.md) hydra brute force HTTP Post Request
 - [20221003150742](/zet/20221003150742/README.md) hydra brute force HTTP Get Request

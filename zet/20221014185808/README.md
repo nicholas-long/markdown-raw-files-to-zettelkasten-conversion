@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150911](/zet/20221003150911/README.md) linux enumeration quick commands get all file hashes in directory using find and md5sum
 - [20221003150910](/zet/20221003150910/README.md) linux enumeration quick commands get number of CPU processors
 - [20221003150907](/zet/20221003150907/README.md) linux enumeration quick commands transfer / download files with just bash

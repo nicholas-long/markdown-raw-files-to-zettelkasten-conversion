@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150731](/zet/20221003150731/README.md) feroxbuster files, backups, and extensions dynamic collection settings
 - [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting
 - [20221003150736](/zet/20221003150736/README.md) feroxbuster dirbusting big buster

@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 - [20221003151349](/zet/20221003151349/README.md) awk and bash scripting rename or move files
 - [20221003151348](/zet/20221003151348/README.md) awk and bash scripting rename or move files automatically programatically generate file names

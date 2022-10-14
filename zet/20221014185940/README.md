@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration
 - [20221003150635](/zet/20221003150635/README.md) smbmap
 - [20221003150633](/zet/20221003150633/README.md) smbmap default enumeration as guest

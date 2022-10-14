@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150720](/zet/20221003150720/README.md) curl
 - [20221003150718](/zet/20221003150718/README.md) curl upload a file
 - [20221003150719](/zet/20221003150719/README.md) curl scan ports for websites through http proxy

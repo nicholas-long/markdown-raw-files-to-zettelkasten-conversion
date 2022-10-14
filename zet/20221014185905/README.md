@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands
 - [20221003150746](/zet/20221003150746/README.md) impacket kerberos commands wmiexec
 - [20221003150753](/zet/20221003150753/README.md) kerbrute

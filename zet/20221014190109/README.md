@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150235](/zet/20221003150235/README.md) extract command for file type xz
 - [20221003150236](/zet/20221003150236/README.md) extract command for file type tar.xz
 - [20221003150234](/zet/20221003150234/README.md) extract command for file type asar

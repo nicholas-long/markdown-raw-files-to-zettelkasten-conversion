@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150630](/zet/20221003150630/README.md) LDAP enumeration
 - [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts
 - [20221003150625](/zet/20221003150625/README.md) LDAP enumeration authenticated

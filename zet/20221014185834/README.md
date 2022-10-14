@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150847](/zet/20221003150847/README.md) gobuster
 - [20221003150842](/zet/20221003150842/README.md) gobuster Slow Scan (Check File Extensions)
 - [20221003150845](/zet/20221003150845/README.md) gobuster scan files and discover backups

@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150821](/zet/20221003150821/README.md) hydra bruteforce ftp default creds
 - [20221003150820](/zet/20221003150820/README.md) hydra bruteforce ftp rockyou 50
 - [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp

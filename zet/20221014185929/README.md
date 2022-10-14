@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files
 - [20221003150668](/zet/20221003150668/README.md) crackmapexec cme commands enumerate shares accessable by user
 - [20221003150670](/zet/20221003150670/README.md) crackmapexec cme commands bruteforce SMB

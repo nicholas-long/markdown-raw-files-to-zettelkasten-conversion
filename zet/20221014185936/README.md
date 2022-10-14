@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150649](/zet/20221003150649/README.md) kubernetes kubectl enumerate permissions
 - [20221003150651](/zet/20221003150651/README.md) kubernetes
 - [20221003150650](/zet/20221003150650/README.md) kubernetes kubectl

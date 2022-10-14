@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150479](/zet/20221003150479/README.md) general enumeration what commands are available
 - [20221003150487](/zet/20221003150487/README.md) active directory get user account
 - [20221003150486](/zet/20221003150486/README.md) active directory get GMSA service account properties

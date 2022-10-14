@@ -10,7 +10,6 @@
 # Related
 
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
-
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151292](/zet/20221003151292/README.md) C template
 - [20221003150491](/zet/20221003150491/README.md) html template

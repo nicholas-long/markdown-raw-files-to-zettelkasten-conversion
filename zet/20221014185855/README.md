@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150793](/zet/20221003150793/README.md) generate cewl wordlist from file using temporary http server
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist

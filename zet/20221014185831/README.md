@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150854](/zet/20221003150854/README.md) dns commands reverse lookup with dig
 - [20221003150852](/zet/20221003150852/README.md) dns commands enumerate with ANY query
 - [20221003150855](/zet/20221003150855/README.md) dns commands

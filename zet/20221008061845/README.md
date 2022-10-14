@@ -14,6 +14,7 @@ hub node for `workflow`
 
 # Related
 
+- [20221012090938](/zet/20221012090938/README.md) my netbook
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014154703](/zet/20221014154703/README.md) lazygit program
