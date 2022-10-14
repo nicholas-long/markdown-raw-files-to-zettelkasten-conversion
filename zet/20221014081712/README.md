@@ -1,6 +1,8 @@
 # ways to get hacked
 
-- concept of `ways to get hacked`
+- it is probably not a good idea to run enrich steps
+- sign the scripts with hashes?
+- git hooks
 
 ```
 ```
@@ -9,6 +11,7 @@
 
 # Related
 
+- [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221013180230](/zet/20221013180230/README.md) session cookie or access token
