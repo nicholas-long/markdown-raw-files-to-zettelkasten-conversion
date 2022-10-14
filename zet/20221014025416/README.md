@@ -5,6 +5,7 @@
   - start at a template node
   - grab all neighboring nodes recursively that have `#template` tag
   - clone them, updating all IDs to match
+- would be really useful for OSCP AD network to be able to have multiple machine notes that could all be linked together somehow
 
 ```
 ```
