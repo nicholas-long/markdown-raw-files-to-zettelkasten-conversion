@@ -47,24 +47,6 @@ show this to Hayden later when he's not busy.
             - `viunlink`
     - create issues for things to fix and link to a new zettel for research and notes about it
 
-## using tools together in strange / convenient ways - examples - make a card
-
-- liveoverflow youtube link
-- git = good CMS with version control, similar to how a jekyll blog works
-    - commits = automatically writing a changelog?
-- zettelkasten
-    - graph consisting of real hyperlinks + github markdown rendering + web browser = interactive graph explorer
-- unix philosophy + library (book libary)
-    - text = data
-    - card catalog = graph (comp sci)
-- fzf + printing out card titles and their link titles = fuzzy search how ideas can be related to one another or for specific links between them
-- grep, awk + fzf = a search engine with like a prefilter for only relevant files?
-- github actions = commands to run on in (this) zettelkast "program"
-- an old tablet + a card = touchscreen ui
-- CGI + nginx path rewriting = API controllers?
-- vscode web with vim extension and vim behave slightly differently
-    - vim has plugin for highlighting, while vscode highlights the current word in other places in document
-
 ## ideas need to be explained and connected to relevant things - make a card
 
 - writing down and connecting ideas quickly means they can be cataloged for later processing somewhere else
@@ -130,6 +112,8 @@ show this to Hayden later when he's not busy.
 ` zet/20221008214406/README.md `
 
 # Related
+
+- [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
