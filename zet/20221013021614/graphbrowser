@@ -18,6 +18,7 @@ fi
 
 # main loop
 going=1
+export prevdoc="README.md" # quick way to fix a bug before it happens
 export doc="README.md"
 if [ ! -z "$1" ]; then
   export doc="$1"
@@ -37,12 +38,12 @@ while [ 1 == "$going" ]; do
       gsub(/^zet\//,"",id)
       gsub(/\/.*$/,"",id)
       if (id != "README.md") print "spawn", id
+      print "link"
+      print "unlink"
     } else {
       id = 0
     }
     print "stat"
-    print "link"
-    print "unlink"
     print "quit"
     fflush()
   }
@@ -57,7 +58,7 @@ while [ 1 == "$going" ]; do
   if [ "$act" == "quit" ]; then
     exit 0
   elif [ "$act" == "goto" ]; then
-    prevdoc="$doc"
+    export prevdoc="$doc"
     doc=$(awk '{
       gsub(/\).*$/,"")
       gsub(/^.*\(/,"")
@@ -84,7 +85,9 @@ while [ 1 == "$going" ]; do
     fi
     sleep 1
   elif [ "$act" == "back" ]; then
+    temp="$doc"
     doc="$prevdoc"
+    prevdoc="$temp" # would expect back to work again?
     echo "back to $doc"
   elif [ "$act" == "edit" ]; then
     if [ ! -z $TMUX ]; then
