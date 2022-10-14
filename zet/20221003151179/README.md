@@ -3,7 +3,7 @@
 - default creds hydra and `-e nsr`
 - nmap script checks: bounce and anon login
 - control port ( filezilla )
-- bounce attack?
+- bounce attack - in uncommon cases, it is possible to stuff other protocols over FTP to access hidden ports
 - Unauth enum enumerate commands with `HELP`
 - everything from everything list [EVERYTHING](EVERYTHING.md#everything)
 
@@ -11,9 +11,15 @@
 
 # Related
 
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
+
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
+
 - [20221014164014](/zet/20221014164014/README.md) protocol for application communication
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 
 Tags:
 
-    
+    #hacking #to-try-lists
