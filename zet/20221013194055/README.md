@@ -10,7 +10,6 @@
 # Related
 
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151275](/zet/20221003151275/README.md) install docker compose cli extension
 - [20221003150181](/zet/20221003150181/README.md) install alacritty  fix build errors
 - [20221003150214](/zet/20221003150214/README.md) kafkacat install alias for kcat
