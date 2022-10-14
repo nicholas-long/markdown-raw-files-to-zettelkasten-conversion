@@ -7,12 +7,14 @@
 
 # Related
 
+- [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts
+
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 - [20221003151153](/zet/20221003151153/README.md) windows
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
 - [20221003151144](/zet/20221003151144/README.md) active directory 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
-- [20221003151172](/zet/20221003151172/README.md) active directory domain
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 
 Tags:
 

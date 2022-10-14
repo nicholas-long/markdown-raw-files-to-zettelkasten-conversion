@@ -1,4 +1,4 @@
-# active directory domain
+# active directory domain to try list
 - sensitive content in file shares
 - anonymous ldap enumeration - nmap scripts
 - create username list with different formats to identify usernames
@@ -85,6 +85,8 @@
 ` zet/20221003151172/README.md `
 
 # Related
+
+- [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 
 - [20221003150473](/zet/20221003150473/README.md) powershell tricks run powershell commands as another user with RunasCs
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
