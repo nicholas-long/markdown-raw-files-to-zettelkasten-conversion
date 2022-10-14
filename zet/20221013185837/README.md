@@ -10,7 +10,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
 - [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin

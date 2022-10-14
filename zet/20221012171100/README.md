@@ -24,9 +24,6 @@ zet/20221012171100/README.md
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes
 - [20221013192245](/zet/20221013192245/README.md) cracking hashes
-- [20221013190422](/zet/20221013190422/README.md) headline exploits
-- [20221013190051](/zet/20221013190051/README.md) blue team
-- [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:

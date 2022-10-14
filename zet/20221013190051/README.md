@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 - [20221003150917](/zet/20221003150917/README.md) linux enumeration quick commands process tree ps
