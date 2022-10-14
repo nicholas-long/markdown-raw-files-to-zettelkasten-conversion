@@ -6,6 +6,7 @@ the concept of `programming language`
 
 # Related
 
+- [20221014205906](/zet/20221014205906/README.md) coding in golang
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
 - [20221003150255](/zet/20221003150255/README.md) solidity
 - [20221003150328](/zet/20221003150328/README.md) compile windows c++ binaries on linux

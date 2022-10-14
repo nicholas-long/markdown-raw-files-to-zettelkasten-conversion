@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221014190236](/zet/20221014190236/README.md) kb file named kb/fzf-fuzzy-find/help.md
 - [20221014153143](/zet/20221014153143/README.md) scroll preview window
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology

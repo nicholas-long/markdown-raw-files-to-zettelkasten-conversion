@@ -5,9 +5,7 @@
 # Related
 
 - [20221003151214](/zet/20221003151214/README.md) got leaked files
-
 - [20221003151213](/zet/20221003151213/README.md) got leaked files TRY
-
 - [20221014190016](/zet/20221014190016/README.md) kb file named kb/hacking/pwn/binary-analysis.md
 - [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

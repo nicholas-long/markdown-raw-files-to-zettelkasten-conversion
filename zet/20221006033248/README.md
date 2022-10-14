@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221014205906](/zet/20221014205906/README.md) coding in golang
 - [20221008214935](/zet/20221008214935/README.md) go language
 - [20221014074318](/zet/20221014074318/README.md) important choices of tech stack
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job

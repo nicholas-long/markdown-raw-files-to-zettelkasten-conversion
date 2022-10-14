@@ -73,6 +73,7 @@
 
 # Related
 
+- [20221008214935](/zet/20221008214935/README.md) go language
 - [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221008081231](/zet/20221008081231/README.md) debugging

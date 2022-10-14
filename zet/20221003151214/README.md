@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150517](/zet/20221003150517/README.md) binary analysis
 - [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
 - [20221003151164](/zet/20221003151164/README.md) SNMP

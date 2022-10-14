@@ -32,6 +32,7 @@ the livestream SKILSTAK Beginner Boost 2022 - Week 21 livestream
 
 # Related
 
+- [20221014205906](/zet/20221014205906/README.md) coding in golang
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221008214935](/zet/20221008214935/README.md) go language

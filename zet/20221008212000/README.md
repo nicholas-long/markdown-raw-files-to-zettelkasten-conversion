@@ -6,6 +6,7 @@ the concept of `coding / programming`
 
 # Related
 
+- [20221014205906](/zet/20221014205906/README.md) coding in golang
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221003150248](/zet/20221003150248/README.md) Azure AD connect
 - [20221013185120](/zet/20221013185120/README.md) crypto and blockchain stuff
