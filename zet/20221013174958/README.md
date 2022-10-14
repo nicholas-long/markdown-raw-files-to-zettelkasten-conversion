@@ -11,7 +11,6 @@
 # Related
 
 - [20221003150254](/zet/20221003150254/README.md) beacon object file BOF
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
 - [20221003150921](/zet/20221003150921/README.md) windows persistence and DLL hijacking locations
 - [20221008194048](/zet/20221008194048/README.md) good DLLs to hide in for sideloading
