@@ -2,6 +2,8 @@
 
 - the command `bat`
 - https://github.com/sharkdp/bat
+- included release package in this directory
+  - update with new versions
 
 ```
 ```

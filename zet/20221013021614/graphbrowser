@@ -108,8 +108,8 @@ while [ 1 == "$going" ]; do
   elif [ "$act" == "/deep" ]; then
     if [ -z $TMUX ]; then
       newid=$(zet/$MYID/connectome_deep | fzf | awk '{print $1}')
-      export $prevdoc="$doc"
-      export $doc=zet/$newid/README.md
+      export prevdoc="$doc"
+      export doc=zet/$newid/README.md
     else
       tf=$(mktemp)
       zet/$MYID/connectome_deep | fzf -m | awk '{print $1}' | sort -u > $tf
