@@ -16,6 +16,7 @@
   - spiral? linkages between events and linkages to outside concepts
 - use notes to organize and produce own videos?
 - flowcharts and decision trees
+- generate a cool video by checking out commits iteratively and watch graph grow in obsidian
 
 ## move this stuff to cards it is growing kinda big
 
