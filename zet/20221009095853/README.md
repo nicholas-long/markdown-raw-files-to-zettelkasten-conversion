@@ -6,6 +6,7 @@ things that are finished.
 
 # Related
 
+- [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes
 - [20221013195816](/zet/20221013195816/README.md) ability to spawn from an existing card
 - [20221012102144](/zet/20221012102144/README.md) preview window for menu

@@ -8,7 +8,6 @@ done.
 # Related
 
 - [20221009095853](/zet/20221009095853/README.md) finished
-
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
