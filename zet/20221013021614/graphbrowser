@@ -5,6 +5,9 @@ IMPL=20221006032546
 if [ -z "$EDITOR" ]; then
   EDITOR=$(which nvim 2>/dev/null || which vim 2>/dev/null || which vi 2>/dev/null )
 fi
+if [ -z "$prog" ]; then
+  prog="./zc"
+fi
 
 # running preview subprocess
 if [ "$1" == "video" ]; then
@@ -75,13 +78,13 @@ while [ 1 == "$going" ]; do
       }
     ' "$doc" | fzf > "$selection"
     if [ ! -z "$id" ]; then
-      zet/$IMPL/parseids $selection | sort -u | xargs -n 1 zet/$IMPL/zetcmd unlink "$id"
+      zet/$IMPL/parseids $selection | sort -u | xargs -n 1 $prog unlink "$id"
     fi
     sleep 1
   elif [ "$act" == "link" ]; then
-    zet/$IMPL/zetcmd connectome -m | awk '{print $1}' > $selection
+    $prog connectome -m | awk '{print $1}' > $selection
     if [ ! -z "$id" ]; then
-      zet/$IMPL/parseids $selection | sort -u | xargs -n 1 zet/$IMPL/zetcmd addref -t "$id"
+      zet/$IMPL/parseids $selection | sort -u | xargs -n 1 $prog addref -t "$id"
     fi
     ./zc enrich_links_single "$id"
     sleep 1
