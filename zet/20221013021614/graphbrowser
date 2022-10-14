@@ -147,7 +147,7 @@ while [ 1 == "$going" ]; do
     fi
   elif [ "$act" == "enrich" ]; then
     echo "are you sure? you should make sure you save your changes to git first."
-    read -q answer
+    read -p answer
     if [ $answer == "y" ]; then
       $prog enrich
       $prog enrich
