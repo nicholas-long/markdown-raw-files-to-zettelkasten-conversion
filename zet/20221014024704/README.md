@@ -810,6 +810,14 @@
 
 # Related
 
+- 20221013035124
+
+- 20221009192000
+
+- 20221008054439
+
+- 20221006013612
+
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes
 
