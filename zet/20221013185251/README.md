@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
 - [20221003150993](/zet/20221003150993/README.md) how GraphQL APIs work
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file

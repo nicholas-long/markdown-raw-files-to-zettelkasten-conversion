@@ -6,6 +6,7 @@ concept of a todo list.
 
 # Related
 
+- [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
 - [20221010071719](/zet/20221010071719/README.md) nodes to add
@@ -16,9 +17,9 @@ concept of a todo list.
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221008042814](/zet/20221008042814/README.md) WIP
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
-- [20221003151198](/zet/20221003151198/README.md) SMB
+- [20221003151198](/zet/20221003151198/README.md) SMB to try list
 - [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet

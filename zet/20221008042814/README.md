@@ -6,6 +6,8 @@ stuff i am working on.
 
 # Related
 
+- [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
+- [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221014201909](/zet/20221014201909/README.md) add lazygit to dockerfile for zet cmd
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221014062642](/zet/20221014062642/README.md) organize OSCP related notes

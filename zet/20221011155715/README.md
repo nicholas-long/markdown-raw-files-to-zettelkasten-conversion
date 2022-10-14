@@ -9,10 +9,9 @@
 
 # Related
 
+- [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
-
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
-
 - [20221011192157](/zet/20221011192157/README.md) cool names for the project
 - [20221012070358](/zet/20221012070358/README.md) recording and logging
 - [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
