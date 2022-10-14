@@ -25,6 +25,7 @@
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - [20221006214142](/zet/20221006214142/README.md) streamers
 - [20221006214348](/zet/20221006214348/README.md) ippsec
+- https://www.youtube.com/c/InsiderPhD
 
 Tags:
 

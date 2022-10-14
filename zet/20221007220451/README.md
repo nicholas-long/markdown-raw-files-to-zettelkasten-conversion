@@ -12,6 +12,8 @@ hacking notes hub
 
 # Related
 
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
+
 - [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
 - [20221013214821](/zet/20221013214821/README.md) check for command injection
 - [20221003150117](/zet/20221003150117/README.md) OSI networking model
@@ -174,7 +176,7 @@ hacking notes hub
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - [20221003151144](/zet/20221003151144/README.md) active directory 
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS
-- [20221003151172](/zet/20221003151172/README.md) active directory domain
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old
 - [20221003151127](/zet/20221003151127/README.md) active directory  delegation
 - [20221003151137](/zet/20221003151137/README.md) active directory  sensitive files

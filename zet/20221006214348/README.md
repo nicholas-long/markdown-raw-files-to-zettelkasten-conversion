@@ -26,6 +26,7 @@ ippsec
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221006213311](/zet/20221006213311/README.md) hackthebox
 - [20221006214142](/zet/20221006214142/README.md) streamers
+- https://www.youtube.com/c/ippsec
 
 Tags:
 

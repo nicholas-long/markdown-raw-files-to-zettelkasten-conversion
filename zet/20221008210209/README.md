@@ -9,6 +9,8 @@ according to rwxrob, nim makes smaller wasm binaries than rust.
 
 # Related
 
+- [20221014155450](/zet/20221014155450/README.md) nim language
+
 - [20221008212519](/zet/20221008212519/README.md) programming language
 - [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
 - [20221003151023](/zet/20221003151023/README.md) analyzing source code

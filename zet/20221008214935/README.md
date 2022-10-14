@@ -6,6 +6,8 @@ the concept of the `go programming language`
 
 # Related
 
+- [20221006033248](/zet/20221006033248/README.md) rwxrob
+
 - [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
 - [20221008215739](/zet/20221008215739/README.md) go packages have checksums
 - [20221008212519](/zet/20221008212519/README.md) programming language
