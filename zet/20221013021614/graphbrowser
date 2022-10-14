@@ -99,8 +99,8 @@ while [ 1 == "$going" ]; do
     echo "spawned $newid"
     sleep 1
     id=$(echo "$doc" | awk -F / '{print $(NF-1)}')
-    $0 enrich_links_single $newid
-    $0 enrich_links_single $id
+    zet/$IMPL/zetcmd enrich_links_single $newid
+    zet/$IMPL/zetcmd enrich_links_single $id
     sleep 1
   fi
 done
