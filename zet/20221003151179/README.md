@@ -12,11 +12,8 @@
 # Related
 
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING
-
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
-
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
-
 - [20221014164014](/zet/20221014164014/README.md) protocol for application communication
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 

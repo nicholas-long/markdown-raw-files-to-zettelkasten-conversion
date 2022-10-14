@@ -10,13 +10,10 @@
 
 # Related
 
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
 - [20221003151193](/zet/20221003151193/README.md) HTTP
-
 - [20221003151176](/zet/20221003151176/README.md) email POP3 / IMAP
-
-
 - [20221003150840](/zet/20221003150840/README.md) gobuster vhost enumeration
-
 - [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
 - [20221003150550](/zet/20221003150550/README.md) Sub domain Enum
 - [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup

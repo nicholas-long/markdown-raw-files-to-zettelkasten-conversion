@@ -10,6 +10,7 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 
 # Related
 
+- [20221003151179](/zet/20221003151179/README.md) FTP
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING
@@ -47,7 +48,7 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 - [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
-- [20221003151198](/zet/20221003151198/README.md) SMB
+- [20221003151198](/zet/20221003151198/README.md) SMB to try list
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation

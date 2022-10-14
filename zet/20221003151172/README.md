@@ -86,6 +86,7 @@
 
 # Related
 
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
