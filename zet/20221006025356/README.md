@@ -6,6 +6,8 @@ linux reference links and concepts
 
 # Related
 
+- [20221014074852](/zet/20221014074852/README.md) KISS principle of engineering and design
+- [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send

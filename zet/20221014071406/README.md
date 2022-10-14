@@ -25,6 +25,8 @@
 
 # Related
 
+- [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
+- [20221014074852](/zet/20221014074852/README.md) KISS principle of engineering and design
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221008054439](/zet/20221008054439/README.md) graph database

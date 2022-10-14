@@ -12,6 +12,8 @@
 
 # Related
 
+- [20221014074318](/zet/20221014074318/README.md) important choices of tech stack
+- [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221006214142](/zet/20221006214142/README.md) streamers
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten

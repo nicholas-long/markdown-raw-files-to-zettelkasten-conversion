@@ -5,8 +5,9 @@ this is a node you can attach things to in order to indicate that they should go
 a script will check to see if the ID numbers appear on the main README.
 
 ```
-Reference count:  29 of 28
+Reference count:  29 of 29
 Missing:
+20221014074726
 20221014024704
 20221013204452
 20221013035616
@@ -16,6 +17,7 @@ Missing:
 
 # Related
 
+- [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
 - [20221014024704](/zet/20221014024704/README.md) list of sparse nodes
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221013035616](/zet/20221013035616/README.md) fun

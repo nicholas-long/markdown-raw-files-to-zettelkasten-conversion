@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014074852](/zet/20221014074852/README.md) KISS principle of engineering and design
 - [20221003150323](/zet/20221003150323/README.md) crowdstrike falcon
 - [20221003150322](/zet/20221003150322/README.md) cyber reason
 - [20221003150317](/zet/20221003150317/README.md) malwarebytes

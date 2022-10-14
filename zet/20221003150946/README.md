@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
 - [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag
 - [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup
 - [20221003151339](/zet/20221003151339/README.md) enumerate all python imports; chain 2 awk scripts with a filter

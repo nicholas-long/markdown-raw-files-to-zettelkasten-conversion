@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221014074852](/zet/20221014074852/README.md) KISS principle of engineering and design
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003150175](/zet/20221003150175/README.md) ex commands  Some of these might apply to ed as well
 - [20221006010531](/zet/20221006010531/README.md) sed scripts

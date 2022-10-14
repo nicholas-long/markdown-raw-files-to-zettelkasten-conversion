@@ -9,6 +9,7 @@ the concept of a `file path`
 
 # Related
 
+- [20221014074318](/zet/20221014074318/README.md) important choices of tech stack
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221003150132](/zet/20221003150132/README.md) find file with name matching regular expression
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file

@@ -24,6 +24,7 @@
 
 # Related
 
+- [20221014074318](/zet/20221014074318/README.md) important choices of tech stack
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
