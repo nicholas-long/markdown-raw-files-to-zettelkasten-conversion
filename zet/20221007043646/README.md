@@ -106,25 +106,11 @@
   - concept hub for todo lists - all todo lists there
   - nodes for todo, WIP, done ~ issue tracking
 
-- distinct workflow operations i do - make a card
-  - searching
-    - learning and distilling
-    - googling
-    - fuzzy finding
-    - grep text or data files
-  - analyzing
-    - focusing
-    - organizing
-      - prioritizing
-        - sorting links
-        - sorting content
-      - connecting cards
-  - experimenting - heckin around with commands on the terminal or within vim
-    - scripting
-
 ` zet/20221007043646/README.md `
 
 # Related
+
+- [20221014023054](/zet/20221014023054/README.md) distinct workflow operations
 
 - [20221013180437](/zet/20221013180437/README.md) differences organizing zettelkasten in graph vs files in hierarchy
 - [20221008042814](/zet/20221008042814/README.md) WIP
