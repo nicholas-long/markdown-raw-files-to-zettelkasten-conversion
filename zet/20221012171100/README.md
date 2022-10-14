@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221014183030](/zet/20221014183030/README.md) create cards for kb files
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221014164014](/zet/20221014164014/README.md) protocol for application communication
 - [20221014160551](/zet/20221014160551/README.md) terminal emulator program

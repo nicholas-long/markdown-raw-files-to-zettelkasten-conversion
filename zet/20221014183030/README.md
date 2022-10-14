@@ -15,12 +15,10 @@ newid=$(./zc new -t "$title" -r "$id" | awk '/created zet ID/ { print $NF }')
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - 
-
 - [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents
-
 - [20221008042814](/zet/20221008042814/README.md) WIP
-
 - [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully
 
 Tags:

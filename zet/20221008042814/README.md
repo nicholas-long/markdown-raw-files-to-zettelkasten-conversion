@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221014183030](/zet/20221014183030/README.md) create cards for kb files
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221014062642](/zet/20221014062642/README.md) organize OSCP related notes
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten

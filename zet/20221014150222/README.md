@@ -22,6 +22,7 @@ echo list of references is at zet/20221014150222/kb_references
 
 # Related
 
+- [20221014183030](/zet/20221014183030/README.md) create cards for kb files
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
 - [20221014062642](/zet/20221014062642/README.md) organize OSCP related notes
 - [20221009095853](/zet/20221009095853/README.md) finished
