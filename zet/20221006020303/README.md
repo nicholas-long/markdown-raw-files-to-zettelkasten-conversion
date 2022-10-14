@@ -18,6 +18,8 @@
   - one instance of what i was calling a "concept"
 - most note taking software does not automatically insert backlinks but will show them in a UI somewhere
   - but i want this to work anywhere - keep backlinks, but the text could literally say `BACKLINK` or something
+- don't need working notes if able to pay attention and focus on computer, can jump to notes
+  - can jot down notes in proper places in this system
 
 ` zet/20221006020303/README.md `
 

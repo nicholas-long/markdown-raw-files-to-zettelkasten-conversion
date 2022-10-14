@@ -9,6 +9,8 @@ the concept of `ability to clone cards`
 
 # Related
 
+- [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
+
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - https://github.com/nicholas-long/markdown-raw-files-to-zettelkasten-conversion/issues/7
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
