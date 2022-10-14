@@ -11,6 +11,18 @@
 newid=$(./zc new -t "$title" -r "$id" | awk '/created zet ID/ { print $NF }')
 ```
 
+- script
+```bash
+
+for f in $(cat zet/20221014150222/list_of_kb_files)
+do
+  kbid=20221003151443
+  title="kb file named $f"
+  ./zc new -t "$title" -r "$kbid" | awk '/created zet ID/ { print $NF }'
+done
+
+```
+
 ` zet/20221014183030/README.md `
 
 # Related
