@@ -27,7 +27,6 @@ stuff i am working on.
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
-- [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221010155109](/zet/20221010155109/README.md) add link titles to youtube or some other links
 - [20221010153630](/zet/20221010153630/README.md) make symlinks for markdown titles for search optimization
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
