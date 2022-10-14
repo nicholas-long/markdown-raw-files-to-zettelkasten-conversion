@@ -109,7 +109,7 @@ while [ 1 == "$going" ]; do
       export $doc=zet/$newid/README.md
     else
       tf=$(mktemp)
-      zet/$MYID/connectome_deep | fzf -m | awk '{print $1}' > $tf
+      zet/$MYID/connectome_deep | fzf -m | awk '{print $1}' | sort -u > $tf
       for f in $(cat $tf); do
         tmux new-window -n 'explore' $0 zet/$f/README.md
       done

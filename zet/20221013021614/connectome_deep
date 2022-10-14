@@ -15,7 +15,8 @@ related && /^- / {
   for (n=0;n<rl;n++) {
     print id, heading, $0, relatedlines[n]
   }
-  if (rl < 5) relatedlines[rl++] = $0
+  #if the knowledge base gets too big and search is slow, edit this ?
+  if (rl < 9) relatedlines[rl++] = $0
 }
 !gotheading && /^# / {
   gsub(/^# /,"")
