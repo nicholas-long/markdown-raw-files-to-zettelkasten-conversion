@@ -9,6 +9,24 @@
 
 # Related
 
+- [20221014185751](/zet/20221014185751/README.md) kb file named kb/hacking/python/fix-ssl.md
+
+- [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
+
+- [20221003150949](/zet/20221003150949/README.md) python fix SSL errors
+
+- [20221003150841](/zet/20221003150841/README.md) gobuster fix HTTPS cert errors
+
+- [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
+
+- [20221003150299](/zet/20221003150299/README.md) fixing golang module errors
+
+- [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
+
+- [20221003150202](/zet/20221003150202/README.md) fix grub not showing windows partition
+
+- [20221003150181](/zet/20221003150181/README.md) install alacritty  fix build errors
+
 - [20221014190259](/zet/20221014190259/README.md) kb file named kb/bash-scripting/tricks.md
 - [20221014190158](/zet/20221014190158/README.md) kb file named kb/linux/cyberpunk-retro-machine-serial-terminals.md
 - [20221014190050](/zet/20221014190050/README.md) kb file named kb/hacking/misc/bruteforcing-tools.md
