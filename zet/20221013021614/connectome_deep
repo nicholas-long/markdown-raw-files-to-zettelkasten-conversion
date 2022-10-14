@@ -1,0 +1,28 @@
+#!/bin/bash
+
+awk '
+BEGINFILE {
+  rl=related=gotheading=0
+  id = FILENAME
+  gsub(/^zet\//,"",id)
+  gsub(/\/.*$/,"",id)
+}
+$0 ~ /^ *$/ { next }
+gotheading {
+  print id, heading, $0
+}
+related && /^- / {
+  for (n=0;n<rl;n++) {
+    print id, heading, $0, relatedlines[n]
+  }
+  if (rl < 5) relatedlines[rl++] = $0
+}
+!gotheading && /^# / {
+  gsub(/^# /,"")
+  heading = $0
+  gotheading=1
+}
+gotheading && /^# [Rr]elated/ {
+  related=1
+}
+' $(find zet -name README.md)

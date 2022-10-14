@@ -31,6 +31,7 @@ while [ 1 == "$going" ]; do
   awk '
   BEGIN {
     print "edit"
+    print "/deep"
     print "back"
     if (ENVIRON["TMUX"] ~ /tmux/) {
       print "tab"
@@ -101,6 +102,19 @@ while [ 1 == "$going" ]; do
     fi
   elif [ "$act" == "tab" ]; then
     tmux new-window $0 "$doc"
+  elif [ "$act" == "/deep" ]; then
+    if [ -z $TMUX ]; then
+      newid=$(zet/$MYID/connectome_deep | fzf | awk '{print $1}')
+      export $prevdoc="$doc"
+      export $doc=zet/$newid/README.md
+    else
+      tf=$(mktemp)
+      zet/$MYID/connectome_deep | fzf -m | awk '{print $1}' > $tf
+      for f in $(cat $tf); do
+        tmux new-window -n 'explore' $0 zet/$f/README.md
+      done
+      rm "$tf"
+    fi
   elif [ "$act" == "spawn" ]; then
     id=$(echo "$doc" | awk -F / '{print $(NF-1)}')
     read -p "enter title> " title
