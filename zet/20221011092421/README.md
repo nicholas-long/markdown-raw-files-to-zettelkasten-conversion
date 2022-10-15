@@ -15,6 +15,8 @@ to do next:
 
 # Related
 
+- [20221015004120](/zet/20221015004120/README.md) ippsec video hackthebox machine opensource
+
 - [20221003150117](/zet/20221003150117/README.md) OSI networking model
 - [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
 - [20221003150317](/zet/20221003150317/README.md) malwarebytes

@@ -52,6 +52,8 @@ timestamps from youtube
 
 # Related
 
+- [20221011092421](/zet/20221011092421/README.md) hacking video notes
+
 - [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
 - [20221003151144](/zet/20221003151144/README.md) active directory 
