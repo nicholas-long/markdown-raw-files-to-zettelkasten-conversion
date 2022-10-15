@@ -14,9 +14,10 @@ hub node for `workflow`
 
 # Related
 
+- [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
 - [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
-- [20221012090938](/zet/20221012090938/README.md) my netbook
+- [20221012090938](/zet/20221012090938/README.md) my One Mix netbook
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014154703](/zet/20221014154703/README.md) lazygit program

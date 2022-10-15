@@ -13,7 +13,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video
 - [20221003151442](/zet/20221003151442/README.md) Box drawing ascii unicode characters
 - [20221009014200](/zet/20221009014200/README.md) concept of a command

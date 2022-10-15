@@ -11,23 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
-- [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video
-- [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
-- [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY
-- [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
-- [20221015024515](/zet/20221015024515/README.md) concept of repeating something periodically
-- [20221015024136](/zet/20221015024136/README.md) cron
-- [20221015022512](/zet/20221015022512/README.md) password reuse to try list
-- [20221015021344](/zet/20221015021344/README.md) graph explorer does not let you add 0 links or back out of link screen
-- [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores
-- [20221015015106](/zet/20221015015106/README.md) concept of psychology
-- [20221015015059](/zet/20221015015059/README.md) concept of mindfulness
-- [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
-- [20221015012530](/zet/20221015012530/README.md) rabbit holes
-- [20221015011525](/zet/20221015011525/README.md) my notes for opensource machine - steps
-- [20221015011227](/zet/20221015011227/README.md) make writeups from cards
-- [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
-- [20221015010704](/zet/20221015010704/README.md) things that need splitting up
+- [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:

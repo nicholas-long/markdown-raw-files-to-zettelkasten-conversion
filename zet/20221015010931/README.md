@@ -10,7 +10,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221015011227](/zet/20221015011227/README.md) make writeups from cards
 - [20221011134623](/zet/20221011134623/README.md) note taking template for heckin boxes

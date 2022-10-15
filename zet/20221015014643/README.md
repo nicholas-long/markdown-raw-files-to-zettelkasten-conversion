@@ -18,7 +18,6 @@
 # Related
 
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list
 - [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks )
 - [20221003151177](/zet/20221003151177/README.md) Stuck to try list

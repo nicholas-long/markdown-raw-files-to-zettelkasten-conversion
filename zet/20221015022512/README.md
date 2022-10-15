@@ -15,7 +15,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221011181629](/zet/20221011181629/README.md) usernames
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists

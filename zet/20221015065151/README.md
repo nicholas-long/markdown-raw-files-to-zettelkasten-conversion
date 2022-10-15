@@ -31,7 +31,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221015005745](/zet/20221015005745/README.md) python coding
 - [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
 - [20221012070318](/zet/20221012070318/README.md) linux terminal

@@ -9,6 +9,7 @@ the concept of something that is broken.
 
 # Related
 
+- [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
 - [20221003150348](/zet/20221003150348/README.md) troubleshooting fix error ValueError: unsupported hash type MD4 python hashlib openssl conf
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150202](/zet/20221003150202/README.md) fix grub not showing windows partition
