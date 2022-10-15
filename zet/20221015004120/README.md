@@ -3,7 +3,8 @@
 - i did this machine - going to watch for inspiration
 - os.path.join
 - automatically reloading web server
-- 
+- tried writing crontabs - no dice
+  - the docker container is not running cron, only running one program
 - 
 - 
 - 
