@@ -73,6 +73,8 @@
 
 # Related
 
+- [20221015010704](/zet/20221015010704/README.md) things that need splitting up
+
 - [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 - [20221008214935](/zet/20221008214935/README.md) go language
 - [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells
