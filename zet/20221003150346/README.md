@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221014190050](/zet/20221014190050/README.md) kb file named kb/hacking/misc/bruteforcing-tools.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150345](/zet/20221003150345/README.md) SSH brute force command shortlist from hacktricks

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - [20221008212519](/zet/20221008212519/README.md) programming language
 - [20221008194048](/zet/20221008194048/README.md) good DLLs to hide in for sideloading

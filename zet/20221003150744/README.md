@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221014185908](/zet/20221014185908/README.md) kb file named kb/hacking/commands/hydra.md
 - [20221003150347](/zet/20221003150347/README.md) bruteforcing services
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

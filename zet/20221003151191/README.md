@@ -36,6 +36,7 @@
 
 # Related
 
+- [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
 - [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks )

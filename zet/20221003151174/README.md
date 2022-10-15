@@ -17,6 +17,7 @@
 
 # Related
 
+- [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221014185628](/zet/20221014185628/README.md) kb file named kb/hacking/to-try-lists/SSH.md
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING

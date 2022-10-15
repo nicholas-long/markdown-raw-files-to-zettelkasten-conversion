@@ -21,6 +21,7 @@
 
 # Related
 
+- [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING
 - [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

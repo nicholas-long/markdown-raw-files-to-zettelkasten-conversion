@@ -11,6 +11,10 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221015015106](/zet/20221015015106/README.md) concept of psychology
+- [20221015015059](/zet/20221015015059/README.md) concept of mindfulness
+- [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
+- [20221015012530](/zet/20221015012530/README.md) rabbit holes
 - [20221015011525](/zet/20221015011525/README.md) my notes for opensource machine - steps
 - [20221015011227](/zet/20221015011227/README.md) make writeups from cards
 - [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes

@@ -8,6 +8,7 @@
 
 # Related
 
+- [20221015012530](/zet/20221015012530/README.md) rabbit holes
 - [20221014062642](/zet/20221014062642/README.md) organize OSCP related notes
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
@@ -63,7 +64,7 @@
 - [20221003150857](/zet/20221003150857/README.md) ssh-keygen
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list
-- [20221003151198](/zet/20221003151198/README.md) SMB
+- [20221003151198](/zet/20221003151198/README.md) SMB to try list
 - [20221003150312](/zet/20221003150312/README.md) SMB
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151261](/zet/20221003151261/README.md) build windows exploit on linux using mingw
@@ -101,7 +102,7 @@
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory
 - [20221003151136](/zet/20221003151136/README.md) active directory  mindset and methodology
 - [20221003151137](/zet/20221003151137/README.md) active directory  sensitive files
-- [20221003151172](/zet/20221003151172/README.md) active directory domain
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS
 - [20221003151144](/zet/20221003151144/README.md) active directory 
 - [20221003150488](/zet/20221003150488/README.md) active directory

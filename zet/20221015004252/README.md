@@ -10,7 +10,6 @@
 # Related
 
 - [20221009015558](/zet/20221009015558/README.md) docker
-
 - [20221015011525](/zet/20221015011525/README.md) my notes for opensource machine - steps
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis
 - [20221003151023](/zet/20221003151023/README.md) analyzing source code
