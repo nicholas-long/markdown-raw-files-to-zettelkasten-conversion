@@ -5,7 +5,8 @@
 - automatically reloading web server
 - tried writing crontabs - no dice
   - the docker container is not running cron, only running one program
-- i would use this git status --porcelain command in scripts - linking to some scripts
+- i would use this `git status --porcelain` command in scripts - linking to some scripts
+  - can use it with `!` ( not ) in if statements: `if !git status --porcelain`
 - 
 - 
 - 
