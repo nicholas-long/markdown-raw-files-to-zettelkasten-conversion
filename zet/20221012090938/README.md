@@ -1,10 +1,10 @@
-# my netbook
+# my One Mix netbook
 
 - basically a cyberdeck
   - usable touchscreen linux system
   - size of mini tablet screen with full intel/amd PC
     - could probably be built ARM instead but it came out before that trend
-  - hardware `One Mix`
+  - hardware
     - came with windows 10
     - windows 11 might be okay for it but 10 wasn't great
   - touchscreen works in alacritty and some other terminal emulators
@@ -16,6 +16,7 @@
     - hours and hours in just terminal doing light editing work
   - ubuntu does not remember that i want the screen rotated to normal computer mode
     - had that problem with kali too. fixed in x display settings by diagnosing xorg log?
+    - [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
   - keyboard kinda cramped
     - vim is actually the only way it's practical to type or edit anything
   - touchpad C mouse lol - terrible
@@ -33,6 +34,8 @@
 
 # Related
 
+- [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
+
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
@@ -42,6 +45,7 @@
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [20221012094712](/zet/20221012094712/README.md) strange issues with sort and locale and tags
 - [20221012090359](/zet/20221012090359/README.md) first post from netbook
+- link to product
 
 Tags:
 
