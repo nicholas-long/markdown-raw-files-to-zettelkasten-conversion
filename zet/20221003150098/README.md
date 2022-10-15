@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221015021344](/zet/20221015021344/README.md) graph explorer does not let you add 0 links or back out of link screen
 - [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores
 - [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
 - [20221015011227](/zet/20221015011227/README.md) make writeups from cards

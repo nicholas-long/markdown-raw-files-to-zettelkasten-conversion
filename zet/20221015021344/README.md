@@ -9,10 +9,9 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003150098](/zet/20221003150098/README.md) todo
-
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
-
 - [20221006032933](/zet/20221006032933/README.md) problems / issues with zet cmd
 
 Tags:

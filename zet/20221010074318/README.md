@@ -10,7 +10,6 @@ something i've been thinking about this year.
 # Related
 
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
-
 - [20221006010531](/zet/20221006010531/README.md) sed scripts
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

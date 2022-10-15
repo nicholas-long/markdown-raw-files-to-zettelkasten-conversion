@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221015021344](/zet/20221015021344/README.md) graph explorer does not let you add 0 links or back out of link screen
 - [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores
 - [20221015015106](/zet/20221015015106/README.md) concept of psychology
 - [20221015015059](/zet/20221015015059/README.md) concept of mindfulness

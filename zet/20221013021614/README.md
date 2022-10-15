@@ -18,6 +18,7 @@ ln -s zet/20221013021614/ browser
 
 # Related
 
+- [20221015021344](/zet/20221015021344/README.md) graph explorer does not let you add 0 links or back out of link screen
 - [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
 - [20221014153143](/zet/20221014153143/README.md) scroll preview window
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
