@@ -21,9 +21,7 @@
 # Related
 
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
-
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands
-
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
