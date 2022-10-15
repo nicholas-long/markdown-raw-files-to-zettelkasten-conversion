@@ -11,6 +11,12 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221015005745](/zet/20221015005745/README.md) python coding
+- [20221015005557](/zet/20221015005557/README.md) python library
+- [20221015005535](/zet/20221015005535/README.md) werkzeug
+- [20221015005249](/zet/20221015005249/README.md) gitlab
+- [20221015005218](/zet/20221015005218/README.md) git web interfaces
+- [20221015004916](/zet/20221015004916/README.md) gitea
 - [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221015000510](/zet/20221015000510/README.md) create install script for zet command

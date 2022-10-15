@@ -6,6 +6,9 @@ the concept of a `program`
 
 # Related
 
+- [20221015004916](/zet/20221015004916/README.md) gitea
+- [20221015005249](/zet/20221015005249/README.md) gitlab
+- [20221015005557](/zet/20221015005557/README.md) python library
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221003150080](/zet/20221003150080/README.md) ctrl H does not work as a hotkey in qterminal by default 
 - [20221014160244](/zet/20221014160244/README.md) qterminal terminal emulator program

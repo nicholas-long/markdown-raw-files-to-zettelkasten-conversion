@@ -8,6 +8,7 @@ the concept of `www - the web`
 
 # Related
 
+- [20221015005535](/zet/20221015005535/README.md) werkzeug
 - [20221003151408](/zet/20221003151408/README.md) bash scripting parse burpsuite saved request file and convert to python requests script for copying
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221003150291](/zet/20221003150291/README.md) apache 2fa default key

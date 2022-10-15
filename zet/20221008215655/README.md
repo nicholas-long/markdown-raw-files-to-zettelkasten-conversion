@@ -6,6 +6,7 @@ the concept of `user account`
 
 # Related
 
+- [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
@@ -14,7 +15,7 @@ the concept of `user account`
 - [20221013185406](/zet/20221013185406/README.md) etc passwd file on linux
 - [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat
 - [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
-- [20221013180230](/zet/20221013180230/README.md) session cookie or access token
+- [20221013180230](/zet/20221013180230/README.md) session cookie, API key, or access token
 - [20221013180125](/zet/20221013180125/README.md) concept of a cookie
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf

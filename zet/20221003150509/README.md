@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221015005745](/zet/20221015005745/README.md) python coding
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221014190021](/zet/20221014190021/README.md) kb file named kb/hacking/pwn/python-tricks.md
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution

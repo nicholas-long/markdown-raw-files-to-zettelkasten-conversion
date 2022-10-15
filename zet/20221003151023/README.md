@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221015004252](/zet/20221015004252/README.md) htb opensource machine
+- [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221014185726](/zet/20221014185726/README.md) kb file named kb/hacking/methodology/source-analysis.md
 - [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells
 - [20221008210209](/zet/20221008210209/README.md) nim makes smaller wasm binaries than rust

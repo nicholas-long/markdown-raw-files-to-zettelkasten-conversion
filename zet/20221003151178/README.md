@@ -73,6 +73,7 @@
 
 # Related
 
+- [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 - [20221008214935](/zet/20221008214935/README.md) go language
 - [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY

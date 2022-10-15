@@ -6,6 +6,7 @@ the concept of `coding / programming`
 
 # Related
 
+- [20221015005557](/zet/20221015005557/README.md) python library
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014205906](/zet/20221014205906/README.md) coding in golang
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples

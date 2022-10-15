@@ -9,6 +9,9 @@ the concept of `website`
 
 # Related
 
+- [20221015005249](/zet/20221015005249/README.md) gitlab
+- [20221015005535](/zet/20221015005535/README.md) werkzeug
+- [20221015004916](/zet/20221015004916/README.md) gitea
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221003150248](/zet/20221003150248/README.md) Azure AD connect
 - [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag

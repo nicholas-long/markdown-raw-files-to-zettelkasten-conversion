@@ -6,6 +6,7 @@ pip3 install git-dumper
 
 # Related
 
+- [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 
 Tags:
