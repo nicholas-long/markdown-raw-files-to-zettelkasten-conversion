@@ -24,8 +24,9 @@
 
 # Related
 
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
-- [20221013180230](/zet/20221013180230/README.md) session cookie or access token
+- [20221013180230](/zet/20221013180230/README.md) session cookie, API key, or access token
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists

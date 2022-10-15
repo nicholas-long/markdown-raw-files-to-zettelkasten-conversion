@@ -17,7 +17,8 @@
 
 # Related
 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 
 Tags:

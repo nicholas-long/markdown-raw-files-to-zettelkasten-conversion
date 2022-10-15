@@ -20,34 +20,21 @@
 
 # Related
 
+- [20221003151184](/zet/20221003151184/README.md) HTTP found login form
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
-
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
-
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
-
 - [20221003151193](/zet/20221003151193/README.md) HTTP
-
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY
-
 - [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list
-
 - [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list
-
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
-
 - [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login
-
 - [20221003151177](/zet/20221003151177/README.md) Stuck to try list
-
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list
-
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
-
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
-
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list
-
 - [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
