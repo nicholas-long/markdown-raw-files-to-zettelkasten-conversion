@@ -18,7 +18,6 @@
 # Related
 
 - [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm
-
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221014185628](/zet/20221014185628/README.md) kb file named kb/hacking/to-try-lists/SSH.md
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation

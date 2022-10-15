@@ -6,6 +6,7 @@ linux reference links and concepts
 
 # Related
 
+- [20221015024136](/zet/20221015024136/README.md) cron
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221014160244](/zet/20221014160244/README.md) qterminal terminal emulator program
 - [20221014074852](/zet/20221014074852/README.md) "Keep It Simple Stupid" principle of engineering and design

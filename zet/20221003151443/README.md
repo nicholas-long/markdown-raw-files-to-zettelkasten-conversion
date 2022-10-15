@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project

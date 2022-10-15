@@ -9,6 +9,7 @@ the concept of `linux terminal`
 
 # Related
 
+- [20221003150174](/zet/20221003150174/README.md) less
 - [20221014160244](/zet/20221014160244/README.md) qterminal terminal emulator program
 - [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
 - [20221003150080](/zet/20221003150080/README.md) ctrl H does not work as a hotkey in qterminal by default 

@@ -14,6 +14,7 @@
 
 # Related
 
+- [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221013203732](/zet/20221013203732/README.md) feels like "being plugged into the matrix"
 - [20221009095853](/zet/20221009095853/README.md) finished

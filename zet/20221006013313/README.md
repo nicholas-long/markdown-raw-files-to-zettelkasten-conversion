@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221014023054](/zet/20221014023054/README.md) distinct workflow operations i do in this zettelkasten
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221013180437](/zet/20221013180437/README.md) differences organizing zettelkasten in graph vs files in hierarchy
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes

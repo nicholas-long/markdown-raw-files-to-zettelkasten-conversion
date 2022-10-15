@@ -6,6 +6,8 @@ the concept of a `program`
 
 # Related
 
+- [20221015024136](/zet/20221015024136/README.md) cron
+- [20221003150174](/zet/20221003150174/README.md) less
 - [20221015004916](/zet/20221015004916/README.md) gitea
 - [20221015005249](/zet/20221015005249/README.md) gitlab
 - [20221015005557](/zet/20221015005557/README.md) python library

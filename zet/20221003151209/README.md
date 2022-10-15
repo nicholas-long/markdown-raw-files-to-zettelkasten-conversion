@@ -20,6 +20,7 @@
 
 # Related
 
+- [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
 - [20221003150260](/zet/20221003150260/README.md) sperl and suidperl
 - [20221013175128](/zet/20221013175128/README.md) preparing exploit payloads

@@ -9,8 +9,8 @@ git status --porcelain
 
 # Related
 
+- [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
-
 - [20221015004916](/zet/20221015004916/README.md) gitea
 - [20221015005249](/zet/20221015005249/README.md) gitlab
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
