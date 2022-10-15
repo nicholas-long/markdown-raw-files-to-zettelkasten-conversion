@@ -3,6 +3,8 @@
 - concept of `why does ubuntu gnome not remember the screen rotation?`
 - ubuntu does not remember that i want the screen rotated to normal computer mode
   - had that problem with kali too. fixed in x display settings by diagnosing xorg log?
+- tried launching gnome-control-center as root - it does not work
+- gnome config is stored in `/etc/gdm/gdm.conf`
 
 ```
 ```
@@ -10,6 +12,8 @@
 ` zet/20221015172248/README.md `
 
 # Related
+
+- [20221015173433](/zet/20221015173433/README.md) gnome window manager
 
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221008061845](/zet/20221008061845/README.md) workflow
