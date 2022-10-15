@@ -6,6 +6,7 @@ things that are finished.
 
 # Related
 
+- [20221012090359](/zet/20221012090359/README.md) first post from netbook
 - [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
 - [20221008195148](/zet/20221008195148/README.md) seclists etc files project
 - [20221012144502](/zet/20221012144502/README.md) track modification dates

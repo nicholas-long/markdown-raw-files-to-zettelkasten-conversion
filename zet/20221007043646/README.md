@@ -113,6 +113,7 @@
 
 # Related
 
+- [20221012090359](/zet/20221012090359/README.md) first post from netbook
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221014072547](/zet/20221014072547/README.md) ideas need to be explained and connected to relevant things

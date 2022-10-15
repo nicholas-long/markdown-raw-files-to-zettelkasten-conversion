@@ -45,9 +45,7 @@
 # Related
 
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
-
 - [20221009095853](/zet/20221009095853/README.md) finished
-
 - [20221012090938](/zet/20221012090938/README.md) my netbook
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 

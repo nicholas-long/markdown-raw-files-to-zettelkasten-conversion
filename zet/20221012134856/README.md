@@ -11,7 +11,6 @@
 # Related
 
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
-
 - [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221012135301](/zet/20221012135301/README.md) emacs
