@@ -4,31 +4,36 @@
 - connect them to relevant files by searhcing for `- ~/kb/` links
 - the idea of time should add some context to random zettels and will add structure to the graph
 - the bash script about the last modified date is useful
+- most recent commit change: `zet/20221006054727/filemodoutput`
+- commits, timestamps, and files: `zet/20221006054727/commitdetails`
+- script `zet/20221006054727/gitcommitfilelog`
+
 ```bash
-#!/bin/bash
-while [[ $# -gt 0 ]]; do
-  export filename=$1
-  git log --date=unix -- "$1" | awk '
-  BEGIN { OFS = "\t" }
-  /^Date/ {
-    epoch = $2
-    "date --date @" epoch " --iso" | getline isodate
-    print epoch, isodate, ENVIRON["filename"] # -> commit id
-    exit 0 # -> dont
-  }'
-  shift
-done
+
+┌──(kali㉿kali)-[~/kb]
+└─$ find . -type f -name '*.md' | xargs /home/kali/kb/bash-scripting/git-file-modification-date.sh | tee filemodoutput
+
+cp ~/kb/filemodoutput zet/20221006054727/
+
+# script
+zet/20221006054727/gitcommitfilelog
+
+zet/20221006054727/gitcommitfilelog | tee zet/20221006054727/commitdetails
+zet/20221006054727/commitdetails
 ```
 
 ` zet/20221006054727/README.md `
 
 # Related
 
+- [20221012144502](/zet/20221012144502/README.md) track modification dates
+
+- [20221008042814](/zet/20221008042814/README.md) WIP
+
 - [20221008182309](/zet/20221008182309/README.md) learning git internals
 - [20221003150798](/zet/20221003150798/README.md) git
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
-- [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
 - [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221003151371](/zet/20221003151371/README.md) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date
 - https://github.com/nicholas-long/kb/blob/main/bash-scripting/git-file-modification-date.sh

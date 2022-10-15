@@ -1,0 +1,16 @@
+#!/bin/bash
+cd ~/kb
+
+for filename in $(find . -type f -name '*.md'); do
+  export filename
+  git log --date=unix -- "$filename" | awk '
+  BEGIN { OFS = "\t" }
+  /^commit / { commitid = $2 }
+  /^Date/ {
+    epoch = $2
+    "date --date @" epoch " --iso" | getline isodate
+    print epoch, isodate, commitid, ENVIRON["filename"] # -> commit id
+    #exit 0 # -> dont
+  } '
+  shift
+done
