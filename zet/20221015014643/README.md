@@ -1,6 +1,14 @@
 # overengineering and overthinking
 
 - concept of `overengineering and overthinking`
+- it is easy to miss obvious things if you are
+  - excited about the easy or quick find instead
+    - spend more time enumerating in the beginning to understand problem better
+  - not focused and distracted
+    - anxious
+    - under pressure
+    - tired
+    - hungry
 
 ```
 ```
@@ -30,4 +38,4 @@
 
 Tags:
 
-    #idea
+    #concept #idea

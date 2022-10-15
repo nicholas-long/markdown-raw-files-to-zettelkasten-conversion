@@ -33,7 +33,9 @@
 
 # Related
 
-- [20221015000510](/zet/20221015000510/README.md) create install script for command
+- [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores
+
+- [20221015000510](/zet/20221015000510/README.md) create install script for zet command
 - [20221014153143](/zet/20221014153143/README.md) scroll preview window
 - [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
