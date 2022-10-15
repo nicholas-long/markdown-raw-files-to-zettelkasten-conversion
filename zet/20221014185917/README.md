@@ -18,7 +18,6 @@
 - [20221003150717](/zet/20221003150717/README.md) packet capture
 - [20221003150713](/zet/20221003150713/README.md) packet capture with tcpdump watch traffic print IP and port
 - [20221003150715](/zet/20221003150715/README.md) packet capture with tcpdump log data to pcap file
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

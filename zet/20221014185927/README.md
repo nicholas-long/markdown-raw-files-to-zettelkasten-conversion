@@ -14,7 +14,6 @@
 - [20221003150677](/zet/20221003150677/README.md) bloodhound
 - [20221003150676](/zet/20221003150676/README.md) bloodhound run python version in docker
 - [20221003150674](/zet/20221003150674/README.md) bloodhound stealthy collection method
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

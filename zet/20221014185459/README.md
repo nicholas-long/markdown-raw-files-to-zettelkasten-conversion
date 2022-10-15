@@ -19,7 +19,6 @@
 - [20221003150106](/zet/20221003150106/README.md) ssh port forwarding dynamic ( socks )
 - [20221003150115](/zet/20221003150115/README.md) socat
 - [20221003150112](/zet/20221003150112/README.md) socat execute program bind shell
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

@@ -12,7 +12,6 @@
 - [20221003151308](/zet/20221003151308/README.md) expect scripts record
 - [20221003151307](/zet/20221003151307/README.md) expect scripts use arguments
 - [20221003151309](/zet/20221003151309/README.md) expect scripts
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

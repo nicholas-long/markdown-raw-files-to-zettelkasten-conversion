@@ -26,7 +26,6 @@
 - [20221003150244](/zet/20221003150244/README.md) MOTW mark of the web microsoft alternate data stream file label ZoneId avoiding / evading
 - [20221003150258](/zet/20221003150258/README.md) firefox containers addon = multiple sessions cookies in firefox web browser
 - [20221003150247](/zet/20221003150247/README.md) enterprise PAM
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

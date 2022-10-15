@@ -19,7 +19,6 @@
 - [20221003150979](/zet/20221003150979/README.md) mariadb mysql files read database users
 - [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi
 - [20221003150982](/zet/20221003150982/README.md) mariadb mysql files check permissions
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

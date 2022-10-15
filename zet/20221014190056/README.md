@@ -27,7 +27,6 @@
 - [20221003150310](/zet/20221003150310/README.md) burpsuite
 - [20221003150311](/zet/20221003150311/README.md) SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
 - [20221003150303](/zet/20221003150303/README.md) convert epoch to human readable bash signed 32 bit word Y2K
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

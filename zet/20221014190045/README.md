@@ -15,7 +15,6 @@
 - [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file
 - [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI
 - [20221003150451](/zet/20221003150451/README.md) java decompiler JD-GUI analyze jar file
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

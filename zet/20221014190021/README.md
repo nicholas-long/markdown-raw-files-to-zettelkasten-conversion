@@ -16,7 +16,6 @@
 - [20221003150506](/zet/20221003150506/README.md) python pwn tricks convert little endian bytes to int
 - [20221003150504](/zet/20221003150504/README.md) python pwn tricks convert hex to int
 - [20221003150509](/zet/20221003150509/README.md) python pwn tricks
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

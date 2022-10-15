@@ -29,7 +29,6 @@
 - [20221003151136](/zet/20221003151136/README.md) active directory  mindset and methodology
 - [20221003151135](/zet/20221003151135/README.md) active directory  workflow for penetration test on windows network in organization
 - [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

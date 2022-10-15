@@ -15,7 +15,6 @@
 - [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
 - [20221003150885](/zet/20221003150885/README.md) Test CVE-2021-4034 in a docker Exploit
 - [20221003150889](/zet/20221003150889/README.md) Test CVE-2021-4034 in a docker Original exploit
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

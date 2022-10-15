@@ -19,7 +19,6 @@
 - [20221003150839](/zet/20221003150839/README.md) gobuster flags
 - [20221003150843](/zet/20221003150843/README.md) gobuster Fast Scan (Big List)
 - [20221003150844](/zet/20221003150844/README.md) gobuster Fast Scan (Small List)
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

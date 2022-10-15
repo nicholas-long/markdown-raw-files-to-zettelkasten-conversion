@@ -19,7 +19,6 @@
 - [20221003150588](/zet/20221003150588/README.md) php code read file
 - [20221003150586](/zet/20221003150586/README.md) php code write to file easy file write
 - [20221003150585](/zet/20221003150585/README.md) php code embed file or multiline string as heredoc variable
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

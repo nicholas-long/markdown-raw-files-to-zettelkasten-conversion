@@ -23,7 +23,6 @@
 - [20221003150093](/zet/20221003150093/README.md) bash scripts sh destroy containers and images
 - [20221003150091](/zet/20221003150091/README.md) bash scripts sh ubuntu dockerfile template
 - [20221003150085](/zet/20221003150085/README.md) bash scripts sh named pipe to netcat
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

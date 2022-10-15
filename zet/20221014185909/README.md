@@ -19,7 +19,6 @@
 - [20221003150739](/zet/20221003150739/README.md) feroxbuster
 - [20221003150737](/zet/20221003150737/README.md) feroxbuster dirbusting common with arguments
 - [20221003150732](/zet/20221003150732/README.md) feroxbuster files, backups, and extensions small words to filenames plus extensions ignore 403 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

@@ -20,7 +20,6 @@
 - [20221003150614](/zet/20221003150614/README.md) smbclient shell
 - [20221003150606](/zet/20221003150606/README.md) smbclient alternate File Streams
 - [20221003150605](/zet/20221003150605/README.md) smbclient download Stream By Name (:SECRET)
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

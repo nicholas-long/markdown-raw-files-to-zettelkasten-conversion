@@ -12,7 +12,6 @@
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 - [20221003150682](/zet/20221003150682/README.md) web enumeration quick commands forms
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

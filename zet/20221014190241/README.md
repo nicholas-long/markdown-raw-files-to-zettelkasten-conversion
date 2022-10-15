@@ -13,7 +13,6 @@
 - [20221003151327](/zet/20221003151327/README.md) bash scripting convert text strings or wordlists to lowercase
 - [20221003151328](/zet/20221003151328/README.md) bash scripting convert text strings or wordlists
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

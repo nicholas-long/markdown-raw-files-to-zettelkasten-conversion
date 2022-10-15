@@ -49,6 +49,7 @@ Options:
 
 # Related
 
+- [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221014201909](/zet/20221014201909/README.md) add lazygit to dockerfile for zet cmd
 - [20221014190239](/zet/20221014190239/README.md) kb file named kb/bash-scripting/check-empty-var.md

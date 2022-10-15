@@ -26,7 +26,6 @@
 - [20221003150950](/zet/20221003150950/README.md) OSINT enumerate emails and username format for domain
 - [20221003150962](/zet/20221003150962/README.md) OSINT image OSINT
 - [20221003150951](/zet/20221003150951/README.md) OSINT organizations job postings
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

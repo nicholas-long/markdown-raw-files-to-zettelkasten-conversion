@@ -18,7 +18,6 @@
 - [20221003150233](/zet/20221003150233/README.md) extract command for file type apk
 - [20221003150238](/zet/20221003150238/README.md) extract command for file type deb
 - [20221003150239](/zet/20221003150239/README.md) extract command for file type
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

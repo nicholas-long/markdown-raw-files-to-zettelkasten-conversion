@@ -11,7 +11,6 @@
 
 - [20221003150133](/zet/20221003150133/README.md) DNS add nameserver to resolv.conf
 - [20221003150134](/zet/20221003150134/README.md) DNS
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

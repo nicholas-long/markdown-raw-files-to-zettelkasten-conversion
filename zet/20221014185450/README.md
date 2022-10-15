@@ -71,7 +71,6 @@
 - [20221003151415](/zet/20221003151415/README.md) bash scripting print the md5 hashes of all lines in a wordlist file
 - [20221003151376](/zet/20221003151376/README.md) bash scripting get argument value or default
 - [20221003151393](/zet/20221003151393/README.md) bash scripting lookup unique hosts with shodan api
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

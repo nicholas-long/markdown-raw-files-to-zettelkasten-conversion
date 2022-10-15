@@ -23,7 +23,6 @@
 - [20221003151353](/zet/20221003151353/README.md) python scripting fuzz valid dates
 - [20221003151351](/zet/20221003151351/README.md) python scripting parse all post params from post content given on standard input
 - [20221003151358](/zet/20221003151358/README.md) python scripting parse a cookie from every line on standard input
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

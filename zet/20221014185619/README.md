@@ -24,7 +24,6 @@
 - [20221003151188](/zet/20221003151188/README.md) HTTP found CMS
 - [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

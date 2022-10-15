@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 - [20221014205906](/zet/20221014205906/README.md) coding in golang
 - [20221008214935](/zet/20221008214935/README.md) go language
 - [20221014074318](/zet/20221014074318/README.md) important choices of tech stack

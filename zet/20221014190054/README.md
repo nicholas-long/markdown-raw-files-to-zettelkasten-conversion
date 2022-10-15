@@ -14,7 +14,6 @@
 - [20221003150336](/zet/20221003150336/README.md) ansible exploiting playbook priv esc backdoor
 - [20221003150339](/zet/20221003150339/README.md) ansible How does Ansible work?
 - [20221003150340](/zet/20221003150340/README.md) ansible
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

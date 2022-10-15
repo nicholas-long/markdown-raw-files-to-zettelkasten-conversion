@@ -12,7 +12,6 @@
 - [20221003151094](/zet/20221003151094/README.md) windows API
 - [20221003151093](/zet/20221003151093/README.md) windows API enable privilege
 - [20221003151092](/zet/20221003151092/README.md) windows API enable privilege API calls
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

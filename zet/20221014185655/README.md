@@ -27,7 +27,6 @@
 - [20221003151116](/zet/20221003151116/README.md) dos commands file permissions access check sysinternals
 - [20221003151107](/zet/20221003151107/README.md) dos commands net add user to domain group
 - [20221003151117](/zet/20221003151117/README.md) dos commands file permissions
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

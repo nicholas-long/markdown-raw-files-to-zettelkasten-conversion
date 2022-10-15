@@ -13,7 +13,6 @@
 - [20221003151276](/zet/20221003151276/README.md) linux data science issues
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities
 - [20221003151278](/zet/20221003151278/README.md) linux data science
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

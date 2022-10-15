@@ -17,7 +17,6 @@
 - [20221003151076](/zet/20221003151076/README.md) service account privileges exploiting
 - [20221003151081](/zet/20221003151081/README.md) service account privileges
 - [20221003151077](/zet/20221003151077/README.md) service account privileges restore using FullPowers tool
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

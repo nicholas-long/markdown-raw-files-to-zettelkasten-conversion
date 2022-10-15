@@ -37,7 +37,6 @@
 - [20221003150898](/zet/20221003150898/README.md) linux enumeration quick commands capabilities running process effective capabilities
 - [20221003150908](/zet/20221003150908/README.md) linux enumeration quick commands get IP with no `ifconfig` or `ip a` on a host or within docker container
 - [20221003150895](/zet/20221003150895/README.md) linux enumeration quick commands check if users can see other users' processes
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

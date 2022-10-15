@@ -13,7 +13,6 @@
 - [20221003150945](/zet/20221003150945/README.md) python hex to string
 - [20221003150946](/zet/20221003150946/README.md) python
 - [20221003150943](/zet/20221003150943/README.md) python string alphanumeric chars
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

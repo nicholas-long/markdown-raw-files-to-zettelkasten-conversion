@@ -18,6 +18,7 @@ ln -s zet/20221013021614/ browser
 
 # Related
 
+- [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
 - [20221015021344](/zet/20221015021344/README.md) graph explorer does not let you add 0 links or back out of link screen
 - [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
 - [20221014153143](/zet/20221014153143/README.md) scroll preview window

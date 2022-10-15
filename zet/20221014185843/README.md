@@ -17,7 +17,6 @@
 - [20221003150827](/zet/20221003150827/README.md) postgres sql enumeration list tables and "relations"
 - [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list
 - [20221003150830](/zet/20221003150830/README.md) postgres sql enumeration
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

@@ -11,7 +11,6 @@
 
 - [20221003150500](/zet/20221003150500/README.md) shellshock python2 exploit
 - [20221003150499](/zet/20221003150499/README.md) shellshock python2 exploit reverse shell usage
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

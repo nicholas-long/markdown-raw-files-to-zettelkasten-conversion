@@ -16,7 +16,6 @@
 - [20221003150100](/zet/20221003150100/README.md) python scripting argument variable argv
 - [20221003150104](/zet/20221003150104/README.md) python scripting requests http
 - [20221003150099](/zet/20221003150099/README.md) python scripting format string variables
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

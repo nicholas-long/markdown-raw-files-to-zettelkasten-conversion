@@ -22,7 +22,6 @@
 - [20221003151046](/zet/20221003151046/README.md) windows reverse shell AV bypass defender
 - [20221003151049](/zet/20221003151049/README.md) change user password powershell or dos
 - [20221003151044](/zet/20221003151044/README.md) windows alternate data streams commands enumerate directory for alt streams
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

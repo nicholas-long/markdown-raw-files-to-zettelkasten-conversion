@@ -13,7 +13,6 @@
 - [20221003150932](/zet/20221003150932/README.md) lxd priv esc without painful build problems lxd priv esc x64
 - [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems
 - [20221003150930](/zet/20221003150930/README.md) lxd priv esc without painful build problems lxd priv esc victim
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

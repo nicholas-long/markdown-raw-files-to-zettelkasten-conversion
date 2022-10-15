@@ -18,7 +18,6 @@
 - [20221003150656](/zet/20221003150656/README.md) wfuzz recursive path discovery depth
 - [20221003150658](/zet/20221003150658/README.md) wfuzz dirbusting
 - [20221003150652](/zet/20221003150652/README.md) wfuzz host header pollution
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

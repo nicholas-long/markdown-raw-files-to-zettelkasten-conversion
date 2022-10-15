@@ -15,7 +15,6 @@
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist
 - [20221003150795](/zet/20221003150795/README.md) generate cewl wordlist from website
 - [20221003150792](/zet/20221003150792/README.md) generate cewl wordlist from file plaintext with grep
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

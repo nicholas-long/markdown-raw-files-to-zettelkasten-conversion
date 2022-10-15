@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221015010704](/zet/20221015010704/README.md) things that need splitting up
 - [20221015000510](/zet/20221015000510/README.md) create install script for zet command

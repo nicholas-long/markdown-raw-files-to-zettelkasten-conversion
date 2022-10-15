@@ -13,7 +13,6 @@
 - [20221003150212](/zet/20221003150212/README.md) kafkacat install quick and dirty shell script using docker
 - [20221003150213](/zet/20221003150213/README.md) kafkacat install APT
 - [20221003150215](/zet/20221003150215/README.md) kafkacat install
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

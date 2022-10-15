@@ -26,7 +26,6 @@
 - [20221003150994](/zet/20221003150994/README.md) GraphQL APIs common specific GraphQL endpoints
 - [20221003150996](/zet/20221003150996/README.md) GraphQL APIs common GraphQL bugs
 - [20221003151002](/zet/20221003151002/README.md) API enumeration good wordlists parameters
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

@@ -19,7 +19,6 @@
 - [20221003150691](/zet/20221003150691/README.md) wpscan initial vulnerable themes
 - [20221003150686](/zet/20221003150686/README.md) wpscan brute force users file and password list
 - [20221003150694](/zet/20221003150694/README.md) wpscan
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

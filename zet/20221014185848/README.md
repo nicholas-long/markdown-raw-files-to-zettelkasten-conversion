@@ -17,7 +17,6 @@
 - [20221003150814](/zet/20221003150814/README.md) meterpreter msf migrate
 - [20221003150819](/zet/20221003150819/README.md) metasploit msf
 - [20221003150815](/zet/20221003150815/README.md) meterpreter msf move from x86 to x64
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

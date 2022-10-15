@@ -26,7 +26,6 @@
 - [20221003151435](/zet/20221003151435/README.md) awk scripting print nested markdown content within headings
 - [20221003151425](/zet/20221003151425/README.md) awk scripting get HTTP POST content from HTTP request stream
 - [20221003151430](/zet/20221003151430/README.md) awk scripting constrict line widths of input text stream
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

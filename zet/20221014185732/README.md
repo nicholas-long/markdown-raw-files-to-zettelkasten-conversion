@@ -17,7 +17,6 @@
 - [20221003151012](/zet/20221003151012/README.md) LFI or directory traversal procedures read scripts from web server process cwd
 - [20221003151011](/zet/20221003151011/README.md) LFI or directory traversal procedures read scripts from web server process cwd fuzzing script names
 - [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

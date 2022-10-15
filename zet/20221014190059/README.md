@@ -14,7 +14,6 @@
 - [20221003150280](/zet/20221003150280/README.md) pfx extension PKCS#12 format certificate contents
 - [20221003150279](/zet/20221003150279/README.md) pfx extension PKCS#12 format certificate cracking
 - [20221003150277](/zet/20221003150277/README.md) pfx extension PKCS#12 format certificate cracking with johntheripper
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

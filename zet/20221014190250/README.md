@@ -16,7 +16,6 @@
 - [20221003151312](/zet/20221003151312/README.md) bash scripting substitution syntax return substring of name
 - [20221003151314](/zet/20221003151314/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it example
 - [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

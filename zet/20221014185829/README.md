@@ -17,7 +17,6 @@
 - [20221003150858](/zet/20221003150858/README.md) SSH arguments use old ssh-rsa RSA private key allow for connection
 - [20221003150860](/zet/20221003150860/README.md) SSH arguments connect to old server
 - [20221003150861](/zet/20221003150861/README.md) SSH arguments troubleshoot diagnose connection problems
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

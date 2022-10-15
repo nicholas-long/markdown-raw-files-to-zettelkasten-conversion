@@ -17,7 +17,6 @@
 - [20221003150626](/zet/20221003150626/README.md) LDAP enumeration anonymous python dump all object data
 - [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous
 - [20221003150627](/zet/20221003150627/README.md) LDAP enumeration anonymous python
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

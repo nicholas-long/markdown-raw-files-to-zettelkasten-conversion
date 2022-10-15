@@ -21,7 +21,6 @@
 - [20221003150708](/zet/20221003150708/README.md) sqlmap result output data file location
 - [20221003150707](/zet/20221003150707/README.md) sqlmap level and risk options
 - [20221003150704](/zet/20221003150704/README.md) sqlmap search string response on site for successful injection
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

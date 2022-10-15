@@ -17,7 +17,6 @@
 - [20221003150123](/zet/20221003150123/README.md) routing using a linux box enable ip forwarding permanently
 - [20221003150126](/zet/20221003150126/README.md) routing using a linux box
 - [20221003150120](/zet/20221003150120/README.md) routing using a linux box iptables rules
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

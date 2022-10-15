@@ -11,7 +11,6 @@
 
 - [20221003150197](/zet/20221003150197/README.md) iptables rules
 - [20221003150196](/zet/20221003150196/README.md) iptables rules forward all traffic between two interfaces
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

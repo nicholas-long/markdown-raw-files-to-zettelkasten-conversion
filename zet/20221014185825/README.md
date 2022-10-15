@@ -16,7 +16,6 @@
 - [20221003150869](/zet/20221003150869/README.md) john the ripper use rules to crack hashes from file with wordlist
 - [20221003150870](/zet/20221003150870/README.md) john the ripper crack hashes from file with wordlist
 - [20221003150871](/zet/20221003150871/README.md) john the ripper
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

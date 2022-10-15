@@ -17,7 +17,6 @@
 - [20221003150669](/zet/20221003150669/README.md) crackmapexec cme commands test combine valid user and password combinations
 - [20221003150672](/zet/20221003150672/README.md) crackmapexec cme commands RID brute force
 - [20221003150667](/zet/20221003150667/README.md) crackmapexec cme commands enumerate acccess to files as json report
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

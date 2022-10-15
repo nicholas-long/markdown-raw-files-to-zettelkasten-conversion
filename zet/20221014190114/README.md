@@ -12,7 +12,6 @@
 - [20221003150224](/zet/20221003150224/README.md) bettercap start commnad
 - [20221003150223](/zet/20221003150223/README.md) bettercap settings
 - [20221003150225](/zet/20221003150225/README.md) bettercap
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

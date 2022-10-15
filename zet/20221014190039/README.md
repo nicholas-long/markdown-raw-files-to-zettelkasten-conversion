@@ -21,7 +21,6 @@
 - [20221003150471](/zet/20221003150471/README.md) powershell tricks run powershell commands as another user on remote machine with impersonated token copy and run file over session
 - [20221003150474](/zet/20221003150474/README.md) powershell tricks run powershell commands as another user with SecureString credential
 - [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

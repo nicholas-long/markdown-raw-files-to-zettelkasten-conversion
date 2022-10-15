@@ -21,7 +21,6 @@
 - [20221003150145](/zet/20221003150145/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal programs
 - [20221003150146](/zet/20221003150146/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks char mappings
 - [20221003150153](/zet/20221003150153/README.md) cyberpunk retro machine project enable usb serial port terminal as a service
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

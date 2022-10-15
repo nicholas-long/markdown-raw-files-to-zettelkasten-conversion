@@ -12,7 +12,6 @@
 - [20221003150160](/zet/20221003150160/README.md) git config settings make merges smoother
 - [20221003150161](/zet/20221003150161/README.md) git config settings set up credential storage
 - [20221003150162](/zet/20221003150162/README.md) git config settings
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

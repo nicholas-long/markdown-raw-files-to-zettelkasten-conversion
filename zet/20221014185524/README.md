@@ -14,7 +14,6 @@
 - [20221003150206](/zet/20221003150206/README.md) example docker to initialize ksql commands initialize.sh
 - [20221003150205](/zet/20221003150205/README.md) example docker to initialize ksql commands ksql.sh
 - [20221003150207](/zet/20221003150207/README.md) example docker to initialize ksql commands
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:
