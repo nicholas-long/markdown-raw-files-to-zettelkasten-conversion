@@ -384,9 +384,7 @@ system_default = kali_wide_compatibility
 # Related
 
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
-
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
-
 - [20221014190048](/zet/20221014190048/README.md) kb file named kb/hacking/misc/troubleshoot-error-messages.md
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
 - ~/kb/hacking/misc/troubleshoot-error-messages.md

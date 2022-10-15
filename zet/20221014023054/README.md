@@ -1,10 +1,10 @@
 # distinct workflow operations i do in this zettelkasten
 
 - searching
-  - learning and distilling
   - googling
   - fuzzy finding
   - grep text or data files
+  - learning and distilling
 - analyzing
   - focusing
   - organizing
@@ -12,6 +12,7 @@
       - sorting links
       - sorting content
     - connecting cards
+  - awk data analysis commands and simple bash in markdown snippets - copy from terminal or run within vim
 - experimenting - heckin around with commands on the terminal or within vim
   - scripting
 

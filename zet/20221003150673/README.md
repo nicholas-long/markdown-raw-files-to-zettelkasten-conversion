@@ -6,6 +6,7 @@ crackmapexec smb --help
 
 # Related
 
+- [20221003150348](/zet/20221003150348/README.md) troubleshooting fix error ValueError: unsupported hash type MD4 python hashlib openssl conf
 - [20221014185929](/zet/20221014185929/README.md) kb file named kb/hacking/commands/crackmapexec-commands.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008212802](/zet/20221008212802/README.md) software program
