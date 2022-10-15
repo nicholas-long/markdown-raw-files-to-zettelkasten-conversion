@@ -2,15 +2,42 @@
 
 - would allow for quickly and easily scripting some stuff up in cards
 - search by tags and connections
-  - ex: `for all #developer; #developer -> #inbox; yield #inbox` return card IDs of multiple inboxes
-  - looks better `#developer -> #inbox`
+  - ex: return card IDs of multiple inboxes
+  - `#developer -> #inbox`
     - return the last thing automatically?
 - shouldn't be too hard
 - like relational database from old awk book
 - look at graphql for inspiration?
 - look at neo4j for inspiration?
+- things this system can do quickly
+  - load ids by tags
+  - reading all titles is pretty fast
+  - possible to read all content
 
 ```
+all qureries return raw IDs
+
+#dev -> #inbox
+return table of devs and inbox, filter results with awk queries like sql where?
+
+#machine ~ /jerry/ -> #list && #file
+for all nodes with hashtags #machine and that have the text or grep pattern "jerry" in the card, pair with all nodes that are both #list and #file?
+
+reasonable query syntax?
+#user ~ /coyote/
+users named coyote
+#user ~ /coyote/ -> #fun || #cool
+users named coyote and the things they do that are fun or cool
+
+arrow has lowest precedence
+everything inside arrows describe a node and are cumulative
+
+|| or prints ids from the result of both expressions
+&& joins them ( using sorted unix join? )
+~ /re/ grep each ID's card and return only matching ones from before the : in grep output
+implement parentheses - sub expressions?
+2 operations - concatenate and join is all it needs?
+
 ```
 
 ` zet/20221013221136/README.md `
