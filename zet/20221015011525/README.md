@@ -1,8 +1,10 @@
 # my notes for opensource machine - steps
 
-- coyote0x90
+- coyote0x90 pwned 2022-09-14
 - notes from htb
-- completed 2022-09-14
+- went down a rabbit hole with the version of gitea being exactly vulnerable to CVE-2022-30781
+  - unable to get it working because of the requirement in gitea of non-LAN DNS hostnames
+  - just needed a nudge - i knew how to find the credentials once i heard i should look for them
 
 ```
 Steps Taken
