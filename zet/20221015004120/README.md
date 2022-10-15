@@ -6,7 +6,7 @@
 - tried writing crontabs - no dice
   - the docker container is not running cron, only running one program
 - i would use this `git status --porcelain` command in scripts - linking to some scripts
-  - can use it with `!` ( not ) in if statements: `if !git status --porcelain`
+  - they use it with `!` in if statements: `if ! git status --porcelain`, but it always returns 0 - common bash mistake - check return status codes
 - 
 - 
 - 
@@ -40,6 +40,8 @@
 ` zet/20221015004120/README.md `
 
 # Related
+
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 
 - [20221012102144](/zet/20221012102144/README.md) preview window for menu
 - [20221015024136](/zet/20221015024136/README.md) cron
