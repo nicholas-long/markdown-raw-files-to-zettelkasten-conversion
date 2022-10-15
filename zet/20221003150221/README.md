@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY
 - [20221014190233](/zet/20221014190233/README.md) kb file named kb/hardware/surface-tablet.md
 - [20221013203732](/zet/20221013203732/README.md) feels like "being plugged into the matrix"
 - [20221012211416](/zet/20221012211416/README.md) my gaming desktop

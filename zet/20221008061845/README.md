@@ -14,6 +14,7 @@ hub node for `workflow`
 
 # Related
 
+- [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221012090938](/zet/20221012090938/README.md) my netbook
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public

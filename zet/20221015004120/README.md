@@ -42,7 +42,6 @@
 # Related
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
-
 - [20221012102144](/zet/20221012102144/README.md) preview window for menu
 - [20221015024136](/zet/20221015024136/README.md) cron
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux

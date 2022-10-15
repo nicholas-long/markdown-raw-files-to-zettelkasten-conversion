@@ -6,6 +6,7 @@ the concept of `the concept of utility or being useful`
 
 # Related
 
+- [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY
 - [20221015005557](/zet/20221015005557/README.md) python library
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow

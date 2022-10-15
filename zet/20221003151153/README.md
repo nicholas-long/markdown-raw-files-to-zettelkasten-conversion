@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY
 - [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
 - [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat
 - [20221003150248](/zet/20221003150248/README.md) Azure AD connect

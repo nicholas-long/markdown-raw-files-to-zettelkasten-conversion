@@ -10,7 +10,6 @@
 # Related
 
 - [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY
-
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines
 - [20221014185751](/zet/20221014185751/README.md) kb file named kb/hacking/python/fix-ssl.md

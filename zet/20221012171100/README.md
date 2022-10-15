@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 - [20221015024515](/zet/20221015024515/README.md) concept of repeating something periodically
 - [20221015024136](/zet/20221015024136/README.md) cron
@@ -38,7 +39,6 @@ zet/20221012171100/README.md
 - [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
 - [20221014213613](/zet/20221014213613/README.md) boilerplate code template
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
-- [20221014205906](/zet/20221014205906/README.md) coding in golang
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:
