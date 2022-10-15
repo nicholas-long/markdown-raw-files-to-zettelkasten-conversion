@@ -11,6 +11,7 @@ start a zk based note taking template for storing box notes
 
 # Related
 
+- [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
 - [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
@@ -19,7 +20,7 @@ start a zk based note taking template for storing box notes
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221006213311](/zet/20221006213311/README.md) hackthebox
 
 Tags:

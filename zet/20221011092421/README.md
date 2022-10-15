@@ -15,6 +15,7 @@ to do next:
 
 # Related
 
+- [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
 - [20221006215623](/zet/20221006215623/README.md) scrambled machine video notes
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221003150117](/zet/20221003150117/README.md) OSI networking model

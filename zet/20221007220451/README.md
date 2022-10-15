@@ -12,6 +12,7 @@ hacking notes hub
 
 # Related
 
+- [20221015011525](/zet/20221015011525/README.md) my notes for opensource machine - steps
 - [20221003151179](/zet/20221003151179/README.md) FTP
 - [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts
 - [20221003151335](/zet/20221003151335/README.md) bash command reference

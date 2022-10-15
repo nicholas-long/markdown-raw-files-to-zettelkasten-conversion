@@ -92,6 +92,8 @@
 
 # Related
 
+- [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
+- [20221015011227](/zet/20221015011227/README.md) make writeups from cards
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221013185251](/zet/20221013185251/README.md) general information concept FYI

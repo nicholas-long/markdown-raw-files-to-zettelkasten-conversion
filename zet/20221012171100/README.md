@@ -11,6 +11,10 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221015011525](/zet/20221015011525/README.md) my notes for opensource machine - steps
+- [20221015011227](/zet/20221015011227/README.md) make writeups from cards
+- [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
+- [20221015010704](/zet/20221015010704/README.md) things that need splitting up
 - [20221015005745](/zet/20221015005745/README.md) python coding
 - [20221015005557](/zet/20221015005557/README.md) python library
 - [20221015005535](/zet/20221015005535/README.md) werkzeug

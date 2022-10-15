@@ -39,8 +39,8 @@
 
 # Related
 
+- [20221015011525](/zet/20221015011525/README.md) my notes for opensource machine - steps
 - [20221014074852](/zet/20221014074852/README.md) "Keep It Simple Stupid" principle of engineering and design
-
 - [20221003151023](/zet/20221003151023/README.md) analyzing source code
 - [20221003150946](/zet/20221003150946/README.md) python
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub

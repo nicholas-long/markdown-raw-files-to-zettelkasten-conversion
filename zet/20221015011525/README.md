@@ -54,14 +54,11 @@ Steps Taken
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
-
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
-
 - [20221006213311](/zet/20221006213311/README.md) hackthebox
-
 - [20221006213414](/zet/20221006213414/README.md) retired machines
-
 - [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 
 Tags:

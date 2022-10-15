@@ -6,6 +6,7 @@ concept of the github website owned by the company microsoft.
 
 # Related
 
+- [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
 - [20221015005218](/zet/20221015005218/README.md) git web interfaces
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology

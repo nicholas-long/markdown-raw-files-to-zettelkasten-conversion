@@ -10,6 +10,7 @@ walkthroughs for retired machines on certain platforms can be shared / streamed.
 
 # Related
 
+- [20221015011525](/zet/20221015011525/README.md) my notes for opensource machine - steps
 - [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
 - [20221006220044](/zet/20221006220044/README.md) adding stream notes

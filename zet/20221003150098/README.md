@@ -10,6 +10,8 @@
 
 # Related
 
+- [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
+- [20221015011227](/zet/20221015011227/README.md) make writeups from cards
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - [20221014153143](/zet/20221014153143/README.md) scroll preview window
 - [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
