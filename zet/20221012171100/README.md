@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221015000510](/zet/20221015000510/README.md) create install script for zet command
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
 - [20221014213613](/zet/20221014213613/README.md) boilerplate code template
@@ -351,13 +352,6 @@ zet/20221012171100/README.md
 - [20221014183030](/zet/20221014183030/README.md) create cards for kb files
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221014164014](/zet/20221014164014/README.md) protocol for application communication
-- [20221014160551](/zet/20221014160551/README.md) terminal emulator program
-- [20221014160244](/zet/20221014160244/README.md) qterminal terminal emulator program
-- [20221014155450](/zet/20221014155450/README.md) nim language
-- [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
-- [20221014154703](/zet/20221014154703/README.md) lazygit program
-- [20221014153143](/zet/20221014153143/README.md) scroll preview window
-- [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:

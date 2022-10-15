@@ -18,7 +18,6 @@
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221008214935](/zet/20221008214935/README.md) go language
 - [20221003151267](/zet/20221003151267/README.md) fzf
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221014154703](/zet/20221014154703/README.md) lazygit program
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd

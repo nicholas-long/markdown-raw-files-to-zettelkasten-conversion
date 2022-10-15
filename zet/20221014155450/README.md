@@ -11,7 +11,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d
 - [20221008210209](/zet/20221008210209/README.md) nim makes smaller wasm binaries than rust
 

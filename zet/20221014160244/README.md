@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221014160551](/zet/20221014160551/README.md) terminal emulator program
 - [20221011145037](/zet/20221011145037/README.md) kali linux
 - [20221012070318](/zet/20221012070318/README.md) linux terminal

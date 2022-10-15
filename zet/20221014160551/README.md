@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
