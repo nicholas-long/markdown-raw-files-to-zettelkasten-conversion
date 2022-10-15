@@ -28,14 +28,6 @@ zet/20221012171100/README.md
 - [20221015011227](/zet/20221015011227/README.md) make writeups from cards
 - [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
 - [20221015010704](/zet/20221015010704/README.md) things that need splitting up
-- [20221015005745](/zet/20221015005745/README.md) python coding
-- [20221015005557](/zet/20221015005557/README.md) python library
-- [20221015005535](/zet/20221015005535/README.md) werkzeug
-- [20221015005249](/zet/20221015005249/README.md) gitlab
-- [20221015005218](/zet/20221015005218/README.md) git web interfaces
-- [20221015004916](/zet/20221015004916/README.md) gitea
-- [20221015004252](/zet/20221015004252/README.md) htb opensource machine
-- [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:
