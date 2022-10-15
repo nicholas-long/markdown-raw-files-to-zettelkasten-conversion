@@ -1,5 +1,7 @@
 # vim
 
+- gets color capabilities from TERM enviornment variable
+
 ` zet/20221003150067/README.md `
 
 # Related

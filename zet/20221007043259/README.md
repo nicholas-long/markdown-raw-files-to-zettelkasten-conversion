@@ -21,6 +21,7 @@
   - symbols - ctags
   - link to external things (i.e. vulnerable funcetions, etc.)
 - link github projects to cards that grow big?
+- combine content with best link titles for searching
 
 ## move this stuff to cards it is growing kinda big
 
