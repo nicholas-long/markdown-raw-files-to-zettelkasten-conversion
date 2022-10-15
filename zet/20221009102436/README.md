@@ -10,10 +10,11 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 
 # Related
 
+- [20221015022512](/zet/20221015022512/README.md) password reuse to try list
 - [20221003151179](/zet/20221003151179/README.md) FTP
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
 - [20221003151196](/zet/20221003151196/README.md) IPMI

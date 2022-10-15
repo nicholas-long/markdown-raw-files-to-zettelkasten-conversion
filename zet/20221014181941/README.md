@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221013035616](/zet/20221013035616/README.md) fun
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 - [20221003151275](/zet/20221003151275/README.md) install docker compose cli extension

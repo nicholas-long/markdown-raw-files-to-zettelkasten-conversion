@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221015022512](/zet/20221015022512/README.md) password reuse to try list
 - [20221015021344](/zet/20221015021344/README.md) graph explorer does not let you add 0 links or back out of link screen
 - [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores
 - [20221015015106](/zet/20221015015106/README.md) concept of psychology
@@ -368,7 +369,6 @@ zet/20221012171100/README.md
 - [20221014185441](/zet/20221014185441/README.md) kb file named kb/docker/installations/install-mandown.md
 - [20221014185440](/zet/20221014185440/README.md) kb file named kb/docker/install-docker-compose.md
 - [20221014183030](/zet/20221014183030/README.md) create cards for kb files
-- [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:

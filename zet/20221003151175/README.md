@@ -20,6 +20,7 @@
 
 # Related
 
+- [20221015022512](/zet/20221015022512/README.md) password reuse to try list
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form
