@@ -36,9 +36,6 @@ zet/20221012171100/README.md
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221015000510](/zet/20221015000510/README.md) create install script for zet command
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
-- [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
-- [20221014213613](/zet/20221014213613/README.md) boilerplate code template
-- [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:

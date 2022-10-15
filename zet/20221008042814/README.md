@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking

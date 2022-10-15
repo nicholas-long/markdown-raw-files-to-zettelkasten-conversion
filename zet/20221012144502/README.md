@@ -28,6 +28,7 @@ ln -s zet/20221012144502 trackmoddate
 
 # Related
 
+- [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221008061845](/zet/20221008061845/README.md) workflow

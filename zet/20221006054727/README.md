@@ -27,9 +27,7 @@ zet/20221006054727/commitdetails
 # Related
 
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
-
 - [20221008042814](/zet/20221008042814/README.md) WIP
-
 - [20221008182309](/zet/20221008182309/README.md) learning git internals
 - [20221003150798](/zet/20221003150798/README.md) git
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
