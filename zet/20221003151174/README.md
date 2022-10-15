@@ -17,10 +17,12 @@
 
 # Related
 
+- [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm
+
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221014185628](/zet/20221014185628/README.md) kb file named kb/hacking/to-try-lists/SSH.md
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
 - [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
 - [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange

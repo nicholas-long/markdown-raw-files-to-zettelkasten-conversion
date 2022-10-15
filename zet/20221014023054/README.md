@@ -5,6 +5,7 @@
   - fuzzy finding
   - grep text or data files
   - learning and distilling
+  - finding links - what else belongs here?
 - analyzing
   - focusing
   - organizing
@@ -22,6 +23,8 @@
 ` zet/20221014023054/README.md `
 
 # Related
+
+- [20221006013313](/zet/20221006013313/README.md) zettelkasten
 
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 

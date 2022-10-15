@@ -5,7 +5,7 @@
 - automatically reloading web server
 - tried writing crontabs - no dice
   - the docker container is not running cron, only running one program
-- 
+- i would use this git status --porcelain command in scripts - linking to some scripts
 - 
 - 
 - 
@@ -39,6 +39,20 @@
 ` zet/20221015004120/README.md `
 
 # Related
+
+- [20221012102144](/zet/20221012102144/README.md) preview window for menu
+
+- [20221015024136](/zet/20221015024136/README.md) cron
+
+- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
+
+- [20221003150798](/zet/20221003150798/README.md) git
+
+- [20221003150174](/zet/20221003150174/README.md) less
+
+- [20221003150135](/zet/20221003150135/README.md) enable horizontal scroll in less
+
+- [20221003150913](/zet/20221003150913/README.md) linux enumeration quick commands find files modified between specific dates
 
 - [20221015011525](/zet/20221015011525/README.md) my notes for opensource machine - steps
 - [20221014074852](/zet/20221014074852/README.md) "Keep It Simple Stupid" principle of engineering and design
