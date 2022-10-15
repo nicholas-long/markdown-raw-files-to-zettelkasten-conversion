@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores
 - [20221003151264](/zet/20221003151264/README.md) fzf Help
 - [20221003151267](/zet/20221003151267/README.md) fzf
 - [20221003151299](/zet/20221003151299/README.md) bash tricks

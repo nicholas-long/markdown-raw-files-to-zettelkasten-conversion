@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores
 - [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
 - [20221015011227](/zet/20221015011227/README.md) make writeups from cards
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically

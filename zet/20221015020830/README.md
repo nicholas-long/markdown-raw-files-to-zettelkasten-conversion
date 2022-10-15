@@ -10,16 +10,12 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003150098](/zet/20221003150098/README.md) todo
-
 - [20221014070023](/zet/20221014070023/README.md) findings from implementing deep connectome search
-
 - [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn
-
 - [20221008215400](/zet/20221008215400/README.md) file
-
 - [20221003151338](/zet/20221003151338/README.md) awk scripting
-
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 
 Tags:

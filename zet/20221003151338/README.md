@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014190125](/zet/20221014190125/README.md) kb file named kb/awk-scripting/snippets.md
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job

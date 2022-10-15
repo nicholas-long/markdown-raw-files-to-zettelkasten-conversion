@@ -21,6 +21,7 @@
 
 # Related
 
+- [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
