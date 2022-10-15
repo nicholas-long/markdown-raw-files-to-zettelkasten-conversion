@@ -3,11 +3,14 @@
 - heard about method from rwxrob
 - German sociologist Niklas Luhmann (1927–1998)
 - box of paper slips
-- what extensions are compatible with vscode / github code editor and `zet`?
+  - connected together by references to form graph
+- Folgezettel = child nodes
 
 ` zet/20221006013313/README.md `
 
 # Related
+
+- [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 
 - [20221014023054](/zet/20221014023054/README.md) distinct workflow operations i do in this zettelkasten
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples

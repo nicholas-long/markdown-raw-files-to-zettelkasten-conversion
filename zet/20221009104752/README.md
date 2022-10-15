@@ -1,11 +1,12 @@
 # stuff to research
 
-- Folgezettel
-  - folgezettel = child nodes
+- graph theory
 
 ` zet/20221009104752/README.md `
 
 # Related
+
+- [20221006013313](/zet/20221006013313/README.md) zettelkasten
 
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221013035616](/zet/20221013035616/README.md) fun
