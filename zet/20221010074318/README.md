@@ -9,12 +9,14 @@ something i've been thinking about this year.
 
 # Related
 
+- [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
+
 - [20221006010531](/zet/20221006010531/README.md) sed scripts
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221003151338](/zet/20221003151338/README.md) awk scripting
 - [20221003150210](/zet/20221003150210/README.md) kafkacat
-- [20221003150993](/zet/20221003150993/README.md) GraphQL APIs how GraphQL works
+- [20221003150993](/zet/20221003150993/README.md) how GraphQL APIs work
 - [20221003150339](/zet/20221003150339/README.md) ansible How does Ansible work?
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch
