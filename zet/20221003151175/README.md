@@ -1,4 +1,4 @@
-# EVERYTHING
+# EVERYTHING - common to try list
 - check version for vulnerabilities
   - exploit-db
   - google
