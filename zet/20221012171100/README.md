@@ -11,6 +11,8 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221015004252](/zet/20221015004252/README.md) htb opensource machine
+- [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221015000510](/zet/20221015000510/README.md) create install script for zet command
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
@@ -351,7 +353,6 @@ zet/20221012171100/README.md
 - [20221014185440](/zet/20221014185440/README.md) kb file named kb/docker/install-docker-compose.md
 - [20221014183030](/zet/20221014183030/README.md) create cards for kb files
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
-- [20221014164014](/zet/20221014164014/README.md) protocol for application communication
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:
