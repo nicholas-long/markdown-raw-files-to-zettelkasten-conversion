@@ -11,6 +11,8 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video
+- [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
 - [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 - [20221015024515](/zet/20221015024515/README.md) concept of repeating something periodically
@@ -34,8 +36,6 @@ zet/20221012171100/README.md
 - [20221015004916](/zet/20221015004916/README.md) gitea
 - [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
-- [20221015000510](/zet/20221015000510/README.md) create install script for zet command
-- [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:

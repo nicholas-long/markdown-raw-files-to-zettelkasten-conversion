@@ -9,8 +9,8 @@ the concept of `linux terminal`
 
 # Related
 
+- [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video
 - [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
-
 - [20221003150174](/zet/20221003150174/README.md) less
 - [20221014160244](/zet/20221014160244/README.md) qterminal terminal emulator program
 - [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8

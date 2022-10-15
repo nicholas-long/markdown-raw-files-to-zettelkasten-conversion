@@ -9,6 +9,7 @@ node for video notes.
 
 # Related
 
+- [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos
 - [20221003150256](/zet/20221003150256/README.md) IPsec VPN UDP port 500 2500 strongswan

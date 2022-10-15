@@ -6,6 +6,7 @@ the concept of a `command`
 
 # Related
 
+- [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
 - [20221014190227](/zet/20221014190227/README.md) kb file named kb/data-engineering-pipelines/data-science-linux-commands.md
 - [20221014190221](/zet/20221014190221/README.md) kb file named kb/data-engineering-pipelines/jq-command-reference.md
 - [20221014190204](/zet/20221014190204/README.md) kb file named kb/linux/tar-commands.md

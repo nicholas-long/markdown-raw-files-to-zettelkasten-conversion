@@ -31,14 +31,11 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221015005745](/zet/20221015005745/README.md) python coding
-
 - [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
-
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
-
 - [20221006213953](/zet/20221006213953/README.md) video notes
-
 - [20221003151442](/zet/20221003151442/README.md) Box drawing ascii unicode characters
 - https://www.youtube.com/watch?v=eN1eZtjLEnU Use curses, don't swear
 

@@ -22,7 +22,6 @@
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221003150798](/zet/20221003150798/README.md) git
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 
 Tags:
