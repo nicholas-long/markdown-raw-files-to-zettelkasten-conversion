@@ -20,6 +20,10 @@
 
 # Related
 
+- [20221003151023](/zet/20221003151023/README.md) analyzing source code
+
+- [20221003150946](/zet/20221003150946/README.md) python
+
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes

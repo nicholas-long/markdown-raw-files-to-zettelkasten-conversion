@@ -4,6 +4,10 @@
 
 # Related
 
+- [20221015005745](/zet/20221015005745/README.md) python coding
+
+- [20221015005535](/zet/20221015005535/README.md) werkzeug
+
 - [20221014185753](/zet/20221014185753/README.md) kb file named kb/hacking/python/python-quick-reference.md
 - [20221003151408](/zet/20221003151408/README.md) bash scripting parse burpsuite saved request file and convert to python requests script for copying
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
