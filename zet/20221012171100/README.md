@@ -11,6 +11,10 @@ zet/20221012171100/README.md
 
 # Related
 
+- 20221015173720
+
+- 20221015173433
+
 - [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 

