@@ -11,7 +11,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003150551](/zet/20221003150551/README.md) linux
 - [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
