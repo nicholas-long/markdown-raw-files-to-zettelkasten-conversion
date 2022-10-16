@@ -93,11 +93,8 @@ d="2022-09-27"
 export newid=$(./zc new -t "commits for day of $d" | awk '/created zet ID/ { print $NF }')
 echo "i got the ID $newid"
 awk '
-ARGIND == 1 {
-  id_for[$2] = $1
-}
+ARGIND == 1 { id_for[$2] = $1 }
 ARGIND == 2 {
-  gsub column 3 `./` to `kb/`
   fn = $3
   gsub(/^\./,"kb", fn)
   if (fn in id_for) {
