@@ -88,7 +88,10 @@ mv zet/20221006054727/days/*.log zet/20221006054727/logs
 
 ```
 
-#created zet ID 20221016224941
+for d in $(ls zet/20221006054727/days); do
+  echo $d
+done
+
 d="2022-09-27"
 export newid=$(./zc new -t "commits for day of $d" | awk '/created zet ID/ { print $NF }')
 echo "i got the ID $newid"
@@ -105,6 +108,7 @@ ARGIND == 2 {
   } else print "UNK ID", $3, fn
 }
 ' zet/20221006054727/kb_files_ids zet/20221006054727/days/$d
+zet/20221006032546/insertsnippet $newid zet/20221006054727/logs/$d.log
 
 ```
 
