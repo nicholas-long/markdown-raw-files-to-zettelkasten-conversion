@@ -86,6 +86,31 @@ mv zet/20221006054727/days/*.log zet/20221006054727/logs
     - assuming new card id is stored in newid
     - `zet/20221006032546/insertsnippet $newid zet/20221006054727/logs/$d.log`
 
+```
+
+#created zet ID 20221016224941
+d="2022-09-27"
+export newid=$(./zc new -t "commits for day of $d" | awk '/created zet ID/ { print $NF }')
+echo "i got the ID $newid"
+awk '
+ARGIND == 1 {
+  id_for[$2] = $1
+}
+ARGIND == 2 {
+  gsub column 3 `./` to `kb/`
+  fn = $3
+  gsub(/^\./,"kb", fn)
+  if (fn in id_for) {
+      command = "./zc addref -t " ENVIRON["newid"] " " id_for[fn]
+      print(command)
+      system(command)
+  } else print "UNK ID", $3, fn
+  lookup awk column 3 in `id_for[$3]`
+}
+' zet/20221006054727/kb_files_ids zet/20221006054727/days/$d
+
+```
+
 ` zet/20221006054727/README.md `
 
 # Related
