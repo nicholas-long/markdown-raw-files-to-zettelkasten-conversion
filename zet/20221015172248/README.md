@@ -33,6 +33,8 @@ sensor:modalias:acpi:BOSC0200*:dmi*
 
 # Related
 
+- [20221009095853](/zet/20221009095853/README.md) finished
+
 - [20221012090938](/zet/20221012090938/README.md) my One Mix netbook
 - [20221012101349](/zet/20221012101349/README.md) ubuntu
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
@@ -40,7 +42,6 @@ sensor:modalias:acpi:BOSC0200*:dmi*
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221015173433](/zet/20221015173433/README.md) gnome window manager
 - [20221008061845](/zet/20221008061845/README.md) workflow
-- [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
 - https://askubuntu.com/questions/55769/where-does-gnome-display-properties-save-the-different-configurations
 - https://www.halolinux.us/ubuntu-study/gnome-display-manager-configuration-file.html gdm file
