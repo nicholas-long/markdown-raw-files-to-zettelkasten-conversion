@@ -1,0 +1,70 @@
+# commits for day of 2022-02-25
+
+- concept of `commits for day of 2022-02-25`
+
+```
+
+commit 7d842c8518fd7046db411e472873c796d69e966f
+Author: coyote <nicholas.eden.long@gmail.com>
+Date:   Thu Feb 24 23:55:43 2022 -0600
+
+    useful information
+kb/docker/install-docker-compose.md
+kb/linux/install-alacritty.md
+
+commit 1d2fd3994f917a39885adcdb71cb7b474ea838db
+Author: coyote0x90 <nicholas.eden.long@gmail.com>
+Date:   Fri Feb 25 00:01:17 2022 -0600
+
+    organization
+kb/hacking/commands/feroxbuster-command.md
+kb/hacking/commands/hydra-ftp-command.md
+kb/hacking/commands/impacket-commands.md
+kb/hacking/commands/nmap-command.md
+kb/hacking/commands/sqlmap-commands.md
+kb/hacking/commands/sucrack-command.md
+kb/hacking/commands/wget-recursive-command.md
+kb/hacking/commands/wpscan-command.md
+
+commit 9f5d331c8abea26eec885acf55e0001167fde598
+Author: coyote0x90 <nicholas.eden.long@gmail.com>
+Date:   Fri Feb 25 02:07:26 2022 -0600
+
+    passwd line
+kb/hacking/common-commands.md
+kb/hacking/priv-esc/etc-passwd-writable-line.md
+```
+
+` zet/20221016233323/README.md `
+
+# Related
+
+- 20221014185804
+
+- 20221014190001
+
+- 20221014185921
+
+- 20221014185828
+
+- 20221014185839
+
+- 20221014185918
+
+- 20221014185938
+
+- 20221014185950
+
+- 20221014185846
+
+- 20221014185909
+
+- 20221014190144
+
+- 20221014185440
+
+- 20221016233321
+
+Tags:
+
+    #dayinhistory

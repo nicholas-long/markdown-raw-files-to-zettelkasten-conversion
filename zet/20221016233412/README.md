@@ -1,0 +1,43 @@
+# commits for day of 2022-04-12
+
+- concept of `commits for day of 2022-04-12`
+
+```
+
+commit b03a7474098cb42cfbfac2f92352db3f0434c574
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Tue Apr 12 03:12:21 2022 +0000
+
+    wfuzz proxy
+kb/hacking/commands/wfuzz-fuzzing.md
+
+commit 0677e67e6e25a87b2ed25a2d1ab45a44102656b0
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Tue Apr 12 04:21:43 2022 +0000
+
+    less scroll
+kb/linux/assorted-notes-and-tips.md
+
+commit 6bcedde8435aafa9628ff0e1cdccde8ab5096e17
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Tue Apr 12 16:24:37 2022 +0000
+
+    powershell info and windows writable paths
+kb/hacking/powershell/powershell-tricks.md
+```
+
+` zet/20221016233412/README.md `
+
+# Related
+
+- 20221014190039
+
+- 20221014190206
+
+- 20221014185849
+
+- 20221016233410
+
+Tags:
+
+    #dayinhistory
