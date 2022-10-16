@@ -7,9 +7,7 @@
 # Related
 
 - [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
-
 - [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
-
 - [20221012134856](/zet/20221012134856/README.md) what is org roam?
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten

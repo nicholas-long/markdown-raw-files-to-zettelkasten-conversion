@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
 - [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public

@@ -9,14 +9,12 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
 - [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
-
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
-
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
-
 - [20221008042814](/zet/20221008042814/README.md) WIP
-
 - [20221012090938](/zet/20221012090938/README.md) my One Mix netbook
 
 Tags:

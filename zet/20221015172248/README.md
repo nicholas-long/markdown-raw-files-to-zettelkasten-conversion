@@ -44,6 +44,8 @@ coyote@netbook:~$ cat .config/monitors.xml
 
 # Related
 
+- [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
+- [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221015173433](/zet/20221015173433/README.md) gnome window manager
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221008042814](/zet/20221008042814/README.md) WIP
