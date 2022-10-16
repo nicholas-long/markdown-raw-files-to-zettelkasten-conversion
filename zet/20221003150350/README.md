@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221015172248](/zet/20221015172248/README.md) how to fix ubuntu gnome not remembering screen rotation on One Mix netbook?
 - [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221014190048](/zet/20221014190048/README.md) kb file named kb/hacking/misc/troubleshoot-error-messages.md

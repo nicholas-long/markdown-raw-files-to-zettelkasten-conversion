@@ -34,11 +34,8 @@ sensor:modalias:acpi:BOSC0200*:dmi*
 # Related
 
 - [20221012090938](/zet/20221012090938/README.md) my One Mix netbook
-
 - [20221012101349](/zet/20221012101349/README.md) ubuntu
-
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
-
 - [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221015173433](/zet/20221015173433/README.md) gnome window manager
