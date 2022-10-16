@@ -1,11 +1,16 @@
 # future enhancements to zet cmd
 
 - move graph browser into zet cmd card
+- git submenu in graph browswer instead of "stat"
+  - pull
+  - commit with message prompt
 - put new links on bottom instead of top? -- made card?
 - rewrite zet cmd implementation to be plain
   - split up command actions into files like https://github.com/naps62/zk
   - use graph browser with fzf functionality as the whole workflow productivity loop to run
     - split things up into subcommands
+- auto commit after enrich ?
+  - i think the process of checking the diff after enriching is useful to verify it worked
 - archive old cards into tgz file - maybe attach to a speical node to do it?
 - add nodes from graph text file like graphviz
 - readline vi hotkeys
