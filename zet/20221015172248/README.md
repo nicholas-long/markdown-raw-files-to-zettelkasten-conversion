@@ -34,7 +34,6 @@ sensor:modalias:acpi:BOSC0200*:dmi*
 # Related
 
 - [20221009095853](/zet/20221009095853/README.md) finished
-
 - [20221012090938](/zet/20221012090938/README.md) my One Mix netbook
 - [20221012101349](/zet/20221012101349/README.md) ubuntu
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
