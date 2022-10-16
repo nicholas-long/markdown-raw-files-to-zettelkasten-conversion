@@ -10,6 +10,7 @@
   - https://github.com/NicolasBernaerts/ubuntu-scripts/blob/master/ubuntugnome/update-monitor-position
   - https://askubuntu.com/questions/6137/saving-monitor-settings
 - i think this is going to work: make a desktop shortcut using this information and click it on first boot when the screen is sideways
+- https://forum.xda-developers.com/t/one-mix-yoga-alternative-os-linux-ubuntu-android.3815725/
 
 - monitors.xml
 ```
