@@ -6,6 +6,8 @@
 - tried launching gnome-control-center as root - it does not work
 - gnome config is stored in `/etc/gdm/gdm.conf`
 - local config stored in monitors.xml
+- script to update based on monitors file is available at https://raw.githubusercontent.com/NicolasBernaerts/ubuntu-scripts/master/ubuntugnome/update-monitor-position
+  - https://askubuntu.com/questions/6137/saving-monitor-settings
 
 - monitors.xml
 ```
