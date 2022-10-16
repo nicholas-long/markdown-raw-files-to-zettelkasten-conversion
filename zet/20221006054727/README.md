@@ -7,6 +7,9 @@
 - most recent commit change: `zet/20221006054727/filemodoutput`
 - commits, timestamps, and files: `zet/20221006054727/commitdetails`
 - script `zet/20221006054727/gitcommitfilelog`
+- script to insert commit logs into cards `zet/20221006032546/insertsnippet`
+  - param 1: snippet ID
+  - param 2: file with which to replace the snippet contents
 
 ```bash
 
@@ -49,6 +52,7 @@ do
 done
 
 ln -s zet/20221006054727/days gitdays
+
 ```
 
 ` zet/20221006054727/README.md `
