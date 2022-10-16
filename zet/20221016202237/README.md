@@ -21,10 +21,9 @@ fi
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221009095853](/zet/20221009095853/README.md) finished
-
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
-
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
 
 Tags:

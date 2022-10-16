@@ -56,7 +56,6 @@ ln -s zet/20221006054727/days gitdays
 # Related
 
 - [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content
-
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221008182309](/zet/20221008182309/README.md) learning git internals

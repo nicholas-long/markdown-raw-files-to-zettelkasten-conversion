@@ -6,6 +6,7 @@ things that are finished.
 
 # Related
 
+- [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content
 - [20221015172248](/zet/20221015172248/README.md) how to fix ubuntu gnome not remembering screen rotation on One Mix netbook?
 - [20221012090359](/zet/20221012090359/README.md) first post from netbook
 - [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
