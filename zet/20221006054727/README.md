@@ -109,6 +109,7 @@ ARGIND == 2 {
 }
 ' zet/20221006054727/kb_files_ids zet/20221006054727/days/$d
 zet/20221006032546/insertsnippet $newid zet/20221006054727/logs/$d.log
+sed -i 's/#idea/#dayinhistory/' zet/$newid/README.md
 
 ```
 
