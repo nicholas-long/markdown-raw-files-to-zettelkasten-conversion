@@ -5,6 +5,7 @@
 - went down a rabbit hole with the version of gitea being exactly vulnerable to CVE-2022-30781
   - unable to get it working because of the requirement in gitea of non-LAN DNS hostnames
   - just needed a nudge - i knew how to find the credentials once i heard i should look for them
+- missed the fact that there was another branch in the leaked git repo
 
 ```
 Steps Taken
