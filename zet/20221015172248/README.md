@@ -7,7 +7,9 @@
 - gnome config is stored in `/etc/gdm/gdm.conf`
 - local config stored in monitors.xml
 - script to update based on monitors file is available at https://raw.githubusercontent.com/NicolasBernaerts/ubuntu-scripts/master/ubuntugnome/update-monitor-position
+  - https://github.com/NicolasBernaerts/ubuntu-scripts/blob/master/ubuntugnome/update-monitor-position
   - https://askubuntu.com/questions/6137/saving-monitor-settings
+- i think this is going to work: make a desktop shortcut using this information and click it on first boot when the screen is sideways
 
 - monitors.xml
 ```
