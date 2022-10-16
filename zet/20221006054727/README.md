@@ -102,7 +102,6 @@ ARGIND == 2 {
       print(command)
       system(command)
   } else print "UNK ID", $3, fn
-  lookup awk column 3 in `id_for[$3]`
 }
 ' zet/20221006054727/kb_files_ids zet/20221006054727/days/$d
 
