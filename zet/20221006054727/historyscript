@@ -5,6 +5,11 @@ for d in $(ls zet/20221006054727/days); do
   sleep 1.5
   export newid=$(./zc new -t "commits for day of $d" | awk '/created zet ID/ { print $NF }')
   echo "i got the ID $newid"
+  if [ ! -z "$lastid" ]; then
+    echo "linking with yesterday"
+    ./zc addref -t $newid $lastid
+  fi
+  export lastid="$newid"
   awk '
   ARGIND == 1 { id_for[$2] = $1 }
   ARGIND == 2 {
