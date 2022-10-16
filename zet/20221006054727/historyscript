@@ -2,6 +2,7 @@
 
 for d in $(ls zet/20221006054727/days); do
   echo $d
+  sleep 1.5
   export newid=$(./zc new -t "commits for day of $d" | awk '/created zet ID/ { print $NF }')
   echo "i got the ID $newid"
   awk '
