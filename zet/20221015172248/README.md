@@ -5,9 +5,40 @@
   - had that problem with kali too. fixed in x display settings by diagnosing xorg log?
 - tried launching gnome-control-center as root - it does not work
 - gnome config is stored in `/etc/gdm/gdm.conf`
+- local config stored in monitors.xml
 
+- monitors.xml
 ```
+coyote@netbook:~$ cat .config/monitors.xml
+<monitors version="2">
+  <configuration>
+    <logicalmonitor>
+      <x>0</x>
+      <y>0</y>
+      <scale>2</scale>
+      <primary>yes</primary>
+      <transform>
+        <rotation>right</rotation>
+        <flipped>no</flipped>
+      </transform>
+      <monitor>
+        <monitorspec>
+          <connector>eDP-1</connector>
+          <vendor>unknown</vendor>
+          <product>unknown</product>
+          <serial>unknown</serial>
+        </monitorspec>
+        <mode>
+          <width>1200</width>
+          <height>1920</height>
+          <rate>59.984512329101562</rate>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+  </configuration>
+</monitors>
 ```
+- trying something wild `chmod g-w monitors.xml`
 
 ` zet/20221015172248/README.md `
 
@@ -20,6 +51,8 @@
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
 - [20221012101349](/zet/20221012101349/README.md) ubuntu
 - [20221012090938](/zet/20221012090938/README.md) my One Mix netbook
+- https://askubuntu.com/questions/55769/where-does-gnome-display-properties-save-the-different-configurations
+- https://www.halolinux.us/ubuntu-study/gnome-display-manager-configuration-file.html gdm file
 
 Tags:
 
