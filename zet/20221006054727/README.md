@@ -95,11 +95,12 @@ echo "i got the ID $newid"
 awk '
 ARGIND == 1 { id_for[$2] = $1 }
 ARGIND == 2 {
+  print
   fn = $3
   gsub(/^\./,"kb", fn)
   if (fn in id_for) {
       command = "./zc addref -t " ENVIRON["newid"] " " id_for[fn]
-      print(command)
+      print command
       system(command)
   } else print "UNK ID", $3, fn
 }
