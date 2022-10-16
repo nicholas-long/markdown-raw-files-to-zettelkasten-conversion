@@ -1,0 +1,24 @@
+
+commit 4682b14dad2a760674c38adcb0e1cb0f47e9841d
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Sun Apr 3 00:05:12 2022 +0000
+
+    notes from ippsec video about shibboleth
+kb/hacking/commands/tcpdump-listen-for-pings.md
+kb/hacking/priv-esc/polkit-notes.md
+
+commit 87b85b4c915d5e649453cb66e605505bc08415d8
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Sun Apr 3 05:11:46 2022 +0000
+
+    notes from s1ren video kioptrix-1
+kb/hacking/commands/enum4linux-command.md
+kb/hacking/commands/nmap-command.md
+kb/hacking/commands/nmap-vuln-scan.md
+
+commit 275bba2effa3830c806ef3371b63c7a1276e14f6
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Sun Apr 3 06:36:40 2022 +0000
+
+    nmap TCP and script flags
+kb/hacking/commands/nmap-command.md

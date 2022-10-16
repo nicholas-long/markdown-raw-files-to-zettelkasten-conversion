@@ -1,0 +1,31 @@
+
+commit ac35ccc972fa5690abb4fdcb4aec984ec3a8844c
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Wed May 25 01:53:15 2022 +0000
+
+    start notes for ippsec video silo
+kb/linux/package-manager-commands.md
+
+commit 06ab9722414e0c9690ee09a4ccbfff4067937ca6
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Wed May 25 07:10:13 2022 +0000
+
+    reorganize
+kb/hacking/commands/encode-powershell-base64-windows.md
+kb/hacking/common-commands.md
+kb/hacking/powershell/powershell-tricks.md
+
+commit a2f943c0ac1ca650eae7656b85cb7c766e61347c
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Wed May 25 20:15:08 2022 +0000
+
+    reorganize privesc to try lists into multiple files
+kb/hacking/to-try-lists/privesc/linux.md
+kb/hacking/to-try-lists/privesc/windows.md
+
+commit d07e9df7d603fdd782c54558b382a17754fa59c0
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Wed May 25 20:15:14 2022 +0000
+
+    useful
+kb/awk-scripting/bash-awk-quick-commands.md

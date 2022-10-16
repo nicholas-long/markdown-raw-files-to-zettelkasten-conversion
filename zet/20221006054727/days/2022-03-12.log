@@ -1,0 +1,8 @@
+
+commit 880f39638561afaf7bbd06bd1523a13d37cdf65d
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Sat Mar 12 01:24:38 2022 +0000
+
+    important commands used relatively often
+kb/hacking/commands/encode-powershell-base64-windows.md
+kb/hacking/commands/tcpdump-listen-for-pings.md

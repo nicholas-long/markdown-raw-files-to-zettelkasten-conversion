@@ -20,6 +20,34 @@ zet/20221006054727/gitcommitfilelog
 
 zet/20221006054727/gitcommitfilelog | tee zet/20221006054727/commitdetails
 zet/20221006054727/commitdetails
+
+# orgainizing commit details into files
+mkdir -p zet/20221006054727/days
+
+awk '
+{
+  outf = "zet/20221006054727/days/" $2
+  print $1, $3, $4 > outf
+}
+' <(sort -n zet/20221006054727/commitdetails)
+
+rm -rf zet/20221006054727/days
+
+# command to log the commit we want ( run from kb as working dir )
+#git log 8a5794b784f77e510be4c44be78b0c0699ad6326 -n 1
+
+touch zet/20221006054727/getcommitawk
+chmod +x zet/20221006054727/getcommitawk
+
+zet/20221006054727/getcommitawk zet/20221006054727/days/2022-07-10
+
+zet/20221006054727/getcommitawk zet/20221006054727/days/2022-09-27
+
+for n in $(ls zet/20221006054727/days)
+do
+  zet/20221006054727/getcommitawk zet/20221006054727/days/$n > zet/20221006054727/days/$n.log
+done
+
 ```
 
 ` zet/20221006054727/README.md `

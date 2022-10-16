@@ -1,0 +1,16 @@
+
+commit cc3e29b2dd5c0c2273f93fbb4a65ad5cfc601127
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Wed Aug 31 12:01:18 2022 -0400
+
+    notes from monteverde
+kb/hacking/misc/buzzwords-and-acronyms.md
+kb/hacking/powershell/powershell-tricks.md
+kb/hacking/windows/decrypt-azure-ad-connect.md
+
+commit e4141f4abbe7469e990cb2714887a695eb1f4c25
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Wed Aug 31 16:27:55 2022 +0000
+
+    cool suggestion from alh4zr3d
+kb/hacking/to-try-lists/HTTP.md

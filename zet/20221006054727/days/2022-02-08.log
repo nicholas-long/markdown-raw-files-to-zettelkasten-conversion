@@ -1,0 +1,7 @@
+
+commit d960d8c3f4aabe05b348438bab39d19864431256
+Author: Kali Linux <nicholas.eden.long@gmail.com>
+Date:   Tue Feb 8 22:15:17 2022 +0000
+
+    connecting to confluent
+kb/kafka/connect-confluent.md

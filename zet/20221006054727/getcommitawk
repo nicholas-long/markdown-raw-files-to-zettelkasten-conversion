@@ -1,0 +1,12 @@
+#!/usr/bin/awk -f
+# epoch timestamp, commit id, filename
+$2 != last {
+  print ""
+  system("cd " ENVIRON["HOME"] "/kb && git log " $2 " -n 1")
+  last = $2
+}
+{
+  file=$NF
+  gsub(/^\./, "kb", file)
+  print file
+}

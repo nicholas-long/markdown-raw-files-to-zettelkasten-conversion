@@ -1,0 +1,7 @@
+
+commit 648dcfa0257286832afea1726623ad1a6426b289
+Author: nicholas-long <nicholas.eden.long@gmail.com>
+Date:   Sun Feb 13 23:15:58 2022 -0600
+
+    qterminal fix ctrl h hotkey
+kb/tmux/get-ctrl-h-to-work.md

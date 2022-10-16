@@ -1,0 +1,29 @@
+
+commit af4781140074665bf33562fb4e013ab40af14409
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Thu Apr 28 15:56:16 2022 +0000
+
+    ssh port forwarding should have been in my notes already
+kb/networking/port-forwarding.md
+
+commit 97dbc21e0c659272299fc1a7d74766cec26ee82e
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Thu Apr 28 19:25:38 2022 +0000
+
+    commands for windows enumeration
+kb/hacking/commands/crackmapexec-commands.md
+kb/hacking/commands/impacket-commands.md
+
+commit a971d347deec8b74e7400568c710bd38caebd1f4
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Thu Apr 28 19:39:36 2022 +0000
+
+    kerberoast getuserspns
+kb/hacking/commands/impacket-commands.md
+
+commit 1938aae5a04680c8e1cd04560a746cb418c21cc2
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Thu Apr 28 22:54:56 2022 +0000
+
+    smbclient
+kb/hacking/commands/smbclient-commands.md

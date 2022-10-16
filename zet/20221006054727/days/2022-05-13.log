@@ -1,0 +1,29 @@
+
+commit 657780bbefac7d4cc4b57f7b9df45f0f561964bb
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Fri May 13 03:41:21 2022 +0000
+
+    ssh dynamic port forwarding (socks)
+kb/networking/port-forwarding.md
+
+commit 9324c07c2907af3572becc95d0db54b5a18141ee
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Fri May 13 21:24:56 2022 +0000
+
+    notes from old machine notes
+kb/hacking/commands/ssh-commands.md
+
+commit 4c5a2e4712ad54e5e7014e1e889f4fa93f7f85e3
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Fri May 13 22:15:27 2022 +0000
+
+    goldmine of dos enumeration commands from old PWK box notes
+kb/hacking/windows/dos-and-powershell-enumeration-quick.md
+
+commit 207776ad6dc78efdbe1269cdd9886e043aa307f5
+Author: Nicholas Long <nicholas.eden.long@gmail.com>
+Date:   Fri May 13 23:17:06 2022 +0000
+
+    more old notes
+kb/hacking/commands/smb-mount-share.md
+kb/hacking/commands/windows-active-directory-kerberos-commands.md

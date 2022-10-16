@@ -1,0 +1,72 @@
+
+commit 2dd4a65e23cd20170c0089a55d37ee3ceeae8a22
+Author: coyote <nicholas.eden.long@gmail.com>
+Date:   Fri May 27 11:46:25 2022 -0500
+
+    organize info from old file
+kb/hacking/commands/enum4linux-command.md
+kb/hacking/commands/gobuster.md
+kb/hacking/commands/hydra.md
+kb/hacking/commands/nfs.md
+kb/hacking/commands/smbclient-commands.md
+kb/hacking/commands/tftp-reference.md
+kb/hacking/common-commands.md
+
+commit 0ea531afe323f90b888013f51d075bcf92ce181c
+Author: coyote <nicholas.eden.long@gmail.com>
+Date:   Fri May 27 11:54:02 2022 -0500
+
+    move
+kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
+
+commit bb65ed3c23fdbdff85d24e0abbedcd37945d4225
+Author: coyote <nicholas.eden.long@gmail.com>
+Date:   Fri May 27 12:35:16 2022 -0500
+
+    organize files
+kb/hacking/commands/cracking-encrypted-files-with-john-the-ripper.md
+kb/hacking/commands/openssl-general.md
+kb/hacking/commands/pivot-tunnel-through-chisel.md
+kb/hacking/commands/pureftp-commands.md
+kb/hacking/exploit/shellshock-exploit.md
+kb/hacking/methodology/API-enumeration.md
+kb/hacking/methodology/IDOR-notes.md
+kb/hacking/methodology/LFI-procedure.md
+kb/hacking/methodology/SSTI-test-payloads.md
+kb/hacking/methodology/XSS.md
+kb/hacking/methodology/dns-enum.md
+kb/hacking/methodology/hashcat-crack-salted-password.md
+kb/hacking/methodology/jwt.md
+kb/hacking/methodology/mobile-apps-and-api-testing.md
+kb/hacking/methodology/nmap-scripts.md
+kb/hacking/methodology/oracle.md
+kb/hacking/methodology/osint-overview.md
+kb/hacking/methodology/owasp-top-10-api-bugs.md
+kb/hacking/methodology/source-analysis.md
+kb/hacking/methodology/sqli-manual-mysql-payloads.md
+kb/hacking/pwn/msfvenom-shellcode-for-pwn.md
+kb/hacking/tricks/build-windows-exploits.md
+kb/hacking/tricks/ctf-get-tld-working-firefox-url-bar.md
+kb/hacking/tricks/dump-hashes-from-registry-backups.md
+kb/hacking/tricks/exploit-asterisk-with-touch.md
+kb/hacking/tricks/hibernate-hql-injection.md
+kb/hacking/tricks/identify-linux-version-service-versions.md
+kb/hacking/tricks/install-pip-modules-on-target-as-files.md
+kb/hacking/tricks/jenkins-rev-shell-code.md
+kb/hacking/tricks/make-wordlists-fuzzing-with-bash.md
+kb/hacking/tricks/mysql-tricks.md
+kb/hacking/tricks/ping-subnet-os-enumeration.md
+kb/hacking/tricks/scan-firewall-reverse-ports.md
+kb/hacking/tricks/smtp-send-email-cli.md
+kb/hacking/tricks/stabilize-shell.md
+kb/hacking/tricks/valid-https-server.md
+kb/hacking/tricks/vbscript-wget-hack.md
+kb/hacking/tricks/wfuzz-identify-versions.md
+kb/hacking/tricks/windows-encoding-base64-utf16.md
+kb/hacking/windows/mimikatz.md
+kb/hacking/windows/windows-active-directory-and-privilege-information.md
+kb/hacking/windows/windows-cheatsheet-resources.md
+kb/hacking/windows/windows-information.md
+kb/hacking/windows/windows-reverse-shell.md
+kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md
+kb/scratch.md
