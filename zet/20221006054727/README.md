@@ -93,12 +93,12 @@ for d in $(ls zet/20221006054727/days); do
 done
 
 d="2022-09-27"
+
 export newid=$(./zc new -t "commits for day of $d" | awk '/created zet ID/ { print $NF }')
 echo "i got the ID $newid"
 awk '
 ARGIND == 1 { id_for[$2] = $1 }
 ARGIND == 2 {
-  print
   fn = $3
   gsub(/^\./,"kb", fn)
   if (fn in id_for) {
@@ -110,6 +110,29 @@ ARGIND == 2 {
 ' zet/20221006054727/kb_files_ids zet/20221006054727/days/$d
 zet/20221006032546/insertsnippet $newid zet/20221006054727/logs/$d.log
 sed -i 's/#idea/#dayinhistory/' zet/$newid/README.md
+
+
+for d in $(ls zet/20221006054727/days); do
+  echo $d
+  export newid=$(./zc new -t "commits for day of $d" | awk '/created zet ID/ { print $NF }')
+  echo "i got the ID $newid"
+  awk '
+  ARGIND == 1 { id_for[$2] = $1 }
+  ARGIND == 2 {
+    fn = $3
+    gsub(/^\./,"kb", fn)
+    if (fn in id_for) {
+        command = "./zc addref -t " ENVIRON["newid"] " " id_for[fn]
+        print command
+        system(command)
+    } else print "UNK ID", $3, fn
+  }
+  ' zet/20221006054727/kb_files_ids zet/20221006054727/days/$d
+  zet/20221006032546/insertsnippet $newid zet/20221006054727/logs/$d.log
+  sed -i 's/#idea/#dayinhistory/' zet/$newid/README.md
+done
+
+chmod +x zet/20221006054727/historyscript
 
 ```
 
