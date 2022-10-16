@@ -34,6 +34,12 @@
     - usbc port on laptop is just for power
 - can i remap caps lock to esc?
 
+- cyberdeck-related ideas and improvements
+  - trackball that actually does mouse scroll
+  - LORA receiver
+  - serial converter
+  - gps
+
 ```
 ```
 

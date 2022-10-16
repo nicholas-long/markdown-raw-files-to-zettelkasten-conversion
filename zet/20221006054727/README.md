@@ -10,6 +10,7 @@
 - script to insert commit logs into cards `zet/20221006032546/insertsnippet`
   - param 1: snippet ID
   - param 2: file with which to replace the snippet contents
+- list of kb files by zet id is stored at `zet/20221006054727/kb_files_ids`
 
 ```bash
 
@@ -53,11 +54,17 @@ done
 
 ln -s zet/20221006054727/days gitdays
 
+cp kb_files_ids zet/20221006054727/
+
+zet/20221006054727/kb_files_ids
+
 ```
 
 ` zet/20221006054727/README.md `
 
 # Related
+
+- [20221014183030](/zet/20221014183030/README.md) create cards for kb files
 
 - [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
