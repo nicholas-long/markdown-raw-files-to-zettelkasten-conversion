@@ -17,6 +17,10 @@
   - ubuntu does not remember that i want the screen rotated to normal computer mode
     - had that problem with kali too. fixed in x display settings by diagnosing xorg log?
     - [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
+  - standby and sleeping issues
+    - can sleep with lid closed for hours and pop open instantly into vim
+    - until it decides to suspend - i think?
+    - after starting from suspend, screen is black and unresponsive
   - keyboard kinda cramped
     - vim is actually the only way it's practical to type or edit anything
   - touchpad C mouse lol - terrible
