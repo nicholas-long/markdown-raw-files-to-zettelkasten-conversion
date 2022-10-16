@@ -48,11 +48,14 @@ do
   zet/20221006054727/getcommitawk zet/20221006054727/days/$n > zet/20221006054727/days/$n.log
 done
 
+ln -s zet/20221006054727/days gitdays
 ```
 
 ` zet/20221006054727/README.md `
 
 # Related
+
+- [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content
 
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221008042814](/zet/20221008042814/README.md) WIP
