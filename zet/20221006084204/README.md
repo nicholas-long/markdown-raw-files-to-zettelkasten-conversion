@@ -1,19 +1,17 @@
 # future enhancements to zet cmd
 
-- launch new tmux windows or panes for things
-  - tmux popup ?
-  - tmux windows
-  - panes
-- add nodes from graph text file like graphviz
+- move graph browser into zet cmd card
 - put new links on bottom instead of top? -- made card?
+- rewrite zet cmd implementation to be plain
+  - split up command actions into files like https://github.com/naps62/zk
+  - use graph browser with fzf functionality as the whole workflow productivity loop to run
+    - split things up into subcommands
+- archive old cards into tgz file - maybe attach to a speical node to do it?
+- add nodes from graph text file like graphviz
 - readline vi hotkeys
 - track usage with quick addition of tee to a logfile after search
-- a "wild connecting mode" to just select a bunch of stuff and associate it all together
-  - removed from vilink: move multi-link to separate feature. - removed for now
-- fzf interactive link traversal browsing
 - put timestamps on bottom? `{{date}}`
 - make reference template / example implementations
-- split up command actions into files like https://github.com/naps62/zk
 
 ## move these
 

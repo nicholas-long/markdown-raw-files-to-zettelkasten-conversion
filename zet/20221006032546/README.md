@@ -14,6 +14,8 @@ name: zc
       - still trying to figure out this shortcut since it's not perfect
 - run with `z menu` - interactive menu loop with fzf prompt for speed
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
+- browsing - fzf interactive markdown preview browsser that can traverse and edit links
+  - can launch new tmux windows if tmux is running
 
 - TODO: dependencies?
   - fzf
