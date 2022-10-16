@@ -1,10 +1,6 @@
 # implement a graph query language
 
 - would allow for quickly and easily scripting some stuff up in cards
-- search by tags and connections
-  - ex: return card IDs of multiple inboxes
-  - `#developer -> #inbox`
-    - return the last thing automatically?
 - shouldn't be too hard
 - like relational database from old awk book
 - look at graphql for inspiration?
@@ -12,7 +8,8 @@
 - things this system can do quickly
   - load ids by tags
   - reading all titles is pretty fast
-  - possible to read all content
+  - possible to grep all content pretty quickly still
+  - search by tags and connections
 
 ```
 all qureries return raw IDs
