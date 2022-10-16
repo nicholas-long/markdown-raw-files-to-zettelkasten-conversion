@@ -43,7 +43,6 @@
 
 - [20221015173720](/zet/20221015173720/README.md) touchscreen concept
 - [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
-- [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
 - [20221013203732](/zet/20221013203732/README.md) feels like "being plugged into the matrix"

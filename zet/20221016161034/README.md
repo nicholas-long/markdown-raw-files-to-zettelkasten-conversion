@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
+
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
