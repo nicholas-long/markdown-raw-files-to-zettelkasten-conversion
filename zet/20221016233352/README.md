@@ -37,15 +37,13 @@ kb/hacking/priv-esc/windows-dll-hijack.md
 
 # Related
 
-- 20221014185807
-
-- 20221014185855
-
-- 20221014185938
-
-- 20221014185851
-
-- 20221016233351
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233354](/zet/20221016233354/README.md) commits for day of 2022-03-27
+- [20221014185807](/zet/20221014185807/README.md) kb file named kb/hacking/priv-esc/windows-dll-hijack.md
+- [20221014185855](/zet/20221014185855/README.md) kb file named kb/hacking/commands/generate-cewl-wordlist.md
+- [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md
+- [20221014185851](/zet/20221014185851/README.md) kb file named kb/hacking/commands/hydra-default-credentials.md
+- [20221016233351](/zet/20221016233351/README.md) commits for day of 2022-03-23
 
 Tags:
 

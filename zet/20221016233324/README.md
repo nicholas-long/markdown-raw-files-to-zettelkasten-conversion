@@ -30,13 +30,12 @@ kb/hacking/commands/list-dpkg-packages-installed-date.md
 
 # Related
 
-- 20221014185941
-
-- 20221014190144
-
-- 20221014185446
-
-- 20221016233323
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233326](/zet/20221016233326/README.md) commits for day of 2022-02-27
+- [20221014185941](/zet/20221014185941/README.md) kb file named kb/hacking/commands/list-dpkg-packages-installed-date.md
+- [20221014190144](/zet/20221014190144/README.md) kb file named kb/linux/install-alacritty.md
+- [20221014185446](/zet/20221014185446/README.md) kb file named kb/docker/docker-hd-space.md
+- [20221016233323](/zet/20221016233323/README.md) commits for day of 2022-02-25
 
 Tags:
 

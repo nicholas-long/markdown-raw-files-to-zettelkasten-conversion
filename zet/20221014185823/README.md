@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233635](/zet/20221016233635/README.md) commits for day of 2022-08-10
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150872](/zet/20221003150872/README.md) host quick server smtp receive email server
 - [20221003150873](/zet/20221003150873/README.md) host quick server

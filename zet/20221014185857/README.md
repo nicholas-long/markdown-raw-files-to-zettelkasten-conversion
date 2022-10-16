@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150787](/zet/20221003150787/README.md) openssl convert certificate to PKCS12 format
 - [20221003150788](/zet/20221003150788/README.md) openssl sign a certificate signing request with the private key of a CA certificate authority

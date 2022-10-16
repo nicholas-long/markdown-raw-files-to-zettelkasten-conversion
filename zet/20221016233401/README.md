@@ -33,19 +33,14 @@ kb/hacking/commands/nmap-command.md
 
 # Related
 
-- 20221014185938
-
-- 20221014185836
-
-- 20221014185938
-
-- 20221014185858
-
-- 20221014185817
-
-- 20221014185943
-
-- 20221016233359
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233402](/zet/20221016233402/README.md) commits for day of 2022-04-05
+- [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md
+- [20221014185836](/zet/20221014185836/README.md) kb file named kb/hacking/commands/nmap-vuln-scan.md
+- [20221014185858](/zet/20221014185858/README.md) kb file named kb/hacking/commands/enum4linux-command.md
+- [20221014185817](/zet/20221014185817/README.md) kb file named kb/hacking/priv-esc/polkit-notes.md
+- [20221014185943](/zet/20221014185943/README.md) kb file named kb/hacking/commands/tcpdump-listen-for-pings.md
+- [20221016233359](/zet/20221016233359/README.md) commits for day of 2022-04-01
 
 Tags:
 

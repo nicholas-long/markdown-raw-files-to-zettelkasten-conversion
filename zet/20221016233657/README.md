@@ -16,9 +16,10 @@ kb/hacking/to-try-lists/got-source-code.md
 
 # Related
 
-- 20221014185622
-
-- 20221016233655
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233658](/zet/20221016233658/README.md) commits for day of 2022-08-29
+- [20221014185622](/zet/20221014185622/README.md) kb file named kb/hacking/to-try-lists/got-source-code.md
+- [20221016233655](/zet/20221016233655/README.md) commits for day of 2022-08-24
 
 Tags:
 

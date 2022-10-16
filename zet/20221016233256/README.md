@@ -53,23 +53,15 @@ kb/hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md
 
 # Related
 
-- 20221014185811
-
-- 20221014185811
-
-- 20221014185447
-
-- 20221014185811
-
-- 20221014190236
-
-- 20221014185458
-
-- 20221014185459
-
-- 20221014190242
-
-- 20221016233254
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233258](/zet/20221016233258/README.md) commits for day of 2022-01-29
+- [20221014185811](/zet/20221014185811/README.md) kb file named kb/hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md
+- [20221014185447](/zet/20221014185447/README.md) kb file named kb/docker/lookup-missing-command-packages.md
+- [20221014190236](/zet/20221014190236/README.md) kb file named kb/fzf-fuzzy-find/help.md
+- [20221014185458](/zet/20221014185458/README.md) kb file named kb/networking/socat-proxy.md
+- [20221014185459](/zet/20221014185459/README.md) kb file named kb/networking/port-forwarding.md
+- [20221014190242](/zet/20221014190242/README.md) kb file named kb/bash-scripting/capture-web-site-screenshot.md
+- [20221016233254](/zet/20221016233254/README.md) commits for day of 2022-01-26
 
 Tags:
 

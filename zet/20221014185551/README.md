@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003151222](/zet/20221003151222/README.md) identify linux version from service version ubuntu
 - [20221003151223](/zet/20221003151223/README.md) identify linux version from service version

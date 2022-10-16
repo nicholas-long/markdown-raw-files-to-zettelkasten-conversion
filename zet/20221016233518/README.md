@@ -90,37 +90,20 @@ kb/hacking/windows/dll-to-run-commands.md
 
 # Related
 
-- 20221014185657
-
-- 20221014185718
-
-- 20221014185710
-
-- 20221014185710
-
-- 20221014185602
-
-- 20221014190057
-
-- 20221014190056
-
-- 20221014185617
-
-- 20221014185632
-
-- 20221014185450
-
-- 20221014185509
-
-- 20221014185632
-
-- 20221014185706
-
-- 20221014185632
-
-- 20221014185617
-
-- 20221016233516
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233520](/zet/20221016233520/README.md) commits for day of 2022-06-04
+- [20221014185657](/zet/20221014185657/README.md) kb file named kb/hacking/windows/dll-to-run-commands.md
+- [20221014185718](/zet/20221014185718/README.md) kb file named kb/hacking/windows/windows-information.md
+- [20221014185710](/zet/20221014185710/README.md) kb file named kb/hacking/windows/service-account-privileges.md
+- [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md
+- [20221014190057](/zet/20221014190057/README.md) kb file named kb/hacking/misc/web-server-default-webroots.md
+- [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
+- [20221014185617](/zet/20221014185617/README.md) kb file named kb/hacking/to-try-lists/procedure.md
+- [20221014185632](/zet/20221014185632/README.md) kb file named kb/hacking/to-try-lists/HTTP-proxy-squid-proxy.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md
+- [20221014185706](/zet/20221014185706/README.md) kb file named kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md
+- [20221016233516](/zet/20221016233516/README.md) commits for day of 2022-06-02
 
 Tags:
 

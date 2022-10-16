@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233514](/zet/20221016233514/README.md) commits for day of 2022-06-01
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003151276](/zet/20221003151276/README.md) linux data science issues
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities

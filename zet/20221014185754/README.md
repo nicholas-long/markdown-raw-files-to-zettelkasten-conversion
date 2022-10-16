@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221016233642](/zet/20221016233642/README.md) commits for day of 2022-08-15
+- [20221016233451](/zet/20221016233451/README.md) commits for day of 2022-05-17
 - [20221003150941](/zet/20221003150941/README.md) python imports files vs loading as libraries
 - [20221003150942](/zet/20221003150942/README.md) python imports
 - [20221003150940](/zet/20221003150940/README.md) python imports library search path

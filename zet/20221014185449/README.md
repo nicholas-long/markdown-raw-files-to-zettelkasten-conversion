@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233525](/zet/20221016233525/README.md) commits for day of 2022-06-15
 - [20221003150094](/zet/20221003150094/README.md) bash scripts sh nmap script types
 - [20221003150084](/zet/20221003150084/README.md) bash scripts sh oracle
 - [20221003150083](/zet/20221003150083/README.md) bash scripts sh package it all

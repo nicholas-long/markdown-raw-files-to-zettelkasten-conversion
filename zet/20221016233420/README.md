@@ -17,11 +17,11 @@ kb/hacking/pwn/gef-commands.md
 
 # Related
 
-- 20221014190004
-
-- 20221014190018
-
-- 20221016233419
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233422](/zet/20221016233422/README.md) commits for day of 2022-04-21
+- [20221014190004](/zet/20221014190004/README.md) kb file named kb/hacking/pwn/gef-commands.md
+- [20221014190018](/zet/20221014190018/README.md) kb file named kb/hacking/pwn/debug-terminal-setup.md
+- [20221016233419](/zet/20221016233419/README.md) commits for day of 2022-04-17
 
 Tags:
 

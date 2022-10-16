@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233609](/zet/20221016233609/README.md) commits for day of 2022-07-21
 - [20221003151285](/zet/20221003151285/README.md) postgres cannot find table name
 - [20221003151286](/zet/20221003151286/README.md) postgres
 - [20221003151443](/zet/20221003151443/README.md) kb

@@ -51,19 +51,13 @@ kb/ascii/coyote0x90.md
 
 # Related
 
-- 20221014185510
-
-- 20221014190131
-
-- 20221014190141
-
-- 20221014190146
-
-- 20221014190146
-
-- 20221014190146
-
-- 20221016233329
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233333](/zet/20221016233333/README.md) commits for day of 2022-03-10
+- [20221014185510](/zet/20221014185510/README.md) kb file named kb/ascii/coyote0x90.md
+- [20221014190131](/zet/20221014190131/README.md) kb file named kb/linux/tty-notes.md
+- [20221014190141](/zet/20221014190141/README.md) kb file named kb/linux/free-up-space.md
+- [20221014190146](/zet/20221014190146/README.md) kb file named kb/linux/ex-notes.md
+- [20221016233329](/zet/20221016233329/README.md) commits for day of 2022-03-05
 
 Tags:
 

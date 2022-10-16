@@ -46,21 +46,15 @@ kb/hacking/to-try-lists/procedure.md
 
 # Related
 
-- 20221014185617
-
-- 20221014185619
-
-- 20221014190209
-
-- 20221014185450
-
-- 20221014185716
-
-- 20221014185718
-
-- 20221014185716
-
-- 20221016233518
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233522](/zet/20221016233522/README.md) commits for day of 2022-06-05
+- [20221014185617](/zet/20221014185617/README.md) kb file named kb/hacking/to-try-lists/procedure.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014190209](/zet/20221014190209/README.md) kb file named kb/linux/tldr-info.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221014185716](/zet/20221014185716/README.md) kb file named kb/hacking/windows/uacbypass/uac-bypass.md
+- [20221014185718](/zet/20221014185718/README.md) kb file named kb/hacking/windows/windows-information.md
+- [20221016233518](/zet/20221016233518/README.md) commits for day of 2022-06-03
 
 Tags:
 

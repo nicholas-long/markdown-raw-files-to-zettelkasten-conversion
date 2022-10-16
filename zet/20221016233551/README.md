@@ -25,15 +25,13 @@ kb/hacking/analysis/extract-commands.md
 
 # Related
 
-- 20221014190109
-
-- 20221014185600
-
-- 20221014185808
-
-- 20221014190056
-
-- 20221016233549
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233552](/zet/20221016233552/README.md) commits for day of 2022-07-10
+- [20221014190109](/zet/20221014190109/README.md) kb file named kb/hacking/analysis/extract-commands.md
+- [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
+- [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
+- [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
+- [20221016233549](/zet/20221016233549/README.md) commits for day of 2022-07-07
 
 Tags:
 

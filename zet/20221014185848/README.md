@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233502](/zet/20221016233502/README.md) commits for day of 2022-05-24
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150813](/zet/20221003150813/README.md) meterpreter msf migrate local exploit suggester issues
 - [20221003150818](/zet/20221003150818/README.md) metasploit msf run as script from rc file

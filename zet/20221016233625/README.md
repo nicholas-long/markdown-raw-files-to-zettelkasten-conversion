@@ -46,21 +46,14 @@ kb/hacking/to-try-lists/privesc/linux.md
 
 # Related
 
-- 20221014185600
-
-- 20221014185600
-
-- 20221014185550
-
-- 20221014185619
-
-- 20221014185619
-
-- 20221014185935
-
-- 20221014185834
-
-- 20221016233623
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233627](/zet/20221016233627/README.md) commits for day of 2022-08-04
+- [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
+- [20221014185550](/zet/20221014185550/README.md) kb file named kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014185935](/zet/20221014185935/README.md) kb file named kb/hacking/commands/wfuzz-commands.md
+- [20221014185834](/zet/20221014185834/README.md) kb file named kb/hacking/commands/gobuster.md
+- [20221016233623](/zet/20221016233623/README.md) commits for day of 2022-08-02
 
 Tags:
 

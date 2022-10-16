@@ -38,17 +38,14 @@ kb/hacking/to-try-lists/got-source-code.md
 
 # Related
 
-- 20221014185622
-
-- 20221014190047
-
-- 20221014190235
-
-- 20221014185808
-
-- 20221014185450
-
-- 20221016233657
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233700](/zet/20221016233700/README.md) commits for day of 2022-08-30
+- [20221014185622](/zet/20221014185622/README.md) kb file named kb/hacking/to-try-lists/got-source-code.md
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
+- [20221014190235](/zet/20221014190235/README.md) kb file named kb/hardware/msi-motherboard-error-codes.md
+- [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221016233657](/zet/20221016233657/README.md) commits for day of 2022-08-26
 
 Tags:
 

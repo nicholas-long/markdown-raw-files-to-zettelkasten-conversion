@@ -9,6 +9,23 @@
 
 # Related
 
+- [20221016233708](/zet/20221016233708/README.md) commits for day of 2022-09-06
+- [20221016233549](/zet/20221016233549/README.md) commits for day of 2022-07-07
+- [20221016233349](/zet/20221016233349/README.md) commits for day of 2022-03-22
+- [20221016233338](/zet/20221016233338/README.md) commits for day of 2022-03-14
+- [20221016233720](/zet/20221016233720/README.md) commits for day of 2022-09-15
+- [20221016233551](/zet/20221016233551/README.md) commits for day of 2022-07-08
+- [20221016233510](/zet/20221016233510/README.md) commits for day of 2022-05-30
+- [20221016233502](/zet/20221016233502/README.md) commits for day of 2022-05-24
+- [20221016233341](/zet/20221016233341/README.md) commits for day of 2022-03-16
+- [20221016233658](/zet/20221016233658/README.md) commits for day of 2022-08-29
+- [20221016233605](/zet/20221016233605/README.md) commits for day of 2022-07-18
+- [20221016233458](/zet/20221016233458/README.md) commits for day of 2022-05-21
+- [20221016233425](/zet/20221016233425/README.md) commits for day of 2022-04-24
+- [20221016233419](/zet/20221016233419/README.md) commits for day of 2022-04-17
+- [20221016233415](/zet/20221016233415/README.md) commits for day of 2022-04-14
+- [20221016233409](/zet/20221016233409/README.md) commits for day of 2022-04-10
+- [20221016233407](/zet/20221016233407/README.md) commits for day of 2022-04-09
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150911](/zet/20221003150911/README.md) linux enumeration quick commands get all file hashes in directory using find and md5sum
 - [20221003150910](/zet/20221003150910/README.md) linux enumeration quick commands get number of CPU processors

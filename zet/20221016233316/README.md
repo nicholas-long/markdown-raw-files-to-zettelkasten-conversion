@@ -37,15 +37,12 @@ kb/hacking/lan/bettercap-options.md
 
 # Related
 
-- 20221014190114
-
-- 20221014190155
-
-- 20221014190128
-
-- 20221014190128
-
-- 20221016233314
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233318](/zet/20221016233318/README.md) commits for day of 2022-02-22
+- [20221014190114](/zet/20221014190114/README.md) kb file named kb/hacking/lan/bettercap-options.md
+- [20221014190155](/zet/20221014190155/README.md) kb file named kb/linux/force-upgrade.md
+- [20221014190128](/zet/20221014190128/README.md) kb file named kb/linux/xterm-font-size.md
+- [20221016233314](/zet/20221016233314/README.md) commits for day of 2022-02-20
 
 Tags:
 

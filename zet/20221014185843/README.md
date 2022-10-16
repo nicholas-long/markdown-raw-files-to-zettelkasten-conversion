@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221016233630](/zet/20221016233630/README.md) commits for day of 2022-08-07
+- [20221016233722](/zet/20221016233722/README.md) commits for day of 2022-09-16
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150828](/zet/20221003150828/README.md) postgres sql enumeration list databases
 - [20221003150825](/zet/20221003150825/README.md) postgres sql enumeration connect to database

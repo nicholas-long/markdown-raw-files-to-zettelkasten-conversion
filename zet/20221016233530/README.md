@@ -31,15 +31,12 @@ kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md
 
 # Related
 
-- 20221014185603
-
-- 20221014185619
-
-- 20221014185619
-
-- 20221014185802
-
-- 20221016233529
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233532](/zet/20221016233532/README.md) commits for day of 2022-06-22
+- [20221014185603](/zet/20221014185603/README.md) kb file named kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014185802](/zet/20221014185802/README.md) kb file named kb/hacking/priv-esc/c-shells-and-setuid.md
+- [20221016233529](/zet/20221016233529/README.md) commits for day of 2022-06-19
 
 Tags:
 

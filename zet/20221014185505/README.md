@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233705](/zet/20221016233705/README.md) commits for day of 2022-09-02
 - [20221003150065](/zet/20221003150065/README.md) neovim specific
 - [20221003150064](/zet/20221003150064/README.md) neovim specific diff
 - [20221003150067](/zet/20221003150067/README.md) vim

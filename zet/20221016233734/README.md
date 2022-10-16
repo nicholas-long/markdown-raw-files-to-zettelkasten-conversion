@@ -23,11 +23,11 @@ kb/hacking/misc/important-repositories-tools.md
 
 # Related
 
-- 20221014190047
-
-- 20221014185619
-
-- 20221016233732
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233735](/zet/20221016233735/README.md) commits for day of 2022-09-26
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221016233732](/zet/20221016233732/README.md) commits for day of 2022-09-23
 
 Tags:
 

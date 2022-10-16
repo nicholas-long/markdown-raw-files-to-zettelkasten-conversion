@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221016233439](/zet/20221016233439/README.md) commits for day of 2022-05-05
+- [20221016233716](/zet/20221016233716/README.md) commits for day of 2022-09-13
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003151297](/zet/20221003151297/README.md) bash tricks run a command / program in a pty to get color output shodan host

@@ -16,9 +16,10 @@ kb/hacking/notes-template/notes.md
 
 # Related
 
-- 20221014190034
-
-- 20221016233331
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233334](/zet/20221016233334/README.md) commits for day of 2022-03-11
+- [20221014190034](/zet/20221014190034/README.md) kb file named kb/hacking/notes-template/notes.md
+- [20221016233331](/zet/20221016233331/README.md) commits for day of 2022-03-07
 
 Tags:
 

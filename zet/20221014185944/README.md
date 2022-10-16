@@ -9,6 +9,9 @@
 
 # Related
 
+- [20221016233651](/zet/20221016233651/README.md) commits for day of 2022-08-22
+- [20221016233655](/zet/20221016233655/README.md) commits for day of 2022-08-24
+- [20221016233700](/zet/20221016233700/README.md) commits for day of 2022-08-30
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150630](/zet/20221003150630/README.md) LDAP enumeration
 - [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts

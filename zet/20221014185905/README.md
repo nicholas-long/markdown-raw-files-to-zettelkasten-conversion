@@ -9,6 +9,11 @@
 
 # Related
 
+- [20221016233434](/zet/20221016233434/README.md) commits for day of 2022-05-02
+- [20221016233451](/zet/20221016233451/README.md) commits for day of 2022-05-17
+- [20221016233449](/zet/20221016233449/README.md) commits for day of 2022-05-13
+- [20221016233554](/zet/20221016233554/README.md) commits for day of 2022-07-11
+- [20221016233655](/zet/20221016233655/README.md) commits for day of 2022-08-24
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands
 - [20221003150746](/zet/20221003150746/README.md) impacket kerberos commands wmiexec

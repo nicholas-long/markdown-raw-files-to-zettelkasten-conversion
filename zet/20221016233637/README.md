@@ -110,41 +110,23 @@ kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md
 
 # Related
 
-- 20221014185550
-
-- 20221014185509
-
-- 20221014185509
-
-- 20221014185509
-
-- 20221014185450
-
-- 20221014185622
-
-- 20221014185955
-
-- 20221014185700
-
-- 20221014185629
-
-- 20221014185628
-
-- 20221014185829
-
-- 20221014185623
-
-- 20221014185602
-
-- 20221014185718
-
-- 20221014185709
-
-- 20221014185901
-
-- 20221014185901
-
-- 20221016233635
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233639](/zet/20221016233639/README.md) commits for day of 2022-08-12
+- [20221014185550](/zet/20221014185550/README.md) kb file named kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md
+- [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221014185622](/zet/20221014185622/README.md) kb file named kb/hacking/to-try-lists/got-source-code.md
+- [20221014185955](/zet/20221014185955/README.md) kb file named kb/hacking/php/lfi.md
+- [20221014185700](/zet/20221014185700/README.md) kb file named kb/hacking/windows/active-directory-certificate-services.md
+- [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md
+- [20221014185628](/zet/20221014185628/README.md) kb file named kb/hacking/to-try-lists/SSH.md
+- [20221014185829](/zet/20221014185829/README.md) kb file named kb/hacking/commands/ssh-commands.md
+- [20221014185623](/zet/20221014185623/README.md) kb file named kb/hacking/to-try-lists/stuck.md
+- [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md
+- [20221014185718](/zet/20221014185718/README.md) kb file named kb/hacking/windows/windows-information.md
+- [20221014185709](/zet/20221014185709/README.md) kb file named kb/hacking/windows/powerup-commands.md
+- [20221014185901](/zet/20221014185901/README.md) kb file named kb/hacking/commands/msfvenom-commands.md
+- [20221016233635](/zet/20221016233635/README.md) commits for day of 2022-08-10
 
 Tags:
 

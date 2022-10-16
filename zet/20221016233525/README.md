@@ -49,27 +49,18 @@ kb/hacking/misc/buzzwords-and-acronyms.md
 
 # Related
 
-- 20221014190105
-
-- 20221014185938
-
-- 20221014185833
-
-- 20221014185750
-
-- 20221014190206
-
-- 20221014185602
-
-- 20221014185629
-
-- 20221014190047
-
-- 20221014190105
-
-- 20221014185449
-
-- 20221016233523
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233527](/zet/20221016233527/README.md) commits for day of 2022-06-18
+- [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md
+- [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md
+- [20221014185833](/zet/20221014185833/README.md) kb file named kb/hacking/commands/hydra-http-auth.md
+- [20221014185750](/zet/20221014185750/README.md) kb file named kb/hacking/methodology/osint-overview.md
+- [20221014190206](/zet/20221014190206/README.md) kb file named kb/linux/assorted-notes-and-tips.md
+- [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md
+- [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
+- [20221014185449](/zet/20221014185449/README.md) kb file named kb/shell-script-list.md
+- [20221016233523](/zet/20221016233523/README.md) commits for day of 2022-06-06
 
 Tags:
 

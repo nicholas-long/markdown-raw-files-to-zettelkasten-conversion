@@ -30,13 +30,12 @@ kb/hacking/commands/metasploit.md
 
 # Related
 
-- 20221014185848
-
-- 20221014185953
-
-- 20221014185808
-
-- 20221016233500
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233503](/zet/20221016233503/README.md) commits for day of 2022-05-25
+- [20221014185848](/zet/20221014185848/README.md) kb file named kb/hacking/commands/metasploit.md
+- [20221014185953](/zet/20221014185953/README.md) kb file named kb/hacking/php/PHP-quick-command-reference.md
+- [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
+- [20221016233500](/zet/20221016233500/README.md) commits for day of 2022-05-23
 
 Tags:
 

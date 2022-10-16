@@ -9,6 +9,9 @@
 
 # Related
 
+- [20221016233505](/zet/20221016233505/README.md) commits for day of 2022-05-26
+- [20221016233319](/zet/20221016233319/README.md) commits for day of 2022-02-23
+- [20221016233314](/zet/20221016233314/README.md) commits for day of 2022-02-20
 - [20221003151313](/zet/20221003151313/README.md) bash scripting substitution syntax return variables value or default
 - [20221003151310](/zet/20221003151310/README.md) bash scripting substitution syntax return something if another variable is set
 - [20221003151311](/zet/20221003151311/README.md) bash scripting substitution syntax read variable or else exit if undefined

@@ -60,25 +60,17 @@ kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
 
 # Related
 
-- 20221014185559
-
-- 20221014185933
-
-- 20221014190033
-
-- 20221014185834
-
-- 20221014190149
-
-- 20221014185808
-
-- 20221014190229
-
-- 20221014185450
-
-- 20221014185450
-
-- 20221016233718
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233722](/zet/20221016233722/README.md) commits for day of 2022-09-16
+- [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
+- [20221014185933](/zet/20221014185933/README.md) kb file named kb/hacking/commands/binary-data-analysis.md
+- [20221014190033](/zet/20221014190033/README.md) kb file named kb/hacking/notes-template/enum.md
+- [20221014185834](/zet/20221014185834/README.md) kb file named kb/hacking/commands/gobuster.md
+- [20221014190149](/zet/20221014190149/README.md) kb file named kb/linux/capabilities.md
+- [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
+- [20221014190229](/zet/20221014190229/README.md) kb file named kb/auto-python.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221016233718](/zet/20221016233718/README.md) commits for day of 2022-09-14
 
 Tags:
 

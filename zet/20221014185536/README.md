@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233735](/zet/20221016233735/README.md) commits for day of 2022-09-26
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads
 - [20221003151243](/zet/20221003151243/README.md) preparing malicious package payloads node npm package

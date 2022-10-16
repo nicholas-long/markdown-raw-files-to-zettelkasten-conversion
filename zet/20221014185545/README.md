@@ -9,6 +9,9 @@
 
 # Related
 
+- [20221016233618](/zet/20221016233618/README.md) commits for day of 2022-07-29
+- [20221016233710](/zet/20221016233710/README.md) commits for day of 2022-09-07
+- [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
 - [20221003151233](/zet/20221003151233/README.md) mysql mariadb write any binary file with file permissions

@@ -16,9 +16,10 @@ kb/hacking/misc/buzzwords-and-acronyms.md
 
 # Related
 
-- 20221014190105
-
-- 20221016233535
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233538](/zet/20221016233538/README.md) commits for day of 2022-06-26
+- [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md
+- [20221016233535](/zet/20221016233535/README.md) commits for day of 2022-06-24
 
 Tags:
 

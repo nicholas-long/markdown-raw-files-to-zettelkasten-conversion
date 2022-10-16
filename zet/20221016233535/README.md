@@ -51,19 +51,14 @@ kb/hacking/misc/assorted-information.md
 
 # Related
 
-- 20221014190056
-
-- 20221014185619
-
-- 20221014185644
-
-- 20221014190247
-
-- 20221014185619
-
-- 20221014185450
-
-- 20221016233534
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233537](/zet/20221016233537/README.md) commits for day of 2022-06-25
+- [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014185644](/zet/20221014185644/README.md) kb file named kb/hacking/passwords/hashcat-generate-wordlist-from-file-stdout.md
+- [20221014190247](/zet/20221014190247/README.md) kb file named kb/bash-scripting/get-current-unix-date-timestamp.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221016233534](/zet/20221016233534/README.md) commits for day of 2022-06-23
 
 Tags:
 

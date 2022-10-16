@@ -23,11 +23,11 @@ kb/auto-bash.md
 
 # Related
 
-- 20221014185450
-
-- 20221014190105
-
-- 20221016233739
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233742](/zet/20221016233742/README.md) commits for day of 2022-10-01
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md
+- [20221016233739](/zet/20221016233739/README.md) commits for day of 2022-09-28
 
 Tags:
 

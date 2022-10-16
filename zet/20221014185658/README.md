@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221003151100](/zet/20221003151100/README.md) powershell commands download and execute script
 - [20221003151101](/zet/20221003151101/README.md) powershell commands
 - [20221003151102](/zet/20221003151102/README.md) DOS commands download file from http

@@ -61,27 +61,18 @@ kb/hacking/to-try-lists/privesc/windows.md
 
 # Related
 
-- 20221014185602
-
-- 20221014185450
-
-- 20221014185509
-
-- 20221014185619
-
-- 20221014185813
-
-- 20221014185600
-
-- 20221014185754
-
-- 20221014185718
-
-- 20221014185619
-
-- 20221014190005
-
-- 20221016233641
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233644](/zet/20221016233644/README.md) commits for day of 2022-08-16
+- [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014185813](/zet/20221014185813/README.md) kb file named kb/hacking/priv-esc/relative-path-abuse.md
+- [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
+- [20221014185754](/zet/20221014185754/README.md) kb file named kb/hacking/python/python-imports.md
+- [20221014185718](/zet/20221014185718/README.md) kb file named kb/hacking/windows/windows-information.md
+- [20221014190005](/zet/20221014190005/README.md) kb file named kb/hacking/pwn/gdb-commands.md
+- [20221016233641](/zet/20221016233641/README.md) commits for day of 2022-08-13
 
 Tags:
 

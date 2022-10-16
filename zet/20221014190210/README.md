@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233439](/zet/20221016233439/README.md) commits for day of 2022-05-05
 - [20221003150119](/zet/20221003150119/README.md) routing using a linux box iptables rules forward all traffic between two interfaces
 - [20221003150122](/zet/20221003150122/README.md) routing using a linux box add router to routes on hosts
 - [20221003150121](/zet/20221003150121/README.md) routing using a linux box add router to routes on hosts windows

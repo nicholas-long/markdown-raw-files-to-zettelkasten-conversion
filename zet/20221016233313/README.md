@@ -24,13 +24,12 @@ kb/bash-scripting/strip-color.md
 
 # Related
 
-- 20221014190256
-
-- 20221014185459
-
-- 20221014185816
-
-- 20221016233311
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233314](/zet/20221016233314/README.md) commits for day of 2022-02-20
+- [20221014190256](/zet/20221014190256/README.md) kb file named kb/bash-scripting/strip-color.md
+- [20221014185459](/zet/20221014185459/README.md) kb file named kb/networking/port-forwarding.md
+- [20221014185816](/zet/20221014185816/README.md) kb file named kb/hacking/priv-esc/symlink.md
+- [20221016233311](/zet/20221016233311/README.md) commits for day of 2022-02-18
 
 Tags:
 

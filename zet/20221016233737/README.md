@@ -38,17 +38,14 @@ kb/hacking/commands/git.md
 
 # Related
 
-- 20221014185854
-
-- 20221014190149
-
-- 20221014190056
-
-- 20221014185918
-
-- 20221014185450
-
-- 20221016233735
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233739](/zet/20221016233739/README.md) commits for day of 2022-09-28
+- [20221014185854](/zet/20221014185854/README.md) kb file named kb/hacking/commands/git.md
+- [20221014190149](/zet/20221014190149/README.md) kb file named kb/linux/capabilities.md
+- [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
+- [20221014185918](/zet/20221014185918/README.md) kb file named kb/hacking/commands/sqlmap-commands.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221016233735](/zet/20221016233735/README.md) commits for day of 2022-09-26
 
 Tags:
 

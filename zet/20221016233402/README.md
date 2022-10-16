@@ -23,11 +23,11 @@ kb/linux/dump-process-memory.md
 
 # Related
 
-- 20221014190151
-
-- 20221014185849
-
-- 20221016233401
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233404](/zet/20221016233404/README.md) commits for day of 2022-04-07
+- [20221014190151](/zet/20221014190151/README.md) kb file named kb/linux/dump-process-memory.md
+- [20221014185849](/zet/20221014185849/README.md) kb file named kb/hacking/commands/wfuzz-fuzzing.md
+- [20221016233401](/zet/20221016233401/README.md) commits for day of 2022-04-03
 
 Tags:
 

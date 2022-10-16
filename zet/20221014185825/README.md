@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221016233343](/zet/20221016233343/README.md) commits for day of 2022-03-17
+- [20221016233434](/zet/20221016233434/README.md) commits for day of 2022-05-02
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150868](/zet/20221003150868/README.md) john the ripper find all file formats supported with a 2john script or tojohn

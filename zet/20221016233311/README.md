@@ -16,9 +16,10 @@ kb/hacking/common-commands.md
 
 # Related
 
-- 20221014190001
-
-- 20221016233309
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233313](/zet/20221016233313/README.md) commits for day of 2022-02-19
+- [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md
+- [20221016233309](/zet/20221016233309/README.md) commits for day of 2022-02-16
 
 Tags:
 

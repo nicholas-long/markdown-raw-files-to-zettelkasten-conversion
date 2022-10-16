@@ -28,21 +28,16 @@ kb/hacking/powershell/powershell-enumeration-commands.md
 
 # Related
 
-- 20221014190037
-
-- 20221014190030
-
-- 20221014190025
-
-- 20221014190034
-
-- 20221014190031
-
-- 20221014190033
-
-- 20221014190027
-
-- 20221016233444
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233447](/zet/20221016233447/README.md) commits for day of 2022-05-12
+- [20221014190037](/zet/20221014190037/README.md) kb file named kb/hacking/powershell/powershell-enumeration-commands.md
+- [20221014190030](/zet/20221014190030/README.md) kb file named kb/hacking/notes-template/steps.md
+- [20221014190025](/zet/20221014190025/README.md) kb file named kb/hacking/notes-template/privesc.md
+- [20221014190034](/zet/20221014190034/README.md) kb file named kb/hacking/notes-template/notes.md
+- [20221014190031](/zet/20221014190031/README.md) kb file named kb/hacking/notes-template/exploit.md
+- [20221014190033](/zet/20221014190033/README.md) kb file named kb/hacking/notes-template/enum.md
+- [20221014190027](/zet/20221014190027/README.md) kb file named kb/hacking/notes-template/creds.md
+- [20221016233444](/zet/20221016233444/README.md) commits for day of 2022-05-10
 
 Tags:
 

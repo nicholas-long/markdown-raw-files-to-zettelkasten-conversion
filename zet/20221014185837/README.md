@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233449](/zet/20221016233449/README.md) commits for day of 2022-05-13
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150836](/zet/20221003150836/README.md) smb mount share unauthenticated
 - [20221003150835](/zet/20221003150835/README.md) smb mount share old SMBv1 share

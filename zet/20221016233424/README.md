@@ -23,11 +23,11 @@ kb/vim/edit-multiple-files.md
 
 # Related
 
-- 20221014185504
-
-- 20221014185914
-
-- 20221016233422
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233425](/zet/20221016233425/README.md) commits for day of 2022-04-24
+- [20221014185504](/zet/20221014185504/README.md) kb file named kb/vim/edit-multiple-files.md
+- [20221014185914](/zet/20221014185914/README.md) kb file named kb/hacking/commands/openssl-view-information-about-cert.md
+- [20221016233422](/zet/20221016233422/README.md) commits for day of 2022-04-21
 
 Tags:
 

@@ -9,6 +9,9 @@
 
 # Related
 
+- [20221016233552](/zet/20221016233552/README.md) commits for day of 2022-07-10
+- [20221016233551](/zet/20221016233551/README.md) commits for day of 2022-07-08
+- [20221016233613](/zet/20221016233613/README.md) commits for day of 2022-07-26
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150235](/zet/20221003150235/README.md) extract command for file type xz
 - [20221003150236](/zet/20221003150236/README.md) extract command for file type tar.xz

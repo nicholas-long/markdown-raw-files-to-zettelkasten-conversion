@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233514](/zet/20221016233514/README.md) commits for day of 2022-06-01
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003151255](/zet/20221003151255/README.md) run executable binary programs within process memory linux base64 piped text using dd and shellcode
 - [20221003151252](/zet/20221003151252/README.md) run executable binary programs within process memory windows cobalt strike BOF C DLLs

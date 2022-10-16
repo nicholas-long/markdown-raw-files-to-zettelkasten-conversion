@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233559](/zet/20221016233559/README.md) commits for day of 2022-07-14
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150649](/zet/20221003150649/README.md) kubernetes kubectl enumerate permissions
 - [20221003150651](/zet/20221003150651/README.md) kubernetes

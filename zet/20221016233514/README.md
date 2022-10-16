@@ -60,25 +60,16 @@ kb/hacking/commands/wfuzz-commands.md
 
 # Related
 
-- 20221014185935
-
-- 20221014185619
-
-- 20221014185619
-
-- 20221014190224
-
-- 20221014190227
-
-- 20221014190253
-
-- 20221014185531
-
-- 20221014190105
-
-- 20221014190105
-
-- 20221016233512
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233516](/zet/20221016233516/README.md) commits for day of 2022-06-02
+- [20221014185935](/zet/20221014185935/README.md) kb file named kb/hacking/commands/wfuzz-commands.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014190224](/zet/20221014190224/README.md) kb file named kb/data-engineering-pipelines/topological-sort.md
+- [20221014190227](/zet/20221014190227/README.md) kb file named kb/data-engineering-pipelines/data-science-linux-commands.md
+- [20221014190253](/zet/20221014190253/README.md) kb file named kb/bash-scripting/find-common-lines-set-operations.md
+- [20221014185531](/zet/20221014185531/README.md) kb file named kb/hacking/tricks/run-programs-in-memory.md
+- [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md
+- [20221016233512](/zet/20221016233512/README.md) commits for day of 2022-05-31
 
 Tags:
 

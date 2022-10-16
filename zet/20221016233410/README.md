@@ -16,9 +16,10 @@ kb/hacking/commands/encoding-commands.md
 
 # Related
 
-- 20221014185923
-
-- 20221016233409
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233412](/zet/20221016233412/README.md) commits for day of 2022-04-12
+- [20221014185923](/zet/20221014185923/README.md) kb file named kb/hacking/commands/encoding-commands.md
+- [20221016233409](/zet/20221016233409/README.md) commits for day of 2022-04-10
 
 Tags:
 

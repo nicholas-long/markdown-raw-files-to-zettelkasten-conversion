@@ -146,77 +146,36 @@ kb/hacking/commands/responder.md
 
 # Related
 
-- 20221014185840
-
-- 20221014190219
-
-- 20221014185616
-
-- 20221014185831
-
-- 20221014185616
-
-- 20221014185831
-
-- 20221014185831
-
-- 20221014185914
-
-- 20221014190059
-
-- 20221014185914
-
-- 20221014190140
-
-- 20221014185609
-
-- 20221014190042
-
-- 20221014185732
-
-- 20221014190042
-
-- 20221014190056
-
-- 20221014190102
-
-- 20221014190048
-
-- 20221014190045
-
-- 20221014190044
-
-- 20221014190103
-
-- 20221014190047
-
-- 20221014190059
-
-- 20221014190053
-
-- 20221014190105
-
-- 20221014190050
-
-- 20221014190100
-
-- 20221014190056
-
-- 20221014185802
-
-- 20221014185625
-
-- 20221014185600
-
-- 20221014185600
-
-- 20221014185959
-
-- 20221014185622
-
-- 20221014185619
-
-- 20221016233510
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233514](/zet/20221016233514/README.md) commits for day of 2022-06-01
+- [20221014185840](/zet/20221014185840/README.md) kb file named kb/hacking/commands/responder.md
+- [20221014190219](/zet/20221014190219/README.md) kb file named kb/tmux/copy-buffer.md
+- [20221014185616](/zet/20221014185616/README.md) kb file named kb/hacking/to-try-lists/DNS.md
+- [20221014185831](/zet/20221014185831/README.md) kb file named kb/hacking/commands/dns-commands.md
+- [20221014185914](/zet/20221014185914/README.md) kb file named kb/hacking/commands/openssl-view-information-about-cert.md
+- [20221014190059](/zet/20221014190059/README.md) kb file named kb/hacking/misc/file-type-reference.md
+- [20221014190140](/zet/20221014190140/README.md) kb file named kb/linux/zsh-see-default-bindings.md
+- [20221014185609](/zet/20221014185609/README.md) kb file named kb/hacking/to-try-lists/got-read-or-write-access-to-filesystem.md
+- [20221014190042](/zet/20221014190042/README.md) kb file named kb/hacking/misc/tomcat.md
+- [20221014185732](/zet/20221014185732/README.md) kb file named kb/hacking/methodology/LFI-procedure.md
+- [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
+- [20221014190102](/zet/20221014190102/README.md) kb file named kb/hacking/misc/web-server-executable-extensions.md
+- [20221014190048](/zet/20221014190048/README.md) kb file named kb/hacking/misc/troubleshoot-error-messages.md
+- [20221014190045](/zet/20221014190045/README.md) kb file named kb/hacking/misc/tools-and-apt-packages.md
+- [20221014190044](/zet/20221014190044/README.md) kb file named kb/hacking/misc/openssl-commands-encrypt-text.md
+- [20221014190103](/zet/20221014190103/README.md) kb file named kb/hacking/misc/openssl-client-certificates.md
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
+- [20221014190053](/zet/20221014190053/README.md) kb file named kb/hacking/misc/database-config-locations.md
+- [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md
+- [20221014190050](/zet/20221014190050/README.md) kb file named kb/hacking/misc/bruteforcing-tools.md
+- [20221014190100](/zet/20221014190100/README.md) kb file named kb/hacking/misc/assorted-tools.md
+- [20221014185802](/zet/20221014185802/README.md) kb file named kb/hacking/priv-esc/c-shells-and-setuid.md
+- [20221014185625](/zet/20221014185625/README.md) kb file named kb/hacking/to-try-lists/email.md
+- [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
+- [20221014185959](/zet/20221014185959/README.md) kb file named kb/hacking/php/deserialization-attacks.md
+- [20221014185622](/zet/20221014185622/README.md) kb file named kb/hacking/to-try-lists/got-source-code.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221016233510](/zet/20221016233510/README.md) commits for day of 2022-05-30
 
 Tags:
 

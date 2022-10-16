@@ -82,33 +82,19 @@ kb/auto-bash.md
 
 # Related
 
-- 20221014185450
-
-- 20221014185450
-
-- 20221014185617
-
-- 20221014185619
-
-- 20221014185603
-
-- 20221014185735
-
-- 20221014190034
-
-- 20221014185550
-
-- 20221014185619
-
-- 20221014185619
-
-- 20221014190056
-
-- 20221014185823
-
-- 20221014190147
-
-- 20221016233633
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233637](/zet/20221016233637/README.md) commits for day of 2022-08-11
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221014185617](/zet/20221014185617/README.md) kb file named kb/hacking/to-try-lists/procedure.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014185603](/zet/20221014185603/README.md) kb file named kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md
+- [20221014185735](/zet/20221014185735/README.md) kb file named kb/hacking/methodology/sqli-manual-mysql-payloads.md
+- [20221014190034](/zet/20221014190034/README.md) kb file named kb/hacking/notes-template/notes.md
+- [20221014185550](/zet/20221014185550/README.md) kb file named kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md
+- [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
+- [20221014185823](/zet/20221014185823/README.md) kb file named kb/hacking/commands/quick-servers.md
+- [20221014190147](/zet/20221014190147/README.md) kb file named kb/linux/less.md
+- [20221016233633](/zet/20221016233633/README.md) commits for day of 2022-08-09
 
 Tags:
 

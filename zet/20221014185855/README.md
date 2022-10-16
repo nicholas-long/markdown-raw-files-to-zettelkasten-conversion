@@ -9,6 +9,9 @@
 
 # Related
 
+- [20221016233352](/zet/20221016233352/README.md) commits for day of 2022-03-24
+- [20221016233648](/zet/20221016233648/README.md) commits for day of 2022-08-18
+- [20221016233549](/zet/20221016233549/README.md) commits for day of 2022-07-07
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150793](/zet/20221003150793/README.md) generate cewl wordlist from file using temporary http server
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file

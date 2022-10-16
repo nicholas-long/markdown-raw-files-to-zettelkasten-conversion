@@ -18,13 +18,12 @@ kb/hacking/to-try-lists/procedure.md
 
 # Related
 
-- 20221014185617
-
-- 20221014185619
-
-- 20221014190241
-
-- 20221016233458
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233502](/zet/20221016233502/README.md) commits for day of 2022-05-24
+- [20221014185617](/zet/20221014185617/README.md) kb file named kb/hacking/to-try-lists/procedure.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014190241](/zet/20221014190241/README.md) kb file named kb/bash-scripting/stream-operations.md
+- [20221016233458](/zet/20221016233458/README.md) commits for day of 2022-05-21
 
 Tags:
 

@@ -37,15 +37,13 @@ kb/hacking/commands/encoding-commands.md
 
 # Related
 
-- 20221014185923
-
-- 20221014190238
-
-- 20221014190112
-
-- 20221014185521
-
-- 20221016233436
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233439](/zet/20221016233439/README.md) commits for day of 2022-05-05
+- [20221014185923](/zet/20221014185923/README.md) kb file named kb/hacking/commands/encoding-commands.md
+- [20221014190238](/zet/20221014190238/README.md) kb file named kb/bash-scripting/file-operations.md
+- [20221014190112](/zet/20221014190112/README.md) kb file named kb/hacking/analysis/grep-patterns.md
+- [20221014185521](/zet/20221014185521/README.md) kb file named kb/kafka/kafkacat-get-data-by-time.md
+- [20221016233436](/zet/20221016233436/README.md) commits for day of 2022-05-03
 
 Tags:
 

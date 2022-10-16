@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221016233516](/zet/20221016233516/README.md) commits for day of 2022-06-02
+- [20221016233437](/zet/20221016233437/README.md) commits for day of 2022-05-04
 - [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
 - [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path
 - [20221003151335](/zet/20221003151335/README.md) bash command reference

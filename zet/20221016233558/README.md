@@ -90,37 +90,20 @@ kb/hacking/misc/assorted-information.md
 
 # Related
 
-- 20221014190056
-
-- 20221014185622
-
-- 20221014185600
-
-- 20221014185600
-
-- 20221014185612
-
-- 20221014185608
-
-- 20221014185619
-
-- 20221014185620
-
-- 20221014185619
-
-- 20221014185619
-
-- 20221014185619
-
-- 20221014185628
-
-- 20221014185851
-
-- 20221014190036
-
-- 20221014185915
-
-- 20221016233556
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233559](/zet/20221016233559/README.md) commits for day of 2022-07-14
+- [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
+- [20221014185622](/zet/20221014185622/README.md) kb file named kb/hacking/to-try-lists/got-source-code.md
+- [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
+- [20221014185612](/zet/20221014185612/README.md) kb file named kb/hacking/to-try-lists/SMB.md
+- [20221014185608](/zet/20221014185608/README.md) kb file named kb/hacking/to-try-lists/RDP.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014185620](/zet/20221014185620/README.md) kb file named kb/hacking/to-try-lists/FTP.md
+- [20221014185628](/zet/20221014185628/README.md) kb file named kb/hacking/to-try-lists/SSH.md
+- [20221014185851](/zet/20221014185851/README.md) kb file named kb/hacking/commands/hydra-default-credentials.md
+- [20221014190036](/zet/20221014190036/README.md) kb file named kb/hacking/web/html.templates.md
+- [20221014185915](/zet/20221014185915/README.md) kb file named kb/hacking/commands/curl.md
+- [20221016233556](/zet/20221016233556/README.md) commits for day of 2022-07-12
 
 Tags:
 

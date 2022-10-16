@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233434](/zet/20221016233434/README.md) commits for day of 2022-05-02
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003151288](/zet/20221003151288/README.md) jq pipe syntax
 - [20221003151287](/zet/20221003151287/README.md) jq filter objects syntax

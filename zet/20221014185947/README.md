@@ -9,6 +9,11 @@
 
 # Related
 
+- [20221016233439](/zet/20221016233439/README.md) commits for day of 2022-05-05
+- [20221016233431](/zet/20221016233431/README.md) commits for day of 2022-04-29
+- [20221016233429](/zet/20221016233429/README.md) commits for day of 2022-04-28
+- [20221016233529](/zet/20221016233529/README.md) commits for day of 2022-06-19
+- [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150611](/zet/20221003150611/README.md) smbclient
 - [20221003150612](/zet/20221003150612/README.md) smbclient shell recursive get all files

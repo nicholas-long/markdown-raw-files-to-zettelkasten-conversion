@@ -44,17 +44,12 @@ kb/hacking/priv-esc/enumeration-quick-commands.md
 
 # Related
 
-- 20221014185808
-
-- 20221014190251
-
-- 20221014190002
-
-- 20221014190002
-
-- 20221014190002
-
-- 20221016233603
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233606](/zet/20221016233606/README.md) commits for day of 2022-07-19
+- [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
+- [20221014190251](/zet/20221014190251/README.md) kb file named kb/bash-scripting/expect.md
+- [20221014190002](/zet/20221014190002/README.md) kb file named kb/hacking/pwn/basic-win-pwn.md
+- [20221016233603](/zet/20221016233603/README.md) commits for day of 2022-07-17
 
 Tags:
 

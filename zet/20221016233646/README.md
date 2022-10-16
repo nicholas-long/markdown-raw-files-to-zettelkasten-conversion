@@ -45,19 +45,14 @@ kb/linux/grub-fix-windows-partition.md
 
 # Related
 
-- 20221014190126
-
-- 20221014185712
-
-- 20221014190048
-
-- 20221014185629
-
-- 20221014190037
-
-- 20221014185629
-
-- 20221016233644
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233648](/zet/20221016233648/README.md) commits for day of 2022-08-18
+- [20221014190126](/zet/20221014190126/README.md) kb file named kb/linux/grub-fix-windows-partition.md
+- [20221014185712](/zet/20221014185712/README.md) kb file named kb/hacking/windows/enumeration-scripts-processing.md
+- [20221014190048](/zet/20221014190048/README.md) kb file named kb/hacking/misc/troubleshoot-error-messages.md
+- [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md
+- [20221014190037](/zet/20221014190037/README.md) kb file named kb/hacking/powershell/powershell-enumeration-commands.md
+- [20221016233644](/zet/20221016233644/README.md) commits for day of 2022-08-16
 
 Tags:
 

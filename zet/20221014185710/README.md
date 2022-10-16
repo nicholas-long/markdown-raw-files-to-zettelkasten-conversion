@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221016233518](/zet/20221016233518/README.md) commits for day of 2022-06-03
+- [20221016233648](/zet/20221016233648/README.md) commits for day of 2022-08-18
 - [20221003151079](/zet/20221003151079/README.md) service account privileges restore using scheduled task with powershell
 - [20221003151074](/zet/20221003151074/README.md) service account privileges exploiting SeManageVolumePrivilege
 - [20221003151075](/zet/20221003151075/README.md) service account privileges exploiting SeImpersonatePrivilege

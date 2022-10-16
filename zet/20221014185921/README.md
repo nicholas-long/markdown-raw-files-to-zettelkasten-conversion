@@ -9,6 +9,10 @@
 
 # Related
 
+- [20221016233549](/zet/20221016233549/README.md) commits for day of 2022-07-07
+- [20221016233344](/zet/20221016233344/README.md) commits for day of 2022-03-19
+- [20221016233505](/zet/20221016233505/README.md) commits for day of 2022-05-26
+- [20221016233323](/zet/20221016233323/README.md) commits for day of 2022-02-25
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150692](/zet/20221003150692/README.md) wpscan initial all plugins passive scan
 - [20221003150687](/zet/20221003150687/README.md) wpscan initial aggressive plugins-detection

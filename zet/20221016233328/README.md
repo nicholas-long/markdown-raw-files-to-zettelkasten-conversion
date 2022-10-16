@@ -16,9 +16,10 @@ kb/hacking/priv-esc/lxd/lxd-priv-esc.md
 
 # Related
 
-- 20221014185801
-
-- 20221016233326
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233329](/zet/20221016233329/README.md) commits for day of 2022-03-05
+- [20221014185801](/zet/20221014185801/README.md) kb file named kb/hacking/priv-esc/lxd/lxd-priv-esc.md
+- [20221016233326](/zet/20221016233326/README.md) commits for day of 2022-02-27
 
 Tags:
 

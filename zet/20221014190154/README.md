@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221016233319](/zet/20221016233319/README.md) commits for day of 2022-02-23
+- [20221016233505](/zet/20221016233505/README.md) commits for day of 2022-05-26
 - [20221003150160](/zet/20221003150160/README.md) git config settings make merges smoother
 - [20221003150161](/zet/20221003150161/README.md) git config settings set up credential storage
 - [20221003150162](/zet/20221003150162/README.md) git config settings

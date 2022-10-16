@@ -51,19 +51,15 @@ kb/hacking/to-try-lists/privesc/linux.md
 
 # Related
 
-- 20221014185600
-
-- 20221014190147
-
-- 20221014190259
-
-- 20221014190047
-
-- 20221014185559
-
-- 20221014185622
-
-- 20221016233715
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233718](/zet/20221016233718/README.md) commits for day of 2022-09-14
+- [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
+- [20221014190147](/zet/20221014190147/README.md) kb file named kb/linux/less.md
+- [20221014190259](/zet/20221014190259/README.md) kb file named kb/bash-scripting/tricks.md
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
+- [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
+- [20221014185622](/zet/20221014185622/README.md) kb file named kb/hacking/to-try-lists/got-source-code.md
+- [20221016233715](/zet/20221016233715/README.md) commits for day of 2022-09-12
 
 Tags:
 

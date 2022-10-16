@@ -30,13 +30,11 @@ kb/hacking/commands/wpscan-command.md
 
 # Related
 
-- 20221014185921
-
-- 20221014185921
-
-- 20221014190034
-
-- 20221016233343
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233346](/zet/20221016233346/README.md) commits for day of 2022-03-20
+- [20221014185921](/zet/20221014185921/README.md) kb file named kb/hacking/commands/wpscan-command.md
+- [20221014190034](/zet/20221014190034/README.md) kb file named kb/hacking/notes-template/notes.md
+- [20221016233343](/zet/20221016233343/README.md) commits for day of 2022-03-17
 
 Tags:
 

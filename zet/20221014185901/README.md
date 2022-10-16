@@ -9,6 +9,10 @@
 
 # Related
 
+- [20221016233637](/zet/20221016233637/README.md) commits for day of 2022-08-11
+- [20221016233458](/zet/20221016233458/README.md) commits for day of 2022-05-21
+- [20221016233601](/zet/20221016233601/README.md) commits for day of 2022-07-15
+- [20221016233427](/zet/20221016233427/README.md) commits for day of 2022-04-26
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150763](/zet/20221003150763/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) Bind Shell

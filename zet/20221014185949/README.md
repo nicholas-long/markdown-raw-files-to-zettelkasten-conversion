@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150602](/zet/20221003150602/README.md) tunneling through chisel - socks Target

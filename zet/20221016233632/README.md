@@ -58,21 +58,14 @@ kb/hacking/notes-template/enum.md
 
 # Related
 
-- 20221014190033
-
-- 20221014185602
-
-- 20221014185602
-
-- 20221014185619
-
-- 20221014185729
-
-- 20221014185617
-
-- 20221014185617
-
-- 20221016233630
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233633](/zet/20221016233633/README.md) commits for day of 2022-08-09
+- [20221014190033](/zet/20221014190033/README.md) kb file named kb/hacking/notes-template/enum.md
+- [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014185729](/zet/20221014185729/README.md) kb file named kb/hacking/methodology/ds-store-file.md
+- [20221014185617](/zet/20221014185617/README.md) kb file named kb/hacking/to-try-lists/procedure.md
+- [20221016233630](/zet/20221016233630/README.md) commits for day of 2022-08-07
 
 Tags:
 

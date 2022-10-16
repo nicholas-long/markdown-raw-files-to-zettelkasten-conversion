@@ -65,23 +65,14 @@ kb/data-engineering-pipelines/postgres.md
 
 # Related
 
-- 20221014190222
-
-- 20221014185509
-
-- 20221014185450
-
-- 20221014185450
-
-- 20221014185739
-
-- 20221014185739
-
-- 20221014185450
-
-- 20221014185819
-
-- 20221016233608
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233611](/zet/20221016233611/README.md) commits for day of 2022-07-25
+- [20221014190222](/zet/20221014190222/README.md) kb file named kb/data-engineering-pipelines/postgres.md
+- [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221014185739](/zet/20221014185739/README.md) kb file named kb/hacking/methodology/XXE.md
+- [20221014185819](/zet/20221014185819/README.md) kb file named kb/hacking/priv-esc/dirty-cow-no-gcc.md
+- [20221016233608](/zet/20221016233608/README.md) commits for day of 2022-07-20
 
 Tags:
 

@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221003151017](/zet/20221003151017/README.md) nmap scripts
 - [20221003151016](/zet/20221003151016/README.md) nmap scripts search by type
 - [20221003151015](/zet/20221003151015/README.md) nmap scripts all script types

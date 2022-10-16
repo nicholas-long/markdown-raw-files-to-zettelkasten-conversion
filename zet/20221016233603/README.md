@@ -28,21 +28,16 @@ kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 
 # Related
 
-- 20221014185655
-
-- 20221014190039
-
-- 20221014190037
-
-- 20221014185602
-
-- 20221014185559
-
-- 20221014185629
-
-- 20221014190047
-
-- 20221016233601
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233605](/zet/20221016233605/README.md) commits for day of 2022-07-18
+- [20221014185655](/zet/20221014185655/README.md) kb file named kb/hacking/windows/dos-and-powershell-enumeration-quick.md
+- [20221014190039](/zet/20221014190039/README.md) kb file named kb/hacking/powershell/powershell-tricks.md
+- [20221014190037](/zet/20221014190037/README.md) kb file named kb/hacking/powershell/powershell-enumeration-commands.md
+- [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md
+- [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
+- [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
+- [20221016233601](/zet/20221016233601/README.md) commits for day of 2022-07-15
 
 Tags:
 

@@ -106,81 +106,40 @@ kb/hacking/windows/powerview-commands.md
 
 # Related
 
-- 20221014185703
-
-- 20221014185722
-
-- 20221014185629
-
-- 20221014185629
-
-- 20221014185905
-
-- 20221014185831
-
-- 20221014185629
-
-- 20221014185450
-
-- 20221014185450
-
-- 20221014185617
-
-- 20221014185606
-
-- 20221014185640
-
-- 20221014185609
-
-- 20221014185634
-
-- 20221014185603
-
-- 20221014185611
-
-- 20221014185625
-
-- 20221014185629
-
-- 20221014185637
-
-- 20221014185628
-
-- 20221014185638
-
-- 20221014185612
-
-- 20221014185608
-
-- 20221014185631
-
-- 20221014185605
-
-- 20221014185614
-
-- 20221014185619
-
-- 20221014185632
-
-- 20221014185620
-
-- 20221014185626
-
-- 20221014185616
-
-- 20221014190155
-
-- 20221014190229
-
-- 20221014185754
-
-- 20221014190229
-
-- 20221014185450
-
-- 20221014185509
-
-- 20221016233449
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233453](/zet/20221016233453/README.md) commits for day of 2022-05-18
+- [20221014185703](/zet/20221014185703/README.md) kb file named kb/hacking/windows/powerview-commands.md
+- [20221014185722](/zet/20221014185722/README.md) kb file named kb/hacking/windows/common-ad-misconfigurations-footholds.md
+- [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md
+- [20221014185905](/zet/20221014185905/README.md) kb file named kb/hacking/commands/windows-active-directory-kerberos-commands.md
+- [20221014185831](/zet/20221014185831/README.md) kb file named kb/hacking/commands/dns-commands.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221014185617](/zet/20221014185617/README.md) kb file named kb/hacking/to-try-lists/procedure.md
+- [20221014185606](/zet/20221014185606/README.md) kb file named kb/hacking/to-try-lists/wsmans-tcp-1270,5985,5986.md
+- [20221014185640](/zet/20221014185640/README.md) kb file named kb/hacking/to-try-lists/nmap-UDP-scan-individual-port-scans.md
+- [20221014185609](/zet/20221014185609/README.md) kb file named kb/hacking/to-try-lists/got-read-or-write-access-to-filesystem.md
+- [20221014185634](/zet/20221014185634/README.md) kb file named kb/hacking/to-try-lists/got-hashes.md
+- [20221014185603](/zet/20221014185603/README.md) kb file named kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md
+- [20221014185611](/zet/20221014185611/README.md) kb file named kb/hacking/to-try-lists/finger-tcp-79.md
+- [20221014185625](/zet/20221014185625/README.md) kb file named kb/hacking/to-try-lists/email.md
+- [20221014185637](/zet/20221014185637/README.md) kb file named kb/hacking/to-try-lists/TFTP-udp-69.md
+- [20221014185628](/zet/20221014185628/README.md) kb file named kb/hacking/to-try-lists/SSH.md
+- [20221014185638](/zet/20221014185638/README.md) kb file named kb/hacking/to-try-lists/SNMP.md
+- [20221014185612](/zet/20221014185612/README.md) kb file named kb/hacking/to-try-lists/SMB.md
+- [20221014185608](/zet/20221014185608/README.md) kb file named kb/hacking/to-try-lists/RDP.md
+- [20221014185631](/zet/20221014185631/README.md) kb file named kb/hacking/to-try-lists/NFS.md
+- [20221014185605](/zet/20221014185605/README.md) kb file named kb/hacking/to-try-lists/LDAP.md
+- [20221014185614](/zet/20221014185614/README.md) kb file named kb/hacking/to-try-lists/IPMI.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014185632](/zet/20221014185632/README.md) kb file named kb/hacking/to-try-lists/HTTP-proxy-squid-proxy.md
+- [20221014185620](/zet/20221014185620/README.md) kb file named kb/hacking/to-try-lists/FTP.md
+- [20221014185626](/zet/20221014185626/README.md) kb file named kb/hacking/to-try-lists/EVERYTHING.md
+- [20221014185616](/zet/20221014185616/README.md) kb file named kb/hacking/to-try-lists/DNS.md
+- [20221014190155](/zet/20221014190155/README.md) kb file named kb/linux/force-upgrade.md
+- [20221014190229](/zet/20221014190229/README.md) kb file named kb/auto-python.md
+- [20221014185754](/zet/20221014185754/README.md) kb file named kb/hacking/python/python-imports.md
+- [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md
+- [20221016233449](/zet/20221016233449/README.md) commits for day of 2022-05-13
 
 Tags:
 

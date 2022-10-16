@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233642](/zet/20221016233642/README.md) commits for day of 2022-08-15
 - [20221003150884](/zet/20221003150884/README.md) privilege escalation relative path abuse
 - [20221003150883](/zet/20221003150883/README.md) privilege escalation relative path abuse using echo
 - [20221003151443](/zet/20221003151443/README.md) kb

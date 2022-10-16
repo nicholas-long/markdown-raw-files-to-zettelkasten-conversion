@@ -9,6 +9,12 @@
 
 # Related
 
+- [20221016233451](/zet/20221016233451/README.md) commits for day of 2022-05-17
+- [20221016233516](/zet/20221016233516/README.md) commits for day of 2022-06-02
+- [20221016233639](/zet/20221016233639/README.md) commits for day of 2022-08-12
+- [20221016233727](/zet/20221016233727/README.md) commits for day of 2022-09-20
+- [20221016233723](/zet/20221016233723/README.md) commits for day of 2022-09-17
+- [20221016233720](/zet/20221016233720/README.md) commits for day of 2022-09-15
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221003151352](/zet/20221003151352/README.md) python scripting convert tsv with key and value fields to python dictionary
 - [20221003151360](/zet/20221003151360/README.md) python scripting connect to remote server

@@ -9,6 +9,11 @@
 
 # Related
 
+- [20221016233542](/zet/20221016233542/README.md) commits for day of 2022-06-28
+- [20221016233646](/zet/20221016233646/README.md) commits for day of 2022-08-17
+- [20221016233603](/zet/20221016233603/README.md) commits for day of 2022-07-17
+- [20221016233446](/zet/20221016233446/README.md) commits for day of 2022-05-11
+- [20221016233434](/zet/20221016233434/README.md) commits for day of 2022-05-02
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150479](/zet/20221003150479/README.md) general enumeration what commands are available
 - [20221003150487](/zet/20221003150487/README.md) active directory get user account

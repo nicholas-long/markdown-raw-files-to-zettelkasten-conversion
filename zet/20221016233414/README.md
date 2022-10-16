@@ -44,17 +44,13 @@ kb/hacking/php/PHP-quick-command-reference.md
 
 # Related
 
-- 20221014185953
-
-- 20221014185914
-
-- 20221014190201
-
-- 20221014190201
-
-- 20221014190212
-
-- 20221016233412
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233415](/zet/20221016233415/README.md) commits for day of 2022-04-14
+- [20221014185953](/zet/20221014185953/README.md) kb file named kb/hacking/php/PHP-quick-command-reference.md
+- [20221014185914](/zet/20221014185914/README.md) kb file named kb/hacking/commands/openssl-view-information-about-cert.md
+- [20221014190201](/zet/20221014190201/README.md) kb file named kb/linux/utilities-packages.md
+- [20221014190212](/zet/20221014190212/README.md) kb file named kb/linux/numpad-ssh-putty.md
+- [20221016233412](/zet/20221016233412/README.md) commits for day of 2022-04-12
 
 Tags:
 

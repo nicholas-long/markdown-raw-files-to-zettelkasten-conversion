@@ -30,13 +30,12 @@ kb/hacking/to-try-lists/privesc/linux.md
 
 # Related
 
-- 20221014185600
-
-- 20221014185550
-
-- 20221014185828
-
-- 20221016233632
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233635](/zet/20221016233635/README.md) commits for day of 2022-08-10
+- [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
+- [20221014185550](/zet/20221014185550/README.md) kb file named kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md
+- [20221014185828](/zet/20221014185828/README.md) kb file named kb/hacking/commands/wget-recursive-command.md
+- [20221016233632](/zet/20221016233632/README.md) commits for day of 2022-08-08
 
 Tags:
 

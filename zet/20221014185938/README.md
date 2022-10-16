@@ -9,6 +9,13 @@
 
 # Related
 
+- [20221016233401](/zet/20221016233401/README.md) commits for day of 2022-04-03
+- [20221016233549](/zet/20221016233549/README.md) commits for day of 2022-07-07
+- [20221016233527](/zet/20221016233527/README.md) commits for day of 2022-06-18
+- [20221016233525](/zet/20221016233525/README.md) commits for day of 2022-06-15
+- [20221016233505](/zet/20221016233505/README.md) commits for day of 2022-05-26
+- [20221016233352](/zet/20221016233352/README.md) commits for day of 2022-03-24
+- [20221016233323](/zet/20221016233323/README.md) commits for day of 2022-02-25
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150637](/zet/20221003150637/README.md) nmap check for mountable NFS shares test access
 - [20221003150644](/zet/20221003150644/README.md) nmap all ports command

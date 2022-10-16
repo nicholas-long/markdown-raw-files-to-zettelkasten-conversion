@@ -30,13 +30,12 @@ kb/hacking/commands/packet-capture.md
 
 # Related
 
-- 20221014185917
-
-- 20221014185956
-
-- 20221014185912
-
-- 20221016233356
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233359](/zet/20221016233359/README.md) commits for day of 2022-04-01
+- [20221014185917](/zet/20221014185917/README.md) kb file named kb/hacking/commands/packet-capture.md
+- [20221014185956](/zet/20221014185956/README.md) kb file named kb/hacking/php/PHP-credential-harvesting-write-file.md
+- [20221014185912](/zet/20221014185912/README.md) kb file named kb/hacking/commands/ssh-escape-rbash-set-terminal.md
+- [20221016233356](/zet/20221016233356/README.md) commits for day of 2022-03-30
 
 Tags:
 

@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233613](/zet/20221016233613/README.md) commits for day of 2022-07-26
 - [20221003150165](/zet/20221003150165/README.md) linux job control
 - [20221003150163](/zet/20221003150163/README.md) linux job control send background process to foreground
 - [20221003150164](/zet/20221003150164/README.md) linux job control background running process

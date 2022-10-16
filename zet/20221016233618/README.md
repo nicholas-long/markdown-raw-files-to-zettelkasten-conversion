@@ -103,39 +103,20 @@ kb/networking/osi-model.md
 
 # Related
 
-- 20221014185456
-
-- 20221014185629
-
-- 20221014190039
-
-- 20221014185629
-
-- 20221014185655
-
-- 20221014185600
-
-- 20221014185545
-
-- 20221014185545
-
-- 20221014185603
-
-- 20221014185545
-
-- 20221014185450
-
-- 20221014185603
-
-- 20221014185602
-
-- 20221014185629
-
-- 20221014185735
-
-- 20221014190144
-
-- 20221016233616
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233620](/zet/20221016233620/README.md) commits for day of 2022-07-30
+- [20221014185456](/zet/20221014185456/README.md) kb file named kb/networking/osi-model.md
+- [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md
+- [20221014190039](/zet/20221014190039/README.md) kb file named kb/hacking/powershell/powershell-tricks.md
+- [20221014185655](/zet/20221014185655/README.md) kb file named kb/hacking/windows/dos-and-powershell-enumeration-quick.md
+- [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
+- [20221014185545](/zet/20221014185545/README.md) kb file named kb/hacking/tricks/mysql-tricks.md
+- [20221014185603](/zet/20221014185603/README.md) kb file named kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md
+- [20221014185735](/zet/20221014185735/README.md) kb file named kb/hacking/methodology/sqli-manual-mysql-payloads.md
+- [20221014190144](/zet/20221014190144/README.md) kb file named kb/linux/install-alacritty.md
+- [20221016233616](/zet/20221016233616/README.md) commits for day of 2022-07-28
 
 Tags:
 

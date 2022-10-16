@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003151228](/zet/20221003151228/README.md) VBScript Download Files
 - [20221003151229](/zet/20221003151229/README.md) VBScript Create wget.vbs File

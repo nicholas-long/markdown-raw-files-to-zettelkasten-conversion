@@ -9,6 +9,9 @@
 
 # Related
 
+- [20221016233637](/zet/20221016233637/README.md) commits for day of 2022-08-11
+- [20221016233449](/zet/20221016233449/README.md) commits for day of 2022-05-13
+- [20221016233552](/zet/20221016233552/README.md) commits for day of 2022-07-10
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm
 - [20221003150856](/zet/20221003150856/README.md) ssh-keygen generate key to file no password prompt

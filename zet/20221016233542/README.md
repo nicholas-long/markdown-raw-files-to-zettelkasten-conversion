@@ -68,29 +68,17 @@ kb/linux/cyberpunk-retro-machine-serial-terminals.md
 
 # Related
 
-- 20221014190158
-
-- 20221014190158
-
-- 20221014185713
-
-- 20221014185602
-
-- 20221014190037
-
-- 20221014185602
-
-- 20221014185600
-
-- 20221014190037
-
-- 20221014185917
-
-- 20221014190056
-
-- 20221014190039
-
-- 20221016233540
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233544](/zet/20221016233544/README.md) commits for day of 2022-06-29
+- [20221014190158](/zet/20221014190158/README.md) kb file named kb/linux/cyberpunk-retro-machine-serial-terminals.md
+- [20221014185713](/zet/20221014185713/README.md) kb file named kb/hacking/windows/dump-process-memory.md
+- [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md
+- [20221014190037](/zet/20221014190037/README.md) kb file named kb/hacking/powershell/powershell-enumeration-commands.md
+- [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
+- [20221014185917](/zet/20221014185917/README.md) kb file named kb/hacking/commands/packet-capture.md
+- [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
+- [20221014190039](/zet/20221014190039/README.md) kb file named kb/hacking/powershell/powershell-tricks.md
+- [20221016233540](/zet/20221016233540/README.md) commits for day of 2022-06-27
 
 Tags:
 

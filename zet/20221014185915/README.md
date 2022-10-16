@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233558](/zet/20221016233558/README.md) commits for day of 2022-07-13
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150720](/zet/20221003150720/README.md) curl
 - [20221003150718](/zet/20221003150718/README.md) curl upload a file

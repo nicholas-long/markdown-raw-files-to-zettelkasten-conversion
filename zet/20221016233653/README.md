@@ -37,15 +37,13 @@ kb/hacking/commands/crowbar.md
 
 # Related
 
-- 20221014185900
-
-- 20221014190047
-
-- 20221014185655
-
-- 20221014185652
-
-- 20221016233651
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233655](/zet/20221016233655/README.md) commits for day of 2022-08-24
+- [20221014185900](/zet/20221014185900/README.md) kb file named kb/hacking/commands/crowbar.md
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
+- [20221014185655](/zet/20221014185655/README.md) kb file named kb/hacking/windows/dos-and-powershell-enumeration-quick.md
+- [20221014185652](/zet/20221014185652/README.md) kb file named kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md
+- [20221016233651](/zet/20221016233651/README.md) commits for day of 2022-08-22
 
 Tags:
 

@@ -53,23 +53,17 @@ kb/hacking/windows/persistence.md
 
 # Related
 
-- 20221014185707
-
-- 20221014185826
-
-- 20221014185539
-
-- 20221014185751
-
-- 20221014190051
-
-- 20221014185918
-
-- 20221014185603
-
-- 20221014185619
-
-- 20221016233538
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233542](/zet/20221016233542/README.md) commits for day of 2022-06-28
+- [20221014185707](/zet/20221014185707/README.md) kb file named kb/hacking/windows/persistence.md
+- [20221014185826](/zet/20221014185826/README.md) kb file named kb/hacking/commands/two-factor.md
+- [20221014185539](/zet/20221014185539/README.md) kb file named kb/hacking/tricks/exploit-asterisk-with-touch.md
+- [20221014185751](/zet/20221014185751/README.md) kb file named kb/hacking/python/fix-ssl.md
+- [20221014190051](/zet/20221014190051/README.md) kb file named kb/hacking/misc/database-cms-enum.md
+- [20221014185918](/zet/20221014185918/README.md) kb file named kb/hacking/commands/sqlmap-commands.md
+- [20221014185603](/zet/20221014185603/README.md) kb file named kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221016233538](/zet/20221016233538/README.md) commits for day of 2022-06-26
 
 Tags:
 

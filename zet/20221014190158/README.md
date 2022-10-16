@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221016233542](/zet/20221016233542/README.md) commits for day of 2022-06-28
+- [20221016233544](/zet/20221016233544/README.md) commits for day of 2022-06-29
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150150](/zet/20221003150150/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal
 - [20221003150149](/zet/20221003150149/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal serial codes

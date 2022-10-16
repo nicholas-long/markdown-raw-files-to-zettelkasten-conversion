@@ -9,6 +9,11 @@
 
 # Related
 
+- [20221016233449](/zet/20221016233449/README.md) commits for day of 2022-05-13
+- [20221016233653](/zet/20221016233653/README.md) commits for day of 2022-08-23
+- [20221016233648](/zet/20221016233648/README.md) commits for day of 2022-08-18
+- [20221016233618](/zet/20221016233618/README.md) commits for day of 2022-07-29
+- [20221016233603](/zet/20221016233603/README.md) commits for day of 2022-07-17
 - [20221003151120](/zet/20221003151120/README.md) dos commands installed drivers
 - [20221003151124](/zet/20221003151124/README.md) dos commands
 - [20221003151111](/zet/20221003151111/README.md) dos commands kill process by id

@@ -38,17 +38,13 @@ kb/hacking/commands/smbclient-commands.md
 
 # Related
 
-- 20221014185947
-
-- 20221014185950
-
-- 20221014185950
-
-- 20221014185929
-
-- 20221014185459
-
-- 20221016233427
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233431](/zet/20221016233431/README.md) commits for day of 2022-04-29
+- [20221014185947](/zet/20221014185947/README.md) kb file named kb/hacking/commands/smbclient-commands.md
+- [20221014185950](/zet/20221014185950/README.md) kb file named kb/hacking/commands/impacket-commands.md
+- [20221014185929](/zet/20221014185929/README.md) kb file named kb/hacking/commands/crackmapexec-commands.md
+- [20221014185459](/zet/20221014185459/README.md) kb file named kb/networking/port-forwarding.md
+- [20221016233427](/zet/20221016233427/README.md) commits for day of 2022-04-26
 
 Tags:
 

@@ -16,9 +16,10 @@ kb/hacking/priv-esc/searchsploit-privesc-queries.md
 
 # Related
 
-- 20221014185756
-
-- 20221016233420
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233424](/zet/20221016233424/README.md) commits for day of 2022-04-22
+- [20221014185756](/zet/20221014185756/README.md) kb file named kb/hacking/priv-esc/searchsploit-privesc-queries.md
+- [20221016233420](/zet/20221016233420/README.md) commits for day of 2022-04-20
 
 Tags:
 

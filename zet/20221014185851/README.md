@@ -9,6 +9,11 @@
 
 # Related
 
+- [20221016233523](/zet/20221016233523/README.md) commits for day of 2022-06-06
+- [20221016233352](/zet/20221016233352/README.md) commits for day of 2022-03-24
+- [20221016233458](/zet/20221016233458/README.md) commits for day of 2022-05-21
+- [20221016233406](/zet/20221016233406/README.md) commits for day of 2022-04-08
+- [20221016233558](/zet/20221016233558/README.md) commits for day of 2022-07-13
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150807](/zet/20221003150807/README.md) brute force default credentials
 - [20221003150806](/zet/20221003150806/README.md) brute force default credentials mysql

@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221016233554](/zet/20221016233554/README.md) commits for day of 2022-07-11
+- [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221003151130](/zet/20221003151130/README.md) active directory  change user password with rpcclient over SMB 
 - [20221003151138](/zet/20221003151138/README.md) active directory  Backup Operators group
 - [20221003151125](/zet/20221003151125/README.md) active directory  delegation constrained

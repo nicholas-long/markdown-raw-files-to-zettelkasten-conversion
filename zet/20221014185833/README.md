@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221016233525](/zet/20221016233525/README.md) commits for day of 2022-06-15
+- [20221016233351](/zet/20221016233351/README.md) commits for day of 2022-03-23
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150848](/zet/20221003150848/README.md) hydra brute force HTTP basic authentication also works for NTLM
 - [20221003150849](/zet/20221003150849/README.md) hydra brute force HTTP basic authentication

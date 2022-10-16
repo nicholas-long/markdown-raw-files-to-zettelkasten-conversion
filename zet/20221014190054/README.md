@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233549](/zet/20221016233549/README.md) commits for day of 2022-07-07
 - [20221003150338](/zet/20221003150338/README.md) ansible exploiting playbook
 - [20221003150337](/zet/20221003150337/README.md) ansible exploiting playbook rev shell
 - [20221003150336](/zet/20221003150336/README.md) ansible exploiting playbook priv esc backdoor

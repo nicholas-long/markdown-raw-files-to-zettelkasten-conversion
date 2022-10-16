@@ -59,23 +59,16 @@ kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md
 
 # Related
 
-- 20221014185603
-
-- 20221014185450
-
-- 20221014190034
-
-- 20221014185617
-
-- 20221014190105
-
-- 20221014190056
-
-- 20221014190047
-
-- 20221014190047
-
-- 20221016233621
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233625](/zet/20221016233625/README.md) commits for day of 2022-08-03
+- [20221014185603](/zet/20221014185603/README.md) kb file named kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221014190034](/zet/20221014190034/README.md) kb file named kb/hacking/notes-template/notes.md
+- [20221014185617](/zet/20221014185617/README.md) kb file named kb/hacking/to-try-lists/procedure.md
+- [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md
+- [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
+- [20221016233621](/zet/20221016233621/README.md) commits for day of 2022-07-31
 
 Tags:
 

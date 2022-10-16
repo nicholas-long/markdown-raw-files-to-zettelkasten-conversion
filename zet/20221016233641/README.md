@@ -52,21 +52,15 @@ kb/hacking/misc/important-repositories-tools.md
 
 # Related
 
-- 20221014190047
-
-- 20221014185602
-
-- 20221014185450
-
-- 20221014185450
-
-- 20221014185940
-
-- 20221014185858
-
-- 20221014185718
-
-- 20221016233639
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233642](/zet/20221016233642/README.md) commits for day of 2022-08-15
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
+- [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221014185940](/zet/20221014185940/README.md) kb file named kb/hacking/commands/smbmap.md
+- [20221014185858](/zet/20221014185858/README.md) kb file named kb/hacking/commands/enum4linux-command.md
+- [20221014185718](/zet/20221014185718/README.md) kb file named kb/hacking/windows/windows-information.md
+- [20221016233639](/zet/20221016233639/README.md) commits for day of 2022-08-12
 
 Tags:
 

@@ -37,15 +37,13 @@ kb/hacking/powershell/load-xml-object-print-password-from-pscredential.md
 
 # Related
 
-- 20221014190040
-
-- 20221014185644
-
-- 20221014185646
-
-- 20221014190301
-
-- 20221016233316
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233319](/zet/20221016233319/README.md) commits for day of 2022-02-23
+- [20221014190040](/zet/20221014190040/README.md) kb file named kb/hacking/powershell/load-xml-object-print-password-from-pscredential.md
+- [20221014185644](/zet/20221014185644/README.md) kb file named kb/hacking/passwords/hashcat-generate-wordlist-from-file-stdout.md
+- [20221014185646](/zet/20221014185646/README.md) kb file named kb/hacking/passwords/hashcat-generate-passwords-output-with-mask-pattern.md
+- [20221014190301](/zet/20221014190301/README.md) kb file named kb/bash-scripting/debugging.md
+- [20221016233316](/zet/20221016233316/README.md) commits for day of 2022-02-21
 
 Tags:
 

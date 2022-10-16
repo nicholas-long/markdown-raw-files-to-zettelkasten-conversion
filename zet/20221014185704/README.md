@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221003151089](/zet/20221003151089/README.md) mimikatz
 - [20221003151087](/zet/20221003151087/README.md) mimikatz dump passwords
 - [20221003151088](/zet/20221003151088/README.md) mimikatz all in one command for non-interactive powershell

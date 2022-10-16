@@ -9,6 +9,16 @@
 
 # Related
 
+- [20221016233727](/zet/20221016233727/README.md) commits for day of 2022-09-20
+- [20221016233457](/zet/20221016233457/README.md) commits for day of 2022-05-20
+- [20221016233451](/zet/20221016233451/README.md) commits for day of 2022-05-17
+- [20221016233518](/zet/20221016233518/README.md) commits for day of 2022-06-03
+- [20221016233516](/zet/20221016233516/README.md) commits for day of 2022-06-02
+- [20221016233642](/zet/20221016233642/README.md) commits for day of 2022-08-15
+- [20221016233639](/zet/20221016233639/README.md) commits for day of 2022-08-12
+- [20221016233637](/zet/20221016233637/README.md) commits for day of 2022-08-11
+- [20221016233615](/zet/20221016233615/README.md) commits for day of 2022-07-27
+- [20221016233609](/zet/20221016233609/README.md) commits for day of 2022-07-21
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221003151436](/zet/20221003151436/README.md) awk scripting print all variations of spaces between tokens
 - [20221003151433](/zet/20221003151433/README.md) awk scripting combine lines from two files combinatorically with symbol between

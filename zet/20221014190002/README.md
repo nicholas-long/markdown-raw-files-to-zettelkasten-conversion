@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233605](/zet/20221016233605/README.md) commits for day of 2022-07-18
 - [20221003150535](/zet/20221003150535/README.md) immunity debugger mona commands search for opcode string jmp esp
 - [20221003150533](/zet/20221003150533/README.md) immunity debugger mona commands search for opcode string jmp esp inside module
 - [20221003150543](/zet/20221003150543/README.md) simple binary exploits python exploit scripts

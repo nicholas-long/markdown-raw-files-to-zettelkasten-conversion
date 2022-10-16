@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221016233407](/zet/20221016233407/README.md) commits for day of 2022-04-09
+- [20221016233458](/zet/20221016233458/README.md) commits for day of 2022-05-21
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150698](/zet/20221003150698/README.md) SNMP enumeration command
 - [20221003150696](/zet/20221003150696/README.md) SNMP enumeration command onesixtyone

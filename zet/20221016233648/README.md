@@ -82,45 +82,25 @@ kb/hacking/to-try-lists/stuck.md
 
 # Related
 
-- 20221014185623
-
-- 20221014185603
-
-- 20221014185600
-
-- 20221014185719
-
-- 20221014185612
-
-- 20221014185641
-
-- 20221014190047
-
-- 20221014185855
-
-- 20221014185927
-
-- 20221014185450
-
-- 20221014185450
-
-- 20221014185710
-
-- 20221014185701
-
-- 20221014185602
-
-- 20221014185629
-
-- 20221014185629
-
-- 20221014190039
-
-- 20221014190047
-
-- 20221014185655
-
-- 20221016233646
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233650](/zet/20221016233650/README.md) commits for day of 2022-08-19
+- [20221014185623](/zet/20221014185623/README.md) kb file named kb/hacking/to-try-lists/stuck.md
+- [20221014185603](/zet/20221014185603/README.md) kb file named kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md
+- [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
+- [20221014185719](/zet/20221014185719/README.md) kb file named kb/hacking/windows/windows-exploits-non-metasploit.md
+- [20221014185612](/zet/20221014185612/README.md) kb file named kb/hacking/to-try-lists/SMB.md
+- [20221014185641](/zet/20221014185641/README.md) kb file named kb/hacking/pivoting.md
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
+- [20221014185855](/zet/20221014185855/README.md) kb file named kb/hacking/commands/generate-cewl-wordlist.md
+- [20221014185927](/zet/20221014185927/README.md) kb file named kb/hacking/commands/bloodhound.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221014185710](/zet/20221014185710/README.md) kb file named kb/hacking/windows/service-account-privileges.md
+- [20221014185701](/zet/20221014185701/README.md) kb file named kb/hacking/windows/enable-privilege-api.md
+- [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md
+- [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md
+- [20221014190039](/zet/20221014190039/README.md) kb file named kb/hacking/powershell/powershell-tricks.md
+- [20221014185655](/zet/20221014185655/README.md) kb file named kb/hacking/windows/dos-and-powershell-enumeration-quick.md
+- [20221016233646](/zet/20221016233646/README.md) commits for day of 2022-08-17
 
 Tags:
 

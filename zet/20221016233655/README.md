@@ -37,15 +37,12 @@ kb/hacking/to-try-lists/active-directory-domain.md
 
 # Related
 
-- 20221014185629
-
-- 20221014185905
-
-- 20221014185944
-
-- 20221014185629
-
-- 20221016233653
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233657](/zet/20221016233657/README.md) commits for day of 2022-08-26
+- [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md
+- [20221014185905](/zet/20221014185905/README.md) kb file named kb/hacking/commands/windows-active-directory-kerberos-commands.md
+- [20221014185944](/zet/20221014185944/README.md) kb file named kb/hacking/commands/ldap.md
+- [20221016233653](/zet/20221016233653/README.md) commits for day of 2022-08-23
 
 Tags:
 

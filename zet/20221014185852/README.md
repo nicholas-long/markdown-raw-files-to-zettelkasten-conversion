@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233505](/zet/20221016233505/README.md) commits for day of 2022-05-26
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150799](/zet/20221003150799/README.md) openssl commands decrypt file
 - [20221003150801](/zet/20221003150801/README.md) openssl commands

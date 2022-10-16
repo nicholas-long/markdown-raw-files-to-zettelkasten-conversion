@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233646](/zet/20221016233646/README.md) commits for day of 2022-08-17
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

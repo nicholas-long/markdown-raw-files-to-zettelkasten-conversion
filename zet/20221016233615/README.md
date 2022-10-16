@@ -37,15 +37,11 @@ kb/hacking/to-try-lists/active-directory-domain.md
 
 # Related
 
-- 20221014185629
-
-- 20221014185509
-
-- 20221014185629
-
-- 20221014185629
-
-- 20221016233613
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233616](/zet/20221016233616/README.md) commits for day of 2022-07-28
+- [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md
+- [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md
+- [20221016233613](/zet/20221016233613/README.md) commits for day of 2022-07-26
 
 Tags:
 

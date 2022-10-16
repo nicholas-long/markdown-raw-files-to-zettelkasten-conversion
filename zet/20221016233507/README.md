@@ -81,115 +81,63 @@ kb/scratch.md
 
 # Related
 
-- 20221014185515
-
-- 20221014185706
-
-- 20221014185658
-
-- 20221014185718
-
-- 20221014185649
-
-- 20221014185654
-
-- 20221014185704
-
-- 20221014185548
-
-- 20221014185544
-
-- 20221014185547
-
-- 20221014185557
-
-- 20221014185528
-
-- 20221014185556
-
-- 20221014185530
-
-- 20221014185537
-
-- 20221014185545
-
-- 20221014185540
-
-- 20221014185534
-
-- 20221014185533
-
-- 20221014185551
-
-- 20221014185554
-
-- 20221014185539
-
-- 20221014185553
-
-- 20221014185542
-
-- 20221014185527
-
-- 20221014190007
-
-- 20221014185735
-
-- 20221014185726
-
-- 20221014185744
-
-- 20221014185750
-
-- 20221014185736
-
-- 20221014185730
-
-- 20221014185745
-
-- 20221014185724
-
-- 20221014185742
-
-- 20221014185741
-
-- 20221014185747
-
-- 20221014185727
-
-- 20221014185732
-
-- 20221014185738
-
-- 20221014185733
-
-- 20221014190024
-
-- 20221014185946
-
-- 20221014185949
-
-- 20221014185857
-
-- 20221014185906
-
-- 20221014185559
-
-- 20221014190001
-
-- 20221014185926
-
-- 20221014185947
-
-- 20221014185932
-
-- 20221014185908
-
-- 20221014185834
-
-- 20221014185858
-
-- 20221016233505
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233510](/zet/20221016233510/README.md) commits for day of 2022-05-30
+- [20221014185515](/zet/20221014185515/README.md) kb file named kb/scratch.md
+- [20221014185706](/zet/20221014185706/README.md) kb file named kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md
+- [20221014185658](/zet/20221014185658/README.md) kb file named kb/hacking/windows/windows-reverse-shell.md
+- [20221014185718](/zet/20221014185718/README.md) kb file named kb/hacking/windows/windows-information.md
+- [20221014185649](/zet/20221014185649/README.md) kb file named kb/hacking/windows/windows-cheatsheet-resources.md
+- [20221014185654](/zet/20221014185654/README.md) kb file named kb/hacking/windows/windows-active-directory-and-privilege-information.md
+- [20221014185704](/zet/20221014185704/README.md) kb file named kb/hacking/windows/mimikatz.md
+- [20221014185548](/zet/20221014185548/README.md) kb file named kb/hacking/tricks/windows-encoding-base64-utf16.md
+- [20221014185544](/zet/20221014185544/README.md) kb file named kb/hacking/tricks/wfuzz-identify-versions.md
+- [20221014185547](/zet/20221014185547/README.md) kb file named kb/hacking/tricks/vbscript-wget-hack.md
+- [20221014185557](/zet/20221014185557/README.md) kb file named kb/hacking/tricks/valid-https-server.md
+- [20221014185528](/zet/20221014185528/README.md) kb file named kb/hacking/tricks/stabilize-shell.md
+- [20221014185556](/zet/20221014185556/README.md) kb file named kb/hacking/tricks/smtp-send-email-cli.md
+- [20221014185530](/zet/20221014185530/README.md) kb file named kb/hacking/tricks/scan-firewall-reverse-ports.md
+- [20221014185537](/zet/20221014185537/README.md) kb file named kb/hacking/tricks/ping-subnet-os-enumeration.md
+- [20221014185545](/zet/20221014185545/README.md) kb file named kb/hacking/tricks/mysql-tricks.md
+- [20221014185540](/zet/20221014185540/README.md) kb file named kb/hacking/tricks/make-wordlists-fuzzing-with-bash.md
+- [20221014185534](/zet/20221014185534/README.md) kb file named kb/hacking/tricks/jenkins-rev-shell-code.md
+- [20221014185533](/zet/20221014185533/README.md) kb file named kb/hacking/tricks/install-pip-modules-on-target-as-files.md
+- [20221014185551](/zet/20221014185551/README.md) kb file named kb/hacking/tricks/identify-linux-version-service-versions.md
+- [20221014185554](/zet/20221014185554/README.md) kb file named kb/hacking/tricks/hibernate-hql-injection.md
+- [20221014185539](/zet/20221014185539/README.md) kb file named kb/hacking/tricks/exploit-asterisk-with-touch.md
+- [20221014185553](/zet/20221014185553/README.md) kb file named kb/hacking/tricks/dump-hashes-from-registry-backups.md
+- [20221014185542](/zet/20221014185542/README.md) kb file named kb/hacking/tricks/ctf-get-tld-working-firefox-url-bar.md
+- [20221014185527](/zet/20221014185527/README.md) kb file named kb/hacking/tricks/build-windows-exploits.md
+- [20221014190007](/zet/20221014190007/README.md) kb file named kb/hacking/pwn/msfvenom-shellcode-for-pwn.md
+- [20221014185735](/zet/20221014185735/README.md) kb file named kb/hacking/methodology/sqli-manual-mysql-payloads.md
+- [20221014185726](/zet/20221014185726/README.md) kb file named kb/hacking/methodology/source-analysis.md
+- [20221014185744](/zet/20221014185744/README.md) kb file named kb/hacking/methodology/owasp-top-10-api-bugs.md
+- [20221014185750](/zet/20221014185750/README.md) kb file named kb/hacking/methodology/osint-overview.md
+- [20221014185736](/zet/20221014185736/README.md) kb file named kb/hacking/methodology/oracle.md
+- [20221014185730](/zet/20221014185730/README.md) kb file named kb/hacking/methodology/nmap-scripts.md
+- [20221014185745](/zet/20221014185745/README.md) kb file named kb/hacking/methodology/mobile-apps-and-api-testing.md
+- [20221014185724](/zet/20221014185724/README.md) kb file named kb/hacking/methodology/jwt.md
+- [20221014185742](/zet/20221014185742/README.md) kb file named kb/hacking/methodology/hashcat-crack-salted-password.md
+- [20221014185741](/zet/20221014185741/README.md) kb file named kb/hacking/methodology/dns-enum.md
+- [20221014185747](/zet/20221014185747/README.md) kb file named kb/hacking/methodology/XSS.md
+- [20221014185727](/zet/20221014185727/README.md) kb file named kb/hacking/methodology/SSTI-test-payloads.md
+- [20221014185732](/zet/20221014185732/README.md) kb file named kb/hacking/methodology/LFI-procedure.md
+- [20221014185738](/zet/20221014185738/README.md) kb file named kb/hacking/methodology/IDOR-notes.md
+- [20221014185733](/zet/20221014185733/README.md) kb file named kb/hacking/methodology/API-enumeration.md
+- [20221014190024](/zet/20221014190024/README.md) kb file named kb/hacking/exploit/shellshock-exploit.md
+- [20221014185946](/zet/20221014185946/README.md) kb file named kb/hacking/commands/pureftp-commands.md
+- [20221014185949](/zet/20221014185949/README.md) kb file named kb/hacking/commands/pivot-tunnel-through-chisel.md
+- [20221014185857](/zet/20221014185857/README.md) kb file named kb/hacking/commands/openssl-general.md
+- [20221014185906](/zet/20221014185906/README.md) kb file named kb/hacking/commands/cracking-encrypted-files-with-john-the-ripper.md
+- [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
+- [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md
+- [20221014185926](/zet/20221014185926/README.md) kb file named kb/hacking/commands/tftp-reference.md
+- [20221014185947](/zet/20221014185947/README.md) kb file named kb/hacking/commands/smbclient-commands.md
+- [20221014185932](/zet/20221014185932/README.md) kb file named kb/hacking/commands/nfs.md
+- [20221014185908](/zet/20221014185908/README.md) kb file named kb/hacking/commands/hydra.md
+- [20221014185834](/zet/20221014185834/README.md) kb file named kb/hacking/commands/gobuster.md
+- [20221014185858](/zet/20221014185858/README.md) kb file named kb/hacking/commands/enum4linux-command.md
+- [20221016233505](/zet/20221016233505/README.md) commits for day of 2022-05-26
 
 Tags:
 

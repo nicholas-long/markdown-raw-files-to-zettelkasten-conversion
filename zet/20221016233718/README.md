@@ -16,9 +16,10 @@ kb/hacking/pwn/binary-analysis.md
 
 # Related
 
-- 20221014190016
-
-- 20221016233716
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233720](/zet/20221016233720/README.md) commits for day of 2022-09-15
+- [20221014190016](/zet/20221014190016/README.md) kb file named kb/hacking/pwn/binary-analysis.md
+- [20221016233716](/zet/20221016233716/README.md) commits for day of 2022-09-13
 
 Tags:
 

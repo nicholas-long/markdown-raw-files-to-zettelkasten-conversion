@@ -74,29 +74,18 @@ kb/linux/routing.md
 
 # Related
 
-- 20221014190210
-
-- 20221014190132
-
-- 20221014185929
-
-- 20221014185950
-
-- 20221014185950
-
-- 20221014190001
-
-- 20221014185947
-
-- 20221014185929
-
-- 20221014185651
-
-- 20221014185926
-
-- 20221014190259
-
-- 20221016233437
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233441](/zet/20221016233441/README.md) commits for day of 2022-05-06
+- [20221014190210](/zet/20221014190210/README.md) kb file named kb/linux/routing.md
+- [20221014190132](/zet/20221014190132/README.md) kb file named kb/linux/iptables.md
+- [20221014185929](/zet/20221014185929/README.md) kb file named kb/hacking/commands/crackmapexec-commands.md
+- [20221014185950](/zet/20221014185950/README.md) kb file named kb/hacking/commands/impacket-commands.md
+- [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md
+- [20221014185947](/zet/20221014185947/README.md) kb file named kb/hacking/commands/smbclient-commands.md
+- [20221014185651](/zet/20221014185651/README.md) kb file named kb/hacking/windows/xp-server-2003.md
+- [20221014185926](/zet/20221014185926/README.md) kb file named kb/hacking/commands/tftp-reference.md
+- [20221014190259](/zet/20221014190259/README.md) kb file named kb/bash-scripting/tricks.md
+- [20221016233437](/zet/20221016233437/README.md) commits for day of 2022-05-04
 
 Tags:
 

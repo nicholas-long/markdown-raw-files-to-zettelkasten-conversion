@@ -42,25 +42,18 @@ kb/hacking/pwn/python-tricks.md
 
 # Related
 
-- 20221014190021
-
-- 20221014185619
-
-- 20221014190229
-
-- 20221014190019
-
-- 20221014190015
-
-- 20221014190022
-
-- 20221014190008
-
-- 20221014190012
-
-- 20221014190013
-
-- 20221016233722
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233725](/zet/20221016233725/README.md) commits for day of 2022-09-19
+- [20221014190021](/zet/20221014190021/README.md) kb file named kb/hacking/pwn/python-tricks.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014190229](/zet/20221014190229/README.md) kb file named kb/auto-python.md
+- [20221014190019](/zet/20221014190019/README.md) kb file named kb/hacking/pwn/tricks.md
+- [20221014190015](/zet/20221014190015/README.md) kb file named kb/hacking/pwn/sigreturn.md
+- [20221014190022](/zet/20221014190022/README.md) kb file named kb/hacking/pwn/pwntools.md
+- [20221014190008](/zet/20221014190008/README.md) kb file named kb/hacking/pwn/pwn-methodology.md
+- [20221014190012](/zet/20221014190012/README.md) kb file named kb/hacking/pwn/heap-exploit.md
+- [20221014190013](/zet/20221014190013/README.md) kb file named kb/hacking/pwn/calling-conventions.md
+- [20221016233722](/zet/20221016233722/README.md) commits for day of 2022-09-16
 
 Tags:
 

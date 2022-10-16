@@ -37,15 +37,13 @@ kb/hacking/commands/hydra-ssh-command.md
 
 # Related
 
-- 20221014185845
-
-- 20221014190034
-
-- 20221014185819
-
-- 20221014185822
-
-- 20221016233346
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233349](/zet/20221016233349/README.md) commits for day of 2022-03-22
+- [20221014185845](/zet/20221014185845/README.md) kb file named kb/hacking/commands/hydra-ssh-command.md
+- [20221014190034](/zet/20221014190034/README.md) kb file named kb/hacking/notes-template/notes.md
+- [20221014185819](/zet/20221014185819/README.md) kb file named kb/hacking/priv-esc/dirty-cow-no-gcc.md
+- [20221014185822](/zet/20221014185822/README.md) kb file named kb/hacking/commands/nikto-command.md
+- [20221016233346](/zet/20221016233346/README.md) commits for day of 2022-03-20
 
 Tags:
 

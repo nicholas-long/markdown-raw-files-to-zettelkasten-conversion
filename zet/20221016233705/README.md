@@ -16,9 +16,10 @@ kb/vim/vim.md
 
 # Related
 
-- 20221014185505
-
-- 20221016233703
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233706](/zet/20221016233706/README.md) commits for day of 2022-09-05
+- [20221014185505](/zet/20221014185505/README.md) kb file named kb/vim/vim.md
+- [20221016233703](/zet/20221016233703/README.md) commits for day of 2022-09-01
 
 Tags:
 

@@ -9,6 +9,10 @@
 
 # Related
 
+- [20221016233439](/zet/20221016233439/README.md) commits for day of 2022-05-05
+- [20221016233429](/zet/20221016233429/README.md) commits for day of 2022-04-28
+- [20221016233549](/zet/20221016233549/README.md) commits for day of 2022-07-07
+- [20221016233323](/zet/20221016233323/README.md) commits for day of 2022-02-25
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150597](/zet/20221003150597/README.md) impacket kerberoast with impacket-GetUserSPNs
 - [20221003150595](/zet/20221003150595/README.md) impacket dump registry and NTDS secrets from files with secretsdump

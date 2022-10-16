@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233642](/zet/20221016233642/README.md) commits for day of 2022-08-15
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150528](/zet/20221003150528/README.md) gdb commands debug step into / follow child process
 - [20221003150529](/zet/20221003150529/README.md) gdb commands

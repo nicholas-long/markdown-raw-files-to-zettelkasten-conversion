@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221016233402](/zet/20221016233402/README.md) commits for day of 2022-04-05
+- [20221016233505](/zet/20221016233505/README.md) commits for day of 2022-05-26
 - [20221003150166](/zet/20221003150166/README.md) dump process memory with dd ( complicated )
 - [20221003150167](/zet/20221003150167/README.md) dump process memory with exe pseudofile ( simple )
 - [20221003150168](/zet/20221003150168/README.md) dump process memory

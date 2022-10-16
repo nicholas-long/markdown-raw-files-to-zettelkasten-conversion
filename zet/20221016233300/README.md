@@ -16,9 +16,10 @@ kb/tmux/fix-box-art.md
 
 # Related
 
-- 20221014190213
-
-- 20221016233258
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233301](/zet/20221016233301/README.md) commits for day of 2022-02-08
+- [20221014190213](/zet/20221014190213/README.md) kb file named kb/tmux/fix-box-art.md
+- [20221016233258](/zet/20221016233258/README.md) commits for day of 2022-01-29
 
 Tags:
 

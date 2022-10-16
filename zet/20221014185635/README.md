@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233516](/zet/20221016233516/README.md) commits for day of 2022-06-02
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003151443](/zet/20221003151443/README.md) kb
 

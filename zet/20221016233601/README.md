@@ -45,19 +45,15 @@ kb/hacking/to-try-lists/got-source-code.md
 
 # Related
 
-- 20221014185622
-
-- 20221014185715
-
-- 20221014190010
-
-- 20221014185901
-
-- 20221014190047
-
-- 20221014185525
-
-- 20221016233559
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233603](/zet/20221016233603/README.md) commits for day of 2022-07-17
+- [20221014185622](/zet/20221014185622/README.md) kb file named kb/hacking/to-try-lists/got-source-code.md
+- [20221014185715](/zet/20221014185715/README.md) kb file named kb/hacking/windows/test-for-defender-amsi.md
+- [20221014190010](/zet/20221014190010/README.md) kb file named kb/hacking/pwn/shellcode-to-executable.md
+- [20221014185901](/zet/20221014185901/README.md) kb file named kb/hacking/commands/msfvenom-commands.md
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
+- [20221014185525](/zet/20221014185525/README.md) kb file named kb/hacking/tricks/windows-smartscreen-bypass.md
+- [20221016233559](/zet/20221016233559/README.md) commits for day of 2022-07-14
 
 Tags:
 

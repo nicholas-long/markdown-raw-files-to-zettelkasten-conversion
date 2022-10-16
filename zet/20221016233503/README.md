@@ -40,21 +40,16 @@ kb/awk-scripting/bash-awk-quick-commands.md
 
 # Related
 
-- 20221014190117
-
-- 20221014185602
-
-- 20221014185600
-
-- 20221014190039
-
-- 20221014190001
-
-- 20221014185911
-
-- 20221014190138
-
-- 20221016233502
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233505](/zet/20221016233505/README.md) commits for day of 2022-05-26
+- [20221014190117](/zet/20221014190117/README.md) kb file named kb/awk-scripting/bash-awk-quick-commands.md
+- [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md
+- [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
+- [20221014190039](/zet/20221014190039/README.md) kb file named kb/hacking/powershell/powershell-tricks.md
+- [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md
+- [20221014185911](/zet/20221014185911/README.md) kb file named kb/hacking/commands/encode-powershell-base64-windows.md
+- [20221014190138](/zet/20221014190138/README.md) kb file named kb/linux/package-manager-commands.md
+- [20221016233502](/zet/20221016233502/README.md) commits for day of 2022-05-24
 
 Tags:
 

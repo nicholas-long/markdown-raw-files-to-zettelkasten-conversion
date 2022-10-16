@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233518](/zet/20221016233518/README.md) commits for day of 2022-06-03
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
 - [20221003151104](/zet/20221003151104/README.md) compile windows DLL to run commands DLL code building with mingw

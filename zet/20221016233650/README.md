@@ -60,25 +60,15 @@ kb/hacking/misc/important-repositories-tools.md
 
 # Related
 
-- 20221014190047
-
-- 20221014185602
-
-- 20221014185718
-
-- 20221014185718
-
-- 20221014185718
-
-- 20221014185619
-
-- 20221014185623
-
-- 20221014185629
-
-- 20221014185619
-
-- 20221016233648
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233651](/zet/20221016233651/README.md) commits for day of 2022-08-22
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
+- [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md
+- [20221014185718](/zet/20221014185718/README.md) kb file named kb/hacking/windows/windows-information.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014185623](/zet/20221014185623/README.md) kb file named kb/hacking/to-try-lists/stuck.md
+- [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md
+- [20221016233648](/zet/20221016233648/README.md) commits for day of 2022-08-18
 
 Tags:
 

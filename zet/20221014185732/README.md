@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221016233512](/zet/20221016233512/README.md) commits for day of 2022-05-31
+- [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221003151009](/zet/20221003151009/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl  prevent normalization of paths
 - [20221003151010](/zet/20221003151010/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl 
 - [20221003151008](/zet/20221003151008/README.md) LFI or directory traversal procedures file wordlists

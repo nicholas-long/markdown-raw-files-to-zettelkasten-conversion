@@ -16,9 +16,10 @@ kb/awk-scripting/convert-decimal-to-hex.md
 
 # Related
 
-- 20221014190119
-
-- 20221016233446
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233449](/zet/20221016233449/README.md) commits for day of 2022-05-13
+- [20221014190119](/zet/20221014190119/README.md) kb file named kb/awk-scripting/convert-decimal-to-hex.md
+- [20221016233446](/zet/20221016233446/README.md) commits for day of 2022-05-11
 
 Tags:
 

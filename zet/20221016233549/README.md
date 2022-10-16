@@ -131,47 +131,21 @@ kb/hacking/commands/impacket-commands.md
 
 # Related
 
-- 20221014185950
-
-- 20221014185808
-
-- 20221014185619
-
-- 20221014190105
-
-- 20221014190054
-
-- 20221014190056
-
-- 20221014185808
-
-- 20221014185619
-
-- 20221014185820
-
-- 20221014185619
-
-- 20221014185619
-
-- 20221014190105
-
-- 20221014185917
-
-- 20221014185855
-
-- 20221014185617
-
-- 20221014185938
-
-- 20221014185921
-
-- 20221014190056
-
-- 20221014185921
-
-- 20221014190056
-
-- 20221016233547
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233551](/zet/20221016233551/README.md) commits for day of 2022-07-08
+- [20221014185950](/zet/20221014185950/README.md) kb file named kb/hacking/commands/impacket-commands.md
+- [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md
+- [20221014190054](/zet/20221014190054/README.md) kb file named kb/hacking/misc/ansible.md
+- [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
+- [20221014185820](/zet/20221014185820/README.md) kb file named kb/hacking/priv-esc/sudoers.md
+- [20221014185917](/zet/20221014185917/README.md) kb file named kb/hacking/commands/packet-capture.md
+- [20221014185855](/zet/20221014185855/README.md) kb file named kb/hacking/commands/generate-cewl-wordlist.md
+- [20221014185617](/zet/20221014185617/README.md) kb file named kb/hacking/to-try-lists/procedure.md
+- [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md
+- [20221014185921](/zet/20221014185921/README.md) kb file named kb/hacking/commands/wpscan-command.md
+- [20221016233547](/zet/20221016233547/README.md) commits for day of 2022-07-06
 
 Tags:
 

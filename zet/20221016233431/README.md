@@ -30,13 +30,12 @@ kb/hacking/commands/crackmapexec-commands.md
 
 # Related
 
-- 20221014185929
-
-- 20221014185927
-
-- 20221014185947
-
-- 20221016233429
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233432](/zet/20221016233432/README.md) commits for day of 2022-05-01
+- [20221014185929](/zet/20221014185929/README.md) kb file named kb/hacking/commands/crackmapexec-commands.md
+- [20221014185927](/zet/20221014185927/README.md) kb file named kb/hacking/commands/bloodhound.md
+- [20221014185947](/zet/20221014185947/README.md) kb file named kb/hacking/commands/smbclient-commands.md
+- [20221016233429](/zet/20221016233429/README.md) commits for day of 2022-04-28
 
 Tags:
 

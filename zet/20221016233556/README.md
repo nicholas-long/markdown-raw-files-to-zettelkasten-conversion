@@ -30,13 +30,12 @@ kb/hacking/commands/sqlmap-commands.md
 
 # Related
 
-- 20221014185918
-
-- 20221014185600
-
-- 20221014185450
-
-- 20221016233554
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233558](/zet/20221016233558/README.md) commits for day of 2022-07-13
+- [20221014185918](/zet/20221014185918/README.md) kb file named kb/hacking/commands/sqlmap-commands.md
+- [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221016233554](/zet/20221016233554/README.md) commits for day of 2022-07-11
 
 Tags:
 

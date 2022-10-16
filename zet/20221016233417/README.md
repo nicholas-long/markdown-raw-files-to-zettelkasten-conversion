@@ -16,9 +16,10 @@ kb/linux/notify-send-crontab-reminder.md
 
 # Related
 
-- 20221014190135
-
-- 20221016233415
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233419](/zet/20221016233419/README.md) commits for day of 2022-04-17
+- [20221014190135](/zet/20221014190135/README.md) kb file named kb/linux/notify-send-crontab-reminder.md
+- [20221016233415](/zet/20221016233415/README.md) commits for day of 2022-04-14
 
 Tags:
 

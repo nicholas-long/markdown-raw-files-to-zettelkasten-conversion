@@ -32,17 +32,14 @@ kb/hacking/priv-esc/enumeration-quick-commands.md
 
 # Related
 
-- 20221014185808
-
-- 20221014185647
-
-- 20221014185834
-
-- 20221014185619
-
-- 20221014185909
-
-- 20221016233507
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233512](/zet/20221016233512/README.md) commits for day of 2022-05-31
+- [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
+- [20221014185647](/zet/20221014185647/README.md) kb file named kb/hacking/defense/linux-hardening.md
+- [20221014185834](/zet/20221014185834/README.md) kb file named kb/hacking/commands/gobuster.md
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014185909](/zet/20221014185909/README.md) kb file named kb/hacking/commands/feroxbuster-command.md
+- [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 
 Tags:
 

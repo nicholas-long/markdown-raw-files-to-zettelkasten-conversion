@@ -32,17 +32,12 @@ kb/hacking/to-try-lists/HTTP.md
 
 # Related
 
-- 20221014185619
-
-- 20221014185619
-
-- 20221014185619
-
-- 20221014185935
-
-- 20221014185909
-
-- 20221016233544
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233547](/zet/20221016233547/README.md) commits for day of 2022-07-06
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014185935](/zet/20221014185935/README.md) kb file named kb/hacking/commands/wfuzz-commands.md
+- [20221014185909](/zet/20221014185909/README.md) kb file named kb/hacking/commands/feroxbuster-command.md
+- [20221016233544](/zet/20221016233544/README.md) commits for day of 2022-06-29
 
 Tags:
 

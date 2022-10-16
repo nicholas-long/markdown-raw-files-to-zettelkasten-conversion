@@ -25,15 +25,13 @@ kb/hacking/to-try-lists/HTTP.md
 
 # Related
 
-- 20221014185619
-
-- 20221014185721
-
-- 20221014190039
-
-- 20221014190105
-
-- 20221016233700
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233703](/zet/20221016233703/README.md) commits for day of 2022-09-01
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014185721](/zet/20221014185721/README.md) kb file named kb/hacking/windows/decrypt-azure-ad-connect.md
+- [20221014190039](/zet/20221014190039/README.md) kb file named kb/hacking/powershell/powershell-tricks.md
+- [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md
+- [20221016233700](/zet/20221016233700/README.md) commits for day of 2022-08-30
 
 Tags:
 

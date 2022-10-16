@@ -33,19 +33,15 @@ kb/hacking/to-try-lists/HTTP.md
 
 # Related
 
-- 20221014185619
-
-- 20221014185953
-
-- 20221014185955
-
-- 20221014185733
-
-- 20221014185849
-
-- 20221014185935
-
-- 20221016233520
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233523](/zet/20221016233523/README.md) commits for day of 2022-06-06
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014185953](/zet/20221014185953/README.md) kb file named kb/hacking/php/PHP-quick-command-reference.md
+- [20221014185955](/zet/20221014185955/README.md) kb file named kb/hacking/php/lfi.md
+- [20221014185733](/zet/20221014185733/README.md) kb file named kb/hacking/methodology/API-enumeration.md
+- [20221014185849](/zet/20221014185849/README.md) kb file named kb/hacking/commands/wfuzz-fuzzing.md
+- [20221014185935](/zet/20221014185935/README.md) kb file named kb/hacking/commands/wfuzz-commands.md
+- [20221016233520](/zet/20221016233520/README.md) commits for day of 2022-06-04
 
 Tags:
 

@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221016233522](/zet/20221016233522/README.md) commits for day of 2022-06-05
+- [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221003150999](/zet/20221003150999/README.md) API enumeration good wordlists API enumeration wordlists by size
 - [20221003150992](/zet/20221003150992/README.md) GraphQL APIs writing GraphQL queries
 - [20221003150997](/zet/20221003150997/README.md) GraphQL APIs GraphQL introspection and recon

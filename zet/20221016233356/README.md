@@ -30,13 +30,12 @@ kb/ascii/coyote0x90-narrow.md
 
 # Related
 
-- 20221014185513
-
-- 20221014185914
-
-- 20221014190257
-
-- 20221016233354
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233357](/zet/20221016233357/README.md) commits for day of 2022-03-31
+- [20221014185513](/zet/20221014185513/README.md) kb file named kb/ascii/coyote0x90-narrow.md
+- [20221014185914](/zet/20221014185914/README.md) kb file named kb/hacking/commands/openssl-view-information-about-cert.md
+- [20221014190257](/zet/20221014190257/README.md) kb file named kb/bash-scripting/strip-newlines.md
+- [20221016233354](/zet/20221016233354/README.md) commits for day of 2022-03-27
 
 Tags:
 

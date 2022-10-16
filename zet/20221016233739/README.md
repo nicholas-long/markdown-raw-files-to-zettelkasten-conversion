@@ -39,19 +39,15 @@ kb/hacking/to-try-lists/HTTP.md
 
 # Related
 
-- 20221014185619
-
-- 20221014185452
-
-- 20221014185450
-
-- 20221014185718
-
-- 20221014190047
-
-- 20221014190105
-
-- 20221016233737
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233740](/zet/20221016233740/README.md) commits for day of 2022-09-29
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
+- [20221014185452](/zet/20221014185452/README.md) kb file named kb/c-language/templates.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221014185718](/zet/20221014185718/README.md) kb file named kb/hacking/windows/windows-information.md
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
+- [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md
+- [20221016233737](/zet/20221016233737/README.md) commits for day of 2022-09-27
 
 Tags:
 

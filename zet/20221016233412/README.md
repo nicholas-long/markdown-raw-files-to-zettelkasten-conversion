@@ -30,13 +30,12 @@ kb/hacking/powershell/powershell-tricks.md
 
 # Related
 
-- 20221014190039
-
-- 20221014190206
-
-- 20221014185849
-
-- 20221016233410
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233414](/zet/20221016233414/README.md) commits for day of 2022-04-13
+- [20221014190039](/zet/20221014190039/README.md) kb file named kb/hacking/powershell/powershell-tricks.md
+- [20221014190206](/zet/20221014190206/README.md) kb file named kb/linux/assorted-notes-and-tips.md
+- [20221014185849](/zet/20221014185849/README.md) kb file named kb/hacking/commands/wfuzz-fuzzing.md
+- [20221016233410](/zet/20221016233410/README.md) commits for day of 2022-04-11
 
 Tags:
 

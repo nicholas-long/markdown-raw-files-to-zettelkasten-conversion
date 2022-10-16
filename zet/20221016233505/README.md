@@ -66,73 +66,42 @@ kb/hacking/analysis/identify-service-data.md
 
 # Related
 
-- 20221014190106
-
-- 20221014185450
-
-- 20221014185504
-
-- 20221014190201
-
-- 20221014190144
-
-- 20221014190154
-
-- 20221014190141
-
-- 20221014190151
-
-- 20221014185519
-
-- 20221014185522
-
-- 20221014185753
-
-- 20221014190004
-
-- 20221014190018
-
-- 20221014185804
-
-- 20221014190040
-
-- 20221014190114
-
-- 20221014190001
-
-- 20221014185921
-
-- 20221014185849
-
-- 20221014185935
-
-- 20221014185918
-
-- 20221014185917
-
-- 20221014185852
-
-- 20221014185938
-
-- 20221014185846
-
-- 20221014185909
-
-- 20221014190236
-
-- 20221014185446
-
-- 20221014190250
-
-- 20221014190301
-
-- 20221014190239
-
-- 20221014190119
-
-- 20221014190216
-
-- 20221016233503
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
+- [20221014190106](/zet/20221014190106/README.md) kb file named kb/hacking/analysis/identify-service-data.md
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
+- [20221014185504](/zet/20221014185504/README.md) kb file named kb/vim/edit-multiple-files.md
+- [20221014190201](/zet/20221014190201/README.md) kb file named kb/linux/utilities-packages.md
+- [20221014190144](/zet/20221014190144/README.md) kb file named kb/linux/install-alacritty.md
+- [20221014190154](/zet/20221014190154/README.md) kb file named kb/linux/git-settings.md
+- [20221014190141](/zet/20221014190141/README.md) kb file named kb/linux/free-up-space.md
+- [20221014190151](/zet/20221014190151/README.md) kb file named kb/linux/dump-process-memory.md
+- [20221014185519](/zet/20221014185519/README.md) kb file named kb/kafka/quick-and-dirty-kafkacat.md
+- [20221014185522](/zet/20221014185522/README.md) kb file named kb/kafka/kafkacat.md
+- [20221014185753](/zet/20221014185753/README.md) kb file named kb/hacking/python/python-quick-reference.md
+- [20221014190004](/zet/20221014190004/README.md) kb file named kb/hacking/pwn/gef-commands.md
+- [20221014190018](/zet/20221014190018/README.md) kb file named kb/hacking/pwn/debug-terminal-setup.md
+- [20221014185804](/zet/20221014185804/README.md) kb file named kb/hacking/priv-esc/etc-passwd-writable-line.md
+- [20221014190040](/zet/20221014190040/README.md) kb file named kb/hacking/powershell/load-xml-object-print-password-from-pscredential.md
+- [20221014190114](/zet/20221014190114/README.md) kb file named kb/hacking/lan/bettercap-options.md
+- [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md
+- [20221014185921](/zet/20221014185921/README.md) kb file named kb/hacking/commands/wpscan-command.md
+- [20221014185849](/zet/20221014185849/README.md) kb file named kb/hacking/commands/wfuzz-fuzzing.md
+- [20221014185935](/zet/20221014185935/README.md) kb file named kb/hacking/commands/wfuzz-commands.md
+- [20221014185918](/zet/20221014185918/README.md) kb file named kb/hacking/commands/sqlmap-commands.md
+- [20221014185917](/zet/20221014185917/README.md) kb file named kb/hacking/commands/packet-capture.md
+- [20221014185852](/zet/20221014185852/README.md) kb file named kb/hacking/commands/openssl-commands.md
+- [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md
+- [20221014185846](/zet/20221014185846/README.md) kb file named kb/hacking/commands/hydra-ftp-command.md
+- [20221014185909](/zet/20221014185909/README.md) kb file named kb/hacking/commands/feroxbuster-command.md
+- [20221014190236](/zet/20221014190236/README.md) kb file named kb/fzf-fuzzy-find/help.md
+- [20221014185446](/zet/20221014185446/README.md) kb file named kb/docker/docker-hd-space.md
+- [20221014190250](/zet/20221014190250/README.md) kb file named kb/bash-scripting/substitution-syntax-braces.md
+- [20221014190301](/zet/20221014190301/README.md) kb file named kb/bash-scripting/debugging.md
+- [20221014190239](/zet/20221014190239/README.md) kb file named kb/bash-scripting/check-empty-var.md
+- [20221014190119](/zet/20221014190119/README.md) kb file named kb/awk-scripting/convert-decimal-to-hex.md
+- [20221014190216](/zet/20221014190216/README.md) kb file named kb/tmux/get-data-info.md
+- [20221016233503](/zet/20221016233503/README.md) commits for day of 2022-05-25
 
 Tags:
 

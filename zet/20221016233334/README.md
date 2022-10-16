@@ -40,21 +40,16 @@ kb/linux/deb-dependencies.md
 
 # Related
 
-- 20221014190134
-
-- 20221014185810
-
-- 20221014185459
-
-- 20221014190141
-
-- 20221014190001
-
-- 20221014185510
-
-- 20221014185443
-
-- 20221016233333
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233336](/zet/20221016233336/README.md) commits for day of 2022-03-12
+- [20221014190134](/zet/20221014190134/README.md) kb file named kb/linux/deb-dependencies.md
+- [20221014185810](/zet/20221014185810/README.md) kb file named kb/hacking/priv-esc/netstat-command.md
+- [20221014185459](/zet/20221014185459/README.md) kb file named kb/networking/port-forwarding.md
+- [20221014190141](/zet/20221014190141/README.md) kb file named kb/linux/free-up-space.md
+- [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md
+- [20221014185510](/zet/20221014185510/README.md) kb file named kb/ascii/coyote0x90.md
+- [20221014185443](/zet/20221014185443/README.md) kb file named kb/docker/run-container-in-background.md
+- [20221016233333](/zet/20221016233333/README.md) commits for day of 2022-03-10
 
 Tags:
 

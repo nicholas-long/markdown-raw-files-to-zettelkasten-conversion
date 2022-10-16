@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233712](/zet/20221016233712/README.md) commits for day of 2022-09-08
 - [20221003150935](/zet/20221003150935/README.md) fail2ban writable conf RCE
 - [20221003150937](/zet/20221003150937/README.md) fail2ban
 - [20221003150936](/zet/20221003150936/README.md) fail2ban default config location

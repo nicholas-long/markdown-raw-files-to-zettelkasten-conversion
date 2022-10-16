@@ -45,19 +45,15 @@ kb/hacking/to-try-lists/NFS.md
 
 # Related
 
-- 20221014185631
-
-- 20221014185932
-
-- 20221014185750
-
-- 20221014185459
-
-- 20221014190152
-
-- 20221014190109
-
-- 20221016233611
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233615](/zet/20221016233615/README.md) commits for day of 2022-07-27
+- [20221014185631](/zet/20221014185631/README.md) kb file named kb/hacking/to-try-lists/NFS.md
+- [20221014185932](/zet/20221014185932/README.md) kb file named kb/hacking/commands/nfs.md
+- [20221014185750](/zet/20221014185750/README.md) kb file named kb/hacking/methodology/osint-overview.md
+- [20221014185459](/zet/20221014185459/README.md) kb file named kb/networking/port-forwarding.md
+- [20221014190152](/zet/20221014190152/README.md) kb file named kb/linux/job-control.md
+- [20221014190109](/zet/20221014190109/README.md) kb file named kb/hacking/analysis/extract-commands.md
+- [20221016233611](/zet/20221016233611/README.md) commits for day of 2022-07-25
 
 Tags:
 

@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150615](/zet/20221003150615/README.md) PureFTP Execute Script (on Victim)
 - [20221003150617](/zet/20221003150617/README.md) PureFTP Restart Service

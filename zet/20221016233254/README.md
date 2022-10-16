@@ -56,27 +56,17 @@ kb/kafka/ksql-initialize-example.md
 
 # Related
 
-- 20221014185524
-
-- 20221014185524
-
-- 20221014185519
-
-- 20221014185524
-
-- 20221014185522
-
-- 20221014185518
-
-- 20221014185444
-
-- 20221014185446
-
-- 20221014185501
-
-- 20221014185512
-
-- 20221014190230
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233256](/zet/20221016233256/README.md) commits for day of 2022-01-27
+- [20221014185524](/zet/20221014185524/README.md) kb file named kb/kafka/ksql-initialize-example.md
+- [20221014185519](/zet/20221014185519/README.md) kb file named kb/kafka/quick-and-dirty-kafkacat.md
+- [20221014185522](/zet/20221014185522/README.md) kb file named kb/kafka/kafkacat.md
+- [20221014185518](/zet/20221014185518/README.md) kb file named kb/kafka/initialize-topics.md
+- [20221014185444](/zet/20221014185444/README.md) kb file named kb/docker/docker-compose-shortcuts.md
+- [20221014185446](/zet/20221014185446/README.md) kb file named kb/docker/docker-hd-space.md
+- [20221014185501](/zet/20221014185501/README.md) kb file named kb/vim/run-as-script.md
+- [20221014185512](/zet/20221014185512/README.md) kb file named kb/ascii/ascii-box-art.md
+- [20221014190230](/zet/20221014190230/README.md) kb file named kb/README.md
 
 Tags:
 

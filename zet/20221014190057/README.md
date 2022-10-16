@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233518](/zet/20221016233518/README.md) commits for day of 2022-06-03
 - [20221003150284](/zet/20221003150284/README.md) default webroots BSD systems FreeBSD
 - [20221003150288](/zet/20221003150288/README.md) default webroots wamp
 - [20221003150283](/zet/20221003150283/README.md) default webroots debian system

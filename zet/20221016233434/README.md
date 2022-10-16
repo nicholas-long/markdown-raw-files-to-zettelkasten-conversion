@@ -54,25 +54,16 @@ kb/hacking/powershell/powershell-enumeration-commands.md
 
 # Related
 
-- 20221014190037
-
-- 20221014185914
-
-- 20221014185825
-
-- 20221014185929
-
-- 20221014185905
-
-- 20221014185929
-
-- 20221014190221
-
-- 20221014185905
-
-- 20221014190232
-
-- 20221016233432
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221016233436](/zet/20221016233436/README.md) commits for day of 2022-05-03
+- [20221014190037](/zet/20221014190037/README.md) kb file named kb/hacking/powershell/powershell-enumeration-commands.md
+- [20221014185914](/zet/20221014185914/README.md) kb file named kb/hacking/commands/openssl-view-information-about-cert.md
+- [20221014185825](/zet/20221014185825/README.md) kb file named kb/hacking/commands/john-the-ripper-crack-with-wordlist.md
+- [20221014185929](/zet/20221014185929/README.md) kb file named kb/hacking/commands/crackmapexec-commands.md
+- [20221014185905](/zet/20221014185905/README.md) kb file named kb/hacking/commands/windows-active-directory-kerberos-commands.md
+- [20221014190221](/zet/20221014190221/README.md) kb file named kb/data-engineering-pipelines/jq-command-reference.md
+- [20221014190232](/zet/20221014190232/README.md) kb file named kb/scripts.md
+- [20221016233432](/zet/20221016233432/README.md) commits for day of 2022-05-01
 
 Tags:
 
