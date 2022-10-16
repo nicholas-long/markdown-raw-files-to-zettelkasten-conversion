@@ -58,7 +58,23 @@ cp kb_files_ids zet/20221006054727/
 
 zet/20221006054727/kb_files_ids
 
+mkdir -p zet/20221006054727/logs
+mv zet/20221006054727/days/*.log zet/20221006054727/logs
+
 ```
+
+- steps
+- read kb file IDs to make associative array - arg 1 = zet/20221006054727/kb_files_ids
+- for each file in zet/20221006054727/days
+- find files linked on the day by reading
+  - zet/20221006054727/days/2022-09-27
+  ```
+  1664303472 9e5cd9faf724a986a5970cb3f205124b6a017cdb ./auto-bash.md
+  1664303835 392b434289bc08de9fdde5ccc97f74106075c3c0 ./hacking/commands/sqlmap-commands.md
+  1664306276 1ebf86977dcdea05480ae79da2758f0febe7bd04 ./hacking/misc/assorted-information.md
+  1664306276 1ebf86977dcdea05480ae79da2758f0febe7bd04 ./linux/capabilities.md
+  1664311878 c68d027e137e97574b9e6a00ba691c997ca63211 ./hacking/commands/git.md
+  ```
 
 ` zet/20221006054727/README.md `
 
