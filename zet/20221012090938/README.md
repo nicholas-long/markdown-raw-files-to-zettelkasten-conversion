@@ -9,19 +9,21 @@
     - windows 11 might be okay for it but 10 wasn't great
   - touchscreen works in alacritty and some other terminal emulators
     - not for scrolling, for highlighting or selecting / clicking
+
+- setup steps and fixing issues
+  - by default ubuntu does not remember that i want the screen rotated to normal computer mode
+    - [fix](/zet/20221015172248/README.md) by creating a file for a hardware sensor
+
 - problems
+  - standby and sleeping issues
+    - [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
+    - can sleep with lid closed for hours and pop open instantly into vim
+    - until it decides to suspend - i think?
+    - after starting from suspend, screen is black and unresponsive
   - only one usb
   - battery life
     - terrible for web browsing
     - hours and hours in just terminal doing light editing work
-  - ubuntu does not remember that i want the screen rotated to normal computer mode
-    - had that problem with kali too. fixed in x display settings by diagnosing xorg log?
-    - i think xorg and x11 are different?
-    - [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
-  - standby and sleeping issues
-    - can sleep with lid closed for hours and pop open instantly into vim
-    - until it decides to suspend - i think?
-    - after starting from suspend, screen is black and unresponsive
   - keyboard kinda cramped
     - vim is actually the only way it's practical to type or edit anything
   - touchpad C mouse lol - terrible
