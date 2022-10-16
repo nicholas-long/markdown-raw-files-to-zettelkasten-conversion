@@ -382,6 +382,7 @@ NR > 1 && /^[0-9]+$/ {
 
 # Related
 
+- [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221014191506](/zet/20221014191506/README.md) associate kb cards with converted cards
 - [20221003151443](/zet/20221003151443/README.md) kb
