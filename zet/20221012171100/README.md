@@ -11,6 +11,8 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
+- [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
 - [20221016233742](/zet/20221016233742/README.md) commits for day of 2022-10-01
 - [20221016233740](/zet/20221016233740/README.md) commits for day of 2022-09-29
 - [20221016233739](/zet/20221016233739/README.md) commits for day of 2022-09-28

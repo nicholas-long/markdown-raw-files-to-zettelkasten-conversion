@@ -143,13 +143,9 @@ chmod +x zet/20221006054727/historyscript
 # Related
 
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
-
 - [20221016233254](/zet/20221016233254/README.md) commits for day of 2022-01-26
-
 - [20221009095853](/zet/20221009095853/README.md) finished
-
 - [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
-
 - [20221014183030](/zet/20221014183030/README.md) create cards for kb files
 - [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content
 - [20221012144502](/zet/20221012144502/README.md) track modification dates

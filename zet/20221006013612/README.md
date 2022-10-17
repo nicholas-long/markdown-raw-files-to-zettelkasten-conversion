@@ -12,6 +12,8 @@
 
 # Related
 
+- [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
+- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221003151443](/zet/20221003151443/README.md) kb
 - [20221014191506](/zet/20221014191506/README.md) associate kb cards with converted cards
 - [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents

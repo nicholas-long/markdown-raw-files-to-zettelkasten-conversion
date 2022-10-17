@@ -56,6 +56,9 @@ kb/kafka/ksql-initialize-example.md
 
 # Related
 
+- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
+- [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
+- [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233256](/zet/20221016233256/README.md) commits for day of 2022-01-27
 - [20221014185524](/zet/20221014185524/README.md) kb file named kb/kafka/ksql-initialize-example.md
