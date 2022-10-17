@@ -1,6 +1,6 @@
 # one mix netbook standby issues in linux
 
-- concept of `one mix netbook standby issues in linux`
+- testing setting "screen blank" to Never instead of 10 minutes
 
 ```
 ```
