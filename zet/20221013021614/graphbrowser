@@ -34,6 +34,7 @@ while [ 1 == "$going" ]; do
     print "edit"
     print "/deep"
     print "back"
+    print "xfer"
     print "enrich"
     if (ENVIRON["TMUX"] ~ /tmux/) {
       print "tab"
@@ -139,6 +140,19 @@ while [ 1 == "$going" ]; do
       git status # i guess
       sleep 2
     fi
+  elif [ "$act" == "xfer" ]; then
+    selection=$(mktemp)
+    awk '
+      /^ *- \[.*\]\(\/zet\/[0-9]+\/README.md\)/ {
+        print $0
+        fflush()
+      }
+    ' "$doc" | fzf > "$selection"
+    xferid=$(zet/$IMPL/parseids $selection | head -n 1)
+    if [ ! -z "$xferid" ]; then
+      $EDITOR -p "$doc" "zet/$xferid/README.md"
+    fi
+    rm "$selection"
   elif [ "$act" == "spawnedit" ]; then
     id=$(echo "$doc" | awk -F / '{print $(NF-1)}')
     read -p "enter title> " title
