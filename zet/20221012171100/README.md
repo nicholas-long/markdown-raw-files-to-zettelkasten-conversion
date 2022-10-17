@@ -181,7 +181,6 @@ zet/20221012171100/README.md
 - [20221016233256](/zet/20221016233256/README.md) commits for day of 2022-01-27
 - [20221016233254](/zet/20221016233254/README.md) commits for day of 2022-01-26
 - [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content
-- [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:
