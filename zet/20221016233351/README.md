@@ -23,7 +23,6 @@ kb/hacking/commands/hydra-http-auth.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233352](/zet/20221016233352/README.md) commits for day of 2022-03-24
 - [20221014185833](/zet/20221014185833/README.md) kb file named kb/hacking/commands/hydra-http-auth.md
 - [20221014185930](/zet/20221014185930/README.md) kb file named kb/hacking/commands/hydra-http-post-form.md

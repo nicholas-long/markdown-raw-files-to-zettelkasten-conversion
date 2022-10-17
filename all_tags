@@ -129,6 +129,7 @@
 #jwt
 #kafka
 #kafkacat
+#kali
 #keytool
 #ksql
 #kubernetes
@@ -198,11 +199,13 @@
 #routing
 #run
 #rust
+#scam
 #screenshot
 #script
 #scripting
 #sed
 #service
+#setup
 #shell
 #shellcode
 #shellshock

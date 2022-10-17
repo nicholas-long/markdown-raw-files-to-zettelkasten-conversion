@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150080](/zet/20221003150080/README.md) ctrl H does not work as a hotkey in qterminal by default 
 - [20221016233308](/zet/20221016233308/README.md) commits for day of 2022-02-14
 - [20221016233427](/zet/20221016233427/README.md) commits for day of 2022-04-26
 - [20221003151443](/zet/20221003151443/README.md) kb

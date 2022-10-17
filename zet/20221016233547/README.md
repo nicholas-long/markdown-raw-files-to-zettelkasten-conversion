@@ -23,7 +23,6 @@ kb/hacking/commands/enumeration-util.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233549](/zet/20221016233549/README.md) commits for day of 2022-07-07
 - [20221014185952](/zet/20221014185952/README.md) kb file named kb/hacking/commands/enumeration-util.md
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md

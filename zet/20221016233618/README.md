@@ -103,7 +103,6 @@ kb/networking/osi-model.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233620](/zet/20221016233620/README.md) commits for day of 2022-07-30
 - [20221014185456](/zet/20221014185456/README.md) kb file named kb/networking/osi-model.md
 - [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md

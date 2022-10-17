@@ -28,7 +28,6 @@ kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233605](/zet/20221016233605/README.md) commits for day of 2022-07-18
 - [20221014185655](/zet/20221014185655/README.md) kb file named kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 - [20221014190039](/zet/20221014190039/README.md) kb file named kb/hacking/powershell/powershell-tricks.md

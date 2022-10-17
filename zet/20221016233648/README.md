@@ -82,7 +82,6 @@ kb/hacking/to-try-lists/stuck.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233650](/zet/20221016233650/README.md) commits for day of 2022-08-19
 - [20221014185623](/zet/20221014185623/README.md) kb file named kb/hacking/to-try-lists/stuck.md
 - [20221014185603](/zet/20221014185603/README.md) kb file named kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md

@@ -5,6 +5,7 @@ prefix + `{`
 
 # Related
 
+- [20221014190218](/zet/20221014190218/README.md) kb file named kb/tmux/swap-panes.md
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - [20221009162948](/zet/20221009162948/README.md) useful vim hotkeys for zettelkasten
 - [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks

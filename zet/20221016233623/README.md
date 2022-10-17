@@ -59,7 +59,6 @@ kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233625](/zet/20221016233625/README.md) commits for day of 2022-08-03
 - [20221014185603](/zet/20221014185603/README.md) kb file named kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md

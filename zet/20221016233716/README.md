@@ -51,7 +51,6 @@ kb/hacking/to-try-lists/privesc/linux.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233718](/zet/20221016233718/README.md) commits for day of 2022-09-14
 - [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
 - [20221014190147](/zet/20221014190147/README.md) kb file named kb/linux/less.md

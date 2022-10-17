@@ -19,8 +19,8 @@
 
 # Related
 
+- [20221016233301](/zet/20221016233301/README.md) commits for day of 2022-02-08
 - [20221017080207](/zet/20221017080207/README.md) concept of a scam
-
 - [20221003150218](/zet/20221003150218/README.md) Connecting to confluent
 - [20221012154059](/zet/20221012154059/README.md) scala
 - [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI

@@ -61,7 +61,6 @@ kb/hacking/to-try-lists/privesc/windows.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233644](/zet/20221016233644/README.md) commits for day of 2022-08-16
 - [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md

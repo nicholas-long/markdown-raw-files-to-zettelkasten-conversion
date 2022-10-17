@@ -60,7 +60,6 @@ kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233518](/zet/20221016233518/README.md) commits for day of 2022-06-03
 - [20221014185706](/zet/20221014185706/README.md) kb file named kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md
 - [20221014185958](/zet/20221014185958/README.md) kb file named kb/hacking/php/type-juggling.md

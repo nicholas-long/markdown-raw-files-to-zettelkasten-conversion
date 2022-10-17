@@ -44,7 +44,6 @@ kb/hacking/php/PHP-quick-command-reference.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233415](/zet/20221016233415/README.md) commits for day of 2022-04-14
 - [20221014185953](/zet/20221014185953/README.md) kb file named kb/hacking/php/PHP-quick-command-reference.md
 - [20221014185914](/zet/20221014185914/README.md) kb file named kb/hacking/commands/openssl-view-information-about-cert.md

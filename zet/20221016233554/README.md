@@ -52,7 +52,6 @@ kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233556](/zet/20221016233556/README.md) commits for day of 2022-07-12
 - [20221014185652](/zet/20221014185652/README.md) kb file named kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md
 - [20221014185905](/zet/20221014185905/README.md) kb file named kb/hacking/commands/windows-active-directory-kerberos-commands.md

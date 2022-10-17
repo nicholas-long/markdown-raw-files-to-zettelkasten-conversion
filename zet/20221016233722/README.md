@@ -16,7 +16,6 @@ kb/hacking/commands/database-enum-commands.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233723](/zet/20221016233723/README.md) commits for day of 2022-09-17
 - [20221014185843](/zet/20221014185843/README.md) kb file named kb/hacking/commands/database-enum-commands.md
 - [20221016233720](/zet/20221016233720/README.md) commits for day of 2022-09-15

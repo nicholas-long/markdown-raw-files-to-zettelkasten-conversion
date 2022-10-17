@@ -42,7 +42,6 @@ kb/hacking/pwn/python-tricks.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233725](/zet/20221016233725/README.md) commits for day of 2022-09-19
 - [20221014190021](/zet/20221014190021/README.md) kb file named kb/hacking/pwn/python-tricks.md
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md

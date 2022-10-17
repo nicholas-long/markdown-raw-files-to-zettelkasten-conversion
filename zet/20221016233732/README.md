@@ -16,7 +16,6 @@ kb/bash-scripting/text-database-operations.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233734](/zet/20221016233734/README.md) commits for day of 2022-09-25
 - [20221014190244](/zet/20221014190244/README.md) kb file named kb/bash-scripting/text-database-operations.md
 - [20221016233730](/zet/20221016233730/README.md) commits for day of 2022-09-22

@@ -17,7 +17,6 @@ kb/tmux/get-ctrl-h-to-work.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233309](/zet/20221016233309/README.md) commits for day of 2022-02-16
 - [20221014190215](/zet/20221014190215/README.md) kb file named kb/tmux/get-ctrl-h-to-work.md
 - [20221016233306](/zet/20221016233306/README.md) commits for day of 2022-02-11

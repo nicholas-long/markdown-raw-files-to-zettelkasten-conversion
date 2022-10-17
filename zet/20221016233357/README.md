@@ -30,7 +30,6 @@ kb/hacking/commands/packet-capture.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233359](/zet/20221016233359/README.md) commits for day of 2022-04-01
 - [20221014185917](/zet/20221014185917/README.md) kb file named kb/hacking/commands/packet-capture.md
 - [20221014185956](/zet/20221014185956/README.md) kb file named kb/hacking/php/PHP-credential-harvesting-write-file.md

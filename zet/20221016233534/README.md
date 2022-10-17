@@ -23,7 +23,6 @@ kb/hacking/commands/feroxbuster-command.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233535](/zet/20221016233535/README.md) commits for day of 2022-06-24
 - [20221014185909](/zet/20221014185909/README.md) kb file named kb/hacking/commands/feroxbuster-command.md
 - [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md

@@ -25,7 +25,6 @@ kb/hacking/analysis/extract-commands.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233552](/zet/20221016233552/README.md) commits for day of 2022-07-10
 - [20221014190109](/zet/20221014190109/README.md) kb file named kb/hacking/analysis/extract-commands.md
 - [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md

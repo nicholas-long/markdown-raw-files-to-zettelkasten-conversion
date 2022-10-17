@@ -55,7 +55,6 @@ kb/hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233258](/zet/20221016233258/README.md) commits for day of 2022-01-29
 - [20221014185811](/zet/20221014185811/README.md) kb file named kb/hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md
 - [20221014185447](/zet/20221014185447/README.md) kb file named kb/docker/lookup-missing-command-packages.md

@@ -25,7 +25,6 @@ kb/hacking/to-try-lists/active-directory-domain.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233458](/zet/20221016233458/README.md) commits for day of 2022-05-21
 - [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md
 - [20221014185612](/zet/20221014185612/README.md) kb file named kb/hacking/to-try-lists/SMB.md

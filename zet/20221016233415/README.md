@@ -51,7 +51,6 @@ kb/linux/zsh-see-default-bindings.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233417](/zet/20221016233417/README.md) commits for day of 2022-04-15
 - [20221014190140](/zet/20221014190140/README.md) kb file named kb/linux/zsh-see-default-bindings.md
 - [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md

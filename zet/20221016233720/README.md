@@ -60,7 +60,6 @@ kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233722](/zet/20221016233722/README.md) commits for day of 2022-09-16
 - [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
 - [20221014185933](/zet/20221014185933/README.md) kb file named kb/hacking/commands/binary-data-analysis.md

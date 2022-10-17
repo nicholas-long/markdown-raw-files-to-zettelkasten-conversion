@@ -23,7 +23,6 @@ kb/hacking/lan/change-mac-address.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233323](/zet/20221016233323/README.md) commits for day of 2022-02-25
 - [20221014190115](/zet/20221014190115/README.md) kb file named kb/hacking/lan/change-mac-address.md
 - [20221014190137](/zet/20221014190137/README.md) kb file named kb/linux/edit-bash-prompt-vi-hotkeys.md

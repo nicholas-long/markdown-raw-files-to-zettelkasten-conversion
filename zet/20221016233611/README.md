@@ -16,7 +16,6 @@ kb/data-engineering-pipelines/yaml-syntax.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233613](/zet/20221016233613/README.md) commits for day of 2022-07-26
 - [20221014190226](/zet/20221014190226/README.md) kb file named kb/data-engineering-pipelines/yaml-syntax.md
 - [20221016233609](/zet/20221016233609/README.md) commits for day of 2022-07-21

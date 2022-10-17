@@ -74,7 +74,6 @@ kb/linux/routing.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233441](/zet/20221016233441/README.md) commits for day of 2022-05-06
 - [20221014190210](/zet/20221014190210/README.md) kb file named kb/linux/routing.md
 - [20221014190132](/zet/20221014190132/README.md) kb file named kb/linux/iptables.md

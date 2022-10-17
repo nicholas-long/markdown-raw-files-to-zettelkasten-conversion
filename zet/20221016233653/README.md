@@ -37,7 +37,6 @@ kb/hacking/commands/crowbar.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233655](/zet/20221016233655/README.md) commits for day of 2022-08-24
 - [20221014185900](/zet/20221014185900/README.md) kb file named kb/hacking/commands/crowbar.md
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md

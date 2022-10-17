@@ -10,7 +10,6 @@ Fix:
 # Related
 
 - [20221014190215](/zet/20221014190215/README.md) kb file named kb/tmux/get-ctrl-h-to-work.md
-
 - [20221011145037](/zet/20221011145037/README.md) kali linux
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221012070318](/zet/20221012070318/README.md) linux terminal

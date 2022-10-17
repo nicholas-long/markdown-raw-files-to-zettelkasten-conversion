@@ -16,7 +16,6 @@ kb/linux/users-groups.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233534](/zet/20221016233534/README.md) commits for day of 2022-06-23
 - [20221014190143](/zet/20221014190143/README.md) kb file named kb/linux/users-groups.md
 - [20221016233530](/zet/20221016233530/README.md) commits for day of 2022-06-20

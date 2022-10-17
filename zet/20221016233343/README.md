@@ -16,7 +16,6 @@ kb/hacking/commands/john-the-ripper-crack-with-wordlist.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233344](/zet/20221016233344/README.md) commits for day of 2022-03-19
 - [20221014185825](/zet/20221014185825/README.md) kb file named kb/hacking/commands/john-the-ripper-crack-with-wordlist.md
 - [20221016233341](/zet/20221016233341/README.md) commits for day of 2022-03-16

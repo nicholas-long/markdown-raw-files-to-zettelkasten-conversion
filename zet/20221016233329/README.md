@@ -16,7 +16,6 @@ kb/bash-scripting/watch-failed-ssh-logins-live.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233331](/zet/20221016233331/README.md) commits for day of 2022-03-07
 - [20221014190245](/zet/20221014190245/README.md) kb file named kb/bash-scripting/watch-failed-ssh-logins-live.md
 - [20221016233328](/zet/20221016233328/README.md) commits for day of 2022-02-28

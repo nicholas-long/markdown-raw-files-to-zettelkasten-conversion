@@ -66,7 +66,6 @@ kb/hacking/analysis/identify-service-data.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221014190106](/zet/20221014190106/README.md) kb file named kb/hacking/analysis/identify-service-data.md
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md

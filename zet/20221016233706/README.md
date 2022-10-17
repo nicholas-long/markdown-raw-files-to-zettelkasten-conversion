@@ -24,7 +24,6 @@ kb/auto-bash.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233708](/zet/20221016233708/README.md) commits for day of 2022-09-06
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221014190045](/zet/20221014190045/README.md) kb file named kb/hacking/misc/tools-and-apt-packages.md

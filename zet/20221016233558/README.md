@@ -90,7 +90,6 @@ kb/hacking/misc/assorted-information.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233559](/zet/20221016233559/README.md) commits for day of 2022-07-14
 - [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
 - [20221014185622](/zet/20221014185622/README.md) kb file named kb/hacking/to-try-lists/got-source-code.md

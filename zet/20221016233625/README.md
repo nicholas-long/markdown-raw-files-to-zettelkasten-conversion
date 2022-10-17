@@ -46,7 +46,6 @@ kb/hacking/to-try-lists/privesc/linux.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233627](/zet/20221016233627/README.md) commits for day of 2022-08-04
 - [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
 - [20221014185550](/zet/20221014185550/README.md) kb file named kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md

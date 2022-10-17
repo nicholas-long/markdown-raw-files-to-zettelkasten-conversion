@@ -61,7 +61,6 @@ kb/hacking/to-try-lists/HTTP.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233646](/zet/20221016233646/README.md) commits for day of 2022-08-17
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
 - [20221014185924](/zet/20221014185924/README.md) kb file named kb/hacking/commands/web-enumeration-commands.md

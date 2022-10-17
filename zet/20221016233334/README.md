@@ -40,7 +40,6 @@ kb/linux/deb-dependencies.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233336](/zet/20221016233336/README.md) commits for day of 2022-03-12
 - [20221014190134](/zet/20221014190134/README.md) kb file named kb/linux/deb-dependencies.md
 - [20221014185810](/zet/20221014185810/README.md) kb file named kb/hacking/priv-esc/netstat-command.md

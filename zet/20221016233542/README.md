@@ -68,7 +68,6 @@ kb/linux/cyberpunk-retro-machine-serial-terminals.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233544](/zet/20221016233544/README.md) commits for day of 2022-06-29
 - [20221014190158](/zet/20221014190158/README.md) kb file named kb/linux/cyberpunk-retro-machine-serial-terminals.md
 - [20221014185713](/zet/20221014185713/README.md) kb file named kb/hacking/windows/dump-process-memory.md

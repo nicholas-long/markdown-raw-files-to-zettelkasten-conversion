@@ -151,7 +151,6 @@ kb/bash-scripting/xml-parsing.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233729](/zet/20221016233729/README.md) commits for day of 2022-09-21
 - [20221014190248](/zet/20221014190248/README.md) kb file named kb/bash-scripting/xml-parsing.md
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md

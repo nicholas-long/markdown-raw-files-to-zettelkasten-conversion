@@ -17,7 +17,6 @@ kb/bash-scripting/check-empty-var.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233306](/zet/20221016233306/README.md) commits for day of 2022-02-11
 - [20221014190239](/zet/20221014190239/README.md) kb file named kb/bash-scripting/check-empty-var.md
 - [20221016233303](/zet/20221016233303/README.md) commits for day of 2022-02-09

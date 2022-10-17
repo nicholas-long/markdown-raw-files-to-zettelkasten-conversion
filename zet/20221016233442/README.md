@@ -16,7 +16,6 @@ kb/hacking/priv-esc/bsd-enumeration.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233444](/zet/20221016233444/README.md) commits for day of 2022-05-10
 - [20221014185805](/zet/20221014185805/README.md) kb file named kb/hacking/priv-esc/bsd-enumeration.md
 - [20221016233441](/zet/20221016233441/README.md) commits for day of 2022-05-06

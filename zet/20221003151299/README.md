@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty
+- [20221003151330](/zet/20221003151330/README.md) bash scripting check if a variable is empty concise
 - [20221003151325](/zet/20221003151325/README.md) Capture screenshot of url "utility to capture WebKit's rendering of a web page"
 - [20221003150174](/zet/20221003150174/README.md) less
 - [20221014190259](/zet/20221014190259/README.md) kb file named kb/bash-scripting/tricks.md

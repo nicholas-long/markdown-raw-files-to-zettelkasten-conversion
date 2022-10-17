@@ -48,7 +48,6 @@ kb/hacking/to-try-lists/nmap-UDP-scan-individual-port-scans.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233500](/zet/20221016233500/README.md) commits for day of 2022-05-23
 - [20221014185640](/zet/20221014185640/README.md) kb file named kb/hacking/to-try-lists/nmap-UDP-scan-individual-port-scans.md
 - [20221014185920](/zet/20221014185920/README.md) kb file named kb/hacking/commands/snmp-enumeration-commands.md

@@ -16,7 +16,6 @@ kb/hacking/commands/bloodhound.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233446](/zet/20221016233446/README.md) commits for day of 2022-05-11
 - [20221014185927](/zet/20221014185927/README.md) kb file named kb/hacking/commands/bloodhound.md
 - [20221016233442](/zet/20221016233442/README.md) commits for day of 2022-05-07

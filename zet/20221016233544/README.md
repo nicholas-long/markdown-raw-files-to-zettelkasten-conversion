@@ -44,7 +44,6 @@ kb/linux/cyberpunk-retro-machine-serial-terminals.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233545](/zet/20221016233545/README.md) commits for day of 2022-07-01
 - [20221014190158](/zet/20221014190158/README.md) kb file named kb/linux/cyberpunk-retro-machine-serial-terminals.md
 - [20221016233542](/zet/20221016233542/README.md) commits for day of 2022-06-28

@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux

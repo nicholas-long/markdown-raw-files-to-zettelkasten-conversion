@@ -23,7 +23,6 @@ kb/auto-bash.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221014190233](/zet/20221014190233/README.md) kb file named kb/hardware/surface-tablet.md
 - [20221016233740](/zet/20221016233740/README.md) commits for day of 2022-09-29

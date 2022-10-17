@@ -49,7 +49,6 @@ kb/hacking/misc/buzzwords-and-acronyms.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233527](/zet/20221016233527/README.md) commits for day of 2022-06-18
 - [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md
 - [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md

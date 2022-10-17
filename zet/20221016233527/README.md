@@ -26,7 +26,6 @@ kb/linux/assorted-notes-and-tips.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233529](/zet/20221016233529/README.md) commits for day of 2022-06-19
 - [20221014190206](/zet/20221014190206/README.md) kb file named kb/linux/assorted-notes-and-tips.md
 - [20221014185631](/zet/20221014185631/README.md) kb file named kb/hacking/to-try-lists/NFS.md

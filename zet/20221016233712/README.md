@@ -24,7 +24,6 @@ kb/hacking/to-try-lists/got-source-code.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233713](/zet/20221016233713/README.md) commits for day of 2022-09-09
 - [20221014185622](/zet/20221014185622/README.md) kb file named kb/hacking/to-try-lists/got-source-code.md
 - [20221014185758](/zet/20221014185758/README.md) kb file named kb/hacking/priv-esc/fail2ban.md

@@ -131,7 +131,6 @@ kb/hacking/commands/impacket-commands.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233551](/zet/20221016233551/README.md) commits for day of 2022-07-08
 - [20221014185950](/zet/20221014185950/README.md) kb file named kb/hacking/commands/impacket-commands.md
 - [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md

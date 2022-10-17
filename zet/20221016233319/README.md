@@ -46,7 +46,6 @@ kb/hacking/lan/bettercap-options.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233321](/zet/20221016233321/README.md) commits for day of 2022-02-24
 - [20221014190114](/zet/20221014190114/README.md) kb file named kb/hacking/lan/bettercap-options.md
 - [20221014185811](/zet/20221014185811/README.md) kb file named kb/hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md

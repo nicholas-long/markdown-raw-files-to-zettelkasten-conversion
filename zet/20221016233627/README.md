@@ -23,7 +23,6 @@ kb/hacking/misc/important-repositories-tools.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233628](/zet/20221016233628/README.md) commits for day of 2022-08-05
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - [20221014185620](/zet/20221014185620/README.md) kb file named kb/hacking/to-try-lists/FTP.md

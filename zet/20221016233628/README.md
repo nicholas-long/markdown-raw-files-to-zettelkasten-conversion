@@ -31,7 +31,6 @@ kb/hacking/misc/assorted-information.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233630](/zet/20221016233630/README.md) commits for day of 2022-08-07
 - [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
 - [20221014190207](/zet/20221014190207/README.md) kb file named kb/linux/java-jdk-links.md

@@ -30,7 +30,6 @@ kb/linux/force-upgrade.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233727](/zet/20221016233727/README.md) commits for day of 2022-09-20
 - [20221014190155](/zet/20221014190155/README.md) kb file named kb/linux/force-upgrade.md
 - [20221014185603](/zet/20221014185603/README.md) kb file named kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md

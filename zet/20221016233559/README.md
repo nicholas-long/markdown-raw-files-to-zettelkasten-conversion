@@ -23,7 +23,6 @@ kb/hacking/commands/kubernetes.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233601](/zet/20221016233601/README.md) commits for day of 2022-07-15
 - [20221014185936](/zet/20221014185936/README.md) kb file named kb/hacking/commands/kubernetes.md
 - [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md

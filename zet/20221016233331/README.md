@@ -51,7 +51,6 @@ kb/ascii/coyote0x90.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233333](/zet/20221016233333/README.md) commits for day of 2022-03-10
 - [20221014185510](/zet/20221014185510/README.md) kb file named kb/ascii/coyote0x90.md
 - [20221014190131](/zet/20221014190131/README.md) kb file named kb/linux/tty-notes.md

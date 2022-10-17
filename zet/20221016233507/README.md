@@ -81,7 +81,6 @@ kb/scratch.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233510](/zet/20221016233510/README.md) commits for day of 2022-05-30
 - [20221014185515](/zet/20221014185515/README.md) kb file named kb/scratch.md
 - [20221014185706](/zet/20221014185706/README.md) kb file named kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md

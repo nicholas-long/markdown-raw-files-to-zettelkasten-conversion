@@ -23,7 +23,6 @@ kb/auto-bash.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233705](/zet/20221016233705/README.md) commits for day of 2022-09-02
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221016233702](/zet/20221016233702/README.md) commits for day of 2022-08-31

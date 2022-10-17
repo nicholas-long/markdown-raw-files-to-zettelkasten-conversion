@@ -146,7 +146,6 @@ kb/hacking/commands/responder.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233514](/zet/20221016233514/README.md) commits for day of 2022-06-01
 - [20221014185840](/zet/20221014185840/README.md) kb file named kb/hacking/commands/responder.md
 - [20221014190219](/zet/20221014190219/README.md) kb file named kb/tmux/copy-buffer.md

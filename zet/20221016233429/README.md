@@ -38,7 +38,6 @@ kb/hacking/commands/smbclient-commands.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233431](/zet/20221016233431/README.md) commits for day of 2022-04-29
 - [20221014185947](/zet/20221014185947/README.md) kb file named kb/hacking/commands/smbclient-commands.md
 - [20221014185950](/zet/20221014185950/README.md) kb file named kb/hacking/commands/impacket-commands.md

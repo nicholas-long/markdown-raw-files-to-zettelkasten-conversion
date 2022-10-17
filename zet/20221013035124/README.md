@@ -9,8 +9,8 @@
 
 # Related
 
+- [20221003151274](/zet/20221003151274/README.md) install mandown
 - [20221008042814](/zet/20221008042814/README.md) WIP
-
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully
 - [20221003150422](/zet/20221003150422/README.md) kerberos attack on windows host ticket attacks extraction and harvesting

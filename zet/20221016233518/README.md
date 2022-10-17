@@ -90,7 +90,6 @@ kb/hacking/windows/dll-to-run-commands.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233520](/zet/20221016233520/README.md) commits for day of 2022-06-04
 - [20221014185657](/zet/20221014185657/README.md) kb file named kb/hacking/windows/dll-to-run-commands.md
 - [20221014185718](/zet/20221014185718/README.md) kb file named kb/hacking/windows/windows-information.md

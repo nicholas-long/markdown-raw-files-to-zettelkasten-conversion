@@ -23,7 +23,6 @@ kb/hacking/priv-esc/enumeration-quick-commands.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233339](/zet/20221016233339/README.md) commits for day of 2022-03-15
 - [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
 - [20221016233336](/zet/20221016233336/README.md) commits for day of 2022-03-12

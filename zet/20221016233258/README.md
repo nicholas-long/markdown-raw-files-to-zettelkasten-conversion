@@ -25,7 +25,6 @@ kb/ascii/ascii-box-art.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233300](/zet/20221016233300/README.md) commits for day of 2022-02-07
 - [20221014185512](/zet/20221014185512/README.md) kb file named kb/ascii/ascii-box-art.md
 - [20221014185502](/zet/20221014185502/README.md) kb file named kb/vim/spacevim-set-bindings.md

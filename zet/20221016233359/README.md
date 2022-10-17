@@ -16,7 +16,6 @@ kb/bash-scripting/get-current-unix-date-timestamp.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233401](/zet/20221016233401/README.md) commits for day of 2022-04-03
 - [20221014190247](/zet/20221014190247/README.md) kb file named kb/bash-scripting/get-current-unix-date-timestamp.md
 - [20221016233357](/zet/20221016233357/README.md) commits for day of 2022-03-31

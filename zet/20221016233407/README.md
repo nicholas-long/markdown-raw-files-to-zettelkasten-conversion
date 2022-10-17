@@ -37,7 +37,6 @@ kb/hacking/commands/snmp-enumeration-commands.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233409](/zet/20221016233409/README.md) commits for day of 2022-04-10
 - [20221014185920](/zet/20221014185920/README.md) kb file named kb/hacking/commands/snmp-enumeration-commands.md
 - [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md

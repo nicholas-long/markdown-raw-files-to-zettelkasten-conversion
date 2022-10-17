@@ -23,7 +23,6 @@ kb/linux/os-pseudo-filesystem-data-commands.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233457](/zet/20221016233457/README.md) commits for day of 2022-05-20
 - [20221014190157](/zet/20221014190157/README.md) kb file named kb/linux/os-pseudo-filesystem-data-commands.md
 - [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md

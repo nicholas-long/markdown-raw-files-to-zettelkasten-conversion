@@ -16,7 +16,6 @@ kb/awk-scripting/snippets.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233730](/zet/20221016233730/README.md) commits for day of 2022-09-22
 - [20221014190125](/zet/20221014190125/README.md) kb file named kb/awk-scripting/snippets.md
 - [20221016233727](/zet/20221016233727/README.md) commits for day of 2022-09-20

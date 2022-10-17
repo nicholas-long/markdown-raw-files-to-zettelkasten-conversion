@@ -16,7 +16,6 @@ kb/awk-scripting/awk-print-unbuffered.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233437](/zet/20221016233437/README.md) commits for day of 2022-05-04
 - [20221014190122](/zet/20221014190122/README.md) kb file named kb/awk-scripting/awk-print-unbuffered.md
 - [20221016233434](/zet/20221016233434/README.md) commits for day of 2022-05-02

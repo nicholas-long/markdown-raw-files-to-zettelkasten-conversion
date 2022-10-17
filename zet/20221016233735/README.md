@@ -23,7 +23,6 @@ kb/hacking/tricks/malicious-packages.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233737](/zet/20221016233737/README.md) commits for day of 2022-09-27
 - [20221014185536](/zet/20221014185536/README.md) kb file named kb/hacking/tricks/malicious-packages.md
 - [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md

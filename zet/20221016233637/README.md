@@ -110,7 +110,6 @@ kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233639](/zet/20221016233639/README.md) commits for day of 2022-08-12
 - [20221014185550](/zet/20221014185550/README.md) kb file named kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md
 - [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md

@@ -37,7 +37,6 @@ kb/hacking/powershell/load-xml-object-print-password-from-pscredential.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233319](/zet/20221016233319/README.md) commits for day of 2022-02-23
 - [20221014190040](/zet/20221014190040/README.md) kb file named kb/hacking/powershell/load-xml-object-print-password-from-pscredential.md
 - [20221014185644](/zet/20221014185644/README.md) kb file named kb/hacking/passwords/hashcat-generate-wordlist-from-file-stdout.md

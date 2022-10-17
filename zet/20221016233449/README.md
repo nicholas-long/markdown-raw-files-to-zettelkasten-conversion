@@ -38,7 +38,6 @@ kb/hacking/commands/windows-active-directory-kerberos-commands.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233451](/zet/20221016233451/README.md) commits for day of 2022-05-17
 - [20221014185905](/zet/20221014185905/README.md) kb file named kb/hacking/commands/windows-active-directory-kerberos-commands.md
 - [20221014185837](/zet/20221014185837/README.md) kb file named kb/hacking/commands/smb-mount-share.md

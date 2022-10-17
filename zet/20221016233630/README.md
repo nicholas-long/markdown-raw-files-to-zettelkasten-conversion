@@ -45,7 +45,6 @@ kb/hacking/to-try-lists/privesc/linux.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233632](/zet/20221016233632/README.md) commits for day of 2022-08-08
 - [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
 - [20221014185609](/zet/20221014185609/README.md) kb file named kb/hacking/to-try-lists/got-read-or-write-access-to-filesystem.md

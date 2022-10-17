@@ -40,7 +40,6 @@ kb/awk-scripting/bash-awk-quick-commands.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233505](/zet/20221016233505/README.md) commits for day of 2022-05-26
 - [20221014190117](/zet/20221014190117/README.md) kb file named kb/awk-scripting/bash-awk-quick-commands.md
 - [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md

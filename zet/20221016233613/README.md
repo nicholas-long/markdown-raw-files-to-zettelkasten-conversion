@@ -45,7 +45,6 @@ kb/hacking/to-try-lists/NFS.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233615](/zet/20221016233615/README.md) commits for day of 2022-07-27
 - [20221014185631](/zet/20221014185631/README.md) kb file named kb/hacking/to-try-lists/NFS.md
 - [20221014185932](/zet/20221014185932/README.md) kb file named kb/hacking/commands/nfs.md

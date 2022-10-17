@@ -38,7 +38,6 @@ kb/hacking/commands/git.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233739](/zet/20221016233739/README.md) commits for day of 2022-09-28
 - [20221014185854](/zet/20221014185854/README.md) kb file named kb/hacking/commands/git.md
 - [20221014190149](/zet/20221014190149/README.md) kb file named kb/linux/capabilities.md

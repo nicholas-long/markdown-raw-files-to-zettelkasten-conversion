@@ -17,7 +17,6 @@ kb/bash-scripting/get-current-script-dir.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233304](/zet/20221016233304/README.md) commits for day of 2022-02-10
 - [20221014190254](/zet/20221014190254/README.md) kb file named kb/bash-scripting/get-current-script-dir.md
 - [20221016233301](/zet/20221016233301/README.md) commits for day of 2022-02-08

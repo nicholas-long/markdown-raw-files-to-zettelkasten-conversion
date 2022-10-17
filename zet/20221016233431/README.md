@@ -30,7 +30,6 @@ kb/hacking/commands/crackmapexec-commands.md
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233432](/zet/20221016233432/README.md) commits for day of 2022-05-01
 - [20221014185929](/zet/20221014185929/README.md) kb file named kb/hacking/commands/crackmapexec-commands.md
 - [20221014185927](/zet/20221014185927/README.md) kb file named kb/hacking/commands/bloodhound.md
