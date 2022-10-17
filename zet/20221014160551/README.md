@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221017154727](/zet/20221017154727/README.md) xterm
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty

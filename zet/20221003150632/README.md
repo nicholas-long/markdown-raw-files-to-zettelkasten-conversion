@@ -7,6 +7,7 @@ cat dpkg.log | grep 'status installed' | awk /2-26/
 
 # Related
 
+- [20221003150157](/zet/20221003150157/README.md) upgrade when apt is causing problems fix error "the following signatures couldn’t be verified because the public key is not available"
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221003151274](/zet/20221003151274/README.md) install mandown
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands

@@ -9,7 +9,6 @@ xterm*font:     *-fixed-*-*-*-18-*
 # Related
 
 - [20221017154727](/zet/20221017154727/README.md) xterm
-
 - [20221014190128](/zet/20221014190128/README.md) kb file named kb/linux/xterm-font-size.md
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221003150200](/zet/20221003150200/README.md) refresh xterm configs

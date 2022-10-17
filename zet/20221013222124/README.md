@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
 - [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines

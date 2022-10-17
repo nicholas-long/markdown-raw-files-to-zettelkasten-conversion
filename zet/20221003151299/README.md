@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221003151295](/zet/20221003151295/README.md) debugging bash
+- [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
 - [20221003150792](/zet/20221003150792/README.md) generate cewl wordlist from file plaintext with grep
 - [20221017084459](/zet/20221017084459/README.md) xpup xml parsing tool for scripting
 - [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty

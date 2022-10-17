@@ -86,6 +86,7 @@
 
 # Related
 
+- [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
 - [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list

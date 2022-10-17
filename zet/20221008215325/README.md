@@ -9,6 +9,8 @@ the concept of a `password`
 
 # Related
 
+- [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
+- [20221003150463](/zet/20221003150463/README.md) powershell PSCredential password print password from object
 - [20221015022512](/zet/20221015022512/README.md) password reuse to try list
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221013185456](/zet/20221013185456/README.md) shadow file

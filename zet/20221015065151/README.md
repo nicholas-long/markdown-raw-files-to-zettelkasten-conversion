@@ -31,6 +31,7 @@
 
 # Related
 
+- [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
 - [20221015005745](/zet/20221015005745/README.md) python coding
 - [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
 - [20221012070318](/zet/20221012070318/README.md) linux terminal

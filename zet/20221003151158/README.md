@@ -6,6 +6,7 @@ Additional custom rules are added besides those mentioned above, these additiona
 
 # Related
 
+- [20221014185643](/zet/20221014185643/README.md) kb file named kb/hacking/passwords/password_cracking_rules/README.md
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 
 Tags:
