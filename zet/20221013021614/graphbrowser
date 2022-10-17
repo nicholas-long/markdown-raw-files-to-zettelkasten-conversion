@@ -60,7 +60,11 @@ while [ 1 == "$going" ]; do
     print "goto", $0
     fflush()
   }
-  ' "$doc" | fzf --preview="$0 video '$doc' {}" --bind "up:preview-up,down:preview-down" "--preview-window=up,75%" --prompt="$doc :" > "$selection"
+  ' "$doc" | fzf \
+    --preview="$0 video '$doc' {}" \
+    --bind "up:preview-up,down:preview-down" \
+    "--preview-window=up,75%" \
+    --prompt="$doc :" > "$selection"
   sel="$(cat $selection)"
   act=$(cat $selection | awk '{print $1}')
   id=$(echo "$doc" | awk -F / '{ print $(NF-1) }')
