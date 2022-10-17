@@ -124,7 +124,6 @@
 - [20221003151400](/zet/20221003151400/README.md) bash scripting update all the git repos in home directory and prompt with lazygit
 - [20221003150101](/zet/20221003150101/README.md) python scripting requests http GET params
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
-- [20221003150881](/zet/20221003150881/README.md) Create symbolic link ( got write access to files, edit perms as root )
 - [20221003150072](/zet/20221003150072/README.md) Set spacevim record key back to [Q]
 - [20221003150064](/zet/20221003150064/README.md) neovim specific diff
 - [20221006215623](/zet/20221006215623/README.md) scrambled machine video notes

@@ -30,6 +30,8 @@ kb/bash-scripting/substitution-syntax-braces.md
 
 # Related
 
+- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
+
 - [20221016233316](/zet/20221016233316/README.md) commits for day of 2022-02-21
 - [20221014190250](/zet/20221014190250/README.md) kb file named kb/bash-scripting/substitution-syntax-braces.md
 - [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md

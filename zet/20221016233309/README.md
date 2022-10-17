@@ -1,6 +1,8 @@
 # commits for day of 2022-02-16
 
 - concept of `commits for day of 2022-02-16`
+- this "common commands" file was a bad idea
+- i got a lot of the commends from someone else's OSCP prep notes and they have capital letters everywhere. i never orgranized the H1 headings.
 
 ```
 
@@ -30,7 +32,6 @@ kb/hacking/common-commands.md
 
 # Related
 
-- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221016233311](/zet/20221016233311/README.md) commits for day of 2022-02-18
 - [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md
 - [20221016233308](/zet/20221016233308/README.md) commits for day of 2022-02-14
