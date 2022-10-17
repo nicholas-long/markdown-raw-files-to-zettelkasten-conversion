@@ -38,7 +38,6 @@ sensor:modalias:acpi:BOSC0200*:dmi*
 - [20221012101349](/zet/20221012101349/README.md) ubuntu
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
 - [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
-- [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221015173433](/zet/20221015173433/README.md) gnome window manager
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix

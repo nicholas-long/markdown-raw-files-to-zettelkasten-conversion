@@ -10,6 +10,8 @@
 
 # Related
 
+- [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
+
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221011134623](/zet/20221011134623/README.md) note taking template for heckin boxes

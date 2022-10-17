@@ -25,9 +25,7 @@ stuff i am working on.
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221012221003](/zet/20221012221003/README.md) weird related bug documents
 - [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully
-- [20221012145943](/zet/20221012145943/README.md) changes in the weather during my lifetime
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
-- [20221012094712](/zet/20221012094712/README.md) strange issues with sort and locale and tags
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
@@ -49,7 +47,6 @@ stuff i am working on.
 - [20221011094643](/zet/20221011094643/README.md) find out from rwxrob why osidian markdown links do not work on github
 - [20221011093146](/zet/20221011093146/README.md) watch rwxrob for workflow and bash tips - notes
 - [20221011092204](/zet/20221011092204/README.md) catch up on alh4zr3d streams
-- [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf?
 - [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221010071719](/zet/20221010071719/README.md) nodes to add
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
