@@ -15,6 +15,7 @@ to do next:
 
 # Related
 
+- [20221017033638](/zet/20221017033638/README.md) Funday Sunday: Taking down the INSANE-ranked TryHackMe's Takedown alh4zr3d
 - [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
 - [20221006215623](/zet/20221006215623/README.md) scrambled machine video notes
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource

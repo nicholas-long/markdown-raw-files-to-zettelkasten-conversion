@@ -11,6 +11,8 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221017033801](/zet/20221017033801/README.md) tryhackme box Takedown
+- [20221017033638](/zet/20221017033638/README.md) Funday Sunday: Taking down the INSANE-ranked TryHackMe's Takedown alh4zr3d
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
 - [20221016233742](/zet/20221016233742/README.md) commits for day of 2022-10-01

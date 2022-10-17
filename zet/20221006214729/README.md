@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221017033638](/zet/20221017033638/README.md) Funday Sunday: Taking down the INSANE-ranked TryHackMe's Takedown alh4zr3d
 - [20221014155450](/zet/20221014155450/README.md) nim language
 - [20221003150254](/zet/20221003150254/README.md) beacon object file BOF
 - [20221013185120](/zet/20221013185120/README.md) crypto and blockchain stuff
