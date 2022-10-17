@@ -21,7 +21,6 @@
 # Related
 
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis
-
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
 - [20221003150260](/zet/20221003150260/README.md) sperl and suidperl

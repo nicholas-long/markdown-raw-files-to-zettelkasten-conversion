@@ -28,7 +28,6 @@
 # Related
 
 - [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
-
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221011181920](/zet/20221011181920/README.md) working notes - foothold
 - [20221011181531](/zet/20221011181531/README.md) steps

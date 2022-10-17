@@ -92,7 +92,6 @@
 # Related
 
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis
-
 - [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221003150266](/zet/20221003150266/README.md) systemd-private

@@ -14,7 +14,6 @@ grep -R '](' | grep -v README.md
 # Related
 
 - [20221009095853](/zet/20221009095853/README.md) finished
-
 - https://github.com/nicholas-long/markdown-raw-files-to-zettelkasten-conversion/issues/8
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221003151192](/zet/20221003151192/README.md) HTTP TRY

@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
 - [20221017033801](/zet/20221017033801/README.md) tryhackme box Takedown
 - [20221017033638](/zet/20221017033638/README.md) Funday Sunday: Taking down the INSANE-ranked TryHackMe's Takedown alh4zr3d
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
@@ -184,7 +185,6 @@ zet/20221012171100/README.md
 - [20221016233258](/zet/20221016233258/README.md) commits for day of 2022-01-29
 - [20221016233256](/zet/20221016233256/README.md) commits for day of 2022-01-27
 - [20221016233254](/zet/20221016233254/README.md) commits for day of 2022-01-26
-- [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:
