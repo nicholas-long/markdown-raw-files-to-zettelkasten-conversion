@@ -1,6 +1,7 @@
 # commits for day of 2022-02-07
 
 - concept of `commits for day of 2022-02-07`
+- it looks like i did not do a whole lot this week, but I believe i was working on setting up https://github.com/nicholas-long/pen-test-environ because the issue with "fix-box-art.md" is related to getting my hacking environment running in tmux in a docker
 
 ```
 
