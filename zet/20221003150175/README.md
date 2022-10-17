@@ -70,6 +70,10 @@ text
 
 # Related
 
+- [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks
+
+- [20221003150067](/zet/20221003150067/README.md) vim
+
 - [20221014190146](/zet/20221014190146/README.md) kb file named kb/linux/ex-notes.md
 - [20221012135747](/zet/20221012135747/README.md) unix text editors
 - [20221003150176](/zet/20221003150176/README.md) ex commands

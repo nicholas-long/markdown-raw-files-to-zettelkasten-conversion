@@ -188,11 +188,12 @@ Options:
 
 # Related
 
+- [20221017070405](/zet/20221017070405/README.md) docker compose
+
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - [20221003150651](/zet/20221003150651/README.md) kubernetes
-- [20221003151272](/zet/20221003151272/README.md) docker compose aliases for convenience
 - [20221003150207](/zet/20221003150207/README.md) example docker to initialize ksql commands
 - [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
 - [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker

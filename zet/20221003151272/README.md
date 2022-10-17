@@ -10,7 +10,10 @@ alias dcb="docker compose build"
 
 # Related
 
-- [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
+- [20221017070405](/zet/20221017070405/README.md) docker compose
+
+- [20221014185444](/zet/20221014185444/README.md) kb file named kb/docker/docker-compose-shortcuts.md
+
 - [20221009021452](/zet/20221009021452/README.md) container
 - [20221009015743](/zet/20221009015743/README.md) dockerfile
 

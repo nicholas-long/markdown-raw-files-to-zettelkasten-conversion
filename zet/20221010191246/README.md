@@ -9,7 +9,6 @@ list of problems
 
 # Related
 
-- [20221003150073](/zet/20221003150073/README.md) Run vim as a script on datafile, write to file `output`
 
 Tags:
 
