@@ -2,7 +2,7 @@
 - `sudo -l`
   - specific permissions to binaries / scripts
     - writable
-    - [exploiting scripts on linux](linux.md#exploiting-scripts-on-linux)
+    - [20221003151209](/zet/20221003151209/README.md) exploiting scripts on linux
   - vulnerable versions of allowed commands
   - `LD_PRELOAD`
   - broken -> SSH / valid TTY and retry
@@ -12,7 +12,7 @@
   - distinguish default binaries from custom https://github.com/Anon-Exploiter/SUID3NUM
 - /opt
 - custom interesting binaries or scripts running as other users or root
-  - everything from [got source code - analysis](../got-source-code.md#got-source-code---analysis)
+  - [20221003151178](/zet/20221003151178/README.md) got source code - analysis
   - dependent binaries
 - linpeas ( allowed on OSCP if no automatic exploitation )
 - getcap capabilities
@@ -53,7 +53,7 @@
   - cron jobs
     - writable scripts
     - writable things used by script
-  - [exploiting linux scripts](#exploiting linux scripts)
+  - [20221003151209](/zet/20221003151209/README.md) exploiting scripts on linux
   - writable or exploitable timers
   - executable payloads or includes -> chmod 777
 - local ports
@@ -84,12 +84,14 @@
 - no access to read webroot -> try appending known filenames to path to read
 - fail2ban -> default config `iptables-multiport.conf` `actionban`
 - centos / redhat -> check special file access permissions getfacl
-- read / write files as root -> [got read or write access to filesystem](hacking/to-try-lists/got-read-or-write-access-to-filesystem.md#got-read-or-write-access-to-filesystem)
+- read / write files as root -> [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 - generate password list for each/all users and sucrack
 
 ` zet/20221003151210/README.md `
 
 # Related
+
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis
 
 - [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation

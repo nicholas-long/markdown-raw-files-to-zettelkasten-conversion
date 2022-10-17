@@ -12,13 +12,15 @@
     - formatting issues in config files like regular expressions
 - wildcards turning into command parameters
 - exec
-- python scripts: everything from [got source code - analysis](../got-source-code.md#got-source-code---analysis)
+- python scripts: everything from [20221003151178](/zet/20221003151178/README.md) got source code - analysis
 - dependent libraries of scripts (ex: tar, zip -> overwrite files / zip slip)
 - Ubuntu versions pre 19 -> sudo `$HOME` path is not changed ( specific to ubuntu )
 
 ` zet/20221003151209/README.md `
 
 # Related
+
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis
 
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
