@@ -1,6 +1,9 @@
 # commits for day of 2022-02-21
 
 - concept of `commits for day of 2022-02-21`
+- looking into LAN and bettercap
+- looks like i was trying to find a better terminal emulator
+- probably related to hotkeys and aliases for pen test environ - i wanted cool bash aliases so i could be like hackerman
 
 ```
 

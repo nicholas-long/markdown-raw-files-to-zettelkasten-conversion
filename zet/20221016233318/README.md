@@ -1,6 +1,9 @@
 # commits for day of 2022-02-22
 
 - concept of `commits for day of 2022-02-22`
+- looks like active directory notes
+  - common password wordlist generation - specific to a box
+  - pscredential for authenticating to things with powershell as another user - a potential path if a credential file is found
 
 ```
 

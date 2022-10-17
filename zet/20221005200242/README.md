@@ -56,7 +56,6 @@ this is a list of possibly empty zettels.
 - [20221003151306](/zet/20221003151306/README.md) bash scripting set operations
 - [20221003151305](/zet/20221003151305/README.md) bash scripting set operations comm
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
-- [20221003151295](/zet/20221003151295/README.md) debugging bash
 - [20221003151292](/zet/20221003151292/README.md) C template
 - [20221003151291](/zet/20221003151291/README.md) C template readline prompt
 - [20221003151289](/zet/20221003151289/README.md) jq

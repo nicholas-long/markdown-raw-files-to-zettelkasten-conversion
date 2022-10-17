@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003151156](/zet/20221003151156/README.md) hashcat generate passwords from password masks and output to stdout
 - [20221016233318](/zet/20221016233318/README.md) commits for day of 2022-02-22
 - [20221003151443](/zet/20221003151443/README.md) kb
 

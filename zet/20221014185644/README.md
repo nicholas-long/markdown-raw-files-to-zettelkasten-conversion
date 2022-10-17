@@ -9,6 +9,10 @@
 
 # Related
 
+- [20221003151157](/zet/20221003151157/README.md) hashcat generate wordlist from file with rules
+
+- [20221003151156](/zet/20221003151156/README.md) hashcat generate passwords from password masks and output to stdout
+
 - [20221016233535](/zet/20221016233535/README.md) commits for day of 2022-06-24
 - [20221016233318](/zet/20221016233318/README.md) commits for day of 2022-02-22
 - [20221016233427](/zet/20221016233427/README.md) commits for day of 2022-04-26

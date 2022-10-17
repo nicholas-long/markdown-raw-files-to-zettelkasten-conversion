@@ -1,6 +1,6 @@
-# crypto and blockchain stuff
+# concept of cryptography
 
-- concept of `crypto and blockchain stuff`
+- concept of `crypto`
 
 ```
 ```

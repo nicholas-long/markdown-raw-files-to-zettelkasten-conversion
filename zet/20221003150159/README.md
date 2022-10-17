@@ -1,5 +1,8 @@
 # upgrade when apt is causing problems
 
+- [20221003150158](/zet/20221003150158/README.md) force fix apt dpkg upgrade
+- [20221003150157](/zet/20221003150157/README.md) fix error "the following signatures couldn’t be verified because the public key is not available"
+
 ` zet/20221003150159/README.md `
 
 # Related
@@ -12,4 +15,4 @@
 
 Tags:
 
-    #linux #force 
+    #linux #apt #dpkg
