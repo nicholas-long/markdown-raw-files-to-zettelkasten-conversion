@@ -9,6 +9,9 @@
 
 # Related
 
+
+- [20221003150632](/zet/20221003150632/README.md) list dpkg packages installed on a certain date
+
 - [20221016233324](/zet/20221016233324/README.md) commits for day of 2022-02-26
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003151443](/zet/20221003151443/README.md) kb
