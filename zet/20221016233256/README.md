@@ -1,6 +1,8 @@
 # commits for day of 2022-01-27
 
 - concept of `commits for day of 2022-01-27`
+- i think i was starting to test what kind of stuff i could take notes on and store in here.
+- polkit / pwnkit was really fresh around this time, so i was experimenting with packaging up my own exploit builds
 
 ```
 

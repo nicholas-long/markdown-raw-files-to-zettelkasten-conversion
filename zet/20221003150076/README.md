@@ -1,4 +1,4 @@
-# swap panes
+# tmux swap panes
 prefix + `{`
 
 ` zet/20221003150076/README.md `

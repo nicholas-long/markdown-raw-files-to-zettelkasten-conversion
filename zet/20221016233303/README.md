@@ -1,6 +1,7 @@
 # commits for day of 2022-02-09
 
 - concept of `commits for day of 2022-02-09`
+- starting out getting some useful bash scripting templates
 
 ```
 

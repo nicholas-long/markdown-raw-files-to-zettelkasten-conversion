@@ -1,6 +1,9 @@
 # commits for day of 2022-01-26
 
 - concept of `commits for day of 2022-01-26`
+- starting out the repository
+  - intended primarily for code snippets at this point?
+- putting down some stuff i happened to be working on related to kafka at the time
 
 ```
 

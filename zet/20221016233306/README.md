@@ -1,6 +1,8 @@
 # commits for day of 2022-02-11
 
 - concept of `commits for day of 2022-02-11`
+- looks like i was working on getting a markdown reader set up
+- i was already fuzzing with fzf by at least this point
 
 ```
 

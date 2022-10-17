@@ -1,6 +1,8 @@
 # commits for day of 2022-02-08
 
 - concept of `commits for day of 2022-02-08`
+- i had come to terms with getting scammed by Confluent at this point
+  - it looks like i had decided to get data out of Confluent and cut all ties after the insane price gouging kafka partition scam and the horrible customer service treatment i received from this ridiculous cult of a business
 
 ```
 
@@ -15,6 +17,8 @@ kb/kafka/connect-confluent.md
 ` zet/20221016233301/README.md `
 
 # Related
+
+- [20221012153843](/zet/20221012153843/README.md) confluent
 
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233303](/zet/20221016233303/README.md) commits for day of 2022-02-09

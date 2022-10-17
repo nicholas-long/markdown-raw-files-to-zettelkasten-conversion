@@ -1,6 +1,7 @@
 # commits for day of 2022-02-14
 
 - concept of `commits for day of 2022-02-14`
+- getting terminal emulation set up properly for environment so i can use Ctrl+hjkl to move between panes in all terminal emulators
 
 ```
 

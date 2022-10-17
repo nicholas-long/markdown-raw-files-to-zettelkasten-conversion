@@ -1,6 +1,7 @@
 # commits for day of 2022-02-10
 
 - concept of `commits for day of 2022-02-10`
+- bash scripting
 
 ```
 

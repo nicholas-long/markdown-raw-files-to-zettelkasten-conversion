@@ -1,6 +1,8 @@
 # commits for day of 2022-01-29
 
 - concept of `commits for day of 2022-01-29`
+- it looks like i was still messing around with spacevim - make a card?
+  - there was nothing wrong wtih spacevim in particular. it was great for development work and learning. it was annoying that i was not practicing the "real" vim keys though... even the record hotkey is messed up
 
 ```
 
@@ -23,7 +25,6 @@ kb/ascii/ascii-box-art.md
 
 # Related
 
-- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221016233300](/zet/20221016233300/README.md) commits for day of 2022-02-07
 - [20221014185512](/zet/20221014185512/README.md) kb file named kb/ascii/ascii-box-art.md
