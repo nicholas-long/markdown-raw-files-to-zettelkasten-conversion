@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221017091309](/zet/20221017091309/README.md) test mermaid tags
 - [20221017084532](/zet/20221017084532/README.md) XML concept
 - [20221017084459](/zet/20221017084459/README.md) xpup xml parsing tool for scripting
 - [20221017080207](/zet/20221017080207/README.md) concept of a scam

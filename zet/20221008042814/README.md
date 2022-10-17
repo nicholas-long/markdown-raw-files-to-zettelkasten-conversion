@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221017091309](/zet/20221017091309/README.md) test mermaid tags
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
