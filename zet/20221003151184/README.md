@@ -25,6 +25,7 @@
 
 # Related
 
+- [20221003150709](/zet/20221003150709/README.md) sqlmap
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
 - [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing

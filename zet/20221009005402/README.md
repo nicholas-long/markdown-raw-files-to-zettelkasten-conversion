@@ -8,6 +8,7 @@
 
 # Related
 
+- [20221017182053](/zet/20221017182053/README.md) hydra
 - [20221015012530](/zet/20221015012530/README.md) rabbit holes
 - [20221014062642](/zet/20221014062642/README.md) organize OSCP related notes
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
@@ -22,7 +23,7 @@
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
 - [20221003151153](/zet/20221003151153/README.md) windows
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221003150561](/zet/20221003150561/README.md) Python Reverse Shell Code 
 - [20221003150275](/zet/20221003150275/README.md) firefox reverse shell toolbar hacktools
 - [20221003151246](/zet/20221003151246/README.md) Jenkins / Groovy (Java) Reverse Shell Linux
@@ -269,7 +270,7 @@
 - [20221003150945](/zet/20221003150945/README.md) python hex to string
 - [20221003150730](/zet/20221003150730/README.md) powershell
 - [20221003150944](/zet/20221003150944/README.md) python hex to bytes
-- [20221003150464](/zet/20221003150464/README.md) powershell PSCredential password import xml object load from file
+- [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
 - [20221003150463](/zet/20221003150463/README.md) powershell PSCredential password print password from object
 - [20221003150946](/zet/20221003150946/README.md) python
 - [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE

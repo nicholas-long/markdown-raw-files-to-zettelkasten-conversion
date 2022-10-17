@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md
 - [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
 - [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process

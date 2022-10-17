@@ -7,6 +7,8 @@
 
 # Related
 
+- [20221003150600](/zet/20221003150600/README.md) impacket
+- [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
 - [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY
 - [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
 - [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat

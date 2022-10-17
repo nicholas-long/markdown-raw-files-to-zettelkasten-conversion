@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md
 - [20221003151016](/zet/20221003151016/README.md) nmap scripts search by type
 - [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall

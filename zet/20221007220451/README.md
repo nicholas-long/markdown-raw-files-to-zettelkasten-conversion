@@ -12,6 +12,7 @@ hacking notes hub
 
 # Related
 
+- [20221017182053](/zet/20221017182053/README.md) hydra
 - [20221017172946](/zet/20221017172946/README.md) LAN attacks
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221015011525](/zet/20221015011525/README.md) my notes for opensource machine - steps

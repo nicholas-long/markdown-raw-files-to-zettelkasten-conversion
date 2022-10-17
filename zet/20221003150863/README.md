@@ -9,7 +9,6 @@ wget -m "ftp://@$IP"
 # Related
 
 - [20221014185828](/zet/20221014185828/README.md) kb file named kb/hacking/commands/wget-recursive-command.md
-
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 
 Tags:

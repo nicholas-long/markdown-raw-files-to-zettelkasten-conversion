@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221003150600](/zet/20221003150600/README.md) impacket
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video
 - [20221003151363](/zet/20221003151363/README.md) python scripting

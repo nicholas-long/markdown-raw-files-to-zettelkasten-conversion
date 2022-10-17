@@ -31,7 +31,6 @@ kb/hacking/commands/list-dpkg-packages-installed-date.md
 # Related
 
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
-
 - [20221016233326](/zet/20221016233326/README.md) commits for day of 2022-02-27
 - [20221014185941](/zet/20221014185941/README.md) kb file named kb/hacking/commands/list-dpkg-packages-installed-date.md
 - [20221014190144](/zet/20221014190144/README.md) kb file named kb/linux/install-alacritty.md

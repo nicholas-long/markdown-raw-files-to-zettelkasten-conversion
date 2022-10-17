@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221014185834](/zet/20221014185834/README.md) kb file named kb/hacking/commands/gobuster.md
 - [20221003150550](/zet/20221003150550/README.md) Sub domain Enum
 - [20221003150846](/zet/20221003150846/README.md) gobuster dirbusting

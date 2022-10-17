@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221014185440](/zet/20221014185440/README.md) kb file named kb/docker/install-docker-compose.md
 - [20221003151272](/zet/20221003151272/README.md) docker compose aliases for convenience
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221003151275](/zet/20221003151275/README.md) install docker compose cli extension

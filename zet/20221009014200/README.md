@@ -6,6 +6,8 @@ the concept of a `command`
 
 # Related
 
+- [20221003150709](/zet/20221003150709/README.md) sqlmap
+- [20221003150640](/zet/20221003150640/README.md) nmap run "all" enumeration and scripts
 - [20221003151268](/zet/20221003151268/README.md) Lookup missing packages with command-not-found
 - [20221003151325](/zet/20221003151325/README.md) Capture screenshot of url "utility to capture WebKit's rendering of a web page"
 - [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities

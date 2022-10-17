@@ -11,7 +11,10 @@
 
 # Related
 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
+- [20221003150821](/zet/20221003150821/README.md) hydra bruteforce ftp default creds
+- [20221003150820](/zet/20221003150820/README.md) hydra bruteforce ftp rockyou 50
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221014164014](/zet/20221014164014/README.md) protocol for application communication

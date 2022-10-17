@@ -6,6 +6,7 @@ the concept of `user account`
 
 # Related
 
+- [20221017182053](/zet/20221017182053/README.md) hydra
 - [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked

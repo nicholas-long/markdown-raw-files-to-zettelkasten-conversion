@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150600](/zet/20221003150600/README.md) impacket
 - [20221015005535](/zet/20221015005535/README.md) werkzeug
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221008212802](/zet/20221008212802/README.md) software program

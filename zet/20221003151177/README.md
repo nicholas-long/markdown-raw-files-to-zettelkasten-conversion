@@ -21,8 +21,9 @@
 
 # Related
 
+- [20221003150640](/zet/20221003150640/README.md) nmap run "all" enumeration and scripts
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list

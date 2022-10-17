@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150694](/zet/20221003150694/README.md) wpscan
 - [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
 - [20221014185643](/zet/20221014185643/README.md) kb file named kb/hacking/passwords/password_cracking_rules/README.md
 - [20221003151274](/zet/20221003151274/README.md) install mandown
