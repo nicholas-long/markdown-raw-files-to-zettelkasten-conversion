@@ -6,6 +6,8 @@ concept of the github website owned by the company microsoft.
 
 # Related
 
+- [20221017091309](/zet/20221017091309/README.md) test mermaid tags
+
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 - [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
 - [20221015005218](/zet/20221015005218/README.md) git web interfaces
