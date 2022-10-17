@@ -4,6 +4,10 @@
 
 # Related
 
+- [20221013190422](/zet/20221013190422/README.md) headline exploits
+
+- [20221009015558](/zet/20221009015558/README.md) docker
+
 - [20221014185811](/zet/20221014185811/README.md) kb file named kb/hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221003150889](/zet/20221003150889/README.md) Test CVE-2021-4034 in a docker Original exploit

@@ -1,5 +1,8 @@
 # git config settings
 
+- [20221003150161](/zet/20221003150161/README.md) set up credential storage
+- [20221003150160](/zet/20221003150160/README.md) make merges smoother
+
 ` zet/20221003150162/README.md `
 
 # Related
