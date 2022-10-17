@@ -160,7 +160,12 @@ while [ 1 == "$going" ]; do
     echo ' │           ╔ ╕ ╖ ╗                  │'
     echo ' ╰────────────────────────────────────╯'
     echo ''
-    read -p "answer (y/n): " answer
+    if [ 0 == "$(git status --porcelain | wc -l)" ]; then
+      answer="y"
+    else
+      read -p "answer (y/n): " answer
+    fi
+    echo "answer (y/n): $answer"
     if [ $answer == "y" ]; then
       $prog enrich
       $prog enrich
