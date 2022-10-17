@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221012094712](/zet/20221012094712/README.md) linux sort issues with locale
 - [20221014190224](/zet/20221014190224/README.md) kb file named kb/data-engineering-pipelines/topological-sort.md
 - [20221003151283](/zet/20221003151283/README.md) topological sort with tsort sort items occuring before each other
 - ~/kb/data-engineering-pipelines/topological-sort.md

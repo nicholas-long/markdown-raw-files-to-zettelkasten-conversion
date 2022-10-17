@@ -16,6 +16,7 @@
 
 # Related
 
+- [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
 - [20221013195816](/zet/20221013195816/README.md) ability to spawn from an existing card
