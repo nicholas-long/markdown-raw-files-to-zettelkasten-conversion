@@ -13,6 +13,7 @@
 
 # Related
 
+- [20221017084459](/zet/20221017084459/README.md) xpup xml parsing tool for scripting
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis
 - [20221003150516](/zet/20221003150516/README.md) binary analysis golang

@@ -31,7 +31,7 @@
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
-- [20221003151408](/zet/20221003151408/README.md) bash scripting parse burpsuite saved request file and convert to python requests script for copying
+- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 
 Tags:
 

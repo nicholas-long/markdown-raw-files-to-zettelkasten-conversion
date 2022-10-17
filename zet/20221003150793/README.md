@@ -11,6 +11,7 @@ cewl http://localhost:8000/ -w cewl_wordlist
 
 # Related
 
+- [20221003150792](/zet/20221003150792/README.md) generate cewl wordlist from file plaintext with grep
 - [20221014185855](/zet/20221014185855/README.md) kb file named kb/hacking/commands/generate-cewl-wordlist.md
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file
 - ~/kb/hacking/commands/generate-cewl-wordlist.md

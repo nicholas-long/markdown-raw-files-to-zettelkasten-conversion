@@ -27,8 +27,8 @@
 
 # Related
 
+- [20221003150644](/zet/20221003150644/README.md) nmap all ports command
 - [20221003150795](/zet/20221003150795/README.md) generate cewl wordlist from website
-
 - [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221011181920](/zet/20221011181920/README.md) working notes - foothold

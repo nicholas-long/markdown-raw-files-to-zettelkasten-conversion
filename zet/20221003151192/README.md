@@ -49,7 +49,8 @@
 
 # Related
 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
 - [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
 - [20221003150331](/zet/20221003150331/README.md) log4j log4shell

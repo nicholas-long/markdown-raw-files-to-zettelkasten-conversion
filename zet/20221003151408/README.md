@@ -82,19 +82,12 @@ rm $http_request
 # Related
 
 - [20221017084459](/zet/20221017084459/README.md) xpup xml parsing tool for scripting
-
 - [20221003151193](/zet/20221003151193/README.md) HTTP
-
 - [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal
-
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
-
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form
-
 - [20221015005745](/zet/20221015005745/README.md) python coding
-
 - [20221003151363](/zet/20221003151363/README.md) python scripting
-
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221008221822](/zet/20221008221822/README.md) www - the web

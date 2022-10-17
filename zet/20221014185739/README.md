@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221017084532](/zet/20221017084532/README.md) XML concept
 - [20221016233609](/zet/20221016233609/README.md) commits for day of 2022-07-21
 - [20221003150975](/zet/20221003150975/README.md) XXE xml external entity
 - [20221003150974](/zet/20221003150974/README.md) XXE xml external entity exfiltrate file out of band payload

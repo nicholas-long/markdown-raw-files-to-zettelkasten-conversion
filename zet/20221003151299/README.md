@@ -4,13 +4,15 @@
 
 # Related
 
+- [20221003150792](/zet/20221003150792/README.md) generate cewl wordlist from file plaintext with grep
+- [20221017084459](/zet/20221017084459/README.md) xpup xml parsing tool for scripting
 - [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty
 - [20221003151330](/zet/20221003151330/README.md) bash scripting check if a variable is empty concise
 - [20221003151325](/zet/20221003151325/README.md) Capture screenshot of url "utility to capture WebKit's rendering of a web page"
 - [20221003150174](/zet/20221003150174/README.md) less
 - [20221014190259](/zet/20221014190259/README.md) kb file named kb/bash-scripting/tricks.md
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
-- [20221003151408](/zet/20221003151408/README.md) bash scripting parse burpsuite saved request file and convert to python requests script for copying
+- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
