@@ -21,7 +21,6 @@
 
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
-- [20221016233254](/zet/20221016233254/README.md) commits for day of 2022-01-26
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
