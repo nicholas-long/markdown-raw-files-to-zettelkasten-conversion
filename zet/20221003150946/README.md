@@ -4,13 +4,14 @@
 
 # Related
 
+- [20221003150942](/zet/20221003150942/README.md) python imports
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 - [20221015005557](/zet/20221015005557/README.md) python library
 - [20221015005745](/zet/20221015005745/README.md) python coding
 - [20221015005535](/zet/20221015005535/README.md) werkzeug
 - [20221014185753](/zet/20221014185753/README.md) kb file named kb/hacking/python/python-quick-reference.md
-- [20221003151408](/zet/20221003151408/README.md) bash scripting parse burpsuite saved request file and convert to python requests script for copying
+- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
 - [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag
 - [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup
