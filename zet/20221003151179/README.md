@@ -5,7 +5,7 @@
 - control port ( filezilla )
 - bounce attack - in uncommon cases, it is possible to stuff other protocols over FTP to access hidden ports
 - Unauth enum enumerate commands with `HELP`
-- everything from everything list [EVERYTHING](EVERYTHING.md#everything)
+- everything from everything list [20221003151175](/zet/20221003151175/README.md) EVERYTHING
 
 ` zet/20221003151179/README.md `
 

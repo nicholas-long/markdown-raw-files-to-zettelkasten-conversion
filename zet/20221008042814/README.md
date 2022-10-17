@@ -40,7 +40,6 @@ stuff i am working on.
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221011192157](/zet/20221011192157/README.md) cool names for the project
-- [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221011153359](/zet/20221011153359/README.md) ability to clone cards
 - [20221011145639](/zet/20221011145639/README.md) why does kali apt break bat?
 - [20221011095447](/zet/20221011095447/README.md) change vilink behavior - 1 to many

@@ -12,13 +12,7 @@
 - scan UDP ( slow, few ports as possible )
 - scan services with scripts
 - retry enumeration with new credentials on discovery
-- look up versions
-  - exploitdb / searchsploit / "exploits" command alias
-  - google keywords
-    - "exploit"
-    - "ctf writeup"
-    - inurl:github
-  - enumeration tools specific to service
+- look up versions [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
   - metasploit exploits and scanners - locate during enumeration, but wait to run on exam
 - OSINT
   - users and their potential passwords
@@ -33,7 +27,9 @@
 
 # Related
 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
+
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221011181920](/zet/20221011181920/README.md) working notes - foothold
 - [20221011181531](/zet/20221011181531/README.md) steps
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
