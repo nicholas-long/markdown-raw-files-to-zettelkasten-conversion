@@ -7,6 +7,7 @@ Attempt at converting a library of raw markdown files in directories into a Zett
   - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
   - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - what a zettelkasten is and why i'm converting my notes
+  - [start walking down memory lane](/zet/20221016233254/README.md)
   - [information about this project](/zet/20221006013612/README.md)
   - [findings](/zet/20221007043646/README.md)
   - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
