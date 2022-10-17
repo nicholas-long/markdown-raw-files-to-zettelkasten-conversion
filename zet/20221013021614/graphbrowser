@@ -38,6 +38,7 @@ while [ 1 == "$going" ]; do
     print "enrich"
     if (ENVIRON["TMUX"] ~ /tmux/) {
       print "tab"
+      print "copypath"
     }
     doc = ENVIRON["doc"]
     if (doc != "README.md") {
@@ -46,7 +47,6 @@ while [ 1 == "$going" ]; do
       gsub(/\/.*$/,"",id)
       if (id != "README.md") {
         print "spawn", id
-        print "spawnedit", id
       }
       print "link"
       print "unlink"
@@ -140,6 +140,10 @@ while [ 1 == "$going" ]; do
       git status # i guess
       sleep 2
     fi
+  elif [ "$act" == "copypath" ]; then
+    echo -n "$doc" | tmux loadb -
+    echo "copied $doc"
+    sleep 0.5
   elif [ "$act" == "xfer" ]; then
     selection=$(mktemp)
     awk '
@@ -153,17 +157,6 @@ while [ 1 == "$going" ]; do
       $EDITOR -p "$doc" "zet/$xferid/README.md"
     fi
     rm "$selection"
-  elif [ "$act" == "spawnedit" ]; then
-    id=$(echo "$doc" | awk -F / '{print $(NF-1)}')
-    read -p "enter title> " title
-    newid=$(./zc new -t "$title" -r "$id" | awk '/created zet ID/ { print $NF }')
-    echo "spawned $newid"
-    ./zc addref -t $id $newid
-    ./zc enrich_links_single $id
-    ./zc enrich_links_single $newid
-    if [ ! -z $TMUX ]; then
-      tmux new-window $EDITOR -p "zet/$id/README.md" "zet/$newid/README.md"
-    fi
   elif [ "$act" == "enrich" ]; then
     echo ''
     echo ' ╭────────────────────────────────┬───╮'
