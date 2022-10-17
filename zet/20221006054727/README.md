@@ -11,6 +11,8 @@
   - param 1: snippet ID
   - param 2: file with which to replace the snippet contents
 - list of kb files by zet id is stored at `zet/20221006054727/kb_files_ids`
+- this is completed. need to figure out how to associate files that got moved.
+- linked to first commit card in the chain
 
 ```bash
 
@@ -140,10 +142,17 @@ chmod +x zet/20221006054727/historyscript
 
 # Related
 
+- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
+
+- [20221016233254](/zet/20221016233254/README.md) commits for day of 2022-01-26
+
+- [20221009095853](/zet/20221009095853/README.md) finished
+
+- [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
+
 - [20221014183030](/zet/20221014183030/README.md) create cards for kb files
 - [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
-- [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221008182309](/zet/20221008182309/README.md) learning git internals
 - [20221003150798](/zet/20221003150798/README.md) git
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
