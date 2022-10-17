@@ -10,7 +10,6 @@ stuff i am working on.
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
-- [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking

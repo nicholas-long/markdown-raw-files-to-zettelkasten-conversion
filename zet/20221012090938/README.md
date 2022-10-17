@@ -11,15 +11,14 @@
     - not for scrolling, for highlighting or selecting / clicking
 
 - setup steps and fixing issues
-  - by default ubuntu does not remember that i want the screen rotated to normal computer mode
+  - screen rotation: by default, ubuntu does not remember screen rotation - set to normal
     - [fix](/zet/20221015172248/README.md) by creating a file for a hardware sensor
+  - standby and sleeping issues: set "screen blank" in power to Never - fixed!
+    - [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
+
+- can i remap caps lock to esc?
 
 - problems
-  - standby and sleeping issues
-    - [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
-    - can sleep with lid closed for hours and pop open instantly into vim
-    - until it decides to suspend - i think?
-    - after starting from suspend, screen is black and unresponsive
   - only one usb
   - battery life
     - terrible for web browsing
@@ -32,7 +31,6 @@
   - came with weird charging cable - doesn't like other cables?
     - looks like USB C but nothing else works with it
     - usbc port on laptop is just for power
-- can i remap caps lock to esc?
 
 - cyberdeck-related ideas and improvements
   - trackball that actually does mouse scroll
