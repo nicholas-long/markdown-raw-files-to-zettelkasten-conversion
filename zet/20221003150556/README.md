@@ -12,7 +12,8 @@ Response.write(o)
 
 # Related
 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 
 Tags:
 

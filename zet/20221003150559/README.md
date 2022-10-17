@@ -7,6 +7,7 @@ cat /usr/share/webshells/php/php-backdoor.php
 
 # Related
 
+- [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md
 - [20221003150560](/zet/20221003150560/README.md) Kali Default PHP Reverse Shell
 - [20221011145037](/zet/20221011145037/README.md) kali linux
 - [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE

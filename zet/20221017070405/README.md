@@ -10,7 +10,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151272](/zet/20221003151272/README.md) docker compose aliases for convenience
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221003151275](/zet/20221003151275/README.md) install docker compose cli extension

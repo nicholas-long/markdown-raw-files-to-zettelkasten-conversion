@@ -11,6 +11,7 @@ subfinder -d "$URL"
 
 # Related
 
+- [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md
 - [20221013173355](/zet/20221013173355/README.md) the process of enumerating a target
 - [20221003151195](/zet/20221003151195/README.md) DNS
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS

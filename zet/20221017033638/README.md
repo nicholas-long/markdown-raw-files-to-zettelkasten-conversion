@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221017033801](/zet/20221017033801/README.md) tryhackme box Takedown
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d
