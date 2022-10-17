@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221017070405](/zet/20221017070405/README.md) docker compose
 - [20221014190226](/zet/20221014190226/README.md) kb file named kb/data-engineering-pipelines/yaml-syntax.md
 - [20221007193634](/zet/20221007193634/README.md) example github actions scripts
 - [20221006072230](/zet/20221006072230/README.md) arrays in yaml

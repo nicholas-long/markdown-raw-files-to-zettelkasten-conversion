@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221017070405](/zet/20221017070405/README.md) docker compose
 - [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
 - [20221017033801](/zet/20221017033801/README.md) tryhackme box Takedown
 - [20221017033638](/zet/20221017033638/README.md) Funday Sunday: Taking down the INSANE-ranked TryHackMe's Takedown alh4zr3d
