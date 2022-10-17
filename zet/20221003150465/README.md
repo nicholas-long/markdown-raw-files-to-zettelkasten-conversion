@@ -5,7 +5,6 @@
 # Related
 
 - [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
-
 - [20221014190040](/zet/20221014190040/README.md) kb file named kb/hacking/powershell/load-xml-object-print-password-from-pscredential.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
