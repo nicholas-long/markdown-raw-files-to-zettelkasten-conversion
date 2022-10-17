@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221012153843](/zet/20221012153843/README.md) confluent.io
 
 Tags:
