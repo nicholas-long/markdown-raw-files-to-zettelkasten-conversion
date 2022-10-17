@@ -6,6 +6,7 @@ things that are finished.
 
 # Related
 
+- [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
 - [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
 - [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content
