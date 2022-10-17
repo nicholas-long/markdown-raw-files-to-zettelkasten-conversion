@@ -14,20 +14,21 @@ hub node for `workflow`
 
 # Related
 
-- [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
+- [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams
+- [20221015172248](/zet/20221015172248/README.md) how to fix ubuntu gnome not remembering screen rotation on One Mix netbook?
 - [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221012090938](/zet/20221012090938/README.md) my One Mix netbook
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014154703](/zet/20221014154703/README.md) lazygit program
-- [20221003151408](/zet/20221003151408/README.md) bash scripting parse burpsuite saved request file and convert to python requests script for copying
+- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221014072547](/zet/20221014072547/README.md) ideas need to be explained and connected to relevant things
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
-- [20221003150076](/zet/20221003150076/README.md) swap panes
+- [20221003150076](/zet/20221003150076/README.md) tmux swap panes
 - [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
 - [20221013180437](/zet/20221013180437/README.md) differences organizing zettelkasten in graph vs files in hierarchy
 - [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell
