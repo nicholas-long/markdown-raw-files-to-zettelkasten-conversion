@@ -7,7 +7,8 @@ it is not possible to disable key exchange in TLS1.3
 
 # Related
 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221017172946](/zet/20221017172946/README.md) LAN attacks
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150717](/zet/20221003150717/README.md) packet capture
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
 - [20221003150715](/zet/20221003150715/README.md) packet capture with tcpdump log data to pcap file

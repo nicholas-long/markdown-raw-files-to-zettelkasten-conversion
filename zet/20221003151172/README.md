@@ -86,6 +86,7 @@
 
 # Related
 
+- [20221017172946](/zet/20221017172946/README.md) LAN attacks
 - [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
 - [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list

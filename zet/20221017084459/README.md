@@ -11,7 +11,6 @@ url=$(cat $file | $xpup //url)
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221017084532](/zet/20221017084532/README.md) XML concept
 - [20221008214935](/zet/20221008214935/README.md) go language
 - [20221003151299](/zet/20221003151299/README.md) bash tricks

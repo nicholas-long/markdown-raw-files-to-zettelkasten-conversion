@@ -12,11 +12,12 @@
 
 # Related
 
+- [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
-- [20221003151172](/zet/20221003151172/README.md) active directory domain
-- [20221003151198](/zet/20221003151198/README.md) SMB
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
+- [20221003151198](/zet/20221003151198/README.md) SMB to try list
 - [20221003151189](/zet/20221003151189/README.md) HTTP specific HTTP server exploit possibilities
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working

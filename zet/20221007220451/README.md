@@ -12,6 +12,7 @@ hacking notes hub
 
 # Related
 
+- [20221017172946](/zet/20221017172946/README.md) LAN attacks
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221015011525](/zet/20221015011525/README.md) my notes for opensource machine - steps
 - [20221003151179](/zet/20221003151179/README.md) FTP
@@ -33,7 +34,7 @@ hacking notes hub
 - [20221003150266](/zet/20221003150266/README.md) systemd-private
 - [20221003150294](/zet/20221003150294/README.md) wireshark TLS1.2 handshake packet
 - [20221003150322](/zet/20221003150322/README.md) cyber reason
-- [20221013185120](/zet/20221013185120/README.md) crypto and blockchain stuff
+- [20221013185120](/zet/20221013185120/README.md) concept of cryptography
 - [20221003150347](/zet/20221003150347/README.md) bruteforcing services
 - [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
 - [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script
@@ -86,7 +87,7 @@ hacking notes hub
 - [20221003150099](/zet/20221003150099/README.md) python scripting format string variables
 - [20221003150311](/zet/20221003150311/README.md) SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
 - [20221007185940](/zet/20221007185940/README.md) unsorted nodes
-- [20221003150464](/zet/20221003150464/README.md) powershell PSCredential password import xml object load from file
+- [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
 - [20221003150601](/zet/20221003150601/README.md) tunneling through chisel - socks Forward specific port
 - [20221003150334](/zet/20221003150334/README.md) python pickle serialization magic bytes header signature `80 03` `80 04` `80 05` `(dp0` base64 `gASV` `gAWV`
 - [20221003150830](/zet/20221003150830/README.md) postgres sql enumeration

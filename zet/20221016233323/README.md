@@ -40,7 +40,6 @@ kb/hacking/priv-esc/etc-passwd-writable-line.md
 # Related
 
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
-
 - [20221016233324](/zet/20221016233324/README.md) commits for day of 2022-02-26
 - [20221014185804](/zet/20221014185804/README.md) kb file named kb/hacking/priv-esc/etc-passwd-writable-line.md
 - [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md

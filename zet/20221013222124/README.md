@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221003150161](/zet/20221003150161/README.md) git config settings set up credential storage
+- [20221003150160](/zet/20221003150160/README.md) git config settings make merges smoother
 - [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
 - [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code

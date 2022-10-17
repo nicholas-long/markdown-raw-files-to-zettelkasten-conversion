@@ -11,6 +11,7 @@ find /etc -writable 2>/dev/null
 
 # Related
 
+- [20221003150194](/zet/20221003150194/README.md) set the bash prompt to use vi hotkeys
 - [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
 - [20221013173355](/zet/20221013173355/README.md) the process of enumerating a target
 - [20221003150565](/zet/20221003150565/README.md) Netcat Sending file

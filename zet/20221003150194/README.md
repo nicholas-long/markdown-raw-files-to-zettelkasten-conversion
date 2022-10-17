@@ -8,14 +8,11 @@ set -o vi
 
 # Related
 
+- [20221014190137](/zet/20221014190137/README.md) kb file named kb/linux/edit-bash-prompt-vi-hotkeys.md
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
-
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
-
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
-
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
-
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150198](/zet/20221003150198/README.md) control key mappings for sh
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
