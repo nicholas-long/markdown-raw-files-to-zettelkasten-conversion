@@ -8,10 +8,9 @@ ln -s /etc/passwd file.html
 
 # Related
 
+- [20221014185816](/zet/20221014185816/README.md) kb file named kb/hacking/priv-esc/symlink.md
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
-
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
-
 
 Tags:
 
