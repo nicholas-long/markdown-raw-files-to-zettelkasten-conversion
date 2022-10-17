@@ -9,6 +9,10 @@
 
 # Related
 
+- [20221008042814](/zet/20221008042814/README.md) WIP
+
+- [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
+
 - [20221016233401](/zet/20221016233401/README.md) commits for day of 2022-04-03
 - [20221016233549](/zet/20221016233549/README.md) commits for day of 2022-07-07
 - [20221016233527](/zet/20221016233527/README.md) commits for day of 2022-06-18

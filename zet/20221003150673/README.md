@@ -6,6 +6,10 @@ crackmapexec smb --help
 
 # Related
 
+- [20221003151153](/zet/20221003151153/README.md) windows
+
+- [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
+
 - [20221003150348](/zet/20221003150348/README.md) troubleshooting fix error ValueError: unsupported hash type MD4 python hashlib openssl conf
 - [20221014185929](/zet/20221014185929/README.md) kb file named kb/hacking/commands/crackmapexec-commands.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

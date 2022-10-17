@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
+- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list
 - [20221014185909](/zet/20221014185909/README.md) kb file named kb/hacking/commands/feroxbuster-command.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting
