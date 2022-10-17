@@ -53,6 +53,7 @@ drwxr-xr-x  3 kali kali 4096 Jan 27 17:58 priv-esc                              
 
 # Related
 
+- [20221014185512](/zet/20221014185512/README.md) kb file named kb/ascii/ascii-box-art.md
 - [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
 - [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video
 - [20221013035616](/zet/20221013035616/README.md) fun

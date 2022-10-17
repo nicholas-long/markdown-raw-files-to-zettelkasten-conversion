@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221016233254](/zet/20221016233254/README.md) commits for day of 2022-01-26
 - [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
 - [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores
 - [20221009014200](/zet/20221009014200/README.md) concept of a command

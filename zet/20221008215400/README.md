@@ -8,6 +8,7 @@ the concept of a `file`
 
 # Related
 
+- [20221003151325](/zet/20221003151325/README.md) Capture screenshot of url "utility to capture WebKit's rendering of a web page"
 - [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221014074318](/zet/20221014074318/README.md) important choices of tech stack

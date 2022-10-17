@@ -8,6 +8,7 @@ socat TCP4-LISTEN:5678,fork SOCKS4A:localhost:$IP:$PORT,socksport=9050
 
 # Related
 
+- [20221014185458](/zet/20221014185458/README.md) kb file named kb/networking/socat-proxy.md
 - [20221003151161](/zet/20221003151161/README.md) pivoting guide
 - [20221003150604](/zet/20221003150604/README.md) tunneling through chisel - socks
 - [20221003150107](/zet/20221003150107/README.md) ssh port forwarding

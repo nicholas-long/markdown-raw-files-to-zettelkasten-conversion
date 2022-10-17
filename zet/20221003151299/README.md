@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003151325](/zet/20221003151325/README.md) Capture screenshot of url "utility to capture WebKit's rendering of a web page"
 - [20221003150174](/zet/20221003150174/README.md) less
 - [20221014190259](/zet/20221014190259/README.md) kb file named kb/bash-scripting/tricks.md
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
