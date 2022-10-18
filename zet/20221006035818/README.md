@@ -95,9 +95,7 @@ these videos are called "beginner boost" but they are filled with incredibly use
 # Related
 
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
-
 - [20221007205652](/zet/20221007205652/README.md) find limit recusion depth
-
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes

@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221003151217](/zet/20221003151217/README.md) caddy
 - [20221003151215](/zet/20221003151215/README.md) caddy install

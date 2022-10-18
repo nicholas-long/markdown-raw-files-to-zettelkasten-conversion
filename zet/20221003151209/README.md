@@ -21,6 +21,7 @@
 
 # Related
 
+- [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos
 - [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
 - [20221003150881](/zet/20221003150881/README.md) create symbolic link
