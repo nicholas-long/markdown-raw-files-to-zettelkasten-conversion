@@ -12,6 +12,7 @@
     - formatting issues in config files like regular expressions
 - wildcards turning into command parameters
 - exec
+- insecure to use `#!/usr/bin/env bash` type shebangs + writable path
 - python scripts: everything from [20221003151178](/zet/20221003151178/README.md) got source code - analysis
 - dependent libraries of scripts (ex: tar, zip -> overwrite files / zip slip)
 - Ubuntu versions pre 19 -> sudo `$HOME` path is not changed ( specific to ubuntu )

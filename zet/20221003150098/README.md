@@ -10,6 +10,8 @@
 
 # Related
 
+- [20221018182017](/zet/20221018182017/README.md) read bash man page
+
 - [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf
 - [20221015021344](/zet/20221015021344/README.md) graph explorer does not let you add 0 links or back out of link screen
 - [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores

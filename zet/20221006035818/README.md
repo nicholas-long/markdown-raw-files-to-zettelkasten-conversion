@@ -7,6 +7,7 @@ these videos are called "beginner boost" but they are filled with incredibly use
   - ex commands
 
 - video 8
+  - fundamentals: it is good to go back and learn the fundamentals of things like vi and ed/ex to work with things like reverse shells on alpine dockers, where most familiar and useful GNU/Linux utilities will not be installed in favor of lightweight busybox implementations.
   - zsh is not posix compliant with numbers, and that's dangerous for math
     - why do math in bash?
   - using vim
@@ -15,7 +16,15 @@ these videos are called "beginner boost" but they are filled with incredibly use
       - `!}` paragraphs
         - `!}` default shortcut to run rest of paragraph through filter program
         - delete `!` char for an exact ex spec of the paragraph to grep out and substitute things
-  - fundamentals: it is good to go back and learn the fundamentals of things like vi and ed/ex to work with things like reverse shells on alpine dockers, where most familiar and useful GNU/Linux utilities will not be installed in favor of lightweight busybox implementations.
+  - shebang lines and scripts vs. programs
+  - insecure to use `#!/usr/bin/env bash` type shebangs (privesc) `03:32:00` - why people would use it
+    - relative path to bash in the script instead of hardcoded `/bin/bash`
+    - in this specific case, writable PATH is very nice for privesc
+  - talking about terminalforlife taking down his youtube channel and deleting all his videos @ `03:41:25`
+    - always wondered what happened to his channel - ?
+    - took down all his content and left 1 video that says "i hate youtube"
+  - bash cookbook
+  - exercism ?
 
 - video week 9
   - posix info @ `0:49:00`
@@ -41,7 +50,7 @@ these videos are called "beginner boost" but they are filled with incredibly use
   - printf argument expansion and strings @ `2:41:00`
     - cool find `printf -v` sets the printed value to a variable
   - parameter expansion in bash manual @ `2:57:00`
-    - ``` The  `$'  character  introduces  parameter expansion, command substitution, or arithmetic expansion.  ```
+    - ` The  '$'  character  introduces  parameter expansion, command substitution, or arithmetic expansion.  `
   - passing environment variables into scripts as vim filters @ `3:13:00`
   - cant put backtick inside a backtick @ `03:20:00`
     - every double quote has a separate context
@@ -75,12 +84,14 @@ these videos are called "beginner boost" but they are filled with incredibly use
   - insecure to use `#!/usr/bin/env bash` type shebangs (privesc) `00:41:00`
     - env looks things up in PATH
     - prevalence in usage is related to ruby
-  - talking about privesc with misconfigured paths
+  - talking about privesc with misconfigured paths @ `00:45:55`
   - asdf @ `00:00:00`
 
 ` zet/20221006035818/README.md `
 
 # Related
+
+- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
 
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
@@ -93,7 +104,7 @@ these videos are called "beginner boost" but they are filled with incredibly use
 - <https://www.youtube.com/watch?v=yu2kO2yb7L8&list=PLrK9UeDMcQLpkdoPTNG7nSBA6Bb4AoJX1&index=9>
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221003150073](/zet/20221003150073/README.md) Run vim as a script on datafile, write to file `output`
-- [20221003150175](/zet/20221003150175/README.md) ex commands  Some of these might apply to ed as well
+- [20221003150175](/zet/20221003150175/README.md) unix editor ex / ed example commands
 - [20221003151239](/zet/20221003151239/README.md) make date wordlist for fuzzing with bash and parameter expansion
 
 Tags:
