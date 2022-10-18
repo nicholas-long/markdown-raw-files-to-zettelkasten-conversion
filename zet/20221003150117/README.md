@@ -25,6 +25,7 @@ Transmission and reception of raw bit streams over a physical medium
 
 # Related
 
+- [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
 - [20221014190115](/zet/20221014190115/README.md) kb file named kb/hacking/lan/change-mac-address.md
 - [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes

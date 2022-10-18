@@ -24,9 +24,7 @@ kb/hacking/priv-esc/enumeration-quick-commands.md
 # Related
 
 - [20221018134040](/zet/20221018134040/README.md) devzat htb
-
 - [20221006214348](/zet/20221006214348/README.md) ippsec
-
 - [20221016233339](/zet/20221016233339/README.md) commits for day of 2022-03-15
 - [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
 - [20221016233336](/zet/20221016233336/README.md) commits for day of 2022-03-12

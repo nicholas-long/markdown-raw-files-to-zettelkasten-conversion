@@ -6,6 +6,7 @@ node for hackthebox.
 
 # Related
 
+- [20221018134040](/zet/20221018134040/README.md) devzat htb
 - [20221015011525](/zet/20221015011525/README.md) my notes for opensource machine - steps
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes

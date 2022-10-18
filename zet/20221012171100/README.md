@@ -11,6 +11,8 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221018134040](/zet/20221018134040/README.md) devzat htb
+- [20221018133841](/zet/20221018133841/README.md) base64 concept
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 

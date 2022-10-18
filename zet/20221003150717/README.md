@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
 - [20221014185917](/zet/20221014185917/README.md) kb file named kb/hacking/commands/packet-capture.md
 - [20221003150117](/zet/20221003150117/README.md) OSI networking model
 - [20221003150294](/zet/20221003150294/README.md) wireshark TLS1.2 handshake packet

@@ -8,6 +8,7 @@ base64 | tr '/+' '_-' | tr -d '='
 
 # Related
 
+- [20221018133841](/zet/20221018133841/README.md) base64 concept
 - [20221003151439](/zet/20221003151439/README.md) awk scripting base64 encode lines individually
 - [20221003151399](/zet/20221003151399/README.md) bash scripting find alphanumeric base64 using awk script
 - [20221003151227](/zet/20221003151227/README.md) convert string to a base64 encoded UTF-16LE string to be used by powershell
