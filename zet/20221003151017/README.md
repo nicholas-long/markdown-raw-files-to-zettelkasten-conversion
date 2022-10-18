@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap
 - [20221014185730](/zet/20221014185730/README.md) kb file named kb/hacking/methodology/nmap-scripts.md
 - [20221003151016](/zet/20221003151016/README.md) nmap scripts search by type
 - [20221003151015](/zet/20221003151015/README.md) nmap scripts all script types

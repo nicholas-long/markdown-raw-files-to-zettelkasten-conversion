@@ -9,8 +9,8 @@
 
 # Related
 
+- [20221014185817](/zet/20221014185817/README.md) kb file named kb/hacking/priv-esc/polkit-notes.md
 - [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
-
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221006025356](/zet/20221006025356/README.md) linux

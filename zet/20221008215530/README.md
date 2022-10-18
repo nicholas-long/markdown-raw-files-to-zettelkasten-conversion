@@ -10,6 +10,7 @@ identifies a user account.
 
 # Related
 
+- [20221018160416](/zet/20221018160416/README.md) credential harvesting concept
 - [20221017182053](/zet/20221017182053/README.md) hydra
 - [20221013185406](/zet/20221013185406/README.md) etc passwd file on linux
 - [20221013180125](/zet/20221013180125/README.md) concept of a cookie

@@ -6,6 +6,7 @@ the concept of `user account`
 
 # Related
 
+- [20221018160416](/zet/20221018160416/README.md) credential harvesting concept
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept
 - [20221017182053](/zet/20221017182053/README.md) hydra
 - [20221015004252](/zet/20221015004252/README.md) htb opensource machine

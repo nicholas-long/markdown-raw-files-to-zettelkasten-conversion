@@ -4,10 +4,9 @@
 
 # Related
 
+- [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
-
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
-
 - [20221014185829](/zet/20221014185829/README.md) kb file named kb/hacking/commands/ssh-commands.md
 - [20221014164014](/zet/20221014164014/README.md) protocol for application communication
 - [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty

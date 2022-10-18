@@ -5,6 +5,7 @@
 
 # Related
 
+- [20221018160416](/zet/20221018160416/README.md) credential harvesting concept
 - [20221003150252](/zet/20221003150252/README.md) httponly cookie option
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list

@@ -10,9 +10,7 @@
 # Related
 
 - [20221003150648](/zet/20221003150648/README.md) nmap
-
 - [20221003150644](/zet/20221003150644/README.md) nmap all ports command
-
 - [20221016233401](/zet/20221016233401/README.md) commits for day of 2022-04-03
 - [20221016233549](/zet/20221016233549/README.md) commits for day of 2022-07-07
 - [20221016233527](/zet/20221016233527/README.md) commits for day of 2022-06-18
