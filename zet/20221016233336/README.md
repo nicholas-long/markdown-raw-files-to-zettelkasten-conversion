@@ -17,7 +17,6 @@ kb/hacking/commands/tcpdump-listen-for-pings.md
 
 # Related
 
-- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221016233338](/zet/20221016233338/README.md) commits for day of 2022-03-14
 - [20221014185943](/zet/20221014185943/README.md) kb file named kb/hacking/commands/tcpdump-listen-for-pings.md
 - [20221014185911](/zet/20221014185911/README.md) kb file named kb/hacking/commands/encode-powershell-base64-windows.md
