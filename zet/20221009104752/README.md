@@ -6,6 +6,8 @@
 
 # Related
 
+- [20221018020643](/zet/20221018020643/README.md) what is hadoop for?
+
 - [20221012134856](/zet/20221012134856/README.md) what is org roam?
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
