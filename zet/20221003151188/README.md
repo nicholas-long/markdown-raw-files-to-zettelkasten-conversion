@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221003150849](/zet/20221003150849/README.md) hydra brute force HTTP basic authentication
 - [20221003150693](/zet/20221003150693/README.md) wpscan initial
 - [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md

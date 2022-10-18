@@ -11,8 +11,8 @@ sudo apt update && sudo apt upgrade && sudo apt install -y virtualbox
 
 # Related
 
+- [20221014190203](/zet/20221014190203/README.md) kb file named kb/linux/installing-virtualbox.md
 - [20221018152638](/zet/20221018152638/README.md) virtualbox
-
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221003151274](/zet/20221003151274/README.md) install mandown
 - [20221006025356](/zet/20221006025356/README.md) linux

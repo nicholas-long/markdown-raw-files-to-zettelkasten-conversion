@@ -6,7 +6,9 @@ the concept of a `command`
 
 # Related
 
-- [20221018145628](/zet/20221018145628/README.md) label things that are commands as commands
+- [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12
+- [20221003150791](/zet/20221003150791/README.md) openssl
+- [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
 - [20221003150175](/zet/20221003150175/README.md) unix editor ex / ed example commands
 - [20221003150709](/zet/20221003150709/README.md) sqlmap
 - [20221003150640](/zet/20221003150640/README.md) nmap run "all" enumeration and scripts

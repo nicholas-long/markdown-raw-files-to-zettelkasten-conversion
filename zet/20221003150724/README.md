@@ -9,13 +9,9 @@
 # Related
 
 - [20221003151213](/zet/20221003151213/README.md) got leaked files TRY
-
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
-
 - [20221003150791](/zet/20221003150791/README.md) openssl
-
 - [20221013185120](/zet/20221013185120/README.md) concept of cryptography
-
 - [20221014185914](/zet/20221014185914/README.md) kb file named kb/hacking/commands/openssl-view-information-about-cert.md
 - [20221003150723](/zet/20221003150723/README.md) openssl pfx p12 file PKCS12 view information about certificate
 - [20221003150722](/zet/20221003150722/README.md) openssl pfx p12 file PKCS12 public key fingerprint

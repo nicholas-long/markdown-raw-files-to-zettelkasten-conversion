@@ -39,7 +39,6 @@ kb/hacking/priv-esc/windows-dll-hijack.md
 # Related
 
 - [20221006214348](/zet/20221006214348/README.md) ippsec
-
 - [20221016233354](/zet/20221016233354/README.md) commits for day of 2022-03-27
 - [20221014185807](/zet/20221014185807/README.md) kb file named kb/hacking/priv-esc/windows-dll-hijack.md
 - [20221014185855](/zet/20221014185855/README.md) kb file named kb/hacking/commands/generate-cewl-wordlist.md

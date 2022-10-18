@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003151300](/zet/20221003151300/README.md) drop newlines from stream with tr
 - [20221003150792](/zet/20221003150792/README.md) generate cewl wordlist from file plaintext with grep
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014190241](/zet/20221014190241/README.md) kb file named kb/bash-scripting/stream-operations.md

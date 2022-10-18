@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12
 - [20221003150517](/zet/20221003150517/README.md) binary analysis
 - [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
 - [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows

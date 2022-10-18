@@ -13,6 +13,7 @@
 
 # Related
 
+- [20221018152809](/zet/20221018152809/README.md) VM hypervisor or manager or player or host software
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
