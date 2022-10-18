@@ -25,6 +25,7 @@
 - automatically import stackoverflow answers to zettelkasten
   - find data set ?
 - mermaid diagrams
+- if you keep small notes about physical todo items and chores, like moving things around or organizing things, then you can google where stuff is in your notes if you lose something?
 
 ## move this stuff to cards it is growing kinda big
 
