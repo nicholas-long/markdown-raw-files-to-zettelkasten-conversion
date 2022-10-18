@@ -9,6 +9,8 @@ git status --porcelain
 
 # Related
 
+- [20221008212802](/zet/20221008212802/README.md) software program
+
 - [20221003150161](/zet/20221003150161/README.md) git config settings set up credential storage
 - [20221003150160](/zet/20221003150160/README.md) git config settings make merges smoother
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
