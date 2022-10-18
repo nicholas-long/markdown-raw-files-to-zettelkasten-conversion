@@ -39,7 +39,7 @@ these videos are called "beginner boost" but they are filled with incredibly use
     - create commands to put new simple scripts in places in your user path
     - don't use file extensions - reasonable idea
       - i think switching scripts from sh to awk should be easy, for instance
-  - shellcheck - check bash scripts
+  - shellcheck - check bash scripts - available in kali repo
     - POSIX incompatibility
     - common security issues
   - started to demonstrate some sort of script injection `1:52:00`
@@ -85,16 +85,22 @@ these videos are called "beginner boost" but they are filled with incredibly use
     - env looks things up in PATH
     - prevalence in usage is related to ruby
   - talking about privesc with misconfigured paths @ `00:45:55`
+  - why to use `command -v` instead of `which` in scripts - safer - make a card?
+    - which can return false positives
+  - tip: exporting a specific PATH in scripts to avoid getting hacked
   - asdf @ `00:00:00`
 
 ` zet/20221006035818/README.md `
 
 # Related
 
+- [20221018183943](/zet/20221018183943/README.md) shellcheck
+
+- [20221007205652](/zet/20221007205652/README.md) find limit recusion depth
+
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
-- [20221007205652](/zet/20221007205652/README.md) find limit recusion depth
 - [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method
