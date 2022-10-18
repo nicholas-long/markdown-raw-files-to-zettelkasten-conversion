@@ -1,5 +1,7 @@
 # dirty cow privilege escalation working version
 
+- empty card from heading
+
 ` zet/20221003150878/README.md `
 
 # Related
@@ -13,4 +15,4 @@
 
 Tags:
 
-    #hacking #privesc #dirty 
+    #hacking #privesc #dirty #DEL

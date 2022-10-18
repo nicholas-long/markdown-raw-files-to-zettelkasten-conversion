@@ -37,7 +37,6 @@ kb/hacking/commands/hydra-ssh-command.md
 
 # Related
 
-- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221016233349](/zet/20221016233349/README.md) commits for day of 2022-03-22
 - [20221014185845](/zet/20221014185845/README.md) kb file named kb/hacking/commands/hydra-ssh-command.md
 - [20221014190034](/zet/20221014190034/README.md) kb file named kb/hacking/notes-template/notes.md

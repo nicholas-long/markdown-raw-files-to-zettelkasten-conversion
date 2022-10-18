@@ -5,6 +5,9 @@
   - update this link to save and track position during project.
   - make multiple passes
     - pass 1 - summary of changes
+      - check kb files
+        - make sure cards are linked to kb files they came from
+      - explore those cards and add links
 
 - procedure
   - start on first day
@@ -19,7 +22,6 @@
 
 # Related
 
-- [20221016233347](/zet/20221016233347/README.md) commits for day of 2022-03-21
 - [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221008042814](/zet/20221008042814/README.md) WIP

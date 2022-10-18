@@ -1,5 +1,10 @@
 # dirty cow privilege escalation
 
+- race condition invovlving files and memory pages that allows writing to arbitrary files
+- CVE-2016-5195
+- detected by linux exploit suggester and linpeas
+- https://dirtycow.ninja/
+
 ` zet/20221003150879/README.md `
 
 # Related
@@ -10,6 +15,7 @@
 - [20221003150878](/zet/20221003150878/README.md) dirty cow privilege escalation working version
 - ~/kb/hacking/priv-esc/dirty-cow-no-gcc.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- https://dirtycow.ninja/
 
 Tags:
 

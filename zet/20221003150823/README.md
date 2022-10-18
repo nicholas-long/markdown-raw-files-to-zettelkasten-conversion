@@ -7,6 +7,12 @@ hydra -L users -P passwords -e nsr $IP ssh -t 1
 
 # Related
 
+- [20221003150805](/zet/20221003150805/README.md) brute force default credentials ssh
+
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
+
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list
+
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 
 Tags:
