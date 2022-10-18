@@ -1,4 +1,5 @@
 # tar compress to zipped archive
+
 ```bash
 tar -czvf archive.tar.gz dirs_files
 ```
@@ -7,6 +8,8 @@ tar -czvf archive.tar.gz dirs_files
 
 # Related
 
+- [20221018174628](/zet/20221018174628/README.md) tar command
+
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221008215400](/zet/20221008215400/README.md) file
 - [20221006025356](/zet/20221006025356/README.md) linux
@@ -14,4 +17,4 @@ tar -czvf archive.tar.gz dirs_files
 
 Tags:
 
-    
+    #tar #command

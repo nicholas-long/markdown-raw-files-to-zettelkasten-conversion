@@ -30,6 +30,8 @@ kb/hacking/powershell/powershell-tricks.md
 
 # Related
 
+- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
+
 - [20221016233414](/zet/20221016233414/README.md) commits for day of 2022-04-13
 - [20221014190039](/zet/20221014190039/README.md) kb file named kb/hacking/powershell/powershell-tricks.md
 - [20221014190206](/zet/20221014190206/README.md) kb file named kb/linux/assorted-notes-and-tips.md

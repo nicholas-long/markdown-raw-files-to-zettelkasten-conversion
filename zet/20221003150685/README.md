@@ -7,7 +7,13 @@ xxd -r -ps
 
 # Related
 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221018175658](/zet/20221018175658/README.md) hexadecimal hex
+
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
+
+- [20221003151299](/zet/20221003151299/README.md) bash tricks
+
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 
 Tags:
 

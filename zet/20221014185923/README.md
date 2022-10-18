@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221003150685](/zet/20221003150685/README.md) decode hex on command line
+
 - [20221016233437](/zet/20221016233437/README.md) commits for day of 2022-05-04
 - [20221016233410](/zet/20221016233410/README.md) commits for day of 2022-04-11
 - [20221009014200](/zet/20221009014200/README.md) concept of a command

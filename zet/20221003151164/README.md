@@ -11,6 +11,8 @@
 
 # Related
 
+- [20221003150698](/zet/20221003150698/README.md) SNMP enumeration command
+
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003151214](/zet/20221003151214/README.md) got leaked files
 - [20221003151153](/zet/20221003151153/README.md) windows
