@@ -11,6 +11,12 @@ find /etc -writable 2>/dev/null
 
 # Related
 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
+
+- [20221006025356](/zet/20221006025356/README.md) linux
+
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
+
 - [20221003150194](/zet/20221003150194/README.md) set the bash prompt to use vi hotkeys
 - [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
 - [20221013173355](/zet/20221013173355/README.md) the process of enumerating a target
@@ -18,7 +24,6 @@ find /etc -writable 2>/dev/null
 - [20221003150892](/zet/20221003150892/README.md) get all root process IDs
 - [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150919](/zet/20221003150919/README.md) linux enumeration quick commands list all recursively with ls sorting by modification date within directories
 - [20221003150918](/zet/20221003150918/README.md) linux enumeration quick commands enumerate open ports if `ss` is not present
 - [20221003150917](/zet/20221003150917/README.md) linux enumeration quick commands process tree ps

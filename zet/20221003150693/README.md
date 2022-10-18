@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS
+
 - [20221014185921](/zet/20221014185921/README.md) kb file named kb/hacking/commands/wpscan-command.md
 - [20221003150694](/zet/20221003150694/README.md) wpscan
 - [20221003150692](/zet/20221003150692/README.md) wpscan initial all plugins passive scan
