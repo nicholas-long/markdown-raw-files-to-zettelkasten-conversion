@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221017182222](/zet/20221017182222/README.md) bruteforcing or password spraying tools
 - [20221017182053](/zet/20221017182053/README.md) hydra
 - [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md
