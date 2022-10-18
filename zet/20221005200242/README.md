@@ -336,7 +336,6 @@ this is a list of possibly empty zettels.
 - [20221003150174](/zet/20221003150174/README.md) less
 - [20221003150173](/zet/20221003150173/README.md) less replay script log
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities
-- [20221003150168](/zet/20221003150168/README.md) dump process memory
 - [20221003150165](/zet/20221003150165/README.md) linux job control
 - [20221003150162](/zet/20221003150162/README.md) git config settings
 - [20221003150159](/zet/20221003150159/README.md) upgrade when apt is causing problems

@@ -23,7 +23,8 @@ kb/linux/dump-process-memory.md
 
 # Related
 
-- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
+- [20221006214348](/zet/20221006214348/README.md) ippsec
+
 - [20221016233404](/zet/20221016233404/README.md) commits for day of 2022-04-07
 - [20221014190151](/zet/20221014190151/README.md) kb file named kb/linux/dump-process-memory.md
 - [20221014185849](/zet/20221014185849/README.md) kb file named kb/hacking/commands/wfuzz-fuzzing.md
