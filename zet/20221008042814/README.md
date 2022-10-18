@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221018201513](/zet/20221018201513/README.md) make a script to get the context of a card - word counts
 - [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
 - [20221018161819](/zet/20221018161819/README.md) did i link a bunch of weird enumeration stuff together?
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands

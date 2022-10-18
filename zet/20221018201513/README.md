@@ -31,10 +31,9 @@ mv contextscript zet/20221018201513/
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221008042814](/zet/20221008042814/README.md) WIP
-
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
-
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 
 Tags:
