@@ -5,6 +5,11 @@
 - searchable markdown content i was using for a template search engine fzf alias
 - converted to this zettelkasten
 
+```
+zet/20221014150222/list_of_kb_files
+zet/20221014150222/kb_references
+```
+
 ` zet/20221003151443/README.md `
 
 # Related

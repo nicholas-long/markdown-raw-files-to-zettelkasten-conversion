@@ -3,6 +3,8 @@
 - concept of `figure out how to associate kb files that got moved`
 
 ```
+zet/20221014150222/list_of_kb_files
+zet/20221014150222/kb_references
 ```
 
 ` zet/20221017030222/README.md `
