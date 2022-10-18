@@ -46,7 +46,6 @@
 # Related
 
 - [20221018022719](/zet/20221018022719/README.md) testing netbook charging
-
 - [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
 - [20221015173720](/zet/20221015173720/README.md) touchscreen concept
 - [20221015172248](/zet/20221015172248/README.md) how to fix ubuntu gnome not remembering screen rotation on One Mix netbook?
