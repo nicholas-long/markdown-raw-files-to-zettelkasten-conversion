@@ -9,6 +9,7 @@ bind '"\e[21~":"coyote"'
 # other examples
 bind '"\e[24~":"\C-k \C-upwd\n"'
 ```
+- this binding syntax is the same as in the `~/.inputrc` file
 
 ` zet/20221018050302/README.md `
 
