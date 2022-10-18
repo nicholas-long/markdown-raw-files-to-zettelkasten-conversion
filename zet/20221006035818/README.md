@@ -101,6 +101,7 @@ these videos are called "beginner boost" but they are filled with incredibly use
     - go executables do not execute bash functions
   - tip: precede anything with `\` in bash to disable aliases / functions ( only run commands )
     - ex (me): `ls` is aliased on all debian systems, try out `\ls`
+  - export = pass var to all programs started in script
   - asdf @ `00:00:00`
 
 ` zet/20221006035818/README.md `

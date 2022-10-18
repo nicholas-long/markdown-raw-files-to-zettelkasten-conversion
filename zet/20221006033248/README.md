@@ -12,6 +12,8 @@
 
 # Related
 
+- [20221003150651](/zet/20221003150651/README.md) kubernetes
+
 - [20221018182017](/zet/20221018182017/README.md) read bash man page
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 - [20221014205906](/zet/20221014205906/README.md) coding in golang
