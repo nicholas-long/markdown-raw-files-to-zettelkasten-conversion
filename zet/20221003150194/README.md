@@ -1,8 +1,13 @@
 # set the bash prompt to use vi hotkeys
-run from .bashrc or .zshrc to enable all the time
+
 ```bash
 set -o vi
 ```
+- run from .bashrc or .zshrc to enable all the time
+- use `/` to search bash history instead of ctrl R
+  - edit the line with vi hotkeys
+- push `v` to open the line in EDITOR instead of visual mode
+  - zsh implements actual visual mode on the terminal, but it breaks things when used in combination with kali default zsh history completion
 
 ` zet/20221003150194/README.md `
 

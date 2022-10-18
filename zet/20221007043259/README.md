@@ -29,6 +29,7 @@
 - concept or hub card permalinks could be translated to other languages and still convey meaning
   - spoken languages
   - i.e. the hub for programs is still a list of programs if its title is changed
+- context/frame could be represented as the depth you have to traverse from any card to find a set of specific keywords ?
 
 ## move this stuff to cards it is growing kinda big
 

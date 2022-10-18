@@ -9,6 +9,11 @@
         - make sure cards are linked to kb files they came from
       - explore those cards and add links
       - clean up *some* of the empty zettel issues
+    - ideas for pass 2
+      - video notes in commits that have "start/end of ippxyz video asdfjkl"
+        - check day boundaries
+        - associate with streamers
+        - add boxes to retired boxes and associate with files
 
 - procedure
   - start on first day

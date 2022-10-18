@@ -88,6 +88,19 @@ these videos are called "beginner boost" but they are filled with incredibly use
   - why to use `command -v` instead of `which` in scripts - safer - make a card?
     - which can return false positives
   - tip: exporting a specific PATH in scripts to avoid getting hacked
+  - tip: "can find things to exploit by searching github for 'usr/bin/env'" @ `00:53:20`
+    - good idea for a project ?
+  - "go banzai utility monoliths, which is a term i invented to deal with the dangerous problem of having a bunch of bash scripts"
+  - understand when to use functions or commands or (not?) aliases
+  - zettelkasten example workflow @ `00:57:00`
+  - "cd path" @ `01:00:40` - ?!
+  - aliases don't work in vim filters unless you have configured aliases to behave like commands
+    - sounds sketch
+    - use executable scripts instead though
+  - could `export -f` to export functions to be able to run as commands from a shell exec - not ideal @ `01:06:00`
+    - go executables do not execute bash functions
+  - tip: precede anything with `\` in bash to disable aliases / functions ( only run commands )
+    - ex (me): `ls` is aliased on all debian systems, try out `\ls`
   - asdf @ `00:00:00`
 
 ` zet/20221006035818/README.md `
