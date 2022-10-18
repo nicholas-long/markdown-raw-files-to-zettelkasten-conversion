@@ -8,8 +8,8 @@
 
 # Related
 
+- [20221003151164](/zet/20221003151164/README.md) SNMP
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
-
 - [20221014185920](/zet/20221014185920/README.md) kb file named kb/hacking/commands/snmp-enumeration-commands.md
 - [20221013173355](/zet/20221013173355/README.md) enumeration - the process of enumerating a target
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub

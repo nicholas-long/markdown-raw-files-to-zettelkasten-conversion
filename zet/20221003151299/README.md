@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150685](/zet/20221003150685/README.md) decode hex on command line
 - [20221003151321](/zet/20221003151321/README.md) get current date - linux bash scripting
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash
 - [20221003150194](/zet/20221003150194/README.md) set the bash prompt to use vi hotkeys

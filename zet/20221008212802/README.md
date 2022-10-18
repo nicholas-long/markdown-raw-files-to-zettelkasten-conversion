@@ -6,6 +6,7 @@ the concept of a `program`
 
 # Related
 
+- [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221018152638](/zet/20221018152638/README.md) virtualbox
 - [20221003150791](/zet/20221003150791/README.md) openssl
 - [20221018152809](/zet/20221018152809/README.md) VM hypervisor or manager or player or host software

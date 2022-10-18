@@ -16,6 +16,7 @@ tar -czvf bettercap-pkg.tar *.deb
 
 # Related
 
+- [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221008215400](/zet/20221008215400/README.md) file
 - [20221006025730](/zet/20221006025730/README.md) apt repositories

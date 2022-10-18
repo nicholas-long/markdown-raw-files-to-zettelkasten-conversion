@@ -6,6 +6,7 @@ linux reference links and concepts
 
 # Related
 
+- [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221003150168](/zet/20221003150168/README.md) dump process memory on linux
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy

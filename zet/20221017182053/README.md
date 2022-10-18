@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150807](/zet/20221003150807/README.md) brute force default credentials
 - [20221017182222](/zet/20221017182222/README.md) bruteforcing or password spraying tools
 - [20221008215655](/zet/20221008215655/README.md) user account
 - [20221008215530](/zet/20221008215530/README.md) username

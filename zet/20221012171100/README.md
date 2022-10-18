@@ -11,6 +11,8 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221018175658](/zet/20221018175658/README.md) hexadecimal hex
+- [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221018161819](/zet/20221018161819/README.md) did i link a bunch of weird enumeration stuff together?
 - [20221018160416](/zet/20221018160416/README.md) credential harvesting concept
 - [20221018155432](/zet/20221018155432/README.md) cyberpunk library

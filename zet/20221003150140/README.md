@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221014190201](/zet/20221014190201/README.md) kb file named kb/linux/utilities-packages.md
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools

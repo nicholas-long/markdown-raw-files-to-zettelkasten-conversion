@@ -17,7 +17,6 @@ kb/hacking/commands/hydra-default-credentials.md
 # Related
 
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d
-
 - [20221016233407](/zet/20221016233407/README.md) commits for day of 2022-04-09
 - [20221014185851](/zet/20221014185851/README.md) kb file named kb/hacking/commands/hydra-default-credentials.md
 - [20221016233404](/zet/20221016233404/README.md) commits for day of 2022-04-07

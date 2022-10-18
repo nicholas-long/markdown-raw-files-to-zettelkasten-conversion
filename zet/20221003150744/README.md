@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150807](/zet/20221003150807/README.md) brute force default credentials
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221014185908](/zet/20221014185908/README.md) kb file named kb/hacking/commands/hydra.md
 - [20221003150347](/zet/20221003150347/README.md) bruteforcing services
