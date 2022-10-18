@@ -5,11 +5,8 @@
 # Related
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
-
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list
-
 - [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force
-
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150805](/zet/20221003150805/README.md) brute force default credentials ssh
 - [20221003150249](/zet/20221003150249/README.md) Apache guacamole RDP VNC SSH in web browser default creds

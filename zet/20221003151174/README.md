@@ -17,6 +17,8 @@
 
 # Related
 
+- [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force
+- [20221003150346](/zet/20221003150346/README.md) SSH brute force
 - [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221014185628](/zet/20221014185628/README.md) kb file named kb/hacking/to-try-lists/SSH.md

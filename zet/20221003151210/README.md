@@ -91,6 +91,8 @@
 
 # Related
 
+- [20221003150346](/zet/20221003150346/README.md) SSH brute force
+- [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
 - [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis
