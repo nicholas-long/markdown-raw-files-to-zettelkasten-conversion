@@ -13,6 +13,7 @@ set -o vi
 
 # Related
 
+- [20221018190312](/zet/20221018190312/README.md) bash scripting workflow
 - [20221014190137](/zet/20221014190137/README.md) kb file named kb/linux/edit-bash-prompt-vi-hotkeys.md
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow

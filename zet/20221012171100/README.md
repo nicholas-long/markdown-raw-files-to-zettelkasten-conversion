@@ -11,6 +11,8 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221018193528](/zet/20221018193528/README.md) bash shell builtin commands
+- [20221018190312](/zet/20221018190312/README.md) bash scripting workflow
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221018182017](/zet/20221018182017/README.md) read bash man page
 - [20221018175658](/zet/20221018175658/README.md) hexadecimal hex

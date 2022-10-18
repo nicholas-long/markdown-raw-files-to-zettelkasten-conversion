@@ -15,6 +15,7 @@ bind '"\e[24~":"\C-k \C-upwd\n"'
 
 # Related
 
+- [20221018190312](/zet/20221018190312/README.md) bash scripting workflow
 - [20221018155432](/zet/20221018155432/README.md) cyberpunk library
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept
 - [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles

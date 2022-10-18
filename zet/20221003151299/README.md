@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221018190312](/zet/20221018190312/README.md) bash scripting workflow
+- [20221018193528](/zet/20221018193528/README.md) bash shell builtin commands
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221018182017](/zet/20221018182017/README.md) read bash man page
 - [20221003150685](/zet/20221003150685/README.md) decode hex on command line

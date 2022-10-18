@@ -21,6 +21,7 @@
 
 # Related
 
+- [20221018193528](/zet/20221018193528/README.md) bash shell builtin commands
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos
 - [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump

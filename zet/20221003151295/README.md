@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221018190312](/zet/20221018190312/README.md) bash scripting workflow
 - [20221003151294](/zet/20221003151294/README.md) debugging bash in visual studio code
 - [20221003151293](/zet/20221003151293/README.md) debugging bash in terminal
 - [20221008081231](/zet/20221008081231/README.md) debugging
