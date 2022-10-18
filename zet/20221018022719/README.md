@@ -2,6 +2,9 @@
 
 - concept of `testing netbook charging`
 - 9:25PM 86% ordinary usb-C
+- 10:25PM 85%
+- experiment failed: cannot use ordinary USB-C to charge the netbook while sleeping. needs original charging cube.
+- test the cube plus a different cable?
 
 ```
 ```
