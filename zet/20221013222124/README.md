@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150168](/zet/20221003150168/README.md) dump process memory on linux
 - [20221003150862](/zet/20221003150862/README.md) SSH arguments
 - [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux
 - [20221003151271](/zet/20221003151271/README.md) docker cleanup

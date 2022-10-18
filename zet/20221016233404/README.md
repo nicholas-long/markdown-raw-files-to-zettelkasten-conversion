@@ -24,7 +24,6 @@ kb/linux/tar-commands.md
 # Related
 
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
-
 - [20221016233406](/zet/20221016233406/README.md) commits for day of 2022-04-08
 - [20221014190204](/zet/20221014190204/README.md) kb file named kb/linux/tar-commands.md
 - [20221014185849](/zet/20221014185849/README.md) kb file named kb/hacking/commands/wfuzz-fuzzing.md

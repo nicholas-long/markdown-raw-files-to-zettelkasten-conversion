@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221014185935](/zet/20221014185935/README.md) kb file named kb/hacking/commands/wfuzz-commands.md
 - [20221003150658](/zet/20221003150658/README.md) wfuzz dirbusting
