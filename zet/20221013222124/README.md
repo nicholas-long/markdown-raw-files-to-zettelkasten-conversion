@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux
 - [20221003151271](/zet/20221003151271/README.md) docker cleanup
 - [20221003150161](/zet/20221003150161/README.md) git config settings set up credential storage
 - [20221003150160](/zet/20221003150160/README.md) git config settings make merges smoother

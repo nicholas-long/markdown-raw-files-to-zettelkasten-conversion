@@ -6,6 +6,7 @@ linux reference links and concepts
 
 # Related
 
+- [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux
 - [20221015173433](/zet/20221015173433/README.md) gnome window manager
 - [20221015024136](/zet/20221015024136/README.md) cron
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
@@ -37,14 +38,14 @@ linux reference links and concepts
 - [20221003151164](/zet/20221003151164/README.md) SNMP
 - [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
-- [20221003151268](/zet/20221003151268/README.md) Lookup missing packages
+- [20221003151268](/zet/20221003151268/README.md) Lookup missing packages with command-not-found
 - [20221003151260](/zet/20221003151260/README.md) run windows exploit on linux using wine
 - [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
 - [20221003150632](/zet/20221003150632/README.md) list dpkg packages installed on a certain date
 - [20221003150202](/zet/20221003150202/README.md) fix grub not showing windows partition
 - [20221012135747](/zet/20221012135747/README.md) unix text editors
 - [20221012101349](/zet/20221012101349/README.md) ubuntu
-- [20221012094712](/zet/20221012094712/README.md) strange issues with sort and locale and tags
+- [20221012094712](/zet/20221012094712/README.md) linux sort issues with locale
 - [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
 - [20221012082959](/zet/20221012082959/README.md) discord
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
