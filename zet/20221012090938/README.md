@@ -45,16 +45,18 @@
 
 # Related
 
+- [20221018022719](/zet/20221018022719/README.md) testing netbook charging
+
 - [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
 - [20221015173720](/zet/20221015173720/README.md) touchscreen concept
-- [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
+- [20221015172248](/zet/20221015172248/README.md) how to fix ubuntu gnome not remembering screen rotation on One Mix netbook?
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
 - [20221013203732](/zet/20221013203732/README.md) feels like "being plugged into the matrix"
 - [20221012101349](/zet/20221012101349/README.md) ubuntu
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
-- [20221012094712](/zet/20221012094712/README.md) strange issues with sort and locale and tags
+- [20221012094712](/zet/20221012094712/README.md) linux sort issues with locale
 - [20221012090359](/zet/20221012090359/README.md) first post from netbook
 - link to product
 
