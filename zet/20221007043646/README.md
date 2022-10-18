@@ -108,6 +108,12 @@
 - it seems like it will be helpful to add links when browsing if you want to get somewhere instead of just searching and launching tabs
   - if things are related by context, utility?
 - git is really useful for storing your changes before running automated scripts that may clobber content
+- issue tracking
+  - a list - cards attached to a specific card can be considered "in a list". for example, a list of cards that need something fixed
+  - cards in a chain - a workflow process can store an index or position
+  - the issues themselves can have "pointers" or "lists" of other cards to work on
+  - able to leave off and come back at any point
+  - work can progress in 5-30 minute intervals - does not feel like work and can switch to something else if it does
 
 ` zet/20221007043646/README.md `
 
