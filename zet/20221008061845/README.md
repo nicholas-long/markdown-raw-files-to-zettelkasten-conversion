@@ -14,6 +14,7 @@ hub node for `workflow`
 
 # Related
 
+- [20221018155432](/zet/20221018155432/README.md) cyberpunk library
 - [20221018052621](/zet/20221018052621/README.md) how to process email programatically?
 - [20221009012547](/zet/20221009012547/README.md) Github UI tricks
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash

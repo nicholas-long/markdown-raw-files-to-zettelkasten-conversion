@@ -12,6 +12,7 @@ hacking notes hub
 
 # Related
 
+- [20221018155432](/zet/20221018155432/README.md) cyberpunk library
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221017182053](/zet/20221017182053/README.md) hydra
 - [20221017172946](/zet/20221017172946/README.md) LAN attacks
