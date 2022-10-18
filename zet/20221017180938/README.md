@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221017182222](/zet/20221017182222/README.md) bruteforcing or password spraying tools
 - [20221017182053](/zet/20221017182053/README.md) hydra
 - [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md

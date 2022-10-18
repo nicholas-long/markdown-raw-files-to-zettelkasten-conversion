@@ -16,12 +16,10 @@ tar -czvf bettercap-pkg.tar *.deb
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
-
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
-
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
-
 - [20221014190134](/zet/20221014190134/README.md) kb file named kb/linux/deb-dependencies.md
 
 Tags:

@@ -21,7 +21,6 @@ org >> gnome >> desktop >> input-sources
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221012090938](/zet/20221012090938/README.md) my One Mix netbook
 - https://askubuntu.com/a/365701
 

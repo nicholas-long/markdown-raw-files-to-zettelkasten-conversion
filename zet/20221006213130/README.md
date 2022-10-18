@@ -6,7 +6,8 @@ a list of hacking platforms for practice and education.
 
 # Related
 
-- [20221015010931](/zet/20221015010931/README.md) track box notes
+- [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
+- [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
