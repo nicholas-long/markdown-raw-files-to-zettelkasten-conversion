@@ -184,7 +184,6 @@ this is a list of possibly empty zettels.
 - [20221003150744](/zet/20221003150744/README.md) hydra brute force
 - [20221003150739](/zet/20221003150739/README.md) feroxbuster
 - [20221003150730](/zet/20221003150730/README.md) powershell
-- [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12
 - [20221003150720](/zet/20221003150720/README.md) curl
 - [20221003150717](/zet/20221003150717/README.md) packet capture
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump

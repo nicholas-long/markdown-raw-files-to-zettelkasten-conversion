@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221003151300](/zet/20221003151300/README.md) drop newlines from stream with tr
+
 - [20221016233356](/zet/20221016233356/README.md) commits for day of 2022-03-30
 - [20221003151443](/zet/20221003151443/README.md) kb
 
