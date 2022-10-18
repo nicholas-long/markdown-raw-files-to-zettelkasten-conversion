@@ -1,5 +1,20 @@
 # php filter LFI to iconv RCE
 
+- dope sauce - works on literally every PHP LFI box
+- requirements
+  - php filters are enabled
+  - know a valid file name
+    - even extensions appended by php script are OK - can use `...=index` and have it append `php`
+- i extended it to have cookie params because it usually needs it when customizing the exploit to the target
+- use original script
+  - [20221003151225](/zet/20221003151225/README.md) php filter LFI to iconv RCE original get 0 script
+  - i believe the other extended version from hacktricks has problems
+    - difficult to come up with base64 of code with no special chars -> should use space invader?
+- script uses `exec_passthru` using php backticks - this function could be disabled
+  - find other payloads?
+- process of prepending the text in reverse order is very esoteric and complex
+  - finding valid base64 prepending iconv sequences is not as easy as it appears to be programatically
+
 ` zet/20221003151226/README.md `
 
 # Related
