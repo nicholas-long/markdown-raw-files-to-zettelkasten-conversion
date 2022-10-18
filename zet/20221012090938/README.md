@@ -1,5 +1,6 @@
 # my One Mix netbook
 
+- One Mix 2S
 - basically a cyberdeck
   - usable touchscreen linux system
   - size of mini tablet screen with full intel/amd PC
@@ -9,14 +10,13 @@
     - windows 11 might be okay for it but 10 wasn't great
   - touchscreen works in alacritty and some other terminal emulators
     - not for scrolling, for highlighting or selecting / clicking
+  - similar to GPD pocket https://gpd.hk/gpdpocket
 
 - setup steps and fixing issues
   - screen rotation: by default, ubuntu does not remember screen rotation - set to normal
     - [fix](/zet/20221015172248/README.md) by creating a file for a hardware sensor
   - standby and sleeping issues: set "screen blank" in power to Never - fixed!
     - [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
-
-- can i remap caps lock to esc?
 
 - problems
   - only one usb
@@ -38,12 +38,19 @@
   - serial converter
   - gps
 
+- original amazon description
 ```
+One Netbook One Mix 2S Yoga 7" Pocket Laptop Win 10 OS Portable Mini Laptop CPU Core M3-8100Y Laptop Touch Screen Tablet PC 8GB/256GB+2048 Level Original Stylus Pen
 ```
+
+- low power mode with esc key?
+  - "Interestingly One Netbook didn’t bother putting a new shortcut on the keyboard for that feature — you press Fn+Esc to enable quiet mode, and the graphic on the Esc key is identical to the one the company used for the keyboard backlight control on the original One Mix"
 
 ` zet/20221012090938/README.md `
 
 # Related
+
+- [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux?
 
 - [20221018022719](/zet/20221018022719/README.md) testing netbook charging
 - [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
@@ -57,7 +64,8 @@
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [20221012094712](/zet/20221012094712/README.md) linux sort issues with locale
 - [20221012090359](/zet/20221012090359/README.md) first post from netbook
-- link to product
+- https://liliputing.com/one-netbook-one-mix-2s-review/
+- https://www.amazon.com/gp/product/B07L7DVDL3
 
 Tags:
 
