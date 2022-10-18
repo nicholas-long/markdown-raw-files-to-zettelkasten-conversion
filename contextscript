@@ -1,6 +1,16 @@
 #!/bin/bash
 
-export id=$1
+if [ -z "$1" ]; then
+  echo "Usage $0 (ID | path to README.md)"
+  exit 1
+fi
+
+if [ -f "$1" ]; then # passing in file parameter
+  export id=$(echo "$1" | awk -F / '{ print $(NF-1) }')
+else
+  export id=$1
+fi
+
 awk '
 BEGIN {
   id = ENVIRON["id"]
@@ -25,6 +35,21 @@ BEGIN {
   }
   close(command)
 
-
+  command = "head " file " | grep -Eo \047\\w+\047 | tr A-Z a-z"
+  while ((command | getline word) > 0) {
+    print weight * 5, word
+  }
+  close(command)
 }
-'
+' | awk '
+{
+  score = $1
+  word = $2
+  scores[word] = scores[word] + score
+}
+END {
+  for (w in scores) {
+    print scores[w], w
+  }
+}
+' | sort -n
