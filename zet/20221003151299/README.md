@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221018182017](/zet/20221018182017/README.md) read bash man page
 - [20221003150685](/zet/20221003150685/README.md) decode hex on command line
 - [20221003151321](/zet/20221003151321/README.md) get current date - linux bash scripting
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash

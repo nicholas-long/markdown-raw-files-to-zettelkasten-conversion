@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221018182017](/zet/20221018182017/README.md) read bash man page
 - [20221018175658](/zet/20221018175658/README.md) hexadecimal hex
 - [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221018161819](/zet/20221018161819/README.md) did i link a bunch of weird enumeration stuff together?
