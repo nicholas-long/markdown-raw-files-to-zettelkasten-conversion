@@ -1,4 +1,5 @@
 # get current date - linux bash scripting current year
+
 ```bash
 date +%Y
 ```

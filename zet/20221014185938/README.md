@@ -9,8 +9,10 @@
 
 # Related
 
-- [20221008042814](/zet/20221008042814/README.md) WIP
-- [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
+- [20221003150648](/zet/20221003150648/README.md) nmap
+
+- [20221003150644](/zet/20221003150644/README.md) nmap all ports command
+
 - [20221016233401](/zet/20221016233401/README.md) commits for day of 2022-04-03
 - [20221016233549](/zet/20221016233549/README.md) commits for day of 2022-07-07
 - [20221016233527](/zet/20221016233527/README.md) commits for day of 2022-06-18
@@ -20,8 +22,6 @@
 - [20221016233323](/zet/20221016233323/README.md) commits for day of 2022-02-25
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150637](/zet/20221003150637/README.md) nmap check for mountable NFS shares test access
-- [20221003150644](/zet/20221003150644/README.md) nmap all ports command
-- [20221003150648](/zet/20221003150648/README.md) nmap
 - [20221003150643](/zet/20221003150643/README.md) nmap all ports command quick
 - [20221003150646](/zet/20221003150646/README.md) nmap flags extra fast options
 - [20221003150638](/zet/20221003150638/README.md) nmap check for mountable NFS shares

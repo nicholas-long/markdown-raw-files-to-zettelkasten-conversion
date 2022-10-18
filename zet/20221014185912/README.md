@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal
+
 - [20221016233357](/zet/20221016233357/README.md) commits for day of 2022-03-31
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003151443](/zet/20221003151443/README.md) kb

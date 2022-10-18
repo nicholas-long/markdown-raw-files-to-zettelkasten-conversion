@@ -49,7 +49,6 @@ this is a list of possibly empty zettels.
 - [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
 - [20221003151328](/zet/20221003151328/README.md) bash scripting convert text strings or wordlists
 - [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database
-- [20221003151321](/zet/20221003151321/README.md) get current date - linux bash scripting
 - [20221003151318](/zet/20221003151318/README.md) bash parse xml cli
 - [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax
 - [20221003151309](/zet/20221003151309/README.md) expect scripts
@@ -169,7 +168,6 @@ this is a list of possibly empty zettels.
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file
 - [20221003150791](/zet/20221003150791/README.md) openssl
-- [20221003150786](/zet/20221003150786/README.md) enum4linux
 - [20221003150780](/zet/20221003150780/README.md) crowbar
 - [20221003150777](/zet/20221003150777/README.md) MSFVENOM
 - [20221003150776](/zet/20221003150776/README.md) MSFVENOM Windows Binary (.exe) executable

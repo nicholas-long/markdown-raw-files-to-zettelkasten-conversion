@@ -8,7 +8,9 @@ nmap --script smb-vuln* $IP
 
 # Related
 
-- [20221003151198](/zet/20221003151198/README.md) SMB
+- [20221003151017](/zet/20221003151017/README.md) nmap scripts
+
+- [20221003151198](/zet/20221003151198/README.md) SMB to try list
 - [20221003150835](/zet/20221003150835/README.md) smb mount share old SMBv1 share
 - [20221003150568](/zet/20221003150568/README.md) SMB List Drives (Execute on Victim)
 - [20221003150567](/zet/20221003150567/README.md) SMB Copy Files (Execute on Victim)

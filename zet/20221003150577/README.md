@@ -41,10 +41,12 @@ fclose($myfile);
 
 # Related
 
+- [20221018160416](/zet/20221018160416/README.md) credential harvesting concept
+
 - [20221008215655](/zet/20221008215655/README.md) user account
 - [20221008215530](/zet/20221008215530/README.md) username
 - [20221008215325](/zet/20221008215325/README.md) password
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 
 Tags:
 

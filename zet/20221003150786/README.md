@@ -1,8 +1,20 @@
 # enum4linux
 
+- scan host
+```bash
+enum4linux $IP
+```
+
+- enumerate SMB shares and permissions
+```bash
+enum4linux -A $IP
+```
+
 ` zet/20221003150786/README.md `
 
 # Related
+
+- [20221018161819](/zet/20221018161819/README.md) did i link a bunch of weird enumeration stuff together?
 
 - [20221014185858](/zet/20221014185858/README.md) kb file named kb/hacking/commands/enum4linux-command.md
 - [20221013173355](/zet/20221013173355/README.md) the process of enumerating a target
@@ -12,7 +24,6 @@
 - [20221003150785](/zet/20221003150785/README.md) enum4linux enumerate SMB shares and permissions
 - [20221003150784](/zet/20221003150784/README.md) enum4linux Scan Host
 - ~/kb/hacking/commands/enum4linux-command.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

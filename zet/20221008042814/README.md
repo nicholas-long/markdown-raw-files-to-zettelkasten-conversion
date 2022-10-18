@@ -9,7 +9,6 @@ stuff i am working on.
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash
 - [20221018020643](/zet/20221018020643/README.md) what is hadoop for?
-- [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md
 - [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
 - [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process

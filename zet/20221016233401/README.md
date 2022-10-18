@@ -33,6 +33,8 @@ kb/hacking/commands/nmap-command.md
 
 # Related
 
+- [20221006215135](/zet/20221006215135/README.md) siren
+
 - [20221016233402](/zet/20221016233402/README.md) commits for day of 2022-04-05
 - [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md
 - [20221014185836](/zet/20221014185836/README.md) kb file named kb/hacking/commands/nmap-vuln-scan.md

@@ -1,8 +1,9 @@
 # enum4linux enumerate SMB shares and permissions
+
 ```bash
 enum4linux -A $IP
-
 ```
+
 ` zet/20221003150785/README.md `
 
 # Related

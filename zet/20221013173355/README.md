@@ -1,4 +1,4 @@
-# the process of enumerating a target
+# enumeration - the process of enumerating a target
 
 - concept of `the process of enumerating a target`
 
