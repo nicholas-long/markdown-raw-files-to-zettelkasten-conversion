@@ -21,6 +21,8 @@ tips:
 
 # Related
 
+- [20221008061845](/zet/20221008061845/README.md) workflow
+
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten
