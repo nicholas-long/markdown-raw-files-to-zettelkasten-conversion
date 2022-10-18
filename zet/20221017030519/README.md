@@ -8,6 +8,7 @@
       - check kb files
         - make sure cards are linked to kb files they came from
       - explore those cards and add links
+      - clean up *some* of the empty zettel issues
 
 - procedure
   - start on first day
