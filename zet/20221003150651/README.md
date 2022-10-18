@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221014185936](/zet/20221014185936/README.md) kb file named kb/hacking/commands/kubernetes.md
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221003150650](/zet/20221003150650/README.md) kubernetes kubectl
