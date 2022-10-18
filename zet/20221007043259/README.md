@@ -22,6 +22,9 @@
   - link to external things (i.e. vulnerable funcetions, etc.)
 - link github projects to cards that grow big?
 - combine content with best link titles for searching
+- automatically import stackoverflow answers to zettelkasten
+  - find data set ?
+- mermaid diagrams
 
 ## move this stuff to cards it is growing kinda big
 
