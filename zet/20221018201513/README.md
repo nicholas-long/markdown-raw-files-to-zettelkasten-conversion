@@ -1,6 +1,7 @@
 # make a script to get the context of a card - word counts
 
 - concept of `make a script to get the context of a card - word counts`
+- working version with scores of linked cards is stored at `zet/20221018201513/contextscript`
 
 ```
 
@@ -23,6 +24,7 @@ function refs(id, level) {
 }
 '
 
+mv contextscript zet/20221018201513/
 ```
 
 ` zet/20221018201513/README.md `
