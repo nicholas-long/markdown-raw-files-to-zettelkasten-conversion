@@ -24,6 +24,7 @@
 
 # Related
 
+- [20221014185510](/zet/20221014185510/README.md) kb file named kb/ascii/coyote0x90.md
 - [20221016233356](/zet/20221016233356/README.md) commits for day of 2022-03-30
 - [20221003151443](/zet/20221003151443/README.md) kb
 

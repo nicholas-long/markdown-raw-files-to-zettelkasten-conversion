@@ -10,7 +10,6 @@
 # Related
 
 - [20221003150198](/zet/20221003150198/README.md) control key mappings for sh
-
 - [20221016233331](/zet/20221016233331/README.md) commits for day of 2022-03-07
 - [20221003151443](/zet/20221003151443/README.md) kb
 
