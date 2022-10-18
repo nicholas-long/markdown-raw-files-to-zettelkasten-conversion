@@ -1,6 +1,8 @@
 # kb file named kb/hacking/notes-template/notes.md
 
 - concept of `kb file named kb/hacking/notes-template/notes.md`
+- hacking notes template - main page wtih IPs and hostnames
+- eventually added "overview" section to this page
 
 ```
 ```

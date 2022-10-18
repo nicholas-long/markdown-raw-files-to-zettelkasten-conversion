@@ -1,6 +1,9 @@
 # commits for day of 2022-03-11
 
 - concept of `commits for day of 2022-03-11`
+- editing ascii art in vim
+- the `deb-dependencies.md` was the experimental project of packaging up an install and all of its deb dependencies into a tar file to install on a compromised target with no outside internet access.
+  - recovered this file and created a card - it is pretty neat
 
 ```
 
