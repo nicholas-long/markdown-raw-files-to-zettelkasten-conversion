@@ -51,6 +51,8 @@ Options:
 
 # Related
 
+- [20221018201513](/zet/20221018201513/README.md) make a script to get the context of a card - word counts
+
 - [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
@@ -86,7 +88,7 @@ Options:
 - [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
 - [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn
 - [20221012102144](/zet/20221012102144/README.md) preview window for menu
-- [20221012094712](/zet/20221012094712/README.md) strange issues with sort and locale and tags
+- [20221012094712](/zet/20221012094712/README.md) linux sort issues with locale
 - [20221012090359](/zet/20221012090359/README.md) first post from netbook
 - [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
 - [20221007193324](/zet/20221007193324/README.md) github actions

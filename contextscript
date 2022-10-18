@@ -1,0 +1,30 @@
+#!/bin/bash
+
+export id=$1
+awk '
+BEGIN {
+  id = ENVIRON["id"]
+  print 2, id
+  ids[id] = 1
+  command = "./zc refs " id " 2>/dev/null"
+  while ((command | getline nextid) > 0) {
+    ids[nextid] = 1
+  }
+  close(command)
+  for (i in ids) print 1, i
+}
+' | awk '
+{
+  weight = $1
+  id = $2
+
+  file = "zet/" id "/README.md" 
+  command = "grep -Eo \047\\w+\047 " file " | tr A-Z a-z"
+  while ((command | getline word) > 0) {
+    print weight, word
+  }
+  close(command)
+
+
+}
+'
