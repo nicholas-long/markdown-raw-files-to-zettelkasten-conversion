@@ -6,6 +6,7 @@ linux reference links and concepts
 
 # Related
 
+- [20221018050715](/zet/20221018050715/README.md) dotfiles concept
 - [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux
 - [20221015173433](/zet/20221015173433/README.md) gnome window manager
 - [20221015024136](/zet/20221015024136/README.md) cron

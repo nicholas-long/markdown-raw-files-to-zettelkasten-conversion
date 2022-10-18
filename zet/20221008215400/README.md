@@ -8,6 +8,7 @@ the concept of a `file`
 
 # Related
 
+- [20221018050715](/zet/20221018050715/README.md) dotfiles concept
 - [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
 - [20221003151325](/zet/20221003151325/README.md) Capture screenshot of url "utility to capture WebKit's rendering of a web page"
 - [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores

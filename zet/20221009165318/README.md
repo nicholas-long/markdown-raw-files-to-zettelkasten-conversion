@@ -17,8 +17,8 @@ the concept of `putting zet cmd script in dotfiles`
 
 # Related
 
+- [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept
-
 - [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221009014200](/zet/20221009014200/README.md) concept of a command

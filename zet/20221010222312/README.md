@@ -9,6 +9,7 @@ the concept of `tmux workflow`
 
 # Related
 
+- [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash
 - [20221003150194](/zet/20221003150194/README.md) set the bash prompt to use vi hotkeys
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
