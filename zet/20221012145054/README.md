@@ -1,7 +1,9 @@
 # things you can organize in personal life in private zettel notes
 
 - projects
+  - bug bounties can connect to hacking notes
 - people
+  - contact list can link to info about organizations
 - email
 - investments
   - track implied volatility
@@ -13,7 +15,11 @@
 - local stores
 - todo lists
   - chores -> list items or links to add items
-  - projects -> link to the project
+  - todo list inboxes for each project -> link to the project
+    - todo
+    - WIP
+    - testing?
+    - finished
 
 ```
 ```
