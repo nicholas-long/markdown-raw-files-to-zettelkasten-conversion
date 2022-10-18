@@ -21,6 +21,7 @@
 
 # Related
 
+- [20221018201513](/zet/20221018201513/README.md) make a script to get the context of a card - word counts
 - [20221018155432](/zet/20221018155432/README.md) cyberpunk library
 - [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten

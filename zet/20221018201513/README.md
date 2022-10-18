@@ -32,11 +32,8 @@ mv contextscript zet/20221018201513/
 # Related
 
 - [20221014070023](/zet/20221014070023/README.md) findings from implementing deep connectome search
-
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
-
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
-
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting

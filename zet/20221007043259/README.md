@@ -101,6 +101,7 @@
 
 # Related
 
+- [20221018201513](/zet/20221018201513/README.md) make a script to get the context of a card - word counts
 - [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
 - [20221015011227](/zet/20221015011227/README.md) make writeups from cards
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
