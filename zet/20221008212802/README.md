@@ -6,6 +6,7 @@ the concept of a `program`
 
 # Related
 
+- [20221003150798](/zet/20221003150798/README.md) git
 - [20221003150176](/zet/20221003150176/README.md) ex editor
 - [20221017070405](/zet/20221017070405/README.md) docker compose
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?

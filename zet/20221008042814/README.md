@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash
 - [20221018020643](/zet/20221018020643/README.md) what is hadoop for?
 - [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md
