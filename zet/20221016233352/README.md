@@ -1,6 +1,7 @@
 # commits for day of 2022-03-24
 
 - concept of `commits for day of 2022-03-24`
+- faster nmap speed optimization options
 
 ```
 
@@ -36,6 +37,8 @@ kb/hacking/priv-esc/windows-dll-hijack.md
 ` zet/20221016233352/README.md `
 
 # Related
+
+- [20221006214348](/zet/20221006214348/README.md) ippsec
 
 - [20221016233354](/zet/20221016233354/README.md) commits for day of 2022-03-27
 - [20221014185807](/zet/20221014185807/README.md) kb file named kb/hacking/priv-esc/windows-dll-hijack.md

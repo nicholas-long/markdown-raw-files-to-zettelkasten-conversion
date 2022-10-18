@@ -14,4 +14,4 @@ hydra $IP http-get -L users  -P /usr/share/seclists/Passwords/Leaked-Databases/r
 
 Tags:
 
-    #command #hacking #hydra 
+    #command #hacking #hydra #DEL

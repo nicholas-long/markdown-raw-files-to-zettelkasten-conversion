@@ -26,6 +26,9 @@
   - find data set ?
 - mermaid diagrams
 - if you keep small notes about physical todo items and chores, like moving things around or organizing things, then you can google where stuff is in your notes if you lose something?
+- concept or hub card permalinks could be translated to other languages and still convey meaning
+  - spoken languages
+  - i.e. the hub for programs is still a list of programs if its title is changed
 
 ## move this stuff to cards it is growing kinda big
 
