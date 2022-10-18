@@ -15,7 +15,6 @@
 # Related
 
 - [20221008215655](/zet/20221008215655/README.md) user account
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash
 - [20221008215400](/zet/20221008215400/README.md) file
 - [20221008213254](/zet/20221008213254/README.md) file path

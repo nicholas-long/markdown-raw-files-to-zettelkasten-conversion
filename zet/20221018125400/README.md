@@ -17,15 +17,10 @@ tar -czvf bettercap-pkg.tar *.deb
 # Related
 
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
-
 - [20221008215400](/zet/20221008215400/README.md) file
-
 - [20221006025730](/zet/20221006025730/README.md) apt repositories
-
 - [20221006025356](/zet/20221006025356/README.md) linux
-
 - [20221003150140](/zet/20221003150140/README.md) apt package
-
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool

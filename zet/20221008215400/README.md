@@ -8,6 +8,7 @@ the concept of a `file`
 
 # Related
 
+- [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept
 - [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
 - [20221003151325](/zet/20221003151325/README.md) Capture screenshot of url "utility to capture WebKit's rendering of a web page"

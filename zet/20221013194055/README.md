@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
 - [20221003151275](/zet/20221003151275/README.md) install docker compose cli extension
 - [20221003150181](/zet/20221003150181/README.md) install alacritty  fix build errors

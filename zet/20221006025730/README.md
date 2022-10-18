@@ -6,6 +6,7 @@ page for apt repositories
 
 # Related
 
+- [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221003150157](/zet/20221003150157/README.md) upgrade when apt is causing problems fix error "the following signatures couldn’t be verified because the public key is not available"
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
