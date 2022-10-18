@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150833](/zet/20221003150833/README.md) responder
