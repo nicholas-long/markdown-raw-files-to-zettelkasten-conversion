@@ -14,6 +14,7 @@ hub node for `workflow`
 
 # Related
 
+- [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux?
 - [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf
 - [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams
 - [20221015172248](/zet/20221015172248/README.md) how to fix ubuntu gnome not remembering screen rotation on One Mix netbook?
