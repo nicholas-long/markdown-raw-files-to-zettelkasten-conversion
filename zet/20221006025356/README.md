@@ -6,6 +6,7 @@ linux reference links and concepts
 
 # Related
 
+- [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221003150175](/zet/20221003150175/README.md) unix editor ex / ed example commands
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept

@@ -91,6 +91,7 @@
 
 # Related
 
+- [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
 - [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis
 - [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md

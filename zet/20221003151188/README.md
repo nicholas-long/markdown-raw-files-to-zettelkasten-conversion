@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221003150693](/zet/20221003150693/README.md) wpscan initial
 - [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL

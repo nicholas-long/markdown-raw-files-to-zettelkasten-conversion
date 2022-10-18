@@ -12,11 +12,8 @@ find /etc -writable 2>/dev/null
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
-
 - [20221006025356](/zet/20221006025356/README.md) linux
-
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
-
 - [20221003150194](/zet/20221003150194/README.md) set the bash prompt to use vi hotkeys
 - [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
 - [20221013173355](/zet/20221013173355/README.md) the process of enumerating a target

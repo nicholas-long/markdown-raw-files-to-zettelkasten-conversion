@@ -10,7 +10,6 @@
 # Related
 
 - [20221003150882](/zet/20221003150882/README.md) writing to and modifying setuid binaries
-
 - [20221016233346](/zet/20221016233346/README.md) commits for day of 2022-03-20
 - [20221003151443](/zet/20221003151443/README.md) kb
 
