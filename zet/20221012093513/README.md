@@ -4,6 +4,7 @@
 - add notes and connect stuff together for further research, just like this
 - jot down quick note
 - typing on this keyboard - not great for typing long notes
+- ctrl+touch a link on the screen = lauch browser
 
 ```
 ```
