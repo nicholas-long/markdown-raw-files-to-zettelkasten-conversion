@@ -50,7 +50,9 @@ One Netbook One Mix 2S Yoga 7" Pocket Laptop Win 10 OS Portable Mini Laptop CPU 
 
 # Related
 
-- [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux?
+- [20221018155432](/zet/20221018155432/README.md) cyberpunk library
+
+- [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux
 - [20221018022719](/zet/20221018022719/README.md) testing netbook charging
 - [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
 - [20221015173720](/zet/20221015173720/README.md) touchscreen concept

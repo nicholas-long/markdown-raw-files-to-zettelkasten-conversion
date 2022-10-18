@@ -17,6 +17,8 @@ org >> gnome >> desktop >> input-sources
 
 # Related
 
+- [20221018155432](/zet/20221018155432/README.md) cyberpunk library
+
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221006025356](/zet/20221006025356/README.md) linux

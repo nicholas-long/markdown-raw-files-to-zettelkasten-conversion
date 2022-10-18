@@ -13,7 +13,9 @@
 
 # Related
 
-- [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux?
+- [20221018155432](/zet/20221018155432/README.md) cyberpunk library
+
+- [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux
 - [20221012090938](/zet/20221012090938/README.md) my One Mix netbook
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003150798](/zet/20221003150798/README.md) git
