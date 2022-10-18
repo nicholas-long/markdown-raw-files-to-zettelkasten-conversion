@@ -15,7 +15,6 @@ hub node for `workflow`
 # Related
 
 - [20221018052621](/zet/20221018052621/README.md) how to process email programatically?
-
 - [20221009012547](/zet/20221009012547/README.md) Github UI tricks
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash
 - [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux

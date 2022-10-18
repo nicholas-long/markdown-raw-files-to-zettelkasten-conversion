@@ -10,9 +10,7 @@
 # Related
 
 - [20221008212802](/zet/20221008212802/README.md) software program
-
 - [20221012135747](/zet/20221012135747/README.md) unix text editors
-
 - [20221014190146](/zet/20221014190146/README.md) kb file named kb/linux/ex-notes.md
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines
 - [20221003150175](/zet/20221003150175/README.md) unix editor ex / ed example commands

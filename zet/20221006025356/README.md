@@ -6,6 +6,7 @@ linux reference links and concepts
 
 # Related
 
+- [20221003150175](/zet/20221003150175/README.md) unix editor ex / ed example commands
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept
 - [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux
 - [20221015173433](/zet/20221015173433/README.md) gnome window manager

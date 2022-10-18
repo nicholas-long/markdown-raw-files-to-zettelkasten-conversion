@@ -72,14 +72,9 @@ text
 # Related
 
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
-
-
 - [20221006025356](/zet/20221006025356/README.md) linux
-
 - [20221012135747](/zet/20221012135747/README.md) unix text editors
-
 - [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks
-
 - [20221003150073](/zet/20221003150073/README.md) Run vim as a script on datafile, write to file `output`
 - [20221014190146](/zet/20221014190146/README.md) kb file named kb/linux/ex-notes.md
 - [20221003150176](/zet/20221003150176/README.md) ex editor

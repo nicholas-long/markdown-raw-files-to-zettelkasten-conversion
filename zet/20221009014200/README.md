@@ -6,6 +6,7 @@ the concept of a `command`
 
 # Related
 
+- [20221003150175](/zet/20221003150175/README.md) unix editor ex / ed example commands
 - [20221003150709](/zet/20221003150709/README.md) sqlmap
 - [20221003150640](/zet/20221003150640/README.md) nmap run "all" enumeration and scripts
 - [20221003151268](/zet/20221003151268/README.md) Lookup missing packages with command-not-found
