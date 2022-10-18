@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221017182222](/zet/20221017182222/README.md) bruteforcing or password spraying tools
 - [20221008215655](/zet/20221008215655/README.md) user account
 - [20221008215530](/zet/20221008215530/README.md) username
