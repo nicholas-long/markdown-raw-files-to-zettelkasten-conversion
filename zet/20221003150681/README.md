@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221003151165](/zet/20221003151165/README.md) TFTP udp 69
+
 - [20221014185926](/zet/20221014185926/README.md) kb file named kb/hacking/commands/tftp-reference.md
 - [20221003150680](/zet/20221003150680/README.md) tftp upload file
 - [20221003150679](/zet/20221003150679/README.md) tftp start daemon (folder /var/tftp)

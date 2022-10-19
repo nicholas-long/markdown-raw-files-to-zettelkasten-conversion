@@ -1,8 +1,15 @@
 # bash command reference
 
+- [20221003151334](/zet/20221003151334/README.md) get full path to file from relative path
+- [20221003151333](/zet/20221003151333/README.md) make temp directory
+
 ` zet/20221003151335/README.md `
 
 # Related
+
+- [20221008212000](/zet/20221008212000/README.md) coding / programming
+
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 
 - [20221003150881](/zet/20221003150881/README.md) create symbolic link
 - [20221014190238](/zet/20221014190238/README.md) kb file named kb/bash-scripting/file-operations.md
