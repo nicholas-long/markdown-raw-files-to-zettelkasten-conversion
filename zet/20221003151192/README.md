@@ -3,7 +3,8 @@
 - robots.txt
 - web enumeration quick commands
 - nikto
-- busting -> copy up busting to try list to new paragraph, run through paths, add
+- busting -> [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list
+  - run through checklist for each path
   - even if you identify CMS and version, find exposed files
   - try usernames as potential directories / files
   - don't ignore status codes
@@ -50,6 +51,7 @@
 
 # Related
 
+- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list
 - [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
 - [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
