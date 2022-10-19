@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221003150717](/zet/20221003150717/README.md) packet capture
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub

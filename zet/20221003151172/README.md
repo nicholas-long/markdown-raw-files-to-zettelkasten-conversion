@@ -86,6 +86,8 @@
 
 # Related
 
+- [20221003150485](/zet/20221003150485/README.md) active directory get GMSA service account properties get GMSA password and run commands
+- [20221003150477](/zet/20221003150477/README.md) general enumeration Active Directory Certificate Services is AD CS enabled
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands
 - [20221003150752](/zet/20221003150752/README.md) kerbrute enumerate users using wordlist
 - [20221003150751](/zet/20221003150751/README.md) kerbrute password spray users from user list file

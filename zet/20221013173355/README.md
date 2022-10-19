@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221019151504](/zet/20221019151504/README.md) error message username enumeration
 - [20221018161819](/zet/20221018161819/README.md) did i link a bunch of weird enumeration stuff together?
 - [20221003150688](/zet/20221003150688/README.md) wpscan initial enumerate user id range
@@ -26,7 +27,7 @@
 - [20221003150830](/zet/20221003150830/README.md) postgres sql enumeration
 - [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen
 - [20221003150784](/zet/20221003150784/README.md) enum4linux Scan Host
-- [20221003150482](/zet/20221003150482/README.md) general enumeration
+- [20221003150482](/zet/20221003150482/README.md) general powershell enumeration
 - [20221003150420](/zet/20221003150420/README.md) finger user enum
 - [20221003150630](/zet/20221003150630/README.md) LDAP enumeration
 - [20221003150550](/zet/20221003150550/README.md) Sub domain Enum

@@ -4,12 +4,10 @@
 
 # Related
 
+- [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221003151101](/zet/20221003151101/README.md) powershell commands
-
 - [20221003150730](/zet/20221003150730/README.md) powershell
-
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks
-
 - [20221014190037](/zet/20221014190037/README.md) kb file named kb/hacking/powershell/powershell-enumeration-commands.md
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts

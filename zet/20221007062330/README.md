@@ -9,8 +9,9 @@ the concept of something that is broken.
 
 # Related
 
+- [20221003150483](/zet/20221003150483/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip
 - [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
-- [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
+- [20221015172248](/zet/20221015172248/README.md) how to fix ubuntu gnome not remembering screen rotation on One Mix netbook?
 - [20221003150348](/zet/20221003150348/README.md) troubleshooting fix error ValueError: unsupported hash type MD4 python hashlib openssl conf
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003150202](/zet/20221003150202/README.md) fix grub not showing windows partition

@@ -6,6 +6,7 @@ things that are finished.
 
 # Related
 
+- [20221019144206](/zet/20221019144206/README.md) this should all be linked to powershell and to try lists
 - [20221019143924](/zet/20221019143924/README.md) link all this up to AD and to try list
 - [20221019014416](/zet/20221019014416/README.md) enormous commit bigboi
 - [20221012094712](/zet/20221012094712/README.md) linux sort issues with locale

@@ -5,7 +5,6 @@
 # Related
 
 - [20221003150730](/zet/20221003150730/README.md) powershell
-
 - [20221014190037](/zet/20221014190037/README.md) kb file named kb/hacking/powershell/powershell-enumeration-commands.md
 - [20221013173355](/zet/20221013173355/README.md) enumeration - the process of enumerating a target
 - [20221003150874](/zet/20221003150874/README.md) nikto command

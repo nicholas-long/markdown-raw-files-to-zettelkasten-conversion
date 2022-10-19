@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221003150488](/zet/20221003150488/README.md) active directory
+- [20221003150479](/zet/20221003150479/README.md) general enumeration what commands are available
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks
 - [20221014185658](/zet/20221014185658/README.md) kb file named kb/hacking/windows/windows-reverse-shell.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

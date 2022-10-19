@@ -12,6 +12,7 @@ hacking notes hub
 
 # Related
 
+- [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221018155432](/zet/20221018155432/README.md) cyberpunk library
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy

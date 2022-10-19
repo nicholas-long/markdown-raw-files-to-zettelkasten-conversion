@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221019141821](/zet/20221019141821/README.md) terminalforlife bash scripting youtuber
 - [20221003150191](/zet/20221003150191/README.md) zsh
 - [20221018190312](/zet/20221018190312/README.md) bash scripting workflow
