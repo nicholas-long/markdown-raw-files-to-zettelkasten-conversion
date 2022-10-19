@@ -20,9 +20,7 @@
 # Related
 
 - [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures
-
 - [20221003151225](/zet/20221003151225/README.md) php filter LFI to iconv RCE original get 0 script
-
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked

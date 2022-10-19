@@ -21,15 +21,10 @@
 # Related
 
 - [20221003150441](/zet/20221003150441/README.md) OWASP cheat sheet series
-
 - [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs
-
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
-
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
-
 - [20221003150995](/zet/20221003150995/README.md) GraphQL APIs GraphQL tools
-
 - [20221019151504](/zet/20221019151504/README.md) error message username enumeration
 - [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
 - [20221003150709](/zet/20221003150709/README.md) sqlmap

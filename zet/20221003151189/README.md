@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
