@@ -68,7 +68,7 @@
 - McAfee SiteList.xml
 - SCCM SCClient
 - domain stuff - to try list for foothold has info about domains
-  - [AD to try list](./to-try-list.md#active directory domain)
+  - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - https://wadcoms.github.io/# 
 - on LAN
   - responder netbios LLMNR name poisoning

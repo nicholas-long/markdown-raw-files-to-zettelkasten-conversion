@@ -5,6 +5,8 @@ https://github.com/C0nd4/OSCP-Priv-Esc
 
 # Related
 
+- [20221013171453](/zet/20221013171453/README.md) important repositories and tools
+
 - [20221011092959](/zet/20221011092959/README.md) conda active directory hacking videos
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub

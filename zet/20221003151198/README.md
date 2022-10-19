@@ -35,8 +35,8 @@
 - relay?
 - catch NTLM hashes from windows clients that automatically authenticate
 - include AD list if machine is connected to AD
-- everything from everything list [EVERYTHING](EVERYTHING.md#everything)
-- old -> [old SMB exploits](SMB.md#old-smb-exploits)
+- everything from [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- old -> [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
 
 ` zet/20221003151198/README.md `
 

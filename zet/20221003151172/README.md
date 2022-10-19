@@ -46,7 +46,7 @@
   - list and impersonate tokens on compromised hosts ( meterpreter incognito )
     - reuse sessions with `New-PSSession` and `Invoke-Command` to other hosts / DC
 - shell + switch user `Invoke-RunasCs.ps1`
-- shell -> windows local privesc list [windows privilege escalation](privesc/windows.md#windows-privilege-escalation)
+- shell -> [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
   - PowerView - AD specific powershell enum
     - `Get-netuser` investigate users
 - got shell + no creds
@@ -115,7 +115,6 @@
 - [20221003151203](/zet/20221003151203/README.md) LDAP
 - [20221003151201](/zet/20221003151201/README.md) RDP
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
-- [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008215530](/zet/20221008215530/README.md) username

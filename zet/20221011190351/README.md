@@ -12,32 +12,6 @@ grep -R '](' | grep -v README.md
 - looking at the pages it was obviously not done
 - comprehensive list
 
-- [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
-- [20221015022512](/zet/20221015022512/README.md) password reuse to try list
-- [20221003151179](/zet/20221003151179/README.md) FTP
-- [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
-- [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
-- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
-- [20221003151196](/zet/20221003151196/README.md) IPMI
-- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
-- [20221003151199](/zet/20221003151199/README.md) finger tcp 79
-- [20221003151169](/zet/20221003151169/README.md) NFS
-- [20221003151195](/zet/20221003151195/README.md) DNS
-- [20221003151164](/zet/20221003151164/README.md) SNMP
-- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
-- [20221003151203](/zet/20221003151203/README.md) LDAP
-- [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986
-- [20221003151170](/zet/20221003151170/README.md) active directory domain old
-- [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
-- [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list
-- [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
-- [20221003151198](/zet/20221003151198/README.md) SMB to try list
-- [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
-- [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 - [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
@@ -50,10 +24,10 @@ grep -R '](' | grep -v README.md
 
 # Related
 
+
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - https://github.com/nicholas-long/markdown-raw-files-to-zettelkasten-conversion/issues/8
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 
 Tags:
