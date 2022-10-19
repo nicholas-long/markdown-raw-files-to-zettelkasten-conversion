@@ -1,6 +1,7 @@
 # commits for day of 2022-04-28
 
 - concept of `commits for day of 2022-04-28`
+- AD notes ?
 
 ```
 

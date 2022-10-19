@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221019014416](/zet/20221019014416/README.md) enormous commit bigboi
 - [20221016233334](/zet/20221016233334/README.md) commits for day of 2022-03-11
 - [20221016233313](/zet/20221016233313/README.md) commits for day of 2022-02-19
 - [20221016233630](/zet/20221016233630/README.md) commits for day of 2022-08-07

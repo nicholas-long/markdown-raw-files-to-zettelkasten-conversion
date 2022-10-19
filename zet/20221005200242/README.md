@@ -194,7 +194,6 @@ this is a list of possibly empty zettels.
 - [20221003150689](/zet/20221003150689/README.md) wpscan initial database exports
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 - [20221003150681](/zet/20221003150681/README.md) tftp
-- [20221003150677](/zet/20221003150677/README.md) bloodhound
 - [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files
 - [20221003150665](/zet/20221003150665/README.md) NFS
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands
@@ -212,8 +211,6 @@ this is a list of possibly empty zettels.
 - [20221003150623](/zet/20221003150623/README.md) PureFTP
 - [20221003150620](/zet/20221003150620/README.md) PureFTP Get Service Ready
 - [20221003150614](/zet/20221003150614/README.md) smbclient shell
-- [20221003150611](/zet/20221003150611/README.md) smbclient
-- [20221003150600](/zet/20221003150600/README.md) impacket
 - [20221003150594](/zet/20221003150594/README.md) generating enumeration wordlists
 - [20221003150592](/zet/20221003150592/README.md) php
 - [20221003150590](/zet/20221003150590/README.md) php code
@@ -235,7 +232,6 @@ this is a list of possibly empty zettels.
 - [20221003150525](/zet/20221003150525/README.md) make executable binary with input shellcode
 - [20221003150522](/zet/20221003150522/README.md) calling conventions
 - [20221003150517](/zet/20221003150517/README.md) binary analysis
-- [20221003150515](/zet/20221003150515/README.md) pwntools gdb debugging terminal
 - [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks
 - [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths
 - [20221003150509](/zet/20221003150509/README.md) python pwn tricks
@@ -322,7 +318,6 @@ this is a list of possibly empty zettels.
 - [20221003150227](/zet/20221003150227/README.md) grep patterns
 - [20221003150225](/zet/20221003150225/README.md) bettercap
 - [20221003150221](/zet/20221003150221/README.md) surface tablet
-- [20221003150215](/zet/20221003150215/README.md) kafkacat install
 - [20221003150210](/zet/20221003150210/README.md) kafkacat
 - [20221003150197](/zet/20221003150197/README.md) iptables rules
 - [20221003150193](/zet/20221003150193/README.md) convert

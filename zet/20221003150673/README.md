@@ -1,10 +1,22 @@
 # crackmapexec cme commands
+
+```bash
 crackmapexec --help
 crackmapexec smb --help
+```
+
+- [20221003150672](/zet/20221003150672/README.md) RID brute force
+- [20221003150671](/zet/20221003150671/README.md) test password username arguments or files
+- [20221003150670](/zet/20221003150670/README.md) bruteforce SMB
+- [20221003150669](/zet/20221003150669/README.md) test combine valid user and password combinations
+- [20221003150668](/zet/20221003150668/README.md) enumerate shares accessable by user
+- [20221003150667](/zet/20221003150667/README.md) enumerate acccess to files as json report
 
 ` zet/20221003150673/README.md `
 
 # Related
+
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 
 - [20221017182222](/zet/20221017182222/README.md) bruteforcing or password spraying tools
 - [20221003151153](/zet/20221003151153/README.md) windows

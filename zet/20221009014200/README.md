@@ -33,7 +33,6 @@ the concept of a `command`
 - [20221014190004](/zet/20221014190004/README.md) kb file named kb/hacking/pwn/gef-commands.md
 - [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md
 - [20221014185952](/zet/20221014185952/README.md) kb file named kb/hacking/commands/enumeration-util.md
-- [20221014185950](/zet/20221014185950/README.md) kb file named kb/hacking/commands/impacket-commands.md
 - [20221014185949](/zet/20221014185949/README.md) kb file named kb/hacking/commands/pivot-tunnel-through-chisel.md
 - [20221014185947](/zet/20221014185947/README.md) kb file named kb/hacking/commands/smbclient-commands.md
 - [20221014185946](/zet/20221014185946/README.md) kb file named kb/hacking/commands/pureftp-commands.md
@@ -47,7 +46,6 @@ the concept of a `command`
 - [20221014185933](/zet/20221014185933/README.md) kb file named kb/hacking/commands/binary-data-analysis.md
 - [20221014185932](/zet/20221014185932/README.md) kb file named kb/hacking/commands/nfs.md
 - [20221014185930](/zet/20221014185930/README.md) kb file named kb/hacking/commands/hydra-http-post-form.md
-- [20221014185929](/zet/20221014185929/README.md) kb file named kb/hacking/commands/crackmapexec-commands.md
 - [20221014185927](/zet/20221014185927/README.md) kb file named kb/hacking/commands/bloodhound.md
 - [20221014185926](/zet/20221014185926/README.md) kb file named kb/hacking/commands/tftp-reference.md
 - [20221014185924](/zet/20221014185924/README.md) kb file named kb/hacking/commands/web-enumeration-commands.md
