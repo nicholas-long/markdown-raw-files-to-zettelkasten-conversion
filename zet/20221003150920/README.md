@@ -11,12 +11,13 @@ find /etc -writable 2>/dev/null
 
 # Related
 
+- [20221019220305](/zet/20221019220305/README.md) combine common commands and enum quick commands
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - [20221003150194](/zet/20221003150194/README.md) set the bash prompt to use vi hotkeys
 - [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
-- [20221013173355](/zet/20221013173355/README.md) the process of enumerating a target
+- [20221013173355](/zet/20221013173355/README.md) enumeration - the process of enumerating a target
 - [20221003150565](/zet/20221003150565/README.md) Netcat Sending file
 - [20221003150892](/zet/20221003150892/README.md) get all root process IDs
 - [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present

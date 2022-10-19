@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
 - [20221003150600](/zet/20221003150600/README.md) impacket
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
 - [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY

@@ -6,6 +6,7 @@ linux reference links and concepts
 
 # Related
 
+- [20221003150126](/zet/20221003150126/README.md) routing using a linux box
 - [20221003150191](/zet/20221003150191/README.md) zsh
 - [20221019002732](/zet/20221019002732/README.md) shells
 - [20221018174628](/zet/20221018174628/README.md) tar command

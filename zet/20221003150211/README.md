@@ -11,6 +11,7 @@ kafkacat -b kafka -C -t wifi-data-raw -e -o "s@$d"
 
 # Related
 
+- [20221014185521](/zet/20221014185521/README.md) kb file named kb/kafka/kafkacat-get-data-by-time.md
 - [20221012153512](/zet/20221012153512/README.md) database
 - [20221003151278](/zet/20221003151278/README.md) linux data science
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities

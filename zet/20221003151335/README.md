@@ -8,9 +8,7 @@
 # Related
 
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
-
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
-
 - [20221003150881](/zet/20221003150881/README.md) create symbolic link
 - [20221014190238](/zet/20221014190238/README.md) kb file named kb/bash-scripting/file-operations.md
 - [20221014160551](/zet/20221014160551/README.md) terminal emulator program

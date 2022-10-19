@@ -6,12 +6,13 @@ the concept of `coding / programming`
 
 # Related
 
+- [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221015005557](/zet/20221015005557/README.md) python library
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014205906](/zet/20221014205906/README.md) coding in golang
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221003150248](/zet/20221003150248/README.md) Azure AD connect
-- [20221013185120](/zet/20221013185120/README.md) crypto and blockchain stuff
+- [20221013185120](/zet/20221013185120/README.md) concept of cryptography
 - [20221003150255](/zet/20221003150255/README.md) solidity
 - [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
 - [20221003150328](/zet/20221003150328/README.md) compile windows c++ binaries on linux

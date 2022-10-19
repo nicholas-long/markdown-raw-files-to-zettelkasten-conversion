@@ -5,6 +5,7 @@
 
 # Related
 
+- [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
 - [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003151149](/zet/20221003151149/README.md) windows XP and windows server 2003 arbitrary file write -> remote code execution metasploit
 - [20221014185651](/zet/20221014185651/README.md) kb file named kb/hacking/windows/xp-server-2003.md
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
 - ~/kb/hacking/windows/xp-server-2003.md

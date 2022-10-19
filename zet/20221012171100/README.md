@@ -11,6 +11,7 @@ zet/20221012171100/README.md
 
 # Related
 
+- [20221019220305](/zet/20221019220305/README.md) combine common commands and enum quick commands
 - [20221019151504](/zet/20221019151504/README.md) error message username enumeration
 - [20221019150908](/zet/20221019150908/README.md) userlist file concept
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands

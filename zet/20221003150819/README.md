@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003151149](/zet/20221003151149/README.md) windows XP and windows server 2003 arbitrary file write -> remote code execution metasploit
 - [20221017182222](/zet/20221017182222/README.md) bruteforcing or password spraying tools
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221014185848](/zet/20221014185848/README.md) kb file named kb/hacking/commands/metasploit.md

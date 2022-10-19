@@ -11,6 +11,7 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
 - [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project

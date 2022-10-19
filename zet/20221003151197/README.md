@@ -11,6 +11,7 @@
 
 # Related
 
+- [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
 - [20221014185612](/zet/20221014185612/README.md) kb file named kb/hacking/to-try-lists/SMB.md
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
