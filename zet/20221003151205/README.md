@@ -7,8 +7,8 @@
 
 # Related
 
+- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
-
 - [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
