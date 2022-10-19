@@ -6,6 +6,7 @@ the concept of a `command`
 
 # Related
 
+- [20221003150210](/zet/20221003150210/README.md) kafkacat
 - [20221003150698](/zet/20221003150698/README.md) SNMP enumeration command
 - [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221003150862](/zet/20221003150862/README.md) SSH arguments

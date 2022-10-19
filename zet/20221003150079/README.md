@@ -4,12 +4,13 @@
 
 # Related
 
+- [20221003150081](/zet/20221003150081/README.md) tmux box art enable
 - [20221014190216](/zet/20221014190216/README.md) kb file named kb/tmux/get-data-info.md
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221014160551](/zet/20221014160551/README.md) terminal emulator program
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
-- [20221003150076](/zet/20221003150076/README.md) swap panes
+- [20221003150076](/zet/20221003150076/README.md) tmux swap panes
 - [20221012065200](/zet/20221012065200/README.md) side panels work in vim with tmux over ssh now?
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
