@@ -1,53 +1,14 @@
-# commits for day of 2022-04-26
+# enormous commit bigboi
 
-- concept of `commits for day of 2022-04-26`
+- concept of `enormous commit bigboi`
 
 ```
-
-commit a8e4d71524760360ffa161456a4f7bbedab7c10f
-Author: coyote0x90 <nicholas.eden.long@gmail.com>
-Date:   Mon Apr 25 23:50:57 2022 -0500
-
-    fix format
-kb/bash-scripting/get-current-script-dir.md
-
-commit e87f867c2e485c2dc9209578bd20b88db921c435
-Author: coyote0x90 <nicholas.eden.long@gmail.com>
-Date:   Tue Apr 26 00:43:33 2022 -0500
-
-    fix formatting
-kb/bash-scripting/capture-web-site-screenshot.md
-kb/bash-scripting/check-empty-var.md
-kb/docker/docker-compose-shortcuts.md
-kb/docker/installations/install-mandown.md
-kb/docker/lookup-missing-command-packages.md
-kb/fzf-fuzzy-find/help.md
-kb/hacking/commands/feroxbuster-command.md
-kb/hacking/commands/msfvenom-commands.md
-kb/hacking/common-commands.md
-kb/hacking/passwords/hashcat-generate-wordlist-from-file-stdout.md
-kb/hacking/pwn/debug-terminal-setup.md
-kb/kafka/connect-confluent.md
-kb/kafka/initialize-topics.md
-kb/kafka/kafkacat.md
-kb/kafka/ksql-initialize-example.md
-kb/kafka/quick-and-dirty-kafkacat.md
-kb/linux/deb-dependencies.md
-kb/networking/port-forwarding.md
-kb/networking/socat-proxy.md
-kb/tmux/fix-box-art.md
-kb/tmux/get-ctrl-h-to-work.md
-kb/vim/spacevim-set-bindings.md
 ```
 
-` zet/20221016233427/README.md `
+` zet/20221019014416/README.md `
 
 # Related
 
-- [20221019014416](/zet/20221019014416/README.md) enormous commit bigboi
-
-- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
-- [20221016233429](/zet/20221016233429/README.md) commits for day of 2022-04-28
 - [20221014185502](/zet/20221014185502/README.md) kb file named kb/vim/spacevim-set-bindings.md
 - [20221014190215](/zet/20221014190215/README.md) kb file named kb/tmux/get-ctrl-h-to-work.md
 - [20221014190213](/zet/20221014190213/README.md) kb file named kb/tmux/fix-box-art.md
@@ -71,8 +32,9 @@ kb/vim/spacevim-set-bindings.md
 - [20221014190239](/zet/20221014190239/README.md) kb file named kb/bash-scripting/check-empty-var.md
 - [20221014190242](/zet/20221014190242/README.md) kb file named kb/bash-scripting/capture-web-site-screenshot.md
 - [20221014190254](/zet/20221014190254/README.md) kb file named kb/bash-scripting/get-current-script-dir.md
-- [20221016233425](/zet/20221016233425/README.md) commits for day of 2022-04-24
+- [20221016233427](/zet/20221016233427/README.md) commits for day of 2022-04-26
+- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 
 Tags:
 
-    #dayinhistory
+    #idea
