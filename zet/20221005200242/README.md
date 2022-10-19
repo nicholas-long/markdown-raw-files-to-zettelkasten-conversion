@@ -133,7 +133,6 @@ this is a list of possibly empty zettels.
 - [20221003150946](/zet/20221003150946/README.md) python
 - [20221003150942](/zet/20221003150942/README.md) python imports
 - [20221003150929](/zet/20221003150929/README.md) C setuid suid backdoor exploit
-- [20221003150923](/zet/20221003150923/README.md) BSD
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
 - [20221003150907](/zet/20221003150907/README.md) linux enumeration quick commands transfer / download files with just bash
 - [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities

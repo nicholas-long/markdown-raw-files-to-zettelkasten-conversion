@@ -28,6 +28,7 @@ kb/hacking/powershell/powershell-enumeration-commands.md
 
 # Related
 
+- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221016233447](/zet/20221016233447/README.md) commits for day of 2022-05-12
 - [20221014190037](/zet/20221014190037/README.md) kb file named kb/hacking/powershell/powershell-enumeration-commands.md
 - [20221014190030](/zet/20221014190030/README.md) kb file named kb/hacking/notes-template/steps.md

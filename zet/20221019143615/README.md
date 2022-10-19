@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221012153512](/zet/20221012153512/README.md) database
 - [20221008054439](/zet/20221008054439/README.md) graph database
 - [20221003151278](/zet/20221003151278/README.md) linux data science

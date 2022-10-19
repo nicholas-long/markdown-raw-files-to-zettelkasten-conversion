@@ -14,7 +14,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221008215655](/zet/20221008215655/README.md) user account
 - [20221013173355](/zet/20221013173355/README.md) enumeration - the process of enumerating a target
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form

@@ -17,7 +17,6 @@
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
 - [20221003150600](/zet/20221003150600/README.md) impacket
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151140](/zet/20221003151140/README.md) active directory  NTLMv2 vs kerberos authentication on the network
 - [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket
 - [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands

@@ -1,6 +1,7 @@
 # commits for day of 2022-05-06
 
 - concept of `commits for day of 2022-05-06`
+- added smb vuln scan in nmap
 
 ```
 
@@ -16,7 +17,6 @@ kb/hacking/commands/nmap-vuln-scan.md
 
 # Related
 
-- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221016233442](/zet/20221016233442/README.md) commits for day of 2022-05-07
 - [20221014185836](/zet/20221014185836/README.md) kb file named kb/hacking/commands/nmap-vuln-scan.md
 - [20221016233439](/zet/20221016233439/README.md) commits for day of 2022-05-05

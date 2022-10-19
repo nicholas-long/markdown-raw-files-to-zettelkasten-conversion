@@ -17,7 +17,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221018182017](/zet/20221018182017/README.md) read bash man page
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
