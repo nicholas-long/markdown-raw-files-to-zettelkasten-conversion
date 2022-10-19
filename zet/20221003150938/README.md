@@ -1,4 +1,4 @@
-# searchploit linux kernel exploit privilege escalation
+# searchsploit exploitdb linux kernel exploit privesc
 ```bash
 searchsploit linux kernel 2 centos 4.5 local
 ```
@@ -9,8 +9,12 @@ target exploits that are more specific to distro.
 
 # Related
 
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
+
+- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
+
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 
 Tags:
 
-    
+    #privesc #exploit
