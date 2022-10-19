@@ -1,4 +1,4 @@
-# HTTP TRY
+# HTTP to try list
 - quick wfuzz dirbust / common.txt
 - robots.txt
 - web enumeration quick commands
@@ -79,7 +79,6 @@
 - [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login
 - [20221003151188](/zet/20221003151188/README.md) HTTP found CMS
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form
-- [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list

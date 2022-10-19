@@ -33,10 +33,6 @@ grep -R '](' | grep -v README.md
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list
-- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
-- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list
-- [20221003151193](/zet/20221003151193/README.md) HTTP
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
@@ -58,7 +54,6 @@ grep -R '](' | grep -v README.md
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - https://github.com/nicholas-long/markdown-raw-files-to-zettelkasten-conversion/issues/8
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
-- [20221003151192](/zet/20221003151192/README.md) HTTP TRY
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 
 Tags:
