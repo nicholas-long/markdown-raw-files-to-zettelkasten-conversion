@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150515](/zet/20221003150515/README.md) pwntools gdb debugging terminal
 - [20221014190022](/zet/20221014190022/README.md) kb file named kb/hacking/pwn/pwntools.md
 - [20221003150523](/zet/20221003150523/README.md) heap exploit resources
 - [20221003150518](/zet/20221003150518/README.md) pwntools sigreturn

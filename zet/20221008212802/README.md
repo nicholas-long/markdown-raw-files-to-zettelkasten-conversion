@@ -6,6 +6,7 @@ the concept of a `program`
 
 # Related
 
+- [20221003150659](/zet/20221003150659/README.md) wfuzz
 - [20221019003259](/zet/20221019003259/README.md) background task or running service on machine
 - [20221003150191](/zet/20221003150191/README.md) zsh
 - [20221018174628](/zet/20221018174628/README.md) tar command

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells
 - [20221014185953](/zet/20221014185953/README.md) kb file named kb/hacking/php/PHP-quick-command-reference.md
 - [20221003150559](/zet/20221003150559/README.md) Kali Default PHP CMD Shell
 - [20221003150557](/zet/20221003150557/README.md) WhiteWinterWolf Webshell

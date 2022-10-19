@@ -12,7 +12,6 @@
 # Related
 
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis
-
 - [20221014185726](/zet/20221014185726/README.md) kb file named kb/hacking/methodology/source-analysis.md
 - [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells
 - [20221008081231](/zet/20221008081231/README.md) debugging

@@ -6,6 +6,7 @@
 
 # Related
 
+- [20221003150071](/zet/20221003150071/README.md) vim edit multiple files
 - [20221014185505](/zet/20221014185505/README.md) kb file named kb/vim/vim.md
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221014074318](/zet/20221014074318/README.md) important choices of tech stack
@@ -16,7 +17,7 @@
 - [20221012065200](/zet/20221012065200/README.md) side panels work in vim with tmux over ssh now?
 - [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
 - [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs
-- [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf?
+- [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf
 - [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
 - [20221003151332](/zet/20221003151332/README.md) bash scripting

@@ -36,6 +36,7 @@
 
 # Related
 
+- [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
 - [20221018160416](/zet/20221018160416/README.md) credential harvesting concept
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list

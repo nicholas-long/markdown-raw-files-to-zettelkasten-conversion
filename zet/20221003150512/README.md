@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150515](/zet/20221003150515/README.md) pwntools gdb debugging terminal
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221014190019](/zet/20221014190019/README.md) kb file named kb/hacking/pwn/tricks.md
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution

@@ -18,10 +18,11 @@ gep
 
 # Related
 
-- [20221003150175](/zet/20221003150175/README.md) ex commands  Some of these might apply to ed as well
+- [20221003150071](/zet/20221003150071/README.md) vim edit multiple files
+- [20221003150175](/zet/20221003150175/README.md) unix editor ex / ed example commands
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
-- [20221003150076](/zet/20221003150076/README.md) swap panes
+- [20221003150076](/zet/20221003150076/README.md) tmux swap panes
 - [20221013035616](/zet/20221013035616/README.md) fun
 - [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
 - [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys

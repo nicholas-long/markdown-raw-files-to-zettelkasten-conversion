@@ -10,7 +10,6 @@
 # Related
 
 - [20221003150938](/zet/20221003150938/README.md) searchploit linux kernel exploit privilege escalation
-
 - [20221016233422](/zet/20221016233422/README.md) commits for day of 2022-04-21
 - [20221003151443](/zet/20221003151443/README.md) kb
 

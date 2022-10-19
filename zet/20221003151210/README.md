@@ -91,6 +91,7 @@
 
 # Related
 
+- [20221003150938](/zet/20221003150938/README.md) searchsploit exploitdb linux kernel exploit privesc
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
 - [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands

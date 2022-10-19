@@ -73,6 +73,7 @@
 
 # Related
 
+- [20221003151021](/zet/20221003151021/README.md) analyzing source code PHP code
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
 - [20221015010704](/zet/20221015010704/README.md) things that need splitting up
