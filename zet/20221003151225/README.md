@@ -73,10 +73,10 @@ print(r.text)
 # Related
 
 - [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal
+- [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221014185550](/zet/20221014185550/README.md) kb file named kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md
-- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-- [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE
 - https://book.hacktricks.xyz/pentesting-web/file-inclusion/lfi2rce-via-php-filters
 - https://gist.github.com/loknop/b27422d355ea1fd0d90d6dbc1e278d4d
 - ~/kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md
