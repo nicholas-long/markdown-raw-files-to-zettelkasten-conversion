@@ -1,4 +1,12 @@
 # php filter LFI to iconv RCE original get 0 script
+
+- dope sauce - works on almost every PHP LFI box
+- about [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE
+- requirements
+  - php filters are enabled
+  - know a valid file name
+    - even extensions appended by php script are OK - can use `...=index` and have it append `php`
+- i extended it to have cookie params because it usually needs it when customizing the exploit to the target
 ```python
 import requests
 
