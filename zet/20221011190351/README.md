@@ -66,7 +66,6 @@ grep -R '](' | grep -v README.md
 # Related
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
-
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - https://github.com/nicholas-long/markdown-raw-files-to-zettelkasten-conversion/issues/8
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list

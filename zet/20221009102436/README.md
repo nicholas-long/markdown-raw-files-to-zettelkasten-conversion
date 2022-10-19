@@ -10,6 +10,7 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 
 # Related
 
+- [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221015022512](/zet/20221015022512/README.md) password reuse to try list
