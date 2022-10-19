@@ -77,7 +77,6 @@ this is a list of possibly empty zettels.
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
 - [20221003151234](/zet/20221003151234/README.md) mysql mariadb UDF shell
 - [20221003151230](/zet/20221003151230/README.md) VBScript
-- [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE
 - [20221003151223](/zet/20221003151223/README.md) identify linux version from service version
 - [20221003151220](/zet/20221003151220/README.md) hql injection
 - [20221003151217](/zet/20221003151217/README.md) caddy
