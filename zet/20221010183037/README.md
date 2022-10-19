@@ -12,7 +12,6 @@
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221003150444](/zet/20221003150444/README.md) hacktricks markdown data github
 - [20221007220451](/zet/20221007220451/README.md) hacking notes node
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 
 Tags:
 

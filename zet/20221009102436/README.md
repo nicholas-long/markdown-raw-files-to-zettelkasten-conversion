@@ -66,7 +66,6 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 - [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
 - [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans
 - [20221011181920](/zet/20221011181920/README.md) working notes - foothold
-- [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
 - [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221008042814](/zet/20221008042814/README.md) WIP

@@ -11,27 +11,27 @@
     - don't ignore 403 except dotfiles
 - manual inspection (view source) see if content discloses anything useful
   - find forms
-- found login form -> [found login form](HTTP.md#found-login-form)
+- found login form -> [20221003151184](/zet/20221003151184/README.md) HTTP found login form
   - google / seclists default creds for service
   - try service name as username / password / both
-  - compromised -> [compromised CMS login](HTTP.md#compromised-cms-login)
-- found CMS -> [found CMS](HTTP.md#found-cms)
-  - compromised CMS -> [compromised CMS login](HTTP.md#compromised-cms-login)
-- LFI or dir traversal -> [LFI or dir traversal](HTTP.md#lfi-or-dir-traversal)
+  - compromised -> [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login
+- found CMS -> [20221003151188](/zet/20221003151188/README.md) HTTP found CMS
+  - compromised CMS -> [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login
+- LFI or dir traversal -> [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal
   - common rabbit hole -> keep enumerating
     - file read -> keep enumerating, find interesting configs, logs, code, creds to exfil
     - LFI -> keep enumerating, find writable logs or files to execute
 - file upload
   - apache -> .htaccess
-- API and POST endpoints -> [API and POST endpoints](HTTP.md#api-and-post-endpoints)
+- API and POST endpoints -> [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
   - 302 redirect page -> check for content
-- fuzz dynamic content for vulnerabilities -> [vulnerability finding and fuzzing](HTTP.md#vulnerability-finding-and-fuzzing)
+- fuzz dynamic content for vulnerabilities -> [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing
   - SSTI polyglot payload
   - seclists fuzzing special chars
 - cookie: object / base64 / JSON / session token -> break or abruptly terminate input
 - likely injection tests
   - SQLi
-    - [got access to databases - general SQL](got-access-to-databases-general-SQL.md#got-access-to-databases---general-sql)
+    - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
     - no sqlmap -> wfuzz with wordlists in /usr/share/seclists/Fuzzing/SQLi/
     - dump data
     - ordering column parameter and order by injection -> nested query `limit (select ...)`
@@ -42,8 +42,9 @@
 - vhost enumeration
   - hostnames from nmap output
   - brute force vhost subdomains
-- got source code -> [got source code - analysis](got-source-code.md#got-source-code---analysis)
-- uncommon ideas [uncommon ideas list](HTTP.md#uncommon-ideas-list)
+- got source code -> [20221003151178](/zet/20221003151178/README.md) got source code - analysis
+- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list
+- [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks )
 
 ` zet/20221003151192/README.md `
 
