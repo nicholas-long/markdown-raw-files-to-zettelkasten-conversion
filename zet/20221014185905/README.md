@@ -1,6 +1,7 @@
 # kb file named kb/hacking/commands/windows-active-directory-kerberos-commands.md
 
 - concept of `kb file named kb/hacking/commands/windows-active-directory-kerberos-commands.md`
+- hodgepodge of stuff about active directory
 
 ```
 ```
@@ -8,6 +9,8 @@
 ` zet/20221014185905/README.md `
 
 # Related
+
+- [20221019143924](/zet/20221019143924/README.md) link all this up to AD and to try list
 
 - [20221016233434](/zet/20221016233434/README.md) commits for day of 2022-05-02
 - [20221016233451](/zet/20221016233451/README.md) commits for day of 2022-05-17

@@ -1,6 +1,7 @@
 # kb file named kb/hacking/powershell/powershell-enumeration-commands.md
 
 - concept of `kb file named kb/hacking/powershell/powershell-enumeration-commands.md`
+- this should all be linked to powershell and to try lists
 
 ```
 ```
@@ -8,6 +9,8 @@
 ` zet/20221014190037/README.md `
 
 # Related
+
+- [20221019144206](/zet/20221019144206/README.md) this should all be linked to powershell and to try lists
 
 - [20221016233542](/zet/20221016233542/README.md) commits for day of 2022-06-28
 - [20221016233646](/zet/20221016233646/README.md) commits for day of 2022-08-17

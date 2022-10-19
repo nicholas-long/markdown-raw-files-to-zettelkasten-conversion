@@ -28,8 +28,6 @@
 
 # Related
 
-- [20221016233432](/zet/20221016233432/README.md) commits for day of 2022-05-01
-- [20221019014416](/zet/20221019014416/README.md) enormous commit bigboi
 - [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221008042814](/zet/20221008042814/README.md) WIP

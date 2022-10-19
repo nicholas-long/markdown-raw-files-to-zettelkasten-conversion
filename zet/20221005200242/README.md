@@ -144,7 +144,6 @@ this is a list of possibly empty zettels.
 - [20221003150878](/zet/20221003150878/README.md) dirty cow privilege escalation working version
 - [20221003150876](/zet/20221003150876/README.md) sudo sudoers file
 - [20221003150873](/zet/20221003150873/README.md) host quick server
-- [20221003150871](/zet/20221003150871/README.md) john the ripper
 - [20221003150866](/zet/20221003150866/README.md) two-factor authentication 2fa
 - [20221003150865](/zet/20221003150865/README.md) two-factor authentication 2fa generate one time pins OTP
 - [20221003150862](/zet/20221003150862/README.md) SSH arguments

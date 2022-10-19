@@ -1,6 +1,9 @@
 # one mix netbook standby issues in linux
 
+- if screen "blanks from inactivity" while the netbook is in the process of waking up from sleeping: unrecoverable lock out -> force restart
 - testing setting "screen blank" to Never instead of 10 minutes - works!
+- problem still happens if netbook is plugged in while closed and sleeping
+  - are there seperate power options for plugged in vs. battery like xfce options?
 
 ```
 ```

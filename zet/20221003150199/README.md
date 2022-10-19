@@ -7,6 +7,10 @@ dpkg -L vim
 
 # Related
 
+- [20221006025730](/zet/20221006025730/README.md) apt repositories
+
+- [20221003150140](/zet/20221003150140/README.md) apt package
+
 - [20221003150157](/zet/20221003150157/README.md) upgrade when apt is causing problems fix error "the following signatures couldn’t be verified because the public key is not available"
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
