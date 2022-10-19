@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221019141821](/zet/20221019141821/README.md) terminalforlife bash scripting youtuber
+- [20221014190232](/zet/20221014190232/README.md) kb file named kb/scripts.md
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014190239](/zet/20221014190239/README.md) kb file named kb/bash-scripting/check-empty-var.md
 - [20221003151335](/zet/20221003151335/README.md) bash command reference

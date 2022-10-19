@@ -6,6 +6,7 @@ This is a collection of bash scripts
 
 # Related
 
+- [20221014190232](/zet/20221014190232/README.md) kb file named kb/scripts.md
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221013190051](/zet/20221013190051/README.md) blue team
@@ -54,7 +55,7 @@ This is a collection of bash scripts
 - [20221003151411](/zet/20221003151411/README.md) bash scripting run docker image with current directory mounted as working directory
 - [20221003151410](/zet/20221003151410/README.md) bash scripting get raw HTTP request data from burp saved request
 - [20221003151409](/zet/20221003151409/README.md) bash scripting get the current user's github colon separated credentials
-- [20221003151408](/zet/20221003151408/README.md) bash scripting parse burpsuite saved request file and convert to python requests script for copying
+- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221003151407](/zet/20221003151407/README.md) bash scripting pull all the git repos in home directory
 - [20221003151406](/zet/20221003151406/README.md) bash scripting download the current CVE list get as Tab Separated Values
 - [20221003151405](/zet/20221003151405/README.md) bash scripting shortcut to start tmux session in a working directory with alacritty

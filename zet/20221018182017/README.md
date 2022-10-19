@@ -11,6 +11,7 @@
 
 # Related
 
+- [20221019141821](/zet/20221019141821/README.md) terminalforlife bash scripting youtuber
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221003151329](/zet/20221003151329/README.md) bash scripting

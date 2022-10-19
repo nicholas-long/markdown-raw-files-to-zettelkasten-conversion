@@ -9,6 +9,7 @@ the concept of graph database
 
 # Related
 
+- [20221019143615](/zet/20221019143615/README.md) data concept
 - [20221003150993](/zet/20221003150993/README.md) how GraphQL APIs work
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries

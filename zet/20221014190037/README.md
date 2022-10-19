@@ -11,7 +11,6 @@
 # Related
 
 - [20221019144206](/zet/20221019144206/README.md) this should all be linked to powershell and to try lists
-
 - [20221016233542](/zet/20221016233542/README.md) commits for day of 2022-06-28
 - [20221016233646](/zet/20221016233646/README.md) commits for day of 2022-08-17
 - [20221016233603](/zet/20221016233603/README.md) commits for day of 2022-07-17

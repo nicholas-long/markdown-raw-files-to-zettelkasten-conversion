@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151114](/zet/20221003151114/README.md) dos commands services sc enable service
 - [20221003151113](/zet/20221003151113/README.md) dos commands services sc set binary path
 - [20221003151112](/zet/20221003151112/README.md) dos commands services sc start service

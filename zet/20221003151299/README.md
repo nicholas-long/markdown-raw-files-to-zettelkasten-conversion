@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221019141821](/zet/20221019141821/README.md) terminalforlife bash scripting youtuber
 - [20221003150191](/zet/20221003150191/README.md) zsh
 - [20221018190312](/zet/20221018190312/README.md) bash scripting workflow
 - [20221018193528](/zet/20221018193528/README.md) bash shell builtin commands

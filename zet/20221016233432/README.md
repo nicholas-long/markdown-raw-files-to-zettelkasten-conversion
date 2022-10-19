@@ -17,7 +17,6 @@ kb/linux/dpkg-info.md
 # Related
 
 - [20221019141821](/zet/20221019141821/README.md) terminalforlife bash scripting youtuber
-
 - [20221016233434](/zet/20221016233434/README.md) commits for day of 2022-05-02
 - [20221014190129](/zet/20221014190129/README.md) kb file named kb/linux/dpkg-info.md
 - [20221016233431](/zet/20221016233431/README.md) commits for day of 2022-04-29

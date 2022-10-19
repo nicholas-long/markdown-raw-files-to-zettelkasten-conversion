@@ -8,6 +8,7 @@ the concept of a `file`
 
 # Related
 
+- [20221019143615](/zet/20221019143615/README.md) data concept
 - [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept

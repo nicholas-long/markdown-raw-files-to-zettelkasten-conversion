@@ -11,7 +11,6 @@
 # Related
 
 - [20221019143924](/zet/20221019143924/README.md) link all this up to AD and to try list
-
 - [20221016233434](/zet/20221016233434/README.md) commits for day of 2022-05-02
 - [20221016233451](/zet/20221016233451/README.md) commits for day of 2022-05-17
 - [20221016233449](/zet/20221016233449/README.md) commits for day of 2022-05-13

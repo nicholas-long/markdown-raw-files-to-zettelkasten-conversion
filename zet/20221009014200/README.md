@@ -6,6 +6,7 @@ the concept of a `command`
 
 # Related
 
+- [20221003151289](/zet/20221003151289/README.md) jq
 - [20221003150600](/zet/20221003150600/README.md) impacket
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
 - [20221003150611](/zet/20221003150611/README.md) smbclient

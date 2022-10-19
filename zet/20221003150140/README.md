@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
 - [20221006025730](/zet/20221006025730/README.md) apt repositories
 - [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy

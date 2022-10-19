@@ -10,7 +10,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash
 - [20221003150194](/zet/20221003150194/README.md) set the bash prompt to use vi hotkeys
 - [20221003151295](/zet/20221003151295/README.md) debugging bash

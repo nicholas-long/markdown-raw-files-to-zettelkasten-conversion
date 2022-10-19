@@ -12,12 +12,8 @@
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
-
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
-
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
-
-
 - [20221016233434](/zet/20221016233434/README.md) commits for day of 2022-05-02
 - [20221003151443](/zet/20221003151443/README.md) kb
 

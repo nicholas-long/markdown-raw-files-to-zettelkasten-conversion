@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221019143424](/zet/20221019143424/README.md) JSON concept
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221015005535](/zet/20221015005535/README.md) werkzeug
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list

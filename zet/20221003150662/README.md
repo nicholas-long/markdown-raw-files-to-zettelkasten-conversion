@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221019143615](/zet/20221019143615/README.md) data concept
 - [20221017172946](/zet/20221017172946/README.md) LAN attacks
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221014185933](/zet/20221014185933/README.md) kb file named kb/hacking/commands/binary-data-analysis.md

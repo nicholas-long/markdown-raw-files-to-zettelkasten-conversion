@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221019143424](/zet/20221019143424/README.md) JSON concept
 - [20221012153227](/zet/20221012153227/README.md) nodejs
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
 - [20221008212519](/zet/20221008212519/README.md) programming language

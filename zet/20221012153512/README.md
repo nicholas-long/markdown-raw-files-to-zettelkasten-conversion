@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221019143615](/zet/20221019143615/README.md) data concept
 - [20221003150993](/zet/20221003150993/README.md) how GraphQL APIs work
 - [20221003150132](/zet/20221003150132/README.md) find file with name matching regular expression
 - [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset

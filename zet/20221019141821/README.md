@@ -17,18 +17,13 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221007194303](/zet/20221007194303/README.md) github
-
 - [20221018182017](/zet/20221018182017/README.md) read bash man page
-
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
-
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
-
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
-
 - [20221006214142](/zet/20221006214142/README.md) streamers
-
 - [20221016233432](/zet/20221016233432/README.md) commits for day of 2022-05-01
 - https://github.com/terminalforlife
 

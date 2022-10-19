@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221019141821](/zet/20221019141821/README.md) terminalforlife bash scripting youtuber
+- [20221014190232](/zet/20221014190232/README.md) kb file named kb/scripts.md
 - [20221003150191](/zet/20221003150191/README.md) zsh
 - [20221019002732](/zet/20221019002732/README.md) shells
 - [20221018190312](/zet/20221018190312/README.md) bash scripting workflow
