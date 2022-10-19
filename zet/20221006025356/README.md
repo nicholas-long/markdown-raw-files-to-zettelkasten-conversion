@@ -6,6 +6,8 @@ linux reference links and concepts
 
 # Related
 
+- [20221003150191](/zet/20221003150191/README.md) zsh
+- [20221019002732](/zet/20221019002732/README.md) shells
 - [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221003150168](/zet/20221003150168/README.md) dump process memory on linux
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands

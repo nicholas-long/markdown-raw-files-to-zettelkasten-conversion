@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150717](/zet/20221003150717/README.md) packet capture
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150833](/zet/20221003150833/README.md) responder

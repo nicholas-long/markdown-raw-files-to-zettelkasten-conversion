@@ -49,6 +49,7 @@
 
 # Related
 
+- [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
 - [20221003150874](/zet/20221003150874/README.md) nikto command
 - [20221003150709](/zet/20221003150709/README.md) sqlmap
 - [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For

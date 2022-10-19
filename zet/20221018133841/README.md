@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151439](/zet/20221003151439/README.md) awk scripting base64 encode lines individually
 - [20221003151423](/zet/20221003151423/README.md) bash scripting urlencode and base64 encode lines individually
 - [20221003151399](/zet/20221003151399/README.md) bash scripting find alphanumeric base64 using awk script

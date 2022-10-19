@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221019003259](/zet/20221019003259/README.md) background task or running service on machine
 - [20221014185710](/zet/20221014185710/README.md) kb file named kb/hacking/windows/service-account-privileges.md
 - [20221008215655](/zet/20221008215655/README.md) user account
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub

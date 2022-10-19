@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221012093513](/zet/20221012093513/README.md) how can i use my netbook in my workflow from the road
 - [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash

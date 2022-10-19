@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150191](/zet/20221003150191/README.md) zsh
 - [20221018190312](/zet/20221018190312/README.md) bash scripting workflow
 - [20221018193528](/zet/20221018193528/README.md) bash shell builtin commands
 - [20221018183943](/zet/20221018183943/README.md) shellcheck

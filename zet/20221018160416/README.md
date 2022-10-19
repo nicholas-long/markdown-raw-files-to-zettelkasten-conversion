@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list
 - [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS
 - [20221008215655](/zet/20221008215655/README.md) user account

@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
 - [20221003150685](/zet/20221003150685/README.md) decode hex on command line
 - [20221003150168](/zet/20221003150168/README.md) dump process memory on linux
 - [20221003150862](/zet/20221003150862/README.md) SSH arguments

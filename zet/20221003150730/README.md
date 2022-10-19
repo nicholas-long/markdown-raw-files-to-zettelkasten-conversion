@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150476](/zet/20221003150476/README.md) powershell tricks
 - [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
 - [20221003150463](/zet/20221003150463/README.md) powershell PSCredential password print password from object
 - [20221014185911](/zet/20221014185911/README.md) kb file named kb/hacking/commands/encode-powershell-base64-windows.md

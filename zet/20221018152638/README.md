@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221018152947](/zet/20221018152947/README.md) virtual machine VM concept
 - [20221018152809](/zet/20221018152809/README.md) VM hypervisor or manager or player or host software
 - [20221003150229](/zet/20221003150229/README.md) apk analysis emulate a phone with genymotion and virtualbox

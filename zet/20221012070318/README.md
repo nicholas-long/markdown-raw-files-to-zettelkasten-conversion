@@ -9,6 +9,8 @@ the concept of `linux terminal`
 
 # Related
 
+- [20221019002732](/zet/20221019002732/README.md) shells
+- [20221003150191](/zet/20221003150191/README.md) zsh
 - [20221003150194](/zet/20221003150194/README.md) set the bash prompt to use vi hotkeys
 - [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video
 - [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
