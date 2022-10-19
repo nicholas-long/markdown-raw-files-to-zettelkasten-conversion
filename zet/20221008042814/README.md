@@ -6,7 +6,6 @@ stuff i am working on.
 
 # Related
 
-- [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
 - [20221018201513](/zet/20221018201513/README.md) make a script to get the context of a card - word counts
 - [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
