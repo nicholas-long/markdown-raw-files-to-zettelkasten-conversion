@@ -111,7 +111,16 @@ while [ 1 == "$going" ]; do
       $EDITOR "$doc"
     fi
   elif [ "$act" == "tab" ]; then
-    tmux new-window $0 "$doc"
+    #tmux new-window $0 "$doc"
+    selection=$(mktemp)
+    awk '
+      /^ *- \[.*\]\(\/zet\/[0-9]+\/README.md\)/ {
+        print $0
+        fflush()
+      }
+    ' "$doc" | fzf -m | zet/$IMPL/parseids > "$selection"
+    awk '{print "zet/" $0 "/README.md"}' $selection | xargs -n 1 tmux new-window "$0"
+    rm "$selection"
   elif [ "$act" == "/deep" ]; then
     if [ -z $TMUX ]; then
       newid=$(zet/$MYID/connectome_deep | fzf | awk '{print $1}')
