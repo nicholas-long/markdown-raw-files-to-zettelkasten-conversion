@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221019014416](/zet/20221019014416/README.md) enormous commit bigboi
 - [20221003151302](/zet/20221003151302/README.md) get current script directory
 - [20221016233303](/zet/20221016233303/README.md) commits for day of 2022-02-09
 - [20221016233427](/zet/20221016233427/README.md) commits for day of 2022-04-26

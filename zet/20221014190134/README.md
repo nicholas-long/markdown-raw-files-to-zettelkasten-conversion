@@ -18,6 +18,7 @@ tar -czvf bettercap-pkg.tar *.deb
 
 # Related
 
+- [20221019014416](/zet/20221019014416/README.md) enormous commit bigboi
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221016233334](/zet/20221016233334/README.md) commits for day of 2022-03-11
 - [20221016233427](/zet/20221016233427/README.md) commits for day of 2022-04-26

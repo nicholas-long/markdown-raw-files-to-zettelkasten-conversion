@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221019014416](/zet/20221019014416/README.md) enormous commit bigboi
 - [20221003150081](/zet/20221003150081/README.md) tmux box art enable
 - [20221016233300](/zet/20221016233300/README.md) commits for day of 2022-02-07
 - [20221016233427](/zet/20221016233427/README.md) commits for day of 2022-04-26

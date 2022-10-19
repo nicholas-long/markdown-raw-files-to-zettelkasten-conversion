@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221019014416](/zet/20221019014416/README.md) enormous commit bigboi
 - [20221003150549](/zet/20221003150549/README.md) URL CRAWL/ Discovery waybackurls
 - [20221003150569](/zet/20221003150569/README.md) Powershell File Transfer As Cmd.exe Command
 - [20221003150568](/zet/20221003150568/README.md) SMB List Drives (Execute on Victim)

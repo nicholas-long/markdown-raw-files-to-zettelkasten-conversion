@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221014185502](/zet/20221014185502/README.md) kb file named kb/vim/spacevim-set-bindings.md
 - [20221014190215](/zet/20221014190215/README.md) kb file named kb/tmux/get-ctrl-h-to-work.md
 - [20221014190213](/zet/20221014190213/README.md) kb file named kb/tmux/fix-box-art.md
