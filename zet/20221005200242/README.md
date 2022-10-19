@@ -177,7 +177,6 @@ this is a list of possibly empty zettels.
 - [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks
 - [20221003150755](/zet/20221003150755/README.md) keytool
 - [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket
-- [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands
 - [20221003150744](/zet/20221003150744/README.md) hydra brute force
 - [20221003150739](/zet/20221003150739/README.md) feroxbuster
 - [20221003150730](/zet/20221003150730/README.md) powershell
@@ -324,7 +323,7 @@ this is a list of possibly empty zettels.
 - [20221003150187](/zet/20221003150187/README.md) linux free up space
 - [20221003150184](/zet/20221003150184/README.md) add user to group
 - [20221003150182](/zet/20221003150182/README.md) install alacritty 
-- [20221003150176](/zet/20221003150176/README.md) ex commands
+- [20221003150176](/zet/20221003150176/README.md) ex editor
 - [20221003150174](/zet/20221003150174/README.md) less
 - [20221003150173](/zet/20221003150173/README.md) less replay script log
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities

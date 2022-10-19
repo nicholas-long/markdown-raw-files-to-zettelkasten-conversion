@@ -27,6 +27,7 @@
 
 # Related
 
+- [20221003150751](/zet/20221003150751/README.md) kerbrute password spray users from user list file
 - [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection
 - [20221003151233](/zet/20221003151233/README.md) mysql mariadb write any binary file with file permissions
 - [20221003151232](/zet/20221003151232/README.md) mysql mariadb exploit GRANT OPTION to grant file write permissions to self

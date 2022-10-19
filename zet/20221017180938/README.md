@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150753](/zet/20221003150753/README.md) kerbrute
 - [20221003150677](/zet/20221003150677/README.md) bloodhound
 - [20221003150777](/zet/20221003150777/README.md) MSFVENOM
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy

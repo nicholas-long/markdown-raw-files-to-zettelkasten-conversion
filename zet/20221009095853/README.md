@@ -6,6 +6,7 @@ things that are finished.
 
 # Related
 
+- [20221019143924](/zet/20221019143924/README.md) link all this up to AD and to try list
 - [20221019014416](/zet/20221019014416/README.md) enormous commit bigboi
 - [20221012094712](/zet/20221012094712/README.md) linux sort issues with locale
 - [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux

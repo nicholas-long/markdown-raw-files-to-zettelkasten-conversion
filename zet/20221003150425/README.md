@@ -5,6 +5,8 @@ https://github.com/GhostPack/Rubeus
 
 # Related
 
+- [20221019150132](/zet/20221019150132/README.md) kerberos AD commands
+- [20221003150747](/zet/20221003150747/README.md) impacket kerberos commands ticket environment variable KRB5CCNAME
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - [20221006215623](/zet/20221006215623/README.md) scrambled machine video notes
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list

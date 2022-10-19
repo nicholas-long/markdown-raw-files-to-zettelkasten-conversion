@@ -5,6 +5,7 @@ https://github.com/ropnop/kerbrute
 
 # Related
 
+- [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221017182222](/zet/20221017182222/README.md) bruteforcing or password spraying tools
 - [20221014185905](/zet/20221014185905/README.md) kb file named kb/hacking/commands/windows-active-directory-kerberos-commands.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

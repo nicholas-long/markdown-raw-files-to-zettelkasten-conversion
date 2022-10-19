@@ -86,6 +86,9 @@
 
 # Related
 
+- [20221019150132](/zet/20221019150132/README.md) kerberos AD commands
+- [20221003150752](/zet/20221003150752/README.md) kerbrute enumerate users using wordlist
+- [20221003150751](/zet/20221003150751/README.md) kerbrute password spray users from user list file
 - [20221017172946](/zet/20221017172946/README.md) LAN attacks
 - [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
 - [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md

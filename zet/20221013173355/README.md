@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221019151504](/zet/20221019151504/README.md) error message username enumeration
 - [20221018161819](/zet/20221018161819/README.md) did i link a bunch of weird enumeration stuff together?
 - [20221003150688](/zet/20221003150688/README.md) wpscan initial enumerate user id range
 - [20221003150640](/zet/20221003150640/README.md) nmap run "all" enumeration and scripts

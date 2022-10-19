@@ -8,6 +8,7 @@
 
 # Related
 
+- [20221019151504](/zet/20221019151504/README.md) error message username enumeration
 - [20221016233401](/zet/20221016233401/README.md) commits for day of 2022-04-03
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam

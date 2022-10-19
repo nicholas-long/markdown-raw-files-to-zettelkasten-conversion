@@ -1,5 +1,6 @@
 
 #active
+#activedirectory
 #ad
 #ai
 #ansible
@@ -137,6 +138,7 @@
 #kafka
 #kafkacat
 #kali
+#kerberos
 #keytool
 #ksql
 #kubernetes
@@ -186,6 +188,7 @@
 #practice
 #preview
 #privesc
+#process
 #procmon
 #program
 #programming

@@ -16,6 +16,8 @@ crackmapexec smb --help
 
 # Related
 
+- [20221019150132](/zet/20221019150132/README.md) kerberos AD commands
+- [20221019150908](/zet/20221019150908/README.md) userlist file concept
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221017182222](/zet/20221017182222/README.md) bruteforcing or password spraying tools
 - [20221003151153](/zet/20221003151153/README.md) windows

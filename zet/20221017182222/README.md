@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221019150908](/zet/20221019150908/README.md) userlist file concept
 - [20221003150686](/zet/20221003150686/README.md) wpscan brute force users file and password list
 - [20221003150819](/zet/20221003150819/README.md) metasploit msf
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands

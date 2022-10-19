@@ -9,6 +9,7 @@ crackmapexec smb fqdn.domain.local -u User --kerberos
 
 # Related
 
+- [20221019150132](/zet/20221019150132/README.md) kerberos AD commands
 - [20221014185905](/zet/20221014185905/README.md) kb file named kb/hacking/commands/windows-active-directory-kerberos-commands.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket

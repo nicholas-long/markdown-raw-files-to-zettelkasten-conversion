@@ -11,6 +11,7 @@
 
 # Related
 
+- [20221019150132](/zet/20221019150132/README.md) kerberos AD commands
 - [20221003150597](/zet/20221003150597/README.md) impacket kerberoast with impacket-GetUserSPNs
 - [20221003150596](/zet/20221003150596/README.md) impacket quick smb server
 - [20221003150595](/zet/20221003150595/README.md) impacket dump registry and NTDS secrets from files with secretsdump
