@@ -7,7 +7,8 @@
 
 # Related
 
-- [20221003151172](/zet/20221003151172/README.md) active directory domain
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
+
 - [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation

@@ -16,6 +16,10 @@ Invoke-Command -Computer 127.0.0.1 -Credential $cred -ScriptBlock { IEX(New-Obje
 
 # Related
 
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
+
+- [20221003150476](/zet/20221003150476/README.md) powershell tricks
+
 - [20221014190037](/zet/20221014190037/README.md) kb file named kb/hacking/powershell/powershell-enumeration-commands.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150486](/zet/20221003150486/README.md) active directory get GMSA service account properties
