@@ -1,13 +1,18 @@
-# wfuzz fuzzing details "X-Forwarded-For" header with custom IPS
+# wfuzz fuzzing details "X-Forwarded-For" header with custom IP ranges
+
+- use two parameters, i.e. `-z range,1-100` `-w random-ips.lst`
+- `-m zip` this will zip the parameters: attempt line 1 from both lists, then line 2 from both, etc, until exhausted
+- use `FUZ2Z` for the second fuzz placeholder
+  - example: `-H 'X-Forwarded-For: FUZ2Z'`
 
 ` zet/20221003150811/README.md `
 
 # Related
 
-- [20221014185849](/zet/20221014185849/README.md) kb file named kb/hacking/commands/wfuzz-fuzzing.md
 - [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
+- [20221003150810](/zet/20221003150810/README.md) wfuzz fuzzing details fuzz multiple parameters
+- [20221014185849](/zet/20221014185849/README.md) kb file named kb/hacking/commands/wfuzz-fuzzing.md
 - ~/kb/hacking/commands/wfuzz-fuzzing.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

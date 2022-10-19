@@ -158,8 +158,6 @@ this is a list of possibly empty zettels.
 - [20221003150819](/zet/20221003150819/README.md) metasploit msf
 - [20221003150816](/zet/20221003150816/README.md) meterpreter msf
 - [20221003150815](/zet/20221003150815/README.md) meterpreter msf move from x86 to x64
-- [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
-- [20221003150811](/zet/20221003150811/README.md) wfuzz fuzzing details "X-Forwarded-For" header with custom IPS
 - [20221003150807](/zet/20221003150807/README.md) brute force default credentials
 - [20221003150801](/zet/20221003150801/README.md) openssl commands
 - [20221003150798](/zet/20221003150798/README.md) git
