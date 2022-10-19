@@ -183,7 +183,6 @@ this is a list of possibly empty zettels.
 - [20221003150739](/zet/20221003150739/README.md) feroxbuster
 - [20221003150730](/zet/20221003150730/README.md) powershell
 - [20221003150720](/zet/20221003150720/README.md) curl
-- [20221003150717](/zet/20221003150717/README.md) packet capture
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
 - [20221003150714](/zet/20221003150714/README.md) packet capture with tcpdump watch traffic
 - [20221003150709](/zet/20221003150709/README.md) sqlmap
@@ -342,7 +341,6 @@ this is a list of possibly empty zettels.
 - [20221003150154](/zet/20221003150154/README.md) cyberpunk retro machine project
 - [20221003150143](/zet/20221003150143/README.md) proxmox
 - [20221003150140](/zet/20221003150140/README.md) apt package
-- [20221003150134](/zet/20221003150134/README.md) DNS
 - [20221003150131](/zet/20221003150131/README.md) java download links
 - [20221003150129](/zet/20221003150129/README.md) tldr
 - [20221003150128](/zet/20221003150128/README.md) tldr pages location

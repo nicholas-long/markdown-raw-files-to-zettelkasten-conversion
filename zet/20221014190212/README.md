@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
+
 - [20221016233414](/zet/20221016233414/README.md) commits for day of 2022-04-13
 - [20221003151443](/zet/20221003151443/README.md) kb
 

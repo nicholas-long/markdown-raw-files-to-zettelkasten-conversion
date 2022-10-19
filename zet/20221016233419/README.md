@@ -38,6 +38,8 @@ kb/hacking/python/python-quick-reference.md
 
 # Related
 
+- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
+
 - [20221016233420](/zet/20221016233420/README.md) commits for day of 2022-04-20
 - [20221014185753](/zet/20221014185753/README.md) kb file named kb/hacking/python/python-quick-reference.md
 - [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md

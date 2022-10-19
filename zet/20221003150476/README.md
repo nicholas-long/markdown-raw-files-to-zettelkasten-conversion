@@ -4,6 +4,10 @@
 
 # Related
 
+- [20221003151101](/zet/20221003151101/README.md) powershell commands
+
+- [20221003150730](/zet/20221003150730/README.md) powershell
+
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221014190039](/zet/20221014190039/README.md) kb file named kb/hacking/powershell/powershell-tricks.md
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
