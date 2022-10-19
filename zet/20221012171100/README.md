@@ -17,8 +17,6 @@ zet/20221012171100/README.md
 - [20221018201513](/zet/20221018201513/README.md) make a script to get the context of a card - word counts
 - [20221018193528](/zet/20221018193528/README.md) bash shell builtin commands
 - [20221018190312](/zet/20221018190312/README.md) bash scripting workflow
-- [20221018183943](/zet/20221018183943/README.md) shellcheck
-- [20221018182017](/zet/20221018182017/README.md) read bash man page
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:
