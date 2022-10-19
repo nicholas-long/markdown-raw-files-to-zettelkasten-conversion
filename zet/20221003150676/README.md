@@ -20,7 +20,6 @@ bloodhound-python -c All -u user -p password -dc 'FQDNMachineName.domain.local' 
 # Related
 
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d
-
 - [20221014185927](/zet/20221014185927/README.md) kb file named kb/hacking/commands/bloodhound.md
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

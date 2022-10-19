@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221003150140](/zet/20221003150140/README.md) apt package
 - [20221009014200](/zet/20221009014200/README.md) concept of a command

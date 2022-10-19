@@ -6,6 +6,9 @@ the concept of a `command`
 
 # Related
 
+- [20221003150600](/zet/20221003150600/README.md) impacket
+- [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
+- [20221003150611](/zet/20221003150611/README.md) smbclient
 - [20221003150210](/zet/20221003150210/README.md) kafkacat
 - [20221003150698](/zet/20221003150698/README.md) SNMP enumeration command
 - [20221018174628](/zet/20221018174628/README.md) tar command

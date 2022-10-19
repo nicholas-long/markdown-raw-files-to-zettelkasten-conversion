@@ -24,6 +24,7 @@ for each path
 
 # Related
 
+- [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting
 - [20221003150739](/zet/20221003150739/README.md) feroxbuster
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md

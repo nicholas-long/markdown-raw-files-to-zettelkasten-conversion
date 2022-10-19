@@ -17,7 +17,6 @@ crackmapexec smb --help
 # Related
 
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
-
 - [20221017182222](/zet/20221017182222/README.md) bruteforcing or password spraying tools
 - [20221003151153](/zet/20221003151153/README.md) windows
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool

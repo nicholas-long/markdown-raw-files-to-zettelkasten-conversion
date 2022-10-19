@@ -19,8 +19,6 @@ zet/20221012171100/README.md
 - [20221018190312](/zet/20221018190312/README.md) bash scripting workflow
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221018182017](/zet/20221018182017/README.md) read bash man page
-- [20221018175658](/zet/20221018175658/README.md) hexadecimal hex
-- [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:
