@@ -1,5 +1,5 @@
 # HTTP uncommon ideas list
-- [specific HTTP server exploit possibilities](HTTP.md#specific-http-server-exploit-possibilities)
+- [20221003151189](/zet/20221003151189/README.md) HTTP specific HTTP server exploit possibilities
 - mention github/source control -> go look it up, find source
   - organizations -> people and their projects / commits
   - check commit history for secrets / creds
@@ -7,7 +7,7 @@
 - generate cewl wordlist for login bruteforcing, busting directories, subdomains
 - generated file -> metadata / exiftool
 - web app with secrets / 2fa -> test default secrets
-- bypassing restrictions -> [bypassing restrictions](HTTP.md#bypassing-restrictions)
+- bypassing restrictions -> [20221003151185](/zet/20221003151185/README.md) HTTP bypassing restrictions
 - upload -> bypassing extension filtering ( search "web server executable extensions" php in kb )
 - unlikely injection tests
   - NoSQL injection
@@ -35,6 +35,10 @@
 ` zet/20221003151191/README.md `
 
 # Related
+
+- [20221003151189](/zet/20221003151189/README.md) HTTP specific HTTP server exploit possibilities
+
+- [20221003151185](/zet/20221003151185/README.md) HTTP bypassing restrictions
 
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
 - [20221018160416](/zet/20221018160416/README.md) credential harvesting concept

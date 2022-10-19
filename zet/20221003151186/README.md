@@ -4,20 +4,31 @@
   - enumerate resources and endpoints to interact with them
   - enumerate parameters for endpoints - arjun
   - restful methods GET POST PUT DELETE
+  - IDOR
   - mass assignment - inject parameter on endpoints that are intended to update different fields
     - try parameter pollution
     - including extra parameters
     - type juggling
   - parameter or URL REST endpoint parameter directory traversal
-  - graphql -> [GraphQL APIs](../methodology/API-enumeration.md#graphql-apis)
-  - everything from [bug hunting workflow](../methodology/API-enumeration.md#bug-hunting-workflow)
-  - everything from [OWASP top 10 api bugs](../methodology/owasp-top-10-api-bugs.md#owasp-top-10-api-bugs)
-  - IDOR
+  - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
+  - [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs
+  - [20221003150441](/zet/20221003150441/README.md) OWASP cheat sheet series
+  - graphql -> [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
   - kiterunner tool and wordlists
 
 ` zet/20221003151186/README.md `
 
 # Related
+
+- [20221003150441](/zet/20221003150441/README.md) OWASP cheat sheet series
+
+- [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs
+
+- [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
+
+- [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
+
+- [20221003150995](/zet/20221003150995/README.md) GraphQL APIs GraphQL tools
 
 - [20221019151504](/zet/20221019151504/README.md) error message username enumeration
 - [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
