@@ -13,6 +13,7 @@
 
 # Related
 
+- [20221020183231](/zet/20221020183231/README.md) how to get titles to show up in obsidian graph
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube

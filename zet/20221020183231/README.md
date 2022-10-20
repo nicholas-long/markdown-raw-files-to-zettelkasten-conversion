@@ -14,12 +14,10 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
-
 - [20221009172522](/zet/20221009172522/README.md) obsidian
-
 - [20221009172351](/zet/20221009172351/README.md) markdown file format
-
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - https://github.com/Snezhig/obsidian-front-matter-title
 

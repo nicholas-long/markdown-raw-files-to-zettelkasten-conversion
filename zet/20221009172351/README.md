@@ -7,7 +7,8 @@ this file is markdown.
 
 # Related
 
-- [20221017091309](/zet/20221017091309/README.md) test mermaid tags
+- [20221020183231](/zet/20221020183231/README.md) how to get titles to show up in obsidian graph
+- [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams
 - [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
 - [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents
 - [20221003151274](/zet/20221003151274/README.md) install mandown

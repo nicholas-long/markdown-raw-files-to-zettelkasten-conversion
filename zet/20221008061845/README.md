@@ -15,7 +15,6 @@ hub node for `workflow`
 # Related
 
 - [20221020183231](/zet/20221020183231/README.md) get graph titles working in obsidian
-
 - [20221018190312](/zet/20221018190312/README.md) bash scripting workflow
 - [20221018155432](/zet/20221018155432/README.md) cyberpunk library
 - [20221018052621](/zet/20221018052621/README.md) how to process email programatically?

@@ -51,6 +51,7 @@ Options:
 
 # Related
 
+- [20221020183231](/zet/20221020183231/README.md) how to get titles to show up in obsidian graph
 - [20221018201513](/zet/20221018201513/README.md) make a script to get the context of a card - word counts
 - [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
