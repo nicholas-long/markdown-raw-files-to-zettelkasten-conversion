@@ -14,13 +14,9 @@ alien --to-deb file.rpm
 # Related
 
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands
-
 - [20221003150517](/zet/20221003150517/README.md) binary analysis
-
 - [20221013175128](/zet/20221013175128/README.md) preparing exploit payloads
-
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
-
 - [20221014190138](/zet/20221014190138/README.md) kb file named kb/linux/package-manager-commands.md
 - [20221003150193](/zet/20221003150193/README.md) convert
 - ~/kb/linux/package-manager-commands.md

@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221003151348](/zet/20221003151348/README.md) awk bash scripting move files automatically
+- [20221003151344](/zet/20221003151344/README.md) awk bash scripting split into files by column value
 - [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
 - [20221018201513](/zet/20221018201513/README.md) make a script to get the context of a card - word counts
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code

@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150192](/zet/20221003150192/README.md) convert package type to deb rpm slp lsb tgz
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful

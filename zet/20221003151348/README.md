@@ -12,7 +12,6 @@ ls | awk '{ split($0,arr,"-"); system("mv " $0 " " arr[1] ".md") }'
 # Related
 
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
-
 - [20221014190117](/zet/20221014190117/README.md) kb file named kb/awk-scripting/bash-awk-quick-commands.md
 - ~/kb/awk-scripting/bash-awk-quick-commands.md
 

@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150192](/zet/20221003150192/README.md) convert package type to deb rpm slp lsb tgz
 - [20221003150777](/zet/20221003150777/README.md) MSFVENOM
 - [20221014074852](/zet/20221014074852/README.md) "Keep It Simple Stupid" principle of engineering and design
 - [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven

@@ -13,7 +13,6 @@ cat trades-june1.csv | awk -F, 'length($4) { print > $4 ".csv" }'
 # Related
 
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
-
 - [20221014190117](/zet/20221014190117/README.md) kb file named kb/awk-scripting/bash-awk-quick-commands.md
 - ~/kb/awk-scripting/bash-awk-quick-commands.md
 
