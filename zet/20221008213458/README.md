@@ -9,6 +9,7 @@ the concept of `operating system`
 
 # Related
 
+- [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221003150923](/zet/20221003150923/README.md) BSD
 - [20221003150253](/zet/20221003150253/README.md) PXE boot
 - [20221012101349](/zet/20221012101349/README.md) ubuntu

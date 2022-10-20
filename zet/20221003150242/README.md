@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150420](/zet/20221003150420/README.md) finger user enum
 - [20221020000848](/zet/20221020000848/README.md) SSH
 - [20221014190106](/zet/20221014190106/README.md) kb file named kb/hacking/analysis/identify-service-data.md
 - [20221003151203](/zet/20221003151203/README.md) LDAP

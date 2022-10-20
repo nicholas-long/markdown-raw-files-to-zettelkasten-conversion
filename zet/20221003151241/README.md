@@ -9,7 +9,6 @@ Filter non windows hosts `| grep 'bytes from' | grep -v 'ttl=12'`
 # Related
 
 - [20221008213458](/zet/20221008213458/README.md) operating system
-
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221013173355](/zet/20221013173355/README.md) enumeration - the process of enumerating a target
