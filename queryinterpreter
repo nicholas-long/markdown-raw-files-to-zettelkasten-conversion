@@ -1,11 +1,13 @@
 #!/usr/bin/awk -f
 BEGIN {
   inter = "./queryinterpreter"
-  #print "interpreter", inter
+  diag = "/dev/stderr"
+  print "interpreter", inter > diag
 }
 function interpretme(subcommand) { # interpret the rest of this line as a subcommand. return the command string to read and close.
   "mktemp" | getline tf
-  print "interpret", subcommand
+  close("mktemp")
+  #print "interpret", subcommand
   print subcommand > tf
   close(tf)
   command = inter " " tf
@@ -13,22 +15,65 @@ function interpretme(subcommand) { # interpret the rest of this line as a subcom
 }
 /^ / { gsub(/^ +/,"") }
 / $/ { gsub(/ +$/,"") }
+{
+  print "query", $0 > diag
+}
 /^#[a-zA-Z0-9-]+$/ {
   tag = $0
   gsub(/^#/,"",tag)
-  print "read tag list", tag
-  command = "implementation/parseids tagindex/" tag ".md" # really simple
+  print "read tag list", tag > diag
+  command = "implementation/parseids tagindex/" tag ".md | sort -u" # really simple
   system(command)
+}
+/:/ { # test
+  split($0, arr, ":")
+  for (n = 1; n <= length(arr); n++){
+    print n, arr[n] > diag
+    "mktemp" | getline temp
+    close("mktemp")
+    print "tempfile", temp > diag
+    tempfiles[n] = temp
+    print "relation element", arr[n] > diag
+    command = interpretme(arr[n]) # write to temp file
+    print "subcommand", command > diag
+    bashcmd = "bash -c '" command " > " temp "'"
+    print "bashcmd", bashcmd > diag
+    system(bashcmd)
+  }
+  # iterate through all temp files by id
+  for (n = 1; n <= length(tempfiles); n++) {
+    if (n < length(tempfiles)) {
+      subcommand = "xargs -n 1 ./zc refs | sort -u"
+    } else {
+      subcommand = "sort -u"
+    }
+    print command > diag
+    while ((getline < tempfiles[n]) > 0) {
+      if (n == 1 || seen[$0]){
+        print | subcommand
+      }
+    }
+    close(tempfiles[n])
+    close(subcommand, "to")
+    delete seen
+    if (n < length(tempfiles)) {
+      while ((subcommand | getline) > 0) {
+        seen[$0] = 1
+      }
+    }
+    close(subcommand)
+  }
 }
 $(NF-1) == "~" {
   query=$NF
-  print "start query", query
+  print "start query", query > diag
   NF -= 2
+  filtercommand = "xargs grep " query " | cut -d : -f 1 | implementation/parseids | sort -u"
   command = interpretme($0)
   while ((command | getline) > 0){
-    print "|", $0
+    if ($0 ~ /^[0-9]+$/) print "zet/" $0 "/README.md" | filtercommand
   }
+  print "like", query > diag
   close(command)
-  print "like", query
-  print "done query", query
+  print "done query", query > diag
 }
