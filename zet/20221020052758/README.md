@@ -24,6 +24,7 @@ RETURN type(r)
 
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221008054623](/zet/20221008054623/README.md) neo4j
+- https://neo4j.com/docs/cypher-manual/current/clauses/create/
 
 Tags:
 
