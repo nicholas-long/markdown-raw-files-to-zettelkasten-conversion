@@ -6,7 +6,7 @@ if [ -z "$EDITOR" ]; then
   EDITOR=$(which nvim 2>/dev/null || which vim 2>/dev/null || which vi 2>/dev/null )
 fi
 if [ -z "$prog" ]; then
-  prog="./zc"
+  export prog="./zc"
 fi
 
 # running preview subprocess
