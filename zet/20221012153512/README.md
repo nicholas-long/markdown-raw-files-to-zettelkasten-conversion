@@ -35,7 +35,6 @@
 - [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
 - [20221003150981](/zet/20221003150981/README.md) mariadb mysql files read
 - [20221003150740](/zet/20221003150740/README.md) hydra brute force MYSQL
-- [20221003151234](/zet/20221003151234/README.md) mysql mariadb UDF shell
 - [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
 - [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb

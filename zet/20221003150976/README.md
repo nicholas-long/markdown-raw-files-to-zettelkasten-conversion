@@ -28,10 +28,14 @@ Use firefox containers to handle multiple sessions https://addons.mozilla.org/en
 
 # Related
 
+- [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing
+
+- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
+
 - [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs
 - [20221003150996](/zet/20221003150996/README.md) GraphQL APIs common GraphQL bugs
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
-- [20221003151192](/zet/20221003151192/README.md) HTTP TRY
+- [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 
 Tags:
 

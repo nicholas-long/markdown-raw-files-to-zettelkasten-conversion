@@ -1,4 +1,4 @@
-# TFTP udp 69
+# TFTP udp 69 to try list
 - put files
   - default put location is `/var/lib/tftpboot/`
 - read files
@@ -15,4 +15,4 @@
 
 Tags:
 
-    
+    #file #udp

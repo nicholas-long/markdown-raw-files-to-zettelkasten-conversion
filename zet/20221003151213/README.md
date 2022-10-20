@@ -1,4 +1,4 @@
-# got leaked files TRY
+# got leaked files to try list
 - exiftool 
   - usernames
   - machine name
@@ -9,6 +9,13 @@
 ` zet/20221003151213/README.md `
 
 # Related
+
+- [20221003151179](/zet/20221003151179/README.md) FTP to try list
+
+- [20221003151198](/zet/20221003151198/README.md) SMB to try list
+
+- [20221003151192](/zet/20221003151192/README.md) HTTP to try list
+
 
 - [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12
 - [20221003150517](/zet/20221003150517/README.md) binary analysis

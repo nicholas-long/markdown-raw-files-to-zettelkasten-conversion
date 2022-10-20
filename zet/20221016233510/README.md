@@ -32,6 +32,8 @@ kb/hacking/priv-esc/enumeration-quick-commands.md
 
 # Related
 
+- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
+
 - [20221016233512](/zet/20221016233512/README.md) commits for day of 2022-05-31
 - [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
 - [20221014185647](/zet/20221014185647/README.md) kb file named kb/hacking/defense/linux-hardening.md

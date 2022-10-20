@@ -57,6 +57,10 @@
 
 # Related
 
+- [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
+
+- [20221003151006](/zet/20221003151006/README.md) API enumeration
+
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
 - [20221019143424](/zet/20221019143424/README.md) JSON concept
 - [20221003150976](/zet/20221003150976/README.md) IDOR general steps

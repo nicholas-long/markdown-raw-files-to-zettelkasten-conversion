@@ -1,4 +1,4 @@
-# FTP
+# FTP to try list
 - anon login
 - default creds hydra and `-e nsr`
 - nmap script checks: bounce and anon login

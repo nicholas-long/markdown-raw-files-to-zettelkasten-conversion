@@ -35,7 +35,6 @@
 - [20221003150563](/zet/20221003150563/README.md) Bash Reverse Shell
 - [20221003151259](/zet/20221003151259/README.md) stabilize shell with script command
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
-- [20221003151234](/zet/20221003151234/README.md) mysql mariadb UDF shell
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
 - [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
 - [20221003150830](/zet/20221003150830/README.md) postgres sql enumeration

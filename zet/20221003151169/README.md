@@ -1,4 +1,4 @@
-# NFS
+# NFS to try list
 - exfiltrate files
 - mount with `-o nolock` (old servers)
 - home directory -> upload authorized_keys
@@ -17,4 +17,4 @@
 
 Tags:
 
-    
+    #nfs #linux

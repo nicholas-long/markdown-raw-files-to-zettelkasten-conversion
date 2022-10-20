@@ -1,4 +1,4 @@
-# DNS
+# DNS to try list
 - look up 127.0.0.1
 - nonsecure dns update -> change with nsupdate
 - look up stuff on networks
@@ -27,4 +27,4 @@
 
 Tags:
 
-    
+    #to-try-list #dns

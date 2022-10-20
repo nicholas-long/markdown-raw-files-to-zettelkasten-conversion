@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221003151153](/zet/20221003151153/README.md) windows
+
 - [20221016233739](/zet/20221016233739/README.md) commits for day of 2022-09-28
 - [20221016233520](/zet/20221016233520/README.md) commits for day of 2022-06-04
 - [20221016233518](/zet/20221016233518/README.md) commits for day of 2022-06-03

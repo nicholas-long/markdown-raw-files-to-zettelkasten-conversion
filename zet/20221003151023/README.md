@@ -1,8 +1,13 @@
 # analyzing source code
 
+- [20221003151022](/zet/20221003151022/README.md) go web server
+- [20221003151021](/zet/20221003151021/README.md) PHP code
+
 ` zet/20221003151023/README.md `
 
 # Related
+
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis
 
 - [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource

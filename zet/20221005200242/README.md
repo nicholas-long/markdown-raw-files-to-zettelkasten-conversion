@@ -69,11 +69,7 @@ this is a list of possibly empty zettels.
 - [20221003151247](/zet/20221003151247/README.md) Jenkins / Groovy (Java) Reverse Shell
 - [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
-- [20221003151234](/zet/20221003151234/README.md) mysql mariadb UDF shell
 - [20221003151230](/zet/20221003151230/README.md) VBScript
-- [20221003151223](/zet/20221003151223/README.md) identify linux version from service version
-- [20221003151220](/zet/20221003151220/README.md) hql injection
-- [20221003151217](/zet/20221003151217/README.md) caddy
 - [20221003151214](/zet/20221003151214/README.md) got leaked files
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - [20221003151155](/zet/20221003151155/README.md) linux hardening
@@ -110,12 +106,9 @@ this is a list of possibly empty zettels.
 - [20221003151037](/zet/20221003151037/README.md) program files ruxim directory
 - [20221003151034](/zet/20221003151034/README.md) applocker limit allowed executables and allowed paths
 - [20221003151028](/zet/20221003151028/README.md) decrypt azure AD connect passwords
-- [20221003151025](/zet/20221003151025/README.md) JWT tokens
 - [20221003151023](/zet/20221003151023/README.md) analyzing source code
-- [20221003151017](/zet/20221003151017/README.md) nmap scripts
 - [20221003151010](/zet/20221003151010/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl 
 - [20221003151008](/zet/20221003151008/README.md) LFI or directory traversal procedures file wordlists
-- [20221003151006](/zet/20221003151006/README.md) API enumeration
 - [20221003151004](/zet/20221003151004/README.md) API enumeration good wordlists
 - [20221003150988](/zet/20221003150988/README.md) mariadb mysql
 - [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi
@@ -143,7 +136,6 @@ this is a list of possibly empty zettels.
 - [20221003150857](/zet/20221003150857/README.md) ssh-keygen
 - [20221003150855](/zet/20221003150855/README.md) dns commands
 - [20221003150851](/zet/20221003150851/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate
-- [20221003150847](/zet/20221003150847/README.md) gobuster
 - [20221003150833](/zet/20221003150833/README.md) responder
 - [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list
 - [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
@@ -166,7 +158,6 @@ this is a list of possibly empty zettels.
 - [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks
 - [20221003150755](/zet/20221003150755/README.md) keytool
 - [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket
-- [20221003150744](/zet/20221003150744/README.md) hydra brute force
 - [20221003150739](/zet/20221003150739/README.md) feroxbuster
 - [20221003150730](/zet/20221003150730/README.md) powershell
 - [20221003150720](/zet/20221003150720/README.md) curl
@@ -320,7 +311,6 @@ this is a list of possibly empty zettels.
 - [20221003150122](/zet/20221003150122/README.md) routing using a linux box add router to routes on hosts
 - [20221003150120](/zet/20221003150120/README.md) routing using a linux box iptables rules
 - [20221003150115](/zet/20221003150115/README.md) socat
-- [20221003150113](/zet/20221003150113/README.md) socat execute program
 - [20221003150105](/zet/20221003150105/README.md) python scripting
 - [20221003150104](/zet/20221003150104/README.md) python scripting requests http
 - [20221003150100](/zet/20221003150100/README.md) python scripting argument variable argv

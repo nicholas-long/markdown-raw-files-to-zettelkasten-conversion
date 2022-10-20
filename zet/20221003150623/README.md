@@ -4,6 +4,10 @@
 
 # Related
 
+- [20221008212802](/zet/20221008212802/README.md) software program
+
+- [20221003151179](/zet/20221003151179/README.md) FTP to try list
+
 - [20221014185946](/zet/20221014185946/README.md) kb file named kb/hacking/commands/pureftp-commands.md
 - [20221003150622](/zet/20221003150622/README.md) PureFTP Install
 - [20221003150621](/zet/20221003150621/README.md) PureFTP Create setupftp.sh Execute The Script
