@@ -150,7 +150,6 @@ this is a list of possibly empty zettels.
 - [20221003150855](/zet/20221003150855/README.md) dns commands
 - [20221003150851](/zet/20221003150851/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate
 - [20221003150847](/zet/20221003150847/README.md) gobuster
-- [20221003150837](/zet/20221003150837/README.md) smb mount share
 - [20221003150833](/zet/20221003150833/README.md) responder
 - [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list
 - [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp

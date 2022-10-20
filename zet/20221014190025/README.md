@@ -14,4 +14,4 @@
 
 Tags:
 
-    #idea
+    #notes

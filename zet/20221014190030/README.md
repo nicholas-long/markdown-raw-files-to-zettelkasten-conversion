@@ -1,6 +1,7 @@
 # kb file named kb/hacking/notes-template/steps.md
 
 - concept of `kb file named kb/hacking/notes-template/steps.md`
+- notes template
 
 ```
 ```
@@ -14,4 +15,4 @@
 
 Tags:
 
-    #idea
+    #notes
