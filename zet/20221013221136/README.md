@@ -1,5 +1,6 @@
 # implement a graph query language
 
+- `./queryinterpreter`
 - would allow for quickly and easily scripting some stuff up in cards
 - shouldn't be too hard
 - like relational database from old awk book
@@ -40,6 +41,8 @@ implement parentheses - sub expressions?
 ` zet/20221013221136/README.md `
 
 # Related
+
+- [20221020230358](/zet/20221020230358/README.md) test node 1
 
 - [20221009102918](/zet/20221009102918/README.md) get titles in tag links
 - [20221008054439](/zet/20221008054439/README.md) graph database
