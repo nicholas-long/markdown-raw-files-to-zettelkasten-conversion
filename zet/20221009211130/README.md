@@ -1,6 +1,8 @@
 # zettelkasten can be like a living knowledge base
 
-the concept of `zettelkasten can be like a living knowledge base`
+- the concept of `zettelkasten can be like a living knowledge base`
+- permanent links
+- content changes when things are linked to it
 
 ```
 ```
@@ -8,6 +10,8 @@ the concept of `zettelkasten can be like a living knowledge base`
 ` zet/20221009211130/README.md `
 
 # Related
+
+- [20221020051510](/zet/20221020051510/README.md) knowledge operations ideas
 
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
