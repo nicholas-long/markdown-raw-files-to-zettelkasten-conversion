@@ -1,5 +1,8 @@
-# awk and bash scripting rename or move files automatically programatically generate file names
-generate new file name from old name with awk strings
+# awk bash scripting move files automatically
+
+- programatically generate file names
+- rename
+- generate new file name from old name with awk strings
 ```bash
 ls | awk '{ split($0,arr,"-"); system("mv " $0 " " arr[1] ".md") }'
 ```
@@ -8,8 +11,9 @@ ls | awk '{ split($0,arr,"-"); system("mv " $0 " " arr[1] ".md") }'
 
 # Related
 
+- [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
+
 - [20221014190117](/zet/20221014190117/README.md) kb file named kb/awk-scripting/bash-awk-quick-commands.md
-- [20221003151349](/zet/20221003151349/README.md) awk and bash scripting rename or move files
 - ~/kb/awk-scripting/bash-awk-quick-commands.md
 
 Tags:

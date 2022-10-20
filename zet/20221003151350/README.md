@@ -18,8 +18,6 @@
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
-- [20221003151349](/zet/20221003151349/README.md) awk and bash scripting rename or move files
-- [20221003151347](/zet/20221003151347/README.md) awk and bash scripting partition split into files by column value
 - ~/kb/awk-scripting/bash-awk-quick-commands.md
 - [20221004212452](/zet/20221004212452/README.md) keyword stuffing zettels to fix bash sh
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
