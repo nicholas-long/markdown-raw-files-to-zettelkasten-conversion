@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221020000157](/zet/20221020000157/README.md) kb notes template file list
 - [20221016233632](/zet/20221016233632/README.md) commits for day of 2022-08-08
 - [20221016233446](/zet/20221016233446/README.md) commits for day of 2022-05-11
 - [20221016233720](/zet/20221016233720/README.md) commits for day of 2022-09-15

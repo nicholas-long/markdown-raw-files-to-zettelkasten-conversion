@@ -6,6 +6,7 @@ the concept of a `command`
 
 # Related
 
+- [20221020000848](/zet/20221020000848/README.md) SSH
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221003151289](/zet/20221003151289/README.md) jq
 - [20221003150600](/zet/20221003150600/README.md) impacket

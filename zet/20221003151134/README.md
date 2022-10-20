@@ -5,6 +5,7 @@ windows AD account with randomized, changing password to prevent kerberoasting s
 
 # Related
 
+- [20221003151342](/zet/20221003151342/README.md) convert decimal to hex GMSA managed password
 - [20221014185654](/zet/20221014185654/README.md) kb file named kb/hacking/windows/windows-active-directory-and-privilege-information.md
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003151144](/zet/20221003151144/README.md) active directory 

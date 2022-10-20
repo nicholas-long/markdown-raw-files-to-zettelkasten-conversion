@@ -5,9 +5,7 @@
 # Related
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
-
 - [20221013173355](/zet/20221013173355/README.md) enumeration - the process of enumerating a target
-
 - [20221014185655](/zet/20221014185655/README.md) kb file named kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 - [20221003150568](/zet/20221003150568/README.md) SMB List Drives (Execute on Victim)
 - [20221003151102](/zet/20221003151102/README.md) DOS commands download file from http

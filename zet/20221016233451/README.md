@@ -107,7 +107,6 @@ kb/hacking/windows/powerview-commands.md
 # Related
 
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
-
 - [20221016233453](/zet/20221016233453/README.md) commits for day of 2022-05-18
 - [20221014185703](/zet/20221014185703/README.md) kb file named kb/hacking/windows/powerview-commands.md
 - [20221014185722](/zet/20221014185722/README.md) kb file named kb/hacking/windows/common-ad-misconfigurations-footholds.md

@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003151124](/zet/20221003151124/README.md) dos commands
 - [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221019151504](/zet/20221019151504/README.md) error message username enumeration
 - [20221018161819](/zet/20221018161819/README.md) did i link a bunch of weird enumeration stuff together?

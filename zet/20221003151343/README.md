@@ -10,9 +10,7 @@ cat managed_password | awk '{ printf("%.2x", $1) }'
 # Related
 
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
-
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
-
 - [20221014190119](/zet/20221014190119/README.md) kb file named kb/awk-scripting/convert-decimal-to-hex.md
 - [20221003151342](/zet/20221003151342/README.md) convert decimal to hex GMSA managed password
 - ~/kb/awk-scripting/convert-decimal-to-hex.md

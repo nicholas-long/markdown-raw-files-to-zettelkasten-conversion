@@ -7,6 +7,7 @@ Get-AdServiceAccount AccountUsername -properties *
 
 # Related
 
+- [20221003151342](/zet/20221003151342/README.md) convert decimal to hex GMSA managed password
 - [20221003150730](/zet/20221003150730/README.md) powershell
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks
 - [20221014190037](/zet/20221014190037/README.md) kb file named kb/hacking/powershell/powershell-enumeration-commands.md

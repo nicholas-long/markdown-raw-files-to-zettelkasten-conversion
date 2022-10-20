@@ -9,6 +9,7 @@ the concept of `linux terminal`
 
 # Related
 
+- [20221020000848](/zet/20221020000848/README.md) SSH
 - [20221019002732](/zet/20221019002732/README.md) shells
 - [20221003150191](/zet/20221003150191/README.md) zsh
 - [20221003150194](/zet/20221003150194/README.md) set the bash prompt to use vi hotkeys

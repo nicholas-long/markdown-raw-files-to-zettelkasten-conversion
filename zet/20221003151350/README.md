@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
 - [20221018201513](/zet/20221018201513/README.md) make a script to get the context of a card - word counts
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014190117](/zet/20221014190117/README.md) kb file named kb/awk-scripting/bash-awk-quick-commands.md

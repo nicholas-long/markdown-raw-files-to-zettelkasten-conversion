@@ -9,18 +9,13 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003150242](/zet/20221003150242/README.md) identify service
-
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
-
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
-
 - [20221008212802](/zet/20221008212802/README.md) software program
-
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
-
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
-
 - [20221003150862](/zet/20221003150862/README.md) SSH arguments
 - [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm
 - [20221003150856](/zet/20221003150856/README.md) ssh-keygen generate key to file no password prompt

@@ -17,6 +17,7 @@
 
 # Related
 
+- [20221003150862](/zet/20221003150862/README.md) SSH arguments
 - [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
 - [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm

@@ -86,6 +86,7 @@
 
 # Related
 
+- [20221003151124](/zet/20221003151124/README.md) dos commands
 - [20221003150481](/zet/20221003150481/README.md) general enumeration get list of filepaths recursively
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
 - [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file

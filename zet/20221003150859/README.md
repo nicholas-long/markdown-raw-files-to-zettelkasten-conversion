@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221020000848](/zet/20221020000848/README.md) SSH
 - [20221003150860](/zet/20221003150860/README.md) SSH arguments connect to old server
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list
 - [20221014185829](/zet/20221014185829/README.md) kb file named kb/hacking/commands/ssh-commands.md

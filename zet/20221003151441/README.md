@@ -6,7 +6,8 @@ Collection of awk scripting examples
 
 # Related
 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md
