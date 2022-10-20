@@ -7,6 +7,13 @@
   - would not pay for self - get org to pay
 - huskyhacks box - alh4zr3d is hacking a box from a community member
   - insane rated box
+- rough estimation of language by file size - kinda interesting
+  - go always > 1 meg
+  - nim about 600kb
+    - strings say `.nim` if not obfuscated
+- please don't write malware in nim
+  - https://internet-of-tomohiro.netlify.app/nim/faq.en.html#nim-compiler-is-nimslashnimble-virus-or-malwareqmark
+  - https://forum.nim-lang.org/t/9358
 
 ```
 ```
