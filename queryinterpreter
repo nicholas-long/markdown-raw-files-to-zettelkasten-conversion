@@ -26,8 +26,10 @@ function interpretme(subcommand) { # interpret the rest of this line as a subcom
   system(command)
 }
 /:/ { # test
+  print ":" > diag
   split($0, arr, ":")
   for (n = 1; n <= length(arr); n++){
+    print "cmd", n > diag
     print n, arr[n] > diag
     "mktemp" | getline temp
     close("mktemp")
@@ -39,30 +41,43 @@ function interpretme(subcommand) { # interpret the rest of this line as a subcom
     bashcmd = "bash -c '" command " > " temp "'"
     print "bashcmd", bashcmd > diag
     system(bashcmd)
+    print "done cmd", n > diag
+    close(tempfiles[n])
   }
   # iterate through all temp files by id
   for (n = 1; n <= length(tempfiles); n++) {
+    print "iterate", n > diag
     if (n < length(tempfiles)) {
       subcommand = "xargs -n 1 ./zc refs | sort -u"
     } else {
       subcommand = "sort -u"
     }
-    print command > diag
+    print subcommand > diag
+    found1 = 0
     while ((getline < tempfiles[n]) > 0) {
+      print "processing", $0 > diag
       if (n == 1 || seen[$0]){
-        print | subcommand
+        print |& subcommand
+        found1 = 1
+        fflush(subcommand)
       }
     }
+    print "done processing" > diag
     close(tempfiles[n])
     close(subcommand, "to")
     delete seen
-    if (n < length(tempfiles)) {
-      while ((subcommand | getline) > 0) {
-        seen[$0] = 1
+    if (found1) {
+      while ((subcommand |& getline) > 0) {
+        if (n < length(tempfiles)) {
+          seen[$0] = 1
+          print "seen", $0 > diag
+        } else print
       }
+      close(subcommand, "from")
     }
-    close(subcommand)
+    print "done iterate", n > diag
   }
+  next
 }
 $(NF-1) == "~" {
   query=$NF
@@ -71,9 +86,14 @@ $(NF-1) == "~" {
   filtercommand = "xargs grep " query " | cut -d : -f 1 | implementation/parseids | sort -u"
   command = interpretme($0)
   while ((command | getline) > 0){
-    if ($0 ~ /^[0-9]+$/) print "zet/" $0 "/README.md" | filtercommand
+    if ($0 ~ /^[0-9]+$/) print "zet/" $0 "/README.md" |& filtercommand
   }
   print "like", query > diag
   close(command)
   print "done query", query > diag
+  close(filtercommand, "to")
+  while ((filtercommand |& getline) > 0) {
+    print
+  }
+  close(filtercommand)
 }
