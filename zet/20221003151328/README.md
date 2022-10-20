@@ -7,7 +7,6 @@
 
 # Related
 
-
 - [20221003151327](/zet/20221003151327/README.md) bash scripting convert text strings or wordlists to lowercase
 - [20221003151326](/zet/20221003151326/README.md) bash scripting convert text strings or wordlists to uppercase
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable

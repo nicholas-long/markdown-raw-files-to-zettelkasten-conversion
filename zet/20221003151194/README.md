@@ -27,6 +27,7 @@
 
 # Related
 
+- [20221014185617](/zet/20221014185617/README.md) kb file named kb/hacking/to-try-lists/procedure.md
 - [20221003150644](/zet/20221003150644/README.md) nmap all ports command
 - [20221003150795](/zet/20221003150795/README.md) generate cewl wordlist from website
 - [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits

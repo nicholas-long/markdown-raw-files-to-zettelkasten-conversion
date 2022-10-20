@@ -27,6 +27,7 @@
 
 # Related
 
+- [20221014185603](/zet/20221014185603/README.md) kb file named kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md
 - [20221003150751](/zet/20221003150751/README.md) kerbrute password spray users from user list file
 - [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection
 - [20221003151233](/zet/20221003151233/README.md) mysql mariadb write any binary file with file permissions
@@ -39,7 +40,7 @@
 - [20221003151285](/zet/20221003151285/README.md) postgres cannot find table name
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
 - [20221003151234](/zet/20221003151234/README.md) mysql mariadb UDF shell
-- [20221003151192](/zet/20221003151192/README.md) HTTP TRY
+- [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 - [20221003151188](/zet/20221003151188/README.md) HTTP found CMS
 - [20221003150988](/zet/20221003150988/README.md) mariadb mysql
 - [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi

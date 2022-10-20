@@ -10,7 +10,9 @@
 
 # Related
 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- [20221003150855](/zet/20221003150855/README.md) dns commands
+- [20221014185616](/zet/20221014185616/README.md) kb file named kb/hacking/to-try-lists/DNS.md
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - [20221003151176](/zet/20221003151176/README.md) email POP3 / IMAP
 - [20221003150840](/zet/20221003150840/README.md) gobuster vhost enumeration
@@ -18,7 +20,7 @@
 - [20221003150550](/zet/20221003150550/README.md) Sub domain Enum
 - [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup
 - [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
-- [20221003150134](/zet/20221003150134/README.md) DNS
+- [20221003150134](/zet/20221003150134/README.md) DNS commands
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS
 - [20221003150242](/zet/20221003150242/README.md) identify service

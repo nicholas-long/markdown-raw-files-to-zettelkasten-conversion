@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221014185605](/zet/20221014185605/README.md) kb file named kb/hacking/to-try-lists/LDAP.md
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221014164014](/zet/20221014164014/README.md) protocol for application communication
 - [20221003150242](/zet/20221003150242/README.md) identify service

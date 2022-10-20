@@ -10,7 +10,6 @@
 # Related
 
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
-
 - [20221016233618](/zet/20221016233618/README.md) commits for day of 2022-07-29
 - [20221016233648](/zet/20221016233648/README.md) commits for day of 2022-08-18
 - [20221016233635](/zet/20221016233635/README.md) commits for day of 2022-08-10

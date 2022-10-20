@@ -24,6 +24,7 @@
 
 # Related
 
+- [20221014185609](/zet/20221014185609/README.md) kb file named kb/hacking/to-try-lists/got-read-or-write-access-to-filesystem.md
 - [20221003151150](/zet/20221003151150/README.md) windows XP and windows server 2003 write arbitrary MOF file for remote code execution
 - [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082
 - [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers

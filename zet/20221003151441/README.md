@@ -6,6 +6,7 @@ Collection of awk scripting examples
 
 # Related
 
+- [20221003151341](/zet/20221003151341/README.md) awk split string
 - [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines

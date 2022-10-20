@@ -86,6 +86,7 @@
 
 # Related
 
+- [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986
 - [20221003150485](/zet/20221003150485/README.md) active directory get GMSA service account properties get GMSA password and run commands

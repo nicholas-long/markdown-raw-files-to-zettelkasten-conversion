@@ -31,7 +31,6 @@ kb/hacking/commands/metasploit.md
 # Related
 
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
-
 - [20221016233503](/zet/20221016233503/README.md) commits for day of 2022-05-25
 - [20221014185848](/zet/20221014185848/README.md) kb file named kb/hacking/commands/metasploit.md
 - [20221014185953](/zet/20221014185953/README.md) kb file named kb/hacking/php/PHP-quick-command-reference.md

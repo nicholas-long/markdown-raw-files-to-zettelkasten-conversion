@@ -12,9 +12,10 @@
 
 # Related
 
+- [20221014185632](/zet/20221014185632/README.md) kb file named kb/hacking/to-try-lists/HTTP-proxy-squid-proxy.md
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221008221822](/zet/20221008221822/README.md) www - the web
-- [20221003151192](/zet/20221003151192/README.md) HTTP TRY
+- [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 - [20221003150242](/zet/20221003150242/README.md) identify service
 
 Tags:

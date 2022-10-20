@@ -11,6 +11,7 @@
 
 # Related
 
+- [20221014185638](/zet/20221014185638/README.md) kb file named kb/hacking/to-try-lists/SNMP.md
 - [20221003150698](/zet/20221003150698/README.md) SNMP enumeration command
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003151214](/zet/20221003151214/README.md) got leaked files

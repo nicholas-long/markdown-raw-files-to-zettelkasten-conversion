@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221014185608](/zet/20221014185608/README.md) kb file named kb/hacking/to-try-lists/RDP.md
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
 - [20221009014200](/zet/20221009014200/README.md) concept of a command

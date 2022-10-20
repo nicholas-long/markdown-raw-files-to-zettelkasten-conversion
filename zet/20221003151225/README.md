@@ -72,6 +72,7 @@ print(r.text)
 
 # Related
 
+- [20221003150582](/zet/20221003150582/README.md) php LFI
 - [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal
 - [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

@@ -12,6 +12,7 @@ hacking notes hub
 
 # Related
 
+- [20221003151363](/zet/20221003151363/README.md) python scripting
 - [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221018155432](/zet/20221018155432/README.md) cyberpunk library
@@ -196,7 +197,7 @@ hacking notes hub
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form
 - [20221003151188](/zet/20221003151188/README.md) HTTP found CMS
 - [20221003151193](/zet/20221003151193/README.md) HTTP
-- [20221003151192](/zet/20221003151192/README.md) HTTP TRY
+- [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 - [20221003151213](/zet/20221003151213/README.md) got leaked files TRY
 - [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials

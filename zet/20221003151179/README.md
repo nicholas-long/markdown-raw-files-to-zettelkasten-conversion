@@ -11,6 +11,7 @@
 
 # Related
 
+- [20221014185620](/zet/20221014185620/README.md) kb file named kb/hacking/to-try-lists/FTP.md
 - [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
 - [20221003150821](/zet/20221003150821/README.md) hydra bruteforce ftp default creds
 - [20221003150820](/zet/20221003150820/README.md) hydra bruteforce ftp rockyou 50
