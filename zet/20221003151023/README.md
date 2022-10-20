@@ -8,7 +8,6 @@
 # Related
 
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
-
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis
 - [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
