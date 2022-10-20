@@ -1,4 +1,5 @@
 # bash scripting substitution syntax return variables value or default
+
 ```bash
 echo ${name2:-"default"}
 ```

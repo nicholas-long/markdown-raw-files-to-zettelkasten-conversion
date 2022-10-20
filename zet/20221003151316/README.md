@@ -1,5 +1,20 @@
 # bash scripting substitution syntax
 
+- value or default
+```bash
+echo ${name2:-"default"}
+```
+
+- [20221003151312](/zet/20221003151312/README.md) substring ( details )
+```bash
+echo ${name:2:2}
+```
+
+- return variable or else set default variable value
+```bash
+echo ${name:="default"}
+```
+
 ` zet/20221003151316/README.md `
 
 # Related

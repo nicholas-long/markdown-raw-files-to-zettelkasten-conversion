@@ -1,4 +1,4 @@
-# install alacritty  fix build errors
+# install alacritty dependencies to fix build errors
 Install apt packages
 - cargo
 - cmake
