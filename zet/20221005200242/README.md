@@ -227,8 +227,6 @@ this is a list of possibly empty zettels.
 - [20221003150490](/zet/20221003150490/README.md) html template upload file
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - [20221003150483](/zet/20221003150483/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip
-- [20221003150482](/zet/20221003150482/README.md) general enumeration
-- [20221003150478](/zet/20221003150478/README.md) general enumeration Active Directory Certificate Services
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks
 - [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
 - [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry

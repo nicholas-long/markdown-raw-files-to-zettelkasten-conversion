@@ -10,10 +10,11 @@ finger-user-enum.pl -U /usr/share/seclists/Usernames/Names/names.txt -t $IP
 
 # Related
 
-- [20221013173355](/zet/20221013173355/README.md) the process of enumerating a target
+- [20221003150242](/zet/20221003150242/README.md) identify service
+
+- [20221013173355](/zet/20221013173355/README.md) enumeration - the process of enumerating a target
 - [20221008215655](/zet/20221008215655/README.md) user account
 - [20221006025356](/zet/20221006025356/README.md) linux
-- [20221003150786](/zet/20221003150786/README.md) enum4linux
 
 Tags:
 

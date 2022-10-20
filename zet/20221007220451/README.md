@@ -179,7 +179,6 @@ hacking notes hub
 - [20221003150486](/zet/20221003150486/README.md) active directory get GMSA service account properties
 - [20221003150778](/zet/20221003150778/README.md) crowbar brute force RDP active directory domain joined
 - [20221003151051](/zet/20221003151051/README.md) set date to match Active Directory server with ntpdate
-- [20221003150478](/zet/20221003150478/README.md) general enumeration Active Directory Certificate Services
 - [20221003151139](/zet/20221003151139/README.md) active directory  ForceChangePassword change user password
 - [20221003150556](/zet/20221003150556/README.md) Active Sever Pages Extended (.aspx) Transfer A File (Certutil)
 - [20221003151130](/zet/20221003151130/README.md) active directory  change user password with rpcclient over SMB 
