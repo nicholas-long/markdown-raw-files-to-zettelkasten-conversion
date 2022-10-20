@@ -1,4 +1,5 @@
 # linux privilege escalation exploiting scripts on linux
+
 - injecting user commands
 - relative command names ( alter PATH )
 - filesystem access
@@ -12,6 +13,7 @@
     - formatting issues in config files like regular expressions
 - wildcards turning into command parameters
 - exec
+- scripts running git commands -> could execute hooks when script does actions
 - insecure to use `#!/usr/bin/env bash` type shebangs + writable path
 - python scripts: everything from [20221003151178](/zet/20221003151178/README.md) got source code - analysis
 - dependent libraries of scripts (ex: tar, zip -> overwrite files / zip slip)
