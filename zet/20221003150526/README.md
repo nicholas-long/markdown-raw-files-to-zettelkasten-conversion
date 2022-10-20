@@ -38,8 +38,9 @@
 
 # Related
 
+- [20221003150527](/zet/20221003150527/README.md) generate reverse shell shellcode payload for pwn
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221003150523](/zet/20221003150523/README.md) heap exploit resources
 - [20221003150518](/zet/20221003150518/README.md) pwntools sigreturn
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub

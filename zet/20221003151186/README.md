@@ -20,6 +20,9 @@
 
 # Related
 
+- [20221003151025](/zet/20221003151025/README.md) JWT token concept
+- [20221003151020](/zet/20221003151020/README.md) SSTI polyglot payload
+- [20221003150976](/zet/20221003150976/README.md) IDOR general steps
 - [20221003150441](/zet/20221003150441/README.md) OWASP cheat sheet series
 - [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
@@ -34,7 +37,7 @@
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
 - [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
-- [20221003151192](/zet/20221003151192/README.md) HTTP TRY
+- [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

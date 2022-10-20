@@ -21,11 +21,8 @@ hacker concept of CMS - slang lingo for web app / service
 # Related
 
 - [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login
-
 - [20221003151188](/zet/20221003151188/README.md) HTTP found CMS
-
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form
-
 - [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008221548](/zet/20221008221548/README.md) website

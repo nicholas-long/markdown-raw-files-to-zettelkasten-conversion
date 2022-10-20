@@ -8,14 +8,11 @@ ${{<%[%'"}}%\.
 
 # Related
 
+- [20221014185727](/zet/20221014185727/README.md) kb file named kb/hacking/methodology/SSTI-test-payloads.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
-
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
-
 - [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing
-
 - [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
 - [20221010054621](/zet/20221010054621/README.md) github doesn't let me edit a markdown page with template braces
 

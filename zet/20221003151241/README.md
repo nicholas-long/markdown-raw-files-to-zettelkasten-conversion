@@ -8,6 +8,7 @@ Filter non windows hosts `| grep 'bytes from' | grep -v 'ttl=12'`
 
 # Related
 
+- [20221014185537](/zet/20221014185537/README.md) kb file named kb/hacking/tricks/ping-subnet-os-enumeration.md
 - [20221008213458](/zet/20221008213458/README.md) operating system
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003151299](/zet/20221003151299/README.md) bash tricks

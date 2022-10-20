@@ -38,6 +38,7 @@ tips from InsiderPhD
 
 # Related
 
+- [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
 - [20221014185733](/zet/20221014185733/README.md) kb file named kb/hacking/methodology/API-enumeration.md
 - [20221013173355](/zet/20221013173355/README.md) enumeration - the process of enumerating a target

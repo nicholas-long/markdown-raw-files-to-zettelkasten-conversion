@@ -4,6 +4,9 @@
 
 # Related
 
+- [20221003151239](/zet/20221003151239/README.md) make date wordlist for fuzzing with bash and parameter expansion
+- [20221003151259](/zet/20221003151259/README.md) stabilize shell with script command
+- [20221003151227](/zet/20221003151227/README.md) convert string to a base64 encoded UTF-16LE string to be used by powershell
 - [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221019141821](/zet/20221019141821/README.md) terminalforlife bash scripting youtuber
 - [20221003150191](/zet/20221003150191/README.md) zsh

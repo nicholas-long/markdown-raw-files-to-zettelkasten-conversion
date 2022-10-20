@@ -9,6 +9,10 @@
 
 # Related
 
+- [20221003151261](/zet/20221003151261/README.md) build windows exploit on linux using mingw
+- [20221003151260](/zet/20221003151260/README.md) run windows exploit on linux using wine
+- [20221003151216](/zet/20221003151216/README.md) caddy stand up https server with a valid certificate
+- [20221003151227](/zet/20221003151227/README.md) convert string to a base64 encoded UTF-16LE string to be used by powershell
 - [20221003150192](/zet/20221003150192/README.md) convert package type to deb rpm slp lsb tgz
 - [20221003150777](/zet/20221003150777/README.md) MSFVENOM
 - [20221014074852](/zet/20221014074852/README.md) "Keep It Simple Stupid" principle of engineering and design

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150527](/zet/20221003150527/README.md) generate reverse shell shellcode payload for pwn
 - [20221003150515](/zet/20221003150515/README.md) pwntools gdb debugging terminal
 - [20221015005745](/zet/20221015005745/README.md) python coding
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips

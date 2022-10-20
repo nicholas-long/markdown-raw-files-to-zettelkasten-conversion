@@ -24,6 +24,7 @@ for each path
 
 # Related
 
+- [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 - [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting
 - [20221003150739](/zet/20221003150739/README.md) feroxbuster

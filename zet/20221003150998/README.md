@@ -8,6 +8,7 @@ newer technology -> developers adopting early without considering security.
 
 # Related
 
+- [20221003151006](/zet/20221003151006/README.md) API enumeration
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
 - [20221014185733](/zet/20221014185733/README.md) kb file named kb/hacking/methodology/API-enumeration.md
 - [20221003151003](/zet/20221003151003/README.md) API enumeration good wordlists seclists for endpoints

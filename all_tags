@@ -231,6 +231,7 @@
 #sqli
 #sqlmap
 #ssh
+#ssti
 #stack
 #stream
 #streamer
@@ -263,6 +264,7 @@
 #two
 #type
 #uac
+#udp
 #url
 #useful
 #users

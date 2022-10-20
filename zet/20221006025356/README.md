@@ -6,6 +6,7 @@ linux reference links and concepts
 
 # Related
 
+- [20221003151261](/zet/20221003151261/README.md) build windows exploit on linux using mingw
 - [20221003150187](/zet/20221003150187/README.md) linux free up space
 - [20221003150126](/zet/20221003150126/README.md) routing using a linux box
 - [20221003150191](/zet/20221003150191/README.md) zsh
@@ -43,7 +44,7 @@ linux reference links and concepts
 - [20221003150361](/zet/20221003150361/README.md) connect to minecraft server and send chat messages
 - [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
 - [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560
-- [20221003151169](/zet/20221003151169/README.md) NFS
+- [20221003151169](/zet/20221003151169/README.md) NFS to try list
 - [20221003151196](/zet/20221003151196/README.md) IPMI
 - [20221003151164](/zet/20221003151164/README.md) SNMP
 - [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions

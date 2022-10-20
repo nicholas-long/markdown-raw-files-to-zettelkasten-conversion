@@ -8,11 +8,14 @@
 
 # Related
 
+- [20221003151020](/zet/20221003151020/README.md) SSTI polyglot payload
+- [20221003151223](/zet/20221003151223/README.md) identify linux version from service version
+- [20221003151260](/zet/20221003151260/README.md) run windows exploit on linux using wine
 - [20221017182053](/zet/20221017182053/README.md) hydra
 - [20221015012530](/zet/20221015012530/README.md) rabbit holes
 - [20221014062642](/zet/20221014062642/README.md) organize OSCP related notes
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
-- [20221003151192](/zet/20221003151192/README.md) HTTP TRY
+- [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
@@ -153,7 +156,7 @@
 - [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force
 - [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
 - [20221003150744](/zet/20221003150744/README.md) hydra brute force
-- [20221003151179](/zet/20221003151179/README.md) FTP
+- [20221003151179](/zet/20221003151179/README.md) FTP to try list
 - [20221003150458](/zet/20221003150458/README.md) redis-cli apt repository
 - [20221003151076](/zet/20221003151076/README.md) service account privileges exploiting
 - [20221006025730](/zet/20221006025730/README.md) apt repositories
@@ -247,7 +250,7 @@
 - [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
 - [20221003150926](/zet/20221003150926/README.md) /etc/passwd writable line privilege escalation exploit
-- [20221003150938](/zet/20221003150938/README.md) searchploit linux kernel exploit privilege escalation
+- [20221003150938](/zet/20221003150938/README.md) searchsploit exploitdb linux kernel exploit privesc
 - [20221003151142](/zet/20221003151142/README.md) active directory  exploiting permissions WriteDacl
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - [20221008213357](/zet/20221008213357/README.md) version of program
@@ -275,7 +278,7 @@
 - [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE
 - [20221003150587](/zet/20221003150587/README.md) php code write to file
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
-- [20221003150590](/zet/20221003150590/README.md) php code
+- [20221003150590](/zet/20221003150590/README.md) php code examples
 - [20221003150592](/zet/20221003150592/README.md) php
 - [20221003150582](/zet/20221003150582/README.md) php LFI
 - [20221003150558](/zet/20221003150558/README.md) coyote PHP command shell
@@ -303,7 +306,7 @@
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form
 - [20221003151188](/zet/20221003151188/README.md) HTTP found CMS
 - [20221003151193](/zet/20221003151193/README.md) HTTP
-- [20221003151213](/zet/20221003151213/README.md) got leaked files TRY
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
 - [20221003151177](/zet/20221003151177/README.md) Stuck to try list
 - [20221006213649](/zet/20221006213649/README.md) offensive security
 - [20221006214348](/zet/20221006214348/README.md) ippsec

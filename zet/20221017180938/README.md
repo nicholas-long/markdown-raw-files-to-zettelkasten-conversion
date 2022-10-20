@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221003151089](/zet/20221003151089/README.md) mimikatz
+- [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup
 - [20221003150138](/zet/20221003150138/README.md) apt package nc ncat netcat
 - [20221020000848](/zet/20221020000848/README.md) SSH
 - [20221003150753](/zet/20221003150753/README.md) kerbrute

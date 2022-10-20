@@ -6,6 +6,7 @@
 
 # Related
 
+- [20221003150500](/zet/20221003150500/README.md) shellshock python2 exploit
 - [20221003150938](/zet/20221003150938/README.md) searchsploit exploitdb linux kernel exploit privesc
 - [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
 - [20221013190422](/zet/20221013190422/README.md) headline exploits

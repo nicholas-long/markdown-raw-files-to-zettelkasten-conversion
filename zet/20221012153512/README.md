@@ -10,6 +10,8 @@
 
 # Related
 
+- [20221003151220](/zet/20221003151220/README.md) hql injection
+- [20221003150978](/zet/20221003150978/README.md) oracle
 - [20221019143615](/zet/20221019143615/README.md) data concept
 - [20221003150993](/zet/20221003150993/README.md) how GraphQL APIs work
 - [20221003150132](/zet/20221003150132/README.md) find file with name matching regular expression

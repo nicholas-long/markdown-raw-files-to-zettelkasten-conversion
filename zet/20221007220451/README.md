@@ -12,6 +12,13 @@ hacking notes hub
 
 # Related
 
+- [20221003150966](/zet/20221003150966/README.md) OSINT
+- [20221003151223](/zet/20221003151223/README.md) identify linux version from service version
+- [20221003151250](/zet/20221003151250/README.md) sending installs to target
+- [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
+- [20221003151261](/zet/20221003151261/README.md) build windows exploit on linux using mingw
+- [20221003151216](/zet/20221003151216/README.md) caddy stand up https server with a valid certificate
+- [20221003151020](/zet/20221003151020/README.md) SSTI polyglot payload
 - [20221003151363](/zet/20221003151363/README.md) python scripting
 - [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
@@ -21,7 +28,7 @@ hacking notes hub
 - [20221017172946](/zet/20221017172946/README.md) LAN attacks
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221015011525](/zet/20221015011525/README.md) my notes for opensource machine - steps
-- [20221003151179](/zet/20221003151179/README.md) FTP
+- [20221003151179](/zet/20221003151179/README.md) FTP to try list
 - [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
@@ -94,7 +101,7 @@ hacking notes hub
 - [20221003150311](/zet/20221003150311/README.md) SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
 - [20221007185940](/zet/20221007185940/README.md) unsorted nodes
 - [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
-- [20221003150601](/zet/20221003150601/README.md) tunneling through chisel - socks Forward specific port
+- [20221003150601](/zet/20221003150601/README.md) tunneling Forward specific port through chisel
 - [20221003150334](/zet/20221003150334/README.md) python pickle serialization magic bytes header signature `80 03` `80 04` `80 05` `(dp0` base64 `gASV` `gAWV`
 - [20221003150830](/zet/20221003150830/README.md) postgres sql enumeration
 - [20221003150258](/zet/20221003150258/README.md) firefox containers addon = multiple sessions cookies in firefox web browser
@@ -143,7 +150,7 @@ hacking notes hub
 - [20221003151121](/zet/20221003151121/README.md) dos commands service paths
 - [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands
 - [20221003151110](/zet/20221003151110/README.md) dos commands admin / system
-- [20221003150180](/zet/20221003150180/README.md) install alacritty  commands
+- [20221003150180](/zet/20221003150180/README.md) install alacritty commands
 - [20221003150643](/zet/20221003150643/README.md) nmap all ports command quick
 - [20221003151117](/zet/20221003151117/README.md) dos commands file permissions
 - [20221003150239](/zet/20221003150239/README.md) extract command for file type
@@ -197,7 +204,7 @@ hacking notes hub
 - [20221003151188](/zet/20221003151188/README.md) HTTP found CMS
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list
-- [20221003151213](/zet/20221003151213/README.md) got leaked files TRY
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
 - [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list

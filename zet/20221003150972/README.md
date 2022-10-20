@@ -18,6 +18,7 @@ Hash mode #20
 
 # Related
 
+- [20221014185742](/zet/20221014185742/README.md) kb file named kb/hacking/methodology/hashcat-crack-salted-password.md
 - [20221013192245](/zet/20221013192245/README.md) cracking hashes
 - [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
 - [20221012211416](/zet/20221012211416/README.md) my gaming desktop

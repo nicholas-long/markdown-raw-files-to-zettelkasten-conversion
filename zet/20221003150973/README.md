@@ -12,9 +12,9 @@ Address: 10.10.10.10#53
 
 # Related
 
+- [20221014185741](/zet/20221014185741/README.md) kb file named kb/hacking/methodology/dns-enum.md
 - [20221003150134](/zet/20221003150134/README.md) DNS commands
-
-- [20221003151195](/zet/20221003151195/README.md) DNS
+- [20221003151195](/zet/20221003151195/README.md) DNS to try list
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS
 
 Tags:

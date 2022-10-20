@@ -5,7 +5,6 @@
 # Related
 
 - [20221008042814](/zet/20221008042814/README.md) WIP
-
 - [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221008212802](/zet/20221008212802/README.md) software program

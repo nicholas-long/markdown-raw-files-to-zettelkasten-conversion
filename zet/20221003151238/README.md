@@ -6,10 +6,9 @@
 
 # Related
 
+- [20221014185542](/zet/20221014185542/README.md) kb file named kb/hacking/tricks/ctf-get-tld-working-firefox-url-bar.md
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
-
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
-
 - [20221006213649](/zet/20221006213649/README.md) offensive security
 - [20221006213311](/zet/20221006213311/README.md) hackthebox
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms

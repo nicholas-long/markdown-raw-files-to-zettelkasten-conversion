@@ -42,15 +42,17 @@
 
 # Related
 
+- [20221003150781](/zet/20221003150781/README.md) enum4linux-ng next gen default smb enumeration
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
 - [20221014185612](/zet/20221014185612/README.md) kb file named kb/hacking/to-try-lists/SMB.md
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
 - [20221003150312](/zet/20221003150312/README.md) SMB
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap
 - [20221003151035](/zet/20221003151035/README.md) hidden shares
-- [20221003151169](/zet/20221003151169/README.md) NFS
+- [20221003151169](/zet/20221003151169/README.md) NFS to try list
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list

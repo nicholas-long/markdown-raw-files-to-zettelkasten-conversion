@@ -6,6 +6,7 @@ a list of hacking platforms for practice and education.
 
 # Related
 
+- [20221003151250](/zet/20221003151250/README.md) sending installs to target
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation

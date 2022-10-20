@@ -10,7 +10,6 @@ python3 enum4linux-ng.py -u guest $IP
 # Related
 
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
-
 - [20221014185858](/zet/20221014185858/README.md) kb file named kb/hacking/commands/enum4linux-command.md
 - [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen
 - ~/kb/hacking/commands/enum4linux-command.md

@@ -91,6 +91,7 @@
 
 # Related
 
+- [20221003151259](/zet/20221003151259/README.md) stabilize shell with script command
 - [20221003150922](/zet/20221003150922/README.md) BSD file transfers
 - [20221003150938](/zet/20221003150938/README.md) searchsploit exploitdb linux kernel exploit privesc
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
@@ -113,7 +114,7 @@
 - [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560
 - [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack
 - [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present
-- [20221003151165](/zet/20221003151165/README.md) TFTP udp 69
+- [20221003151165](/zet/20221003151165/README.md) TFTP udp 69 to try list
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 - [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session

@@ -7,6 +7,7 @@
 
 # Related
 
+- [20221003150981](/zet/20221003150981/README.md) mariadb mysql files read
 - [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi
 - [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
 - [20221014185735](/zet/20221014185735/README.md) kb file named kb/hacking/methodology/sqli-manual-mysql-payloads.md

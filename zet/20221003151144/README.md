@@ -5,7 +5,6 @@
 # Related
 
 - [20221008042814](/zet/20221008042814/README.md) WIP
-
 - [20221014185654](/zet/20221014185654/README.md) kb file named kb/hacking/windows/windows-active-directory-and-privilege-information.md
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 - [20221006215623](/zet/20221006215623/README.md) scrambled machine video notes

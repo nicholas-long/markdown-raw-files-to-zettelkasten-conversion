@@ -10,8 +10,8 @@ echo 2020-{01..12}-{01..31} | sed 's/ /\n/g'
 
 # Related
 
+- [20221014185540](/zet/20221014185540/README.md) kb file named kb/hacking/tricks/make-wordlists-fuzzing-with-bash.md
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
-
 - [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos
 
 Tags:

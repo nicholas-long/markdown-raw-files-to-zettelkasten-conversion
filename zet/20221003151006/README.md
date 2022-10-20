@@ -8,6 +8,8 @@
 
 # Related
 
+- [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs
+- [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
 - [20221003151004](/zet/20221003151004/README.md) API enumeration good wordlists

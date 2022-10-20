@@ -7,6 +7,11 @@
 
 # Related
 
+- [20221014185658](/zet/20221014185658/README.md) kb file named kb/hacking/windows/windows-reverse-shell.md
+- [20221014185649](/zet/20221014185649/README.md) kb file named kb/hacking/windows/windows-cheatsheet-resources.md
+- [20221003151261](/zet/20221003151261/README.md) build windows exploit on linux using mingw
+- [20221003151227](/zet/20221003151227/README.md) convert string to a base64 encoded UTF-16LE string to be used by powershell
+- [20221014185718](/zet/20221014185718/README.md) kb file named kb/hacking/windows/windows-information.md
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
 - [20221003150600](/zet/20221003150600/README.md) impacket
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
@@ -27,7 +32,7 @@
 - [20221003151035](/zet/20221003151035/README.md) hidden shares
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
-- [20221003151165](/zet/20221003151165/README.md) TFTP udp 69
+- [20221003151165](/zet/20221003151165/README.md) TFTP udp 69 to try list
 - [20221003151164](/zet/20221003151164/README.md) SNMP
 - [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup
 - [20221003151203](/zet/20221003151203/README.md) LDAP

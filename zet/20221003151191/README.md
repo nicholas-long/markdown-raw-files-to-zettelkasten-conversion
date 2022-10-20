@@ -36,6 +36,7 @@
 
 # Related
 
+- [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
 - [20221003151189](/zet/20221003151189/README.md) HTTP specific HTTP server exploit possibilities
 - [20221003151185](/zet/20221003151185/README.md) HTTP bypassing restrictions
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
@@ -48,7 +49,7 @@
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221003150252](/zet/20221003150252/README.md) httponly cookie option
 - [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS
-- [20221003151192](/zet/20221003151192/README.md) HTTP TRY
+- [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221003151193](/zet/20221003151193/README.md) HTTP

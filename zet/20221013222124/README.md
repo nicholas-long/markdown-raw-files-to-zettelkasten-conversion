@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
 - [20221003150187](/zet/20221003150187/README.md) linux free up space
 - [20221003150126](/zet/20221003150126/README.md) routing using a linux box
 - [20221003150080](/zet/20221003150080/README.md) ctrl H does not work as a hotkey in qterminal by default 
@@ -92,7 +93,7 @@
 - [20221003151242](/zet/20221003151242/README.md) preparing malicious package payloads node npm package malicious repository ( tcp port 4873 )
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
 - [20221003151235](/zet/20221003151235/README.md) mysql mariadb display query output as pretty printed text with column names
-- [20221003151233](/zet/20221003151233/README.md) mysql mariadb write any binary file with file permissions
+- [20221003151233](/zet/20221003151233/README.md) mysql mariadb write UDF shell or any binary file with file permissions
 - [20221003151232](/zet/20221003151232/README.md) mysql mariadb exploit GRANT OPTION to grant file write permissions to self
 - [20221003151231](/zet/20221003151231/README.md) mysql mariadb find plugin directory
 - [20221003151230](/zet/20221003151230/README.md) VBScript

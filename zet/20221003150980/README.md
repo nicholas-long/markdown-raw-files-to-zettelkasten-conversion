@@ -10,9 +10,7 @@ at the end of the query
 # Related
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list
-
 - [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection
-
 - [20221014185735](/zet/20221014185735/README.md) kb file named kb/hacking/methodology/sqli-manual-mysql-payloads.md
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
 - [20221012153512](/zet/20221012153512/README.md) database

@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
+- [20221003151247](/zet/20221003151247/README.md) Jenkins / Groovy (Java) Reverse Shell
 - [20221003150420](/zet/20221003150420/README.md) finger user enum
 - [20221020000848](/zet/20221020000848/README.md) SSH
 - [20221014190106](/zet/20221014190106/README.md) kb file named kb/hacking/analysis/identify-service-data.md
@@ -17,7 +19,7 @@
 - [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986
 - [20221003151199](/zet/20221003151199/README.md) finger tcp 79
 - [20221003151196](/zet/20221003151196/README.md) IPMI
-- [20221003151195](/zet/20221003151195/README.md) DNS
+- [20221003151195](/zet/20221003151195/README.md) DNS to try list
 - [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy
 - [20221003151164](/zet/20221003151164/README.md) SNMP
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service

@@ -10,13 +10,11 @@
 
 # Related
 
+- [20221003150277](/zet/20221003150277/README.md) pfx extension PKCS#12 format certificate cracking with johntheripper
+- [20221003150745](/zet/20221003150745/README.md) cracking keepass database with image key 2 john
 - [20221003151179](/zet/20221003151179/README.md) FTP to try list
-
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
-
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list
-
-
 - [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12
 - [20221003150517](/zet/20221003150517/README.md) binary analysis
 - [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md

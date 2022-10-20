@@ -10,7 +10,6 @@
 # Related
 
 - [20221003151153](/zet/20221003151153/README.md) windows
-
 - [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221003151100](/zet/20221003151100/README.md) powershell commands download and execute script
 - [20221003151101](/zet/20221003151101/README.md) powershell commands

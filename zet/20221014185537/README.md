@@ -10,7 +10,6 @@
 # Related
 
 - [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
-
 - [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003151443](/zet/20221003151443/README.md) kb

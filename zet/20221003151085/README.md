@@ -83,7 +83,6 @@ C:/Program Files/Microsoft SQL Server/MSSQL14.SQLEXPRESS/Template Data/master.md
 # Related
 
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
-
 - [20221014185706](/zet/20221014185706/README.md) kb file named kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151084](/zet/20221003151084/README.md) windows sensitive file disclosure cheat sheet determine version

@@ -51,6 +51,11 @@
 
 # Related
 
+- [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing
+- [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
+- [20221003151025](/zet/20221003151025/README.md) JWT token concept
+- [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
 - [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list
 - [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials

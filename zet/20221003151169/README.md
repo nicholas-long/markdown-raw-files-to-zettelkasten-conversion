@@ -8,6 +8,7 @@
 
 # Related
 
+- [20221003150665](/zet/20221003150665/README.md) NFS commands
 - [20221014185631](/zet/20221014185631/README.md) kb file named kb/hacking/to-try-lists/NFS.md
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
 - [20221003150709](/zet/20221003150709/README.md) sqlmap
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
