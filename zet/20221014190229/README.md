@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
 - [20221016233451](/zet/20221016233451/README.md) commits for day of 2022-05-17
 - [20221016233516](/zet/20221016233516/README.md) commits for day of 2022-06-02
 - [20221016233639](/zet/20221016233639/README.md) commits for day of 2022-08-12

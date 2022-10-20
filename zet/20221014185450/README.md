@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
 - [20221016233720](/zet/20221016233720/README.md) commits for day of 2022-09-15
 - [20221016233703](/zet/20221016233703/README.md) commits for day of 2022-09-01
 - [20221016233648](/zet/20221016233648/README.md) commits for day of 2022-08-18
@@ -81,7 +82,7 @@
 - [20221003151416](/zet/20221003151416/README.md) bash scripting query nmap ports and service description definitions
 - [20221003151411](/zet/20221003151411/README.md) bash scripting run docker image with current directory mounted as working directory
 - [20221003151420](/zet/20221003151420/README.md) bash scripting remove git from directory name
-- [20221003151408](/zet/20221003151408/README.md) bash scripting parse burpsuite saved request file and convert to python requests script for copying
+- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221003151368](/zet/20221003151368/README.md) bash scripting get top N most common ports from nmap list pass argument
 - [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
 - [20221003151384](/zet/20221003151384/README.md) bash scripting clone repo into temp dir

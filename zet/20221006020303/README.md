@@ -25,6 +25,7 @@
 
 # Related
 
+- [20221020193850](/zet/20221020193850/README.md) what is knowledge management
 - [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams
 - [20221015010704](/zet/20221015010704/README.md) things that need splitting up
 - [20221013185251](/zet/20221013185251/README.md) general information concept FYI

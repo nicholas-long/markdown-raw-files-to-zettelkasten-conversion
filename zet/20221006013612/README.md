@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
 - [20221020160107](/zet/20221020160107/README.md) zettels with kb script paths to fix
 - [20221019220305](/zet/20221019220305/README.md) combine common commands and enum quick commands
 - [20221018161819](/zet/20221018161819/README.md) did i link a bunch of weird enumeration stuff together?

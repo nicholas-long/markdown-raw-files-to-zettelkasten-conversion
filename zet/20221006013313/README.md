@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221020193850](/zet/20221020193850/README.md) what is knowledge management
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 - [20221014023054](/zet/20221014023054/README.md) distinct workflow operations i do in this zettelkasten

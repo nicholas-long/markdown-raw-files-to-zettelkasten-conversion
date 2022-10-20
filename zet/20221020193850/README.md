@@ -36,14 +36,11 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
-
 - [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
-
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types
-
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
-
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - <https://www.youtube.com/watch?v=3_eI5r55XhU>
 
