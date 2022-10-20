@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221003151194](/zet/20221003151194/README.md) procedure
+
 - [20221016233518](/zet/20221016233518/README.md) commits for day of 2022-06-03
 - [20221016233632](/zet/20221016233632/README.md) commits for day of 2022-08-08
 - [20221016233549](/zet/20221016233549/README.md) commits for day of 2022-07-07

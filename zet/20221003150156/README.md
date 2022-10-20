@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
+
 - [20221014190157](/zet/20221014190157/README.md) kb file named kb/linux/os-pseudo-filesystem-data-commands.md
 - [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
 - [20221003150632](/zet/20221003150632/README.md) list dpkg packages installed on a certain date

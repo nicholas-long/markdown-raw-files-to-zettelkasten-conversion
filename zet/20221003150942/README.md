@@ -4,6 +4,8 @@
 
 # Related
 
+- [20221003151363](/zet/20221003151363/README.md) python scripting
+
 - [20221014190123](/zet/20221014190123/README.md) kb file named kb/awk-scripting/enumerate-python-imports.md
 - [20221015005745](/zet/20221015005745/README.md) python coding
 - [20221015005557](/zet/20221015005557/README.md) python library

@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy
+
 - [20221016233451](/zet/20221016233451/README.md) commits for day of 2022-05-17
 - [20221016233518](/zet/20221016233518/README.md) commits for day of 2022-06-03
 - [20221003151443](/zet/20221003151443/README.md) kb

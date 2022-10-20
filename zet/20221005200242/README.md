@@ -47,7 +47,6 @@ this is a list of possibly empty zettels.
 - [20221003151346](/zet/20221003151346/README.md) awk and bash scripting partition split into files by column value analyzing CSV trade data : split into files for symbols
 - [20221003151345](/zet/20221003151345/README.md) awk and bash scripting partition split into files by column value check if column is nonempty
 - [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
-- [20221003151328](/zet/20221003151328/README.md) bash scripting convert text strings or wordlists
 - [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database
 - [20221003151318](/zet/20221003151318/README.md) bash parse xml cli
 - [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax
@@ -208,7 +207,6 @@ this is a list of possibly empty zettels.
 - [20221003150592](/zet/20221003150592/README.md) php
 - [20221003150590](/zet/20221003150590/README.md) php code
 - [20221003150584](/zet/20221003150584/README.md) php code convert human readable time to unix epoch timestamp
-- [20221003150582](/zet/20221003150582/README.md) php LFI
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
 - [20221003150575](/zet/20221003150575/README.md) php type juggling methodology
 - [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion

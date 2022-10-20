@@ -5,6 +5,8 @@ split($2,arr,"/")
 
 # Related
 
+- [20221003151441](/zet/20221003151441/README.md) awk scripting
+
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 
 Tags:
