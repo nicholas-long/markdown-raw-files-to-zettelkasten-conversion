@@ -1,6 +1,12 @@
 # Funday Sunday: Taking down the INSANE-ranked TryHackMe's Takedown alh4zr3d
 
 - concept of `Funday Sunday: Taking down the INSANE-ranked TryHackMe's Takedown alh4zr3d`
+- comments on SANS certs (at around 16 minutes in)
+  - good certs for defensive side
+  - look good on resume
+  - would not pay for self - get org to pay
+- huskyhacks box - alh4zr3d is hacking a box from a community member
+  - insane rated box
 
 ```
 ```
