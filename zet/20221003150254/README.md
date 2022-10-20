@@ -8,7 +8,6 @@
 # Related
 
 - [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory
-
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
 - [20221003151144](/zet/20221003151144/README.md) active directory 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub

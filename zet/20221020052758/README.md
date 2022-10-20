@@ -23,7 +23,6 @@ RETURN type(r)
 # Related
 
 - [20221008054439](/zet/20221008054439/README.md) graph database
-
 - [20221008054623](/zet/20221008054623/README.md) neo4j
 - https://neo4j.com/docs/cypher-manual/current/clauses/create/
 
