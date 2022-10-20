@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221020044600](/zet/20221020044600/README.md) alacritty
 - [20221017154727](/zet/20221017154727/README.md) xterm
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 - [20221003151335](/zet/20221003151335/README.md) bash command reference

@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150079](/zet/20221003150079/README.md) tmux
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003150242](/zet/20221003150242/README.md) identify service
 - [20221012070318](/zet/20221012070318/README.md) linux terminal

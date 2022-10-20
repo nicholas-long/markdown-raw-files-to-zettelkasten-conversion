@@ -27,9 +27,9 @@ RUN git clone https://github.com/Titor8115/mandown && cd mandown && make && make
 - [20221003150213](/zet/20221003150213/README.md) kafkacat install APT
 - [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
 - [20221003150182](/zet/20221003150182/README.md) install alacritty 
-- [20221003150181](/zet/20221003150181/README.md) install alacritty  fix build errors
-- [20221003150180](/zet/20221003150180/README.md) install alacritty  commands
-- [20221003150179](/zet/20221003150179/README.md) install alacritty  config file
+- [20221003150181](/zet/20221003150181/README.md) install alacritty dependencies to fix build errors
+- [20221003150180](/zet/20221003150180/README.md) install alacritty commands
+- [20221003150179](/zet/20221003150179/README.md) alacritty config file
 - [20221003150137](/zet/20221003150137/README.md) installing virtualbox
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
 

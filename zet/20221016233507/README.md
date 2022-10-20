@@ -82,7 +82,6 @@ kb/scratch.md
 # Related
 
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
-
 - [20221016233510](/zet/20221016233510/README.md) commits for day of 2022-05-30
 - [20221014185515](/zet/20221014185515/README.md) kb file named kb/scratch.md
 - [20221014185706](/zet/20221014185706/README.md) kb file named kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md

@@ -14,6 +14,7 @@
 
 # Related
 
+- [20221003150179](/zet/20221003150179/README.md) alacritty config file
 - [20221008215655](/zet/20221008215655/README.md) user account
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash
 - [20221008215400](/zet/20221008215400/README.md) file

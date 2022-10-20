@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221003150187](/zet/20221003150187/README.md) linux free up space
 - [20221003150126](/zet/20221003150126/README.md) routing using a linux box
 - [20221003150080](/zet/20221003150080/README.md) ctrl H does not work as a hotkey in qterminal by default 
 - [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
@@ -31,7 +32,7 @@
 - [20221003150299](/zet/20221003150299/README.md) fixing golang module errors
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
 - [20221003150202](/zet/20221003150202/README.md) fix grub not showing windows partition
-- [20221003150181](/zet/20221003150181/README.md) install alacritty  fix build errors
+- [20221003150181](/zet/20221003150181/README.md) install alacritty dependencies to fix build errors
 - [20221014190259](/zet/20221014190259/README.md) kb file named kb/bash-scripting/tricks.md
 - [20221014190158](/zet/20221014190158/README.md) kb file named kb/linux/cyberpunk-retro-machine-serial-terminals.md
 - [20221014190050](/zet/20221014190050/README.md) kb file named kb/hacking/misc/bruteforcing-tools.md

@@ -8,6 +8,7 @@ the concept of a `file`
 
 # Related
 
+- [20221003150179](/zet/20221003150179/README.md) alacritty config file
 - [20221019150908](/zet/20221019150908/README.md) userlist file concept
 - [20221019143615](/zet/20221019143615/README.md) data concept
 - [20221018174628](/zet/20221018174628/README.md) tar command
