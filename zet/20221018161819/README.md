@@ -10,7 +10,6 @@
 # Related
 
 - [20221009095853](/zet/20221009095853/README.md) finished
-
 - [20221013173355](/zet/20221013173355/README.md) enumeration - the process of enumerating a target
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project

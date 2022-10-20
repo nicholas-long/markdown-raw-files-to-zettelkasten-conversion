@@ -6,6 +6,7 @@ things that are finished.
 
 # Related
 
+- [20221018161819](/zet/20221018161819/README.md) did i link a bunch of weird enumeration stuff together?
 - [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221019144206](/zet/20221019144206/README.md) this should all be linked to powershell and to try lists
 - [20221019143924](/zet/20221019143924/README.md) link all this up to AD and to try list
