@@ -12,7 +12,6 @@
 # Related
 
 - [20221020051510](/zet/20221020051510/README.md) knowledge operations ideas
-
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types

@@ -13,7 +13,6 @@
 # Related
 
 - [20221020052758](/zet/20221020052758/README.md) neo4j cypher queries
-
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221003151379](/zet/20221003151379/README.md) bash scripting mount host neo4j data into docker
 - [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker

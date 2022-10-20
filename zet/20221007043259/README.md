@@ -101,8 +101,8 @@
 
 # Related
 
+- [20221020051510](/zet/20221020051510/README.md) knowledge operations ideas
 - [20221020053629](/zet/20221020053629/README.md) parse mermaid syntax and use to generate set of linked cards
-
 - [20221018201513](/zet/20221018201513/README.md) make a script to get the context of a card - word counts
 - [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
 - [20221015011227](/zet/20221015011227/README.md) make writeups from cards
