@@ -3,23 +3,24 @@
 ![screenshot of graph explorer](/zet/20221010184202/Screenshot_2022-10-14_014740.png)
 
 name: zc
+- based on zet implementation by [rwxrob](/zet/20221006033248/README.md)
+- uses github actions to automatically enrich and make references bidirectional
 - run with `./zc menu` - interactive menu loop with fzf prompt for speed
 - `browser` - fzf interactive markdown preview browsser that can traverse and edit links
   - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+  - graph data entry and linking tool
   - the full TUI implementation that will be released?
   - can launch new tmux windows if tmux is running
   - fzf selection window to select lots of references or spawn new nodes
-- github actions
-  - automatically enrich and make references bidirectional
-- graph data entry and linking tool
 - installing
   - [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
     - `echo "$(pwd)/zc \$@" > ~/.local/bin/z`
       - make sure `$HOME/.local/bin` is in your path
       - still trying to figure out this shortcut since it's not perfect
-- [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
-- graph query language for scripting
+- for scripting
   - [20221013221136](/zet/20221013221136/README.md) graph query language
+  - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
+  - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 
 - dependencies
   - vim or nvim
@@ -46,10 +47,9 @@ Options:
     -h|--help
 ```
 
-- i think the project should be broken into 3 parts
+- i think the project should be broken into 2 parts
+  - graph browser, linker, editor, git workflow
   - console utility (colelction of scripts)
-  - graph browser, linker, editor
-  - workflow loop
 
 ` zet/20221006032546/README.md `
 

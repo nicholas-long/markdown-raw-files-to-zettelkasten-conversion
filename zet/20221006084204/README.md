@@ -36,6 +36,8 @@
 
 # Related
 
+- [20221021202250](/zet/20221021202250/README.md) put all the link titles in square brackets and automatically update them
+
 - [20221020053629](/zet/20221020053629/README.md) parse mermaid syntax and use to generate set of linked cards
 - [20221018201513](/zet/20221018201513/README.md) make a script to get the context of a card - word counts
 - [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores
