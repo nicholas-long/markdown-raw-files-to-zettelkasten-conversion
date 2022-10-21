@@ -1,4 +1,4 @@
-# got source code - analysis
+# got source code - analysis to try list
 - secrets / creds
 - paths and filenames
 - grep vulnerable functions

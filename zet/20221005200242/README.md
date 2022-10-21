@@ -50,8 +50,6 @@ this is a list of possibly empty zettels.
 - [20221003151306](/zet/20221003151306/README.md) bash scripting set operations
 - [20221003151305](/zet/20221003151305/README.md) bash scripting set operations comm
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
-- [20221003151292](/zet/20221003151292/README.md) C template
-- [20221003151291](/zet/20221003151291/README.md) C template readline prompt
 - [20221003151289](/zet/20221003151289/README.md) jq
 - [20221003151288](/zet/20221003151288/README.md) jq pipe syntax
 - [20221003151286](/zet/20221003151286/README.md) postgres
@@ -72,7 +70,6 @@ this is a list of possibly empty zettels.
 - [20221003151230](/zet/20221003151230/README.md) VBScript
 - [20221003151214](/zet/20221003151214/README.md) got leaked files
 - [20221003151193](/zet/20221003151193/README.md) HTTP
-- [20221003151155](/zet/20221003151155/README.md) linux hardening
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
 - [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec
 - [20221003151144](/zet/20221003151144/README.md) active directory 
@@ -117,7 +114,6 @@ this is a list of possibly empty zettels.
 - [20221003150949](/zet/20221003150949/README.md) python fix SSL errors
 - [20221003150946](/zet/20221003150946/README.md) python
 - [20221003150942](/zet/20221003150942/README.md) python imports
-- [20221003150929](/zet/20221003150929/README.md) C setuid suid backdoor exploit
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
 - [20221003150907](/zet/20221003150907/README.md) linux enumeration quick commands transfer / download files with just bash
 - [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities
@@ -155,7 +151,6 @@ this is a list of possibly empty zettels.
 - [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks
 - [20221003150755](/zet/20221003150755/README.md) keytool
 - [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket
-- [20221003150739](/zet/20221003150739/README.md) feroxbuster
 - [20221003150730](/zet/20221003150730/README.md) powershell
 - [20221003150720](/zet/20221003150720/README.md) curl
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
@@ -193,7 +188,6 @@ this is a list of possibly empty zettels.
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
 - [20221003150575](/zet/20221003150575/README.md) php type juggling methodology
 - [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion
-- [20221003150571](/zet/20221003150571/README.md) PHP unserialize payload gadget chains
 - [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell
 - [20221003150548](/zet/20221003150548/README.md) simple binary exploits
 - [20221003150545](/zet/20221003150545/README.md) simple binary exploits pattern offset finding
@@ -218,7 +212,6 @@ this is a list of possibly empty zettels.
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks
 - [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
 - [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry
-- [20221003150462](/zet/20221003150462/README.md) tomcat
 - [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI
 - [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze
 - [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file
@@ -274,7 +267,6 @@ this is a list of possibly empty zettels.
 - [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems
 - [20221003150283](/zet/20221003150283/README.md) default webroots debian system
 - [20221003150279](/zet/20221003150279/README.md) pfx extension PKCS#12 format certificate cracking
-- [20221003150274](/zet/20221003150274/README.md) web server file executable extensions
 - [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface
 - [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix
 - [20221003150268](/zet/20221003150268/README.md) IPMI intelligent platform management interface BMC

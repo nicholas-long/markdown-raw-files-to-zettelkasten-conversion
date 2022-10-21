@@ -11,4 +11,4 @@ https://github.com/ambionics/phpggc
 
 Tags:
 
-    #hacking #deserialization 
+    #hacking #deserialization #DEL #redundant

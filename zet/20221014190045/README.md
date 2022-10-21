@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221013171453](/zet/20221013171453/README.md) important repositories and tools
+
 - [20221016233706](/zet/20221016233706/README.md) commits for day of 2022-09-05
 - [20221016233512](/zet/20221016233512/README.md) commits for day of 2022-05-31
 - [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing
