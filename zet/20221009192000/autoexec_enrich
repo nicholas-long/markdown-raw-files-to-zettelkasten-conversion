@@ -17,7 +17,7 @@ indexdothtml="$mydir/../../README.md"
   echo "Missing:"
   ./graphquery id $CARD_ID : not $indexdothtml # all references in this card that are not on README.md
   echo "Extra:"
-  ./graphquery file $indexdothtml not <( ./graphquery @meta ) not <( ./graphquery id $CARD_ID : ) # all ids on the main page that are not tagged #meta and not referenced in this card
+  ./graphquery $indexdothtml not <( ./graphquery @meta ) not <( ./graphquery id $CARD_ID : ) # all ids on the main page that are not tagged #meta and not referenced in this card
 } > $mydir/missing
 
 export snippetcommand="cat $mydir/missing"
