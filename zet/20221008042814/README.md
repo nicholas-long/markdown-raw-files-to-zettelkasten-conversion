@@ -7,7 +7,6 @@ stuff i am working on.
 # Related
 
 - [20221021071146](/zet/20221021071146/README.md) delete things marked as #DEL periodically
-
 - [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
 - [20221003151144](/zet/20221003151144/README.md) active directory 
 - [20221003150791](/zet/20221003150791/README.md) openssl

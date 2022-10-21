@@ -43,7 +43,6 @@ implement parentheses - sub expressions?
 # Related
 
 - [20221009095853](/zet/20221009095853/README.md) finished
-
 - [20221020230358](/zet/20221020230358/README.md) test node 1
 - [20221009102918](/zet/20221009102918/README.md) get titles in tag links
 - [20221008054439](/zet/20221008054439/README.md) graph database
