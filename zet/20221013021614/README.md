@@ -1,14 +1,23 @@
 # terminal graph browser
 
 - concept of `terminal graph browser`
-- is awesome
-- fzf loop just like `zc`
+- text user interface ( TUI ) to follow links
+  - interfaced based on workflow from using web browser and github markdown preview to traverse links
+  - add and remove links quickly with fzf
   - preview window shows document always, menu picks options, option to visit links
-- text user interface ( TUI ) to follow links like web browser
-  - add and remove links quickly
-  - navigate back - very useful
+- menu options documentation
+  - `/deep` - deep keyword search combining links, titles, content, and fzf fuzzy finding. spawns new tmux windows if tmux is running.
+  - `spawn` - enter a title and create a new zettel card linked to here
+  - `link` - insert many links with fzf fuzzy finder
+  - `unlink` - select one link to remove. will remove from target zettel card as well.
+  - `copypath` - if running in tmux, copy the current markdown file path to tmux buffer
+  - `tab` - if running in tmux, open multiple other links in new tmux windows (like browser tabs)
+  - `enrich` - insert backlinks and other various cleanup scripts. runs automatic scripts in cards
+    - consider the security implications of automatic scripts
+  - `back` - go back, like a browser
     - if you edit links in cards you are working on, you could get trapped and need to hop back to previous card
-- TODO: edit a document and specific links in tabs from menu?
+  - `edit` - edit card in vim
+  - `xfer` - copy between cards easily by selecting other card from links to open in vim tabs
 
 ```
 ln -s zet/20221013021614/ browser
