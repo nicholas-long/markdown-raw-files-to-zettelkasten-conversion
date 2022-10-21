@@ -42,10 +42,11 @@ implement parentheses - sub expressions?
 
 # Related
 
+- [20221008042814](/zet/20221008042814/README.md) WIP
+
 - [20221020230358](/zet/20221020230358/README.md) test node 1
 - [20221009102918](/zet/20221009102918/README.md) get titles in tag links
 - [20221008054439](/zet/20221008054439/README.md) graph database
-- [20221003150098](/zet/20221003150098/README.md) todo
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 

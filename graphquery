@@ -12,8 +12,13 @@ echo "query $@" > /dev/stderr
 find zet -name README.md | awk -F / '{print $(NF-1)}' | sort -u > $buf
 
 while [[ $# -gt 0 ]]; do
-  #echo "parsing $1" > /dev/stderr
-  if [[ "$1" =~ ^@.*$ ]]; then
+  echo "parsing $1" > /dev/stderr
+  if [ -f "$1" -o -p "$1" ]; then
+    echo "got file $1" > /dev/stderr
+    implementation/parseids "$1" | sort -u > $temp
+    join $buf $temp > $joined
+    cp "$joined" "$buf"
+  elif [[ "$1" =~ ^@.*$ ]]; then
     tagname="$1"
     tagname=${tagname//@/}
     #echo "read tags $tagname" > /dev/stderr
