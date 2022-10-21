@@ -27,6 +27,10 @@ jobs:
       - name: autogenerate
         run: ./zc enrich
 
+      # Runs a single command using the runners shell
+      - name: autogenerate2
+        run: ./zc enrich
+
       # Runs a set of commands using the runners shell
       - name: print diff
         run: git diff
