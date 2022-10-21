@@ -3,7 +3,7 @@
 - concept of `delete things marked as #DEL periodically`
 
 ```
-./graphquery @DEL | xargs -n 1 ./zc rm
+./graphquery @DEL | awk '/^[0-9]+$/ {system("rm -rf zet/" $0)}'
 ```
 
 ` zet/20221021071146/README.md `
