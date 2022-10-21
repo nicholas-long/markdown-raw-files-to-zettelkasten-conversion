@@ -6,21 +6,21 @@
   - add and remove links quickly with fzf
   - preview window shows document always, menu picks options, option to visit links
 - menu options documentation
-  - `goto ...` - follow link
-  - `tab` - if running in tmux, open multiple other links in new tmux windows (like browser tabs)
-  - `edit` - edit card in vim
-  - `/deep` - deep keyword search combining links, titles, content, and fzf fuzzy finding. spawns new tmux windows if tmux is running.
-  - `spawn` - enter a title and create a new zettel card linked to here
-  - `xfer` - copy between cards easily by selecting other card from links to open in vim tabs
-  - `link` - insert many links with fzf fuzzy finder
-  - `unlink` - select one link to remove. will remove from target zettel card as well.
-  - `stat` - git status preview, colorized. launches lazygit if selected.
-  - `back` - go back, like a browser
+  - `goto ...`    - follow link
+  - `tab`         - if running in tmux, open multiple other links in new tmux windows (like browser tabs)
+  - `edit`        - edit card in vim
+  - `/deep`       - deep keyword search combining links, titles, content, and fzf fuzzy finding. launches new tmux windows if tmux is running.
+  - `spawn`       - create a new zettel card linked to here. enter title at prompt. new card is available to navigate and edit immediately.
+  - `xfer`        - copy between cards easily by selecting other card from links to open in vim tabs
+  - `link`        - insert many links with fzf fuzzy finder
+  - `unlink`      - select one link to remove. will remove from target zettel card as well.
+  - `stat`        - git status preview, colorized. launches lazygit if selected.
+  - `back`        - go back, like a browser
     - if you edit links in cards you are working on, you could get trapped and need to hop back to previous card
-  - `copypath` - if running in tmux, copy the current markdown file path to tmux buffer
+  - `copypath`    - if running in tmux, copy the current markdown file path to tmux buffer
+  - `enrich`      - insert backlinks and other various cleanup scripts. runs automatic scripts in cards
     - consider the security implications of automatic scripts
-  - `enrich` - insert backlinks and other various cleanup scripts. runs automatic scripts in cards
-  - `quit` - exit program. i like q as a hotkey so this is good in fzf.
+  - `quit`        - exit program. i like q as a hotkey so this is good in fzf.
 
 ```
 ln -s zet/20221013021614/ browser
