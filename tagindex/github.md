@@ -1,1 +1,1 @@
-- [20221008181005](/zet/20221008181005/README.md)
+- [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes

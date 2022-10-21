@@ -1,1 +1,1 @@
-- [20221015021344](/zet/20221015021344/README.md)
+- [20221015021344](/zet/20221015021344/README.md) graph explorer does not let you add 0 links or back out of link screen

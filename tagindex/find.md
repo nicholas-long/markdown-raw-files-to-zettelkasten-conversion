@@ -1,4 +1,4 @@
-- [20221003151303](/zet/20221003151303/README.md)
-- [20221003151304](/zet/20221003151304/README.md)
-- [20221003151305](/zet/20221003151305/README.md)
-- [20221003151306](/zet/20221003151306/README.md)
+- [20221003151303](/zet/20221003151303/README.md) bash scripting set operations comm find lines unique to one file and not in another
+- [20221003151304](/zet/20221003151304/README.md) bash scripting set operations comm find common lines between two files
+- [20221003151305](/zet/20221003151305/README.md) bash scripting set operations comm
+- [20221003151306](/zet/20221003151306/README.md) bash scripting set operations

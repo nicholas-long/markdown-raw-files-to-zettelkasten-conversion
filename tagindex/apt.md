@@ -1,5 +1,5 @@
-- [20221003150097](/zet/20221003150097/README.md)
-- [20221003150137](/zet/20221003150137/README.md)
-- [20221003150159](/zet/20221003150159/README.md)
-- [20221003150458](/zet/20221003150458/README.md)
-- [20221018125400](/zet/20221018125400/README.md)
+- [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
+- [20221003150137](/zet/20221003150137/README.md) installing virtualbox
+- [20221003150159](/zet/20221003150159/README.md) upgrade when apt is causing problems
+- [20221003150458](/zet/20221003150458/README.md) redis-cli apt repository
+- [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy

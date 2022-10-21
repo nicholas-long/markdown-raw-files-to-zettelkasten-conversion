@@ -1,9 +1,9 @@
-- [20221010142810](/zet/20221010142810/README.md)
-- [20221010182721](/zet/20221010182721/README.md)
-- [20221011085218](/zet/20221011085218/README.md)
-- [20221011145639](/zet/20221011145639/README.md)
-- [20221012134856](/zet/20221012134856/README.md)
-- [20221015041944](/zet/20221015041944/README.md)
-- [20221018020643](/zet/20221018020643/README.md)
-- [20221018042949](/zet/20221018042949/README.md)
-- [20221018052621](/zet/20221018052621/README.md)
+- [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
+- [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
+- [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf
+- [20221011145639](/zet/20221011145639/README.md) why does kali apt break bat?
+- [20221012134856](/zet/20221012134856/README.md) what is org roam?
+- [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
+- [20221018020643](/zet/20221018020643/README.md) what is hadoop for?
+- [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux
+- [20221018052621](/zet/20221018052621/README.md) how to process email programatically?

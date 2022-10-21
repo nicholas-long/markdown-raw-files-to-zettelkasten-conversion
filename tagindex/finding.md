@@ -1,1 +1,1 @@
-- [20221010054621](/zet/20221010054621/README.md)
+- [20221010054621](/zet/20221010054621/README.md) github doesn't let me edit a markdown page with template braces

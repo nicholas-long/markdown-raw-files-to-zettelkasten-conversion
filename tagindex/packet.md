@@ -1,8 +1,8 @@
-- [20221003150710](/zet/20221003150710/README.md)
-- [20221003150711](/zet/20221003150711/README.md)
-- [20221003150712](/zet/20221003150712/README.md)
-- [20221003150713](/zet/20221003150713/README.md)
-- [20221003150714](/zet/20221003150714/README.md)
-- [20221003150715](/zet/20221003150715/README.md)
-- [20221003150716](/zet/20221003150716/README.md)
-- [20221003150717](/zet/20221003150717/README.md)
+- [20221003150710](/zet/20221003150710/README.md) packet capture capture packets with tcpdump over ssh connection and pipe directly to wireshark
+- [20221003150711](/zet/20221003150711/README.md) packet capture read pcap data with tshark
+- [20221003150712](/zet/20221003150712/README.md) packet capture with tcpdump watch traffic print packet data contents
+- [20221003150713](/zet/20221003150713/README.md) packet capture with tcpdump watch traffic print IP and port
+- [20221003150714](/zet/20221003150714/README.md) packet capture with tcpdump watch traffic
+- [20221003150715](/zet/20221003150715/README.md) packet capture with tcpdump log data to pcap file
+- [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
+- [20221003150717](/zet/20221003150717/README.md) packet capture

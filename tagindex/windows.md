@@ -1,125 +1,125 @@
-- [20221003150728](/zet/20221003150728/README.md)
-- [20221003150729](/zet/20221003150729/README.md)
-- [20221003150730](/zet/20221003150730/README.md)
-- [20221003150746](/zet/20221003150746/README.md)
-- [20221003150747](/zet/20221003150747/README.md)
-- [20221003150748](/zet/20221003150748/README.md)
-- [20221003150749](/zet/20221003150749/README.md)
-- [20221003150750](/zet/20221003150750/README.md)
-- [20221003150751](/zet/20221003150751/README.md)
-- [20221003150752](/zet/20221003150752/README.md)
-- [20221003150753](/zet/20221003150753/README.md)
-- [20221003151027](/zet/20221003151027/README.md)
-- [20221003151028](/zet/20221003151028/README.md)
-- [20221003151030](/zet/20221003151030/README.md)
-- [20221003151033](/zet/20221003151033/README.md)
-- [20221003151034](/zet/20221003151034/README.md)
-- [20221003151038](/zet/20221003151038/README.md)
-- [20221003151039](/zet/20221003151039/README.md)
-- [20221003151042](/zet/20221003151042/README.md)
-- [20221003151043](/zet/20221003151043/README.md)
-- [20221003151044](/zet/20221003151044/README.md)
-- [20221003151045](/zet/20221003151045/README.md)
-- [20221003151046](/zet/20221003151046/README.md)
-- [20221003151047](/zet/20221003151047/README.md)
-- [20221003151048](/zet/20221003151048/README.md)
-- [20221003151049](/zet/20221003151049/README.md)
-- [20221003151050](/zet/20221003151050/README.md)
-- [20221003151061](/zet/20221003151061/README.md)
-- [20221003151062](/zet/20221003151062/README.md)
-- [20221003151063](/zet/20221003151063/README.md)
-- [20221003151064](/zet/20221003151064/README.md)
-- [20221003151065](/zet/20221003151065/README.md)
-- [20221003151066](/zet/20221003151066/README.md)
-- [20221003151067](/zet/20221003151067/README.md)
-- [20221003151068](/zet/20221003151068/README.md)
-- [20221003151069](/zet/20221003151069/README.md)
-- [20221003151070](/zet/20221003151070/README.md)
-- [20221003151071](/zet/20221003151071/README.md)
-- [20221003151072](/zet/20221003151072/README.md)
-- [20221003151073](/zet/20221003151073/README.md)
-- [20221003151074](/zet/20221003151074/README.md)
-- [20221003151075](/zet/20221003151075/README.md)
-- [20221003151076](/zet/20221003151076/README.md)
-- [20221003151077](/zet/20221003151077/README.md)
-- [20221003151078](/zet/20221003151078/README.md)
-- [20221003151079](/zet/20221003151079/README.md)
-- [20221003151080](/zet/20221003151080/README.md)
-- [20221003151081](/zet/20221003151081/README.md)
-- [20221003151084](/zet/20221003151084/README.md)
-- [20221003151085](/zet/20221003151085/README.md)
-- [20221003151086](/zet/20221003151086/README.md)
-- [20221003151087](/zet/20221003151087/README.md)
-- [20221003151088](/zet/20221003151088/README.md)
-- [20221003151089](/zet/20221003151089/README.md)
-- [20221003151090](/zet/20221003151090/README.md)
-- [20221003151091](/zet/20221003151091/README.md)
-- [20221003151092](/zet/20221003151092/README.md)
-- [20221003151093](/zet/20221003151093/README.md)
-- [20221003151094](/zet/20221003151094/README.md)
-- [20221003151095](/zet/20221003151095/README.md)
-- [20221003151096](/zet/20221003151096/README.md)
-- [20221003151097](/zet/20221003151097/README.md)
-- [20221003151098](/zet/20221003151098/README.md)
-- [20221003151099](/zet/20221003151099/README.md)
-- [20221003151100](/zet/20221003151100/README.md)
-- [20221003151101](/zet/20221003151101/README.md)
-- [20221003151102](/zet/20221003151102/README.md)
-- [20221003151104](/zet/20221003151104/README.md)
-- [20221003151105](/zet/20221003151105/README.md)
-- [20221003151106](/zet/20221003151106/README.md)
-- [20221003151107](/zet/20221003151107/README.md)
-- [20221003151108](/zet/20221003151108/README.md)
-- [20221003151109](/zet/20221003151109/README.md)
-- [20221003151110](/zet/20221003151110/README.md)
-- [20221003151111](/zet/20221003151111/README.md)
-- [20221003151112](/zet/20221003151112/README.md)
-- [20221003151113](/zet/20221003151113/README.md)
-- [20221003151114](/zet/20221003151114/README.md)
-- [20221003151115](/zet/20221003151115/README.md)
-- [20221003151116](/zet/20221003151116/README.md)
-- [20221003151117](/zet/20221003151117/README.md)
-- [20221003151118](/zet/20221003151118/README.md)
-- [20221003151119](/zet/20221003151119/README.md)
-- [20221003151120](/zet/20221003151120/README.md)
-- [20221003151121](/zet/20221003151121/README.md)
-- [20221003151122](/zet/20221003151122/README.md)
-- [20221003151123](/zet/20221003151123/README.md)
-- [20221003151124](/zet/20221003151124/README.md)
-- [20221003151125](/zet/20221003151125/README.md)
-- [20221003151126](/zet/20221003151126/README.md)
-- [20221003151127](/zet/20221003151127/README.md)
-- [20221003151128](/zet/20221003151128/README.md)
-- [20221003151129](/zet/20221003151129/README.md)
-- [20221003151130](/zet/20221003151130/README.md)
-- [20221003151131](/zet/20221003151131/README.md)
-- [20221003151132](/zet/20221003151132/README.md)
-- [20221003151133](/zet/20221003151133/README.md)
-- [20221003151134](/zet/20221003151134/README.md)
-- [20221003151135](/zet/20221003151135/README.md)
-- [20221003151136](/zet/20221003151136/README.md)
-- [20221003151137](/zet/20221003151137/README.md)
-- [20221003151138](/zet/20221003151138/README.md)
-- [20221003151139](/zet/20221003151139/README.md)
-- [20221003151140](/zet/20221003151140/README.md)
-- [20221003151141](/zet/20221003151141/README.md)
-- [20221003151142](/zet/20221003151142/README.md)
-- [20221003151143](/zet/20221003151143/README.md)
-- [20221003151144](/zet/20221003151144/README.md)
-- [20221003151145](/zet/20221003151145/README.md)
-- [20221003151146](/zet/20221003151146/README.md)
-- [20221003151147](/zet/20221003151147/README.md)
-- [20221003151148](/zet/20221003151148/README.md)
-- [20221003151149](/zet/20221003151149/README.md)
-- [20221003151150](/zet/20221003151150/README.md)
-- [20221003151152](/zet/20221003151152/README.md)
-- [20221003151205](/zet/20221003151205/README.md)
-- [20221003151206](/zet/20221003151206/README.md)
-- [20221003151207](/zet/20221003151207/README.md)
-- [20221003151262](/zet/20221003151262/README.md)
-- [20221003151263](/zet/20221003151263/README.md)
-- [20221008191607](/zet/20221008191607/README.md)
-- [20221008194048](/zet/20221008194048/README.md)
-- [20221013185656](/zet/20221013185656/README.md)
-- [20221015050620](/zet/20221015050620/README.md)
-- [20221019150132](/zet/20221019150132/README.md)
+- [20221003150728](/zet/20221003150728/README.md) powershell base64 encode equivalent within ps
+- [20221003150729](/zet/20221003150729/README.md) powershell encode commands as base64 with windows wide char strings in linux
+- [20221003150730](/zet/20221003150730/README.md) powershell
+- [20221003150746](/zet/20221003150746/README.md) impacket kerberos commands wmiexec
+- [20221003150747](/zet/20221003150747/README.md) impacket kerberos commands ticket environment variable KRB5CCNAME
+- [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands
+- [20221003150749](/zet/20221003150749/README.md) crackmapexec kerberos authentication with ticket include ticket environment variable
+- [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket
+- [20221003150751](/zet/20221003150751/README.md) kerbrute password spray users from user list file
+- [20221003150752](/zet/20221003150752/README.md) kerbrute enumerate users using wordlist
+- [20221003150753](/zet/20221003150753/README.md) kerbrute
+- [20221003151027](/zet/20221003151027/README.md) decrypt azure AD connect passwords powershell MSSQL queries
+- [20221003151028](/zet/20221003151028/README.md) decrypt azure AD connect passwords
+- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
+- [20221003151033](/zet/20221003151033/README.md) applocker limit allowed executables and allowed paths bypass executable blocking
+- [20221003151034](/zet/20221003151034/README.md) applocker limit allowed executables and allowed paths
+- [20221003151038](/zet/20221003151038/README.md) dumping credentials as admin in remote desktop RDP or GUI
+- [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin
+- [20221003151042](/zet/20221003151042/README.md) windows alternate data streams commands displaying content with powershell
+- [20221003151043](/zet/20221003151043/README.md) windows alternate data streams commands creating alt streams
+- [20221003151044](/zet/20221003151044/README.md) windows alternate data streams commands enumerate directory for alt streams
+- [20221003151045](/zet/20221003151045/README.md) windows alternate data streams commands
+- [20221003151046](/zet/20221003151046/README.md) windows reverse shell AV bypass defender
+- [20221003151047](/zet/20221003151047/README.md) windows reverse shell AV bypass active directory endpoint protection
+- [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass
+- [20221003151049](/zet/20221003151049/README.md) change user password powershell or dos
+- [20221003151050](/zet/20221003151050/README.md) change user password
+- [20221003151061](/zet/20221003151061/README.md) bypass UAC with administrators group read files quickly using smb shares
+- [20221003151062](/zet/20221003151062/README.md) bypass UAC with administrators group uacme bypass
+- [20221003151063](/zet/20221003151063/README.md) bypass UAC with administrators group fodhelper bypass
+- [20221003151064](/zet/20221003151064/README.md) bypass UAC with administrators group
+- [20221003151065](/zet/20221003151065/README.md) AMSI detect windows defender with known malicious string
+- [20221003151066](/zet/20221003151066/README.md) AMSI detect windows defender
+- [20221003151067](/zet/20221003151067/README.md) AMSI
+- [20221003151068](/zet/20221003151068/README.md) dump process memory with task manager as admin
+- [20221003151069](/zet/20221003151069/README.md) dump process memory with sysinternals procdump
+- [20221003151070](/zet/20221003151070/README.md) dump process memory
+- [20221003151071](/zet/20221003151071/README.md) windows color script output winpeas log scroll with colors and convert to utf8 for linux
+- [20221003151072](/zet/20221003151072/README.md) windows color script output winpeas log
+- [20221003151073](/zet/20221003151073/README.md) windows color script output
+- [20221003151074](/zet/20221003151074/README.md) service account privileges exploiting SeManageVolumePrivilege
+- [20221003151075](/zet/20221003151075/README.md) service account privileges exploiting SeImpersonatePrivilege
+- [20221003151076](/zet/20221003151076/README.md) service account privileges exploiting
+- [20221003151077](/zet/20221003151077/README.md) service account privileges restore using FullPowers tool
+- [20221003151078](/zet/20221003151078/README.md) service account privileges restore using scheduled task with powershell require seimpersonate privilege for task using principal
+- [20221003151079](/zet/20221003151079/README.md) service account privileges restore using scheduled task with powershell
+- [20221003151080](/zet/20221003151080/README.md) service account privileges restore
+- [20221003151081](/zet/20221003151081/README.md) service account privileges
+- [20221003151084](/zet/20221003151084/README.md) windows sensitive file disclosure cheat sheet determine version
+- [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet
+- [20221003151086](/zet/20221003151086/README.md) mimikatz troubleshooting `ERROR kuhl_m_sekurlsa_acquireLSA Key import`
+- [20221003151087](/zet/20221003151087/README.md) mimikatz dump passwords
+- [20221003151088](/zet/20221003151088/README.md) mimikatz all in one command for non-interactive powershell
+- [20221003151089](/zet/20221003151089/README.md) mimikatz
+- [20221003151090](/zet/20221003151090/README.md) powerview enumerate sensitive information disclosure on file shares
+- [20221003151091](/zet/20221003151091/README.md) powerview
+- [20221003151092](/zet/20221003151092/README.md) windows API enable privilege API calls
+- [20221003151093](/zet/20221003151093/README.md) windows API enable privilege
+- [20221003151094](/zet/20221003151094/README.md) windows API
+- [20221003151095](/zet/20221003151095/README.md) active directory certificate services AD CS risks
+- [20221003151096](/zet/20221003151096/README.md) active directory certificate services AD CS privesc
+- [20221003151097](/zet/20221003151097/README.md) active directory certificate services AD CS
+- [20221003151098](/zet/20221003151098/README.md) powershell commands execute encoded command as quietly as possible
+- [20221003151099](/zet/20221003151099/README.md) powershell commands encoded command nop bypass hidden
+- [20221003151100](/zet/20221003151100/README.md) powershell commands download and execute script
+- [20221003151101](/zet/20221003151101/README.md) powershell commands
+- [20221003151102](/zet/20221003151102/README.md) DOS commands download file from http
+- [20221003151104](/zet/20221003151104/README.md) compile windows DLL to run commands DLL code building with mingw
+- [20221003151105](/zet/20221003151105/README.md) compile windows DLL to run commands DLL code
+- [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
+- [20221003151107](/zet/20221003151107/README.md) dos commands net add user to domain group
+- [20221003151108](/zet/20221003151108/README.md) dos commands net
+- [20221003151109](/zet/20221003151109/README.md) dos commands admin / system dump registry secretsdump hashes
+- [20221003151110](/zet/20221003151110/README.md) dos commands admin / system
+- [20221003151111](/zet/20221003151111/README.md) dos commands kill process by id
+- [20221003151112](/zet/20221003151112/README.md) dos commands services sc start service
+- [20221003151113](/zet/20221003151113/README.md) dos commands services sc set binary path
+- [20221003151114](/zet/20221003151114/README.md) dos commands services sc enable service
+- [20221003151115](/zet/20221003151115/README.md) dos commands services sc
+- [20221003151116](/zet/20221003151116/README.md) dos commands file permissions access check sysinternals
+- [20221003151117](/zet/20221003151117/README.md) dos commands file permissions
+- [20221003151118](/zet/20221003151118/README.md) dos commands show environment variables
+- [20221003151119](/zet/20221003151119/README.md) dos commands active network connections
+- [20221003151120](/zet/20221003151120/README.md) dos commands installed drivers
+- [20221003151121](/zet/20221003151121/README.md) dos commands service paths
+- [20221003151122](/zet/20221003151122/README.md) dos commands windows services and drivers
+- [20221003151123](/zet/20221003151123/README.md) dos commands see running service processes
+- [20221003151124](/zet/20221003151124/README.md) dos commands
+- [20221003151125](/zet/20221003151125/README.md) active directory  delegation constrained
+- [20221003151126](/zet/20221003151126/README.md) active directory  delegation unconstrained
+- [20221003151127](/zet/20221003151127/README.md) active directory  delegation
+- [20221003151128](/zet/20221003151128/README.md) active directory  DNS adding DNS records
+- [20221003151129](/zet/20221003151129/README.md) active directory  DNS
+- [20221003151130](/zet/20221003151130/README.md) active directory  change user password with rpcclient over SMB 
+- [20221003151131](/zet/20221003151131/README.md) active directory  GMSA group managed service account remote LDAP read GMSA passwords python script fix missing ConvertFrom-AdManagedPasswordBlob
+- [20221003151132](/zet/20221003151132/README.md) active directory  GMSA group managed service account remote LDAP read GMSA passwords python script
+- [20221003151133](/zet/20221003151133/README.md) active directory  GMSA group managed service account read NTLM hash with powershell + python
+- [20221003151134](/zet/20221003151134/README.md) active directory  GMSA group managed service account
+- [20221003151135](/zet/20221003151135/README.md) active directory  workflow for penetration test on windows network in organization
+- [20221003151136](/zet/20221003151136/README.md) active directory  mindset and methodology
+- [20221003151137](/zet/20221003151137/README.md) active directory  sensitive files
+- [20221003151138](/zet/20221003151138/README.md) active directory  Backup Operators group
+- [20221003151139](/zet/20221003151139/README.md) active directory  ForceChangePassword change user password
+- [20221003151140](/zet/20221003151140/README.md) active directory  NTLMv2 vs kerberos authentication on the network
+- [20221003151141](/zet/20221003151141/README.md) active directory  exploiting permissions GenericAll
+- [20221003151142](/zet/20221003151142/README.md) active directory  exploiting permissions WriteDacl
+- [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions
+- [20221003151144](/zet/20221003151144/README.md) active directory 
+- [20221003151145](/zet/20221003151145/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec convert kirbi to ccache
+- [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec
+- [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
+- [20221003151148](/zet/20221003151148/README.md) resource based constrained delegation S4U attack
+- [20221003151149](/zet/20221003151149/README.md) windows XP and windows server 2003 arbitrary file write -> remote code execution metasploit
+- [20221003151150](/zet/20221003151150/README.md) windows XP and windows server 2003 write arbitrary MOF file for remote code execution
+- [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
+- [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
+- [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
+- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
+- [20221003151262](/zet/20221003151262/README.md) windows executable smartscreen protection bypass ( apt 29 )
+- [20221003151263](/zet/20221003151263/README.md) windows executable smartscreen protection
+- [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
+- [20221008194048](/zet/20221008194048/README.md) good DLLs to hide in for sideloading
+- [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
+- [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY
+- [20221019150132](/zet/20221019150132/README.md) kerberos AD commands

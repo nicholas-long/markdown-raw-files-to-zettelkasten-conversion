@@ -1,2 +1,2 @@
-- [20221003150877](/zet/20221003150877/README.md)
-- [20221003150879](/zet/20221003150879/README.md)
+- [20221003150877](/zet/20221003150877/README.md) dirty cow privilege escalation working version build on attacker machine with statically linked binaries embedded
+- [20221003150879](/zet/20221003150879/README.md) dirty cow privilege escalation

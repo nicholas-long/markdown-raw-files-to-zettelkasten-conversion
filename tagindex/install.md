@@ -1,8 +1,8 @@
-- [20221003150178](/zet/20221003150178/README.md)
-- [20221003150179](/zet/20221003150179/README.md)
-- [20221003150180](/zet/20221003150180/README.md)
-- [20221003150181](/zet/20221003150181/README.md)
-- [20221003150182](/zet/20221003150182/README.md)
-- [20221003151248](/zet/20221003151248/README.md)
-- [20221003151249](/zet/20221003151249/README.md)
-- [20221003151250](/zet/20221003151250/README.md)
+- [20221003150178](/zet/20221003150178/README.md) install alacritty  config file example yaml config
+- [20221003150179](/zet/20221003150179/README.md) alacritty config file
+- [20221003150180](/zet/20221003150180/README.md) install alacritty commands
+- [20221003150181](/zet/20221003150181/README.md) install alacritty dependencies to fix build errors
+- [20221003150182](/zet/20221003150182/README.md) install alacritty 
+- [20221003151248](/zet/20221003151248/README.md) sending installs to target install pip modules on target as files with no dependencies on network connection to pip
+- [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies
+- [20221003151250](/zet/20221003151250/README.md) sending installs to target

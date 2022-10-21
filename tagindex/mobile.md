@@ -1,2 +1,2 @@
-- [20221003150969](/zet/20221003150969/README.md)
-- [20221003150970](/zet/20221003150970/README.md)
+- [20221003150969](/zet/20221003150969/README.md) mobile apps and API testing steps for mobile app API + burpsuite
+- [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing

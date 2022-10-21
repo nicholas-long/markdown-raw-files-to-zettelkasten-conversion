@@ -1,1 +1,1 @@
-- [20221016202237](/zet/20221016202237/README.md)
+- [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content

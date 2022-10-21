@@ -1,1 +1,1 @@
-- [20221009032056](/zet/20221009032056/README.md)
+- [20221009032056](/zet/20221009032056/README.md) keeping track of htb ctf flags

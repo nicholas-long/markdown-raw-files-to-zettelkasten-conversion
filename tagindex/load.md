@@ -1,3 +1,3 @@
-- [20221003150463](/zet/20221003150463/README.md)
-- [20221003150464](/zet/20221003150464/README.md)
-- [20221003150465](/zet/20221003150465/README.md)
+- [20221003150463](/zet/20221003150463/README.md) powershell PSCredential password print password from object
+- [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
+- [20221003150465](/zet/20221003150465/README.md) powershell PSCredential password

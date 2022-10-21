@@ -1,11 +1,11 @@
-- [20221003150080](/zet/20221003150080/README.md)
-- [20221003150947](/zet/20221003150947/README.md)
-- [20221003150948](/zet/20221003150948/README.md)
-- [20221003150949](/zet/20221003150949/README.md)
-- [20221003151086](/zet/20221003151086/README.md)
-- [20221008190117](/zet/20221008190117/README.md)
-- [20221008214827](/zet/20221008214827/README.md)
-- [20221012061227](/zet/20221012061227/README.md)
-- [20221012094712](/zet/20221012094712/README.md)
-- [20221015172248](/zet/20221015172248/README.md)
-- [20221016161034](/zet/20221016161034/README.md)
+- [20221003150080](/zet/20221003150080/README.md) ctrl H does not work as a hotkey in qterminal by default 
+- [20221003150947](/zet/20221003150947/README.md) python fix SSL errors using requests library ignore errors
+- [20221003150948](/zet/20221003150948/README.md) python fix SSL errors using requests library
+- [20221003150949](/zet/20221003150949/README.md) python fix SSL errors
+- [20221003151086](/zet/20221003151086/README.md) mimikatz troubleshooting `ERROR kuhl_m_sekurlsa_acquireLSA Key import`
+- [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch
+- [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
+- [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
+- [20221012094712](/zet/20221012094712/README.md) linux sort issues with locale
+- [20221015172248](/zet/20221015172248/README.md) how to fix ubuntu gnome not remembering screen rotation on One Mix netbook?
+- [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux

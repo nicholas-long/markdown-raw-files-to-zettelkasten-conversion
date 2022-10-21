@@ -1,45 +1,45 @@
-- [20221003150501](/zet/20221003150501/README.md)
-- [20221003150502](/zet/20221003150502/README.md)
-- [20221003150503](/zet/20221003150503/README.md)
-- [20221003150504](/zet/20221003150504/README.md)
-- [20221003150505](/zet/20221003150505/README.md)
-- [20221003150506](/zet/20221003150506/README.md)
-- [20221003150507](/zet/20221003150507/README.md)
-- [20221003150508](/zet/20221003150508/README.md)
-- [20221003150509](/zet/20221003150509/README.md)
-- [20221003150510](/zet/20221003150510/README.md)
-- [20221003150511](/zet/20221003150511/README.md)
-- [20221003150512](/zet/20221003150512/README.md)
-- [20221003150513](/zet/20221003150513/README.md)
-- [20221003150514](/zet/20221003150514/README.md)
-- [20221003150515](/zet/20221003150515/README.md)
-- [20221003150516](/zet/20221003150516/README.md)
-- [20221003150517](/zet/20221003150517/README.md)
-- [20221003150519](/zet/20221003150519/README.md)
-- [20221003150520](/zet/20221003150520/README.md)
-- [20221003150521](/zet/20221003150521/README.md)
-- [20221003150522](/zet/20221003150522/README.md)
-- [20221003150524](/zet/20221003150524/README.md)
-- [20221003150525](/zet/20221003150525/README.md)
-- [20221003150527](/zet/20221003150527/README.md)
-- [20221003150528](/zet/20221003150528/README.md)
-- [20221003150529](/zet/20221003150529/README.md)
-- [20221003150530](/zet/20221003150530/README.md)
-- [20221003150531](/zet/20221003150531/README.md)
-- [20221003150532](/zet/20221003150532/README.md)
-- [20221003150533](/zet/20221003150533/README.md)
-- [20221003150534](/zet/20221003150534/README.md)
-- [20221003150535](/zet/20221003150535/README.md)
-- [20221003150536](/zet/20221003150536/README.md)
-- [20221003150537](/zet/20221003150537/README.md)
-- [20221003150538](/zet/20221003150538/README.md)
-- [20221003150539](/zet/20221003150539/README.md)
-- [20221003150540](/zet/20221003150540/README.md)
-- [20221003150541](/zet/20221003150541/README.md)
-- [20221003150542](/zet/20221003150542/README.md)
-- [20221003150543](/zet/20221003150543/README.md)
-- [20221003150544](/zet/20221003150544/README.md)
-- [20221003150545](/zet/20221003150545/README.md)
-- [20221003150546](/zet/20221003150546/README.md)
-- [20221003150547](/zet/20221003150547/README.md)
-- [20221003150548](/zet/20221003150548/README.md)
+- [20221003150501](/zet/20221003150501/README.md) pwntools FmtStr automated format string exploitation
+- [20221003150502](/zet/20221003150502/README.md) pwntools synchronizing output sending wait until receive
+- [20221003150503](/zet/20221003150503/README.md) pwntools
+- [20221003150504](/zet/20221003150504/README.md) python pwn tricks convert hex to int
+- [20221003150505](/zet/20221003150505/README.md) python pwn tricks convert little endian bytes to floating point
+- [20221003150506](/zet/20221003150506/README.md) python pwn tricks convert little endian bytes to int
+- [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes
+- [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert
+- [20221003150509](/zet/20221003150509/README.md) python pwn tricks
+- [20221003150510](/zet/20221003150510/README.md) pwn commands / tricks patchelf ld paths use custom ld version and library path
+- [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths
+- [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks
+- [20221003150513](/zet/20221003150513/README.md) pwntools gdb debugging terminal tmux
+- [20221003150514](/zet/20221003150514/README.md) pwntools gdb debugging terminal set to work in vs code:
+- [20221003150515](/zet/20221003150515/README.md) pwntools gdb debugging terminal
+- [20221003150516](/zet/20221003150516/README.md) binary analysis golang
+- [20221003150517](/zet/20221003150517/README.md) binary analysis
+- [20221003150519](/zet/20221003150519/README.md) calling conventions x64 windows C style  volatile registers after call
+- [20221003150520](/zet/20221003150520/README.md) calling conventions x64 windows C style
+- [20221003150521](/zet/20221003150521/README.md) calling conventions x64 linux C style
+- [20221003150522](/zet/20221003150522/README.md) calling conventions
+- [20221003150524](/zet/20221003150524/README.md) make executable binary with input shellcode msfvenom
+- [20221003150525](/zet/20221003150525/README.md) make executable binary with input shellcode
+- [20221003150527](/zet/20221003150527/README.md) generate reverse shell shellcode payload for pwn
+- [20221003150528](/zet/20221003150528/README.md) gdb commands debug step into / follow child process
+- [20221003150529](/zet/20221003150529/README.md) gdb commands
+- [20221003150530](/zet/20221003150530/README.md) gef gdb plugin buffer overflow pattern create and offset
+- [20221003150531](/zet/20221003150531/README.md) gef gdb plugin rop gadget search
+- [20221003150532](/zet/20221003150532/README.md) gef gdb plugin
+- [20221003150533](/zet/20221003150533/README.md) immunity debugger mona commands search for opcode string jmp esp inside module
+- [20221003150534](/zet/20221003150534/README.md) immunity debugger mona commands search for opcode string jmp esp in exe
+- [20221003150535](/zet/20221003150535/README.md) immunity debugger mona commands search for opcode string jmp esp
+- [20221003150536](/zet/20221003150536/README.md) immunity debugger mona commands list loaded modules and security flags
+- [20221003150537](/zet/20221003150537/README.md) immunity debugger mona commands
+- [20221003150538](/zet/20221003150538/README.md) simple binary exploits payload generation changing architecture
+- [20221003150539](/zet/20221003150539/README.md) simple binary exploits payload generation
+- [20221003150540](/zet/20221003150540/README.md) simple binary exploits python exploit scripts pwntools flat pack buffer offsets
+- [20221003150541](/zet/20221003150541/README.md) simple binary exploits python exploit scripts all bad characters
+- [20221003150542](/zet/20221003150542/README.md) simple binary exploits python exploit scripts import pwntools
+- [20221003150543](/zet/20221003150543/README.md) simple binary exploits python exploit scripts
+- [20221003150544](/zet/20221003150544/README.md) simple binary exploits pattern offset finding create pattern with length with pattern create
+- [20221003150545](/zet/20221003150545/README.md) simple binary exploits pattern offset finding
+- [20221003150546](/zet/20221003150546/README.md) simple binary exploits jmp esp instruction FF E4 find with ROPgadget
+- [20221003150547](/zet/20221003150547/README.md) simple binary exploits jmp esp instruction FF E4
+- [20221003150548](/zet/20221003150548/README.md) simple binary exploits

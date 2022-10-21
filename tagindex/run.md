@@ -1,13 +1,13 @@
-- [20221003150885](/zet/20221003150885/README.md)
-- [20221003150886](/zet/20221003150886/README.md)
-- [20221003150887](/zet/20221003150887/README.md)
-- [20221003150888](/zet/20221003150888/README.md)
-- [20221003150889](/zet/20221003150889/README.md)
-- [20221003150890](/zet/20221003150890/README.md)
-- [20221003151251](/zet/20221003151251/README.md)
-- [20221003151252](/zet/20221003151252/README.md)
-- [20221003151253](/zet/20221003151253/README.md)
-- [20221003151254](/zet/20221003151254/README.md)
-- [20221003151255](/zet/20221003151255/README.md)
-- [20221003151256](/zet/20221003151256/README.md)
-- [20221003151257](/zet/20221003151257/README.md)
+- [20221003150885](/zet/20221003150885/README.md) Test CVE-2021-4034 in a docker Exploit
+- [20221003150886](/zet/20221003150886/README.md) Test CVE-2021-4034 in a docker Dockerfile
+- [20221003150887](/zet/20221003150887/README.md) Test CVE-2021-4034 in a docker Setup
+- [20221003150888](/zet/20221003150888/README.md) Test CVE-2021-4034 in a docker Links to deb files
+- [20221003150889](/zet/20221003150889/README.md) Test CVE-2021-4034 in a docker Original exploit
+- [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
+- [20221003151251](/zet/20221003151251/README.md) run executable binary programs within process memory windows cobalt strike BOF.NET common language runtime CLR .NET assemblies
+- [20221003151252](/zet/20221003151252/README.md) run executable binary programs within process memory windows cobalt strike BOF C DLLs
+- [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows cobalt strike
+- [20221003151254](/zet/20221003151254/README.md) run executable binary programs within process memory windows
+- [20221003151255](/zet/20221003151255/README.md) run executable binary programs within process memory linux base64 piped text using dd and shellcode
+- [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux
+- [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory

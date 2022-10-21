@@ -1,13 +1,13 @@
-- [20221003150578](/zet/20221003150578/README.md)
-- [20221003150579](/zet/20221003150579/README.md)
-- [20221003150580](/zet/20221003150580/README.md)
-- [20221003150581](/zet/20221003150581/README.md)
-- [20221003150582](/zet/20221003150582/README.md)
-- [20221003151007](/zet/20221003151007/README.md)
-- [20221003151008](/zet/20221003151008/README.md)
-- [20221003151009](/zet/20221003151009/README.md)
-- [20221003151010](/zet/20221003151010/README.md)
-- [20221003151011](/zet/20221003151011/README.md)
-- [20221003151012](/zet/20221003151012/README.md)
-- [20221003151013](/zet/20221003151013/README.md)
-- [20221003151014](/zet/20221003151014/README.md)
+- [20221003150578](/zet/20221003150578/README.md) php LFI filename extension nullbyte tecnhique - below php 5.3
+- [20221003150579](/zet/20221003150579/README.md) php LFI include PHP filter URL no encoding
+- [20221003150580](/zet/20221003150580/README.md) php LFI include PHP filter URL base 64 encode
+- [20221003150581](/zet/20221003150581/README.md) php LFI include PHP filter URL
+- [20221003150582](/zet/20221003150582/README.md) php LFI
+- [20221003151007](/zet/20221003151007/README.md) LFI or directory traversal procedures file wordlists linux
+- [20221003151008](/zet/20221003151008/README.md) LFI or directory traversal procedures file wordlists
+- [20221003151009](/zet/20221003151009/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl  prevent normalization of paths
+- [20221003151010](/zet/20221003151010/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl 
+- [20221003151011](/zet/20221003151011/README.md) LFI or directory traversal procedures read scripts from web server process cwd fuzzing script names
+- [20221003151012](/zet/20221003151012/README.md) LFI or directory traversal procedures read scripts from web server process cwd
+- [20221003151013](/zet/20221003151013/README.md) LFI or directory traversal procedures environment variables
+- [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures

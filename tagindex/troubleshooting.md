@@ -1,1 +1,1 @@
-- [20221008042334](/zet/20221008042334/README.md)
+- [20221008042334](/zet/20221008042334/README.md) why does git ask questions instead of pulling changes

@@ -1,2 +1,2 @@
-- [20221006013612](/zet/20221006013612/README.md)
-- [20221008195148](/zet/20221008195148/README.md)
+- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
+- [20221008195148](/zet/20221008195148/README.md) seclists etc files project

@@ -1,3 +1,3 @@
-- [20221003150501](/zet/20221003150501/README.md)
-- [20221003150502](/zet/20221003150502/README.md)
-- [20221003150503](/zet/20221003150503/README.md)
+- [20221003150501](/zet/20221003150501/README.md) pwntools FmtStr automated format string exploitation
+- [20221003150502](/zet/20221003150502/README.md) pwntools synchronizing output sending wait until receive
+- [20221003150503](/zet/20221003150503/README.md) pwntools

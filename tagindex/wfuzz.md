@@ -1,13 +1,13 @@
-- [20221003150652](/zet/20221003150652/README.md)
-- [20221003150653](/zet/20221003150653/README.md)
-- [20221003150654](/zet/20221003150654/README.md)
-- [20221003150655](/zet/20221003150655/README.md)
-- [20221003150656](/zet/20221003150656/README.md)
-- [20221003150657](/zet/20221003150657/README.md)
-- [20221003150658](/zet/20221003150658/README.md)
-- [20221003150659](/zet/20221003150659/README.md)
-- [20221003150808](/zet/20221003150808/README.md)
-- [20221003150809](/zet/20221003150809/README.md)
-- [20221003150810](/zet/20221003150810/README.md)
-- [20221003150811](/zet/20221003150811/README.md)
-- [20221003150812](/zet/20221003150812/README.md)
+- [20221003150652](/zet/20221003150652/README.md) wfuzz host header pollution
+- [20221003150653](/zet/20221003150653/README.md) wfuzz authenticated fuzzing parameter names
+- [20221003150654](/zet/20221003150654/README.md) wfuzz fuzzing parameter names
+- [20221003150655](/zet/20221003150655/README.md) wfuzz fuzzing subdomains
+- [20221003150656](/zet/20221003150656/README.md) wfuzz recursive path discovery depth
+- [20221003150657](/zet/20221003150657/README.md) wfuzz dirbusting really really large directories wordlist
+- [20221003150658](/zet/20221003150658/README.md) wfuzz dirbusting
+- [20221003150659](/zet/20221003150659/README.md) wfuzz
+- [20221003150808](/zet/20221003150808/README.md) wfuzz fuzzing details send to burpsuite local proxy
+- [20221003150809](/zet/20221003150809/README.md) wfuzz fuzzing details show or hide responses containing text regex
+- [20221003150810](/zet/20221003150810/README.md) wfuzz fuzzing details fuzz multiple parameters
+- [20221003150811](/zet/20221003150811/README.md) wfuzz fuzzing details "X-Forwarded-For" header with custom IP ranges
+- [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details

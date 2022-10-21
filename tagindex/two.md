@@ -1,3 +1,3 @@
-- [20221003150864](/zet/20221003150864/README.md)
-- [20221003150865](/zet/20221003150865/README.md)
-- [20221003150866](/zet/20221003150866/README.md)
+- [20221003150864](/zet/20221003150864/README.md) two-factor authentication 2fa generate one time pins OTP google authenticator
+- [20221003150865](/zet/20221003150865/README.md) two-factor authentication 2fa generate one time pins OTP
+- [20221003150866](/zet/20221003150866/README.md) two-factor authentication 2fa

@@ -1,36 +1,36 @@
-- [20221003150099](/zet/20221003150099/README.md)
-- [20221003150100](/zet/20221003150100/README.md)
-- [20221003150101](/zet/20221003150101/README.md)
-- [20221003150102](/zet/20221003150102/README.md)
-- [20221003150103](/zet/20221003150103/README.md)
-- [20221003150104](/zet/20221003150104/README.md)
-- [20221003150105](/zet/20221003150105/README.md)
-- [20221003150504](/zet/20221003150504/README.md)
-- [20221003150505](/zet/20221003150505/README.md)
-- [20221003150506](/zet/20221003150506/README.md)
-- [20221003150507](/zet/20221003150507/README.md)
-- [20221003150508](/zet/20221003150508/README.md)
-- [20221003150509](/zet/20221003150509/README.md)
-- [20221003150939](/zet/20221003150939/README.md)
-- [20221003150940](/zet/20221003150940/README.md)
-- [20221003150941](/zet/20221003150941/README.md)
-- [20221003150942](/zet/20221003150942/README.md)
-- [20221003150943](/zet/20221003150943/README.md)
-- [20221003150944](/zet/20221003150944/README.md)
-- [20221003150945](/zet/20221003150945/README.md)
-- [20221003150946](/zet/20221003150946/README.md)
-- [20221003151351](/zet/20221003151351/README.md)
-- [20221003151352](/zet/20221003151352/README.md)
-- [20221003151353](/zet/20221003151353/README.md)
-- [20221003151354](/zet/20221003151354/README.md)
-- [20221003151355](/zet/20221003151355/README.md)
-- [20221003151356](/zet/20221003151356/README.md)
-- [20221003151357](/zet/20221003151357/README.md)
-- [20221003151358](/zet/20221003151358/README.md)
-- [20221003151359](/zet/20221003151359/README.md)
-- [20221003151360](/zet/20221003151360/README.md)
-- [20221003151361](/zet/20221003151361/README.md)
-- [20221003151362](/zet/20221003151362/README.md)
-- [20221003151363](/zet/20221003151363/README.md)
-- [20221007023939](/zet/20221007023939/README.md)
-- [20221015005745](/zet/20221015005745/README.md)
+- [20221003150099](/zet/20221003150099/README.md) python scripting format string variables
+- [20221003150100](/zet/20221003150100/README.md) python scripting argument variable argv
+- [20221003150101](/zet/20221003150101/README.md) python scripting requests http GET params
+- [20221003150102](/zet/20221003150102/README.md) python scripting requests http cookies
+- [20221003150103](/zet/20221003150103/README.md) python scripting requests http upload file
+- [20221003150104](/zet/20221003150104/README.md) python scripting requests http
+- [20221003150105](/zet/20221003150105/README.md) python scripting
+- [20221003150504](/zet/20221003150504/README.md) python pwn tricks convert hex to int
+- [20221003150505](/zet/20221003150505/README.md) python pwn tricks convert little endian bytes to floating point
+- [20221003150506](/zet/20221003150506/README.md) python pwn tricks convert little endian bytes to int
+- [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes
+- [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert
+- [20221003150509](/zet/20221003150509/README.md) python pwn tricks
+- [20221003150939](/zet/20221003150939/README.md) python imports library search path print with python command
+- [20221003150940](/zet/20221003150940/README.md) python imports library search path
+- [20221003150941](/zet/20221003150941/README.md) python imports files vs loading as libraries
+- [20221003150942](/zet/20221003150942/README.md) python imports
+- [20221003150943](/zet/20221003150943/README.md) python string alphanumeric chars
+- [20221003150944](/zet/20221003150944/README.md) python hex to bytes
+- [20221003150945](/zet/20221003150945/README.md) python hex to string
+- [20221003150946](/zet/20221003150946/README.md) python
+- [20221003151351](/zet/20221003151351/README.md) python scripting parse all post params from post content given on standard input
+- [20221003151352](/zet/20221003151352/README.md) python scripting convert tsv with key and value fields to python dictionary
+- [20221003151353](/zet/20221003151353/README.md) python scripting fuzz valid dates
+- [20221003151354](/zet/20221003151354/README.md) python scripting convert a GMSA managed password structure to a NTLM hash
+- [20221003151355](/zet/20221003151355/README.md) python scripting read and process lines of input
+- [20221003151356](/zet/20221003151356/README.md) python scripting urlencode every input line
+- [20221003151357](/zet/20221003151357/README.md) python scripting parse all get parameters from a url
+- [20221003151358](/zet/20221003151358/README.md) python scripting parse a cookie from every line on standard input
+- [20221003151359](/zet/20221003151359/README.md) python scripting convert CSV to TSV
+- [20221003151360](/zet/20221003151360/README.md) python scripting connect to remote server
+- [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally
+- [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script
+- [20221003151363](/zet/20221003151363/README.md) python scripting
+- [20221007023939](/zet/20221007023939/README.md) python ternary operator
+- [20221015005745](/zet/20221015005745/README.md) python coding

@@ -1,2 +1,2 @@
-- [20221008070202](/zet/20221008070202/README.md)
-- [20221008214827](/zet/20221008214827/README.md)
+- [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
+- [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful

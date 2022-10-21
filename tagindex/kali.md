@@ -1,1 +1,1 @@
-- [20221003150080](/zet/20221003150080/README.md)
+- [20221003150080](/zet/20221003150080/README.md) ctrl H does not work as a hotkey in qterminal by default 

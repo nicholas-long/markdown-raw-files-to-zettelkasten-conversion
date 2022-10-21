@@ -1,2 +1,2 @@
-- [20221003150216](/zet/20221003150216/README.md)
-- [20221003150217](/zet/20221003150217/README.md)
+- [20221003150216](/zet/20221003150216/README.md) Initialize topics in dockers Full example
+- [20221003150217](/zet/20221003150217/README.md) Initialize topics in dockers

@@ -1,1 +1,1 @@
-- [20221009023024](/zet/20221009023024/README.md)
+- [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes

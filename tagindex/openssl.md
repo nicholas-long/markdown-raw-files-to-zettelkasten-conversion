@@ -1,12 +1,12 @@
-- [20221003150721](/zet/20221003150721/README.md)
-- [20221003150722](/zet/20221003150722/README.md)
-- [20221003150723](/zet/20221003150723/README.md)
-- [20221003150724](/zet/20221003150724/README.md)
-- [20221003150787](/zet/20221003150787/README.md)
-- [20221003150788](/zet/20221003150788/README.md)
-- [20221003150789](/zet/20221003150789/README.md)
-- [20221003150790](/zet/20221003150790/README.md)
-- [20221003150791](/zet/20221003150791/README.md)
-- [20221003150799](/zet/20221003150799/README.md)
-- [20221003150800](/zet/20221003150800/README.md)
-- [20221003150801](/zet/20221003150801/README.md)
+- [20221003150721](/zet/20221003150721/README.md) openssl pfx p12 file PKCS12 export pfx private key
+- [20221003150722](/zet/20221003150722/README.md) openssl pfx p12 file PKCS12 public key fingerprint
+- [20221003150723](/zet/20221003150723/README.md) openssl pfx p12 file PKCS12 view information about certificate
+- [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12
+- [20221003150787](/zet/20221003150787/README.md) openssl convert certificate to PKCS12 format
+- [20221003150788](/zet/20221003150788/README.md) openssl sign a certificate signing request with the private key of a CA certificate authority
+- [20221003150789](/zet/20221003150789/README.md) openssl create certificate signing request
+- [20221003150790](/zet/20221003150790/README.md) openssl create a key 4096 bits
+- [20221003150791](/zet/20221003150791/README.md) openssl
+- [20221003150799](/zet/20221003150799/README.md) openssl commands decrypt file
+- [20221003150800](/zet/20221003150800/README.md) openssl commands encrypt file
+- [20221003150801](/zet/20221003150801/README.md) openssl commands

@@ -1,6 +1,6 @@
-- [20221003151095](/zet/20221003151095/README.md)
-- [20221003151096](/zet/20221003151096/README.md)
-- [20221003151097](/zet/20221003151097/README.md)
-- [20221003151170](/zet/20221003151170/README.md)
-- [20221003151171](/zet/20221003151171/README.md)
-- [20221003151172](/zet/20221003151172/README.md)
+- [20221003151095](/zet/20221003151095/README.md) active directory certificate services AD CS risks
+- [20221003151096](/zet/20221003151096/README.md) active directory certificate services AD CS privesc
+- [20221003151097](/zet/20221003151097/README.md) active directory certificate services AD CS
+- [20221003151170](/zet/20221003151170/README.md) active directory domain old
+- [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list

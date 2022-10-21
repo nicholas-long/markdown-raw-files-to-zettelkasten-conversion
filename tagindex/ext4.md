@@ -1,1 +1,1 @@
-- [20221006063114](/zet/20221006063114/README.md)
+- [20221006063114](/zet/20221006063114/README.md) small files are stored in inodes in ext4

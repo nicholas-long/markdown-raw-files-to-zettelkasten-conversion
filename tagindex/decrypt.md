@@ -1,3 +1,3 @@
-- [20221003150392](/zet/20221003150392/README.md)
-- [20221003151027](/zet/20221003151027/README.md)
-- [20221003151028](/zet/20221003151028/README.md)
+- [20221003150392](/zet/20221003150392/README.md) text cipher encryption decryption tools Text Manipulator
+- [20221003151027](/zet/20221003151027/README.md) decrypt azure AD connect passwords powershell MSSQL queries
+- [20221003151028](/zet/20221003151028/README.md) decrypt azure AD connect passwords

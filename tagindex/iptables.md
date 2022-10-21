@@ -1,2 +1,2 @@
-- [20221003150196](/zet/20221003150196/README.md)
-- [20221003150197](/zet/20221003150197/README.md)
+- [20221003150196](/zet/20221003150196/README.md) iptables rules forward all traffic between two interfaces
+- [20221003150197](/zet/20221003150197/README.md) iptables rules

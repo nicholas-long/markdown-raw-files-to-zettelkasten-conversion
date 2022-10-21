@@ -1,1 +1,1 @@
-- [20221008210209](/zet/20221008210209/README.md)
+- [20221008210209](/zet/20221008210209/README.md) nim makes smaller wasm binaries than rust

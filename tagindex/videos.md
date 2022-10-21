@@ -1,1 +1,1 @@
-- [20221006073459](/zet/20221006073459/README.md)
+- [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`

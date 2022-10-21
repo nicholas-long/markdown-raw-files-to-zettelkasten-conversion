@@ -1,92 +1,92 @@
-- [20221003151351](/zet/20221003151351/README.md)
-- [20221003151352](/zet/20221003151352/README.md)
-- [20221003151353](/zet/20221003151353/README.md)
-- [20221003151354](/zet/20221003151354/README.md)
-- [20221003151355](/zet/20221003151355/README.md)
-- [20221003151356](/zet/20221003151356/README.md)
-- [20221003151357](/zet/20221003151357/README.md)
-- [20221003151358](/zet/20221003151358/README.md)
-- [20221003151359](/zet/20221003151359/README.md)
-- [20221003151360](/zet/20221003151360/README.md)
-- [20221003151361](/zet/20221003151361/README.md)
-- [20221003151362](/zet/20221003151362/README.md)
-- [20221003151363](/zet/20221003151363/README.md)
-- [20221003151364](/zet/20221003151364/README.md)
-- [20221003151365](/zet/20221003151365/README.md)
-- [20221003151366](/zet/20221003151366/README.md)
-- [20221003151367](/zet/20221003151367/README.md)
-- [20221003151368](/zet/20221003151368/README.md)
-- [20221003151369](/zet/20221003151369/README.md)
-- [20221003151370](/zet/20221003151370/README.md)
-- [20221003151371](/zet/20221003151371/README.md)
-- [20221003151372](/zet/20221003151372/README.md)
-- [20221003151373](/zet/20221003151373/README.md)
-- [20221003151374](/zet/20221003151374/README.md)
-- [20221003151375](/zet/20221003151375/README.md)
-- [20221003151376](/zet/20221003151376/README.md)
-- [20221003151377](/zet/20221003151377/README.md)
-- [20221003151378](/zet/20221003151378/README.md)
-- [20221003151379](/zet/20221003151379/README.md)
-- [20221003151380](/zet/20221003151380/README.md)
-- [20221003151381](/zet/20221003151381/README.md)
-- [20221003151382](/zet/20221003151382/README.md)
-- [20221003151383](/zet/20221003151383/README.md)
-- [20221003151384](/zet/20221003151384/README.md)
-- [20221003151385](/zet/20221003151385/README.md)
-- [20221003151386](/zet/20221003151386/README.md)
-- [20221003151387](/zet/20221003151387/README.md)
-- [20221003151388](/zet/20221003151388/README.md)
-- [20221003151389](/zet/20221003151389/README.md)
-- [20221003151390](/zet/20221003151390/README.md)
-- [20221003151391](/zet/20221003151391/README.md)
-- [20221003151392](/zet/20221003151392/README.md)
-- [20221003151393](/zet/20221003151393/README.md)
-- [20221003151394](/zet/20221003151394/README.md)
-- [20221003151395](/zet/20221003151395/README.md)
-- [20221003151396](/zet/20221003151396/README.md)
-- [20221003151397](/zet/20221003151397/README.md)
-- [20221003151398](/zet/20221003151398/README.md)
-- [20221003151399](/zet/20221003151399/README.md)
-- [20221003151400](/zet/20221003151400/README.md)
-- [20221003151401](/zet/20221003151401/README.md)
-- [20221003151402](/zet/20221003151402/README.md)
-- [20221003151403](/zet/20221003151403/README.md)
-- [20221003151404](/zet/20221003151404/README.md)
-- [20221003151405](/zet/20221003151405/README.md)
-- [20221003151406](/zet/20221003151406/README.md)
-- [20221003151407](/zet/20221003151407/README.md)
-- [20221003151408](/zet/20221003151408/README.md)
-- [20221003151409](/zet/20221003151409/README.md)
-- [20221003151410](/zet/20221003151410/README.md)
-- [20221003151411](/zet/20221003151411/README.md)
-- [20221003151412](/zet/20221003151412/README.md)
-- [20221003151413](/zet/20221003151413/README.md)
-- [20221003151414](/zet/20221003151414/README.md)
-- [20221003151415](/zet/20221003151415/README.md)
-- [20221003151416](/zet/20221003151416/README.md)
-- [20221003151417](/zet/20221003151417/README.md)
-- [20221003151418](/zet/20221003151418/README.md)
-- [20221003151419](/zet/20221003151419/README.md)
-- [20221003151420](/zet/20221003151420/README.md)
-- [20221003151421](/zet/20221003151421/README.md)
-- [20221003151422](/zet/20221003151422/README.md)
-- [20221003151423](/zet/20221003151423/README.md)
-- [20221003151424](/zet/20221003151424/README.md)
-- [20221003151425](/zet/20221003151425/README.md)
-- [20221003151426](/zet/20221003151426/README.md)
-- [20221003151427](/zet/20221003151427/README.md)
-- [20221003151428](/zet/20221003151428/README.md)
-- [20221003151429](/zet/20221003151429/README.md)
-- [20221003151430](/zet/20221003151430/README.md)
-- [20221003151432](/zet/20221003151432/README.md)
-- [20221003151433](/zet/20221003151433/README.md)
-- [20221003151434](/zet/20221003151434/README.md)
-- [20221003151435](/zet/20221003151435/README.md)
-- [20221003151436](/zet/20221003151436/README.md)
-- [20221003151437](/zet/20221003151437/README.md)
-- [20221003151438](/zet/20221003151438/README.md)
-- [20221003151439](/zet/20221003151439/README.md)
-- [20221003151440](/zet/20221003151440/README.md)
-- [20221003151441](/zet/20221003151441/README.md)
-- [20221006010531](/zet/20221006010531/README.md)
-- [20221006200018](/zet/20221006200018/README.md)
+- [20221003151351](/zet/20221003151351/README.md) python scripting parse all post params from post content given on standard input
+- [20221003151352](/zet/20221003151352/README.md) python scripting convert tsv with key and value fields to python dictionary
+- [20221003151353](/zet/20221003151353/README.md) python scripting fuzz valid dates
+- [20221003151354](/zet/20221003151354/README.md) python scripting convert a GMSA managed password structure to a NTLM hash
+- [20221003151355](/zet/20221003151355/README.md) python scripting read and process lines of input
+- [20221003151356](/zet/20221003151356/README.md) python scripting urlencode every input line
+- [20221003151357](/zet/20221003151357/README.md) python scripting parse all get parameters from a url
+- [20221003151358](/zet/20221003151358/README.md) python scripting parse a cookie from every line on standard input
+- [20221003151359](/zet/20221003151359/README.md) python scripting convert CSV to TSV
+- [20221003151360](/zet/20221003151360/README.md) python scripting connect to remote server
+- [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally
+- [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script
+- [20221003151363](/zet/20221003151363/README.md) python scripting
+- [20221003151364](/zet/20221003151364/README.md) bash scripting get bash lines from kb snippets
+- [20221003151365](/zet/20221003151365/README.md) bash scripting urlencode a line of text from stdin
+- [20221003151366](/zet/20221003151366/README.md) bash scripting install vscode
+- [20221003151367](/zet/20221003151367/README.md) bash scripting list public github repositories for user
+- [20221003151368](/zet/20221003151368/README.md) bash scripting get top N most common ports from nmap list pass argument
+- [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext
+- [20221003151370](/zet/20221003151370/README.md) bash scripting get library dependency versions from composer.lock json file
+- [20221003151371](/zet/20221003151371/README.md) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date
+- [20221003151372](/zet/20221003151372/README.md) bash scripting convert string to hex with no newlines
+- [20221003151373](/zet/20221003151373/README.md) bash scripting sort words by length
+- [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker
+- [20221003151375](/zet/20221003151375/README.md) bash scripting run strings on memory dumps for every readable process
+- [20221003151376](/zet/20221003151376/README.md) bash scripting get argument value or default
+- [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files
+- [20221003151378](/zet/20221003151378/README.md) bash scripting build and run enum4linux-ng docker
+- [20221003151379](/zet/20221003151379/README.md) bash scripting mount host neo4j data into docker
+- [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
+- [20221003151381](/zet/20221003151381/README.md) bash scripting get random hex unique ID bash
+- [20221003151382](/zet/20221003151382/README.md) bash scripting take only unique git hashes and do md5 hashes of those files
+- [20221003151383](/zet/20221003151383/README.md) bash scripting get all tags and start walking their commits
+- [20221003151384](/zet/20221003151384/README.md) bash scripting clone repo into temp dir
+- [20221003151385](/zet/20221003151385/README.md) bash scripting loop over bash array
+- [20221003151386](/zet/20221003151386/README.md) bash scripting define bash array
+- [20221003151387](/zet/20221003151387/README.md) bash scripting generate ISO format dates wordlists for the last few years
+- [20221003151388](/zet/20221003151388/README.md) bash scripting search through tldr command descriptions with fzf and display file with bat
+- [20221003151389](/zet/20221003151389/README.md) bash scripting copy and read text from PNG image URL arg print with tesseract OCR
+- [20221003151390](/zet/20221003151390/README.md) bash scripting get headings from wikipedia page
+- [20221003151391](/zet/20221003151391/README.md) bash scripting clone github repository and build docker image with its name
+- [20221003151392](/zet/20221003151392/README.md) bash scripting launch ubuntu build environment docker with current directory mounted as working directory
+- [20221003151393](/zet/20221003151393/README.md) bash scripting lookup unique hosts with shodan api
+- [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream
+- [20221003151395](/zet/20221003151395/README.md) bash scripting get the current user's github api key
+- [20221003151396](/zet/20221003151396/README.md) bash scripting run exiftool on all of the images within a directory
+- [20221003151397](/zet/20221003151397/README.md) bash scripting decorate and colorize a passwd file piped from stdin
+- [20221003151398](/zet/20221003151398/README.md) bash scripting build and run impacket docker
+- [20221003151399](/zet/20221003151399/README.md) bash scripting find alphanumeric base64 using awk script
+- [20221003151400](/zet/20221003151400/README.md) bash scripting update all the git repos in home directory and prompt with lazygit
+- [20221003151401](/zet/20221003151401/README.md) bash scripting extract zlib stream between PDF stream and endstream with quick and dirty awk
+- [20221003151402](/zet/20221003151402/README.md) bash scripting prepend gzip magic bytes
+- [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf
+- [20221003151404](/zet/20221003151404/README.md) bash scripting decorate XML with colors for tags, attributes, and content
+- [20221003151405](/zet/20221003151405/README.md) bash scripting shortcut to start tmux session in a working directory with alacritty
+- [20221003151406](/zet/20221003151406/README.md) bash scripting download the current CVE list get as Tab Separated Values
+- [20221003151407](/zet/20221003151407/README.md) bash scripting pull all the git repos in home directory
+- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
+- [20221003151409](/zet/20221003151409/README.md) bash scripting get the current user's github colon separated credentials
+- [20221003151410](/zet/20221003151410/README.md) bash scripting get raw HTTP request data from burp saved request
+- [20221003151411](/zet/20221003151411/README.md) bash scripting run docker image with current directory mounted as working directory
+- [20221003151412](/zet/20221003151412/README.md) bash scripting mount shared folders on VM
+- [20221003151413](/zet/20221003151413/README.md) bash scripting colorize words from stdin with regular expressions
+- [20221003151414](/zet/20221003151414/README.md) bash scripting generate common passwords
+- [20221003151415](/zet/20221003151415/README.md) bash scripting print the md5 hashes of all lines in a wordlist file
+- [20221003151416](/zet/20221003151416/README.md) bash scripting query nmap ports and service description definitions
+- [20221003151417](/zet/20221003151417/README.md) bash scripting exit if parameter is missing
+- [20221003151418](/zet/20221003151418/README.md) bash scripting parse args with case statement
+- [20221003151419](/zet/20221003151419/README.md) bash scripting return the most recently updated ubuntu distro
+- [20221003151420](/zet/20221003151420/README.md) bash scripting remove git from directory name
+- [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory
+- [20221003151422](/zet/20221003151422/README.md) bash scripting use awk to print only unique lines as a stream processor
+- [20221003151423](/zet/20221003151423/README.md) bash scripting urlencode and base64 encode lines individually
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
+- [20221003151425](/zet/20221003151425/README.md) awk scripting get HTTP POST content from HTTP request stream
+- [20221003151426](/zet/20221003151426/README.md) awk scripting combine lines with all previous lines combinatorically
+- [20221003151427](/zet/20221003151427/README.md) awk scripting awk print markdown snippet text between backtick lines
+- [20221003151428](/zet/20221003151428/README.md) awk scripting autogenerate headings for source files
+- [20221003151429](/zet/20221003151429/README.md) awk scripting print all variations of upper and lower case for given lowercase string
+- [20221003151430](/zet/20221003151430/README.md) awk scripting constrict line widths of input text stream
+- [20221003151432](/zet/20221003151432/README.md) awk scripting filter the CVE list for potentially valid, relevant vulnerabilities
+- [20221003151433](/zet/20221003151433/README.md) awk scripting combine lines from two files combinatorically with symbol between
+- [20221003151434](/zet/20221003151434/README.md) awk scripting get column headings from first line of CSV
+- [20221003151435](/zet/20221003151435/README.md) awk scripting print nested markdown content within headings
+- [20221003151436](/zet/20221003151436/README.md) awk scripting print all variations of spaces between tokens
+- [20221003151437](/zet/20221003151437/README.md) awk scripting read and write a separated value file as a database
+- [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
+- [20221003151439](/zet/20221003151439/README.md) awk scripting base64 encode lines individually
+- [20221003151440](/zet/20221003151440/README.md) awk scripting replace words with colorized versions
+- [20221003151441](/zet/20221003151441/README.md) awk scripting
+- [20221006010531](/zet/20221006010531/README.md) sed scripts
+- [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames

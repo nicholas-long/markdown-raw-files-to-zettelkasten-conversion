@@ -1,66 +1,66 @@
-- [20221003150466](/zet/20221003150466/README.md)
-- [20221003150467](/zet/20221003150467/README.md)
-- [20221003150468](/zet/20221003150468/README.md)
-- [20221003150469](/zet/20221003150469/README.md)
-- [20221003150470](/zet/20221003150470/README.md)
-- [20221003150471](/zet/20221003150471/README.md)
-- [20221003150472](/zet/20221003150472/README.md)
-- [20221003150473](/zet/20221003150473/README.md)
-- [20221003150474](/zet/20221003150474/README.md)
-- [20221003150475](/zet/20221003150475/README.md)
-- [20221003150476](/zet/20221003150476/README.md)
-- [20221003150504](/zet/20221003150504/README.md)
-- [20221003150505](/zet/20221003150505/README.md)
-- [20221003150506](/zet/20221003150506/README.md)
-- [20221003150507](/zet/20221003150507/README.md)
-- [20221003150508](/zet/20221003150508/README.md)
-- [20221003150509](/zet/20221003150509/README.md)
-- [20221003150510](/zet/20221003150510/README.md)
-- [20221003150511](/zet/20221003150511/README.md)
-- [20221003150512](/zet/20221003150512/README.md)
-- [20221003151215](/zet/20221003151215/README.md)
-- [20221003151216](/zet/20221003151216/README.md)
-- [20221003151217](/zet/20221003151217/README.md)
-- [20221003151219](/zet/20221003151219/README.md)
-- [20221003151220](/zet/20221003151220/README.md)
-- [20221003151222](/zet/20221003151222/README.md)
-- [20221003151223](/zet/20221003151223/README.md)
-- [20221003151224](/zet/20221003151224/README.md)
-- [20221003151225](/zet/20221003151225/README.md)
-- [20221003151226](/zet/20221003151226/README.md)
-- [20221003151228](/zet/20221003151228/README.md)
-- [20221003151229](/zet/20221003151229/README.md)
-- [20221003151230](/zet/20221003151230/README.md)
-- [20221003151231](/zet/20221003151231/README.md)
-- [20221003151232](/zet/20221003151232/README.md)
-- [20221003151233](/zet/20221003151233/README.md)
-- [20221003151235](/zet/20221003151235/README.md)
-- [20221003151236](/zet/20221003151236/README.md)
-- [20221003151242](/zet/20221003151242/README.md)
-- [20221003151243](/zet/20221003151243/README.md)
-- [20221003151244](/zet/20221003151244/README.md)
-- [20221003151245](/zet/20221003151245/README.md)
-- [20221003151246](/zet/20221003151246/README.md)
-- [20221003151247](/zet/20221003151247/README.md)
-- [20221003151248](/zet/20221003151248/README.md)
-- [20221003151249](/zet/20221003151249/README.md)
-- [20221003151250](/zet/20221003151250/README.md)
-- [20221003151251](/zet/20221003151251/README.md)
-- [20221003151252](/zet/20221003151252/README.md)
-- [20221003151253](/zet/20221003151253/README.md)
-- [20221003151254](/zet/20221003151254/README.md)
-- [20221003151255](/zet/20221003151255/README.md)
-- [20221003151256](/zet/20221003151256/README.md)
-- [20221003151257](/zet/20221003151257/README.md)
-- [20221003151262](/zet/20221003151262/README.md)
-- [20221003151263](/zet/20221003151263/README.md)
-- [20221003151296](/zet/20221003151296/README.md)
-- [20221003151297](/zet/20221003151297/README.md)
-- [20221003151298](/zet/20221003151298/README.md)
-- [20221003151299](/zet/20221003151299/README.md)
-- [20221003151301](/zet/20221003151301/README.md)
-- [20221003151315](/zet/20221003151315/README.md)
-- [20221006191703](/zet/20221006191703/README.md)
-- [20221008191607](/zet/20221008191607/README.md)
-- [20221013222124](/zet/20221013222124/README.md)
-- [20221018125400](/zet/20221018125400/README.md)
+- [20221003150466](/zet/20221003150466/README.md) powershell tricks convert guid to string
+- [20221003150467](/zet/20221003150467/README.md) powershell tricks browse and edit registry read registry values
+- [20221003150468](/zet/20221003150468/README.md) powershell tricks browse and edit registry set registry values
+- [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry
+- [20221003150470](/zet/20221003150470/README.md) powershell tricks mount smb share as drive "letter"
+- [20221003150471](/zet/20221003150471/README.md) powershell tricks run powershell commands as another user on remote machine with impersonated token copy and run file over session
+- [20221003150472](/zet/20221003150472/README.md) powershell tricks run powershell commands as another user on remote machine with impersonated token
+- [20221003150473](/zet/20221003150473/README.md) powershell tricks run powershell commands as another user with RunasCs
+- [20221003150474](/zet/20221003150474/README.md) powershell tricks run powershell commands as another user with SecureString credential
+- [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
+- [20221003150476](/zet/20221003150476/README.md) powershell tricks
+- [20221003150504](/zet/20221003150504/README.md) python pwn tricks convert hex to int
+- [20221003150505](/zet/20221003150505/README.md) python pwn tricks convert little endian bytes to floating point
+- [20221003150506](/zet/20221003150506/README.md) python pwn tricks convert little endian bytes to int
+- [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes
+- [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert
+- [20221003150509](/zet/20221003150509/README.md) python pwn tricks
+- [20221003150510](/zet/20221003150510/README.md) pwn commands / tricks patchelf ld paths use custom ld version and library path
+- [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths
+- [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks
+- [20221003151215](/zet/20221003151215/README.md) caddy install
+- [20221003151216](/zet/20221003151216/README.md) caddy stand up https server with a valid certificate
+- [20221003151217](/zet/20221003151217/README.md) caddy
+- [20221003151219](/zet/20221003151219/README.md) hql injection auth bypass example
+- [20221003151220](/zet/20221003151220/README.md) hql injection
+- [20221003151222](/zet/20221003151222/README.md) identify linux version from service version ubuntu
+- [20221003151223](/zet/20221003151223/README.md) identify linux version from service version
+- [20221003151224](/zet/20221003151224/README.md) php filter LFI to iconv RCE updated conversion table for all base64 (hacktricks)
+- [20221003151225](/zet/20221003151225/README.md) php filter LFI to iconv RCE original get 0 script
+- [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE
+- [20221003151228](/zet/20221003151228/README.md) VBScript Download Files
+- [20221003151229](/zet/20221003151229/README.md) VBScript Create wget.vbs File
+- [20221003151230](/zet/20221003151230/README.md) VBScript
+- [20221003151231](/zet/20221003151231/README.md) mysql mariadb find plugin directory
+- [20221003151232](/zet/20221003151232/README.md) mysql mariadb exploit GRANT OPTION to grant file write permissions to self
+- [20221003151233](/zet/20221003151233/README.md) mysql mariadb write UDF shell or any binary file with file permissions
+- [20221003151235](/zet/20221003151235/README.md) mysql mariadb display query output as pretty printed text with column names
+- [20221003151236](/zet/20221003151236/README.md) mysql mariadb
+- [20221003151242](/zet/20221003151242/README.md) preparing malicious package payloads node npm package malicious repository ( tcp port 4873 )
+- [20221003151243](/zet/20221003151243/README.md) preparing malicious package payloads node npm package
+- [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads
+- [20221003151245](/zet/20221003151245/README.md) Jenkins / Groovy (Java) Reverse Shell Windows
+- [20221003151246](/zet/20221003151246/README.md) Jenkins / Groovy (Java) Reverse Shell Linux
+- [20221003151247](/zet/20221003151247/README.md) Jenkins / Groovy (Java) Reverse Shell
+- [20221003151248](/zet/20221003151248/README.md) sending installs to target install pip modules on target as files with no dependencies on network connection to pip
+- [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies
+- [20221003151250](/zet/20221003151250/README.md) sending installs to target
+- [20221003151251](/zet/20221003151251/README.md) run executable binary programs within process memory windows cobalt strike BOF.NET common language runtime CLR .NET assemblies
+- [20221003151252](/zet/20221003151252/README.md) run executable binary programs within process memory windows cobalt strike BOF C DLLs
+- [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows cobalt strike
+- [20221003151254](/zet/20221003151254/README.md) run executable binary programs within process memory windows
+- [20221003151255](/zet/20221003151255/README.md) run executable binary programs within process memory linux base64 piped text using dd and shellcode
+- [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux
+- [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory
+- [20221003151262](/zet/20221003151262/README.md) windows executable smartscreen protection bypass ( apt 29 )
+- [20221003151263](/zet/20221003151263/README.md) windows executable smartscreen protection
+- [20221003151296](/zet/20221003151296/README.md) bash tricks check if current directory is writable
+- [20221003151297](/zet/20221003151297/README.md) bash tricks run a command / program in a pty to get color output shodan host
+- [20221003151298](/zet/20221003151298/README.md) bash tricks run a command / program in a pty to get color output
+- [20221003151299](/zet/20221003151299/README.md) bash tricks
+- [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
+- [20221003151315](/zet/20221003151315/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it
+- [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
+- [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
+- [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy

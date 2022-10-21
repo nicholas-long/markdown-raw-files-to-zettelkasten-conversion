@@ -1,62 +1,62 @@
-- [20221003150875](/zet/20221003150875/README.md)
-- [20221003150876](/zet/20221003150876/README.md)
-- [20221003150877](/zet/20221003150877/README.md)
-- [20221003150879](/zet/20221003150879/README.md)
-- [20221003150880](/zet/20221003150880/README.md)
-- [20221003150883](/zet/20221003150883/README.md)
-- [20221003150884](/zet/20221003150884/README.md)
-- [20221003150885](/zet/20221003150885/README.md)
-- [20221003150886](/zet/20221003150886/README.md)
-- [20221003150887](/zet/20221003150887/README.md)
-- [20221003150888](/zet/20221003150888/README.md)
-- [20221003150889](/zet/20221003150889/README.md)
-- [20221003150890](/zet/20221003150890/README.md)
-- [20221003150894](/zet/20221003150894/README.md)
-- [20221003150895](/zet/20221003150895/README.md)
-- [20221003150896](/zet/20221003150896/README.md)
-- [20221003150897](/zet/20221003150897/README.md)
-- [20221003150898](/zet/20221003150898/README.md)
-- [20221003150899](/zet/20221003150899/README.md)
-- [20221003150900](/zet/20221003150900/README.md)
-- [20221003150901](/zet/20221003150901/README.md)
-- [20221003150902](/zet/20221003150902/README.md)
-- [20221003150903](/zet/20221003150903/README.md)
-- [20221003150904](/zet/20221003150904/README.md)
-- [20221003150905](/zet/20221003150905/README.md)
-- [20221003150906](/zet/20221003150906/README.md)
-- [20221003150907](/zet/20221003150907/README.md)
-- [20221003150908](/zet/20221003150908/README.md)
-- [20221003150909](/zet/20221003150909/README.md)
-- [20221003150910](/zet/20221003150910/README.md)
-- [20221003150911](/zet/20221003150911/README.md)
-- [20221003150912](/zet/20221003150912/README.md)
-- [20221003150913](/zet/20221003150913/README.md)
-- [20221003150914](/zet/20221003150914/README.md)
-- [20221003150915](/zet/20221003150915/README.md)
-- [20221003150916](/zet/20221003150916/README.md)
-- [20221003150917](/zet/20221003150917/README.md)
-- [20221003150918](/zet/20221003150918/README.md)
-- [20221003150919](/zet/20221003150919/README.md)
-- [20221003150920](/zet/20221003150920/README.md)
-- [20221003150922](/zet/20221003150922/README.md)
-- [20221003150923](/zet/20221003150923/README.md)
-- [20221003150924](/zet/20221003150924/README.md)
-- [20221003150925](/zet/20221003150925/README.md)
-- [20221003150926](/zet/20221003150926/README.md)
-- [20221003150927](/zet/20221003150927/README.md)
-- [20221003150928](/zet/20221003150928/README.md)
-- [20221003150929](/zet/20221003150929/README.md)
-- [20221003150930](/zet/20221003150930/README.md)
-- [20221003150931](/zet/20221003150931/README.md)
-- [20221003150932](/zet/20221003150932/README.md)
-- [20221003150933](/zet/20221003150933/README.md)
-- [20221003150935](/zet/20221003150935/README.md)
-- [20221003150936](/zet/20221003150936/README.md)
-- [20221003150937](/zet/20221003150937/README.md)
-- [20221003150938](/zet/20221003150938/README.md)
-- [20221003151205](/zet/20221003151205/README.md)
-- [20221003151206](/zet/20221003151206/README.md)
-- [20221003151207](/zet/20221003151207/README.md)
-- [20221003151208](/zet/20221003151208/README.md)
-- [20221003151209](/zet/20221003151209/README.md)
-- [20221003151210](/zet/20221003151210/README.md)
+- [20221003150875](/zet/20221003150875/README.md) sudo sudoers file all nopassword
+- [20221003150876](/zet/20221003150876/README.md) sudo sudoers file
+- [20221003150877](/zet/20221003150877/README.md) dirty cow privilege escalation working version build on attacker machine with statically linked binaries embedded
+- [20221003150879](/zet/20221003150879/README.md) dirty cow privilege escalation
+- [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560
+- [20221003150883](/zet/20221003150883/README.md) privilege escalation relative path abuse using echo
+- [20221003150884](/zet/20221003150884/README.md) privilege escalation relative path abuse
+- [20221003150885](/zet/20221003150885/README.md) Test CVE-2021-4034 in a docker Exploit
+- [20221003150886](/zet/20221003150886/README.md) Test CVE-2021-4034 in a docker Dockerfile
+- [20221003150887](/zet/20221003150887/README.md) Test CVE-2021-4034 in a docker Setup
+- [20221003150888](/zet/20221003150888/README.md) Test CVE-2021-4034 in a docker Links to deb files
+- [20221003150889](/zet/20221003150889/README.md) Test CVE-2021-4034 in a docker Original exploit
+- [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
+- [20221003150894](/zet/20221003150894/README.md) linux enumeration quick commands file transfer with cat herefiles
+- [20221003150895](/zet/20221003150895/README.md) linux enumeration quick commands check if users can see other users' processes
+- [20221003150896](/zet/20221003150896/README.md) linux enumeration quick commands list systemd timers
+- [20221003150897](/zet/20221003150897/README.md) linux enumeration quick commands capabilities decode on host machine with capsh
+- [20221003150898](/zet/20221003150898/README.md) linux enumeration quick commands capabilities running process effective capabilities
+- [20221003150899](/zet/20221003150899/README.md) linux enumeration quick commands capabilities without getcap binary
+- [20221003150900](/zet/20221003150900/README.md) linux enumeration quick commands capabilities get capabilities of all files recursively
+- [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities
+- [20221003150902](/zet/20221003150902/README.md) linux enumeration quick commands copy entire directory to attacker machine quickly by piping tar
+- [20221003150903](/zet/20221003150903/README.md) linux enumeration quick commands find files that have millisecond microsecond nanosecond times not common install
+- [20221003150904](/zet/20221003150904/README.md) linux enumeration quick commands exfiltrate files bash pipe tcp
+- [20221003150905](/zet/20221003150905/README.md) linux enumeration quick commands transfer / download files with just bash send
+- [20221003150906](/zet/20221003150906/README.md) linux enumeration quick commands transfer / download files with just bash receive
+- [20221003150907](/zet/20221003150907/README.md) linux enumeration quick commands transfer / download files with just bash
+- [20221003150908](/zet/20221003150908/README.md) linux enumeration quick commands get IP with no `ifconfig` or `ip a` on a host or within docker container
+- [20221003150909](/zet/20221003150909/README.md) linux enumeration quick commands find all git repositories
+- [20221003150910](/zet/20221003150910/README.md) linux enumeration quick commands get number of CPU processors
+- [20221003150911](/zet/20221003150911/README.md) linux enumeration quick commands get all file hashes in directory using find and md5sum
+- [20221003150912](/zet/20221003150912/README.md) linux enumeration quick commands find files modified between specific dates (with reference files)
+- [20221003150913](/zet/20221003150913/README.md) linux enumeration quick commands find files modified between specific dates
+- [20221003150914](/zet/20221003150914/README.md) linux enumeration quick commands find files belonging to group
+- [20221003150915](/zet/20221003150915/README.md) linux enumeration quick commands find files belonging to user
+- [20221003150916](/zet/20221003150916/README.md) linux enumeration quick commands find setuid binaries
+- [20221003150917](/zet/20221003150917/README.md) linux enumeration quick commands process tree ps
+- [20221003150918](/zet/20221003150918/README.md) linux enumeration quick commands enumerate open ports if `ss` is not present
+- [20221003150919](/zet/20221003150919/README.md) linux enumeration quick commands list all recursively with ls sorting by modification date within directories
+- [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
+- [20221003150922](/zet/20221003150922/README.md) BSD file transfers
+- [20221003150923](/zet/20221003150923/README.md) BSD
+- [20221003150924](/zet/20221003150924/README.md) /etc/passwd writable line privilege escalation exploit generate password
+- [20221003150925](/zet/20221003150925/README.md) /etc/passwd writable line privilege escalation exploit write new root user line
+- [20221003150926](/zet/20221003150926/README.md) /etc/passwd writable line privilege escalation exploit
+- [20221003150927](/zet/20221003150927/README.md) C setuid suid backdoor exploit write setuid bit to binary with SO shared module object
+- [20221003150928](/zet/20221003150928/README.md) C setuid suid backdoor exploit program to execute shell commands with system
+- [20221003150929](/zet/20221003150929/README.md) C setuid suid backdoor exploit
+- [20221003150930](/zet/20221003150930/README.md) lxd priv esc without painful build problems lxd priv esc victim
+- [20221003150931](/zet/20221003150931/README.md) lxd priv esc without painful build problems lxd priv esc x86
+- [20221003150932](/zet/20221003150932/README.md) lxd priv esc without painful build problems lxd priv esc x64
+- [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems
+- [20221003150935](/zet/20221003150935/README.md) fail2ban writable conf RCE
+- [20221003150936](/zet/20221003150936/README.md) fail2ban default config location
+- [20221003150937](/zet/20221003150937/README.md) fail2ban
+- [20221003150938](/zet/20221003150938/README.md) searchsploit exploitdb linux kernel exploit privesc
+- [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
+- [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
+- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
+- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
+- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation

@@ -1,4 +1,4 @@
-- [20221003150930](/zet/20221003150930/README.md)
-- [20221003150931](/zet/20221003150931/README.md)
-- [20221003150932](/zet/20221003150932/README.md)
-- [20221003150933](/zet/20221003150933/README.md)
+- [20221003150930](/zet/20221003150930/README.md) lxd priv esc without painful build problems lxd priv esc victim
+- [20221003150931](/zet/20221003150931/README.md) lxd priv esc without painful build problems lxd priv esc x86
+- [20221003150932](/zet/20221003150932/README.md) lxd priv esc without painful build problems lxd priv esc x64
+- [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems

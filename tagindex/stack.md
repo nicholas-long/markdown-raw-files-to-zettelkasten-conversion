@@ -1,1 +1,1 @@
-- [20221014073148](/zet/20221014073148/README.md)
+- [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology

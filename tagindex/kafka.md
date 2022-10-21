@@ -1,15 +1,15 @@
-- [20221003150203](/zet/20221003150203/README.md)
-- [20221003150204](/zet/20221003150204/README.md)
-- [20221003150205](/zet/20221003150205/README.md)
-- [20221003150206](/zet/20221003150206/README.md)
-- [20221003150207](/zet/20221003150207/README.md)
-- [20221003150208](/zet/20221003150208/README.md)
-- [20221003150209](/zet/20221003150209/README.md)
-- [20221003150210](/zet/20221003150210/README.md)
-- [20221003150212](/zet/20221003150212/README.md)
-- [20221003150213](/zet/20221003150213/README.md)
-- [20221003150214](/zet/20221003150214/README.md)
-- [20221003150215](/zet/20221003150215/README.md)
-- [20221003150216](/zet/20221003150216/README.md)
-- [20221003150217](/zet/20221003150217/README.md)
-- [20221006034046](/zet/20221006034046/README.md)
+- [20221003150203](/zet/20221003150203/README.md) example docker to initialize ksql commands Dockerfile
+- [20221003150204](/zet/20221003150204/README.md) example docker to initialize ksql commands entry.sh
+- [20221003150205](/zet/20221003150205/README.md) example docker to initialize ksql commands ksql.sh
+- [20221003150206](/zet/20221003150206/README.md) example docker to initialize ksql commands initialize.sh
+- [20221003150207](/zet/20221003150207/README.md) example docker to initialize ksql commands
+- [20221003150208](/zet/20221003150208/README.md) kafkacat add data to topic include keys
+- [20221003150209](/zet/20221003150209/README.md) kafkacat add data to topic
+- [20221003150210](/zet/20221003150210/README.md) kafkacat
+- [20221003150212](/zet/20221003150212/README.md) kafkacat install quick and dirty shell script using docker
+- [20221003150213](/zet/20221003150213/README.md) kafkacat install APT
+- [20221003150214](/zet/20221003150214/README.md) kafkacat install alias for kcat
+- [20221003150215](/zet/20221003150215/README.md) kafkacat install
+- [20221003150216](/zet/20221003150216/README.md) Initialize topics in dockers Full example
+- [20221003150217](/zet/20221003150217/README.md) Initialize topics in dockers
+- [20221006034046](/zet/20221006034046/README.md) kafka and zettelkasten graph docs

@@ -1,89 +1,89 @@
-- [20221003150097](/zet/20221003150097/README.md)
-- [20221003150119](/zet/20221003150119/README.md)
-- [20221003150120](/zet/20221003150120/README.md)
-- [20221003150121](/zet/20221003150121/README.md)
-- [20221003150122](/zet/20221003150122/README.md)
-- [20221003150123](/zet/20221003150123/README.md)
-- [20221003150124](/zet/20221003150124/README.md)
-- [20221003150125](/zet/20221003150125/README.md)
-- [20221003150126](/zet/20221003150126/README.md)
-- [20221003150127](/zet/20221003150127/README.md)
-- [20221003150128](/zet/20221003150128/README.md)
-- [20221003150129](/zet/20221003150129/README.md)
-- [20221003150130](/zet/20221003150130/README.md)
-- [20221003150131](/zet/20221003150131/README.md)
-- [20221003150133](/zet/20221003150133/README.md)
-- [20221003150134](/zet/20221003150134/README.md)
-- [20221003150137](/zet/20221003150137/README.md)
-- [20221003150138](/zet/20221003150138/README.md)
-- [20221003150139](/zet/20221003150139/README.md)
-- [20221003150140](/zet/20221003150140/README.md)
-- [20221003150141](/zet/20221003150141/README.md)
-- [20221003150142](/zet/20221003150142/README.md)
-- [20221003150143](/zet/20221003150143/README.md)
-- [20221003150144](/zet/20221003150144/README.md)
-- [20221003150145](/zet/20221003150145/README.md)
-- [20221003150146](/zet/20221003150146/README.md)
-- [20221003150147](/zet/20221003150147/README.md)
-- [20221003150148](/zet/20221003150148/README.md)
-- [20221003150149](/zet/20221003150149/README.md)
-- [20221003150150](/zet/20221003150150/README.md)
-- [20221003150151](/zet/20221003150151/README.md)
-- [20221003150152](/zet/20221003150152/README.md)
-- [20221003150153](/zet/20221003150153/README.md)
-- [20221003150154](/zet/20221003150154/README.md)
-- [20221003150155](/zet/20221003150155/README.md)
-- [20221003150156](/zet/20221003150156/README.md)
-- [20221003150157](/zet/20221003150157/README.md)
-- [20221003150158](/zet/20221003150158/README.md)
-- [20221003150159](/zet/20221003150159/README.md)
-- [20221003150160](/zet/20221003150160/README.md)
-- [20221003150161](/zet/20221003150161/README.md)
-- [20221003150162](/zet/20221003150162/README.md)
-- [20221003150163](/zet/20221003150163/README.md)
-- [20221003150164](/zet/20221003150164/README.md)
-- [20221003150165](/zet/20221003150165/README.md)
-- [20221003150166](/zet/20221003150166/README.md)
-- [20221003150167](/zet/20221003150167/README.md)
-- [20221003150168](/zet/20221003150168/README.md)
-- [20221003150169](/zet/20221003150169/README.md)
-- [20221003150170](/zet/20221003150170/README.md)
-- [20221003150171](/zet/20221003150171/README.md)
-- [20221003150172](/zet/20221003150172/README.md)
-- [20221003150173](/zet/20221003150173/README.md)
-- [20221003150174](/zet/20221003150174/README.md)
-- [20221003150175](/zet/20221003150175/README.md)
-- [20221003150176](/zet/20221003150176/README.md)
-- [20221003150178](/zet/20221003150178/README.md)
-- [20221003150179](/zet/20221003150179/README.md)
-- [20221003150180](/zet/20221003150180/README.md)
-- [20221003150181](/zet/20221003150181/README.md)
-- [20221003150182](/zet/20221003150182/README.md)
-- [20221003150183](/zet/20221003150183/README.md)
-- [20221003150184](/zet/20221003150184/README.md)
-- [20221003150185](/zet/20221003150185/README.md)
-- [20221003150186](/zet/20221003150186/README.md)
-- [20221003150187](/zet/20221003150187/README.md)
-- [20221003150188](/zet/20221003150188/README.md)
-- [20221003150189](/zet/20221003150189/README.md)
-- [20221003150190](/zet/20221003150190/README.md)
-- [20221003150191](/zet/20221003150191/README.md)
-- [20221003150192](/zet/20221003150192/README.md)
-- [20221003150193](/zet/20221003150193/README.md)
-- [20221003150196](/zet/20221003150196/README.md)
-- [20221003150197](/zet/20221003150197/README.md)
-- [20221003150200](/zet/20221003150200/README.md)
-- [20221003150201](/zet/20221003150201/README.md)
-- [20221003151154](/zet/20221003151154/README.md)
-- [20221003151155](/zet/20221003151155/README.md)
-- [20221003151169](/zet/20221003151169/README.md)
-- [20221003151208](/zet/20221003151208/README.md)
-- [20221003151209](/zet/20221003151209/README.md)
-- [20221003151210](/zet/20221003151210/README.md)
-- [20221006033248](/zet/20221006033248/README.md)
-- [20221006035818](/zet/20221006035818/README.md)
-- [20221006063114](/zet/20221006063114/README.md)
-- [20221011145037](/zet/20221011145037/README.md)
-- [20221011145143](/zet/20221011145143/README.md)
-- [20221014073148](/zet/20221014073148/README.md)
-- [20221015065151](/zet/20221015065151/README.md)
+- [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
+- [20221003150119](/zet/20221003150119/README.md) routing using a linux box iptables rules forward all traffic between two interfaces
+- [20221003150120](/zet/20221003150120/README.md) routing using a linux box iptables rules
+- [20221003150121](/zet/20221003150121/README.md) routing using a linux box add router to routes on hosts windows
+- [20221003150122](/zet/20221003150122/README.md) routing using a linux box add router to routes on hosts
+- [20221003150123](/zet/20221003150123/README.md) routing using a linux box enable ip forwarding permanently
+- [20221003150124](/zet/20221003150124/README.md) routing using a linux box enable ip forwarding temporarily
+- [20221003150125](/zet/20221003150125/README.md) routing using a linux box enable ip forwarding
+- [20221003150126](/zet/20221003150126/README.md) routing using a linux box
+- [20221003150127](/zet/20221003150127/README.md) tldr pages location english
+- [20221003150128](/zet/20221003150128/README.md) tldr pages location
+- [20221003150129](/zet/20221003150129/README.md) tldr
+- [20221003150130](/zet/20221003150130/README.md) java download links jdk
+- [20221003150131](/zet/20221003150131/README.md) java download links
+- [20221003150133](/zet/20221003150133/README.md) DNS add nameserver to resolv.conf
+- [20221003150134](/zet/20221003150134/README.md) DNS commands
+- [20221003150137](/zet/20221003150137/README.md) installing virtualbox
+- [20221003150138](/zet/20221003150138/README.md) apt package nc ncat netcat
+- [20221003150139](/zet/20221003150139/README.md) apt package column
+- [20221003150140](/zet/20221003150140/README.md) apt package
+- [20221003150141](/zet/20221003150141/README.md) proxmox server layout ISO upload location
+- [20221003150142](/zet/20221003150142/README.md) proxmox server layout
+- [20221003150143](/zet/20221003150143/README.md) proxmox
+- [20221003150144](/zet/20221003150144/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal copying binary programs
+- [20221003150145](/zet/20221003150145/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal programs
+- [20221003150146](/zet/20221003150146/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks char mappings
+- [20221003150147](/zet/20221003150147/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks
+- [20221003150148](/zet/20221003150148/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal terminfo and TERM variable
+- [20221003150149](/zet/20221003150149/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal serial codes
+- [20221003150150](/zet/20221003150150/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal
+- [20221003150151](/zet/20221003150151/README.md) cyberpunk retro machine project enable usb serial port terminal as a service restart service if terminal disconnected
+- [20221003150152](/zet/20221003150152/README.md) cyberpunk retro machine project enable usb serial port terminal as a service 9600 baud serial systemd service changes
+- [20221003150153](/zet/20221003150153/README.md) cyberpunk retro machine project enable usb serial port terminal as a service
+- [20221003150154](/zet/20221003150154/README.md) cyberpunk retro machine project
+- [20221003150155](/zet/20221003150155/README.md) linux assorted commands find disk mounting for root file system
+- [20221003150156](/zet/20221003150156/README.md) linux assorted commands
+- [20221003150157](/zet/20221003150157/README.md) upgrade when apt is causing problems fix error "the following signatures couldn’t be verified because the public key is not available"
+- [20221003150158](/zet/20221003150158/README.md) upgrade when apt is causing problems force fix apt dpkg upgrade
+- [20221003150159](/zet/20221003150159/README.md) upgrade when apt is causing problems
+- [20221003150160](/zet/20221003150160/README.md) git config settings make merges smoother
+- [20221003150161](/zet/20221003150161/README.md) git config settings set up credential storage
+- [20221003150162](/zet/20221003150162/README.md) git config settings
+- [20221003150163](/zet/20221003150163/README.md) linux job control send background process to foreground
+- [20221003150164](/zet/20221003150164/README.md) linux job control background running process
+- [20221003150165](/zet/20221003150165/README.md) linux job control
+- [20221003150166](/zet/20221003150166/README.md) dump process memory with dd ( complicated )
+- [20221003150167](/zet/20221003150167/README.md) dump process memory with exe pseudofile ( simple )
+- [20221003150168](/zet/20221003150168/README.md) dump process memory on linux
+- [20221003150169](/zet/20221003150169/README.md) linux capabilities capability set `=ep`
+- [20221003150170](/zet/20221003150170/README.md) linux capabilities inheritance after exec
+- [20221003150171](/zet/20221003150171/README.md) linux capabilities
+- [20221003150172](/zet/20221003150172/README.md) less color output
+- [20221003150173](/zet/20221003150173/README.md) less replay script log
+- [20221003150174](/zet/20221003150174/README.md) less
+- [20221003150175](/zet/20221003150175/README.md) unix editor ex / ed example commands
+- [20221003150176](/zet/20221003150176/README.md) ex editor
+- [20221003150178](/zet/20221003150178/README.md) install alacritty  config file example yaml config
+- [20221003150179](/zet/20221003150179/README.md) alacritty config file
+- [20221003150180](/zet/20221003150180/README.md) install alacritty commands
+- [20221003150181](/zet/20221003150181/README.md) install alacritty dependencies to fix build errors
+- [20221003150182](/zet/20221003150182/README.md) install alacritty 
+- [20221003150183](/zet/20221003150183/README.md) add user to group docker
+- [20221003150184](/zet/20221003150184/README.md) add user to group
+- [20221003150185](/zet/20221003150185/README.md) linux free up space in docker
+- [20221003150186](/zet/20221003150186/README.md) linux free up space in /var/log/journal/
+- [20221003150187](/zet/20221003150187/README.md) linux free up space
+- [20221003150188](/zet/20221003150188/README.md) zsh stuff at bottom of zshrc
+- [20221003150189](/zet/20221003150189/README.md) zsh arrow key based history autocomplete browse
+- [20221003150190](/zet/20221003150190/README.md) zsh see default bindings for vim command and insert modes keybinds
+- [20221003150191](/zet/20221003150191/README.md) zsh
+- [20221003150192](/zet/20221003150192/README.md) convert package type to deb rpm slp lsb tgz
+- [20221003150193](/zet/20221003150193/README.md) convert
+- [20221003150196](/zet/20221003150196/README.md) iptables rules forward all traffic between two interfaces
+- [20221003150197](/zet/20221003150197/README.md) iptables rules
+- [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
+- [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
+- [20221003151154](/zet/20221003151154/README.md) linux hardening add hidepid to /proc at run time
+- [20221003151155](/zet/20221003151155/README.md) linux hardening
+- [20221003151169](/zet/20221003151169/README.md) NFS to try list
+- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
+- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
+- [20221006033248](/zet/20221006033248/README.md) rwxrob
+- [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos
+- [20221006063114](/zet/20221006063114/README.md) small files are stored in inodes in ext4
+- [20221011145037](/zet/20221011145037/README.md) kali linux
+- [20221011145143](/zet/20221011145143/README.md) bat command pretty printer
+- [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
+- [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video

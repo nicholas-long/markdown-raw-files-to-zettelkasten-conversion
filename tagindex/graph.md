@@ -1,1 +1,1 @@
-- [20221013193405](/zet/20221013193405/README.md)
+- [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes

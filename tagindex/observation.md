@@ -1,1 +1,1 @@
-- [20221013180437](/zet/20221013180437/README.md)
+- [20221013180437](/zet/20221013180437/README.md) differences organizing zettelkasten in graph vs files in hierarchy

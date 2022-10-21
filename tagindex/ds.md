@@ -1,2 +1,2 @@
-- [20221003151018](/zet/20221003151018/README.md)
-- [20221003151019](/zet/20221003151019/README.md)
+- [20221003151018](/zet/20221003151018/README.md) .DS_Store file ds_store Mac OS parse scrape directory and file information
+- [20221003151019](/zet/20221003151019/README.md) .DS_Store file ds_store Mac OS

@@ -1,5 +1,5 @@
-- [20221003150516](/zet/20221003150516/README.md)
-- [20221003150517](/zet/20221003150517/README.md)
-- [20221003150660](/zet/20221003150660/README.md)
-- [20221003150661](/zet/20221003150661/README.md)
-- [20221003150662](/zet/20221003150662/README.md)
+- [20221003150516](/zet/20221003150516/README.md) binary analysis golang
+- [20221003150517](/zet/20221003150517/README.md) binary analysis
+- [20221003150660](/zet/20221003150660/README.md) data analysis commands binwalk find and extract LZMA zip streams quickly
+- [20221003150661](/zet/20221003150661/README.md) data analysis commands dd copy from offset
+- [20221003150662](/zet/20221003150662/README.md) data analysis commands

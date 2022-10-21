@@ -1,3 +1,3 @@
-- [20221003151317](/zet/20221003151317/README.md)
-- [20221003151318](/zet/20221003151318/README.md)
-- [20221017084459](/zet/20221017084459/README.md)
+- [20221003151317](/zet/20221003151317/README.md) bash parse xml cli with xpath using xpup
+- [20221003151318](/zet/20221003151318/README.md) bash parse xml cli
+- [20221017084459](/zet/20221017084459/README.md) xpup xml parsing tool for scripting

@@ -1,2 +1,2 @@
-- [20221003151301](/zet/20221003151301/README.md)
-- [20221015065151](/zet/20221015065151/README.md)
+- [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
+- [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video

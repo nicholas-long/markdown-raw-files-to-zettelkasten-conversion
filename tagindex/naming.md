@@ -1,1 +1,1 @@
-- [20221011192157](/zet/20221011192157/README.md)
+- [20221011192157](/zet/20221011192157/README.md) cool names for the project

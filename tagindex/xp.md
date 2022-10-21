@@ -1,3 +1,3 @@
-- [20221003151149](/zet/20221003151149/README.md)
-- [20221003151150](/zet/20221003151150/README.md)
-- [20221003151152](/zet/20221003151152/README.md)
+- [20221003151149](/zet/20221003151149/README.md) windows XP and windows server 2003 arbitrary file write -> remote code execution metasploit
+- [20221003151150](/zet/20221003151150/README.md) windows XP and windows server 2003 write arbitrary MOF file for remote code execution
+- [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003

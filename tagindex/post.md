@@ -1,1 +1,1 @@
-- [20221018125400](/zet/20221018125400/README.md)
+- [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy

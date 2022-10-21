@@ -1,1 +1,1 @@
-- [20221006204315](/zet/20221006204315/README.md)
+- [20221006204315](/zet/20221006204315/README.md) fastest way to take graph notes

@@ -1,3 +1,3 @@
-- [20221003150169](/zet/20221003150169/README.md)
-- [20221003150170](/zet/20221003150170/README.md)
-- [20221003150171](/zet/20221003150171/README.md)
+- [20221003150169](/zet/20221003150169/README.md) linux capabilities capability set `=ep`
+- [20221003150170](/zet/20221003150170/README.md) linux capabilities inheritance after exec
+- [20221003150171](/zet/20221003150171/README.md) linux capabilities

@@ -1,5 +1,5 @@
-- [20221007044552](/zet/20221007044552/README.md)
-- [20221010191246](/zet/20221010191246/README.md)
-- [20221012135747](/zet/20221012135747/README.md)
-- [20221014024704](/zet/20221014024704/README.md)
-- [20221014150222](/zet/20221014150222/README.md)
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list
+- [20221010191246](/zet/20221010191246/README.md) problems discovered from obsidian node graph proving it is useful
+- [20221012135747](/zet/20221012135747/README.md) unix text editors
+- [20221014024704](/zet/20221014024704/README.md) list of sparse nodes
+- [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents

@@ -1,2 +1,2 @@
-- [20221003150499](/zet/20221003150499/README.md)
-- [20221003150500](/zet/20221003150500/README.md)
+- [20221003150499](/zet/20221003150499/README.md) shellshock python2 exploit reverse shell usage
+- [20221003150500](/zet/20221003150500/README.md) shellshock python2 exploit

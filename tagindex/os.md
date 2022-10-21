@@ -1,3 +1,3 @@
-- [20221003150155](/zet/20221003150155/README.md)
-- [20221003150156](/zet/20221003150156/README.md)
-- [20221008213458](/zet/20221008213458/README.md)
+- [20221003150155](/zet/20221003150155/README.md) linux assorted commands find disk mounting for root file system
+- [20221003150156](/zet/20221003150156/README.md) linux assorted commands
+- [20221008213458](/zet/20221008213458/README.md) operating system
