@@ -13,6 +13,7 @@ implemented:
 
 # Related
 
+- [20221021081636](/zet/20221021081636/README.md) template card to run command in snippet
 - [20221007193324](/zet/20221007193324/README.md) github actions
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes

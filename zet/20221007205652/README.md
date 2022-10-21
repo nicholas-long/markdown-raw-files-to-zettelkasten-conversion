@@ -1,4 +1,4 @@
-# find limit recusion depth
+# find limit recursion depth
 
 use `-maxdepth N` argument
 

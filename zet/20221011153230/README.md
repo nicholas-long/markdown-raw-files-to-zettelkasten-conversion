@@ -9,6 +9,7 @@ the concept of `template example card for scripts`
 
 # Related
 
+- [20221021081636](/zet/20221021081636/README.md) template card to run command in snippet
 - [20221014213613](/zet/20221014213613/README.md) boilerplate code template
 - [20221011153359](/zet/20221011153359/README.md) ability to clone cards
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
