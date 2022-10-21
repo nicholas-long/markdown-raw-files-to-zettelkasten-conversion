@@ -13,11 +13,10 @@
   - operations
     - `@tagname`             - filter to IDs of cards that have tag "tagname"
     - `like PATTERN`         - filter IDs of cards that contain case insensitive grep pattern
-    - `id 11111111111111`    - intersect with only a particular ID if present, or none                                                                                    a monad?
-    - `:`                    - get all of the references of all of these IDs. transform the current working set of IDs into a new set containing all of the references.
-                               - core operation used to traverse the graph.
+    - `id 11111111111111`    - intersect with only a particular ID if present, or none. a monad?
+    - `:`                    - get all of the references of all of these IDs. transform the current working set of IDs into a new set containing all of the references. core operation used to traverse the graph.
     - `file FILENAME`        - load IDs from a file and discard the current working set of IDs, replacing them
-    - `FILENAME`             - "and"                                                                                                                                      a raw file or subquery appearing as an operation will intersect the current working set with IDs appearing in the file
+    - `FILENAME`             - "and" a raw file or subquery appearing as an operation will intersect the current working set with IDs appearing in the file
     - `or FILENAME`          - union ( concatenate ) IDs with all IDs appearing in the file or subquery
     - `not FILENAME`         - filter out all IDs appearing in the file or subquery
 
