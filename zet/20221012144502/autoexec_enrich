@@ -12,7 +12,9 @@ recentids=$(mktemp)
 find zet -type f -name README.md 2>/dev/null | awk -F / '$(NF - 1) > ENVIRON["recenttimestamp"] { print $(NF - 1) }' > $recentids
 
 # remove everything that does not belong on the module
-./graphquery id $RECENT_MOD : not $recentids not <( echo $MY_ID ) | grep . | xargs -n 1 ./zc unlink $RECENT_MOD
+./graphquery id $RECENT_MOD : not $recentids not <( echo $MY_ID ) | grep . | \
+  awk ' /^[0-9]+$/ { system("./zc unlink " ENVIRON["RECENT_MOD"] " " $0) } '
 
 # add everything that is missing
-./graphquery $recentids not <( ./graphquery id $RECENT_MOD : ) | grep . | xargs -n 1 ./zc addref -t $RECENT_MOD
+./graphquery $recentids not <( ./graphquery id $RECENT_MOD : ) | grep . | \
+  awk ' /^[0-9]+$/ { system("./zc addref -t " ENVIRON["RECENT_MOD"] " " $0) } '
