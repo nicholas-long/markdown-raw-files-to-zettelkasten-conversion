@@ -492,3 +492,4 @@
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
 - [20221021183918](/zet/20221021183918/README.md) C language
 - [20221021202250](/zet/20221021202250/README.md) put all the link titles in square brackets and automatically update them
+- [20221021221931](/zet/20221021221931/README.md) cache headings

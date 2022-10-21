@@ -36,6 +36,7 @@
 
 # Related
 
+- [20221021221931](/zet/20221021221931/README.md) cache headings
 - [20221021202250](/zet/20221021202250/README.md) put all the link titles in square brackets and automatically update them
 - [20221020053629](/zet/20221020053629/README.md) parse mermaid syntax and use to generate set of linked cards
 - [20221018201513](/zet/20221018201513/README.md) make a script to get the context of a card - word counts

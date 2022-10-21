@@ -55,6 +55,7 @@ Options:
 
 # Related
 
+- [20221021221931](/zet/20221021221931/README.md) cache headings
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221013221136](/zet/20221013221136/README.md) implement a graph query language
@@ -121,7 +122,7 @@ Options:
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221006140520](/zet/20221006140520/README.md) zet cmd spawn feature
-- [20221007205652](/zet/20221007205652/README.md) find limit recusion depth
+- [20221007205652](/zet/20221007205652/README.md) find limit recursion depth
 - [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
 - [20221012220453](/zet/20221012220453/README.md) unlink should be easier
 - [20221012144502](/zet/20221012144502/README.md) track modification dates

@@ -111,6 +111,7 @@ esac
 
 # Related
 
+- [20221021221931](/zet/20221021221931/README.md) cache headings
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221011153230](/zet/20221011153230/README.md) template example card for scripts
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten

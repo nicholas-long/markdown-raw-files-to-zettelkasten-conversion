@@ -6,6 +6,7 @@
 
 # Related
 
+- [20221021221931](/zet/20221021221931/README.md) cache headings
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 - [20221006010149](/zet/20221006010149/README.md) inserting lines with sed

@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221021221931](/zet/20221021221931/README.md) cache headings
 - [20221014190059](/zet/20221014190059/README.md) kb file named kb/hacking/misc/file-type-reference.md
 - [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
 - [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
