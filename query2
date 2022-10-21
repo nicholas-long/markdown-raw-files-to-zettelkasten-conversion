@@ -6,13 +6,16 @@ joined=$(mktemp)
 
 interpret="$0"
 human=0
+echo "query $@" > /dev/stderr
 
-ls zet | awk '/^[0-9]+/' | sort -u > $buf
+#ls zet | awk '/^[0-9]+/' | sort -u > $buf
+find zet -name README.md | awk -F / '{print $(NF-1)}' | sort -u > $buf
+
 while [[ $# -gt 0 ]]; do
   #echo "parsing $1" > /dev/stderr
   if [[ "$1" =~ ^@.*$ ]]; then
-    temp="$1"
-    tagname=${temp//@/}
+    tagname="$1"
+    tagname=${tagname//@/}
     #echo "read tags $tagname" > /dev/stderr
     filename="tagindex/$tagname.md"
     if [ ! -f "$filename" ]; then
@@ -29,7 +32,7 @@ while [[ $# -gt 0 ]]; do
     pattern="$1"
     #echo "like $pattern" > /dev/stderr
     awk '{print "zet/" $0 "/README.md"}' $buf |\
-      xargs grep "$pattern" |\
+      xargs grep -i "$pattern" |\
       cut -d : -f 1 | implementation/parseids | sort -u > $temp
     join $buf $temp > $joined
     cp "$joined" "$buf"
@@ -40,6 +43,32 @@ while [[ $# -gt 0 ]]; do
     shift
     echo $1 > $temp
     join $buf $temp > $joined
+    cp "$joined" "$buf"
+  elif [[ "$1" == 'or' ]]; then
+    subquery=""
+    shift
+    if [[ "$1" == '{' ]]; then
+      shift
+    fi
+    while [[ "$1" != '}' ]]; do
+      subquery="$subquery $1"
+      shift
+    done
+    $interpret $subquery > $temp
+    cat $buf $temp | sort -u > $joined
+    cp "$joined" "$buf"
+  elif [[ "$1" == 'not' ]]; then
+    subquery=""
+    shift
+    if [[ "$1" == '{' ]]; then
+      shift
+    fi
+    while [[ "$1" != '}' ]]; do
+      subquery="$subquery $1"
+      shift
+    done
+    $interpret $subquery > $temp
+    join -v 1 $buf $temp > $joined
     cp "$joined" "$buf"
   fi
   #echo "buffer contents:" > /dev/stderr
