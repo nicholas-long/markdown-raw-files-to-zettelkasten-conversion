@@ -7,6 +7,8 @@
 
 # Related
 
+- [20221021221931](/zet/20221021221931/README.md) cache headings
+
 - [20221021202250](/zet/20221021202250/README.md) put all the link titles in square brackets and automatically update them
 - [20221020183231](/zet/20221020183231/README.md) how to get titles to show up in obsidian graph
 - [20221010044240](/zet/20221010044240/README.md) titles of nodes should repopulate
