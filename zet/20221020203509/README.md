@@ -25,7 +25,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis
 - [20221003151023](/zet/20221003151023/README.md) analyzing source code

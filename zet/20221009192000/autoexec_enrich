@@ -10,14 +10,14 @@ echo "checking stuff on the main page... $@" >/dev/stderr
 
 indexdothtml="$mydir/../../README.md"
 
-$prog refs $CARD_ID > $references # get references
+#$prog refs $CARD_ID > $references # get references
 # search for the IDs we found
 #zet/$implementation/parseids $indexdothtml | sort -u > $found
 {
   echo "Missing:"
-  ./query2 id $CARD_ID : not { file $indexdothtml } # all references in this card that are not on README.md
+  ./graphquery id $CARD_ID : not $indexdothtml # all references in this card that are not on README.md
   echo "Extra:"
-  ./query2 file $indexdothtml not { @meta } not { id $CARD_ID : } # all ids on the main page that are not tagged #meta and not referenced in this card
+  ./graphquery file $indexdothtml not <( ./graphquery @meta ) not <( ./graphquery id $CARD_ID : ) # all ids on the main page that are not tagged #meta and not referenced in this card
 } > $mydir/missing
 
 export snippetcommand="cat $mydir/missing"

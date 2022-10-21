@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221013221136](/zet/20221013221136/README.md) implement a graph query language
 - [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
 - [20221003151144](/zet/20221003151144/README.md) active directory 
 - [20221003150791](/zet/20221003150791/README.md) openssl
