@@ -50,7 +50,6 @@ while [[ $# -gt 0 ]]; do
     join $buf $temp > $joined
     cp "$joined" "$buf"
   elif [[ "$1" == 'or' ]]; then
-    subquery=""
     shift
     if [ -f "$1" -o -p "$1" ]; then
       echo "got file $1" > /dev/stderr
@@ -62,7 +61,6 @@ while [[ $# -gt 0 ]]; do
       exit 1
     fi
   elif [[ "$1" == 'not' ]]; then
-    subquery=""
     shift
     if [ -f "$1" -o -p "$1" ]; then
       echo "got file $1" > /dev/stderr

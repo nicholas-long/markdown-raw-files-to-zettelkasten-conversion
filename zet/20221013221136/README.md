@@ -1,41 +1,44 @@
 # implement a graph query language
 
-- `./queryinterpreter`
-- would allow for quickly and easily scripting some stuff up in cards
-- shouldn't be too hard
-- like relational database from old awk book
-- look at graphql for inspiration?
-- look at neo4j for inspiration?
+- `./graphquery`
+- allows for quickly and easily scripting some stuff up in cards
 - things this system can do quickly
   - load ids by tags
   - reading all titles is pretty fast
   - possible to grep all content pretty quickly still
   - search by tags and connections
+- ideas
+  - have queries return tables, treat the last ID in table as the current set
+    - this way, the whole search path can be returned
+  - like relational database from old awk book
+  - look at graphql for inspiration?
+  - look at neo4j for inspiration?
 
+- documentation
+  - all qureries return raw IDs. add `--human` flag to return markdown formatted links with readable titles.
+  - operations must tokenize as bash arguments
+  - the core intrinsic operation of the query syntax is intersection. there is a working set of IDs, and a pipeline of operations are performed in succession to filter or transform this set of IDs.
+  - a query starts with a full set of all IDs in the graph and filters them by performing operations.
+  - query ends when working set is empty or when operations are complete.
+  - all nested queries should be done in subprocesses with bash substitution `<( ./graphquery @meta like this )`. this is a dirty hack was discovered to significantly reduce the effort required to create this reference implementation.
+  - operations
+    - `@tagname` - filter to IDs of cards that have tag "tagname"
+    - `like PATTERN` - filter IDs of cards that contain case insensitive grep pattern
+    - `id 11111111111111` - intersect with only a particular ID if present, or none - a monad?
+    - `:` - get all of the references of all of these IDs. transform the current working set of IDs into a new set containing all of the references.
+      - core operation used to traverse the graph.
+    - `file FILENAME` - load IDs from a file and discard the current working set of IDs, replacing them
+    - `FILENAME` - "and" - a raw file or subquery appearing as an operation will intersect the current working set with IDs appearing in the file
+    - `or FILENAME` - union ( concatenate ) IDs with all IDs appearing in the file or subquery
+    - `not FILENAME` - filter out all IDs appearing in the file or subquery
+
+- examples
 ```
-all qureries return raw IDs
-
-#dev -> #inbox
-return table of devs and inbox, filter results with awk queries like sql where?
-
-#machine ~ /jerry/ -> #list && #file
-for all nodes with hashtags #machine and that have the text or grep pattern "jerry" in the card, pair with all nodes that are both #list and #file?
-
-reasonable query syntax?
-#user ~ /coyote/
-users named coyote
-#user ~ /coyote/ -> #fun || #cool
-users named coyote and the things they do that are fun or cool
-
-arrow has lowest precedence
-everything inside arrows describe a node and are cumulative
-
-|| or prints ids from the result of both expressions
-&& joins them ( using sorted unix join? )
-~ /re/ grep each ID's card and return only matching ones from before the : in grep output
-implement parentheses - sub expressions?
-2 operations - concatenate and join is all it needs?
-
+./graphquery id $CARD_ID : not $indexdothtml # all references in this card that are not on README.md
+./graphquery $indexdothtml not <( ./graphquery @meta ) not <( ./graphquery id $CARD_ID : ) # all ids on the main page that are not tagged #meta and not referenced in this card
+./graphquery id $RECENT_MOD : not $recentids not <( echo $MY_ID )
+./graphquery $recentids not <( ./graphquery id $RECENT_MOD : )
+./graphquery @DEL | awk '/^[0-9]+$/ {system("rm -rf zet/" $0)}'
 ```
 
 ` zet/20221013221136/README.md `
