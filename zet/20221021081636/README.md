@@ -12,7 +12,6 @@ hello world!
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221011153230](/zet/20221011153230/README.md) template example card for scripts
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 
