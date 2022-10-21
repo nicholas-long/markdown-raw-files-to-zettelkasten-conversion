@@ -1,14 +1,17 @@
 #!/bin/bash
 
-buf=$(mktemp)
-temp=$(mktemp)
-joined=$(mktemp)
+# Nicholas Long
+# see documentation at zet/20221013221136/README.md
+
+buf=$(mktemp)       # working set
+temp=$(mktemp)      # used in operation
+joined=$(mktemp)    # tempfile for intersections
 
 interpret="$0"
-human=0
+human=0 # by default the script should return raw IDs as output, add --human flag to see readable links and titles
 echo "query $@" > /dev/stderr
 
-#ls zet | awk '/^[0-9]+/' | sort -u > $buf
+# fill initial working set
 find zet -name README.md | awk -F / '{print $(NF-1)}' | sort -u > $buf
 
 while [[ $# -gt 0 ]]; do
