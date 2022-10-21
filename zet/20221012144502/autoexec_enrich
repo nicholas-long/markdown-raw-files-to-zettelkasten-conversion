@@ -11,67 +11,8 @@ echo ""
 recentids=$(mktemp)
 find zet -type f -name README.md 2>/dev/null | awk -F / '$(NF - 1) > ENVIRON["recenttimestamp"] { print $(NF - 1) }' > $recentids
 
-#echo "not enabled yet"
-#exit 0
+# remove everything that does not belong on the module
+./graphquery id $RECENT_MOD : not $recentids not <( echo $MY_ID ) | grep . | xargs -n 1 ./zc unlink $RECENT_MOD
 
-# IDs currently attached to node
-echo IDs currently attached to node
-# remove everything that isn't recent that is there already
-# don't ever remove this card's id
-$prog refs $RECENT_MOD | grep -v -f $recentids | grep -v $MY_ID | awk '
-{
-  command = ENVIRON["prog"] " unlink " ENVIRON["RECENT_MOD"] " " $0
-  #print(command)
-  system(command)
-}
-'
-# cleared out all the old IDs.
-
-idstherenow=$(mktemp)
-awk '
-pr { print }
-/^# Related/ { pr = 1 }
-' zet/$RECENT_MOD/README.md | zet/$IMPL/parseids > $idstherenow
-
-echo "Ids there now"
-cat $idstherenow
-
-echo "Ids to add"
-grep -v -f $idstherenow $recentids | sort -n | awk '
-/^[0-9]+$/ {
-  if ($0 != ENVIRON["MY_ID"] && $0 != ENVIRON["RECENT_MOD"]) {
-    command = ENVIRON["prog"] " addref -t " ENVIRON["RECENT_MOD"] " " $0
-    system(command)
-  }
-}
-'
-
-rm "$idstherenow"
-rm "$recentids"
-
-#xargs -n 1 $prog addref -t $RECENT_MOD 
-
-#find zet -type f -name README.md 2>/dev/null | awk -F / '$(NF - 1) > ENVIRON["recenttimestamp"]'
-#| \zet/$IMPL/parseids | grep -v -f <( cat << EOF
-#$MY_ID
-#EOF
-#)  | awk '
-#{
-#  id = $0
-#  command = "git log --date=unix -- zet/" id "/README.md"
-#  while ((command | getline) > 0) {
-#    if ($0 ~ /^Date:/) {
-#      print $2, id
-#    }
-#  }
-#  close(command)
-#}
-#' | sort -n | awk '
-#{
-#  id = $2
-#  command = ENVIRON["prog"] " addref -t " ENVIRON["RECENT_MOD"] " " id
-#  system(command)
-#}
-#'
-
-#rm "$tf"
+# add everything that is missing
+./graphquery $recentids not <( ./graphquery id $RECENT_MOD : ) | grep . | xargs -n 1 ./zc addref -t $RECENT_MOD
