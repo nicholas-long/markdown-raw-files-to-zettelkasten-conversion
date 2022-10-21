@@ -1,25 +1,6 @@
 #!/bin/bash
-export mydir="$2"
-tf=$(mktemp)
+IMPL=20221006032546
 
 echo "implementation/autoexec_enrich got executed with $@"
 
-# replace a snippet code using awk
-awk '
-BEGIN { pr = 0 }
-!pr { print }
-/```/ && pr { pr = 0; print; next }
-/```/ && !pr {
-  command = "./zc -h"
-  print(command)
-  command = command " 2>/dev/null"
-  while ((command | getline) > 0) {
-    print $0
-  }
-  close(command)
-  pr = 1
-}
-' "$mydir/README.md" > "$tf"
-
-mv "$tf" "$mydir/README.md"
-#rm "$tf" # rm without arguments is bad
+zet/$IMPL/insertsnippet $IMPL <( echo ./zc -h && ./zc -h )
