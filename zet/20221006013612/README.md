@@ -12,6 +12,8 @@
 
 # Related
 
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
+- [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md
 - [20221021071146](/zet/20221021071146/README.md) delete things marked as #DEL periodically
 - [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
 - [20221020160107](/zet/20221020160107/README.md) zettels with kb script paths to fix

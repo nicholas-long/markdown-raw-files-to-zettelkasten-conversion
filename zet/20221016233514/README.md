@@ -61,7 +61,6 @@ kb/hacking/commands/wfuzz-commands.md
 # Related
 
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
-
 - [20221016233516](/zet/20221016233516/README.md) commits for day of 2022-06-02
 - [20221014185935](/zet/20221014185935/README.md) kb file named kb/hacking/commands/wfuzz-commands.md
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md

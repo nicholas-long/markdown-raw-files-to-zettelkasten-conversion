@@ -83,6 +83,7 @@ sm4-ofb
 
 # Related
 
+- [20221014190044](/zet/20221014190044/README.md) kb file named kb/hacking/misc/openssl-commands-encrypt-text.md
 - [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221003150791](/zet/20221003150791/README.md) openssl

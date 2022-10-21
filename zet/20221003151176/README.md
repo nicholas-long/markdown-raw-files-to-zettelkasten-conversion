@@ -8,7 +8,6 @@
 # Related
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
-
 - [20221003151218](/zet/20221003151218/README.md) send email over SMTP from command line with swaks
 - [20221014185625](/zet/20221014185625/README.md) kb file named kb/hacking/to-try-lists/email.md
 - [20221003150959](/zet/20221003150959/README.md) OSINT email OSINT

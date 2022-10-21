@@ -9,6 +9,8 @@
 
 # Related
 
+- [20221003150571](/zet/20221003150571/README.md) PHP unserialize payload gadget chains
+- [20221014190045](/zet/20221014190045/README.md) kb file named kb/hacking/misc/tools-and-apt-packages.md
 - [20221003150139](/zet/20221003150139/README.md) apt package column
 - [20221003150138](/zet/20221003150138/README.md) apt package nc ncat netcat
 - [20221003150192](/zet/20221003150192/README.md) convert package type to deb rpm slp lsb tgz

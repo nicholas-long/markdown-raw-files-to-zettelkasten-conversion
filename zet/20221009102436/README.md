@@ -10,10 +10,11 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 
 # Related
 
+- [20221003151176](/zet/20221003151176/README.md) email POP3 / IMAP
 - [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
 - [20221015022512](/zet/20221015022512/README.md) password reuse to try list
-- [20221003151179](/zet/20221003151179/README.md) FTP
+- [20221003151179](/zet/20221003151179/README.md) FTP to try list
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
@@ -21,14 +22,14 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 - [20221003151196](/zet/20221003151196/README.md) IPMI
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 - [20221003151199](/zet/20221003151199/README.md) finger tcp 79
-- [20221003151169](/zet/20221003151169/README.md) NFS
+- [20221003151169](/zet/20221003151169/README.md) NFS to try list
 - [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy
-- [20221003151195](/zet/20221003151195/README.md) DNS
+- [20221003151195](/zet/20221003151195/README.md) DNS to try list
 - [20221003151164](/zet/20221003151164/README.md) SNMP
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
 - [20221003151203](/zet/20221003151203/README.md) LDAP
 - [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986
-- [20221003151192](/zet/20221003151192/README.md) HTTP TRY
+- [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old
@@ -59,7 +60,7 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - [20221003151211](/zet/20221003151211/README.md) got leaked files jar
 - [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files
-- [20221003151213](/zet/20221003151213/README.md) got leaked files TRY
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
 - [20221003151214](/zet/20221003151214/README.md) got leaked files
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command

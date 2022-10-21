@@ -15,8 +15,8 @@ ippsec video "LaCasaDePapel"
 
 # Related
 
+- [20221014190103](/zet/20221014190103/README.md) kb file named kb/hacking/misc/openssl-client-certificates.md
 - [20221006214348](/zet/20221006214348/README.md) ippsec
-
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221008215655](/zet/20221008215655/README.md) user account

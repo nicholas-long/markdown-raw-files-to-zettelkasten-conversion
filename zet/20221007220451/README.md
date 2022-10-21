@@ -12,6 +12,7 @@ hacking notes hub
 
 # Related
 
+- [20221003150275](/zet/20221003150275/README.md) firefox reverse shell toolbar hacktools
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
 - [20221003150966](/zet/20221003150966/README.md) OSINT
 - [20221003151223](/zet/20221003151223/README.md) identify linux version from service version

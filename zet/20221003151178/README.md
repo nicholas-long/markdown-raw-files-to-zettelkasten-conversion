@@ -73,6 +73,7 @@
 
 # Related
 
+- [20221014185622](/zet/20221014185622/README.md) kb file named kb/hacking/to-try-lists/got-source-code.md
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
 - [20221003151023](/zet/20221003151023/README.md) analyzing source code
 - [20221003151021](/zet/20221003151021/README.md) analyzing source code PHP code

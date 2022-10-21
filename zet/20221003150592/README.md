@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221003150571](/zet/20221003150571/README.md) PHP unserialize payload gadget chains
 - [20221003150590](/zet/20221003150590/README.md) php code examples
 - [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells
 - [20221014185953](/zet/20221014185953/README.md) kb file named kb/hacking/php/PHP-quick-command-reference.md

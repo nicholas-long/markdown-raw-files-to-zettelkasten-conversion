@@ -10,7 +10,6 @@
 # Related
 
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
-
 - [20221016233648](/zet/20221016233648/README.md) commits for day of 2022-08-18
 - [20221016233623](/zet/20221016233623/README.md) commits for day of 2022-08-02
 - [20221016233739](/zet/20221016233739/README.md) commits for day of 2022-09-28

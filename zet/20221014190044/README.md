@@ -10,7 +10,6 @@
 # Related
 
 - [20221003150459](/zet/20221003150459/README.md) openssl cipher commands encrypt text
-
 - [20221016233512](/zet/20221016233512/README.md) commits for day of 2022-05-31
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003151443](/zet/20221003151443/README.md) kb

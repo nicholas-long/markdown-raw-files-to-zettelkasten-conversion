@@ -5,6 +5,7 @@ convert shadow file to passwd file with hashes for john
 
 # Related
 
+- [20221014190100](/zet/20221014190100/README.md) kb file named kb/hacking/misc/assorted-tools.md
 - [20221013192245](/zet/20221013192245/README.md) cracking hashes
 - [20221008215139](/zet/20221008215139/README.md) hash / checksum
 - [20221013185406](/zet/20221013185406/README.md) etc passwd file on linux
