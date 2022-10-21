@@ -9,6 +9,7 @@
 
 # Related
 
+- [20221009102918](/zet/20221009102918/README.md) get titles in tag links
 - [20221010044240](/zet/20221010044240/README.md) titles of nodes should repopulate
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas

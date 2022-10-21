@@ -14,6 +14,7 @@
 
 # Related
 
+- [20221009102918](/zet/20221009102918/README.md) get titles in tag links
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221009172522](/zet/20221009172522/README.md) obsidian
 - [20221009172351](/zet/20221009172351/README.md) markdown file format
