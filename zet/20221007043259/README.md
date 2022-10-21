@@ -30,6 +30,9 @@
   - spoken languages
   - i.e. the hub for programs is still a list of programs if its title is changed
 - context/frame could be represented as the depth you have to traverse from any card to find a set of specific keywords ?
+- auto create cards from tmux buffers in private zk ?
+  - not very safe
+  - really cool
 
 ## move this stuff to cards it is growing kinda big
 
