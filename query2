@@ -1,0 +1,71 @@
+#!/bin/bash
+
+buf=$(mktemp)
+temp=$(mktemp)
+joined=$(mktemp)
+
+interpret="$0"
+human=0
+
+ls zet | awk '/^[0-9]+/' | sort -u > $buf
+while [[ $# -gt 0 ]]; do
+  #echo "parsing $1" > /dev/stderr
+  if [[ "$1" =~ ^@.*$ ]]; then
+    temp="$1"
+    tagname=${temp//@/}
+    #echo "read tags $tagname" > /dev/stderr
+    filename="tagindex/$tagname.md"
+    if [ ! -f "$filename" ]; then
+      echo "no tags for $tagname" > /dev/stderr
+      exit 1
+    fi
+    implementation/parseids tagindex/$tagname.md | sort -u > $temp
+    join $buf $temp > $joined
+    cp "$joined" "$buf"
+  elif [[ "$1" == '--human' ]]; then # human readable argument
+    human=1
+  elif [[ "$1" == 'like' ]]; then
+    shift
+    pattern="$1"
+    #echo "like $pattern" > /dev/stderr
+    awk '{print "zet/" $0 "/README.md"}' $buf |\
+      xargs grep "$pattern" |\
+      cut -d : -f 1 | implementation/parseids | sort -u > $temp
+    join $buf $temp > $joined
+    cp "$joined" "$buf"
+  elif [[ "$1" == ':' ]]; then
+    cat $buf | xargs -n 1 ./zc refs | sort -u > $temp
+    cp "$temp" "$buf"
+  elif [[ "$1" == 'id' ]]; then
+    shift
+    echo $1 > $temp
+    join $buf $temp > $joined
+    cp "$joined" "$buf"
+  fi
+  #echo "buffer contents:" > /dev/stderr
+  #cat $buf > /dev/stderr
+  shift
+  if [ "$(wc -l $buf | awk '{print $1}')" -eq 0 ]; then
+    echo "no more results" > /dev/stderr
+    break
+  fi
+done
+if [ $human == 0 ]; then
+  cat $buf
+else
+  awk '{
+    id = $0
+    command = "head -n 1 zet/" id "/README.md"
+    command | getline header
+    close(command)
+    gsub(/# /,"",header)
+    command = "tail -n 1 zet/" id "/README.md"
+    command | getline tags
+    close(command)
+    gsub(/^ +/,"",tags)
+    print "- [" id "](/zet/" id "/README.md)", header, tags
+  }' $buf
+fi
+rm "$buf"
+rm "$temp"
+rm "$joined"
