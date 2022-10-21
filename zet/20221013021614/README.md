@@ -10,6 +10,7 @@
   - `tab`         - if running in tmux, open multiple other links in new tmux windows (like browser tabs)
   - `edit`        - edit card in vim
   - `/deep`       - deep keyword search combining links, titles, content, and fzf fuzzy finding. launches new tmux windows if tmux is running.
+  - `~`           - return to home page
   - `spawn`       - create a new zettel card linked to here. enter title at prompt. new card is available to navigate and edit immediately.
   - `xfer`        - copy between cards easily by selecting other card from links to open in vim tabs
   - `link`        - insert many links with fzf fuzzy finder
