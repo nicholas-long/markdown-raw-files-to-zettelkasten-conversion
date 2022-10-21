@@ -15,4 +15,4 @@ node for tryhackme.
 
 Tags:
 
-    #hacking 
+    #hacking #boxes #company

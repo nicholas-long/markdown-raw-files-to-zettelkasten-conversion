@@ -23,4 +23,4 @@ node for hackthebox.
 
 Tags:
 
-    #hacking
+    #hacking #boxes #company

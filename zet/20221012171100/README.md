@@ -8,7 +8,6 @@ zet/20221012171100/README.md
 ```
 ```
 
-
 # Related
 
 - [20221020230420](/zet/20221020230420/README.md) test node 2 bar
