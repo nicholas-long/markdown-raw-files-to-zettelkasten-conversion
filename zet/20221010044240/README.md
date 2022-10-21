@@ -10,7 +10,6 @@
 # Related
 
 - [20221021202250](/zet/20221021202250/README.md) put all the link titles in square brackets and automatically update them
-
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221003151338](/zet/20221003151338/README.md) awk scripting
