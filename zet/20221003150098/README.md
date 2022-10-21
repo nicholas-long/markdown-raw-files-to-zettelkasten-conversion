@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221021202250](/zet/20221021202250/README.md) put all the link titles in square brackets and automatically update them
 - [20221019220305](/zet/20221019220305/README.md) combine common commands and enum quick commands
 - [20221018182017](/zet/20221018182017/README.md) read bash man page
 - [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf

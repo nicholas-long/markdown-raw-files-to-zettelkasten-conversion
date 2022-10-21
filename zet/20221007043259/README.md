@@ -101,6 +101,7 @@
 
 # Related
 
+- [20221021202250](/zet/20221021202250/README.md) put all the link titles in square brackets and automatically update them
 - [20221020193850](/zet/20221020193850/README.md) what is knowledge management
 - [20221020051510](/zet/20221020051510/README.md) knowledge operations ideas
 - [20221020053629](/zet/20221020053629/README.md) parse mermaid syntax and use to generate set of linked cards
