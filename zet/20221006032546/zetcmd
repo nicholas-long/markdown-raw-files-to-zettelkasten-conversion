@@ -401,7 +401,16 @@ EOF
           t = $n
           gsub(/^#/,"",t)
           if (!(t in ignore)) {
-            print "- [" $2 "](/zet/" $2 "/README.md)" | ("sort -u > tagindex/" t ".md")
+            if ($2 in heading_for) {
+              heading = heading_for[$2]
+            } else {
+              headingcmd = "head zet/" $2 "/README.md"
+              headingcmd | getline heading
+              close(headingcmd)
+              gsub(/^# /,"",heading)
+              heading_for[$2] = heading
+            }
+            print "- [" $2 "](/zet/" $2 "/README.md) " heading | ("sort -u > tagindex/" t ".md")
           }
         }
       }
