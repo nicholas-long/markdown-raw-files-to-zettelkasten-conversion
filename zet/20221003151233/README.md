@@ -16,7 +16,6 @@ select binary @shell into dumpfile '/path/to/file/file.so';
 
 - [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi
 - [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
-- [20221003151234](/zet/20221003151234/README.md) mysql mariadb UDF shell
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221014185545](/zet/20221014185545/README.md) kb file named kb/hacking/tricks/mysql-tricks.md

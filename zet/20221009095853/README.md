@@ -11,7 +11,6 @@ things that are finished.
 - [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221019144206](/zet/20221019144206/README.md) this should all be linked to powershell and to try lists
 - [20221019143924](/zet/20221019143924/README.md) link all this up to AD and to try list
-- [20221019014416](/zet/20221019014416/README.md) enormous commit bigboi
 - [20221012094712](/zet/20221012094712/README.md) linux sort issues with locale
 - [20221016161034](/zet/20221016161034/README.md) one mix netbook standby issues in linux
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
@@ -39,7 +38,6 @@ things that are finished.
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221004212452](/zet/20221004212452/README.md) keyword stuffing zettels to fix bash sh
 - [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch
-- [20221006141216](/zet/20221006141216/README.md) weird issue with enrich
 
 Tags:
 

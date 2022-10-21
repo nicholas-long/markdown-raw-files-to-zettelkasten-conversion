@@ -44,7 +44,6 @@ kb/vim/spacevim-set-bindings.md
 
 # Related
 
-- [20221019014416](/zet/20221019014416/README.md) enormous commit bigboi
 - [20221016233429](/zet/20221016233429/README.md) commits for day of 2022-04-28
 - [20221014185502](/zet/20221014185502/README.md) kb file named kb/vim/spacevim-set-bindings.md
 - [20221014190215](/zet/20221014190215/README.md) kb file named kb/tmux/get-ctrl-h-to-work.md

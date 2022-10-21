@@ -4,7 +4,6 @@
 
 # Related
 
-- [20221003151151](/zet/20221003151151/README.md) windows XP and windows server 2003 MOF file RCE
 - [20221003151150](/zet/20221003151150/README.md) windows XP and windows server 2003 write arbitrary MOF file for remote code execution
 - [20221003151153](/zet/20221003151153/README.md) windows
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits

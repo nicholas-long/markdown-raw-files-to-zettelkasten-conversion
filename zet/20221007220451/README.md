@@ -123,7 +123,6 @@ hacking notes hub
 - [20221003151076](/zet/20221003151076/README.md) service account privileges exploiting
 - [20221003150336](/zet/20221003150336/README.md) ansible exploiting playbook priv esc backdoor
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
-- [20221003150878](/zet/20221003150878/README.md) dirty cow privilege escalation working version
 - [20221003150725](/zet/20221003150725/README.md) openssl and ssh view public key of a private key
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - [20221003150721](/zet/20221003150721/README.md) openssl pfx p12 file PKCS12 export pfx private key

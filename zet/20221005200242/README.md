@@ -74,7 +74,6 @@ this is a list of possibly empty zettels.
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - [20221003151155](/zet/20221003151155/README.md) linux hardening
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
-- [20221003151151](/zet/20221003151151/README.md) windows XP and windows server 2003 MOF file RCE
 - [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec
 - [20221003151144](/zet/20221003151144/README.md) active directory 
 - [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions
@@ -84,7 +83,6 @@ this is a list of possibly empty zettels.
 - [20221003151110](/zet/20221003151110/README.md) dos commands admin / system
 - [20221003151108](/zet/20221003151108/README.md) dos commands net
 - [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
-- [20221003151103](/zet/20221003151103/README.md) DOS commands
 - [20221003151101](/zet/20221003151101/README.md) powershell commands
 - [20221003151099](/zet/20221003151099/README.md) powershell commands encoded command nop bypass hidden
 - [20221003151094](/zet/20221003151094/README.md) windows API
@@ -126,7 +124,6 @@ this is a list of possibly empty zettels.
 - [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
 - [20221003150884](/zet/20221003150884/README.md) privilege escalation relative path abuse
 - [20221003150879](/zet/20221003150879/README.md) dirty cow privilege escalation
-- [20221003150878](/zet/20221003150878/README.md) dirty cow privilege escalation working version
 - [20221003150876](/zet/20221003150876/README.md) sudo sudoers file
 - [20221003150873](/zet/20221003150873/README.md) host quick server
 - [20221003150866](/zet/20221003150866/README.md) two-factor authentication 2fa

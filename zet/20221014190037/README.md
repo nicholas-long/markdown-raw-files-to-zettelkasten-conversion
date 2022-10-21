@@ -28,7 +28,6 @@
 - [20221003150477](/zet/20221003150477/README.md) general enumeration Active Directory Certificate Services is AD CS enabled
 - [20221003150481](/zet/20221003150481/README.md) general enumeration get list of filepaths recursively
 - [20221003150488](/zet/20221003150488/README.md) active directory
-- [20221003150478](/zet/20221003150478/README.md) general enumeration Active Directory Certificate Services
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

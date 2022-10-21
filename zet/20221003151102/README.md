@@ -9,7 +9,6 @@ certutil.exe -urlcache -split -f "https://download.sysinternals.com/files/PSTool
 
 - [20221014185658](/zet/20221014185658/README.md) kb file named kb/hacking/windows/windows-reverse-shell.md
 - [20221003151124](/zet/20221003151124/README.md) dos commands
-- [20221003151103](/zet/20221003151103/README.md) DOS commands
 - ~/kb/hacking/windows/windows-reverse-shell.md
 
 Tags:

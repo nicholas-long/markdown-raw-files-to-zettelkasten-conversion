@@ -119,7 +119,6 @@ Options:
 - [20221006140520](/zet/20221006140520/README.md) zet cmd spawn feature
 - [20221007205652](/zet/20221007205652/README.md) find limit recusion depth
 - [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
-- [20221006141216](/zet/20221006141216/README.md) weird issue with enrich
 - [20221012220453](/zet/20221012220453/README.md) unlink should be easier
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process

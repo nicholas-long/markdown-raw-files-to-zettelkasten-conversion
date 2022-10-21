@@ -285,7 +285,6 @@
 - [20221003150434](/zet/20221003150434/README.md) HTML preview report input list of HTTP(s) sites attack surface with aquatone
 - [20221003151181](/zet/20221003151181/README.md) HTTP compromised CMS login CMS auth code exec / becoming web user
 - [20221003151410](/zet/20221003151410/README.md) bash scripting get raw HTTP request data from burp saved request
-- [20221003150848](/zet/20221003150848/README.md) hydra brute force HTTP basic authentication also works for NTLM
 - [20221003151425](/zet/20221003151425/README.md) awk scripting get HTTP POST content from HTTP request stream
 - [20221003150639](/zet/20221003150639/README.md) nmap bruteforce HTTP authentication (including NTLM)
 - [20221003150743](/zet/20221003150743/README.md) hydra brute force HTTP Basic Authentication
