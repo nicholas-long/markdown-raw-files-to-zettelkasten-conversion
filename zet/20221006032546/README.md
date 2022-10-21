@@ -3,7 +3,12 @@
 ![screenshot of graph explorer](/zet/20221010184202/Screenshot_2022-10-14_014740.png)
 
 name: zc
-- fzf selection window to select lots of references or spawn new nodes
+- run with `./zc menu` - interactive menu loop with fzf prompt for speed
+- `browser` - fzf interactive markdown preview browsser that can traverse and edit links
+  - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+  - the full TUI implementation that will be released?
+  - can launch new tmux windows if tmux is running
+  - fzf selection window to select lots of references or spawn new nodes
 - github actions
   - automatically enrich and make references bidirectional
 - graph data entry and linking tool
@@ -12,16 +17,15 @@ name: zc
     - `echo "$(pwd)/zc \$@" > ~/.local/bin/z`
       - make sure `$HOME/.local/bin` is in your path
       - still trying to figure out this shortcut since it's not perfect
-- run with `z menu` - interactive menu loop with fzf prompt for speed
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
-- browsing - fzf interactive markdown preview browsser that can traverse and edit links
-  - can launch new tmux windows if tmux is running
+- graph query language for scripting
+  - [20221013221136](/zet/20221013221136/README.md) graph query language
 
-- TODO: dependencies?
+- dependencies
+  - vim or nvim
   - fzf
   - bat (the real one, not the kali package)
   - lazygit
-- needs a docker
 
 - help text
 ```
@@ -51,32 +55,35 @@ Options:
 
 # Related
 
+- [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
+- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221013221136](/zet/20221013221136/README.md) implement a graph query language
+- [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
+- [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
+- [20221014074318](/zet/20221014074318/README.md) important choices of tech stack
+- [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
+- [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
+- [20221013203732](/zet/20221013203732/README.md) feels like "being plugged into the matrix"
+- [20221014070023](/zet/20221014070023/README.md) findings from implementing deep connectome search
+- [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221020183231](/zet/20221020183231/README.md) how to get titles to show up in obsidian graph
+- [20221011145143](/zet/20221011145143/README.md) bat command pretty printer
 - [20221018201513](/zet/20221018201513/README.md) make a script to get the context of a card - word counts
 - [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221014201909](/zet/20221014201909/README.md) add lazygit to dockerfile for zet cmd
 - [20221014190239](/zet/20221014190239/README.md) kb file named kb/bash-scripting/check-empty-var.md
-- [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
+- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
+- [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 - [20221014154703](/zet/20221014154703/README.md) lazygit program
-- [20221014074318](/zet/20221014074318/README.md) important choices of tech stack
-- [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
-- [20221014070023](/zet/20221014070023/README.md) findings from implementing deep connectome search
-- [20221013221136](/zet/20221013221136/README.md) implement a graph query language
 - [20221013214821](/zet/20221013214821/README.md) check for command injection
-- [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
-- [20221013203732](/zet/20221013203732/README.md) feels like "being plugged into the matrix"
 - [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
-- [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221009162948](/zet/20221009162948/README.md) useful vim hotkeys for zettelkasten
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
-- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
-- [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 - [20221007193634](/zet/20221007193634/README.md) example github actions scripts
 - [20221007181438](/zet/20221007181438/README.md) directories and bash scripts as commands
 - [20221006032933](/zet/20221006032933/README.md) problems / issues with zet cmd
@@ -84,7 +91,6 @@ Options:
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method
-- [20221011145143](/zet/20221011145143/README.md) bat command pretty printer
 - [20221012102630](/zet/20221012102630/README.md) search other knowledge bases for links during spawn
 - [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn
 - [20221012102144](/zet/20221012102144/README.md) preview window for menu
@@ -110,9 +116,7 @@ Options:
 - [20221009162538](/zet/20221009162538/README.md) add menu
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221009091132](/zet/20221009091132/README.md) new links should come in at the bottom
-- [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221008210746](/zet/20221008210746/README.md) use title of zettel as fzf prompt
-- [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
