@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003150116](/zet/20221003150116/README.md) Socat over proxy
 - [20221003150115](/zet/20221003150115/README.md) socat
 - [20221003150114](/zet/20221003150114/README.md) socat port forwarding with socat
