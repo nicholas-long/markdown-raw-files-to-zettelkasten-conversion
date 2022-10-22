@@ -6,6 +6,7 @@ things that are finished.
 
 # Related
 
+- [20221022000131](/zet/20221022000131/README.md) put tmux and vim rc config in dockerfile
 - [20221009102918](/zet/20221009102918/README.md) get titles in tag links
 - [20221013221136](/zet/20221013221136/README.md) implement a graph query language
 - [20221018161819](/zet/20221018161819/README.md) did i link a bunch of weird enumeration stuff together?
