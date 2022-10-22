@@ -8,7 +8,8 @@
 
 # Related
 
-- [20221003151213](/zet/20221003151213/README.md) got leaked files TRY
+- [20221022210052](/zet/20221022210052/README.md) file type reference
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150791](/zet/20221003150791/README.md) openssl
 - [20221013185120](/zet/20221013185120/README.md) concept of cryptography

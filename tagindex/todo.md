@@ -79,3 +79,4 @@
 - [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
 - [20221018182017](/zet/20221018182017/README.md) read bash man page
+- [20221022210719](/zet/20221022210719/README.md) assorted information

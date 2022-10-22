@@ -10,7 +10,6 @@
 # Related
 
 - [20221022210719](/zet/20221022210719/README.md) assorted information
-
 - [20221016233710](/zet/20221016233710/README.md) commits for day of 2022-09-07
 - [20221016233512](/zet/20221016233512/README.md) commits for day of 2022-05-31
 - [20221016233644](/zet/20221016233644/README.md) commits for day of 2022-08-16

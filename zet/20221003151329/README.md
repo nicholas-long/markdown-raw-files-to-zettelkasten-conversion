@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
 - [20221019141821](/zet/20221019141821/README.md) terminalforlife bash scripting youtuber
 - [20221014190232](/zet/20221014190232/README.md) kb file named kb/scripts.md
 - [20221003150191](/zet/20221003150191/README.md) zsh

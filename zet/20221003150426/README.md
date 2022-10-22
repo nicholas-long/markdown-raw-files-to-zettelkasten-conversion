@@ -5,6 +5,7 @@ https://github.com/ptoomey3/evilarc
 
 # Related
 
+- [20221022210052](/zet/20221022210052/README.md) file type reference
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation

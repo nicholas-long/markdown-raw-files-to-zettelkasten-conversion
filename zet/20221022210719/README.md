@@ -10,10 +10,9 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221013185251](/zet/20221013185251/README.md) general information concept FYI
-
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands
-
 - [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
 - [20221003150305](/zet/20221003150305/README.md) modify date with touch timestomping set destination file date the same as source file date
 - [20221003150302](/zet/20221003150302/README.md) plus sign in ls output file ACL

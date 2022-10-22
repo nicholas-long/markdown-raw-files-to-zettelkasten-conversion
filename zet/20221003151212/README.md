@@ -6,6 +6,7 @@
 
 # Related
 
+- [20221022210052](/zet/20221022210052/README.md) file type reference
 - [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
 - [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists

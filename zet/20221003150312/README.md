@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221022210719](/zet/20221022210719/README.md) assorted information
 - [20221003150600](/zet/20221003150600/README.md) impacket
 - [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
 - [20221014164014](/zet/20221014164014/README.md) protocol for application communication

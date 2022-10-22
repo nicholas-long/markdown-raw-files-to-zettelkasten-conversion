@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
 - [20221003150942](/zet/20221003150942/README.md) python imports
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150600](/zet/20221003150600/README.md) impacket

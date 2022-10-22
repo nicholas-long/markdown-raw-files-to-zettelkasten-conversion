@@ -8,6 +8,7 @@ tar -czvf archive.tar.gz dirs_files
 
 # Related
 
+- [20221022210052](/zet/20221022210052/README.md) file type reference
 - [20221014190204](/zet/20221014190204/README.md) kb file named kb/linux/tar-commands.md
 - [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221009014200](/zet/20221009014200/README.md) concept of a command

@@ -494,3 +494,5 @@
 - [20221021202250](/zet/20221021202250/README.md) put all the link titles in square brackets and automatically update them
 - [20221021221931](/zet/20221021221931/README.md) cache headings
 - [20221022000131](/zet/20221022000131/README.md) put tmux and vim rc config in dockerfile
+- [20221022210052](/zet/20221022210052/README.md) file type reference
+- [20221022210719](/zet/20221022210719/README.md) assorted information

@@ -4,6 +4,7 @@
 
 # Related
 
+- [20221022210719](/zet/20221022210719/README.md) assorted information
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221014190157](/zet/20221014190157/README.md) kb file named kb/linux/os-pseudo-filesystem-data-commands.md
 - [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump

@@ -12,6 +12,7 @@ go run file.go
 
 # Related
 
+- [20221022210719](/zet/20221022210719/README.md) assorted information
 - [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
 - [20221003150299](/zet/20221003150299/README.md) fixing golang module errors
 - ~/kb/hacking/misc/assorted-information.md

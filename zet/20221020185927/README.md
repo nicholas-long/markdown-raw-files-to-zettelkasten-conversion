@@ -55,11 +55,8 @@ zet/20221003151440/README.md ~/kb/awk-scripting/colorize.awk
 # Related
 
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
-
 - [20221003151363](/zet/20221003151363/README.md) python scripting
-
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
-
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221020160107](/zet/20221020160107/README.md) zettels with kb script paths to fix

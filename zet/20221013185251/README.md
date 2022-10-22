@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221022210719](/zet/20221022210719/README.md) assorted information
 - [20221018193528](/zet/20221018193528/README.md) bash shell builtin commands
 - [20221003151235](/zet/20221003151235/README.md) mysql mariadb display query output as pretty printed text with column names
 - [20221012061227](/zet/20221012061227/README.md) scared of using vim to take notes?
