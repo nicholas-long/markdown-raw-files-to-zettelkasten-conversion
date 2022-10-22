@@ -7,6 +7,7 @@ this file is markdown.
 
 # Related
 
+- [20221022232952](/zet/20221022232952/README.md) pandoc markdown format converter
 - [20221020183231](/zet/20221020183231/README.md) how to get titles to show up in obsidian graph
 - [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams
 - [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
