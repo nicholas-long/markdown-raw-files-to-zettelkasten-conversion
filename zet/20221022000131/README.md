@@ -13,7 +13,10 @@
 
 ```
 touch zet/20221022000131/tmux.conf
-touch zet/20221022000131/vimrc.vim
+touch zet/20221022000131/vimrc
+
+touch zet/20221022000131/entrypoint
+chmod +x zet/20221022000131/entrypoint
 
 ```
 
