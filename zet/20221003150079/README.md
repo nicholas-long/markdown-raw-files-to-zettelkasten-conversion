@@ -10,6 +10,7 @@
 
 # Related
 
+- [20221022000131](/zet/20221022000131/README.md) put tmux and vim rc config in dockerfile
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221003150078](/zet/20221003150078/README.md) tmux get current pane
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow

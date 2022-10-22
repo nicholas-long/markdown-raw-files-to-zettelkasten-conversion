@@ -6,6 +6,7 @@
 
 # Related
 
+- [20221022000131](/zet/20221022000131/README.md) put tmux and vim rc config in dockerfile
 - [20221003150072](/zet/20221003150072/README.md) Set spacevim record key back to [Q]
 - [20221003150071](/zet/20221003150071/README.md) vim edit multiple files
 - [20221014185505](/zet/20221014185505/README.md) kb file named kb/vim/vim.md

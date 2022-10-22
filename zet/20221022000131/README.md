@@ -17,14 +17,11 @@
 
 # Related
 
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221008042814](/zet/20221008042814/README.md) WIP
-
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept
-
 - [20221003150079](/zet/20221003150079/README.md) tmux
-
 - [20221003150067](/zet/20221003150067/README.md) vim
-
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 
 Tags:
