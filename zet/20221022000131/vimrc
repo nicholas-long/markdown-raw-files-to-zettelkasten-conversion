@@ -1,0 +1,16 @@
+" Nicholas Long
+" not doing a very complicated config yet. stick to basics. add a few features
+" that are practical.
+set expandtab
+set tabstop=2
+set shiftwidth=2
+set number
+set relativenumber
+set noerrorbells
+set nocompatible              " be iMproved, required
+filetype off                  " required
+"set list listchars=tab:▸\ ,eol:¬,trail:·
+"set list
+"set nowrap
+
+imap jk <Esc>
