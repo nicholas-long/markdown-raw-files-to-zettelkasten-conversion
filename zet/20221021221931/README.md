@@ -4,6 +4,7 @@
 - make a file to cache them
 - load them quickly in awk scripts
 - speed up enrich process
+- use to update link titles
 
 ```
 ```
@@ -11,6 +12,8 @@
 ` zet/20221021221931/README.md `
 
 # Related
+
+- [20221021202250](/zet/20221021202250/README.md) put all the link titles in square brackets and automatically update them
 
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
 - [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process
