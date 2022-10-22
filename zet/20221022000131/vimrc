@@ -13,4 +13,7 @@ filetype off                  " required
 "set list
 "set nowrap
 
+" jk to exit insert mode quickly if you don't have easy Esc
 imap jk <Esc>
+" tab to open a markdown link
+nmap <Tab> /zet<CR>"zyt):e <C-r>z<CR>

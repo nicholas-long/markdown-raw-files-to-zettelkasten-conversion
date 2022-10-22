@@ -6,10 +6,11 @@
 - custom vim hotkeys or plugins needed
   - open markdown links
   - colors
-- use tmux prefix key ctrl-a to be familiar for people?
-- make unicode work in tmux - set env var and `-u`
 - enable mouse in vim and tmux
-- store files in this card and include from Dockerfile
+- added docker entrypoint here
+- added tmux and vim rc files and put in Dockerfile
+- use tmux prefix key ctrl-a to be familiar for people
+- add vim hotkey tab to open markdown links
 
 ```
 touch zet/20221022000131/tmux.conf
