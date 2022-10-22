@@ -496,3 +496,4 @@
 - [20221022210052](/zet/20221022210052/README.md) file type reference
 - [20221022210719](/zet/20221022210719/README.md) assorted information
 - [20221022232030](/zet/20221022232030/README.md) save fzf completion history for each card
+- [20221022232615](/zet/20221022232615/README.md) defcon video notes

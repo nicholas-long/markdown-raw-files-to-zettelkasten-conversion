@@ -9,6 +9,7 @@ node for video notes.
 
 # Related
 
+- [20221022232615](/zet/20221022232615/README.md) defcon video notes
 - [20221020193850](/zet/20221020193850/README.md) what is knowledge management
 - [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource

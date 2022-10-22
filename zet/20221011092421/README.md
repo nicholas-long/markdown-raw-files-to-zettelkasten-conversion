@@ -15,6 +15,7 @@ to do next:
 
 # Related
 
+- [20221022232615](/zet/20221022232615/README.md) defcon video notes
 - [20221003150966](/zet/20221003150966/README.md) OSINT
 - [20221017033638](/zet/20221017033638/README.md) Funday Sunday: Taking down the INSANE-ranked TryHackMe's Takedown alh4zr3d
 - [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
