@@ -1,5 +1,9 @@
 # tmux
 
+- config rc file
+  - `$HOME/.tmux.conf`
+  - `/etc/tmux.conf`
+
 - [20221010222312](/zet/20221010222312/README.md) workflow
 - [20221008050923](/zet/20221008050923/README.md) buffers as bash script pipe debug file buffer
 - [20221003150076](/zet/20221003150076/README.md) swap panes

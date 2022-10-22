@@ -9,8 +9,12 @@
 - use tmux prefix key ctrl-a to be familiar for people?
 - make unicode work in tmux - set env var and `-u`
 - enable mouse in vim and tmux
+- store files in this card and include from Dockerfile
 
 ```
+touch zet/20221022000131/tmux.conf
+touch zet/20221022000131/vimrc.vim
+
 ```
 
 ` zet/20221022000131/README.md `
