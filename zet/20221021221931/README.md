@@ -12,7 +12,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
 - [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process
 - [20221008042814](/zet/20221008042814/README.md) WIP

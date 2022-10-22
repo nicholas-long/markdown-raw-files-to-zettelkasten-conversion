@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003150929](/zet/20221003150929/README.md) C setuid suid backdoor exploit
 - [20221003151291](/zet/20221003151291/README.md) C template readline prompt
 - [20221003151290](/zet/20221003151290/README.md) C template copy/pipe output to/from processes with popen fgetc fputc

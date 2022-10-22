@@ -24,7 +24,6 @@ chmod +x zet/20221022000131/entrypoint
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept
 - [20221003150079](/zet/20221003150079/README.md) tmux
