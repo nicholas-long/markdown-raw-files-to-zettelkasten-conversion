@@ -32,7 +32,6 @@ ln -s zet/20221013021614/ browser
 # Related
 
 - [20221022232030](/zet/20221022232030/README.md) save fzf completion history for each card
-
 - [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn
 - [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
 - [20221015021344](/zet/20221015021344/README.md) graph explorer does not let you add 0 links or back out of link screen

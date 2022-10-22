@@ -73,7 +73,6 @@
 - [20221012220453](/zet/20221012220453/README.md) unlink should be easier
 - [20221012221003](/zet/20221012221003/README.md) weird related bug documents
 - [20221013005916](/zet/20221013005916/README.md) ability to move a link from one node to another
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221013175957](/zet/20221013175957/README.md) serialization concept
 - [20221013195816](/zet/20221013195816/README.md) ability to spawn from an existing card
 - [20221013203732](/zet/20221013203732/README.md) feels like "being plugged into the matrix"
@@ -496,3 +495,4 @@
 - [20221022000131](/zet/20221022000131/README.md) put tmux and vim rc config in dockerfile
 - [20221022210052](/zet/20221022210052/README.md) file type reference
 - [20221022210719](/zet/20221022210719/README.md) assorted information
+- [20221022232030](/zet/20221022232030/README.md) save fzf completion history for each card

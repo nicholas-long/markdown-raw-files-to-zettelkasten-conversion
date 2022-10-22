@@ -97,10 +97,11 @@ usage: fzf [options]
 
 # Related
 
+- [20221022232030](/zet/20221022232030/README.md) save fzf completion history for each card
 - [20221014190236](/zet/20221014190236/README.md) kb file named kb/fzf-fuzzy-find/help.md
 - [20221014153143](/zet/20221014153143/README.md) scroll preview window
 - [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn
-- [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf?
+- [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf
 - [20221009162538](/zet/20221009162538/README.md) add menu
 - [20221003151267](/zet/20221003151267/README.md) fzf
 - ~/kb/fzf-fuzzy-find/help.md

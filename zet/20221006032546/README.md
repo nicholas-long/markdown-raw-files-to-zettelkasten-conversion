@@ -55,6 +55,7 @@ Options:
 
 # Related
 
+- [20221022232030](/zet/20221022232030/README.md) save fzf completion history for each card
 - [20221021221931](/zet/20221021221931/README.md) cache headings
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
