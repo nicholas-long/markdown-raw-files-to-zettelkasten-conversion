@@ -1,10 +1,13 @@
 # scroll preview window
 
 - concept of `scroll preview window`
+- hotkeys to scroll in fzf are set by `--bind` option
 
 ```
        --preview-window=[POSITION][,SIZE[%]][,border-BORDER_OPT][,[no]wrap][,[no]follow][,[no]cycle][,[no]hidden][,+SCROLL[OFFSETS][/DE‐
        NOM]][,~HEADER_LINES][,default][,<SIZE_THRESHOLD(ALTERNATIVE_LAYOUT)]
+
+    --bind "pgup:preview-up,pgdn:preview-down" \
 ```
 
 ` zet/20221014153143/README.md `
