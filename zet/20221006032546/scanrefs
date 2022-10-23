@@ -15,7 +15,7 @@ function xrefid(id1,id2) {
 }
 BEGIN {
   FS="\t"
-  while (("id_headings" | getline) > 0){
+  while ((getline < "id_headings") > 0){
     ids[$1] = 1
     heading[$1] = $3
   }
