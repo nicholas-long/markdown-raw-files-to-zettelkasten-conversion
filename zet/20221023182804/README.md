@@ -4,6 +4,8 @@
 - useful feature to have
 - tagindex pages are human readable now
 - could browse to it by selecting a tag page from fzf menu
+- add `tagindex` option
+- needed to add some simple, silly filename logic to fzf history if you go to a tagindex page
 
 ```
 ```

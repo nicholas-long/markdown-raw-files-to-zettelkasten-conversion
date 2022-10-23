@@ -33,10 +33,12 @@ while [ 1 == "$going" ]; do
   if [[ "$doc" =~ zet/[0-9]+ ]]; then
     id=$(echo "$doc" | awk -F / '{ print $(NF-1) }')
   fi
+  id=${id//\//_} # make sure there's something in this variable to save as fzf history file
   awk '
   BEGIN {
     print "edit"
     print "/deep"
+    print "tagindex"
     print "back"
     print "xfer"
     print "~"
@@ -86,7 +88,13 @@ while [ 1 == "$going" ]; do
       print
     }' $selection)
     echo "changed to $doc"
+  elif [ "$act" == 'tagindex' ]; then
+    choice=$(ls tagindex | fzf)
+    prevdoc="$doc"
+    doc="tagindex/$choice"
+    echo "changed to $doc"
   elif [ "$act" == '~' ]; then
+    prevdoc="$doc"
     doc="README.md"
     echo "changed to $doc"
   elif [ "$act" == "unlink" ]; then
