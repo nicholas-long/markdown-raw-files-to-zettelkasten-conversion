@@ -302,10 +302,30 @@ EOF
     target="$title"
     f="zet/$target/README.md"
     d="zet/$target"
+    export linktoid="$arg"
     if [ -d "$d" ]; then
       if [ -f "$f" ]; then
-        sed -i -e '/^# Related/a \
-' -e "/^# Related/a - $arg" "$f"
+        replacefile=$(mktemp)
+        awk '
+          /^# Related/ { print; print ""; parsing = 1; next }
+          !parsing { print; next }
+          /^$/ { next }
+          /^Tags:/ {
+            line = $0
+            id = ENVIRON["linktoid"]
+            file = "zet/" id "/README.md"
+            getline < file
+            header = $0
+            gsub(/^# /,"",header)
+            print "-", "[" id "](/zet/" id "/README.md)", header
+            print ""
+            print line
+            print ""
+            next
+          }
+          { print }
+        ' "$f" > $replacefile
+        mv "$replacefile" "$f"
       fi
     fi
     ;;
