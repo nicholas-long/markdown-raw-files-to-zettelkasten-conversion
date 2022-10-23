@@ -6,7 +6,6 @@ stuff i am working on.
 
 # Related
 
-- [20221023182804](/zet/20221023182804/README.md) browse to tagindex pages
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 - [20221022232615](/zet/20221022232615/README.md) defcon video notes
