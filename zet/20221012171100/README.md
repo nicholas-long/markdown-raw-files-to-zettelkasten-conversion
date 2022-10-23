@@ -10,10 +10,9 @@ zet/20221012171100/README.md
 
 # Related
 
-- [20221022232952](/zet/20221022232952/README.md) pandoc markdown format converter
-- [20221022232615](/zet/20221022232615/README.md) defcon video notes
-- [20221022232030](/zet/20221022232030/README.md) save fzf completion history for each card
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
+- [20221023084432](/zet/20221023084432/README.md) graph theory
+- [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 
 Tags:
 

@@ -28,7 +28,6 @@ History
 
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221003151267](/zet/20221003151267/README.md) fzf
 - [20221003151264](/zet/20221003151264/README.md) fzf Help

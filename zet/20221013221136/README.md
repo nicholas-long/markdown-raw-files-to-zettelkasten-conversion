@@ -46,7 +46,7 @@
 - [20221008054439](/zet/20221008054439/README.md) graph database
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
-- [20221023085822](/zet/20221023085822/README.md) implement paths or tables
+- [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 
 Tags:
 

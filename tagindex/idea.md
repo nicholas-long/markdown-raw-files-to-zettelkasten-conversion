@@ -497,3 +497,5 @@
 - [20221022210719](/zet/20221022210719/README.md) assorted information
 - [20221022232030](/zet/20221022232030/README.md) save fzf completion history for each card
 - [20221022232615](/zet/20221022232615/README.md) defcon video notes
+- [20221023084432](/zet/20221023084432/README.md) graph theory
+- [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language

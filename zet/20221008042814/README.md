@@ -76,6 +76,7 @@ stuff i am working on.
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221003150098](/zet/20221003150098/README.md) todo
+- [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 
 Tags:
 
