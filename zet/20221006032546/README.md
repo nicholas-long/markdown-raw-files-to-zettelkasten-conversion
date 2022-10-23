@@ -49,7 +49,7 @@ Options:
 
 - i think the project should be broken into 2 parts
   - graph browser, linker, editor, git workflow
-  - console utility (colelction of scripts)
+  - console utility (collection of scripts)
 
 ` zet/20221006032546/README.md `
 
