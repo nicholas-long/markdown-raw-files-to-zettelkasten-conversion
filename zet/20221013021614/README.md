@@ -8,6 +8,7 @@
 - menu options documentation
   - `goto ...`    - follow link
   - `tab`         - if running in tmux, open multiple other links in new tmux windows (like browser tabs)
+  - `tagindex`    - browse by tags
   - `edit`        - edit card in vim
   - `/deep`       - deep keyword search combining links, titles, content, and fzf fuzzy finding. launches new tmux windows if tmux is running.
   - `~`           - return to home page
@@ -26,6 +27,8 @@
 ```
 ln -s zet/20221013021614/ browser
 ```
+
+- changed preview hotkeys to page up and page down to match lazygit hotkeys
 
 ` zet/20221013021614/README.md `
 
