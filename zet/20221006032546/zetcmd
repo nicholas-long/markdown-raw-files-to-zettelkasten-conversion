@@ -372,7 +372,6 @@ EOF
     ;;
   enrich)
     scanoutput=$(mktemp)
-    find zet -name README.md | xargs zet/$ZET_CMD_IMPLEMENTATION/scanrefs > $scanoutput
     # get all tags
     tail -n 1 zet/*/README.md | awk '/^    #/' | sed -e 's/^    //g' -e 's/ /\n/g' | LC_COLLATE=C sort -u -f > all_tags
     # get headings by parsing the output of calling the head command with many files
@@ -389,6 +388,8 @@ EOF
         gsub(/\/README.md/,"",id)
         print id, f, $0
       }' > id_headings
+
+    find zet -name README.md | xargs zet/$ZET_CMD_IMPLEMENTATION/scanrefs > $scanoutput
 
     # index tags
     rm -rf tagindex
