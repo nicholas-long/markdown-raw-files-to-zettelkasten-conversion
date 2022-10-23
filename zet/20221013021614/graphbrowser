@@ -151,6 +151,7 @@ while [ 1 == "$going" ]; do
     ./zc addref -t $id $newid
     ./zc enrich_links_single $id
     ./zc enrich_links_single $newid
+    #TODO: add fzf menu step to select more links like workflow loop
   elif [ "$act" == "stat" ]; then
     if which lazygit; then
       lazygit

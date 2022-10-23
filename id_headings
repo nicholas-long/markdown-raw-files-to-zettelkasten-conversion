@@ -1,0 +1,2245 @@
+20221003150064	zet/20221003150064/README.md	neovim specific diff
+20221003150065	zet/20221003150065/README.md	neovim specific
+20221003150066	zet/20221003150066/README.md	vim diff
+20221003150067	zet/20221003150067/README.md	vim
+20221003150068	zet/20221003150068/README.md	vim edit multiple files find and edit files recursively open in tabs
+20221003150069	zet/20221003150069/README.md	vim edit multiple files open multiple files
+20221003150070	zet/20221003150070/README.md	vim edit multiple files add args while running and converting into tabs
+20221003150071	zet/20221003150071/README.md	vim edit multiple files
+20221003150072	zet/20221003150072/README.md	Set spacevim record key back to [Q]
+20221003150073	zet/20221003150073/README.md	Run vim as a script on datafile, write to file `output`
+20221003150074	zet/20221003150074/README.md	tmux copy to buffer from bash pipes
+20221003150075	zet/20221003150075/README.md	tmux
+20221003150076	zet/20221003150076/README.md	tmux swap panes
+20221003150077	zet/20221003150077/README.md	tmux get current pane working directory
+20221003150078	zet/20221003150078/README.md	tmux get current pane
+20221003150079	zet/20221003150079/README.md	tmux
+20221003150080	zet/20221003150080/README.md	ctrl H does not work as a hotkey in qterminal by default 
+20221003150081	zet/20221003150081/README.md	tmux box art enable
+20221003150082	zet/20221003150082/README.md	bash scripts sh setup aliases
+20221003150083	zet/20221003150083/README.md	bash scripts sh package it all
+20221003150084	zet/20221003150084/README.md	bash scripts sh oracle
+20221003150085	zet/20221003150085/README.md	bash scripts sh named pipe to netcat
+20221003150086	zet/20221003150086/README.md	bash scripts sh java8
+20221003150087	zet/20221003150087/README.md	bash scripts sh getip
+20221003150088	zet/20221003150088/README.md	bash scripts sh get ip tmux
+20221003150089	zet/20221003150089/README.md	bash scripts sh run docker catch rev shell
+20221003150090	zet/20221003150090/README.md	bash scripts sh run docker catch rev shell
+20221003150091	zet/20221003150091/README.md	bash scripts sh ubuntu dockerfile template
+20221003150092	zet/20221003150092/README.md	bash scripts sh get tags
+20221003150093	zet/20221003150093/README.md	bash scripts sh destroy containers and images
+20221003150094	zet/20221003150094/README.md	bash scripts sh nmap script types
+20221003150095	zet/20221003150095/README.md	bash scripts sh autogenerate all languages
+20221003150097	zet/20221003150097/README.md	find out which dpkg apt package installed a file
+20221003150098	zet/20221003150098/README.md	todo
+20221003150099	zet/20221003150099/README.md	python scripting format string variables
+20221003150100	zet/20221003150100/README.md	python scripting argument variable argv
+20221003150101	zet/20221003150101/README.md	python scripting requests http GET params
+20221003150102	zet/20221003150102/README.md	python scripting requests http cookies
+20221003150103	zet/20221003150103/README.md	python scripting requests http upload file
+20221003150104	zet/20221003150104/README.md	python scripting requests http
+20221003150105	zet/20221003150105/README.md	python scripting
+20221003150106	zet/20221003150106/README.md	ssh port forwarding dynamic ( socks )
+20221003150107	zet/20221003150107/README.md	ssh port forwarding
+20221003150108	zet/20221003150108/README.md	tunneling through chisel Target
+20221003150109	zet/20221003150109/README.md	tunneling through chisel Attacker
+20221003150110	zet/20221003150110/README.md	tunneling through chisel
+20221003150111	zet/20221003150111/README.md	socat listen fork print to stdout
+20221003150112	zet/20221003150112/README.md	socat execute program bind shell
+20221003150113	zet/20221003150113/README.md	socat execute program
+20221003150114	zet/20221003150114/README.md	socat port forwarding with socat
+20221003150115	zet/20221003150115/README.md	socat
+20221003150116	zet/20221003150116/README.md	Socat over proxy
+20221003150117	zet/20221003150117/README.md	OSI networking model
+20221003150118	zet/20221003150118/README.md	get numpad to work in ssh over putty
+20221003150119	zet/20221003150119/README.md	routing using a linux box iptables rules forward all traffic between two interfaces
+20221003150120	zet/20221003150120/README.md	routing using a linux box iptables rules
+20221003150121	zet/20221003150121/README.md	routing using a linux box add router to routes on hosts windows
+20221003150122	zet/20221003150122/README.md	routing using a linux box add router to routes on hosts
+20221003150123	zet/20221003150123/README.md	routing using a linux box enable ip forwarding permanently
+20221003150124	zet/20221003150124/README.md	routing using a linux box enable ip forwarding temporarily
+20221003150125	zet/20221003150125/README.md	routing using a linux box enable ip forwarding
+20221003150126	zet/20221003150126/README.md	routing using a linux box
+20221003150127	zet/20221003150127/README.md	tldr pages location english
+20221003150128	zet/20221003150128/README.md	tldr pages location
+20221003150129	zet/20221003150129/README.md	tldr
+20221003150130	zet/20221003150130/README.md	java download links jdk
+20221003150131	zet/20221003150131/README.md	java download links
+20221003150132	zet/20221003150132/README.md	find file with name matching regular expression
+20221003150133	zet/20221003150133/README.md	DNS add nameserver to resolv.conf
+20221003150134	zet/20221003150134/README.md	DNS commands
+20221003150135	zet/20221003150135/README.md	enable horizontal scroll in less
+20221003150136	zet/20221003150136/README.md	tar compress to zipped archive
+20221003150137	zet/20221003150137/README.md	installing virtualbox
+20221003150138	zet/20221003150138/README.md	apt package nc ncat netcat
+20221003150139	zet/20221003150139/README.md	apt package column
+20221003150140	zet/20221003150140/README.md	apt package
+20221003150141	zet/20221003150141/README.md	proxmox server layout ISO upload location
+20221003150142	zet/20221003150142/README.md	proxmox server layout
+20221003150143	zet/20221003150143/README.md	proxmox
+20221003150144	zet/20221003150144/README.md	cyberpunk retro machine project Tandy TRS-80 Model 100 terminal copying binary programs
+20221003150145	zet/20221003150145/README.md	cyberpunk retro machine project Tandy TRS-80 Model 100 terminal programs
+20221003150146	zet/20221003150146/README.md	cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks char mappings
+20221003150147	zet/20221003150147/README.md	cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks
+20221003150148	zet/20221003150148/README.md	cyberpunk retro machine project Tandy TRS-80 Model 100 terminal terminfo and TERM variable
+20221003150149	zet/20221003150149/README.md	cyberpunk retro machine project Tandy TRS-80 Model 100 terminal serial codes
+20221003150150	zet/20221003150150/README.md	cyberpunk retro machine project Tandy TRS-80 Model 100 terminal
+20221003150151	zet/20221003150151/README.md	cyberpunk retro machine project enable usb serial port terminal as a service restart service if terminal disconnected
+20221003150152	zet/20221003150152/README.md	cyberpunk retro machine project enable usb serial port terminal as a service 9600 baud serial systemd service changes
+20221003150153	zet/20221003150153/README.md	cyberpunk retro machine project enable usb serial port terminal as a service
+20221003150154	zet/20221003150154/README.md	cyberpunk retro machine project
+20221003150155	zet/20221003150155/README.md	linux assorted commands find disk mounting for root file system
+20221003150156	zet/20221003150156/README.md	linux assorted commands
+20221003150157	zet/20221003150157/README.md	upgrade when apt is causing problems fix error "the following signatures couldn’t be verified because the public key is not available"
+20221003150158	zet/20221003150158/README.md	upgrade when apt is causing problems force fix apt dpkg upgrade
+20221003150159	zet/20221003150159/README.md	upgrade when apt is causing problems
+20221003150160	zet/20221003150160/README.md	git config settings make merges smoother
+20221003150161	zet/20221003150161/README.md	git config settings set up credential storage
+20221003150162	zet/20221003150162/README.md	git config settings
+20221003150163	zet/20221003150163/README.md	linux job control send background process to foreground
+20221003150164	zet/20221003150164/README.md	linux job control background running process
+20221003150165	zet/20221003150165/README.md	linux job control
+20221003150166	zet/20221003150166/README.md	dump process memory with dd ( complicated )
+20221003150167	zet/20221003150167/README.md	dump process memory with exe pseudofile ( simple )
+20221003150168	zet/20221003150168/README.md	dump process memory on linux
+20221003150169	zet/20221003150169/README.md	linux capabilities capability set `=ep`
+20221003150170	zet/20221003150170/README.md	linux capabilities inheritance after exec
+20221003150171	zet/20221003150171/README.md	linux capabilities
+20221003150172	zet/20221003150172/README.md	less color output
+20221003150173	zet/20221003150173/README.md	less replay script log
+20221003150174	zet/20221003150174/README.md	less
+20221003150175	zet/20221003150175/README.md	unix editor ex / ed example commands
+20221003150176	zet/20221003150176/README.md	ex editor
+20221003150177	zet/20221003150177/README.md	notes
+20221003150178	zet/20221003150178/README.md	install alacritty  config file example yaml config
+20221003150179	zet/20221003150179/README.md	alacritty config file
+20221003150180	zet/20221003150180/README.md	install alacritty commands
+20221003150181	zet/20221003150181/README.md	install alacritty dependencies to fix build errors
+20221003150182	zet/20221003150182/README.md	install alacritty 
+20221003150183	zet/20221003150183/README.md	add user to group docker
+20221003150184	zet/20221003150184/README.md	add user to group
+20221003150185	zet/20221003150185/README.md	linux free up space in docker
+20221003150186	zet/20221003150186/README.md	linux free up space in /var/log/journal/
+20221003150187	zet/20221003150187/README.md	linux free up space
+20221003150188	zet/20221003150188/README.md	zsh stuff at bottom of zshrc
+20221003150189	zet/20221003150189/README.md	zsh arrow key based history autocomplete browse
+20221003150190	zet/20221003150190/README.md	zsh see default bindings for vim command and insert modes keybinds
+20221003150191	zet/20221003150191/README.md	zsh
+20221003150192	zet/20221003150192/README.md	convert package type to deb rpm slp lsb tgz
+20221003150193	zet/20221003150193/README.md	convert
+20221003150194	zet/20221003150194/README.md	set the bash prompt to use vi hotkeys
+20221003150195	zet/20221003150195/README.md	desktop notification reminders in crontab with notify-send
+20221003150196	zet/20221003150196/README.md	iptables rules forward all traffic between two interfaces
+20221003150197	zet/20221003150197/README.md	iptables rules
+20221003150198	zet/20221003150198/README.md	control key mappings for sh
+20221003150199	zet/20221003150199/README.md	dpkg list files installed with package ##apt
+20221003150200	zet/20221003150200/README.md	refresh xterm configs
+20221003150201	zet/20221003150201/README.md	set xterm font size to cope with high dpi monitors
+20221003150202	zet/20221003150202/README.md	fix grub not showing windows partition
+20221003150203	zet/20221003150203/README.md	example docker to initialize ksql commands Dockerfile
+20221003150204	zet/20221003150204/README.md	example docker to initialize ksql commands entry.sh
+20221003150205	zet/20221003150205/README.md	example docker to initialize ksql commands ksql.sh
+20221003150206	zet/20221003150206/README.md	example docker to initialize ksql commands initialize.sh
+20221003150207	zet/20221003150207/README.md	example docker to initialize ksql commands
+20221003150208	zet/20221003150208/README.md	kafkacat add data to topic include keys
+20221003150209	zet/20221003150209/README.md	kafkacat add data to topic
+20221003150210	zet/20221003150210/README.md	kafkacat
+20221003150211	zet/20221003150211/README.md	kafkacat get previous data in topic from epoch timestamp offset
+20221003150212	zet/20221003150212/README.md	kafkacat install quick and dirty shell script using docker
+20221003150213	zet/20221003150213/README.md	kafkacat install APT
+20221003150214	zet/20221003150214/README.md	kafkacat install alias for kcat
+20221003150215	zet/20221003150215/README.md	kafkacat install
+20221003150216	zet/20221003150216/README.md	Initialize topics in dockers Full example
+20221003150217	zet/20221003150217/README.md	Initialize topics in dockers
+20221003150218	zet/20221003150218/README.md	Connecting to confluent
+20221003150219	zet/20221003150219/README.md	MSI motherboard error codes
+20221003150220	zet/20221003150220/README.md	surface tablet force restart
+20221003150221	zet/20221003150221/README.md	surface tablet
+20221003150222	zet/20221003150222/README.md	change interface mac address
+20221003150223	zet/20221003150223/README.md	bettercap settings
+20221003150224	zet/20221003150224/README.md	bettercap start commnad
+20221003150225	zet/20221003150225/README.md	bettercap
+20221003150226	zet/20221003150226/README.md	grep patterns searching for IPs
+20221003150227	zet/20221003150227/README.md	grep patterns
+20221003150228	zet/20221003150228/README.md	apk analysis emulate a phone with genymotion and virtualbox configuring burpsuite on genymotion phone
+20221003150229	zet/20221003150229/README.md	apk analysis emulate a phone with genymotion and virtualbox
+20221003150230	zet/20221003150230/README.md	apk analysis decompile to bytecode and inspect objects
+20221003150231	zet/20221003150231/README.md	apk analysis
+20221003150232	zet/20221003150232/README.md	extract command for file type apk rebuild apk
+20221003150233	zet/20221003150233/README.md	extract command for file type apk
+20221003150234	zet/20221003150234/README.md	extract command for file type asar
+20221003150235	zet/20221003150235/README.md	extract command for file type xz
+20221003150236	zet/20221003150236/README.md	extract command for file type tar.xz
+20221003150237	zet/20221003150237/README.md	extract command for file type tar.gz
+20221003150238	zet/20221003150238/README.md	extract command for file type deb
+20221003150239	zet/20221003150239/README.md	extract command for file type
+20221003150240	zet/20221003150240/README.md	analyze php source code for malicious code and things that look like webshells
+20221003150241	zet/20221003150241/README.md	identify service port 1978 data "SIN 15win nop nop 300"
+20221003150242	zet/20221003150242/README.md	identify service
+20221003150243	zet/20221003150243/README.md	jekyll blog markdown to html
+20221003150244	zet/20221003150244/README.md	MOTW mark of the web microsoft alternate data stream file label ZoneId avoiding / evading
+20221003150245	zet/20221003150245/README.md	MOTW mark of the web microsoft alternate data stream file label ZoneId
+20221003150246	zet/20221003150246/README.md	enterprise PAM Thycotic
+20221003150247	zet/20221003150247/README.md	enterprise PAM
+20221003150248	zet/20221003150248/README.md	Azure AD connect
+20221003150249	zet/20221003150249/README.md	Apache guacamole RDP VNC SSH in web browser default creds
+20221003150250	zet/20221003150250/README.md	Apache guacamole RDP VNC SSH in web browser
+20221003150251	zet/20221003150251/README.md	diffie-hellman key exchange
+20221003150252	zet/20221003150252/README.md	httponly cookie option
+20221003150253	zet/20221003150253/README.md	PXE boot
+20221003150254	zet/20221003150254/README.md	beacon object file BOF
+20221003150255	zet/20221003150255/README.md	solidity
+20221003150256	zet/20221003150256/README.md	IPsec VPN UDP port 500 2500 strongswan
+20221003150257	zet/20221003150257/README.md	h2 database on tcp port 8082
+20221003150258	zet/20221003150258/README.md	firefox containers addon = multiple sessions cookies in firefox web browser
+20221003150259	zet/20221003150259/README.md	firefox
+20221003150260	zet/20221003150260/README.md	sperl and suidperl
+20221003150261	zet/20221003150261/README.md	block ciphers ECB electronic code book cipher mode of operation
+20221003150262	zet/20221003150262/README.md	block ciphers CBC cipher cipher block chaining cipher mode of operation
+20221003150263	zet/20221003150263/README.md	block ciphers AES DES blowfish ECB CBC CFB OFB CTR cipher modes
+20221003150264	zet/20221003150264/README.md	block ciphers AES DES blowfish
+20221003150265	zet/20221003150265/README.md	block ciphers
+20221003150266	zet/20221003150266/README.md	systemd-private
+20221003150267	zet/20221003150267/README.md	IPMI intelligent platform management interface udp port 613
+20221003150268	zet/20221003150268/README.md	IPMI intelligent platform management interface BMC
+20221003150269	zet/20221003150269/README.md	IPMI intelligent platform management interface zabbix
+20221003150270	zet/20221003150270/README.md	IPMI intelligent platform management interface
+20221003150271	zet/20221003150271/README.md	create openssl client certificates from leaked CA private key
+20221003150272	zet/20221003150272/README.md	web server file executable extensions ASP
+20221003150273	zet/20221003150273/README.md	web server file executable extensions PHP
+20221003150274	zet/20221003150274/README.md	web server file executable extensions
+20221003150275	zet/20221003150275/README.md	firefox reverse shell toolbar hacktools
+20221003150276	zet/20221003150276/README.md	`unshadow` convert shadow to passwd file with hashes for john
+20221003150277	zet/20221003150277/README.md	pfx extension PKCS#12 format certificate cracking with johntheripper
+20221003150278	zet/20221003150278/README.md	pfx extension PKCS#12 format certificate cracking with crackpkcs12
+20221003150279	zet/20221003150279/README.md	pfx extension PKCS#12 format certificate cracking
+20221003150280	zet/20221003150280/README.md	pfx extension PKCS#12 format certificate contents
+20221003150281	zet/20221003150281/README.md	pfx extension PKCS#12 format certificate
+20221003150282	zet/20221003150282/README.md	default webroots apache
+20221003150283	zet/20221003150283/README.md	default webroots debian system
+20221003150284	zet/20221003150284/README.md	default webroots BSD systems FreeBSD
+20221003150285	zet/20221003150285/README.md	default webroots BSD systems OpenBSD httpd
+20221003150286	zet/20221003150286/README.md	default webroots BSD systems
+20221003150287	zet/20221003150287/README.md	default webroots xampp
+20221003150288	zet/20221003150288/README.md	default webroots wamp
+20221003150289	zet/20221003150289/README.md	default webroots
+20221003150290	zet/20221003150290/README.md	Potentially risky HTTP methods: TRACE
+20221003150291	zet/20221003150291/README.md	apache 2fa default key
+20221003150292	zet/20221003150292/README.md	java jdb execute commands
+20221003150293	zet/20221003150293/README.md	build custom java minecraft plugin with maven
+20221003150294	zet/20221003150294/README.md	wireshark TLS1.2 handshake packet
+20221003150295	zet/20221003150295/README.md	nodejs api controller program default files
+20221003150296	zet/20221003150296/README.md	fixing golang module errors no required module provides package
+20221003150297	zet/20221003150297/README.md	fixing golang module errors go get fails
+20221003150298	zet/20221003150298/README.md	fixing golang module errors cannot install module
+20221003150299	zet/20221003150299/README.md	fixing golang module errors
+20221003150300	zet/20221003150300/README.md	plus sign in ls output file ACL reading ACLs recursively
+20221003150301	zet/20221003150301/README.md	plus sign in ls output file ACL reading ACLs
+20221003150302	zet/20221003150302/README.md	plus sign in ls output file ACL
+20221003150303	zet/20221003150303/README.md	convert epoch to human readable bash signed 32 bit word Y2K
+20221003150304	zet/20221003150304/README.md	convert epoch to human readable bash
+20221003150305	zet/20221003150305/README.md	modify date with touch timestomping set destination file date the same as source file date
+20221003150306	zet/20221003150306/README.md	modify date with touch timestomping
+20221003150307	zet/20221003150307/README.md	copy docker binary to target
+20221003150308	zet/20221003150308/README.md	burpsuite add header to forwarded requests, like X-Forwarded-For
+20221003150309	zet/20221003150309/README.md	burpsuite set scope to limit request catching
+20221003150310	zet/20221003150310/README.md	burpsuite
+20221003150311	zet/20221003150311/README.md	SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
+20221003150312	zet/20221003150312/README.md	SMB
+20221003150313	zet/20221003150313/README.md	default http config locations FreeBSD
+20221003150314	zet/20221003150314/README.md	default http config locations
+20221003150315	zet/20221003150315/README.md	python uvicorn `--reload` flag
+20221003150316	zet/20221003150316/README.md	fastapi uvicorn put python webshells
+20221003150317	zet/20221003150317/README.md	malwarebytes
+20221003150318	zet/20221003150318/README.md	sophos
+20221003150319	zet/20221003150319/README.md	symantec
+20221003150320	zet/20221003150320/README.md	mcaffee
+20221003150321	zet/20221003150321/README.md	arctic wolf
+20221003150322	zet/20221003150322/README.md	cyber reason
+20221003150323	zet/20221003150323/README.md	crowdstrike falcon
+20221003150324	zet/20221003150324/README.md	vmware carbon black cloud
+20221003150325	zet/20221003150325/README.md	Microsoft Defender for Endpoint - enterprise protection
+20221003150326	zet/20221003150326/README.md	top tier endpoint protection AV defender
+20221003150327	zet/20221003150327/README.md	bloodhound sharphound fix import errors - incompatible versions
+20221003150328	zet/20221003150328/README.md	compile windows c++ binaries on linux
+20221003150329	zet/20221003150329/README.md	problems/issues connecting through multiple VPNs tunnels MTU
+20221003150330	zet/20221003150330/README.md	identifying type of encryption of unknown ciphertext
+20221003150331	zet/20221003150331/README.md	log4j log4shell
+20221003150332	zet/20221003150332/README.md	default openssl message digest
+20221003150333	zet/20221003150333/README.md	blank LM hash hex `AAD3B`
+20221003150334	zet/20221003150334/README.md	python pickle serialization magic bytes header signature `80 03` `80 04` `80 05` `(dp0` base64 `gASV` `gAWV`
+20221003150335	zet/20221003150335/README.md	java serialization payload `rO0` base64 `AC ED 00 05` in hex
+20221003150336	zet/20221003150336/README.md	ansible exploiting playbook priv esc backdoor
+20221003150337	zet/20221003150337/README.md	ansible exploiting playbook rev shell
+20221003150338	zet/20221003150338/README.md	ansible exploiting playbook
+20221003150339	zet/20221003150339/README.md	ansible How does Ansible work?
+20221003150340	zet/20221003150340/README.md	ansible
+20221003150341	zet/20221003150341/README.md	database creds
+20221003150342	zet/20221003150342/README.md	wordpress plugins
+20221003150343	zet/20221003150343/README.md	wordpress
+20221003150344	zet/20221003150344/README.md	SSH brute force old key exchange algorithms
+20221003150345	zet/20221003150345/README.md	SSH brute force command shortlist from hacktricks
+20221003150346	zet/20221003150346/README.md	SSH brute force
+20221003150347	zet/20221003150347/README.md	bruteforcing services
+20221003150348	zet/20221003150348/README.md	troubleshooting fix error ValueError: unsupported hash type MD4 python hashlib openssl conf
+20221003150349	zet/20221003150349/README.md	troubleshooting fix error "sign_and_send_pubkey: no mutual signature supported"
+20221003150350	zet/20221003150350/README.md	troubleshooting fix error
+20221003150351	zet/20221003150351/README.md	pack windows payload in ISO to avoid MOTW
+20221003150352	zet/20221003150352/README.md	fake set change system time for command
+20221003150353	zet/20221003150353/README.md	linux PAM module backdoor password build script
+20221003150354	zet/20221003150354/README.md	.NET decompiler reverse engineering Cmanaged EXE DLL binaries modify rebuild and recompile .NET assemblies
+20221003150355	zet/20221003150355/README.md	.NET decompiler reverse engineering Cmanaged EXE DLL binaries
+20221003150356	zet/20221003150356/README.md	linux and windows privilege escalation mind maps OSCP
+20221003150357	zet/20221003150357/README.md	create malicious ODT file payload to leak NTLMv2 hashes with badodf
+20221003150358	zet/20221003150358/README.md	jxplorer connect to LDAP GUI access
+20221003150359	zet/20221003150359/README.md	windows run commands as other user with credentials switch users on windows host with RunasCs with no WinRM remote management access
+20221003150360	zet/20221003150360/README.md	windows run commands as other user with credentials
+20221003150361	zet/20221003150361/README.md	connect to minecraft server and send chat messages
+20221003150362	zet/20221003150362/README.md	portable TCP port scanner bash only spookyscan
+20221003150363	zet/20221003150363/README.md	portable TCP port scanner bash only
+20221003150364	zet/20221003150364/README.md	portable TCP port scanner
+20221003150365	zet/20221003150365/README.md	windows fully interactive pty with ConPtyShell
+20221003150366	zet/20221003150366/README.md	convert DLL to shellcode with sRDI
+20221003150367	zet/20221003150367/README.md	dump credentials from browsers firefox
+20221003150368	zet/20221003150368/README.md	dump credentials from browsers chromium edge
+20221003150369	zet/20221003150369/README.md	dump credentials from browsers chromium chrome
+20221003150370	zet/20221003150370/README.md	dump credentials from browsers chromium
+20221003150371	zet/20221003150371/README.md	dump credentials from browsers
+20221003150372	zet/20221003150372/README.md	web app paths defaults db
+20221003150373	zet/20221003150373/README.md	volatility framework analyze dump files of volatile RAM .dmp .img
+20221003150374	zet/20221003150374/README.md	volatility framework analyze dump files of volatile RAM file type "MS Windows 64bit crash dump, full dump, XXX pages"
+20221003150375	zet/20221003150375/README.md	volatility framework analyze dump files of volatile RAM
+20221003150376	zet/20221003150376/README.md	volatility framework
+20221003150377	zet/20221003150377/README.md	oracle database attacking tool odat execute system commands
+20221003150378	zet/20221003150378/README.md	oracle database attacking tool odat escalate database account to DBA
+20221003150379	zet/20221003150379/README.md	oracle database attacking tool odat enumerate users
+20221003150380	zet/20221003150380/README.md	oracle database attacking tool odat
+20221003150381	zet/20221003150381/README.md	threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender) identify and pinpoints that exact bytes that the target antivirus engine will flag on
+20221003150382	zet/20221003150382/README.md	threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender)
+20221003150383	zet/20221003150383/README.md	threatcheck help obfuscate windows executable strings
+20221003150384	zet/20221003150384/README.md	krbrelayx krbrelayx.py Kerberos relaying and Unconstrained delegation abuse
+20221003150385	zet/20221003150385/README.md	krbrelayx printerbug.py Simple tool to trigger SpoolService bug via RPC backconnect. Similar to dementor.py
+20221003150386	zet/20221003150386/README.md	krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP.
+20221003150387	zet/20221003150387/README.md	krbrelayx addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP.
+20221003150388	zet/20221003150388/README.md	krbrelayx Kerberos relaying and unconstrained delegation abuse toolkit
+20221003150389	zet/20221003150389/README.md	krbrelayx
+20221003150390	zet/20221003150390/README.md	file backup fuzzer generate wordlists from filenames
+20221003150391	zet/20221003150391/README.md	file backup fuzzer
+20221003150392	zet/20221003150392/README.md	text cipher encryption decryption tools Text Manipulator
+20221003150419	zet/20221003150419/README.md	text cipher encryption decryption tools
+20221003150420	zet/20221003150420/README.md	finger user enum
+20221003150421	zet/20221003150421/README.md	kerberos attack on windows host Constrained delegation abuse
+20221003150422	zet/20221003150422/README.md	kerberos attack on windows host ticket attacks extraction and harvesting
+20221003150423	zet/20221003150423/README.md	kerberos attack on windows host ticket attacks forgery
+20221003150424	zet/20221003150424/README.md	kerberos attack on windows host ticket attacks
+20221003150425	zet/20221003150425/README.md	kerberos attack on windows host
+20221003150426	zet/20221003150426/README.md	zip slip evilarc.py
+20221003150427	zet/20221003150427/README.md	generate wordlists bopscrk people OSINT custom wordlists specific to person
+20221003150428	zet/20221003150428/README.md	generate wordlists username anarchy, generate from lists of names, from country and locale output all formats generate common usernames for country and localization 
+20221003150429	zet/20221003150429/README.md	generate wordlists username anarchy, generate from lists of names, from country and locale output all formats top 10k names from facebook
+20221003150430	zet/20221003150430/README.md	generate wordlists username anarchy, generate from lists of names, from country and locale output all formats
+20221003150431	zet/20221003150431/README.md	generate wordlists username anarchy, generate from lists of names, from country and locale
+20221003150432	zet/20221003150432/README.md	generate wordlists namemash - simple
+20221003150433	zet/20221003150433/README.md	generate wordlists
+20221003150434	zet/20221003150434/README.md	HTML preview report input list of HTTP(s) sites attack surface with aquatone
+20221003150435	zet/20221003150435/README.md	obfuscate powershell scripts (python)
+20221003150436	zet/20221003150436/README.md	webshells for all sorts of languages
+20221003150437	zet/20221003150437/README.md	dump git repository leaked by website
+20221003150438	zet/20221003150438/README.md	automated SSTI testing with tplmap
+20221003150439	zet/20221003150439/README.md	Scanning a system for credentials
+20221003150440	zet/20221003150440/README.md	Compiled versions of .NET Windows enumeration tools
+20221003150441	zet/20221003150441/README.md	OWASP cheat sheet series
+20221003150442	zet/20221003150442/README.md	payloads payloadsallthethings github
+20221003150443	zet/20221003150443/README.md	seclists github
+20221003150444	zet/20221003150444/README.md	hacktricks markdown data github
+20221003150445	zet/20221003150445/README.md	linpeas winpeas peass-ng release downloads
+20221003150446	zet/20221003150446/README.md	linux exploit suggester
+20221003150447	zet/20221003150447/README.md	poppler utils PDF parsing pdftotext pdftohtml pdfinfo pdfimages
+20221003150448	zet/20221003150448/README.md	poppler utils PDF parsing
+20221003150449	zet/20221003150449/README.md	keepass CLI tool open and edit keepass databases
+20221003150450	zet/20221003150450/README.md	padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
+20221003150451	zet/20221003150451/README.md	java decompiler JD-GUI analyze jar file
+20221003150452	zet/20221003150452/README.md	java decompiler JD-GUI analyze war file
+20221003150453	zet/20221003150453/README.md	java decompiler JD-GUI analyze
+20221003150454	zet/20221003150454/README.md	java decompiler JD-GUI
+20221003150455	zet/20221003150455/README.md	ike-scan for ike IPsec VPNs
+20221003150456	zet/20221003150456/README.md	bruteforce-salted-openssl to brute force openssl encrypted files
+20221003150457	zet/20221003150457/README.md	GraphQLmap for GraphQL enumeration
+20221003150458	zet/20221003150458/README.md	redis-cli apt repository
+20221003150459	zet/20221003150459/README.md	openssl cipher commands encrypt text
+20221003150460	zet/20221003150460/README.md	tomcat config files and credentials
+20221003150461	zet/20221003150461/README.md	tomcat management console admin login URL
+20221003150462	zet/20221003150462/README.md	tomcat
+20221003150463	zet/20221003150463/README.md	powershell PSCredential password print password from object
+20221003150464	zet/20221003150464/README.md	powershell load PSCredential password import from file
+20221003150465	zet/20221003150465/README.md	powershell PSCredential password
+20221003150466	zet/20221003150466/README.md	powershell tricks convert guid to string
+20221003150467	zet/20221003150467/README.md	powershell tricks browse and edit registry read registry values
+20221003150468	zet/20221003150468/README.md	powershell tricks browse and edit registry set registry values
+20221003150469	zet/20221003150469/README.md	powershell tricks browse and edit registry
+20221003150470	zet/20221003150470/README.md	powershell tricks mount smb share as drive "letter"
+20221003150471	zet/20221003150471/README.md	powershell tricks run powershell commands as another user on remote machine with impersonated token copy and run file over session
+20221003150472	zet/20221003150472/README.md	powershell tricks run powershell commands as another user on remote machine with impersonated token
+20221003150473	zet/20221003150473/README.md	powershell tricks run powershell commands as another user with RunasCs
+20221003150474	zet/20221003150474/README.md	powershell tricks run powershell commands as another user with SecureString credential
+20221003150475	zet/20221003150475/README.md	powershell tricks run powershell commands as another user
+20221003150476	zet/20221003150476/README.md	powershell tricks
+20221003150477	zet/20221003150477/README.md	general enumeration Active Directory Certificate Services is AD CS enabled
+20221003150479	zet/20221003150479/README.md	general enumeration what commands are available
+20221003150480	zet/20221003150480/README.md	general enumeration get processes
+20221003150481	zet/20221003150481/README.md	general enumeration get list of filepaths recursively
+20221003150482	zet/20221003150482/README.md	general powershell enumeration
+20221003150483	zet/20221003150483/README.md	active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip
+20221003150484	zet/20221003150484/README.md	active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob
+20221003150485	zet/20221003150485/README.md	active directory get GMSA service account properties get GMSA password and run commands
+20221003150486	zet/20221003150486/README.md	active directory get GMSA service account properties
+20221003150487	zet/20221003150487/README.md	active directory get user account
+20221003150488	zet/20221003150488/README.md	active directory
+20221003150489	zet/20221003150489/README.md	html template upload file http form POST
+20221003150490	zet/20221003150490/README.md	html template upload file
+20221003150491	zet/20221003150491/README.md	html template
+20221003150499	zet/20221003150499/README.md	shellshock python2 exploit reverse shell usage
+20221003150500	zet/20221003150500/README.md	shellshock python2 exploit
+20221003150501	zet/20221003150501/README.md	pwntools FmtStr automated format string exploitation
+20221003150502	zet/20221003150502/README.md	pwntools synchronizing output sending wait until receive
+20221003150503	zet/20221003150503/README.md	pwntools
+20221003150504	zet/20221003150504/README.md	python pwn tricks convert hex to int
+20221003150505	zet/20221003150505/README.md	python pwn tricks convert little endian bytes to floating point
+20221003150506	zet/20221003150506/README.md	python pwn tricks convert little endian bytes to int
+20221003150507	zet/20221003150507/README.md	python pwn tricks convert little endian bytes
+20221003150508	zet/20221003150508/README.md	python pwn tricks convert
+20221003150509	zet/20221003150509/README.md	python pwn tricks
+20221003150510	zet/20221003150510/README.md	pwn commands / tricks patchelf ld paths use custom ld version and library path
+20221003150511	zet/20221003150511/README.md	pwn commands / tricks patchelf ld paths
+20221003150512	zet/20221003150512/README.md	pwn commands / tricks
+20221003150513	zet/20221003150513/README.md	pwntools gdb debugging terminal tmux
+20221003150514	zet/20221003150514/README.md	pwntools gdb debugging terminal set to work in vs code:
+20221003150515	zet/20221003150515/README.md	pwntools gdb debugging terminal
+20221003150516	zet/20221003150516/README.md	binary analysis golang
+20221003150517	zet/20221003150517/README.md	binary analysis
+20221003150518	zet/20221003150518/README.md	pwntools sigreturn
+20221003150519	zet/20221003150519/README.md	calling conventions x64 windows C style  volatile registers after call
+20221003150520	zet/20221003150520/README.md	calling conventions x64 windows C style
+20221003150521	zet/20221003150521/README.md	calling conventions x64 linux C style
+20221003150522	zet/20221003150522/README.md	calling conventions
+20221003150523	zet/20221003150523/README.md	heap exploit resources
+20221003150524	zet/20221003150524/README.md	make executable binary with input shellcode msfvenom
+20221003150525	zet/20221003150525/README.md	make executable binary with input shellcode
+20221003150526	zet/20221003150526/README.md	pwn methodology / to try list
+20221003150527	zet/20221003150527/README.md	generate reverse shell shellcode payload for pwn
+20221003150528	zet/20221003150528/README.md	gdb commands debug step into / follow child process
+20221003150529	zet/20221003150529/README.md	gdb commands
+20221003150530	zet/20221003150530/README.md	gef gdb plugin buffer overflow pattern create and offset
+20221003150531	zet/20221003150531/README.md	gef gdb plugin rop gadget search
+20221003150532	zet/20221003150532/README.md	gef gdb plugin
+20221003150533	zet/20221003150533/README.md	immunity debugger mona commands search for opcode string jmp esp inside module
+20221003150534	zet/20221003150534/README.md	immunity debugger mona commands search for opcode string jmp esp in exe
+20221003150535	zet/20221003150535/README.md	immunity debugger mona commands search for opcode string jmp esp
+20221003150536	zet/20221003150536/README.md	immunity debugger mona commands list loaded modules and security flags
+20221003150537	zet/20221003150537/README.md	immunity debugger mona commands
+20221003150538	zet/20221003150538/README.md	simple binary exploits payload generation changing architecture
+20221003150539	zet/20221003150539/README.md	simple binary exploits payload generation
+20221003150540	zet/20221003150540/README.md	simple binary exploits python exploit scripts pwntools flat pack buffer offsets
+20221003150541	zet/20221003150541/README.md	simple binary exploits python exploit scripts all bad characters
+20221003150542	zet/20221003150542/README.md	simple binary exploits python exploit scripts import pwntools
+20221003150543	zet/20221003150543/README.md	simple binary exploits python exploit scripts
+20221003150544	zet/20221003150544/README.md	simple binary exploits pattern offset finding create pattern with length with pattern create
+20221003150545	zet/20221003150545/README.md	simple binary exploits pattern offset finding
+20221003150546	zet/20221003150546/README.md	simple binary exploits jmp esp instruction FF E4 find with ROPgadget
+20221003150547	zet/20221003150547/README.md	simple binary exploits jmp esp instruction FF E4
+20221003150548	zet/20221003150548/README.md	simple binary exploits
+20221003150549	zet/20221003150549/README.md	URL CRAWL/ Discovery waybackurls
+20221003150550	zet/20221003150550/README.md	Sub domain Enum
+20221003150551	zet/20221003150551/README.md	linux
+20221003150552	zet/20221003150552/README.md	PhpmyAdmin write shell Windows
+20221003150553	zet/20221003150553/README.md	PhpmyAdmin write shell
+20221003150554	zet/20221003150554/README.md	Perl Reverse Shell
+20221003150555	zet/20221003150555/README.md	Active Sever Pages Extended (.aspx) Execute a File
+20221003150556	zet/20221003150556/README.md	Active Sever Pages Extended (.aspx) Transfer A File (Certutil)
+20221003150557	zet/20221003150557/README.md	WhiteWinterWolf Webshell
+20221003150558	zet/20221003150558/README.md	coyote PHP command shell
+20221003150559	zet/20221003150559/README.md	Kali Default PHP CMD Shell
+20221003150560	zet/20221003150560/README.md	Kali Default PHP Reverse Shell
+20221003150561	zet/20221003150561/README.md	Python Reverse Shell Code 
+20221003150562	zet/20221003150562/README.md	Python Reverse Shell As Command 
+20221003150563	zet/20221003150563/README.md	Bash Reverse Shell
+20221003150564	zet/20221003150564/README.md	python upgrade shell (TTY Shell)
+20221003150565	zet/20221003150565/README.md	Netcat Sending file
+20221003150566	zet/20221003150566/README.md	Netcat Receiving file
+20221003150567	zet/20221003150567/README.md	SMB Copy Files (Execute on Victim)
+20221003150568	zet/20221003150568/README.md	SMB List Drives (Execute on Victim)
+20221003150569	zet/20221003150569/README.md	Powershell File Transfer As Cmd.exe Command
+20221003150570	zet/20221003150570/README.md	PHP unserialize payload gadget chains like ysoserial but for PHP
+20221003150571	zet/20221003150571/README.md	PHP unserialize payload gadget chains
+20221003150572	zet/20221003150572/README.md	php type juggling string and number exponent type confusion vulnerable hash prefix `0e` md5 sha1
+20221003150573	zet/20221003150573/README.md	php type juggling string and number exponent type confusion
+20221003150574	zet/20221003150574/README.md	php type juggling methodology http post data
+20221003150575	zet/20221003150575/README.md	php type juggling methodology
+20221003150576	zet/20221003150576/README.md	php type juggling
+20221003150577	zet/20221003150577/README.md	php quick client phishing attack credential harvesting
+20221003150578	zet/20221003150578/README.md	php LFI filename extension nullbyte tecnhique - below php 5.3
+20221003150579	zet/20221003150579/README.md	php LFI include PHP filter URL no encoding
+20221003150580	zet/20221003150580/README.md	php LFI include PHP filter URL base 64 encode
+20221003150581	zet/20221003150581/README.md	php LFI include PHP filter URL
+20221003150582	zet/20221003150582/README.md	php LFI
+20221003150583	zet/20221003150583/README.md	php code convert human readable time to unix epoch timestamp apache HTTP Date header
+20221003150584	zet/20221003150584/README.md	php code convert human readable time to unix epoch timestamp
+20221003150585	zet/20221003150585/README.md	php code embed file or multiline string as heredoc variable
+20221003150586	zet/20221003150586/README.md	php code write to file easy file write
+20221003150587	zet/20221003150587/README.md	php code write to file
+20221003150588	zet/20221003150588/README.md	php code read file
+20221003150589	zet/20221003150589/README.md	php code return directory as array
+20221003150590	zet/20221003150590/README.md	php code examples
+20221003150591	zet/20221003150591/README.md	php run as interactive shell
+20221003150592	zet/20221003150592/README.md	php
+20221003150593	zet/20221003150593/README.md	generating enumeration wordlists exfiltrated passwd usernames to ssh key id_rsa fuzz list
+20221003150594	zet/20221003150594/README.md	generating enumeration wordlists
+20221003150595	zet/20221003150595/README.md	impacket dump registry and NTDS secrets from files with secretsdump
+20221003150596	zet/20221003150596/README.md	impacket quick smb server
+20221003150597	zet/20221003150597/README.md	impacket kerberoast with impacket-GetUserSPNs
+20221003150598	zet/20221003150598/README.md	impacket ASREP roast with Get-NPUsers
+20221003150599	zet/20221003150599/README.md	impacket psexec get remote shell over SMB with administrator account
+20221003150600	zet/20221003150600/README.md	impacket
+20221003150601	zet/20221003150601/README.md	tunneling Forward specific port through chisel
+20221003150602	zet/20221003150602/README.md	tunneling through chisel - socks Target
+20221003150603	zet/20221003150603/README.md	tunneling through chisel - socks Attacker
+20221003150604	zet/20221003150604/README.md	tunneling through chisel - socks
+20221003150605	zet/20221003150605/README.md	smbclient download Stream By Name (:SECRET)
+20221003150606	zet/20221003150606/README.md	smbclient alternate File Streams
+20221003150607	zet/20221003150607/README.md	smbclient download All Files From A Directory Recursively
+20221003150608	zet/20221003150608/README.md	smbclient connect to A Share (As User John)
+20221003150609	zet/20221003150609/README.md	smbclient list Shares (As Guest)
+20221003150610	zet/20221003150610/README.md	smbclient null authentication
+20221003150611	zet/20221003150611/README.md	smbclient
+20221003150612	zet/20221003150612/README.md	smbclient shell recursive get all files
+20221003150613	zet/20221003150613/README.md	smbclient shell recursive list directory
+20221003150614	zet/20221003150614/README.md	smbclient shell
+20221003150615	zet/20221003150615/README.md	PureFTP Execute Script (on Victim)
+20221003150616	zet/20221003150616/README.md	PureFTP Create FTP Script (On Victim)
+20221003150617	zet/20221003150617/README.md	PureFTP Restart Service
+20221003150618	zet/20221003150618/README.md	PureFTP Commit Changes
+20221003150619	zet/20221003150619/README.md	PureFTP Reset Password
+20221003150620	zet/20221003150620/README.md	PureFTP Get Service Ready
+20221003150621	zet/20221003150621/README.md	PureFTP Create setupftp.sh Execute The Script
+20221003150622	zet/20221003150622/README.md	PureFTP Install
+20221003150623	zet/20221003150623/README.md	PureFTP
+20221003150624	zet/20221003150624/README.md	LDAP enumeration authenticated ldapdomaindump tool
+20221003150625	zet/20221003150625/README.md	LDAP enumeration authenticated
+20221003150626	zet/20221003150626/README.md	LDAP enumeration anonymous python dump all object data
+20221003150627	zet/20221003150627/README.md	LDAP enumeration anonymous python
+20221003150628	zet/20221003150628/README.md	LDAP enumeration anonymous nmap scripts
+20221003150629	zet/20221003150629/README.md	LDAP enumeration anonymous
+20221003150630	zet/20221003150630/README.md	LDAP enumeration
+20221003150631	zet/20221003150631/README.md	listen for pings with tcpdump
+20221003150632	zet/20221003150632/README.md	list dpkg packages installed on a certain date
+20221003150633	zet/20221003150633/README.md	smbmap default enumeration as guest
+20221003150634	zet/20221003150634/README.md	smbmap default enumeration
+20221003150635	zet/20221003150635/README.md	smbmap
+20221003150636	zet/20221003150636/README.md	nmap run all service enumeration on a port
+20221003150637	zet/20221003150637/README.md	nmap check for mountable NFS shares test access
+20221003150638	zet/20221003150638/README.md	nmap check for mountable NFS shares
+20221003150639	zet/20221003150639/README.md	nmap bruteforce HTTP authentication (including NTLM)
+20221003150640	zet/20221003150640/README.md	nmap run "all" enumeration and scripts
+20221003150641	zet/20221003150641/README.md	nmap over proxychains using socks proxy
+20221003150642	zet/20221003150642/README.md	nmap common ports command
+20221003150643	zet/20221003150643/README.md	nmap all ports command quick
+20221003150644	zet/20221003150644/README.md	nmap all ports command
+20221003150645	zet/20221003150645/README.md	nmap flags increase speed
+20221003150646	zet/20221003150646/README.md	nmap flags extra fast options
+20221003150647	zet/20221003150647/README.md	nmap flags
+20221003150648	zet/20221003150648/README.md	nmap
+20221003150649	zet/20221003150649/README.md	kubernetes kubectl enumerate permissions
+20221003150650	zet/20221003150650/README.md	kubernetes kubectl
+20221003150651	zet/20221003150651/README.md	kubernetes
+20221003150652	zet/20221003150652/README.md	wfuzz host header pollution
+20221003150653	zet/20221003150653/README.md	wfuzz authenticated fuzzing parameter names
+20221003150654	zet/20221003150654/README.md	wfuzz fuzzing parameter names
+20221003150655	zet/20221003150655/README.md	wfuzz fuzzing subdomains
+20221003150656	zet/20221003150656/README.md	wfuzz recursive path discovery depth
+20221003150657	zet/20221003150657/README.md	wfuzz dirbusting really really large directories wordlist
+20221003150658	zet/20221003150658/README.md	wfuzz dirbusting
+20221003150659	zet/20221003150659/README.md	wfuzz
+20221003150660	zet/20221003150660/README.md	data analysis commands binwalk find and extract LZMA zip streams quickly
+20221003150661	zet/20221003150661/README.md	data analysis commands dd copy from offset
+20221003150662	zet/20221003150662/README.md	data analysis commands
+20221003150663	zet/20221003150663/README.md	NFS Mount Drive
+20221003150664	zet/20221003150664/README.md	NFS Show mountable drives
+20221003150665	zet/20221003150665/README.md	NFS commands
+20221003150666	zet/20221003150666/README.md	hydra brute force HTTP post form
+20221003150667	zet/20221003150667/README.md	crackmapexec cme commands enumerate acccess to files as json report
+20221003150668	zet/20221003150668/README.md	crackmapexec cme commands enumerate shares accessable by user
+20221003150669	zet/20221003150669/README.md	crackmapexec cme commands test combine valid user and password combinations
+20221003150670	zet/20221003150670/README.md	crackmapexec cme commands bruteforce SMB
+20221003150671	zet/20221003150671/README.md	crackmapexec cme commands test password username arguments or files
+20221003150672	zet/20221003150672/README.md	crackmapexec cme commands RID brute force
+20221003150673	zet/20221003150673/README.md	crackmapexec cme commands
+20221003150674	zet/20221003150674/README.md	bloodhound stealthy collection method
+20221003150675	zet/20221003150675/README.md	bloodhound run python version in docker with NTLM hashes instead of creds
+20221003150676	zet/20221003150676/README.md	bloodhound run python version in docker
+20221003150677	zet/20221003150677/README.md	bloodhound
+20221003150678	zet/20221003150678/README.md	tftp transfer Files
+20221003150679	zet/20221003150679/README.md	tftp start daemon (folder /var/tftp)
+20221003150680	zet/20221003150680/README.md	tftp upload file
+20221003150681	zet/20221003150681/README.md	tftp commands
+20221003150682	zet/20221003150682/README.md	web enumeration quick commands forms
+20221003150683	zet/20221003150683/README.md	web enumeration quick commands
+20221003150684	zet/20221003150684/README.md	encode string as base64 url encoded
+20221003150685	zet/20221003150685/README.md	decode hex on command line
+20221003150686	zet/20221003150686/README.md	wpscan brute force users file and password list
+20221003150687	zet/20221003150687/README.md	wpscan initial aggressive plugins-detection
+20221003150688	zet/20221003150688/README.md	wpscan initial enumerate user id range
+20221003150689	zet/20221003150689/README.md	wpscan initial database exports
+20221003150690	zet/20221003150690/README.md	wpscan initial config backups
+20221003150691	zet/20221003150691/README.md	wpscan initial vulnerable themes
+20221003150692	zet/20221003150692/README.md	wpscan initial all plugins passive scan
+20221003150693	zet/20221003150693/README.md	wpscan initial
+20221003150694	zet/20221003150694/README.md	wpscan
+20221003150695	zet/20221003150695/README.md	SNMP enumeration command enumerating / dumping interesting and categorized information
+20221003150696	zet/20221003150696/README.md	SNMP enumeration command onesixtyone
+20221003150697	zet/20221003150697/README.md	SNMP enumeration command snmpwalk 
+20221003150698	zet/20221003150698/README.md	SNMP enumeration command
+20221003150699	zet/20221003150699/README.md	sqlmap with burp request Get A Reverse Shell (MySQL)
+20221003150700	zet/20221003150700/README.md	sqlmap with burp request Test All (Default Settings, High Stress)
+20221003150701	zet/20221003150701/README.md	sqlmap with burp request Test All (Default Settings)
+20221003150702	zet/20221003150702/README.md	sqlmap Test All (Default Settings, High Stress)
+20221003150703	zet/20221003150703/README.md	sqlmap Test All (Default Settings)
+20221003150704	zet/20221003150704/README.md	sqlmap search string response on site for successful injection
+20221003150705	zet/20221003150705/README.md	sqlmap custom injection marker specify exact SQL injection
+20221003150706	zet/20221003150706/README.md	sqlmap custom injection marker
+20221003150707	zet/20221003150707/README.md	sqlmap level and risk options
+20221003150708	zet/20221003150708/README.md	sqlmap result output data file location
+20221003150709	zet/20221003150709/README.md	sqlmap
+20221003150710	zet/20221003150710/README.md	packet capture capture packets with tcpdump over ssh connection and pipe directly to wireshark
+20221003150711	zet/20221003150711/README.md	packet capture read pcap data with tshark
+20221003150712	zet/20221003150712/README.md	packet capture with tcpdump watch traffic print packet data contents
+20221003150713	zet/20221003150713/README.md	packet capture with tcpdump watch traffic print IP and port
+20221003150714	zet/20221003150714/README.md	packet capture with tcpdump watch traffic
+20221003150715	zet/20221003150715/README.md	packet capture with tcpdump log data to pcap file
+20221003150716	zet/20221003150716/README.md	packet capture with tcpdump
+20221003150717	zet/20221003150717/README.md	packet capture
+20221003150718	zet/20221003150718/README.md	curl upload a file
+20221003150719	zet/20221003150719/README.md	curl scan ports for websites through http proxy
+20221003150720	zet/20221003150720/README.md	curl
+20221003150721	zet/20221003150721/README.md	openssl pfx p12 file PKCS12 export pfx private key
+20221003150722	zet/20221003150722/README.md	openssl pfx p12 file PKCS12 public key fingerprint
+20221003150723	zet/20221003150723/README.md	openssl pfx p12 file PKCS12 view information about certificate
+20221003150724	zet/20221003150724/README.md	openssl pfx p12 file PKCS12
+20221003150725	zet/20221003150725/README.md	openssl and ssh view public key of a private key
+20221003150726	zet/20221003150726/README.md	openssl view information about certificate request
+20221003150727	zet/20221003150727/README.md	ssh escape rbash set terminal
+20221003150728	zet/20221003150728/README.md	powershell base64 encode equivalent within ps
+20221003150729	zet/20221003150729/README.md	powershell encode commands as base64 with windows wide char strings in linux
+20221003150730	zet/20221003150730/README.md	powershell
+20221003150731	zet/20221003150731/README.md	feroxbuster files, backups, and extensions dynamic collection settings
+20221003150732	zet/20221003150732/README.md	feroxbuster files, backups, and extensions small words to filenames plus extensions ignore 403 
+20221003150733	zet/20221003150733/README.md	feroxbuster files, backups, and extensions backups and extensions files command
+20221003150734	zet/20221003150734/README.md	feroxbuster files, backups, and extensions fix recursion loop
+20221003150735	zet/20221003150735/README.md	feroxbuster files, backups, and extensions
+20221003150736	zet/20221003150736/README.md	feroxbuster dirbusting big buster
+20221003150737	zet/20221003150737/README.md	feroxbuster dirbusting common with arguments
+20221003150738	zet/20221003150738/README.md	feroxbuster dirbusting
+20221003150739	zet/20221003150739/README.md	feroxbuster
+20221003150740	zet/20221003150740/README.md	hydra brute force MYSQL
+20221003150741	zet/20221003150741/README.md	hydra brute force HTTP Post Request
+20221003150742	zet/20221003150742/README.md	hydra brute force HTTP Get Request
+20221003150743	zet/20221003150743/README.md	hydra brute force HTTP Basic Authentication
+20221003150744	zet/20221003150744/README.md	hydra brute force
+20221003150745	zet/20221003150745/README.md	cracking keepass database with image key 2 john
+20221003150746	zet/20221003150746/README.md	impacket kerberos commands wmiexec
+20221003150747	zet/20221003150747/README.md	impacket kerberos commands ticket environment variable KRB5CCNAME
+20221003150748	zet/20221003150748/README.md	impacket kerberos commands
+20221003150749	zet/20221003150749/README.md	crackmapexec kerberos authentication with ticket include ticket environment variable
+20221003150750	zet/20221003150750/README.md	crackmapexec kerberos authentication with ticket
+20221003150751	zet/20221003150751/README.md	kerbrute password spray users from user list file
+20221003150752	zet/20221003150752/README.md	kerbrute enumerate users using wordlist
+20221003150753	zet/20221003150753/README.md	kerbrute
+20221003150754	zet/20221003150754/README.md	keytool print certificate in RSA file
+20221003150755	zet/20221003150755/README.md	keytool
+20221003150756	zet/20221003150756/README.md	MSFVENOM tricks make executable binary with input shellcode
+20221003150757	zet/20221003150757/README.md	MSFVENOM tricks
+20221003150758	zet/20221003150758/README.md	MSFVENOM Active Sever Pages Extended (.aspx)
+20221003150759	zet/20221003150759/README.md	MSFVENOM Java Server Pages (.jsp) As .war
+20221003150760	zet/20221003150760/README.md	MSFVENOM Java Server Pages (.jsp)
+20221003150761	zet/20221003150761/README.md	MSFVENOM Linux Binary (.elf) 32 Bit (x86) Bind Shell
+20221003150762	zet/20221003150762/README.md	MSFVENOM Linux Binary (.elf) 32 Bit (x86) Reverse Shell
+20221003150763	zet/20221003150763/README.md	MSFVENOM Linux Binary (.elf) 32 Bit (x86) Bind Shell
+20221003150764	zet/20221003150764/README.md	MSFVENOM Linux Binary (.elf) 32 Bit (x86) Reverse Shell
+20221003150765	zet/20221003150765/README.md	MSFVENOM Linux Binary (.elf) 32 Bit (x86)
+20221003150766	zet/20221003150766/README.md	MSFVENOM Linux Binary (.elf)
+20221003150767	zet/20221003150767/README.md	MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) Meterpreter
+20221003150768	zet/20221003150768/README.md	MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) Bind Shell
+20221003150769	zet/20221003150769/README.md	MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) Reverse Shell
+20221003150770	zet/20221003150770/README.md	MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) service
+20221003150771	zet/20221003150771/README.md	MSFVENOM Windows Binary (.exe) executable 64 Bit (x64)
+20221003150772	zet/20221003150772/README.md	MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Bind Shell Output in Hex, C Style, Exclude bad chars, Exitfunction thread
+20221003150773	zet/20221003150773/README.md	MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Bind Shell
+20221003150774	zet/20221003150774/README.md	MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Reverse Shell
+20221003150775	zet/20221003150775/README.md	MSFVENOM Windows Binary (.exe) executable 32 Bit (x86)
+20221003150776	zet/20221003150776/README.md	MSFVENOM Windows Binary (.exe) executable
+20221003150777	zet/20221003150777/README.md	MSFVENOM
+20221003150778	zet/20221003150778/README.md	crowbar brute force RDP active directory domain joined
+20221003150779	zet/20221003150779/README.md	crowbar brute force RDP
+20221003150780	zet/20221003150780/README.md	crowbar
+20221003150781	zet/20221003150781/README.md	enum4linux-ng next gen default smb enumeration
+20221003150782	zet/20221003150782/README.md	enum4linux-ng next gen
+20221003150783	zet/20221003150783/README.md	enum4linux Scan Host Suppress Errors
+20221003150784	zet/20221003150784/README.md	enum4linux Scan Host
+20221003150785	zet/20221003150785/README.md	enum4linux enumerate SMB shares and permissions
+20221003150786	zet/20221003150786/README.md	enum4linux
+20221003150787	zet/20221003150787/README.md	openssl convert certificate to PKCS12 format
+20221003150788	zet/20221003150788/README.md	openssl sign a certificate signing request with the private key of a CA certificate authority
+20221003150789	zet/20221003150789/README.md	openssl create certificate signing request
+20221003150790	zet/20221003150790/README.md	openssl create a key 4096 bits
+20221003150791	zet/20221003150791/README.md	openssl
+20221003150792	zet/20221003150792/README.md	generate cewl wordlist from file plaintext with grep
+20221003150793	zet/20221003150793/README.md	generate cewl wordlist from file using temporary http server
+20221003150794	zet/20221003150794/README.md	generate cewl wordlist from file
+20221003150795	zet/20221003150795/README.md	generate cewl wordlist from website
+20221003150796	zet/20221003150796/README.md	generate cewl wordlist
+20221003150797	zet/20221003150797/README.md	git recover orphaned commits and files and restore a directory after reset
+20221003150798	zet/20221003150798/README.md	git
+20221003150799	zet/20221003150799/README.md	openssl commands decrypt file
+20221003150800	zet/20221003150800/README.md	openssl commands encrypt file
+20221003150801	zet/20221003150801/README.md	openssl commands
+20221003150802	zet/20221003150802/README.md	brute force default credentials tomcat metasploit
+20221003150803	zet/20221003150803/README.md	brute force default credentials tomcat wfuzz
+20221003150804	zet/20221003150804/README.md	brute force default credentials tomcat
+20221003150805	zet/20221003150805/README.md	brute force default credentials ssh
+20221003150806	zet/20221003150806/README.md	brute force default credentials mysql
+20221003150807	zet/20221003150807/README.md	brute force default credentials
+20221003150808	zet/20221003150808/README.md	wfuzz fuzzing details send to burpsuite local proxy
+20221003150809	zet/20221003150809/README.md	wfuzz fuzzing details show or hide responses containing text regex
+20221003150810	zet/20221003150810/README.md	wfuzz fuzzing details fuzz multiple parameters
+20221003150811	zet/20221003150811/README.md	wfuzz fuzzing details "X-Forwarded-For" header with custom IP ranges
+20221003150812	zet/20221003150812/README.md	wfuzz fuzzing details
+20221003150813	zet/20221003150813/README.md	meterpreter msf migrate local exploit suggester issues
+20221003150814	zet/20221003150814/README.md	meterpreter msf migrate
+20221003150815	zet/20221003150815/README.md	meterpreter msf move from x86 to x64
+20221003150816	zet/20221003150816/README.md	meterpreter msf
+20221003150817	zet/20221003150817/README.md	metasploit msf proxy exploits through burpsuite
+20221003150818	zet/20221003150818/README.md	metasploit msf run as script from rc file
+20221003150819	zet/20221003150819/README.md	metasploit msf
+20221003150820	zet/20221003150820/README.md	hydra bruteforce ftp rockyou 50
+20221003150821	zet/20221003150821/README.md	hydra bruteforce ftp default creds
+20221003150822	zet/20221003150822/README.md	hydra bruteforce ftp
+20221003150823	zet/20221003150823/README.md	hydra ssh brute force
+20221003150824	zet/20221003150824/README.md	postgres sql enumeration connect to database using file socket
+20221003150825	zet/20221003150825/README.md	postgres sql enumeration connect to database
+20221003150826	zet/20221003150826/README.md	postgres sql enumeration exit
+20221003150827	zet/20221003150827/README.md	postgres sql enumeration list tables and "relations"
+20221003150828	zet/20221003150828/README.md	postgres sql enumeration list databases
+20221003150829	zet/20221003150829/README.md	postgres sql enumeration list
+20221003150830	zet/20221003150830/README.md	postgres sql enumeration
+20221003150831	zet/20221003150831/README.md	davtest try uploading files to webDAV with or without credentials
+20221003150832	zet/20221003150832/README.md	responder add ssl certificate
+20221003150833	zet/20221003150833/README.md	responder
+20221003150834	zet/20221003150834/README.md	bruteforcing su passwords with sucrack
+20221003150835	zet/20221003150835/README.md	smb mount share old SMBv1 share
+20221003150836	zet/20221003150836/README.md	smb mount share unauthenticated
+20221003150837	zet/20221003150837/README.md	smb mount share
+20221003150838	zet/20221003150838/README.md	scan SMB for vulnerabilities with nmap
+20221003150839	zet/20221003150839/README.md	gobuster flags
+20221003150840	zet/20221003150840/README.md	gobuster vhost enumeration
+20221003150841	zet/20221003150841/README.md	gobuster fix HTTPS cert errors
+20221003150842	zet/20221003150842/README.md	gobuster Slow Scan (Check File Extensions)
+20221003150843	zet/20221003150843/README.md	gobuster Fast Scan (Big List)
+20221003150844	zet/20221003150844/README.md	gobuster Fast Scan (Small List)
+20221003150845	zet/20221003150845/README.md	gobuster scan files and discover backups
+20221003150846	zet/20221003150846/README.md	gobuster dirbusting
+20221003150847	zet/20221003150847/README.md	gobuster
+20221003150849	zet/20221003150849/README.md	hydra brute force HTTP basic authentication
+20221003150850	zet/20221003150850/README.md	dns commands update / change / delete DNS records for subdomain with nsupdate 86400 seconds = one day
+20221003150851	zet/20221003150851/README.md	dns commands update / change / delete DNS records for subdomain with nsupdate
+20221003150852	zet/20221003150852/README.md	dns commands enumerate with ANY query
+20221003150853	zet/20221003150853/README.md	dns commands zone transfer axfr
+20221003150854	zet/20221003150854/README.md	dns commands reverse lookup with dig
+20221003150855	zet/20221003150855/README.md	dns commands
+20221003150856	zet/20221003150856/README.md	ssh-keygen generate key to file no password prompt
+20221003150857	zet/20221003150857/README.md	ssh-keygen
+20221003150858	zet/20221003150858/README.md	SSH arguments use old ssh-rsa RSA private key allow for connection
+20221003150859	zet/20221003150859/README.md	SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm
+20221003150860	zet/20221003150860/README.md	SSH arguments connect to old server
+20221003150861	zet/20221003150861/README.md	SSH arguments troubleshoot diagnose connection problems
+20221003150862	zet/20221003150862/README.md	SSH arguments
+20221003150863	zet/20221003150863/README.md	wget download FTP directory files recursively
+20221003150864	zet/20221003150864/README.md	two-factor authentication 2fa generate one time pins OTP google authenticator
+20221003150865	zet/20221003150865/README.md	two-factor authentication 2fa generate one time pins OTP
+20221003150866	zet/20221003150866/README.md	two-factor authentication 2fa
+20221003150867	zet/20221003150867/README.md	john the ripper find all file formats supported with a 2john script or tojohn use sed to process / execute multiple expressions statements
+20221003150868	zet/20221003150868/README.md	john the ripper find all file formats supported with a 2john script or tojohn
+20221003150869	zet/20221003150869/README.md	john the ripper use rules to crack hashes from file with wordlist
+20221003150870	zet/20221003150870/README.md	john the ripper crack hashes from file with wordlist
+20221003150871	zet/20221003150871/README.md	john the ripper
+20221003150872	zet/20221003150872/README.md	host quick server smtp receive email server
+20221003150873	zet/20221003150873/README.md	host quick server
+20221003150874	zet/20221003150874/README.md	nikto command
+20221003150875	zet/20221003150875/README.md	sudo sudoers file all nopassword
+20221003150876	zet/20221003150876/README.md	sudo sudoers file
+20221003150877	zet/20221003150877/README.md	dirty cow privilege escalation working version build on attacker machine with statically linked binaries embedded
+20221003150879	zet/20221003150879/README.md	dirty cow privilege escalation
+20221003150880	zet/20221003150880/README.md	polkit linpeas report on CVE-2021-3560
+20221003150881	zet/20221003150881/README.md	create symbolic link
+20221003150882	zet/20221003150882/README.md	writing to and modifying setuid binaries
+20221003150883	zet/20221003150883/README.md	privilege escalation relative path abuse using echo
+20221003150884	zet/20221003150884/README.md	privilege escalation relative path abuse
+20221003150885	zet/20221003150885/README.md	Test CVE-2021-4034 in a docker Exploit
+20221003150886	zet/20221003150886/README.md	Test CVE-2021-4034 in a docker Dockerfile
+20221003150887	zet/20221003150887/README.md	Test CVE-2021-4034 in a docker Setup
+20221003150888	zet/20221003150888/README.md	Test CVE-2021-4034 in a docker Links to deb files
+20221003150889	zet/20221003150889/README.md	Test CVE-2021-4034 in a docker Original exploit
+20221003150890	zet/20221003150890/README.md	Test CVE-2021-4034 in a docker
+20221003150891	zet/20221003150891/README.md	enumerate open ports if `ss` is not present
+20221003150892	zet/20221003150892/README.md	get all root process IDs
+20221003150893	zet/20221003150893/README.md	get facl recursively centos / redhat
+20221003150894	zet/20221003150894/README.md	linux enumeration quick commands file transfer with cat herefiles
+20221003150895	zet/20221003150895/README.md	linux enumeration quick commands check if users can see other users' processes
+20221003150896	zet/20221003150896/README.md	linux enumeration quick commands list systemd timers
+20221003150897	zet/20221003150897/README.md	linux enumeration quick commands capabilities decode on host machine with capsh
+20221003150898	zet/20221003150898/README.md	linux enumeration quick commands capabilities running process effective capabilities
+20221003150899	zet/20221003150899/README.md	linux enumeration quick commands capabilities without getcap binary
+20221003150900	zet/20221003150900/README.md	linux enumeration quick commands capabilities get capabilities of all files recursively
+20221003150901	zet/20221003150901/README.md	linux enumeration quick commands capabilities
+20221003150902	zet/20221003150902/README.md	linux enumeration quick commands copy entire directory to attacker machine quickly by piping tar
+20221003150903	zet/20221003150903/README.md	linux enumeration quick commands find files that have millisecond microsecond nanosecond times not common install
+20221003150904	zet/20221003150904/README.md	linux enumeration quick commands exfiltrate files bash pipe tcp
+20221003150905	zet/20221003150905/README.md	linux enumeration quick commands transfer / download files with just bash send
+20221003150906	zet/20221003150906/README.md	linux enumeration quick commands transfer / download files with just bash receive
+20221003150907	zet/20221003150907/README.md	linux enumeration quick commands transfer / download files with just bash
+20221003150908	zet/20221003150908/README.md	linux enumeration quick commands get IP with no `ifconfig` or `ip a` on a host or within docker container
+20221003150909	zet/20221003150909/README.md	linux enumeration quick commands find all git repositories
+20221003150910	zet/20221003150910/README.md	linux enumeration quick commands get number of CPU processors
+20221003150911	zet/20221003150911/README.md	linux enumeration quick commands get all file hashes in directory using find and md5sum
+20221003150912	zet/20221003150912/README.md	linux enumeration quick commands find files modified between specific dates (with reference files)
+20221003150913	zet/20221003150913/README.md	linux enumeration quick commands find files modified between specific dates
+20221003150914	zet/20221003150914/README.md	linux enumeration quick commands find files belonging to group
+20221003150915	zet/20221003150915/README.md	linux enumeration quick commands find files belonging to user
+20221003150916	zet/20221003150916/README.md	linux enumeration quick commands find setuid binaries
+20221003150917	zet/20221003150917/README.md	linux enumeration quick commands process tree ps
+20221003150918	zet/20221003150918/README.md	linux enumeration quick commands enumerate open ports if `ss` is not present
+20221003150919	zet/20221003150919/README.md	linux enumeration quick commands list all recursively with ls sorting by modification date within directories
+20221003150920	zet/20221003150920/README.md	linux enumeration quick commands
+20221003150921	zet/20221003150921/README.md	windows persistence and DLL hijacking locations
+20221003150922	zet/20221003150922/README.md	BSD file transfers
+20221003150923	zet/20221003150923/README.md	BSD
+20221003150924	zet/20221003150924/README.md	/etc/passwd writable line privilege escalation exploit generate password
+20221003150925	zet/20221003150925/README.md	/etc/passwd writable line privilege escalation exploit write new root user line
+20221003150926	zet/20221003150926/README.md	/etc/passwd writable line privilege escalation exploit
+20221003150927	zet/20221003150927/README.md	C setuid suid backdoor exploit write setuid bit to binary with SO shared module object
+20221003150928	zet/20221003150928/README.md	C setuid suid backdoor exploit program to execute shell commands with system
+20221003150929	zet/20221003150929/README.md	C setuid suid backdoor exploit
+20221003150930	zet/20221003150930/README.md	lxd priv esc without painful build problems lxd priv esc victim
+20221003150931	zet/20221003150931/README.md	lxd priv esc without painful build problems lxd priv esc x86
+20221003150932	zet/20221003150932/README.md	lxd priv esc without painful build problems lxd priv esc x64
+20221003150933	zet/20221003150933/README.md	lxd priv esc without painful build problems
+20221003150934	zet/20221003150934/README.md	run DLL payload in windows
+20221003150935	zet/20221003150935/README.md	fail2ban writable conf RCE
+20221003150936	zet/20221003150936/README.md	fail2ban default config location
+20221003150937	zet/20221003150937/README.md	fail2ban
+20221003150938	zet/20221003150938/README.md	searchsploit exploitdb linux kernel exploit privesc
+20221003150939	zet/20221003150939/README.md	python imports library search path print with python command
+20221003150940	zet/20221003150940/README.md	python imports library search path
+20221003150941	zet/20221003150941/README.md	python imports files vs loading as libraries
+20221003150942	zet/20221003150942/README.md	python imports
+20221003150943	zet/20221003150943/README.md	python string alphanumeric chars
+20221003150944	zet/20221003150944/README.md	python hex to bytes
+20221003150945	zet/20221003150945/README.md	python hex to string
+20221003150946	zet/20221003150946/README.md	python
+20221003150947	zet/20221003150947/README.md	python fix SSL errors using requests library ignore errors
+20221003150948	zet/20221003150948/README.md	python fix SSL errors using requests library
+20221003150949	zet/20221003150949/README.md	python fix SSL errors
+20221003150950	zet/20221003150950/README.md	OSINT enumerate emails and username format for domain
+20221003150951	zet/20221003150951/README.md	OSINT organizations job postings
+20221003150952	zet/20221003150952/README.md	OSINT organizations github OSINT
+20221003150953	zet/20221003150953/README.md	OSINT organizations
+20221003150954	zet/20221003150954/README.md	OSINT social media OSINT
+20221003150955	zet/20221003150955/README.md	OSINT people OSINT
+20221003150956	zet/20221003150956/README.md	OSINT usernames and accounts OSINT
+20221003150957	zet/20221003150957/README.md	OSINT password OSINT gives you the credentials
+20221003150958	zet/20221003150958/README.md	OSINT password OSINT
+20221003150959	zet/20221003150959/README.md	OSINT email OSINT
+20221003150960	zet/20221003150960/README.md	OSINT physical location OSINT identifying geographic locations from pictures OSINT
+20221003150961	zet/20221003150961/README.md	OSINT physical location OSINT
+20221003150962	zet/20221003150962/README.md	OSINT image OSINT
+20221003150963	zet/20221003150963/README.md	OSINT search engine OSINT
+20221003150964	zet/20221003150964/README.md	OSINT sock puppets
+20221003150965	zet/20221003150965/README.md	OSINT guides and step-by-step flowcharts
+20221003150966	zet/20221003150966/README.md	OSINT
+20221003150967	zet/20221003150967/README.md	things to check in bloodhound
+20221003150968	zet/20221003150968/README.md	document.cookie and XSS
+20221003150969	zet/20221003150969/README.md	mobile apps and API testing steps for mobile app API + burpsuite
+20221003150970	zet/20221003150970/README.md	mobile apps and API testing
+20221003150971	zet/20221003150971/README.md	OWASP top 10 api bugs
+20221003150972	zet/20221003150972/README.md	crack salted md5 hash with hashcat
+20221003150973	zet/20221003150973/README.md	Look up localhost on a DNS server with nslookup
+20221003150974	zet/20221003150974/README.md	XXE xml external entity exfiltrate file out of band payload
+20221003150975	zet/20221003150975/README.md	XXE xml external entity
+20221003150976	zet/20221003150976/README.md	IDOR general steps
+20221003150977	zet/20221003150977/README.md	oracle connect as sysdba enable file read privileges
+20221003150978	zet/20221003150978/README.md	oracle
+20221003150979	zet/20221003150979/README.md	mariadb mysql files read database users
+20221003150980	zet/20221003150980/README.md	mariadb mysql files write
+20221003150981	zet/20221003150981/README.md	mariadb mysql files read
+20221003150982	zet/20221003150982/README.md	mariadb mysql files check permissions
+20221003150983	zet/20221003150983/README.md	mariadb mysql files
+20221003150984	zet/20221003150984/README.md	mariadb mysql SQLi information tables
+20221003150985	zet/20221003150985/README.md	mariadb mysql SQLi union injection
+20221003150986	zet/20221003150986/README.md	mariadb mysql SQLi concat multiple values into one field rows
+20221003150987	zet/20221003150987/README.md	mariadb mysql SQLi
+20221003150988	zet/20221003150988/README.md	mariadb mysql
+20221003150989	zet/20221003150989/README.md	GraphQL API pentesting to try list
+20221003150990	zet/20221003150990/README.md	GraphQL APIs example GraphQL queries from InsiderPHD video
+20221003150991	zet/20221003150991/README.md	GraphQL APIs writing GraphQL mutations
+20221003150992	zet/20221003150992/README.md	GraphQL APIs writing GraphQL queries
+20221003150993	zet/20221003150993/README.md	how GraphQL APIs work
+20221003150994	zet/20221003150994/README.md	GraphQL APIs common specific GraphQL endpoints
+20221003150995	zet/20221003150995/README.md	GraphQL APIs GraphQL tools
+20221003150996	zet/20221003150996/README.md	GraphQL APIs common GraphQL bugs
+20221003150997	zet/20221003150997/README.md	GraphQL APIs GraphQL introspection and recon
+20221003150998	zet/20221003150998/README.md	GraphQL APIs
+20221003150999	zet/20221003150999/README.md	API enumeration good wordlists API enumeration wordlists by size
+20221003151000	zet/20221003151000/README.md	API enumeration good wordlists last resort?
+20221003151001	zet/20221003151001/README.md	API enumeration good wordlists commonly used list of words
+20221003151002	zet/20221003151002/README.md	API enumeration good wordlists parameters
+20221003151003	zet/20221003151003/README.md	API enumeration good wordlists seclists for endpoints
+20221003151004	zet/20221003151004/README.md	API enumeration good wordlists
+20221003151005	zet/20221003151005/README.md	API enumeration bug hunting workflow
+20221003151006	zet/20221003151006/README.md	API enumeration
+20221003151007	zet/20221003151007/README.md	LFI or directory traversal procedures file wordlists linux
+20221003151008	zet/20221003151008/README.md	LFI or directory traversal procedures file wordlists
+20221003151009	zet/20221003151009/README.md	LFI or directory traversal procedures read scripts from web server process cwd downloading with curl  prevent normalization of paths
+20221003151010	zet/20221003151010/README.md	LFI or directory traversal procedures read scripts from web server process cwd downloading with curl 
+20221003151011	zet/20221003151011/README.md	LFI or directory traversal procedures read scripts from web server process cwd fuzzing script names
+20221003151012	zet/20221003151012/README.md	LFI or directory traversal procedures read scripts from web server process cwd
+20221003151013	zet/20221003151013/README.md	LFI or directory traversal procedures environment variables
+20221003151014	zet/20221003151014/README.md	LFI or directory traversal procedures
+20221003151015	zet/20221003151015/README.md	nmap scripts all script types
+20221003151016	zet/20221003151016/README.md	nmap scripts search by type
+20221003151017	zet/20221003151017/README.md	nmap scripts
+20221003151018	zet/20221003151018/README.md	.DS_Store file ds_store Mac OS parse scrape directory and file information
+20221003151019	zet/20221003151019/README.md	.DS_Store file ds_store Mac OS
+20221003151020	zet/20221003151020/README.md	SSTI polyglot payload
+20221003151021	zet/20221003151021/README.md	analyzing source code PHP code
+20221003151022	zet/20221003151022/README.md	analyzing source code go web server
+20221003151023	zet/20221003151023/README.md	analyzing source code
+20221003151024	zet/20221003151024/README.md	JWT tokens put token in HTTP request to API
+20221003151025	zet/20221003151025/README.md	JWT token concept
+20221003151026	zet/20221003151026/README.md	common misconfigurations of active directory
+20221003151027	zet/20221003151027/README.md	decrypt azure AD connect passwords powershell MSSQL queries
+20221003151028	zet/20221003151028/README.md	decrypt azure AD connect passwords
+20221003151029	zet/20221003151029/README.md	MS08-067
+20221003151030	zet/20221003151030/README.md	eternalblue MS17-010 - working
+20221003151031	zet/20221003151031/README.md	windows manipulate, enable and privesc with process tokens
+20221003151032	zet/20221003151032/README.md	fix downloading file with evil-winrm
+20221003151033	zet/20221003151033/README.md	applocker limit allowed executables and allowed paths bypass executable blocking
+20221003151034	zet/20221003151034/README.md	applocker limit allowed executables and allowed paths
+20221003151035	zet/20221003151035/README.md	hidden shares
+20221003151036	zet/20221003151036/README.md	program files UNP directory
+20221003151037	zet/20221003151037/README.md	program files ruxim directory
+20221003151038	zet/20221003151038/README.md	dumping credentials as admin in remote desktop RDP or GUI
+20221003151039	zet/20221003151039/README.md	dumping credentials as admin
+20221003151040	zet/20221003151040/README.md	create windows backdoor accounts
+20221003151041	zet/20221003151041/README.md	exploiting SeRestorePrivilege
+20221003151042	zet/20221003151042/README.md	windows alternate data streams commands displaying content with powershell
+20221003151043	zet/20221003151043/README.md	windows alternate data streams commands creating alt streams
+20221003151044	zet/20221003151044/README.md	windows alternate data streams commands enumerate directory for alt streams
+20221003151045	zet/20221003151045/README.md	windows alternate data streams commands
+20221003151046	zet/20221003151046/README.md	windows reverse shell AV bypass defender
+20221003151047	zet/20221003151047/README.md	windows reverse shell AV bypass active directory endpoint protection
+20221003151048	zet/20221003151048/README.md	windows reverse shell AV bypass
+20221003151049	zet/20221003151049/README.md	change user password powershell or dos
+20221003151050	zet/20221003151050/README.md	change user password
+20221003151051	zet/20221003151051/README.md	set date to match Active Directory server with ntpdate
+20221003151052	zet/20221003151052/README.md	check network time offset with network time protocol NTP server on windows AD kerberos
+20221003151053	zet/20221003151053/README.md	lsass process contains credentials
+20221003151054	zet/20221003151054/README.md	windows exploit unquoted service path meterpreter reverse service exe
+20221003151055	zet/20221003151055/README.md	get windows verison info from file read
+20221003151056	zet/20221003151056/README.md	get enumeration info from file read about level of patches installed on windows
+20221003151057	zet/20221003151057/README.md	get windows enumeration info from file read
+20221003151058	zet/20221003151058/README.md	windows directory traversal path traversal LFI strings
+20221003151059	zet/20221003151059/README.md	locations where authenticated users can write in windows
+20221003151060	zet/20221003151060/README.md	location of services in windows registry
+20221003151061	zet/20221003151061/README.md	bypass UAC with administrators group read files quickly using smb shares
+20221003151062	zet/20221003151062/README.md	bypass UAC with administrators group uacme bypass
+20221003151063	zet/20221003151063/README.md	bypass UAC with administrators group fodhelper bypass
+20221003151064	zet/20221003151064/README.md	bypass UAC with administrators group
+20221003151065	zet/20221003151065/README.md	AMSI detect windows defender with known malicious string
+20221003151066	zet/20221003151066/README.md	AMSI detect windows defender
+20221003151067	zet/20221003151067/README.md	AMSI
+20221003151068	zet/20221003151068/README.md	dump process memory with task manager as admin
+20221003151069	zet/20221003151069/README.md	dump process memory with sysinternals procdump
+20221003151070	zet/20221003151070/README.md	dump process memory
+20221003151071	zet/20221003151071/README.md	windows color script output winpeas log scroll with colors and convert to utf8 for linux
+20221003151072	zet/20221003151072/README.md	windows color script output winpeas log
+20221003151073	zet/20221003151073/README.md	windows color script output
+20221003151074	zet/20221003151074/README.md	service account privileges exploiting SeManageVolumePrivilege
+20221003151075	zet/20221003151075/README.md	service account privileges exploiting SeImpersonatePrivilege
+20221003151076	zet/20221003151076/README.md	service account privileges exploiting
+20221003151077	zet/20221003151077/README.md	service account privileges restore using FullPowers tool
+20221003151078	zet/20221003151078/README.md	service account privileges restore using scheduled task with powershell require seimpersonate privilege for task using principal
+20221003151079	zet/20221003151079/README.md	service account privileges restore using scheduled task with powershell
+20221003151080	zet/20221003151080/README.md	service account privileges restore
+20221003151081	zet/20221003151081/README.md	service account privileges
+20221003151082	zet/20221003151082/README.md	powerup powershell windows privesc enumeration script
+20221003151083	zet/20221003151083/README.md	establishing persistence on windows target in enterprise penetration test
+20221003151084	zet/20221003151084/README.md	windows sensitive file disclosure cheat sheet determine version
+20221003151085	zet/20221003151085/README.md	windows sensitive file disclosure cheat sheet
+20221003151086	zet/20221003151086/README.md	mimikatz troubleshooting `ERROR kuhl_m_sekurlsa_acquireLSA Key import`
+20221003151087	zet/20221003151087/README.md	mimikatz dump passwords
+20221003151088	zet/20221003151088/README.md	mimikatz all in one command for non-interactive powershell
+20221003151089	zet/20221003151089/README.md	mimikatz
+20221003151090	zet/20221003151090/README.md	powerview enumerate sensitive information disclosure on file shares
+20221003151091	zet/20221003151091/README.md	powerview
+20221003151092	zet/20221003151092/README.md	windows API enable privilege API calls
+20221003151093	zet/20221003151093/README.md	windows API enable privilege
+20221003151094	zet/20221003151094/README.md	windows API
+20221003151095	zet/20221003151095/README.md	active directory certificate services AD CS risks
+20221003151096	zet/20221003151096/README.md	active directory certificate services AD CS privesc
+20221003151097	zet/20221003151097/README.md	active directory certificate services AD CS
+20221003151098	zet/20221003151098/README.md	powershell commands execute encoded command as quietly as possible
+20221003151099	zet/20221003151099/README.md	powershell commands encoded command nop bypass hidden
+20221003151100	zet/20221003151100/README.md	powershell commands download and execute script
+20221003151101	zet/20221003151101/README.md	powershell commands
+20221003151102	zet/20221003151102/README.md	DOS commands download file from http
+20221003151104	zet/20221003151104/README.md	compile windows DLL to run commands DLL code building with mingw
+20221003151105	zet/20221003151105/README.md	compile windows DLL to run commands DLL code
+20221003151106	zet/20221003151106/README.md	compile windows DLL to run commands
+20221003151107	zet/20221003151107/README.md	dos commands net add user to domain group
+20221003151108	zet/20221003151108/README.md	dos commands net
+20221003151109	zet/20221003151109/README.md	dos commands admin / system dump registry secretsdump hashes
+20221003151110	zet/20221003151110/README.md	dos commands admin / system
+20221003151111	zet/20221003151111/README.md	dos commands kill process by id
+20221003151112	zet/20221003151112/README.md	dos commands services sc start service
+20221003151113	zet/20221003151113/README.md	dos commands services sc set binary path
+20221003151114	zet/20221003151114/README.md	dos commands services sc enable service
+20221003151115	zet/20221003151115/README.md	dos commands services sc
+20221003151116	zet/20221003151116/README.md	dos commands file permissions access check sysinternals
+20221003151117	zet/20221003151117/README.md	dos commands file permissions
+20221003151118	zet/20221003151118/README.md	dos commands show environment variables
+20221003151119	zet/20221003151119/README.md	dos commands active network connections
+20221003151120	zet/20221003151120/README.md	dos commands installed drivers
+20221003151121	zet/20221003151121/README.md	dos commands service paths
+20221003151122	zet/20221003151122/README.md	dos commands windows services and drivers
+20221003151123	zet/20221003151123/README.md	dos commands see running service processes
+20221003151124	zet/20221003151124/README.md	dos commands
+20221003151125	zet/20221003151125/README.md	active directory  delegation constrained
+20221003151126	zet/20221003151126/README.md	active directory  delegation unconstrained
+20221003151127	zet/20221003151127/README.md	active directory  delegation
+20221003151128	zet/20221003151128/README.md	active directory  DNS adding DNS records
+20221003151129	zet/20221003151129/README.md	active directory  DNS
+20221003151130	zet/20221003151130/README.md	active directory  change user password with rpcclient over SMB 
+20221003151131	zet/20221003151131/README.md	active directory  GMSA group managed service account remote LDAP read GMSA passwords python script fix missing ConvertFrom-AdManagedPasswordBlob
+20221003151132	zet/20221003151132/README.md	active directory  GMSA group managed service account remote LDAP read GMSA passwords python script
+20221003151133	zet/20221003151133/README.md	active directory  GMSA group managed service account read NTLM hash with powershell + python
+20221003151134	zet/20221003151134/README.md	active directory  GMSA group managed service account
+20221003151135	zet/20221003151135/README.md	active directory  workflow for penetration test on windows network in organization
+20221003151136	zet/20221003151136/README.md	active directory  mindset and methodology
+20221003151137	zet/20221003151137/README.md	active directory  sensitive files
+20221003151138	zet/20221003151138/README.md	active directory  Backup Operators group
+20221003151139	zet/20221003151139/README.md	active directory  ForceChangePassword change user password
+20221003151140	zet/20221003151140/README.md	active directory  NTLMv2 vs kerberos authentication on the network
+20221003151141	zet/20221003151141/README.md	active directory  exploiting permissions GenericAll
+20221003151142	zet/20221003151142/README.md	active directory  exploiting permissions WriteDacl
+20221003151143	zet/20221003151143/README.md	active directory  exploiting permissions
+20221003151144	zet/20221003151144/README.md	active directory 
+20221003151145	zet/20221003151145/README.md	resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec convert kirbi to ccache
+20221003151146	zet/20221003151146/README.md	resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec
+20221003151147	zet/20221003151147/README.md	resource based constrained delegation S4U attack powershell commands on target
+20221003151148	zet/20221003151148/README.md	resource based constrained delegation S4U attack
+20221003151149	zet/20221003151149/README.md	windows XP and windows server 2003 arbitrary file write -> remote code execution metasploit
+20221003151150	zet/20221003151150/README.md	windows XP and windows server 2003 write arbitrary MOF file for remote code execution
+20221003151152	zet/20221003151152/README.md	windows XP and windows server 2003
+20221003151153	zet/20221003151153/README.md	windows
+20221003151154	zet/20221003151154/README.md	linux hardening add hidepid to /proc at run time
+20221003151155	zet/20221003151155/README.md	linux hardening
+20221003151156	zet/20221003151156/README.md	hashcat generate passwords from password masks and output to stdout
+20221003151157	zet/20221003151157/README.md	hashcat generate wordlist from file with rules
+20221003151158	zet/20221003151158/README.md	License
+20221003151159	zet/20221003151159/README.md	Credit where credit is due
+20221003151160	zet/20221003151160/README.md	password_cracking_rule
+20221003151161	zet/20221003151161/README.md	pivoting guide
+20221003151162	zet/20221003151162/README.md	nmap UDP scan - individual port scans top ports command
+20221003151163	zet/20221003151163/README.md	nmap UDP scan - individual port scans
+20221003151164	zet/20221003151164/README.md	SNMP
+20221003151165	zet/20221003151165/README.md	TFTP udp 69 to try list
+20221003151166	zet/20221003151166/README.md	got access to docker repository
+20221003151167	zet/20221003151167/README.md	got hashes
+20221003151168	zet/20221003151168/README.md	HTTP proxy / squid proxy
+20221003151169	zet/20221003151169/README.md	NFS to try list
+20221003151170	zet/20221003151170/README.md	active directory domain old
+20221003151171	zet/20221003151171/README.md	active directory domain powershell web access
+20221003151172	zet/20221003151172/README.md	active directory domain to try list
+20221003151173	zet/20221003151173/README.md	SSH old SSH exploits
+20221003151174	zet/20221003151174/README.md	SSH to try list
+20221003151175	zet/20221003151175/README.md	EVERYTHING - common to try list
+20221003151176	zet/20221003151176/README.md	email POP3 / IMAP
+20221003151177	zet/20221003151177/README.md	Stuck to try list
+20221003151178	zet/20221003151178/README.md	got source code - analysis to try list
+20221003151179	zet/20221003151179/README.md	FTP to try list
+20221003151180	zet/20221003151180/README.md	HTTP UNCOMMON HTTP ( hacktricks )
+20221003151181	zet/20221003151181/README.md	HTTP compromised CMS login CMS auth code exec / becoming web user
+20221003151182	zet/20221003151182/README.md	HTTP compromised CMS login
+20221003151183	zet/20221003151183/README.md	HTTP vulnerability finding and fuzzing
+20221003151184	zet/20221003151184/README.md	HTTP found login form
+20221003151185	zet/20221003151185/README.md	HTTP bypassing restrictions
+20221003151186	zet/20221003151186/README.md	HTTP API and POST endpoints
+20221003151187	zet/20221003151187/README.md	HTTP LFI or dir traversal
+20221003151188	zet/20221003151188/README.md	HTTP found CMS
+20221003151189	zet/20221003151189/README.md	HTTP specific HTTP server exploit possibilities
+20221003151190	zet/20221003151190/README.md	HTTP BUSTING directory busting to try list
+20221003151191	zet/20221003151191/README.md	HTTP uncommon ideas list
+20221003151192	zet/20221003151192/README.md	HTTP to try list
+20221003151193	zet/20221003151193/README.md	HTTP
+20221003151194	zet/20221003151194/README.md	procedure
+20221003151195	zet/20221003151195/README.md	DNS to try list
+20221003151196	zet/20221003151196/README.md	IPMI
+20221003151197	zet/20221003151197/README.md	SMB old SMB exploits
+20221003151198	zet/20221003151198/README.md	SMB to try list
+20221003151199	zet/20221003151199/README.md	finger tcp 79
+20221003151200	zet/20221003151200/README.md	got read or write access to filesystem
+20221003151201	zet/20221003151201/README.md	RDP
+20221003151202	zet/20221003151202/README.md	wsmans tcp 1270, 5985, 5986
+20221003151203	zet/20221003151203/README.md	LDAP
+20221003151204	zet/20221003151204/README.md	got access to databases - general SQL
+20221003151205	zet/20221003151205/README.md	windows privilege escalation AD headline exploits
+20221003151206	zet/20221003151206/README.md	windows privilege escalation headline exploits
+20221003151207	zet/20221003151207/README.md	windows privilege escalation
+20221003151208	zet/20221003151208/README.md	linux privilege escalation headline exploits
+20221003151209	zet/20221003151209/README.md	linux privilege escalation exploiting scripts on linux
+20221003151210	zet/20221003151210/README.md	linux privilege escalation
+20221003151211	zet/20221003151211/README.md	got leaked files jar
+20221003151212	zet/20221003151212/README.md	got leaked files encrypted zip files
+20221003151213	zet/20221003151213/README.md	got leaked files to try list
+20221003151214	zet/20221003151214/README.md	got leaked files
+20221003151215	zet/20221003151215/README.md	caddy install
+20221003151216	zet/20221003151216/README.md	caddy stand up https server with a valid certificate
+20221003151217	zet/20221003151217/README.md	caddy
+20221003151218	zet/20221003151218/README.md	send email over SMTP from command line with swaks
+20221003151219	zet/20221003151219/README.md	hql injection auth bypass example
+20221003151220	zet/20221003151220/README.md	hql injection
+20221003151221	zet/20221003151221/README.md	pypykatz dump hashes from registry backup
+20221003151222	zet/20221003151222/README.md	identify linux version from service version ubuntu
+20221003151223	zet/20221003151223/README.md	identify linux version from service version
+20221003151224	zet/20221003151224/README.md	php filter LFI to iconv RCE updated conversion table for all base64 (hacktricks)
+20221003151225	zet/20221003151225/README.md	php filter LFI to iconv RCE original get 0 script
+20221003151226	zet/20221003151226/README.md	php filter LFI to iconv RCE
+20221003151227	zet/20221003151227/README.md	convert string to a base64 encoded UTF-16LE string to be used by powershell
+20221003151228	zet/20221003151228/README.md	VBScript Download Files
+20221003151229	zet/20221003151229/README.md	VBScript Create wget.vbs File
+20221003151230	zet/20221003151230/README.md	VBScript
+20221003151231	zet/20221003151231/README.md	mysql mariadb find plugin directory
+20221003151232	zet/20221003151232/README.md	mysql mariadb exploit GRANT OPTION to grant file write permissions to self
+20221003151233	zet/20221003151233/README.md	mysql mariadb write UDF shell or any binary file with file permissions
+20221003151235	zet/20221003151235/README.md	mysql mariadb display query output as pretty printed text with column names
+20221003151236	zet/20221003151236/README.md	mysql mariadb
+20221003151237	zet/20221003151237/README.md	wfuzz identify files containing version info like README and changelog
+20221003151238	zet/20221003151238/README.md	firefox url bar get tld working for ctf boxes
+20221003151239	zet/20221003151239/README.md	make date wordlist for fuzzing with bash and parameter expansion
+20221003151240	zet/20221003151240/README.md	Using touch to make files with strange names for exploiting scripts
+20221003151241	zet/20221003151241/README.md	ping whole subnet of IPs in a loop to fingerprint OS versions
+20221003151242	zet/20221003151242/README.md	preparing malicious package payloads node npm package malicious repository ( tcp port 4873 )
+20221003151243	zet/20221003151243/README.md	preparing malicious package payloads node npm package
+20221003151244	zet/20221003151244/README.md	preparing malicious package payloads
+20221003151245	zet/20221003151245/README.md	Jenkins / Groovy (Java) Reverse Shell Windows
+20221003151246	zet/20221003151246/README.md	Jenkins / Groovy (Java) Reverse Shell Linux
+20221003151247	zet/20221003151247/README.md	Jenkins / Groovy (Java) Reverse Shell
+20221003151248	zet/20221003151248/README.md	sending installs to target install pip modules on target as files with no dependencies on network connection to pip
+20221003151249	zet/20221003151249/README.md	sending installs to target install programs on target as tar archive file using docker to find installed dependencies
+20221003151250	zet/20221003151250/README.md	sending installs to target
+20221003151251	zet/20221003151251/README.md	run executable binary programs within process memory windows cobalt strike BOF.NET common language runtime CLR .NET assemblies
+20221003151252	zet/20221003151252/README.md	run executable binary programs within process memory windows cobalt strike BOF C DLLs
+20221003151253	zet/20221003151253/README.md	run executable binary programs within process memory windows cobalt strike
+20221003151254	zet/20221003151254/README.md	run executable binary programs within process memory windows
+20221003151255	zet/20221003151255/README.md	run executable binary programs within process memory linux base64 piped text using dd and shellcode
+20221003151256	zet/20221003151256/README.md	run executable binary programs within process memory linux
+20221003151257	zet/20221003151257/README.md	run executable binary programs within process memory
+20221003151258	zet/20221003151258/README.md	scan for ports to connect back on through firewall
+20221003151259	zet/20221003151259/README.md	stabilize shell with script command
+20221003151260	zet/20221003151260/README.md	run windows exploit on linux using wine
+20221003151261	zet/20221003151261/README.md	build windows exploit on linux using mingw
+20221003151262	zet/20221003151262/README.md	windows executable smartscreen protection bypass ( apt 29 )
+20221003151263	zet/20221003151263/README.md	windows executable smartscreen protection
+20221003151264	zet/20221003151264/README.md	fzf Help
+20221003151265	zet/20221003151265/README.md	fzf install
+20221003151266	zet/20221003151266/README.md	fzf run with preview
+20221003151267	zet/20221003151267/README.md	fzf
+20221003151268	zet/20221003151268/README.md	Lookup missing packages with command-not-found
+20221003151269	zet/20221003151269/README.md	docker cleanup Free up space immediately
+20221003151270	zet/20221003151270/README.md	docker cleanup Try to keep logs under control
+20221003151271	zet/20221003151271/README.md	docker cleanup
+20221003151272	zet/20221003151272/README.md	docker compose aliases for convenience
+20221003151273	zet/20221003151273/README.md	run container in background without exiting
+20221003151274	zet/20221003151274/README.md	install mandown
+20221003151275	zet/20221003151275/README.md	install docker compose cli extension
+20221003151276	zet/20221003151276/README.md	linux data science issues
+20221003151277	zet/20221003151277/README.md	linux data science utilities
+20221003151278	zet/20221003151278/README.md	linux data science
+20221003151279	zet/20221003151279/README.md	YAML parsing yq
+20221003151280	zet/20221003151280/README.md	YAML parsing
+20221003151281	zet/20221003151281/README.md	YAML
+20221003151282	zet/20221003151282/README.md	topological sort with tsort sort items occuring before each other example solution to programming challenge in bash
+20221003151283	zet/20221003151283/README.md	topological sort with tsort sort items occuring before each other
+20221003151284	zet/20221003151284/README.md	topological sort with tsort
+20221003151285	zet/20221003151285/README.md	postgres cannot find table name
+20221003151286	zet/20221003151286/README.md	postgres
+20221003151287	zet/20221003151287/README.md	jq pipe and filter objects syntax
+20221003151288	zet/20221003151288/README.md	jq pipe syntax
+20221003151289	zet/20221003151289/README.md	jq
+20221003151290	zet/20221003151290/README.md	C template copy/pipe output to/from processes with popen fgetc fputc
+20221003151291	zet/20221003151291/README.md	C template readline prompt
+20221003151292	zet/20221003151292/README.md	C template
+20221003151293	zet/20221003151293/README.md	debugging bash in terminal
+20221003151294	zet/20221003151294/README.md	debugging bash in visual studio code
+20221003151295	zet/20221003151295/README.md	debugging bash
+20221003151296	zet/20221003151296/README.md	bash tricks check if current directory is writable
+20221003151297	zet/20221003151297/README.md	bash tricks run a command / program in a pty to get color output shodan host
+20221003151298	zet/20221003151298/README.md	bash tricks run a command / program in a pty to get color output
+20221003151299	zet/20221003151299/README.md	bash tricks
+20221003151300	zet/20221003151300/README.md	drop newlines from stream with tr
+20221003151301	zet/20221003151301/README.md	pipe into sed command to strip color
+20221003151302	zet/20221003151302/README.md	get current script directory
+20221003151303	zet/20221003151303/README.md	bash scripting set operations comm find lines unique to one file and not in another
+20221003151304	zet/20221003151304/README.md	bash scripting set operations comm find common lines between two files
+20221003151305	zet/20221003151305/README.md	bash scripting set operations comm
+20221003151306	zet/20221003151306/README.md	bash scripting set operations
+20221003151307	zet/20221003151307/README.md	expect scripts use arguments
+20221003151308	zet/20221003151308/README.md	expect scripts record
+20221003151309	zet/20221003151309/README.md	expect scripts
+20221003151310	zet/20221003151310/README.md	bash scripting substitution syntax return something if another variable is set
+20221003151311	zet/20221003151311/README.md	bash scripting substitution syntax read variable or else exit if undefined
+20221003151312	zet/20221003151312/README.md	bash scripting substitution syntax return substring of name
+20221003151313	zet/20221003151313/README.md	bash scripting substitution syntax return variables value or default
+20221003151314	zet/20221003151314/README.md	bash scripting substitution syntax initialize variable with default value if empty and return it example
+20221003151315	zet/20221003151315/README.md	bash scripting substitution syntax initialize variable with default value if empty and return it
+20221003151316	zet/20221003151316/README.md	bash scripting substitution syntax
+20221003151317	zet/20221003151317/README.md	bash parse xml cli with xpath using xpup
+20221003151318	zet/20221003151318/README.md	bash parse xml cli
+20221003151319	zet/20221003151319/README.md	get current date - linux bash scripting current year
+20221003151320	zet/20221003151320/README.md	get current date - linux bash scripting current unix epoch timestamp
+20221003151321	zet/20221003151321/README.md	get current date - linux bash scripting
+20221003151322	zet/20221003151322/README.md	watch failed ssh login attempts as a live stream
+20221003151323	zet/20221003151323/README.md	ASCII text-based TSV / CSV file database join tables
+20221003151324	zet/20221003151324/README.md	ASCII text-based TSV / CSV file database
+20221003151325	zet/20221003151325/README.md	Capture screenshot of url "utility to capture WebKit's rendering of a web page"
+20221003151326	zet/20221003151326/README.md	bash scripting convert text strings or wordlists to uppercase
+20221003151327	zet/20221003151327/README.md	bash scripting convert text strings or wordlists to lowercase
+20221003151328	zet/20221003151328/README.md	bash scripting convert text strings or wordlists
+20221003151329	zet/20221003151329/README.md	bash scripting
+20221003151330	zet/20221003151330/README.md	bash scripting check if a variable is empty concise
+20221003151331	zet/20221003151331/README.md	bash scripting check if a variable is empty
+20221003151332	zet/20221003151332/README.md	bash scripting
+20221003151333	zet/20221003151333/README.md	bash command reference make temp directory
+20221003151334	zet/20221003151334/README.md	bash command reference get full path to file from relative path
+20221003151335	zet/20221003151335/README.md	bash command reference
+20221003151336	zet/20221003151336/README.md	awk scripting initialize TSV tab separated values output
+20221003151337	zet/20221003151337/README.md	awk scripting initialize TSV tab separated values
+20221003151338	zet/20221003151338/README.md	awk scripting
+20221003151339	zet/20221003151339/README.md	enumerate all python imports; chain 2 awk scripts with a filter
+20221003151340	zet/20221003151340/README.md	awk print unbuffered output
+20221003151341	zet/20221003151341/README.md	awk split string
+20221003151342	zet/20221003151342/README.md	convert decimal to hex GMSA managed password
+20221003151343	zet/20221003151343/README.md	convert decimal to hex
+20221003151344	zet/20221003151344/README.md	awk bash scripting split into files by column value
+20221003151348	zet/20221003151348/README.md	awk bash scripting move files automatically
+20221003151350	zet/20221003151350/README.md	awk and bash scripting
+20221003151351	zet/20221003151351/README.md	python scripting parse all post params from post content given on standard input
+20221003151352	zet/20221003151352/README.md	python scripting convert tsv with key and value fields to python dictionary
+20221003151353	zet/20221003151353/README.md	python scripting fuzz valid dates
+20221003151354	zet/20221003151354/README.md	python scripting convert a GMSA managed password structure to a NTLM hash
+20221003151355	zet/20221003151355/README.md	python scripting read and process lines of input
+20221003151356	zet/20221003151356/README.md	python scripting urlencode every input line
+20221003151357	zet/20221003151357/README.md	python scripting parse all get parameters from a url
+20221003151358	zet/20221003151358/README.md	python scripting parse a cookie from every line on standard input
+20221003151359	zet/20221003151359/README.md	python scripting convert CSV to TSV
+20221003151360	zet/20221003151360/README.md	python scripting connect to remote server
+20221003151361	zet/20221003151361/README.md	python scripting test exploit locally
+20221003151362	zet/20221003151362/README.md	python scripting pwntools template binary exploit script
+20221003151363	zet/20221003151363/README.md	python scripting
+20221003151364	zet/20221003151364/README.md	bash scripting get bash lines from kb snippets
+20221003151365	zet/20221003151365/README.md	bash scripting urlencode a line of text from stdin
+20221003151366	zet/20221003151366/README.md	bash scripting install vscode
+20221003151367	zet/20221003151367/README.md	bash scripting list public github repositories for user
+20221003151368	zet/20221003151368/README.md	bash scripting get top N most common ports from nmap list pass argument
+20221003151369	zet/20221003151369/README.md	bash scripting install sublimetext
+20221003151370	zet/20221003151370/README.md	bash scripting get library dependency versions from composer.lock json file
+20221003151371	zet/20221003151371/README.md	bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date
+20221003151372	zet/20221003151372/README.md	bash scripting convert string to hex with no newlines
+20221003151373	zet/20221003151373/README.md	bash scripting sort words by length
+20221003151374	zet/20221003151374/README.md	bash scripting build and run CrackMapExec docker
+20221003151375	zet/20221003151375/README.md	bash scripting run strings on memory dumps for every readable process
+20221003151376	zet/20221003151376/README.md	bash scripting get argument value or default
+20221003151377	zet/20221003151377/README.md	bash scripting find the largest N files
+20221003151378	zet/20221003151378/README.md	bash scripting build and run enum4linux-ng docker
+20221003151379	zet/20221003151379/README.md	bash scripting mount host neo4j data into docker
+20221003151380	zet/20221003151380/README.md	bash scripting run neo4j in a docker
+20221003151381	zet/20221003151381/README.md	bash scripting get random hex unique ID bash
+20221003151382	zet/20221003151382/README.md	bash scripting take only unique git hashes and do md5 hashes of those files
+20221003151383	zet/20221003151383/README.md	bash scripting get all tags and start walking their commits
+20221003151384	zet/20221003151384/README.md	bash scripting clone repo into temp dir
+20221003151385	zet/20221003151385/README.md	bash scripting loop over bash array
+20221003151386	zet/20221003151386/README.md	bash scripting define bash array
+20221003151387	zet/20221003151387/README.md	bash scripting generate ISO format dates wordlists for the last few years
+20221003151388	zet/20221003151388/README.md	bash scripting search through tldr command descriptions with fzf and display file with bat
+20221003151389	zet/20221003151389/README.md	bash scripting copy and read text from PNG image URL arg print with tesseract OCR
+20221003151390	zet/20221003151390/README.md	bash scripting get headings from wikipedia page
+20221003151391	zet/20221003151391/README.md	bash scripting clone github repository and build docker image with its name
+20221003151392	zet/20221003151392/README.md	bash scripting launch ubuntu build environment docker with current directory mounted as working directory
+20221003151393	zet/20221003151393/README.md	bash scripting lookup unique hosts with shodan api
+20221003151394	zet/20221003151394/README.md	bash scripting watch failed ssh login attempts as a live stream
+20221003151395	zet/20221003151395/README.md	bash scripting get the current user's github api key
+20221003151396	zet/20221003151396/README.md	bash scripting run exiftool on all of the images within a directory
+20221003151397	zet/20221003151397/README.md	bash scripting decorate and colorize a passwd file piped from stdin
+20221003151398	zet/20221003151398/README.md	bash scripting build and run impacket docker
+20221003151399	zet/20221003151399/README.md	bash scripting find alphanumeric base64 using awk script
+20221003151400	zet/20221003151400/README.md	bash scripting update all the git repos in home directory and prompt with lazygit
+20221003151401	zet/20221003151401/README.md	bash scripting extract zlib stream between PDF stream and endstream with quick and dirty awk
+20221003151402	zet/20221003151402/README.md	bash scripting prepend gzip magic bytes
+20221003151403	zet/20221003151403/README.md	bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf
+20221003151404	zet/20221003151404/README.md	bash scripting decorate XML with colors for tags, attributes, and content
+20221003151405	zet/20221003151405/README.md	bash scripting shortcut to start tmux session in a working directory with alacritty
+20221003151406	zet/20221003151406/README.md	bash scripting download the current CVE list get as Tab Separated Values
+20221003151407	zet/20221003151407/README.md	bash scripting pull all the git repos in home directory
+20221003151408	zet/20221003151408/README.md	parse burpsuite saved request file and convert to python requests script for copying
+20221003151409	zet/20221003151409/README.md	bash scripting get the current user's github colon separated credentials
+20221003151410	zet/20221003151410/README.md	bash scripting get raw HTTP request data from burp saved request
+20221003151411	zet/20221003151411/README.md	bash scripting run docker image with current directory mounted as working directory
+20221003151412	zet/20221003151412/README.md	bash scripting mount shared folders on VM
+20221003151413	zet/20221003151413/README.md	bash scripting colorize words from stdin with regular expressions
+20221003151414	zet/20221003151414/README.md	bash scripting generate common passwords
+20221003151415	zet/20221003151415/README.md	bash scripting print the md5 hashes of all lines in a wordlist file
+20221003151416	zet/20221003151416/README.md	bash scripting query nmap ports and service description definitions
+20221003151417	zet/20221003151417/README.md	bash scripting exit if parameter is missing
+20221003151418	zet/20221003151418/README.md	bash scripting parse args with case statement
+20221003151419	zet/20221003151419/README.md	bash scripting return the most recently updated ubuntu distro
+20221003151420	zet/20221003151420/README.md	bash scripting remove git from directory name
+20221003151421	zet/20221003151421/README.md	bash scripting find all git repositories in a directory
+20221003151422	zet/20221003151422/README.md	bash scripting use awk to print only unique lines as a stream processor
+20221003151423	zet/20221003151423/README.md	bash scripting urlencode and base64 encode lines individually
+20221003151424	zet/20221003151424/README.md	bash scripts
+20221003151425	zet/20221003151425/README.md	awk scripting get HTTP POST content from HTTP request stream
+20221003151426	zet/20221003151426/README.md	awk scripting combine lines with all previous lines combinatorically
+20221003151427	zet/20221003151427/README.md	awk scripting awk print markdown snippet text between backtick lines
+20221003151428	zet/20221003151428/README.md	awk scripting autogenerate headings for source files
+20221003151429	zet/20221003151429/README.md	awk scripting print all variations of upper and lower case for given lowercase string
+20221003151430	zet/20221003151430/README.md	awk scripting constrict line widths of input text stream
+20221003151431	zet/20221003151431/README.md	awk scripting check output of grep and next line using awk "grep -A 1 -R '^' ."
+20221003151432	zet/20221003151432/README.md	awk scripting filter the CVE list for potentially valid, relevant vulnerabilities
+20221003151433	zet/20221003151433/README.md	awk scripting combine lines from two files combinatorically with symbol between
+20221003151434	zet/20221003151434/README.md	awk scripting get column headings from first line of CSV
+20221003151435	zet/20221003151435/README.md	awk scripting print nested markdown content within headings
+20221003151436	zet/20221003151436/README.md	awk scripting print all variations of spaces between tokens
+20221003151437	zet/20221003151437/README.md	awk scripting read and write a separated value file as a database
+20221003151438	zet/20221003151438/README.md	awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
+20221003151439	zet/20221003151439/README.md	awk scripting base64 encode lines individually
+20221003151440	zet/20221003151440/README.md	awk scripting replace words with colorized versions
+20221003151441	zet/20221003151441/README.md	awk scripting
+20221003151442	zet/20221003151442/README.md	Box drawing ascii unicode characters
+20221003151443	zet/20221003151443/README.md	kb
+20221004212452	zet/20221004212452/README.md	keyword stuffing zettels to fix bash sh
+20221005194814	zet/20221005194814/README.md	Related
+20221005195739	zet/20221005195739/README.md	testing 123
+20221005200242	zet/20221005200242/README.md	empty zettels to fix
+20221006010149	zet/20221006010149/README.md	inserting lines with sed
+20221006010531	zet/20221006010531/README.md	sed scripts
+20221006012927	zet/20221006012927/README.md	update multiple zettel links
+20221006013313	zet/20221006013313/README.md	zettelkasten
+20221006013612	zet/20221006013612/README.md	markdown to zettelkasten conversion project
+20221006020303	zet/20221006020303/README.md	zettelkasten note types
+20221006025356	zet/20221006025356/README.md	linux
+20221006025730	zet/20221006025730/README.md	apt repositories
+20221006032546	zet/20221006032546/README.md	my implementation of zet cmd
+20221006032933	zet/20221006032933/README.md	problems / issues with zet cmd
+20221006033248	zet/20221006033248/README.md	rwxrob
+20221006034046	zet/20221006034046/README.md	kafka and zettelkasten graph docs
+20221006035818	zet/20221006035818/README.md	rwxrob skilstak beginner boost videos
+20221006051705	zet/20221006051705/README.md	moving to real zk implementation
+20221006054727	zet/20221006054727/README.md	idea about zettels, commits, and scripts
+20221006063114	zet/20221006063114/README.md	small files are stored in inodes in ext4
+20221006072230	zet/20221006072230/README.md	arrays in yaml
+20221006073459	zet/20221006073459/README.md	assorted notes from videos rwxrob notes `Tue Oct 4`
+20221006084204	zet/20221006084204/README.md	future enhancements to zet cmd
+20221006135903	zet/20221006135903/README.md	Related
+20221006140015	zet/20221006140015/README.md	Related
+20221006140122	zet/20221006140122/README.md	Related
+20221006140135	zet/20221006140135/README.md	Related
+20221006140520	zet/20221006140520/README.md	zet cmd spawn feature
+20221006142610	zet/20221006142610/README.md	recommending zettelkasten note-taking method
+20221006145626	zet/20221006145626/README.md	why does rwxrob's zettelkasten have so few links?
+20221006153432	zet/20221006153432/README.md	Related
+20221006153444	zet/20221006153444/README.md	Related
+20221006153641	zet/20221006153641/README.md	zettelkasten on github
+20221006185420	zet/20221006185420/README.md	rubik's cube cheat sheet
+20221006191703	zet/20221006191703/README.md	bash trick printf to variable
+20221006200018	zet/20221006200018/README.md	OCR youtube video frames
+20221006204315	zet/20221006204315/README.md	fastest way to take graph notes
+20221006213130	zet/20221006213130/README.md	hacking / CTF platforms
+20221006213311	zet/20221006213311/README.md	hackthebox
+20221006213414	zet/20221006213414/README.md	retired machines
+20221006213649	zet/20221006213649/README.md	offensive security
+20221006213821	zet/20221006213821/README.md	tryhackme
+20221006213953	zet/20221006213953/README.md	video notes
+20221006214142	zet/20221006214142/README.md	streamers
+20221006214348	zet/20221006214348/README.md	ippsec
+20221006214729	zet/20221006214729/README.md	alh4zr3d
+20221006215135	zet/20221006215135/README.md	siren
+20221006215353	zet/20221006215353/README.md	InsiderPHD
+20221006215623	zet/20221006215623/README.md	scrambled machine video notes
+20221006220044	zet/20221006220044/README.md	adding stream notes
+20221007023939	zet/20221007023939/README.md	python ternary operator
+20221007043259	zet/20221007043259/README.md	zettelkasten generic ideas
+20221007043646	zet/20221007043646/README.md	findings about implementing zettelkasten
+20221007044552	zet/20221007044552/README.md	todo or to-try list
+20221007051119	zet/20221007051119/README.md	zet cmd enrich process
+20221007055535	zet/20221007055535/README.md	full list of zetcmd actions
+20221007062330	zet/20221007062330/README.md	broken stuff to fix
+20221007175034	zet/20221007175034/README.md	optimizations for enrichment process
+20221007181438	zet/20221007181438/README.md	directories and bash scripts as commands
+20221007182026	zet/20221007182026/README.md	scripts related to zettelkasten conversion
+20221007185940	zet/20221007185940/README.md	unsorted nodes
+20221007192111	zet/20221007192111/README.md	the first zettel generated from github
+20221007193324	zet/20221007193324/README.md	github actions
+20221007193634	zet/20221007193634/README.md	example github actions scripts
+20221007194303	zet/20221007194303/README.md	github
+20221007200304	zet/20221007200304/README.md	how to use zc cmd
+20221007205652	zet/20221007205652/README.md	find limit recursion depth
+20221007220451	zet/20221007220451/README.md	hacking notes hub
+20221008005525	zet/20221008005525/README.md	bash scripting pitfalls and anti-patterns
+20221008021753	zet/20221008021753/README.md	home .local/bin scripts
+20221008024933	zet/20221008024933/README.md	vim code block lines
+20221008042334	zet/20221008042334/README.md	why does git ask questions instead of pulling changes
+20221008042814	zet/20221008042814/README.md	WIP
+20221008050923	zet/20221008050923/README.md	tmux buffers as bash script pipe debug file buffer
+20221008052510	zet/20221008052510/README.md	80-20 rule
+20221008054439	zet/20221008054439/README.md	graph database
+20221008054623	zet/20221008054623/README.md	neo4j
+20221008061334	zet/20221008061334/README.md	concepts
+20221008061845	zet/20221008061845/README.md	workflow
+20221008063052	zet/20221008063052/README.md	autorunning scripts in cards
+20221008070202	zet/20221008070202/README.md	awk bash dealing with file paths
+20221008081231	zet/20221008081231/README.md	debugging
+20221008181005	zet/20221008181005/README.md	getting github data about vulnerable hashes
+20221008181850	zet/20221008181850/README.md	SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
+20221008182309	zet/20221008182309/README.md	learning git internals
+20221008183326	zet/20221008183326/README.md	findings about video notes
+20221008190117	zet/20221008190117/README.md	how do you work on a github branch
+20221008191607	zet/20221008191607/README.md	procmon auto scroll
+20221008194048	zet/20221008194048/README.md	good DLLs to hide in for sideloading
+20221008195148	zet/20221008195148/README.md	seclists etc files project
+20221008210209	zet/20221008210209/README.md	nim makes smaller wasm binaries than rust
+20221008210746	zet/20221008210746/README.md	use title of zettel as fzf prompt
+20221008211707	zet/20221008211707/README.md	making cool stuff
+20221008212000	zet/20221008212000/README.md	coding / programming
+20221008212519	zet/20221008212519/README.md	programming language
+20221008212802	zet/20221008212802/README.md	software program
+20221008212929	zet/20221008212929/README.md	running process
+20221008213122	zet/20221008213122/README.md	version
+20221008213254	zet/20221008213254/README.md	file path
+20221008213357	zet/20221008213357/README.md	version of program
+20221008213458	zet/20221008213458/README.md	operating system
+20221008213627	zet/20221008213627/README.md	enhancement / improvement
+20221008213825	zet/20221008213825/README.md	hacker concept of CMS - slang lingo for web app / service
+20221008214406	zet/20221008214406/README.md	sharing programming projects with zettelkasten
+20221008214631	zet/20221008214631/README.md	vim hotkeys and tricks
+20221008214827	zet/20221008214827/README.md	the concept of utility or being useful
+20221008214935	zet/20221008214935/README.md	go language
+20221008215139	zet/20221008215139/README.md	hash / checksum
+20221008215325	zet/20221008215325/README.md	password
+20221008215400	zet/20221008215400/README.md	file
+20221008215530	zet/20221008215530/README.md	username
+20221008215655	zet/20221008215655/README.md	user account
+20221008215739	zet/20221008215739/README.md	go packages have checksums
+20221008221548	zet/20221008221548/README.md	website
+20221008221822	zet/20221008221822/README.md	www - the web
+20221008221940	zet/20221008221940/README.md	URL
+20221009001238	zet/20221009001238/README.md	certification
+20221009001455	zet/20221009001455/README.md	RHCSE Red Hat Certified System Administrator
+20221009001740	zet/20221009001740/README.md	OSCP exam
+20221009005402	zet/20221009005402/README.md	preparing for the OSCP exam
+20221009012547	zet/20221009012547/README.md	Github UI tricks
+20221009013945	zet/20221009013945/README.md	how to clear vim search highlights?
+20221009014200	zet/20221009014200/README.md	concept of a command
+20221009015032	zet/20221009015032/README.md	let's make a dockerfile for zet cmd
+20221009015558	zet/20221009015558/README.md	docker
+20221009015743	zet/20221009015743/README.md	dockerfile
+20221009021452	zet/20221009021452/README.md	container
+20221009022138	zet/20221009022138/README.md	parse text in zettelkasten with python scripts
+20221009023024	zet/20221009023024/README.md	screenshot of taking notes
+20221009032056	zet/20221009032056/README.md	keeping track of htb ctf flags
+20221009091132	zet/20221009091132/README.md	new links should come in at the bottom
+20221009095853	zet/20221009095853/README.md	finished
+20221009100510	zet/20221009100510/README.md	concept of finished / being done
+20221009102436	zet/20221009102436/README.md	hacking to try lists
+20221009102918	zet/20221009102918/README.md	get titles in tag links
+20221009104752	zet/20221009104752/README.md	stuff to research
+20221009162538	zet/20221009162538/README.md	add menu
+20221009162948	zet/20221009162948/README.md	useful vim hotkeys for zettelkasten
+20221009165318	zet/20221009165318/README.md	putting zet cmd script in dotfiles
+20221009171616	zet/20221009171616/README.md	converting markdown formats with `[[links]]`
+20221009172351	zet/20221009172351/README.md	markdown file format
+20221009172522	zet/20221009172522/README.md	obsidian
+20221009183745	zet/20221009183745/README.md	TODO: categorize github knowledge bases by attaching graph nodes
+20221009192000	zet/20221009192000/README.md	stuff to put on main page
+20221009211130	zet/20221009211130/README.md	zettelkasten can be like a living knowledge base
+20221010044240	zet/20221010044240/README.md	titles of nodes should repopulate
+20221010054621	zet/20221010054621/README.md	github doesn't let me edit a markdown page with template braces
+20221010064819	zet/20221010064819/README.md	locating the origin of files by hash to determine version
+20221010071719	zet/20221010071719/README.md	nodes to add
+20221010074318	zet/20221010074318/README.md	engineer the workflow, not the product
+20221010142810	zet/20221010142810/README.md	what is the right and secure way to develop with docker
+20221010150900	zet/20221010150900/README.md	draw stuff on cards with tablet
+20221010152742	zet/20221010152742/README.md	how to jump right to a recent card on github
+20221010153630	zet/20221010153630/README.md	make symlinks for markdown titles for search optimization
+20221010155109	zet/20221010155109/README.md	add link titles to youtube or some other links
+20221010161950	zet/20221010161950/README.md	create issue for things tagged #feature, #enh, ... automatically
+20221010164408	zet/20221010164408/README.md	why do i have to export this line in bash or it does not work as intended
+20221010175613	zet/20221010175613/README.md	midjourney AI generated art
+20221010180141	zet/20221010180141/README.md	reinforcement learning and motivation and candy rewards
+20221010180841	zet/20221010180841/README.md	screen and tmux rwxrob video
+20221010182027	zet/20221010182027/README.md	github copilot analysis
+20221010182721	zet/20221010182721/README.md	how was hacktricks made?
+20221010183037	zet/20221010183037/README.md	i wonder what if let's try
+20221010184202	zet/20221010184202/README.md	screenshots of github ui graph showing workflow acceleration
+20221010191246	zet/20221010191246/README.md	problems discovered from obsidian node graph proving it is useful
+20221010222312	zet/20221010222312/README.md	tmux workflow
+20221011075934	zet/20221011075934/README.md	configure and run lynx with vi mode hotkeys
+20221011085218	zet/20221011085218/README.md	how to show hidden . files in fzf
+20221011090542	zet/20221011090542/README.md	ripgrep might be useful
+20221011092204	zet/20221011092204/README.md	catch up on alh4zr3d streams
+20221011092421	zet/20221011092421/README.md	hacking video notes
+20221011092959	zet/20221011092959/README.md	conda active directory hacking videos
+20221011093146	zet/20221011093146/README.md	watch rwxrob for workflow and bash tips - notes
+20221011094643	zet/20221011094643/README.md	find out from rwxrob why osidian markdown links do not work on github
+20221011095447	zet/20221011095447/README.md	change vilink behavior - 1 to many
+20221011134623	zet/20221011134623/README.md	note taking template for heckin boxes
+20221011145037	zet/20221011145037/README.md	kali linux
+20221011145143	zet/20221011145143/README.md	bat command pretty printer
+20221011145639	zet/20221011145639/README.md	why does kali apt break bat?
+20221011153230	zet/20221011153230/README.md	template example card for scripts
+20221011153359	zet/20221011153359/README.md	ability to clone cards
+20221011155715	zet/20221011155715/README.md	video of how to make a node in my implementation
+20221011175709	zet/20221011175709/README.md	zettelkasten note taking software programs
+20221011175948	zet/20221011175948/README.md	evernote
+20221011180032	zet/20221011180032/README.md	roam research
+20221011181347	zet/20221011181347/README.md	hacking notes template 1
+20221011181453	zet/20221011181453/README.md	exploit path
+20221011181531	zet/20221011181531/README.md	steps
+20221011181605	zet/20221011181605/README.md	creds
+20221011181629	zet/20221011181629/README.md	usernames
+20221011181704	zet/20221011181704/README.md	passwords
+20221011181820	zet/20221011181820/README.md	privesc steps
+20221011181920	zet/20221011181920/README.md	working notes - foothold
+20221011182016	zet/20221011182016/README.md	working notes - privesc
+20221011182140	zet/20221011182140/README.md	machine high-level overview notes
+20221011182254	zet/20221011182254/README.md	ports - enum
+20221011182350	zet/20221011182350/README.md	services
+20221011182459	zet/20221011182459/README.md	machine web services
+20221011183500	zet/20221011183500/README.md	potential exploits
+20221011184954	zet/20221011184954/README.md	proof, flags, and screenshots
+20221011190351	zet/20221011190351/README.md	fix to try list cards
+20221011192157	zet/20221011192157/README.md	cool names for the project
+20221011193153	zet/20221011193153/README.md	collection of zettelkasten tips from youtube
+20221012061227	zet/20221012061227/README.md	scared of using vim to take notes?
+20221012065200	zet/20221012065200/README.md	side panels work in vim with tmux over ssh now?
+20221012070318	zet/20221012070318/README.md	linux terminal
+20221012070358	zet/20221012070358/README.md	recording and logging
+20221012070836	zet/20221012070836/README.md	asciinema website for recording terminal session
+20221012082959	zet/20221012082959/README.md	discord
+20221012083444	zet/20221012083444/README.md	building out structure, organization, and architecture quickly
+20221012090359	zet/20221012090359/README.md	first post from netbook
+20221012090938	zet/20221012090938/README.md	my One Mix netbook
+20221012093513	zet/20221012093513/README.md	how can i use my netbook in my workflow from the road
+20221012094712	zet/20221012094712/README.md	linux sort issues with locale
+20221012095659	zet/20221012095659/README.md	working in github in the same branch on multiple devices
+20221012101349	zet/20221012101349/README.md	ubuntu
+20221012102144	zet/20221012102144/README.md	preview window for menu
+20221012102630	zet/20221012102630/README.md	search other knowledge bases for links during spawn
+20221012102820	zet/20221012102820/README.md	use connectome for context and keyword during spawn
+20221012134544	zet/20221012134544/README.md	interesting github repo like org roam zettelkasten
+20221012134856	zet/20221012134856/README.md	what is org roam?
+20221012135301	zet/20221012135301/README.md	emacs
+20221012135747	zet/20221012135747/README.md	unix text editors
+20221012144502	zet/20221012144502/README.md	track modification dates
+20221012145054	zet/20221012145054/README.md	things you can organize in personal life in private zettel notes
+20221012145943	zet/20221012145943/README.md	changes in the weather during my lifetime
+20221012152319	zet/20221012152319/README.md	concept of company or organization
+20221012152421	zet/20221012152421/README.md	micosoft
+20221012153019	zet/20221012153019/README.md	javascript
+20221012153227	zet/20221012153227/README.md	nodejs
+20221012153342	zet/20221012153342/README.md	event bus
+20221012153512	zet/20221012153512/README.md	database
+20221012153643	zet/20221012153643/README.md	kafka
+20221012153843	zet/20221012153843/README.md	confluent.io
+20221012154059	zet/20221012154059/README.md	scala
+20221012154324	zet/20221012154324/README.md	java
+20221012171100	zet/20221012171100/README.md	recently created nodes hub
+20221012211416	zet/20221012211416/README.md	my gaming desktop
+20221012212839	zet/20221012212839/README.md	check all kb markdown files were migrated succesfully
+20221012213538	zet/20221012213538/README.md	collect loose nodes and sort them out
+20221012220453	zet/20221012220453/README.md	unlink should be easier
+20221012221003	zet/20221012221003/README.md	weird related bug documents
+20221013005916	zet/20221013005916/README.md	ability to move a link from one node to another
+20221013021614	zet/20221013021614/README.md	terminal graph browser
+20221013035124	zet/20221013035124/README.md	problems with markdown conversion process
+20221013035616	zet/20221013035616/README.md	fun
+20221013171453	zet/20221013171453/README.md	important repositories and tools
+20221013173355	zet/20221013173355/README.md	enumeration - the process of enumerating a target
+20221013174958	zet/20221013174958/README.md	concept of persistence on a target
+20221013175128	zet/20221013175128/README.md	preparing exploit payloads
+20221013175957	zet/20221013175957/README.md	serialization concept
+20221013180125	zet/20221013180125/README.md	concept of a cookie
+20221013180230	zet/20221013180230/README.md	session cookie, API key, or access token
+20221013180437	zet/20221013180437/README.md	differences organizing zettelkasten in graph vs files in hierarchy
+20221013184806	zet/20221013184806/README.md	concept of being in the cloud
+20221013185120	zet/20221013185120/README.md	concept of cryptography
+20221013185251	zet/20221013185251/README.md	general information concept FYI
+20221013185406	zet/20221013185406/README.md	etc passwd file on linux
+20221013185456	zet/20221013185456/README.md	shadow file
+20221013185656	zet/20221013185656/README.md	ntds.dit file in window AD domain controllers
+20221013185837	zet/20221013185837/README.md	HKCU registry hive ntuser.dat
+20221013190051	zet/20221013190051/README.md	blue team
+20221013190422	zet/20221013190422/README.md	headline exploits
+20221013192245	zet/20221013192245/README.md	cracking hashes
+20221013193405	zet/20221013193405/README.md	make a list of sparse nodes
+20221013194055	zet/20221013194055/README.md	concept of installing something
+20221013195816	zet/20221013195816/README.md	ability to spawn from an existing card
+20221013203732	zet/20221013203732/README.md	feels like "being plugged into the matrix"
+20221013204452	zet/20221013204452/README.md	make a video of terminal graph browser and zkvr workflow loop in action
+20221013214821	zet/20221013214821/README.md	check for command injection
+20221013221136	zet/20221013221136/README.md	implement a graph query language
+20221013222124	zet/20221013222124/README.md	concept hub for tricks and tips
+20221013222336	zet/20221013222336/README.md	how to tell if tmux is running
+20221014023054	zet/20221014023054/README.md	distinct workflow operations i do in this zettelkasten
+20221014024704	zet/20221014024704/README.md	list of sparse nodes
+20221014025416	zet/20221014025416/README.md	clone a subsection of a graph by tag boundaries
+20221014062642	zet/20221014062642/README.md	organize OSCP related notes
+20221014070023	zet/20221014070023/README.md	findings from implementing deep connectome search
+20221014071406	zet/20221014071406/README.md	using tools together in strange / convenient ways - examples
+20221014072547	zet/20221014072547/README.md	ideas need to be explained and connected to relevant things
+20221014073148	zet/20221014073148/README.md	reasoning behind choices for tech stack - finding dependable and long lasting technology
+20221014074318	zet/20221014074318/README.md	important choices of tech stack
+20221014074726	zet/20221014074726/README.md	use appropriate language for the job
+20221014074852	zet/20221014074852/README.md	"Keep It Simple Stupid" principle of engineering and design
+20221014081712	zet/20221014081712/README.md	ways to get hacked
+20221014142356	zet/20221014142356/README.md	concept of a neat trick or solution
+20221014150222	zet/20221014150222/README.md	list of all kb files and references in imported documents
+20221014153143	zet/20221014153143/README.md	scroll preview window
+20221014154703	zet/20221014154703/README.md	lazygit program
+20221014154934	zet/20221014154934/README.md	terminal user interface (TUI) program
+20221014155450	zet/20221014155450/README.md	nim language
+20221014160244	zet/20221014160244/README.md	qterminal terminal emulator program
+20221014160551	zet/20221014160551/README.md	terminal emulator program
+20221014164014	zet/20221014164014/README.md	protocol for application communication
+20221014181941	zet/20221014181941/README.md	general privilege escalation
+20221014183030	zet/20221014183030/README.md	create cards for kb files
+20221014185440	zet/20221014185440/README.md	kb file named kb/docker/install-docker-compose.md
+20221014185441	zet/20221014185441/README.md	kb file named kb/docker/installations/install-mandown.md
+20221014185443	zet/20221014185443/README.md	kb file named kb/docker/run-container-in-background.md
+20221014185444	zet/20221014185444/README.md	kb file named kb/docker/docker-compose-shortcuts.md
+20221014185446	zet/20221014185446/README.md	kb file named kb/docker/docker-hd-space.md
+20221014185447	zet/20221014185447/README.md	kb file named kb/docker/lookup-missing-command-packages.md
+20221014185449	zet/20221014185449/README.md	kb file named kb/shell-script-list.md
+20221014185450	zet/20221014185450/README.md	kb file named kb/auto-bash.md
+20221014185452	zet/20221014185452/README.md	kb file named kb/c-language/templates.md
+20221014185453	zet/20221014185453/README.md	kb file named kb/zettelkasten-methodology.md
+20221014185455	zet/20221014185455/README.md	kb file named kb/example-zettel.md
+20221014185456	zet/20221014185456/README.md	kb file named kb/networking/osi-model.md
+20221014185458	zet/20221014185458/README.md	kb file named kb/networking/socat-proxy.md
+20221014185459	zet/20221014185459/README.md	kb file named kb/networking/port-forwarding.md
+20221014185501	zet/20221014185501/README.md	kb file named kb/vim/run-as-script.md
+20221014185502	zet/20221014185502/README.md	kb file named kb/vim/spacevim-set-bindings.md
+20221014185504	zet/20221014185504/README.md	kb file named kb/vim/edit-multiple-files.md
+20221014185505	zet/20221014185505/README.md	kb file named kb/vim/vim.md
+20221014185507	zet/20221014185507/README.md	kb file named kb/python/coding-reference.md
+20221014185509	zet/20221014185509/README.md	kb file named kb/auto-awk.md
+20221014185510	zet/20221014185510/README.md	kb file named kb/ascii/coyote0x90.md
+20221014185512	zet/20221014185512/README.md	kb file named kb/ascii/ascii-box-art.md
+20221014185513	zet/20221014185513/README.md	kb file named kb/ascii/coyote0x90-narrow.md
+20221014185515	zet/20221014185515/README.md	kb file named kb/scratch.md
+20221014185516	zet/20221014185516/README.md	kb file named kb/kafka/connect-confluent.md
+20221014185518	zet/20221014185518/README.md	kb file named kb/kafka/initialize-topics.md
+20221014185519	zet/20221014185519/README.md	kb file named kb/kafka/quick-and-dirty-kafkacat.md
+20221014185521	zet/20221014185521/README.md	kb file named kb/kafka/kafkacat-get-data-by-time.md
+20221014185522	zet/20221014185522/README.md	kb file named kb/kafka/kafkacat.md
+20221014185524	zet/20221014185524/README.md	kb file named kb/kafka/ksql-initialize-example.md
+20221014185525	zet/20221014185525/README.md	kb file named kb/hacking/tricks/windows-smartscreen-bypass.md
+20221014185527	zet/20221014185527/README.md	kb file named kb/hacking/tricks/build-windows-exploits.md
+20221014185528	zet/20221014185528/README.md	kb file named kb/hacking/tricks/stabilize-shell.md
+20221014185530	zet/20221014185530/README.md	kb file named kb/hacking/tricks/scan-firewall-reverse-ports.md
+20221014185531	zet/20221014185531/README.md	kb file named kb/hacking/tricks/run-programs-in-memory.md
+20221014185533	zet/20221014185533/README.md	kb file named kb/hacking/tricks/install-pip-modules-on-target-as-files.md
+20221014185534	zet/20221014185534/README.md	kb file named kb/hacking/tricks/jenkins-rev-shell-code.md
+20221014185536	zet/20221014185536/README.md	kb file named kb/hacking/tricks/malicious-packages.md
+20221014185537	zet/20221014185537/README.md	kb file named kb/hacking/tricks/ping-subnet-os-enumeration.md
+20221014185539	zet/20221014185539/README.md	kb file named kb/hacking/tricks/exploit-asterisk-with-touch.md
+20221014185540	zet/20221014185540/README.md	kb file named kb/hacking/tricks/make-wordlists-fuzzing-with-bash.md
+20221014185542	zet/20221014185542/README.md	kb file named kb/hacking/tricks/ctf-get-tld-working-firefox-url-bar.md
+20221014185544	zet/20221014185544/README.md	kb file named kb/hacking/tricks/wfuzz-identify-versions.md
+20221014185545	zet/20221014185545/README.md	kb file named kb/hacking/tricks/mysql-tricks.md
+20221014185547	zet/20221014185547/README.md	kb file named kb/hacking/tricks/vbscript-wget-hack.md
+20221014185548	zet/20221014185548/README.md	kb file named kb/hacking/tricks/windows-encoding-base64-utf16.md
+20221014185550	zet/20221014185550/README.md	kb file named kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md
+20221014185551	zet/20221014185551/README.md	kb file named kb/hacking/tricks/identify-linux-version-service-versions.md
+20221014185553	zet/20221014185553/README.md	kb file named kb/hacking/tricks/dump-hashes-from-registry-backups.md
+20221014185554	zet/20221014185554/README.md	kb file named kb/hacking/tricks/hibernate-hql-injection.md
+20221014185556	zet/20221014185556/README.md	kb file named kb/hacking/tricks/smtp-send-email-cli.md
+20221014185557	zet/20221014185557/README.md	kb file named kb/hacking/tricks/valid-https-server.md
+20221014185559	zet/20221014185559/README.md	kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
+20221014185600	zet/20221014185600/README.md	kb file named kb/hacking/to-try-lists/privesc/linux.md
+20221014185602	zet/20221014185602/README.md	kb file named kb/hacking/to-try-lists/privesc/windows.md
+20221014185603	zet/20221014185603/README.md	kb file named kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md
+20221014185605	zet/20221014185605/README.md	kb file named kb/hacking/to-try-lists/LDAP.md
+20221014185606	zet/20221014185606/README.md	kb file named kb/hacking/to-try-lists/wsmans-tcp-1270,5985,5986.md
+20221014185608	zet/20221014185608/README.md	kb file named kb/hacking/to-try-lists/RDP.md
+20221014185609	zet/20221014185609/README.md	kb file named kb/hacking/to-try-lists/got-read-or-write-access-to-filesystem.md
+20221014185611	zet/20221014185611/README.md	kb file named kb/hacking/to-try-lists/finger-tcp-79.md
+20221014185612	zet/20221014185612/README.md	kb file named kb/hacking/to-try-lists/SMB.md
+20221014185614	zet/20221014185614/README.md	kb file named kb/hacking/to-try-lists/IPMI.md
+20221014185616	zet/20221014185616/README.md	kb file named kb/hacking/to-try-lists/DNS.md
+20221014185617	zet/20221014185617/README.md	kb file named kb/hacking/to-try-lists/procedure.md
+20221014185619	zet/20221014185619/README.md	kb file named kb/hacking/to-try-lists/HTTP.md
+20221014185620	zet/20221014185620/README.md	kb file named kb/hacking/to-try-lists/FTP.md
+20221014185622	zet/20221014185622/README.md	kb file named kb/hacking/to-try-lists/got-source-code.md
+20221014185623	zet/20221014185623/README.md	kb file named kb/hacking/to-try-lists/stuck.md
+20221014185625	zet/20221014185625/README.md	kb file named kb/hacking/to-try-lists/email.md
+20221014185626	zet/20221014185626/README.md	kb file named kb/hacking/to-try-lists/EVERYTHING.md
+20221014185628	zet/20221014185628/README.md	kb file named kb/hacking/to-try-lists/SSH.md
+20221014185629	zet/20221014185629/README.md	kb file named kb/hacking/to-try-lists/active-directory-domain.md
+20221014185631	zet/20221014185631/README.md	kb file named kb/hacking/to-try-lists/NFS.md
+20221014185632	zet/20221014185632/README.md	kb file named kb/hacking/to-try-lists/HTTP-proxy-squid-proxy.md
+20221014185634	zet/20221014185634/README.md	kb file named kb/hacking/to-try-lists/got-hashes.md
+20221014185635	zet/20221014185635/README.md	kb file named kb/hacking/to-try-lists/docker-repository.md
+20221014185637	zet/20221014185637/README.md	kb file named kb/hacking/to-try-lists/TFTP-udp-69.md
+20221014185638	zet/20221014185638/README.md	kb file named kb/hacking/to-try-lists/SNMP.md
+20221014185640	zet/20221014185640/README.md	kb file named kb/hacking/to-try-lists/nmap-UDP-scan-individual-port-scans.md
+20221014185641	zet/20221014185641/README.md	kb file named kb/hacking/pivoting.md
+20221014185643	zet/20221014185643/README.md	kb file named kb/hacking/passwords/password_cracking_rules/README.md
+20221014185644	zet/20221014185644/README.md	kb file named kb/hacking/passwords/hashcat-generate-wordlist-from-file-stdout.md
+20221014185646	zet/20221014185646/README.md	kb file named kb/hacking/passwords/hashcat-generate-passwords-output-with-mask-pattern.md
+20221014185647	zet/20221014185647/README.md	kb file named kb/hacking/defense/linux-hardening.md
+20221014185649	zet/20221014185649/README.md	kb file named kb/hacking/windows/windows-cheatsheet-resources.md
+20221014185651	zet/20221014185651/README.md	kb file named kb/hacking/windows/xp-server-2003.md
+20221014185652	zet/20221014185652/README.md	kb file named kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md
+20221014185654	zet/20221014185654/README.md	kb file named kb/hacking/windows/windows-active-directory-and-privilege-information.md
+20221014185655	zet/20221014185655/README.md	kb file named kb/hacking/windows/dos-and-powershell-enumeration-quick.md
+20221014185657	zet/20221014185657/README.md	kb file named kb/hacking/windows/dll-to-run-commands.md
+20221014185658	zet/20221014185658/README.md	kb file named kb/hacking/windows/windows-reverse-shell.md
+20221014185700	zet/20221014185700/README.md	kb file named kb/hacking/windows/active-directory-certificate-services.md
+20221014185701	zet/20221014185701/README.md	kb file named kb/hacking/windows/enable-privilege-api.md
+20221014185703	zet/20221014185703/README.md	kb file named kb/hacking/windows/powerview-commands.md
+20221014185704	zet/20221014185704/README.md	kb file named kb/hacking/windows/mimikatz.md
+20221014185706	zet/20221014185706/README.md	kb file named kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md
+20221014185707	zet/20221014185707/README.md	kb file named kb/hacking/windows/persistence.md
+20221014185709	zet/20221014185709/README.md	kb file named kb/hacking/windows/powerup-commands.md
+20221014185710	zet/20221014185710/README.md	kb file named kb/hacking/windows/service-account-privileges.md
+20221014185712	zet/20221014185712/README.md	kb file named kb/hacking/windows/enumeration-scripts-processing.md
+20221014185713	zet/20221014185713/README.md	kb file named kb/hacking/windows/dump-process-memory.md
+20221014185715	zet/20221014185715/README.md	kb file named kb/hacking/windows/test-for-defender-amsi.md
+20221014185716	zet/20221014185716/README.md	kb file named kb/hacking/windows/uacbypass/uac-bypass.md
+20221014185718	zet/20221014185718/README.md	kb file named kb/hacking/windows/windows-information.md
+20221014185719	zet/20221014185719/README.md	kb file named kb/hacking/windows/windows-exploits-non-metasploit.md
+20221014185721	zet/20221014185721/README.md	kb file named kb/hacking/windows/decrypt-azure-ad-connect.md
+20221014185722	zet/20221014185722/README.md	kb file named kb/hacking/windows/common-ad-misconfigurations-footholds.md
+20221014185724	zet/20221014185724/README.md	kb file named kb/hacking/methodology/jwt.md
+20221014185726	zet/20221014185726/README.md	kb file named kb/hacking/methodology/source-analysis.md
+20221014185727	zet/20221014185727/README.md	kb file named kb/hacking/methodology/SSTI-test-payloads.md
+20221014185729	zet/20221014185729/README.md	kb file named kb/hacking/methodology/ds-store-file.md
+20221014185730	zet/20221014185730/README.md	kb file named kb/hacking/methodology/nmap-scripts.md
+20221014185732	zet/20221014185732/README.md	kb file named kb/hacking/methodology/LFI-procedure.md
+20221014185733	zet/20221014185733/README.md	kb file named kb/hacking/methodology/API-enumeration.md
+20221014185735	zet/20221014185735/README.md	kb file named kb/hacking/methodology/sqli-manual-mysql-payloads.md
+20221014185736	zet/20221014185736/README.md	kb file named kb/hacking/methodology/oracle.md
+20221014185738	zet/20221014185738/README.md	kb file named kb/hacking/methodology/IDOR-notes.md
+20221014185739	zet/20221014185739/README.md	kb file named kb/hacking/methodology/XXE.md
+20221014185741	zet/20221014185741/README.md	kb file named kb/hacking/methodology/dns-enum.md
+20221014185742	zet/20221014185742/README.md	kb file named kb/hacking/methodology/hashcat-crack-salted-password.md
+20221014185744	zet/20221014185744/README.md	kb file named kb/hacking/methodology/owasp-top-10-api-bugs.md
+20221014185745	zet/20221014185745/README.md	kb file named kb/hacking/methodology/mobile-apps-and-api-testing.md
+20221014185747	zet/20221014185747/README.md	kb file named kb/hacking/methodology/XSS.md
+20221014185748	zet/20221014185748/README.md	kb file named kb/hacking/methodology/bloodhound-checklist.md
+20221014185750	zet/20221014185750/README.md	kb file named kb/hacking/methodology/osint-overview.md
+20221014185751	zet/20221014185751/README.md	kb file named kb/hacking/python/fix-ssl.md
+20221014185753	zet/20221014185753/README.md	kb file named kb/hacking/python/python-quick-reference.md
+20221014185754	zet/20221014185754/README.md	kb file named kb/hacking/python/python-imports.md
+20221014185756	zet/20221014185756/README.md	kb file named kb/hacking/priv-esc/searchsploit-privesc-queries.md
+20221014185758	zet/20221014185758/README.md	kb file named kb/hacking/priv-esc/fail2ban.md
+20221014185759	zet/20221014185759/README.md	kb file named kb/hacking/priv-esc/windows-run-dll.md
+20221014185801	zet/20221014185801/README.md	kb file named kb/hacking/priv-esc/lxd/lxd-priv-esc.md
+20221014185802	zet/20221014185802/README.md	kb file named kb/hacking/priv-esc/c-shells-and-setuid.md
+20221014185804	zet/20221014185804/README.md	kb file named kb/hacking/priv-esc/etc-passwd-writable-line.md
+20221014185805	zet/20221014185805/README.md	kb file named kb/hacking/priv-esc/bsd-enumeration.md
+20221014185807	zet/20221014185807/README.md	kb file named kb/hacking/priv-esc/windows-dll-hijack.md
+20221014185808	zet/20221014185808/README.md	kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
+20221014185810	zet/20221014185810/README.md	kb file named kb/hacking/priv-esc/netstat-command.md
+20221014185811	zet/20221014185811/README.md	kb file named kb/hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md
+20221014185813	zet/20221014185813/README.md	kb file named kb/hacking/priv-esc/relative-path-abuse.md
+20221014185814	zet/20221014185814/README.md	kb file named kb/hacking/priv-esc/setuid-binary-no-write-note.md
+20221014185816	zet/20221014185816/README.md	kb file named kb/hacking/priv-esc/symlink.md
+20221014185817	zet/20221014185817/README.md	kb file named kb/hacking/priv-esc/polkit-notes.md
+20221014185819	zet/20221014185819/README.md	kb file named kb/hacking/priv-esc/dirty-cow-no-gcc.md
+20221014185820	zet/20221014185820/README.md	kb file named kb/hacking/priv-esc/sudoers.md
+20221014185822	zet/20221014185822/README.md	kb file named kb/hacking/commands/nikto-command.md
+20221014185823	zet/20221014185823/README.md	kb file named kb/hacking/commands/quick-servers.md
+20221014185825	zet/20221014185825/README.md	kb file named kb/hacking/commands/john-the-ripper-crack-with-wordlist.md
+20221014185826	zet/20221014185826/README.md	kb file named kb/hacking/commands/two-factor.md
+20221014185828	zet/20221014185828/README.md	kb file named kb/hacking/commands/wget-recursive-command.md
+20221014185829	zet/20221014185829/README.md	kb file named kb/hacking/commands/ssh-commands.md
+20221014185831	zet/20221014185831/README.md	kb file named kb/hacking/commands/dns-commands.md
+20221014185833	zet/20221014185833/README.md	kb file named kb/hacking/commands/hydra-http-auth.md
+20221014185834	zet/20221014185834/README.md	kb file named kb/hacking/commands/gobuster.md
+20221014185836	zet/20221014185836/README.md	kb file named kb/hacking/commands/nmap-vuln-scan.md
+20221014185837	zet/20221014185837/README.md	kb file named kb/hacking/commands/smb-mount-share.md
+20221014185839	zet/20221014185839/README.md	kb file named kb/hacking/commands/sucrack-command.md
+20221014185840	zet/20221014185840/README.md	kb file named kb/hacking/commands/responder.md
+20221014185842	zet/20221014185842/README.md	kb file named kb/hacking/commands/davtest-commands.md
+20221014185843	zet/20221014185843/README.md	kb file named kb/hacking/commands/database-enum-commands.md
+20221014185845	zet/20221014185845/README.md	kb file named kb/hacking/commands/hydra-ssh-command.md
+20221014185846	zet/20221014185846/README.md	kb file named kb/hacking/commands/hydra-ftp-command.md
+20221014185848	zet/20221014185848/README.md	kb file named kb/hacking/commands/metasploit.md
+20221014185849	zet/20221014185849/README.md	kb file named kb/hacking/commands/wfuzz-fuzzing.md
+20221014185851	zet/20221014185851/README.md	kb file named kb/hacking/commands/hydra-default-credentials.md
+20221014185852	zet/20221014185852/README.md	kb file named kb/hacking/commands/openssl-commands.md
+20221014185854	zet/20221014185854/README.md	kb file named kb/hacking/commands/git.md
+20221014185855	zet/20221014185855/README.md	kb file named kb/hacking/commands/generate-cewl-wordlist.md
+20221014185857	zet/20221014185857/README.md	kb file named kb/hacking/commands/openssl-general.md
+20221014185858	zet/20221014185858/README.md	kb file named kb/hacking/commands/enum4linux-command.md
+20221014185900	zet/20221014185900/README.md	kb file named kb/hacking/commands/crowbar.md
+20221014185901	zet/20221014185901/README.md	kb file named kb/hacking/commands/msfvenom-commands.md
+20221014185903	zet/20221014185903/README.md	kb file named kb/hacking/commands/keytool.md
+20221014185905	zet/20221014185905/README.md	kb file named kb/hacking/commands/windows-active-directory-kerberos-commands.md
+20221014185906	zet/20221014185906/README.md	kb file named kb/hacking/commands/cracking-encrypted-files-with-john-the-ripper.md
+20221014185908	zet/20221014185908/README.md	kb file named kb/hacking/commands/hydra.md
+20221014185909	zet/20221014185909/README.md	kb file named kb/hacking/commands/feroxbuster-command.md
+20221014185911	zet/20221014185911/README.md	kb file named kb/hacking/commands/encode-powershell-base64-windows.md
+20221014185912	zet/20221014185912/README.md	kb file named kb/hacking/commands/ssh-escape-rbash-set-terminal.md
+20221014185914	zet/20221014185914/README.md	kb file named kb/hacking/commands/openssl-view-information-about-cert.md
+20221014185915	zet/20221014185915/README.md	kb file named kb/hacking/commands/curl.md
+20221014185917	zet/20221014185917/README.md	kb file named kb/hacking/commands/packet-capture.md
+20221014185918	zet/20221014185918/README.md	kb file named kb/hacking/commands/sqlmap-commands.md
+20221014185920	zet/20221014185920/README.md	kb file named kb/hacking/commands/snmp-enumeration-commands.md
+20221014185921	zet/20221014185921/README.md	kb file named kb/hacking/commands/wpscan-command.md
+20221014185923	zet/20221014185923/README.md	kb file named kb/hacking/commands/encoding-commands.md
+20221014185924	zet/20221014185924/README.md	kb file named kb/hacking/commands/web-enumeration-commands.md
+20221014185926	zet/20221014185926/README.md	kb file named kb/hacking/commands/tftp-reference.md
+20221014185927	zet/20221014185927/README.md	kb file named kb/hacking/commands/bloodhound.md
+20221014185929	zet/20221014185929/README.md	kb file named kb/hacking/commands/crackmapexec-commands.md
+20221014185930	zet/20221014185930/README.md	kb file named kb/hacking/commands/hydra-http-post-form.md
+20221014185932	zet/20221014185932/README.md	kb file named kb/hacking/commands/nfs.md
+20221014185933	zet/20221014185933/README.md	kb file named kb/hacking/commands/binary-data-analysis.md
+20221014185935	zet/20221014185935/README.md	kb file named kb/hacking/commands/wfuzz-commands.md
+20221014185936	zet/20221014185936/README.md	kb file named kb/hacking/commands/kubernetes.md
+20221014185938	zet/20221014185938/README.md	kb file named kb/hacking/commands/nmap-command.md
+20221014185940	zet/20221014185940/README.md	kb file named kb/hacking/commands/smbmap.md
+20221014185941	zet/20221014185941/README.md	kb file named kb/hacking/commands/list-dpkg-packages-installed-date.md
+20221014185943	zet/20221014185943/README.md	kb file named kb/hacking/commands/tcpdump-listen-for-pings.md
+20221014185944	zet/20221014185944/README.md	kb file named kb/hacking/commands/ldap.md
+20221014185946	zet/20221014185946/README.md	kb file named kb/hacking/commands/pureftp-commands.md
+20221014185947	zet/20221014185947/README.md	kb file named kb/hacking/commands/smbclient-commands.md
+20221014185949	zet/20221014185949/README.md	kb file named kb/hacking/commands/pivot-tunnel-through-chisel.md
+20221014185950	zet/20221014185950/README.md	kb file named kb/hacking/commands/impacket-commands.md
+20221014185952	zet/20221014185952/README.md	kb file named kb/hacking/commands/enumeration-util.md
+20221014185953	zet/20221014185953/README.md	kb file named kb/hacking/php/PHP-quick-command-reference.md
+20221014185955	zet/20221014185955/README.md	kb file named kb/hacking/php/lfi.md
+20221014185956	zet/20221014185956/README.md	kb file named kb/hacking/php/PHP-credential-harvesting-write-file.md
+20221014185958	zet/20221014185958/README.md	kb file named kb/hacking/php/type-juggling.md
+20221014185959	zet/20221014185959/README.md	kb file named kb/hacking/php/deserialization-attacks.md
+20221014190001	zet/20221014190001/README.md	kb file named kb/hacking/common-commands.md
+20221014190002	zet/20221014190002/README.md	kb file named kb/hacking/pwn/basic-win-pwn.md
+20221014190004	zet/20221014190004/README.md	kb file named kb/hacking/pwn/gef-commands.md
+20221014190005	zet/20221014190005/README.md	kb file named kb/hacking/pwn/gdb-commands.md
+20221014190007	zet/20221014190007/README.md	kb file named kb/hacking/pwn/msfvenom-shellcode-for-pwn.md
+20221014190008	zet/20221014190008/README.md	kb file named kb/hacking/pwn/pwn-methodology.md
+20221014190010	zet/20221014190010/README.md	kb file named kb/hacking/pwn/shellcode-to-executable.md
+20221014190012	zet/20221014190012/README.md	kb file named kb/hacking/pwn/heap-exploit.md
+20221014190013	zet/20221014190013/README.md	kb file named kb/hacking/pwn/calling-conventions.md
+20221014190015	zet/20221014190015/README.md	kb file named kb/hacking/pwn/sigreturn.md
+20221014190016	zet/20221014190016/README.md	kb file named kb/hacking/pwn/binary-analysis.md
+20221014190018	zet/20221014190018/README.md	kb file named kb/hacking/pwn/debug-terminal-setup.md
+20221014190019	zet/20221014190019/README.md	kb file named kb/hacking/pwn/tricks.md
+20221014190021	zet/20221014190021/README.md	kb file named kb/hacking/pwn/python-tricks.md
+20221014190022	zet/20221014190022/README.md	kb file named kb/hacking/pwn/pwntools.md
+20221014190024	zet/20221014190024/README.md	kb file named kb/hacking/exploit/shellshock-exploit.md
+20221014190025	zet/20221014190025/README.md	kb file named kb/hacking/notes-template/privesc.md
+20221014190027	zet/20221014190027/README.md	kb file named kb/hacking/notes-template/creds.md
+20221014190028	zet/20221014190028/README.md	kb file named kb/hacking/notes-template/scratch.md
+20221014190030	zet/20221014190030/README.md	kb file named kb/hacking/notes-template/steps.md
+20221014190031	zet/20221014190031/README.md	kb file named kb/hacking/notes-template/exploit.md
+20221014190033	zet/20221014190033/README.md	kb file named kb/hacking/notes-template/enum.md
+20221014190034	zet/20221014190034/README.md	kb file named kb/hacking/notes-template/notes.md
+20221014190036	zet/20221014190036/README.md	kb file named kb/hacking/web/html.templates.md
+20221014190037	zet/20221014190037/README.md	kb file named kb/hacking/powershell/powershell-enumeration-commands.md
+20221014190039	zet/20221014190039/README.md	kb file named kb/hacking/powershell/powershell-tricks.md
+20221014190040	zet/20221014190040/README.md	kb file named kb/hacking/powershell/load-xml-object-print-password-from-pscredential.md
+20221014190042	zet/20221014190042/README.md	kb file named kb/hacking/misc/tomcat.md
+20221014190044	zet/20221014190044/README.md	kb file named kb/hacking/misc/openssl-commands-encrypt-text.md
+20221014190045	zet/20221014190045/README.md	kb file named kb/hacking/misc/tools-and-apt-packages.md
+20221014190047	zet/20221014190047/README.md	kb file named kb/hacking/misc/important-repositories-tools.md
+20221014190048	zet/20221014190048/README.md	kb file named kb/hacking/misc/troubleshoot-error-messages.md
+20221014190050	zet/20221014190050/README.md	kb file named kb/hacking/misc/bruteforcing-tools.md
+20221014190051	zet/20221014190051/README.md	kb file named kb/hacking/misc/database-cms-enum.md
+20221014190053	zet/20221014190053/README.md	kb file named kb/hacking/misc/database-config-locations.md
+20221014190054	zet/20221014190054/README.md	kb file named kb/hacking/misc/ansible.md
+20221014190056	zet/20221014190056/README.md	kb file named kb/hacking/misc/assorted-information.md
+20221014190057	zet/20221014190057/README.md	kb file named kb/hacking/misc/web-server-default-webroots.md
+20221014190059	zet/20221014190059/README.md	kb file named kb/hacking/misc/file-type-reference.md
+20221014190100	zet/20221014190100/README.md	kb file named kb/hacking/misc/assorted-tools.md
+20221014190102	zet/20221014190102/README.md	kb file named kb/hacking/misc/web-server-executable-extensions.md
+20221014190103	zet/20221014190103/README.md	kb file named kb/hacking/misc/openssl-client-certificates.md
+20221014190105	zet/20221014190105/README.md	kb file named kb/hacking/misc/buzzwords-and-acronyms.md
+20221014190106	zet/20221014190106/README.md	kb file named kb/hacking/analysis/identify-service-data.md
+20221014190108	zet/20221014190108/README.md	kb file named kb/hacking/analysis/source-code-analysis-php.md
+20221014190109	zet/20221014190109/README.md	kb file named kb/hacking/analysis/extract-commands.md
+20221014190111	zet/20221014190111/README.md	kb file named kb/hacking/analysis/apk-analysis.md
+20221014190112	zet/20221014190112/README.md	kb file named kb/hacking/analysis/grep-patterns.md
+20221014190114	zet/20221014190114/README.md	kb file named kb/hacking/lan/bettercap-options.md
+20221014190115	zet/20221014190115/README.md	kb file named kb/hacking/lan/change-mac-address.md
+20221014190117	zet/20221014190117/README.md	kb file named kb/awk-scripting/bash-awk-quick-commands.md
+20221014190119	zet/20221014190119/README.md	kb file named kb/awk-scripting/convert-decimal-to-hex.md
+20221014190120	zet/20221014190120/README.md	kb file named kb/awk-scripting/awk-split.md
+20221014190122	zet/20221014190122/README.md	kb file named kb/awk-scripting/awk-print-unbuffered.md
+20221014190123	zet/20221014190123/README.md	kb file named kb/awk-scripting/enumerate-python-imports.md
+20221014190125	zet/20221014190125/README.md	kb file named kb/awk-scripting/snippets.md
+20221014190126	zet/20221014190126/README.md	kb file named kb/linux/grub-fix-windows-partition.md
+20221014190128	zet/20221014190128/README.md	kb file named kb/linux/xterm-font-size.md
+20221014190129	zet/20221014190129/README.md	kb file named kb/linux/dpkg-info.md
+20221014190131	zet/20221014190131/README.md	kb file named kb/linux/tty-notes.md
+20221014190132	zet/20221014190132/README.md	kb file named kb/linux/iptables.md
+20221014190134	zet/20221014190134/README.md	kb file named kb/linux/deb-dependencies.md
+20221014190135	zet/20221014190135/README.md	kb file named kb/linux/notify-send-crontab-reminder.md
+20221014190137	zet/20221014190137/README.md	kb file named kb/linux/edit-bash-prompt-vi-hotkeys.md
+20221014190138	zet/20221014190138/README.md	kb file named kb/linux/package-manager-commands.md
+20221014190140	zet/20221014190140/README.md	kb file named kb/linux/zsh-see-default-bindings.md
+20221014190141	zet/20221014190141/README.md	kb file named kb/linux/free-up-space.md
+20221014190143	zet/20221014190143/README.md	kb file named kb/linux/users-groups.md
+20221014190144	zet/20221014190144/README.md	kb file named kb/linux/install-alacritty.md
+20221014190146	zet/20221014190146/README.md	kb file named kb/linux/ex-notes.md
+20221014190147	zet/20221014190147/README.md	kb file named kb/linux/less.md
+20221014190149	zet/20221014190149/README.md	kb file named kb/linux/capabilities.md
+20221014190151	zet/20221014190151/README.md	kb file named kb/linux/dump-process-memory.md
+20221014190152	zet/20221014190152/README.md	kb file named kb/linux/job-control.md
+20221014190154	zet/20221014190154/README.md	kb file named kb/linux/git-settings.md
+20221014190155	zet/20221014190155/README.md	kb file named kb/linux/force-upgrade.md
+20221014190157	zet/20221014190157/README.md	kb file named kb/linux/os-pseudo-filesystem-data-commands.md
+20221014190158	zet/20221014190158/README.md	kb file named kb/linux/cyberpunk-retro-machine-serial-terminals.md
+20221014190200	zet/20221014190200/README.md	kb file named kb/linux/proxmox.md
+20221014190201	zet/20221014190201/README.md	kb file named kb/linux/utilities-packages.md
+20221014190203	zet/20221014190203/README.md	kb file named kb/linux/installing-virtualbox.md
+20221014190204	zet/20221014190204/README.md	kb file named kb/linux/tar-commands.md
+20221014190206	zet/20221014190206/README.md	kb file named kb/linux/assorted-notes-and-tips.md
+20221014190207	zet/20221014190207/README.md	kb file named kb/linux/java-jdk-links.md
+20221014190209	zet/20221014190209/README.md	kb file named kb/linux/tldr-info.md
+20221014190210	zet/20221014190210/README.md	kb file named kb/linux/routing.md
+20221014190212	zet/20221014190212/README.md	kb file named kb/linux/numpad-ssh-putty.md
+20221014190213	zet/20221014190213/README.md	kb file named kb/tmux/fix-box-art.md
+20221014190215	zet/20221014190215/README.md	kb file named kb/tmux/get-ctrl-h-to-work.md
+20221014190216	zet/20221014190216/README.md	kb file named kb/tmux/get-data-info.md
+20221014190218	zet/20221014190218/README.md	kb file named kb/tmux/swap-panes.md
+20221014190219	zet/20221014190219/README.md	kb file named kb/tmux/copy-buffer.md
+20221014190221	zet/20221014190221/README.md	kb file named kb/data-engineering-pipelines/jq-command-reference.md
+20221014190222	zet/20221014190222/README.md	kb file named kb/data-engineering-pipelines/postgres.md
+20221014190224	zet/20221014190224/README.md	kb file named kb/data-engineering-pipelines/topological-sort.md
+20221014190226	zet/20221014190226/README.md	kb file named kb/data-engineering-pipelines/yaml-syntax.md
+20221014190227	zet/20221014190227/README.md	kb file named kb/data-engineering-pipelines/data-science-linux-commands.md
+20221014190229	zet/20221014190229/README.md	kb file named kb/auto-python.md
+20221014190230	zet/20221014190230/README.md	kb file named kb/README.md
+20221014190232	zet/20221014190232/README.md	kb file named kb/scripts.md
+20221014190233	zet/20221014190233/README.md	kb file named kb/hardware/surface-tablet.md
+20221014190235	zet/20221014190235/README.md	kb file named kb/hardware/msi-motherboard-error-codes.md
+20221014190236	zet/20221014190236/README.md	kb file named kb/fzf-fuzzy-find/help.md
+20221014190238	zet/20221014190238/README.md	kb file named kb/bash-scripting/file-operations.md
+20221014190239	zet/20221014190239/README.md	kb file named kb/bash-scripting/check-empty-var.md
+20221014190241	zet/20221014190241/README.md	kb file named kb/bash-scripting/stream-operations.md
+20221014190242	zet/20221014190242/README.md	kb file named kb/bash-scripting/capture-web-site-screenshot.md
+20221014190244	zet/20221014190244/README.md	kb file named kb/bash-scripting/text-database-operations.md
+20221014190245	zet/20221014190245/README.md	kb file named kb/bash-scripting/watch-failed-ssh-logins-live.md
+20221014190247	zet/20221014190247/README.md	kb file named kb/bash-scripting/get-current-unix-date-timestamp.md
+20221014190248	zet/20221014190248/README.md	kb file named kb/bash-scripting/xml-parsing.md
+20221014190250	zet/20221014190250/README.md	kb file named kb/bash-scripting/substitution-syntax-braces.md
+20221014190251	zet/20221014190251/README.md	kb file named kb/bash-scripting/expect.md
+20221014190253	zet/20221014190253/README.md	kb file named kb/bash-scripting/find-common-lines-set-operations.md
+20221014190254	zet/20221014190254/README.md	kb file named kb/bash-scripting/get-current-script-dir.md
+20221014190256	zet/20221014190256/README.md	kb file named kb/bash-scripting/strip-color.md
+20221014190257	zet/20221014190257/README.md	kb file named kb/bash-scripting/strip-newlines.md
+20221014190259	zet/20221014190259/README.md	kb file named kb/bash-scripting/tricks.md
+20221014190301	zet/20221014190301/README.md	kb file named kb/bash-scripting/debugging.md
+20221014191506	zet/20221014191506/README.md	associate kb cards with converted cards
+20221014201909	zet/20221014201909/README.md	add lazygit to dockerfile for zet cmd
+20221014205906	zet/20221014205906/README.md	coding in golang
+20221014213559	zet/20221014213559/README.md	concept of a snippet of code
+20221014213613	zet/20221014213613/README.md	boilerplate code template
+20221014215609	zet/20221014215609/README.md	finished, but with ongoing related work
+20221014222109	zet/20221014222109/README.md	workflow for releasing zet cards from private to public
+20221015000510	zet/20221015000510/README.md	create install script for zet command
+20221015004120	zet/20221015004120/README.md	ippsec video opensource
+20221015004252	zet/20221015004252/README.md	htb opensource machine
+20221015004916	zet/20221015004916/README.md	gitea
+20221015005218	zet/20221015005218/README.md	git web interfaces
+20221015005249	zet/20221015005249/README.md	gitlab
+20221015005535	zet/20221015005535/README.md	werkzeug
+20221015005557	zet/20221015005557/README.md	python library
+20221015005745	zet/20221015005745/README.md	python coding
+20221015010704	zet/20221015010704/README.md	things that need splitting up
+20221015010931	zet/20221015010931/README.md	track existing ctf box notes
+20221015011227	zet/20221015011227/README.md	make writeups from cards
+20221015011525	zet/20221015011525/README.md	my notes for opensource machine - steps
+20221015012530	zet/20221015012530/README.md	rabbit holes
+20221015014643	zet/20221015014643/README.md	overengineering and overthinking
+20221015015059	zet/20221015015059/README.md	concept of mindfulness
+20221015015106	zet/20221015015106/README.md	concept of psychology
+20221015020830	zet/20221015020830/README.md	walk graph and collect keywords for context and prioritize search results based on keywords and scores
+20221015021344	zet/20221015021344/README.md	graph explorer does not let you add 0 links or back out of link screen
+20221015022512	zet/20221015022512/README.md	password reuse to try list
+20221015024136	zet/20221015024136/README.md	cron
+20221015024515	zet/20221015024515/README.md	concept of repeating something periodically
+20221015041944	zet/20221015041944/README.md	what extensions are compatible with vscode / github code editor and zet implementation?
+20221015050620	zet/20221015050620/README.md	copy from clipboard manager into PuTTY
+20221015064621	zet/20221015064621/README.md	tput get terminal capabilities
+20221015065151	zet/20221015065151/README.md	terminal color escape sequences and ncurses python video
+20221015172248	zet/20221015172248/README.md	how to fix ubuntu gnome not remembering screen rotation on One Mix netbook?
+20221015173433	zet/20221015173433/README.md	gnome window manager
+20221015173720	zet/20221015173720/README.md	touchscreen concept
+20221016161034	zet/20221016161034/README.md	one mix netbook standby issues in linux
+20221016202237	zet/20221016202237/README.md	script to insert snippets into cards from file content
+20221016233254	zet/20221016233254/README.md	commits for day of 2022-01-26
+20221016233256	zet/20221016233256/README.md	commits for day of 2022-01-27
+20221016233258	zet/20221016233258/README.md	commits for day of 2022-01-29
+20221016233300	zet/20221016233300/README.md	commits for day of 2022-02-07
+20221016233301	zet/20221016233301/README.md	commits for day of 2022-02-08
+20221016233303	zet/20221016233303/README.md	commits for day of 2022-02-09
+20221016233304	zet/20221016233304/README.md	commits for day of 2022-02-10
+20221016233306	zet/20221016233306/README.md	commits for day of 2022-02-11
+20221016233308	zet/20221016233308/README.md	commits for day of 2022-02-14
+20221016233309	zet/20221016233309/README.md	commits for day of 2022-02-16
+20221016233311	zet/20221016233311/README.md	commits for day of 2022-02-18
+20221016233313	zet/20221016233313/README.md	commits for day of 2022-02-19
+20221016233314	zet/20221016233314/README.md	commits for day of 2022-02-20
+20221016233316	zet/20221016233316/README.md	commits for day of 2022-02-21
+20221016233318	zet/20221016233318/README.md	commits for day of 2022-02-22
+20221016233319	zet/20221016233319/README.md	commits for day of 2022-02-23
+20221016233321	zet/20221016233321/README.md	commits for day of 2022-02-24
+20221016233323	zet/20221016233323/README.md	commits for day of 2022-02-25
+20221016233324	zet/20221016233324/README.md	commits for day of 2022-02-26
+20221016233326	zet/20221016233326/README.md	commits for day of 2022-02-27
+20221016233328	zet/20221016233328/README.md	commits for day of 2022-02-28
+20221016233329	zet/20221016233329/README.md	commits for day of 2022-03-05
+20221016233331	zet/20221016233331/README.md	commits for day of 2022-03-07
+20221016233333	zet/20221016233333/README.md	commits for day of 2022-03-10
+20221016233334	zet/20221016233334/README.md	commits for day of 2022-03-11
+20221016233336	zet/20221016233336/README.md	commits for day of 2022-03-12
+20221016233338	zet/20221016233338/README.md	commits for day of 2022-03-14
+20221016233339	zet/20221016233339/README.md	commits for day of 2022-03-15
+20221016233341	zet/20221016233341/README.md	commits for day of 2022-03-16
+20221016233343	zet/20221016233343/README.md	commits for day of 2022-03-17
+20221016233344	zet/20221016233344/README.md	commits for day of 2022-03-19
+20221016233346	zet/20221016233346/README.md	commits for day of 2022-03-20
+20221016233347	zet/20221016233347/README.md	commits for day of 2022-03-21
+20221016233349	zet/20221016233349/README.md	commits for day of 2022-03-22
+20221016233351	zet/20221016233351/README.md	commits for day of 2022-03-23
+20221016233352	zet/20221016233352/README.md	commits for day of 2022-03-24
+20221016233354	zet/20221016233354/README.md	commits for day of 2022-03-27
+20221016233356	zet/20221016233356/README.md	commits for day of 2022-03-30
+20221016233357	zet/20221016233357/README.md	commits for day of 2022-03-31
+20221016233359	zet/20221016233359/README.md	commits for day of 2022-04-01
+20221016233401	zet/20221016233401/README.md	commits for day of 2022-04-03
+20221016233402	zet/20221016233402/README.md	commits for day of 2022-04-05
+20221016233404	zet/20221016233404/README.md	commits for day of 2022-04-07
+20221016233406	zet/20221016233406/README.md	commits for day of 2022-04-08
+20221016233407	zet/20221016233407/README.md	commits for day of 2022-04-09
+20221016233409	zet/20221016233409/README.md	commits for day of 2022-04-10
+20221016233410	zet/20221016233410/README.md	commits for day of 2022-04-11
+20221016233412	zet/20221016233412/README.md	commits for day of 2022-04-12
+20221016233414	zet/20221016233414/README.md	commits for day of 2022-04-13
+20221016233415	zet/20221016233415/README.md	commits for day of 2022-04-14
+20221016233417	zet/20221016233417/README.md	commits for day of 2022-04-15
+20221016233419	zet/20221016233419/README.md	commits for day of 2022-04-17
+20221016233420	zet/20221016233420/README.md	commits for day of 2022-04-20
+20221016233422	zet/20221016233422/README.md	commits for day of 2022-04-21
+20221016233424	zet/20221016233424/README.md	commits for day of 2022-04-22
+20221016233425	zet/20221016233425/README.md	commits for day of 2022-04-24
+20221016233427	zet/20221016233427/README.md	commits for day of 2022-04-26
+20221016233429	zet/20221016233429/README.md	commits for day of 2022-04-28
+20221016233431	zet/20221016233431/README.md	commits for day of 2022-04-29
+20221016233432	zet/20221016233432/README.md	commits for day of 2022-05-01
+20221016233434	zet/20221016233434/README.md	commits for day of 2022-05-02
+20221016233436	zet/20221016233436/README.md	commits for day of 2022-05-03
+20221016233437	zet/20221016233437/README.md	commits for day of 2022-05-04
+20221016233439	zet/20221016233439/README.md	commits for day of 2022-05-05
+20221016233441	zet/20221016233441/README.md	commits for day of 2022-05-06
+20221016233442	zet/20221016233442/README.md	commits for day of 2022-05-07
+20221016233444	zet/20221016233444/README.md	commits for day of 2022-05-10
+20221016233446	zet/20221016233446/README.md	commits for day of 2022-05-11
+20221016233447	zet/20221016233447/README.md	commits for day of 2022-05-12
+20221016233449	zet/20221016233449/README.md	commits for day of 2022-05-13
+20221016233451	zet/20221016233451/README.md	commits for day of 2022-05-17
+20221016233453	zet/20221016233453/README.md	commits for day of 2022-05-18
+20221016233455	zet/20221016233455/README.md	commits for day of 2022-05-19
+20221016233457	zet/20221016233457/README.md	commits for day of 2022-05-20
+20221016233458	zet/20221016233458/README.md	commits for day of 2022-05-21
+20221016233500	zet/20221016233500/README.md	commits for day of 2022-05-23
+20221016233502	zet/20221016233502/README.md	commits for day of 2022-05-24
+20221016233503	zet/20221016233503/README.md	commits for day of 2022-05-25
+20221016233505	zet/20221016233505/README.md	commits for day of 2022-05-26
+20221016233507	zet/20221016233507/README.md	commits for day of 2022-05-27
+20221016233510	zet/20221016233510/README.md	commits for day of 2022-05-30
+20221016233512	zet/20221016233512/README.md	commits for day of 2022-05-31
+20221016233514	zet/20221016233514/README.md	commits for day of 2022-06-01
+20221016233516	zet/20221016233516/README.md	commits for day of 2022-06-02
+20221016233518	zet/20221016233518/README.md	commits for day of 2022-06-03
+20221016233520	zet/20221016233520/README.md	commits for day of 2022-06-04
+20221016233522	zet/20221016233522/README.md	commits for day of 2022-06-05
+20221016233523	zet/20221016233523/README.md	commits for day of 2022-06-06
+20221016233525	zet/20221016233525/README.md	commits for day of 2022-06-15
+20221016233527	zet/20221016233527/README.md	commits for day of 2022-06-18
+20221016233529	zet/20221016233529/README.md	commits for day of 2022-06-19
+20221016233530	zet/20221016233530/README.md	commits for day of 2022-06-20
+20221016233532	zet/20221016233532/README.md	commits for day of 2022-06-22
+20221016233534	zet/20221016233534/README.md	commits for day of 2022-06-23
+20221016233535	zet/20221016233535/README.md	commits for day of 2022-06-24
+20221016233537	zet/20221016233537/README.md	commits for day of 2022-06-25
+20221016233538	zet/20221016233538/README.md	commits for day of 2022-06-26
+20221016233540	zet/20221016233540/README.md	commits for day of 2022-06-27
+20221016233542	zet/20221016233542/README.md	commits for day of 2022-06-28
+20221016233544	zet/20221016233544/README.md	commits for day of 2022-06-29
+20221016233545	zet/20221016233545/README.md	commits for day of 2022-07-01
+20221016233547	zet/20221016233547/README.md	commits for day of 2022-07-06
+20221016233549	zet/20221016233549/README.md	commits for day of 2022-07-07
+20221016233551	zet/20221016233551/README.md	commits for day of 2022-07-08
+20221016233552	zet/20221016233552/README.md	commits for day of 2022-07-10
+20221016233554	zet/20221016233554/README.md	commits for day of 2022-07-11
+20221016233556	zet/20221016233556/README.md	commits for day of 2022-07-12
+20221016233558	zet/20221016233558/README.md	commits for day of 2022-07-13
+20221016233559	zet/20221016233559/README.md	commits for day of 2022-07-14
+20221016233601	zet/20221016233601/README.md	commits for day of 2022-07-15
+20221016233603	zet/20221016233603/README.md	commits for day of 2022-07-17
+20221016233605	zet/20221016233605/README.md	commits for day of 2022-07-18
+20221016233606	zet/20221016233606/README.md	commits for day of 2022-07-19
+20221016233608	zet/20221016233608/README.md	commits for day of 2022-07-20
+20221016233609	zet/20221016233609/README.md	commits for day of 2022-07-21
+20221016233611	zet/20221016233611/README.md	commits for day of 2022-07-25
+20221016233613	zet/20221016233613/README.md	commits for day of 2022-07-26
+20221016233615	zet/20221016233615/README.md	commits for day of 2022-07-27
+20221016233616	zet/20221016233616/README.md	commits for day of 2022-07-28
+20221016233618	zet/20221016233618/README.md	commits for day of 2022-07-29
+20221016233620	zet/20221016233620/README.md	commits for day of 2022-07-30
+20221016233621	zet/20221016233621/README.md	commits for day of 2022-07-31
+20221016233623	zet/20221016233623/README.md	commits for day of 2022-08-02
+20221016233625	zet/20221016233625/README.md	commits for day of 2022-08-03
+20221016233627	zet/20221016233627/README.md	commits for day of 2022-08-04
+20221016233628	zet/20221016233628/README.md	commits for day of 2022-08-05
+20221016233630	zet/20221016233630/README.md	commits for day of 2022-08-07
+20221016233632	zet/20221016233632/README.md	commits for day of 2022-08-08
+20221016233633	zet/20221016233633/README.md	commits for day of 2022-08-09
+20221016233635	zet/20221016233635/README.md	commits for day of 2022-08-10
+20221016233637	zet/20221016233637/README.md	commits for day of 2022-08-11
+20221016233639	zet/20221016233639/README.md	commits for day of 2022-08-12
+20221016233641	zet/20221016233641/README.md	commits for day of 2022-08-13
+20221016233642	zet/20221016233642/README.md	commits for day of 2022-08-15
+20221016233644	zet/20221016233644/README.md	commits for day of 2022-08-16
+20221016233646	zet/20221016233646/README.md	commits for day of 2022-08-17
+20221016233648	zet/20221016233648/README.md	commits for day of 2022-08-18
+20221016233650	zet/20221016233650/README.md	commits for day of 2022-08-19
+20221016233651	zet/20221016233651/README.md	commits for day of 2022-08-22
+20221016233653	zet/20221016233653/README.md	commits for day of 2022-08-23
+20221016233655	zet/20221016233655/README.md	commits for day of 2022-08-24
+20221016233657	zet/20221016233657/README.md	commits for day of 2022-08-26
+20221016233658	zet/20221016233658/README.md	commits for day of 2022-08-29
+20221016233700	zet/20221016233700/README.md	commits for day of 2022-08-30
+20221016233702	zet/20221016233702/README.md	commits for day of 2022-08-31
+20221016233703	zet/20221016233703/README.md	commits for day of 2022-09-01
+20221016233705	zet/20221016233705/README.md	commits for day of 2022-09-02
+20221016233706	zet/20221016233706/README.md	commits for day of 2022-09-05
+20221016233708	zet/20221016233708/README.md	commits for day of 2022-09-06
+20221016233710	zet/20221016233710/README.md	commits for day of 2022-09-07
+20221016233712	zet/20221016233712/README.md	commits for day of 2022-09-08
+20221016233713	zet/20221016233713/README.md	commits for day of 2022-09-09
+20221016233715	zet/20221016233715/README.md	commits for day of 2022-09-12
+20221016233716	zet/20221016233716/README.md	commits for day of 2022-09-13
+20221016233718	zet/20221016233718/README.md	commits for day of 2022-09-14
+20221016233720	zet/20221016233720/README.md	commits for day of 2022-09-15
+20221016233722	zet/20221016233722/README.md	commits for day of 2022-09-16
+20221016233723	zet/20221016233723/README.md	commits for day of 2022-09-17
+20221016233725	zet/20221016233725/README.md	commits for day of 2022-09-19
+20221016233727	zet/20221016233727/README.md	commits for day of 2022-09-20
+20221016233729	zet/20221016233729/README.md	commits for day of 2022-09-21
+20221016233730	zet/20221016233730/README.md	commits for day of 2022-09-22
+20221016233732	zet/20221016233732/README.md	commits for day of 2022-09-23
+20221016233734	zet/20221016233734/README.md	commits for day of 2022-09-25
+20221016233735	zet/20221016233735/README.md	commits for day of 2022-09-26
+20221016233737	zet/20221016233737/README.md	commits for day of 2022-09-27
+20221016233739	zet/20221016233739/README.md	commits for day of 2022-09-28
+20221016233740	zet/20221016233740/README.md	commits for day of 2022-09-29
+20221016233742	zet/20221016233742/README.md	commits for day of 2022-10-01
+20221017030222	zet/20221017030222/README.md	figure out how to associate kb files that got moved
+20221017030519	zet/20221017030519/README.md	walk along commit history and elaborate or make connections
+20221017033638	zet/20221017033638/README.md	Funday Sunday: Taking down the INSANE-ranked TryHackMe's Takedown alh4zr3d
+20221017033801	zet/20221017033801/README.md	tryhackme box Takedown
+20221017060902	zet/20221017060902/README.md	finding known vulnerabilities and exploits
+20221017070405	zet/20221017070405/README.md	docker compose
+20221017080207	zet/20221017080207/README.md	concept of a scam
+20221017084459	zet/20221017084459/README.md	xpup xml parsing tool for scripting
+20221017084532	zet/20221017084532/README.md	XML concept
+20221017091309	zet/20221017091309/README.md	mermaid tags for markdown diagrams
+20221017154727	zet/20221017154727/README.md	xterm
+20221017172946	zet/20221017172946/README.md	LAN attacks
+20221017173622	zet/20221017173622/README.md	fix problem tags in cards
+20221017180938	zet/20221017180938/README.md	hacking or enumeration tool
+20221017182053	zet/20221017182053/README.md	hydra
+20221017182222	zet/20221017182222/README.md	bruteforcing or password spraying tools
+20221018020643	zet/20221018020643/README.md	what is hadoop for?
+20221018022719	zet/20221018022719/README.md	testing netbook charging
+20221018042949	zet/20221018042949/README.md	how to remap keys like esc in linux
+20221018050302	zet/20221018050302/README.md	use function keys or special keybindings in bash
+20221018050715	zet/20221018050715/README.md	dotfiles concept
+20221018052621	zet/20221018052621/README.md	how to process email programatically?
+20221018125400	zet/20221018125400/README.md	bundle an apt package and all its dependencies in a tar to deploy
+20221018133841	zet/20221018133841/README.md	base64 concept
+20221018134040	zet/20221018134040/README.md	devzat htb
+20221018145628	zet/20221018145628/README.md	label commands attached to kb files as commands
+20221018152638	zet/20221018152638/README.md	virtualbox
+20221018152809	zet/20221018152809/README.md	VM hypervisor or manager or player or host software
+20221018152947	zet/20221018152947/README.md	virtual machine VM concept
+20221018155432	zet/20221018155432/README.md	cyberpunk library
+20221018160416	zet/20221018160416/README.md	phishing or credential harvesting concept
+20221018161819	zet/20221018161819/README.md	did i link a bunch of weird enumeration stuff together?
+20221018174628	zet/20221018174628/README.md	tar command
+20221018175658	zet/20221018175658/README.md	hexadecimal hex
+20221018182017	zet/20221018182017/README.md	read bash man page
+20221018183943	zet/20221018183943/README.md	shellcheck
+20221018190312	zet/20221018190312/README.md	bash scripting workflow
+20221018193528	zet/20221018193528/README.md	bash shell builtin commands
+20221018201513	zet/20221018201513/README.md	make a script to get the context of a card - word counts
+20221019002732	zet/20221019002732/README.md	shells
+20221019003259	zet/20221019003259/README.md	background task or running service on machine
+20221019141821	zet/20221019141821/README.md	terminalforlife bash scripting youtuber
+20221019143424	zet/20221019143424/README.md	JSON concept
+20221019143615	zet/20221019143615/README.md	data concept
+20221019143924	zet/20221019143924/README.md	link all this up to AD and to try list
+20221019144206	zet/20221019144206/README.md	this should all be linked to powershell and to try lists
+20221019150132	zet/20221019150132/README.md	kerberos AD commands
+20221019150908	zet/20221019150908/README.md	userlist file concept
+20221019151504	zet/20221019151504/README.md	error message username enumeration
+20221019220305	zet/20221019220305/README.md	combine common commands and enum quick commands
+20221020000157	zet/20221020000157/README.md	kb notes template file list
+20221020000848	zet/20221020000848/README.md	SSH
+20221020044600	zet/20221020044600/README.md	alacritty
+20221020051510	zet/20221020051510/README.md	knowledge operations ideas
+20221020052758	zet/20221020052758/README.md	neo4j cypher queries
+20221020053629	zet/20221020053629/README.md	parse mermaid syntax and use to generate set of linked cards
+20221020154329	zet/20221020154329/README.md	port forwarding concept
+20221020160107	zet/20221020160107/README.md	zettels with kb script paths to fix
+20221020183231	zet/20221020183231/README.md	how to get titles to show up in obsidian graph
+20221020185927	zet/20221020185927/README.md	bring in scripts from kb and update paths
+20221020193850	zet/20221020193850/README.md	what is knowledge management
+20221020203509	zet/20221020203509/README.md	concept of an antipattern
+20221020230358	zet/20221020230358/README.md	test node 1
+20221020230420	zet/20221020230420/README.md	test node 2 bar
+20221021071146	zet/20221021071146/README.md	delete things marked as #DEL periodically
+20221021081636	zet/20221021081636/README.md	template card to run command in snippet
+20221021182334	zet/20221021182334/README.md	project issue workflow
+20221021183918	zet/20221021183918/README.md	C language
+20221021202250	zet/20221021202250/README.md	put all the link titles in square brackets and automatically update them
+20221021221931	zet/20221021221931/README.md	cache headings
+20221022000131	zet/20221022000131/README.md	put tmux and vim rc config in dockerfile
+20221022210052	zet/20221022210052/README.md	file type reference
+20221022210719	zet/20221022210719/README.md	assorted information
+20221022232030	zet/20221022232030/README.md	save fzf completion history for each card
+20221022232615	zet/20221022232615/README.md	defcon video notes
+20221022232952	zet/20221022232952/README.md	pandoc markdown format converter

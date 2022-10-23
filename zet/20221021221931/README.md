@@ -5,6 +5,10 @@
 - load them quickly in awk scripts
 - speed up enrich process
 - use to update link titles
+- put in a TSV file `id_headings` in root dir of repo.
+  - 1. id
+  - 2. readme filename
+  - 3. heading
 
 ```
 ```
