@@ -29,6 +29,10 @@ if [ ! -z "$1" ]; then
 fi
 selection=$(mktemp)
 while [ 1 == "$going" ]; do
+  id="$doc" # get id here too for fzf history
+  if [[ "$doc" =~ zet/[0-9]+ ]]; then
+    id=$(echo "$doc" | awk -F / '{ print $(NF-1) }')
+  fi
   awk '
   BEGIN {
     print "edit"
@@ -66,6 +70,7 @@ while [ 1 == "$going" ]; do
     --preview="$0 video '$doc' {}" \
     --bind "up:preview-up,down:preview-down" \
     "--preview-window=up,75%" \
+    "--history=fzftracking/$id" \
     --prompt="$doc :" > "$selection"
   sel="$(cat $selection)"
   act=$(cat $selection | awk '{print $1}')

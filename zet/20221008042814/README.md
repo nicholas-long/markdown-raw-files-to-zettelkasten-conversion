@@ -7,7 +7,6 @@ stuff i am working on.
 # Related
 
 - [20221022232615](/zet/20221022232615/README.md) defcon video notes
-- [20221022232030](/zet/20221022232030/README.md) save fzf completion history for each card
 - [20221021221931](/zet/20221021221931/README.md) cache headings
 - [20221003151144](/zet/20221003151144/README.md) active directory 
 - [20221003150791](/zet/20221003150791/README.md) openssl
