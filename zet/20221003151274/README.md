@@ -8,7 +8,6 @@ RUN git clone https://github.com/Titor8115/mandown && cd mandown && make && make
 
 # Related
 
-- [20221003151274](/zet/20221003151274/README.md) install mandown
 - [20221014185441](/zet/20221014185441/README.md) kb file named kb/docker/installations/install-mandown.md
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
