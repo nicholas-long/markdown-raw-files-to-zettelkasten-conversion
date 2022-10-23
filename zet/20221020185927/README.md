@@ -119,7 +119,6 @@ zet/20221003151440/README.md ~/kb/awk-scripting/colorize.awk # awk scripting rep
 # Related
 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
-
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - [20221003151363](/zet/20221003151363/README.md) python scripting
 - [20221003151329](/zet/20221003151329/README.md) bash scripting

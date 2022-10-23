@@ -6,6 +6,7 @@ This is a collection of bash scripts
 
 # Related
 
+- [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
 - [20221014190232](/zet/20221014190232/README.md) kb file named kb/scripts.md
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
