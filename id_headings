@@ -287,8 +287,8 @@
 20221003150351	zet/20221003150351/README.md	pack windows payload in ISO to avoid MOTW
 20221003150352	zet/20221003150352/README.md	fake set change system time for command
 20221003150353	zet/20221003150353/README.md	linux PAM module backdoor password build script
-20221003150354	zet/20221003150354/README.md	.NET decompiler reverse engineering Cmanaged EXE DLL binaries modify rebuild and recompile .NET assemblies
-20221003150355	zet/20221003150355/README.md	.NET decompiler reverse engineering Cmanaged EXE DLL binaries
+20221003150354	zet/20221003150354/README.md	.NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
+20221003150355	zet/20221003150355/README.md	.NET decompiler reverse engineering C# managed EXE DLL binaries
 20221003150356	zet/20221003150356/README.md	linux and windows privilege escalation mind maps OSCP
 20221003150357	zet/20221003150357/README.md	create malicious ODT file payload to leak NTLMv2 hashes with badodf
 20221003150358	zet/20221003150358/README.md	jxplorer connect to LDAP GUI access
@@ -1321,7 +1321,7 @@
 20221003151428	zet/20221003151428/README.md	awk scripting autogenerate headings for source files
 20221003151429	zet/20221003151429/README.md	awk scripting print all variations of upper and lower case for given lowercase string
 20221003151430	zet/20221003151430/README.md	awk scripting constrict line widths of input text stream
-20221003151431	zet/20221003151431/README.md	awk scripting check output of grep and next line using awk "grep -A 1 -R '^' ."
+20221003151431	zet/20221003151431/README.md	awk scripting check output of grep and next line using awk "grep -A 1 -R '^# ' ."
 20221003151432	zet/20221003151432/README.md	awk scripting filter the CVE list for potentially valid, relevant vulnerabilities
 20221003151433	zet/20221003151433/README.md	awk scripting combine lines from two files combinatorically with symbol between
 20221003151434	zet/20221003151434/README.md	awk scripting get column headings from first line of CSV
