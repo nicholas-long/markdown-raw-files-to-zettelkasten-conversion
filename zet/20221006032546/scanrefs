@@ -44,7 +44,7 @@ scanning && /^$/ { empties++ }
   }
   if ($2 ~ /^\[[0-9]{14}\]/) {
     isref=1
-    if (index($0, headings[refid]) == 0) { # rough check heading text
+    if (index($0, heading[refid]) == 0) { # rough check heading text
       cleanup[fileid] = 1
     }
   }
