@@ -4,6 +4,7 @@
 - procedure
   - individual operations
     - input: individual IDs
+      - get input IDs by taking all unique IDs in the last column of working set
     - output: ordered pairs, input ID -> ... -> results
   - joining results to working set involves
     - matching the final column of rows in working set to the first column of result
