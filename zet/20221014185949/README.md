@@ -15,7 +15,7 @@
 - [20221003150602](/zet/20221003150602/README.md) tunneling through chisel - socks Target
 - [20221003150603](/zet/20221003150603/README.md) tunneling through chisel - socks Attacker
 - [20221003150604](/zet/20221003150604/README.md) tunneling through chisel - socks
-- [20221003150601](/zet/20221003150601/README.md) tunneling through chisel - socks Forward specific port
+- [20221003150601](/zet/20221003150601/README.md) tunneling Forward specific port through chisel
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

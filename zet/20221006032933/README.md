@@ -10,7 +10,7 @@
 
 # Related
 
-- [20221015021344](/zet/20221015021344/README.md) graph does not let you add 0 links or back out of link screen
+- [20221015021344](/zet/20221015021344/README.md) graph explorer does not let you add 0 links or back out of link screen
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten

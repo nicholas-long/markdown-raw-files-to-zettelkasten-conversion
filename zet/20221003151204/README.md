@@ -30,7 +30,7 @@
 - [20221014185603](/zet/20221014185603/README.md) kb file named kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md
 - [20221003150751](/zet/20221003150751/README.md) kerbrute password spray users from user list file
 - [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection
-- [20221003151233](/zet/20221003151233/README.md) mysql mariadb write any binary file with file permissions
+- [20221003151233](/zet/20221003151233/README.md) mysql mariadb write UDF shell or any binary file with file permissions
 - [20221003151232](/zet/20221003151232/README.md) mysql mariadb exploit GRANT OPTION to grant file write permissions to self
 - [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages

@@ -105,7 +105,7 @@ the concept of a `command`
 - [20221003151443](/zet/20221003151443/README.md) kb
 - [20221003150798](/zet/20221003150798/README.md) git
 - [20221003150720](/zet/20221003150720/README.md) curl
-- [20221003150665](/zet/20221003150665/README.md) NFS
+- [20221003150665](/zet/20221003150665/README.md) NFS commands
 - [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
 - [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive

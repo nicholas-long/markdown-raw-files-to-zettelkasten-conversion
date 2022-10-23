@@ -5,7 +5,7 @@
 # Related
 
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat
 - [20221003150449](/zet/20221003150449/README.md) keepass CLI tool open and edit keepass databases
 - [20221003150370](/zet/20221003150370/README.md) dump credentials from browsers chromium

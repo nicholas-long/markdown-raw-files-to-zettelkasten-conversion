@@ -14,7 +14,7 @@
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150679](/zet/20221003150679/README.md) tftp start daemon (folder /var/tftp)
 - [20221003150680](/zet/20221003150680/README.md) tftp upload file
-- [20221003150681](/zet/20221003150681/README.md) tftp
+- [20221003150681](/zet/20221003150681/README.md) tftp commands
 - [20221003150678](/zet/20221003150678/README.md) tftp transfer Files
 - [20221003151443](/zet/20221003151443/README.md) kb
 

@@ -51,7 +51,7 @@ ENTRYPOINT [ "pyrit" ]
 - [20221014201909](/zet/20221014201909/README.md) add lazygit to dockerfile for zet cmd
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
-- [20221003151268](/zet/20221003151268/README.md) Lookup missing packages
+- [20221003151268](/zet/20221003151268/README.md) Lookup missing packages with command-not-found
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221009021452](/zet/20221009021452/README.md) container
 - https://github.com/nicholas-long/docker-collection/blob/main/kali-pyrit/Dockerfile

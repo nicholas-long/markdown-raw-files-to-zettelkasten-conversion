@@ -24,7 +24,7 @@ the concept of `coding / programming`
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines
-- [20221003150590](/zet/20221003150590/README.md) php code
+- [20221003150590](/zet/20221003150590/README.md) php code examples
 - [20221003150946](/zet/20221003150946/README.md) python
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003151332](/zet/20221003151332/README.md) bash scripting

@@ -9,7 +9,7 @@
 
 # Related
 
-- [20221003150881](/zet/20221003150881/README.md) Create symbolic link ( got write access to files, edit perms as root )
+- [20221003150881](/zet/20221003150881/README.md) create symbolic link
 - [20221016233313](/zet/20221016233313/README.md) commits for day of 2022-02-19
 - [20221003151443](/zet/20221003151443/README.md) kb
 

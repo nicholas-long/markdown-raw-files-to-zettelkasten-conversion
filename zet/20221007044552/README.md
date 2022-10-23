@@ -24,7 +24,7 @@ concept of a todo list.
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 - [20221006215135](/zet/20221006215135/README.md) siren
-- [20221003151213](/zet/20221003151213/README.md) got leaked files TRY
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
 - [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
 - [20221003151188](/zet/20221003151188/README.md) HTTP found CMS
 - [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits
@@ -44,9 +44,9 @@ concept of a todo list.
 - [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access
 - [20221003151181](/zet/20221003151181/README.md) HTTP compromised CMS login CMS auth code exec / becoming web user
 - [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list
-- [20221003151192](/zet/20221003151192/README.md) HTTP TRY
+- [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list
 - [20221003151177](/zet/20221003151177/README.md) Stuck to try list

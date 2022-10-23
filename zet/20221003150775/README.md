@@ -5,7 +5,7 @@
 # Related
 
 - [20221014185901](/zet/20221014185901/README.md) kb file named kb/hacking/commands/msfvenom-commands.md
-- [20221003150527](/zet/20221003150527/README.md) Generate reverse shell shellcode payload
+- [20221003150527](/zet/20221003150527/README.md) generate reverse shell shellcode payload for pwn
 - [20221003150776](/zet/20221003150776/README.md) MSFVENOM Windows Binary (.exe) executable
 - [20221003150774](/zet/20221003150774/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Reverse Shell
 - [20221003150773](/zet/20221003150773/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Bind Shell

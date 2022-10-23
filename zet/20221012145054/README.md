@@ -31,7 +31,7 @@
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221011134623](/zet/20221011134623/README.md) note taking template for heckin boxes
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221003150210](/zet/20221003150210/README.md) kafkacat
 - [20221003150952](/zet/20221003150952/README.md) OSINT organizations github OSINT

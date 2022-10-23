@@ -11,7 +11,7 @@ brute forceable if used to generate a cookie
 
 # Related
 
-- [20221013185120](/zet/20221013185120/README.md) crypto and blockchain stuff
+- [20221013185120](/zet/20221013185120/README.md) concept of cryptography
 - [20221003150791](/zet/20221003150791/README.md) openssl
 - [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md
 - [20221003150265](/zet/20221003150265/README.md) block ciphers

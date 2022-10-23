@@ -29,7 +29,7 @@
 - [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos
 - [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
 - [20221003150881](/zet/20221003150881/README.md) create symbolic link
-- [20221003151178](/zet/20221003151178/README.md) got source code - analysis
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
 - [20221003150260](/zet/20221003150260/README.md) sperl and suidperl

@@ -9,7 +9,7 @@ the concept of `www - the web`
 # Related
 
 - [20221015005535](/zet/20221015005535/README.md) werkzeug
-- [20221003151408](/zet/20221003151408/README.md) bash scripting parse burpsuite saved request file and convert to python requests script for copying
+- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
 - [20221003150252](/zet/20221003150252/README.md) httponly cookie option
@@ -30,7 +30,7 @@ the concept of `www - the web`
 - [20221003150499](/zet/20221003150499/README.md) shellshock python2 exploit reverse shell usage
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221008221548](/zet/20221008221548/README.md) website
-- [20221003151192](/zet/20221003151192/README.md) HTTP TRY
+- [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 
 Tags:

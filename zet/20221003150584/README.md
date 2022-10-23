@@ -5,7 +5,7 @@
 # Related
 
 - [20221014185953](/zet/20221014185953/README.md) kb file named kb/hacking/php/PHP-quick-command-reference.md
-- [20221003150590](/zet/20221003150590/README.md) php code
+- [20221003150590](/zet/20221003150590/README.md) php code examples
 - [20221003150583](/zet/20221003150583/README.md) php code convert human readable time to unix epoch timestamp apache HTTP Date header
 - ~/kb/hacking/php/PHP-quick-command-reference.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix

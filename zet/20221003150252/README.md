@@ -5,7 +5,7 @@ httponly keeps javascript from accessing / stealing the cookie
 
 # Related
 
-- [20221013180230](/zet/20221013180230/README.md) session cookie or access token
+- [20221013180230](/zet/20221013180230/README.md) session cookie, API key, or access token
 - [20221013180125](/zet/20221013180125/README.md) concept of a cookie
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221003151193](/zet/20221003151193/README.md) HTTP

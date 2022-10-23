@@ -20,7 +20,7 @@
 - [20221003150479](/zet/20221003150479/README.md) general enumeration what commands are available
 - [20221003150487](/zet/20221003150487/README.md) active directory get user account
 - [20221003150486](/zet/20221003150486/README.md) active directory get GMSA service account properties
-- [20221003150482](/zet/20221003150482/README.md) general enumeration
+- [20221003150482](/zet/20221003150482/README.md) general powershell enumeration
 - [20221003150485](/zet/20221003150485/README.md) active directory get GMSA service account properties get GMSA password and run commands
 - [20221003150484](/zet/20221003150484/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob
 - [20221003150480](/zet/20221003150480/README.md) general enumeration get processes

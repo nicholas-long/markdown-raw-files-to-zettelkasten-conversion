@@ -6,7 +6,7 @@ https://github.com/tennc/webshell
 # Related
 
 - [20221008221548](/zet/20221008221548/README.md) website
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 - [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal

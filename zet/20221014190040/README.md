@@ -13,7 +13,7 @@
 - [20221016233318](/zet/20221016233318/README.md) commits for day of 2022-02-22
 - [20221003150463](/zet/20221003150463/README.md) powershell PSCredential password print password from object
 - [20221003150465](/zet/20221003150465/README.md) powershell PSCredential password
-- [20221003150464](/zet/20221003150464/README.md) powershell PSCredential password import xml object load from file
+- [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

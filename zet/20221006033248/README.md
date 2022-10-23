@@ -37,7 +37,7 @@
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221006145626](/zet/20221006145626/README.md) why does rwxrob's zettelkasten have so few links?
 - [20221006063114](/zet/20221006063114/README.md) small files are stored in inodes in ext4
-- [20221007205652](/zet/20221007205652/README.md) find limit recusion depth
+- [20221007205652](/zet/20221007205652/README.md) find limit recursion depth
 - [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
 - https://github.com/rwxrob
 

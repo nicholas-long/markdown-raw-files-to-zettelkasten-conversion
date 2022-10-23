@@ -10,7 +10,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221013185251](/zet/20221013185251/README.md) general information concept FYI
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands
 - [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md

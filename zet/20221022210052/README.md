@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221003150239](/zet/20221003150239/README.md) extract command for file type
 - [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files
 - [20221003150660](/zet/20221003150660/README.md) data analysis commands binwalk find and extract LZMA zip streams quickly

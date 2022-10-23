@@ -16,8 +16,8 @@
 
 # Related
 
-- [20221015172248](/zet/20221015172248/README.md) why does ubuntu gnome not remember the screen rotation?
-- [20221003151268](/zet/20221003151268/README.md) Lookup missing packages
+- [20221015172248](/zet/20221015172248/README.md) how to fix ubuntu gnome not remembering screen rotation on One Mix netbook?
+- [20221003151268](/zet/20221003151268/README.md) Lookup missing packages with command-not-found
 - [20221007193324](/zet/20221007193324/README.md) github actions
 - [20221012090938](/zet/20221012090938/README.md) my One Mix netbook
 - [20221006025356](/zet/20221006025356/README.md) linux

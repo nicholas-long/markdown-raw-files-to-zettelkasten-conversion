@@ -163,9 +163,9 @@ this is a list of possibly empty zettels.
 - [20221003150690](/zet/20221003150690/README.md) wpscan initial config backups
 - [20221003150689](/zet/20221003150689/README.md) wpscan initial database exports
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
-- [20221003150681](/zet/20221003150681/README.md) tftp
+- [20221003150681](/zet/20221003150681/README.md) tftp commands
 - [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files
-- [20221003150665](/zet/20221003150665/README.md) NFS
+- [20221003150665](/zet/20221003150665/README.md) NFS commands
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands
 - [20221003150659](/zet/20221003150659/README.md) wfuzz
 - [20221003150651](/zet/20221003150651/README.md) kubernetes
@@ -183,7 +183,7 @@ this is a list of possibly empty zettels.
 - [20221003150614](/zet/20221003150614/README.md) smbclient shell
 - [20221003150594](/zet/20221003150594/README.md) generating enumeration wordlists
 - [20221003150592](/zet/20221003150592/README.md) php
-- [20221003150590](/zet/20221003150590/README.md) php code
+- [20221003150590](/zet/20221003150590/README.md) php code examples
 - [20221003150584](/zet/20221003150584/README.md) php code convert human readable time to unix epoch timestamp
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
 - [20221003150575](/zet/20221003150575/README.md) php type juggling methodology

@@ -18,7 +18,7 @@ kb/kafka/connect-confluent.md
 
 # Related
 
-- [20221012153843](/zet/20221012153843/README.md) confluent
+- [20221012153843](/zet/20221012153843/README.md) confluent.io
 - [20221016233303](/zet/20221016233303/README.md) commits for day of 2022-02-09
 - [20221014185516](/zet/20221014185516/README.md) kb file named kb/kafka/connect-confluent.md
 - [20221016233300](/zet/20221016233300/README.md) commits for day of 2022-02-07

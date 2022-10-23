@@ -9,7 +9,7 @@
 
 # Related
 
-- [20221003151178](/zet/20221003151178/README.md) got source code - analysis
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list
 - [20221016233637](/zet/20221016233637/README.md) commits for day of 2022-08-11
 - [20221016233608](/zet/20221016233608/README.md) commits for day of 2022-07-20
 - [20221016233606](/zet/20221016233606/README.md) commits for day of 2022-07-19

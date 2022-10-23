@@ -16,7 +16,7 @@
 - [20221003150587](/zet/20221003150587/README.md) php code write to file
 - [20221003150591](/zet/20221003150591/README.md) php run as interactive shell
 - [20221003150584](/zet/20221003150584/README.md) php code convert human readable time to unix epoch timestamp
-- [20221003150590](/zet/20221003150590/README.md) php code
+- [20221003150590](/zet/20221003150590/README.md) php code examples
 - [20221003150583](/zet/20221003150583/README.md) php code convert human readable time to unix epoch timestamp apache HTTP Date header
 - [20221003150592](/zet/20221003150592/README.md) php
 - [20221003150588](/zet/20221003150588/README.md) php code read file

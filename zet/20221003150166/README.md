@@ -8,7 +8,7 @@ dd if=/proc/$1/mem bs=$( getconf PAGESIZE ) iflag=skip_bytes,count_bytes skip=$(
 # Related
 
 - [20221014190151](/zet/20221014190151/README.md) kb file named kb/linux/dump-process-memory.md
-- [20221003150168](/zet/20221003150168/README.md) dump process memory
+- [20221003150168](/zet/20221003150168/README.md) dump process memory on linux
 - ~/kb/linux/dump-process-memory.md
 
 Tags:

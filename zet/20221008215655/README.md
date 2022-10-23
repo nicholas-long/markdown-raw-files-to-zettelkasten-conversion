@@ -10,7 +10,7 @@ the concept of `user account`
 - [20221003150752](/zet/20221003150752/README.md) kerbrute enumerate users using wordlist
 - [20221003150751](/zet/20221003150751/README.md) kerbrute password spray users from user list file
 - [20221019150908](/zet/20221019150908/README.md) userlist file concept
-- [20221018160416](/zet/20221018160416/README.md) credential harvesting concept
+- [20221018160416](/zet/20221018160416/README.md) phishing or credential harvesting concept
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept
 - [20221017182053](/zet/20221017182053/README.md) hydra
 - [20221015004252](/zet/20221015004252/README.md) htb opensource machine

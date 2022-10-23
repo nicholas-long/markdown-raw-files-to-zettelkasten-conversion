@@ -38,7 +38,7 @@ c  "o   /- [^Mww"zye:e zet/^Rz/README.tx<80>kb<80>kbmd^M
 # Related
 
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
-- [20221003150076](/zet/20221003150076/README.md) swap panes
+- [20221003150076](/zet/20221003150076/README.md) tmux swap panes
 - [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product

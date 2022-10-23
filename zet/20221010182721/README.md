@@ -17,7 +17,7 @@
 - [20221003150243](/zet/20221003150243/README.md) jekyll blog markdown to html
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
-- [20221007220451](/zet/20221007220451/README.md) hacking notes node
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150444](/zet/20221003150444/README.md) hacktricks markdown data github
 
 Tags:

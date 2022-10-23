@@ -107,7 +107,7 @@
 - [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
 - [20221003151053](/zet/20221003151053/README.md) lsass process contains credentials
-- [20221003151165](/zet/20221003151165/README.md) TFTP udp 69
+- [20221003151165](/zet/20221003151165/README.md) TFTP udp 69 to try list
 - [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup
 - [20221003151203](/zet/20221003151203/README.md) LDAP
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows

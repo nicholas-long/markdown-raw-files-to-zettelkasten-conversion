@@ -49,7 +49,7 @@ concept of the github website owned by the company microsoft.
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
-- [20221003151178](/zet/20221003151178/README.md) got source code - analysis
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list
 - [20221003151023](/zet/20221003151023/README.md) analyzing source code
 - [20221003150952](/zet/20221003150952/README.md) OSINT organizations github OSINT
 - [20221003150442](/zet/20221003150442/README.md) payloads payloadsallthethings github

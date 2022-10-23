@@ -10,7 +10,7 @@
 # Related
 
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
-- [20221007205652](/zet/20221007205652/README.md) find limit recusion depth
+- [20221007205652](/zet/20221007205652/README.md) find limit recursion depth
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types

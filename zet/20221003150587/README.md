@@ -15,7 +15,7 @@ fclose($myfile);
 
 - [20221014185953](/zet/20221014185953/README.md) kb file named kb/hacking/php/PHP-quick-command-reference.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-- [20221003150590](/zet/20221003150590/README.md) php code
+- [20221003150590](/zet/20221003150590/README.md) php code examples
 - [20221003150586](/zet/20221003150586/README.md) php code write to file easy file write
 - ~/kb/hacking/php/PHP-quick-command-reference.md
 

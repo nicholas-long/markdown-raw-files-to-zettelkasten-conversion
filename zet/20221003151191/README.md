@@ -40,7 +40,7 @@
 - [20221003151189](/zet/20221003151189/README.md) HTTP specific HTTP server exploit possibilities
 - [20221003151185](/zet/20221003151185/README.md) HTTP bypassing restrictions
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
-- [20221018160416](/zet/20221018160416/README.md) credential harvesting concept
+- [20221018160416](/zet/20221018160416/README.md) phishing or credential harvesting concept
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md

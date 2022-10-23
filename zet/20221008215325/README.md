@@ -9,7 +9,7 @@ the concept of a `password`
 
 # Related
 
-- [20221018160416](/zet/20221018160416/README.md) credential harvesting concept
+- [20221018160416](/zet/20221018160416/README.md) phishing or credential harvesting concept
 - [20221017182053](/zet/20221017182053/README.md) hydra
 - [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
 - [20221003150463](/zet/20221003150463/README.md) powershell PSCredential password print password from object

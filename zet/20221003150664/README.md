@@ -8,7 +8,7 @@ showmount -e $IP
 # Related
 
 - [20221014185932](/zet/20221014185932/README.md) kb file named kb/hacking/commands/nfs.md
-- [20221003150665](/zet/20221003150665/README.md) NFS
+- [20221003150665](/zet/20221003150665/README.md) NFS commands
 - ~/kb/hacking/commands/nfs.md
 
 Tags:

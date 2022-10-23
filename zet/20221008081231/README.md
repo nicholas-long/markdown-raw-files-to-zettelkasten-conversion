@@ -14,7 +14,7 @@ the concept of `debugging`
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221003151021](/zet/20221003151021/README.md) analyzing source code PHP code
-- [20221003151178](/zet/20221003151178/README.md) got source code - analysis
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list
 - [20221003151023](/zet/20221003151023/README.md) analyzing source code
 - [20221003150514](/zet/20221003150514/README.md) pwntools gdb debugging terminal set to work in vs code:
 - [20221003151294](/zet/20221003151294/README.md) debugging bash in visual studio code
@@ -23,7 +23,7 @@ the concept of `debugging`
 - [20221003151293](/zet/20221003151293/README.md) debugging bash in terminal
 - [20221003151295](/zet/20221003151295/README.md) debugging bash
 - [20221003151309](/zet/20221003151309/README.md) expect scripts
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221003150537](/zet/20221003150537/README.md) immunity debugger mona commands
 - [20221003150528](/zet/20221003150528/README.md) gdb commands debug step into / follow child process
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
