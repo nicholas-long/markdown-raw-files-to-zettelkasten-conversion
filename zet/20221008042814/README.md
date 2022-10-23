@@ -61,7 +61,6 @@ stuff i am working on.
 - [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`
 - [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
-- [20221009091132](/zet/20221009091132/README.md) new links should come in at the bottom
 - [20221009022138](/zet/20221009022138/README.md) parse text in zettelkasten with python scripts
 - [20221008213627](/zet/20221008213627/README.md) enhancement / improvement
 - [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch
