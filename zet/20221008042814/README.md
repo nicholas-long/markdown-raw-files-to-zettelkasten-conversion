@@ -6,11 +6,13 @@ stuff i am working on.
 
 # Related
 
+- [20221023182804](/zet/20221023182804/README.md) browse to tagindex pages
+- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
+- [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 - [20221022232615](/zet/20221022232615/README.md) defcon video notes
 - [20221003151144](/zet/20221003151144/README.md) active directory 
 - [20221003150791](/zet/20221003150791/README.md) openssl
 - [20221020160107](/zet/20221020160107/README.md) zettels with kb script paths to fix
-- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
 - [20221018201513](/zet/20221018201513/README.md) make a script to get the context of a card - word counts
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
@@ -76,8 +78,6 @@ stuff i am working on.
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221003150098](/zet/20221003150098/README.md) todo
-- [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
-- [20221023182804](/zet/20221023182804/README.md) browse to tagindex pages
 
 Tags:
 
