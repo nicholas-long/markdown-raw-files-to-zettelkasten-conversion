@@ -183,12 +183,13 @@ cp ~/kb/awk-scripting/colorize.awk zet/20221003151440/
 
 # Related
 
+- [20221009095853](/zet/20221009095853/README.md) finished
+
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - [20221003151363](/zet/20221003151363/README.md) python scripting
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
-- [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221020160107](/zet/20221020160107/README.md) zettels with kb script paths to fix
 - [20221014190229](/zet/20221014190229/README.md) kb file named kb/auto-python.md
 - [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md
