@@ -11,9 +11,7 @@
 # Related
 
 - [20221009095853](/zet/20221009095853/README.md) finished
-
 - [20221021221931](/zet/20221021221931/README.md) cache headings
-
 - [20221009102918](/zet/20221009102918/README.md) get titles in tag links
 - [20221021202250](/zet/20221021202250/README.md) put all the link titles in square brackets and automatically update them
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd

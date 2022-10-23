@@ -6,6 +6,8 @@ things that are finished.
 
 # Related
 
+- [20221021221931](/zet/20221021221931/README.md) cache headings
+- [20221010044240](/zet/20221010044240/README.md) titles of nodes should repopulate
 - [20221022232030](/zet/20221022232030/README.md) save fzf completion history for each card
 - [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
 - [20221022000131](/zet/20221022000131/README.md) put tmux and vim rc config in dockerfile

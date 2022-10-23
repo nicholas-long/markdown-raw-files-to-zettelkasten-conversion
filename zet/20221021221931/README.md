@@ -17,8 +17,8 @@
 
 # Related
 
+- [20221010044240](/zet/20221010044240/README.md) titles of nodes should repopulate
 - [20221009095853](/zet/20221009095853/README.md) finished
-
 - [20221021202250](/zet/20221021202250/README.md) put all the link titles in square brackets and automatically update them
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
 - [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process

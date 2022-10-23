@@ -39,7 +39,6 @@
 - [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`
 - [20221009183745](/zet/20221009183745/README.md) TODO: categorize github knowledge bases by attaching graph nodes
 - [20221009211130](/zet/20221009211130/README.md) zettelkasten can be like a living knowledge base
-- [20221010044240](/zet/20221010044240/README.md) titles of nodes should repopulate
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - [20221010071719](/zet/20221010071719/README.md) nodes to add
 - [20221010150900](/zet/20221010150900/README.md) draw stuff on cards with tablet
