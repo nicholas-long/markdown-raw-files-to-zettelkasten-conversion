@@ -14,11 +14,12 @@ function xrefid(id1,id2) {
   else { return (id2 " " id1) }
 }
 BEGIN {
-  command = "ls zet"
-  while ((command | getline id) > 0) {
-    print "id", id
-    ids[id] = 1
+  FS="\t"
+  while (("id_headings" | getline) > 0){
+    ids[$1] = 1
+    heading[$1] = $3
   }
+  FS = " "
 }
 BEGINFILE {
   scanning = 0
@@ -41,7 +42,11 @@ scanning && /^$/ { empties++ }
     isref=1
     cleanup[fileid] = 1
   }
-  if ($2 ~ /^\[[0-9]{14}\]/) isref=1
+  if ($2 ~ /^\[[0-9]{14}\]/) {
+    isref=1
+    if (!index($0, headings[refid])) # rough check heading text
+      cleanup[fileid] = 1
+  }
   if ( isref ) {
     seenref[xrefid(fileid, refid)]++
     seenooo[fileid " " refid] = 1
