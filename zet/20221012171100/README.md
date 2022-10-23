@@ -11,8 +11,7 @@ zet/20221012171100/README.md
 # Related
 
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
-- [20221023084432](/zet/20221023084432/README.md) graph theory
-- [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
+- [20221023182804](/zet/20221023182804/README.md) browse to tagindex pages
 
 Tags:
 

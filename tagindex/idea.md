@@ -499,3 +499,4 @@
 - [20221022232615](/zet/20221022232615/README.md) defcon video notes
 - [20221023084432](/zet/20221023084432/README.md) graph theory
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
+- [20221023182804](/zet/20221023182804/README.md) browse to tagindex pages

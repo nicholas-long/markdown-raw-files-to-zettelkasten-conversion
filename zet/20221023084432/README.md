@@ -25,7 +25,6 @@
 - [20221008054439](/zet/20221008054439/README.md) graph database
 - https://www.youtube.com/c/WrathofMath
 - <https://en.wikipedia.org/wiki/Graph_theory>
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 
