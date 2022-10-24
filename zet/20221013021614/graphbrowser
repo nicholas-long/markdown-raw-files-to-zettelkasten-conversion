@@ -134,11 +134,7 @@ while [ 1 == "$going" ]; do
     echo "back to $doc"
   elif [ "$act" == "edit" ]; then
     choice=$(cat $selection | awk '{print $2}')
-    if [ ! -z $TMUX ]; then
-      tmux new-window $EDITOR "$choice"
-    else
-      $EDITOR "$doc"
-    fi
+    $EDITOR "$doc"
   elif [ "$act" == "addtags" ]; then
     selection=$(mktemp)
     ls tagindex/ | sed -e 's/\.md$//' | fzf -m > $selection
