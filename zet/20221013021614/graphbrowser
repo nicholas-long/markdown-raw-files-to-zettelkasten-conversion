@@ -37,10 +37,6 @@ while [ 1 == "$going" ]; do
   id=${id//\//_} # make sure there's something in this variable to save as fzf history file
   awk '
   BEGIN {
-    if (ENVIRON["TMUX"] ~ /tmux/) {
-      print "tab"
-      print "copypath"
-    }
     doc = ENVIRON["doc"]
     if (doc != "README.md") {
       id = doc
@@ -66,6 +62,10 @@ while [ 1 == "$going" ]; do
     print "/deep"
     print "tagindex"
     print "~"
+    if (ENVIRON["TMUX"] ~ /tmux/) {
+      print "tab"
+      print "copypath"
+    }
     print "back"
     print "enrich"
     print "stat"
