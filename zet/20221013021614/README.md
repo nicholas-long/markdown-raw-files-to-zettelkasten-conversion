@@ -35,6 +35,7 @@ ln -s zet/20221013021614/ browser
 - added tag features: quick tag add
 - todo
   - quick tag remove
+  - quick git ops - push pull commit - implement here instead of lazygit
 
 ` zet/20221013021614/README.md `
 
