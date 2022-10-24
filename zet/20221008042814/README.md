@@ -68,7 +68,6 @@ stuff i am working on.
 - [20221008182309](/zet/20221008182309/README.md) learning git internals
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
-- [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221003150483](/zet/20221003150483/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
