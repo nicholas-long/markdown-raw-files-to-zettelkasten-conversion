@@ -1,4 +1,4 @@
-# implement a graph query language
+# graph query language for zettelkasten
 
 - `./graphquery`
 - simple graph query language implemented with pipelines of transformations and set theory operations
@@ -44,6 +44,7 @@ ln -s zet/20221013221136/graphquery ./graphquery
     - find all reachable within that set
   - have queries return tables of the entire trail encoutered while running query, treat the last ID in table as the current set
     - add `--path` flag for trails to not visit the same node twice
+    - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
   - add a flag to graphquery to enable path mode and not visit verticies twice
   - search N levels from a set of nodes for nodes within another set
     - used to search through neighboring systems
@@ -60,7 +61,11 @@ ln -s zet/20221013221136/graphquery ./graphquery
 
 # Related
 
-- [20221009095853](/zet/20221009095853/README.md) finished
+- [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
+- [20221023084432](/zet/20221023084432/README.md) graph theory
+- [20221006013313](/zet/20221006013313/README.md) zettelkasten
+- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
 - [20221020230358](/zet/20221020230358/README.md) test node 1
 - [20221009102918](/zet/20221009102918/README.md) get titles in tag links
 - [20221008054439](/zet/20221008054439/README.md) graph database
@@ -68,7 +73,7 @@ ln -s zet/20221013221136/graphquery ./graphquery
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 - [20221023084432](/zet/20221023084432/README.md) graph theory
-- [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
+- [20221009095853](/zet/20221009095853/README.md) finished
 
 Tags:
 
