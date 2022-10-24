@@ -1,10 +1,11 @@
 # implement a graph query language
 
 - `./graphquery`
-- allows for quickly and easily scripting some stuff up in cards
+- simple graph query language
+- useful for scripts for interactive cards
 
 - documentation
-  - all qureries return raw IDs. add `--human` flag to return markdown formatted links with readable titles.
+  - all queries return raw IDs. add `--human` flag to return markdown formatted links with readable titles.
   - operations must tokenize as bash arguments
   - the core intrinsic operation of the query syntax is intersection. there is a working set of IDs, and a pipeline of operations are performed in succession to filter or transform this set of IDs.
   - a query starts with a full set of all IDs in the graph and filters them by performing operations.
@@ -16,17 +17,17 @@
     - `id 11111111111111`    - intersect with only a particular ID if present, or none. a monad?
     - `refs` / `:`           - get all of the references of all of these IDs. transform the current working set of IDs into a new set containing all of the references. core operation used to traverse the graph.
     - `file FILENAME`        - load IDs from a file and discard the current working set of IDs, replacing them
-    - `FILENAME`             - "and" a raw file or subquery appearing as an operation will intersect the current working set with IDs appearing in the file
+    - `FILENAME`             - "and" a raw file or subquery appearing as an operation will intersect the current working set with IDs parsed from the file's text contents
     - `or FILENAME`          - union ( concatenate ) IDs with all IDs appearing in the file or subquery
     - `not FILENAME`         - filter out all IDs appearing in the file or subquery
 
 - examples
 ```
-./graphquery README.md not <( ./graphquery @meta ) not <( ./graphquery id $CARD_ID : ) # all ids on the main page that are not tagged #meta and not referenced in this card
-./graphquery id $CARD_ID : not README.md                             # all references in this card that are not on README.md
-./graphquery id $RECENT_MOD : not $recentids not <( echo $MY_ID )    # everything attached to $RECENT_MOD that does not have an id in the tempfile named $recentids
-./graphquery $recentids not <( ./graphquery id $RECENT_MOD : )       # IDs in tempfile $recentids that are not attached to $RECENT_MOD
-./graphquery @DEL | awk '/^[0-9]+$/ {system("rm -rf zet/" $0)}'      # cleanup all zets with a certain tag - not great practice
+./graphquery README.md not <( ./graphquery @meta ) not <( ./graphquery id $CARD_ID refs ) # all ids on the main page that are not tagged #meta and not referenced in this card
+./graphquery id $CARD_ID refs not README.md                             # all references in this card that are not on README.md
+./graphquery id $RECENT_MOD refs not $recentids not <( echo $MY_ID )    # everything attached to $RECENT_MOD that does not have an id in the tempfile named $recentids
+./graphquery $recentids not <( ./graphquery id $RECENT_MOD refs )       # IDs in tempfile $recentids that are not attached to $RECENT_MOD
+./graphquery @DEL | awk '/^[0-9]+$/ {system("rm -rf zet/" $0)}'         # cleanup all zets with a certain tag - not great practice
 ```
 
 - future ideas and enhancements
