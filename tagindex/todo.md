@@ -71,7 +71,7 @@
 - [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221013214821](/zet/20221013214821/README.md) check for command injection
-- [20221013221136](/zet/20221013221136/README.md) implement a graph query language
+- [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
 - [20221014183030](/zet/20221014183030/README.md) create cards for kb files
 - [20221014191506](/zet/20221014191506/README.md) associate kb cards with converted cards
 - [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards

@@ -51,6 +51,7 @@
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221023084432](/zet/20221023084432/README.md) graph theory
+- [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
 
 Tags:
 
