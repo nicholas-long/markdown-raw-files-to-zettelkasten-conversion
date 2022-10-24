@@ -46,6 +46,7 @@ things that are finished.
 - [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch
 - [20221009091132](/zet/20221009091132/README.md) new links should come in at the bottom
 - [20221023182804](/zet/20221023182804/README.md) browse to tagindex pages
+- [20221015021344](/zet/20221015021344/README.md) graph explorer does not let you add 0 links or back out of link screen
 
 Tags:
 
