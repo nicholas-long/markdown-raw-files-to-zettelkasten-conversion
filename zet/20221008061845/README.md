@@ -74,6 +74,7 @@ hub node for `workflow`
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
+- [20221024213239](/zet/20221024213239/README.md) obsidian dataview plugin
 
 Tags:
 

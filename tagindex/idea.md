@@ -502,3 +502,4 @@
 - [20221024070910](/zet/20221024070910/README.md) drop first column with awk
 - [20221024160055](/zet/20221024160055/README.md) sort finished nodes 
 - [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
+- [20221024213239](/zet/20221024213239/README.md) obsidian dataview plugin

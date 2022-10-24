@@ -89,6 +89,7 @@
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221010155109](/zet/20221010155109/README.md) add link titles to youtube or some other links
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
+- [20221024213239](/zet/20221024213239/README.md) obsidian dataview plugin
 
 Tags:
 
