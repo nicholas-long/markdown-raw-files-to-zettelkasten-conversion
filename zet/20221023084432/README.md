@@ -17,6 +17,16 @@
   - proper vs. improper - improper subgraph is exactly equal to the same graph
   - spanning subgraph
     - vertex set is equal
+  - vertex-induced subgraph or just "induced subgraph"
+    - verticies must be adjacent if they are adjacent in main graph
+    - notation: include subset of verticies, all edges are implied to come with?
+    - similar to copying zet directories and enriching
+  - edge induced subgraph
+    - all verticies must be incident with edges in the graph
+    - notation: include subset of edges
+    - has some edges
+    - only verticies that are incident with those edges
+  - notation of incident subgraphs - includes just a subset of edges or verticies; underlined variable with set in square brackets
 
 ```
 ```
@@ -30,6 +40,7 @@
 - [20221008054439](/zet/20221008054439/README.md) graph database
 - https://www.youtube.com/c/WrathofMath
 - <https://en.wikipedia.org/wiki/Graph_theory>
+- [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
 
 Tags:
 

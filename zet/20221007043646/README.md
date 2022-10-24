@@ -114,6 +114,8 @@
   - the issues themselves can have "pointers" or "lists" of other cards to work on
   - able to leave off and come back at any point
   - work can progress in 5-30 minute intervals - does not feel like work and can switch to something else if it does
+- copying subset of some zet directories to another zettelkasten is the equivalent of copying a vertex induced subgraph
+  - links will match up with enrich process
 
 ` zet/20221007043646/README.md `
 
