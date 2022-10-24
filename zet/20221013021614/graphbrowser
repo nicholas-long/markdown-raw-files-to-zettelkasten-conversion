@@ -112,7 +112,11 @@ while [ 1 == "$going" ]; do
   elif [ "$act" == "link" ]; then
     $prog connectome -m | awk '{print $1}' > $selection
     if [ ! -z "$id" ]; then
-      zet/$IMPL/parseids $selection | sort -u | xargs -n 1 $prog addref -t "$id"
+      temp=$(mktemp)
+      zet/$IMPL/parseids $selection | sort -u > $temp
+      if [[ $(wc -l $temp | awk '{print $1}') != "0" ]]; then
+        cat $temp | xargs -n 1 $prog addref -t "$id"
+      fi
     fi
     ./zc enrich_links_single "$id"
     #sleep 1
