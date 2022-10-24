@@ -1,0 +1,1 @@
+- [20221024080719](/zet/20221024080719/README.md) tmux default s hotkey choose tree to explore panes

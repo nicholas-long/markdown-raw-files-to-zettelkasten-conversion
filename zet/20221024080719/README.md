@@ -44,6 +44,7 @@
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - https://youtu.be/79Y-kqAiMpw
 - [20221024082446](/zet/20221024082446/README.md) tmux join window back into pane
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

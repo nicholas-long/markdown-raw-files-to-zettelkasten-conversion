@@ -2247,3 +2247,5 @@
 20221023085822	zet/20221023085822/README.md	implement returning paths or tables in graph query language
 20221023182804	zet/20221023182804/README.md	browse to tagindex pages
 20221024070910	zet/20221024070910/README.md	drop first column with awk
+20221024080719	zet/20221024080719/README.md	tmux default s hotkey choose tree to explore panes
+20221024082446	zet/20221024082446/README.md	tmux join window back into pane

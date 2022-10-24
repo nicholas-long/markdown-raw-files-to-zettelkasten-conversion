@@ -1,3 +1,4 @@
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux
+- [20221024082446](/zet/20221024082446/README.md) tmux join window back into pane

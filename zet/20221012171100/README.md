@@ -12,6 +12,8 @@ zet/20221012171100/README.md
 
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221024070910](/zet/20221024070910/README.md) drop first column with awk
+- [20221024080719](/zet/20221024080719/README.md) tmux default s hotkey choose tree to explore panes
+- [20221024082446](/zet/20221024082446/README.md) tmux join window back into pane
 
 Tags:
 
