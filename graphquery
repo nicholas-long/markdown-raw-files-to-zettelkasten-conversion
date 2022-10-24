@@ -14,14 +14,15 @@ echo "query $@" > /dev/stderr
 # fill initial working set
 find zet -name README.md | awk -F / '{print $(NF-1)}' | sort -u > $buf
 
+# loop over argument tokens and process each operation
 while [[ $# -gt 0 ]]; do
   #echo "parsing $1" > /dev/stderr
-  if [ -f "$1" -o -p "$1" ]; then
+  if [ -f "$1" -o -p "$1" ]; then # file or pipe
     echo "got file $1" > /dev/stderr
     grep -Eo '[0-9]{14}' "$1" | sort -u > $temp
     join $buf $temp > $joined
     cp "$joined" "$buf"
-  elif [[ "$1" =~ ^@.*$ ]]; then
+  elif [[ "$1" =~ ^@.*$ ]]; then # tag
     tagname="$1"
     tagname=${tagname//@/}
     #echo "read tags $tagname" > /dev/stderr
@@ -44,7 +45,7 @@ while [[ $# -gt 0 ]]; do
       cut -d : -f 1 | implementation/parseids | sort -u > $temp
     join $buf $temp > $joined
     cp "$joined" "$buf"
-  elif [[ "$1" == ':' ]]; then
+  elif [[ "$1" == ':' || "$1" == 'refs' ]]; then
     cat $buf | xargs -n 1 ./zc refs | sort -u > $temp
     cp "$temp" "$buf"
   elif [[ "$1" == 'id' ]]; then
@@ -88,9 +89,11 @@ while [[ $# -gt 0 ]]; do
     break
   fi
 done
+
+# final output of script
 if [ $human == 0 ]; then
   cat $buf
-else
+else # print readable table with titles
   awk '{
     id = $0
     command = "head -n 1 zet/" id "/README.md"
@@ -104,6 +107,8 @@ else
     print "- [" id "](/zet/" id "/README.md)", header, tags
   }' $buf
 fi
+
+# cleanup
 rm "$buf"
 rm "$temp"
 rm "$joined"
