@@ -77,6 +77,7 @@ stuff i am working on.
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221003150098](/zet/20221003150098/README.md) todo
+- [20221015021344](/zet/20221015021344/README.md) graph explorer does not let you add 0 links or back out of link screen
 
 Tags:
 
