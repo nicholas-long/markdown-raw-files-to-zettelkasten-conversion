@@ -65,6 +65,8 @@ the concept of a `program`
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221003151101](/zet/20221003151101/README.md) powershell commands
+- [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
+- [20221003151305](/zet/20221003151305/README.md) bash scripting comm utility for set operations
 
 Tags:
 

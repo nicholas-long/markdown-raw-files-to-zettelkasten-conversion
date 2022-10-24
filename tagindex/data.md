@@ -1,3 +1,3 @@
 - [20221003151276](/zet/20221003151276/README.md) linux data science issues
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities
-- [20221003151278](/zet/20221003151278/README.md) linux data science
+- [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub

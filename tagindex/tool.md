@@ -1,3 +1,4 @@
+- [20221003151305](/zet/20221003151305/README.md) bash scripting comm utility for set operations
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221022232952](/zet/20221022232952/README.md) pandoc markdown format converter

@@ -53,7 +53,7 @@ this is a list of possibly empty zettels.
 - [20221003151286](/zet/20221003151286/README.md) postgres
 - [20221003151281](/zet/20221003151281/README.md) YAML
 - [20221003151280](/zet/20221003151280/README.md) YAML parsing
-- [20221003151278](/zet/20221003151278/README.md) linux data science
+- [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub
 - [20221003151267](/zet/20221003151267/README.md) fzf
 - [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory
 - [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux

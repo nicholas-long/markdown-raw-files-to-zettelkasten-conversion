@@ -76,6 +76,7 @@ stuff i am working on.
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221003150098](/zet/20221003150098/README.md) todo
+- [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 
 Tags:
 

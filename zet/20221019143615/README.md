@@ -11,7 +11,7 @@
 
 - [20221012153512](/zet/20221012153512/README.md) database
 - [20221008054439](/zet/20221008054439/README.md) graph database
-- [20221003151278](/zet/20221003151278/README.md) linux data science
+- [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub
 - [20221003151276](/zet/20221003151276/README.md) linux data science issues
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands
 - [20221017084532](/zet/20221017084532/README.md) XML concept

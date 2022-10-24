@@ -9,7 +9,7 @@
 
 # Related
 
-- [20221024131549](/zet/20221024131549/README.md) buzzwords and acronyms
+- [20221024131549](/zet/20221024131549/README.md) buzzwords and acronyms hub
 - [20221016233549](/zet/20221016233549/README.md) commits for day of 2022-07-07
 - [20221016233525](/zet/20221016233525/README.md) commits for day of 2022-06-15
 - [20221016233514](/zet/20221016233514/README.md) commits for day of 2022-06-01

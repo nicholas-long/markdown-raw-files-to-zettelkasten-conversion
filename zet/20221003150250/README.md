@@ -13,6 +13,7 @@ https://guacamole.apache.org/
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221003150249](/zet/20221003150249/README.md) Apache guacamole RDP VNC SSH in web browser default creds
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
+- [20221024131549](/zet/20221024131549/README.md) buzzwords and acronyms hub
 
 Tags:
 

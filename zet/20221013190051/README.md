@@ -16,7 +16,7 @@
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
-- [20221003151278](/zet/20221003151278/README.md) linux data science
+- [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub
 - [20221003151155](/zet/20221003151155/README.md) linux hardening
 
 Tags:

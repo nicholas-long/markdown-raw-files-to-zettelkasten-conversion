@@ -92,6 +92,7 @@
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
 - got access to database - general SQL - where?
+- [20221003150658](/zet/20221003150658/README.md) wfuzz dirbusting
 
 Tags:
 

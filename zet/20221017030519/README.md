@@ -32,6 +32,7 @@
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
+- [20221016233516](/zet/20221016233516/README.md) commits for day of 2022-06-02
 
 Tags:
 

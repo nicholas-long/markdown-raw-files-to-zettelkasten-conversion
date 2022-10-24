@@ -341,7 +341,7 @@
 - [20221003151268](/zet/20221003151268/README.md) Lookup missing packages with command-not-found
 - [20221003151276](/zet/20221003151276/README.md) linux data science issues
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities
-- [20221003151278](/zet/20221003151278/README.md) linux data science
+- [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub
 - [20221003151287](/zet/20221003151287/README.md) jq pipe and filter objects syntax
 - [20221003151288](/zet/20221003151288/README.md) jq pipe syntax
 - [20221003151289](/zet/20221003151289/README.md) jq

@@ -23,7 +23,7 @@
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands
 - [20221003151276](/zet/20221003151276/README.md) linux data science issues
-- [20221003151278](/zet/20221003151278/README.md) linux data science
+- [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub
 - [20221003150341](/zet/20221003150341/README.md) database creds
 - [20221008054439](/zet/20221008054439/README.md) graph database
 - [20221003150372](/zet/20221003150372/README.md) web app paths defaults db

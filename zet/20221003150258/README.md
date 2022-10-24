@@ -10,6 +10,7 @@ https://addons.mozilla.org/en-GB/firefox/addon/multi-account-containers/
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150259](/zet/20221003150259/README.md) firefox
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
+- [20221024131549](/zet/20221024131549/README.md) buzzwords and acronyms hub
 
 Tags:
 

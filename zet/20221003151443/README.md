@@ -357,6 +357,7 @@ zet/20221014150222/kb_references
 - [20221003151431](/zet/20221003151431/README.md) awk scripting check output of grep and next line using awk "grep -A 1 -R '^# ' ."
 - [20221003151442](/zet/20221003151442/README.md) Box drawing ascii unicode characters
 - [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully
+- [20221024131549](/zet/20221024131549/README.md) buzzwords and acronyms hub
 
 Tags:
 
