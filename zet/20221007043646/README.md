@@ -119,6 +119,7 @@
 - tags are already like concept hubs, so it seems silly to make concept hubs and tags for things
   - can already query them in that way
   - the main difference is not being able to write notes on a tag, so if you want to write about it then use concepts instead?
+  - should use hubs for specific things or instances and tags for a general property - what it is
   - i had not picked one yet so i've been doing both tags and hubs, and querying and using tags seems very reasonable, while concept hubs introduce tons of litter
 
 ` zet/20221007043646/README.md `
