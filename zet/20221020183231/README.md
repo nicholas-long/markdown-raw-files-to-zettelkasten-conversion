@@ -3,6 +3,8 @@
 - concept of `get graph titles working in obsidian`
 - obsidian community plugin `front matter title` looks like it could be usable
   - https://github.com/Snezhig/obsidian-front-matter-title
+  - intended for embedded yaml? works with titles.
+  - set plugin setting "Template" to `#heading` - magic value that means to read the first heading instead of yaml
   - need to edit config in order to get it to reapply the settings and change the graph?
     - enable debug mode and all settings
     - introduces some additional lag into graph
@@ -23,4 +25,4 @@
 
 Tags:
 
-    #idea
+    #tip #workflow
