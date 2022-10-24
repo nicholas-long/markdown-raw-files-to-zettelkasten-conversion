@@ -1,8 +1,8 @@
 # implement a graph query language
 
 - `./graphquery`
-- simple graph query language
-- useful for scripts for interactive cards
+- simple graph query language implemented with pipelines of transformations and set theory operations
+- useful for making scripted cards which interact with or logically query other systems of cards
 
 - documentation
   - all queries return raw IDs. add `--human` flag to return markdown formatted links with readable titles.
@@ -31,6 +31,13 @@
 ```
 
 - future ideas and enhancements
+  - search N levels from a set of nodes for nodes within another set
+    - used to search through neighboring systems
+    - maintain visited set for speed to avoid expanding nodes multiple times
+    - do all expanding in one place like an awk script
+    - could be very bad to combine with the feature for returning all paths - combinatoric expansion
+    - the reason this is necessary instead of saying "refs refs refs" is that refs getting expanded do not include the nodes that got expanded
+      - otherwise would require chaining a bunch of ORs together, like `refs or (... refs refs) or (.... refs refs refs)` - yuck
   - have queries return tables, treat the last ID in table as the current set
     - this way, the whole search path can be returned
   - like relational database from old awk book
