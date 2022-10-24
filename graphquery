@@ -80,6 +80,18 @@ while [[ $# -gt 0 ]]; do
     if [ -f "$1" ]; then
       implementation/parseids "$1" | sort -u > $buf
     fi
+  elif [[ "$1" == 'edges' ]]; then
+    awk '
+      ARGIND == 1 { ids[$0] = 1 }
+      ARGIND == 2 {
+        id = $0
+        cmd = "./zc refs " id
+        while ((cmd | getline) > 0) {
+          if ($0 in ids) print id, $0
+        }
+      }
+    ' $buf $buf # read it twice
+    exit 0 # returning edge tuples instead of a set is terminal
   fi
   #echo "buffer contents:" > /dev/stderr
   #cat $buf > /dev/stderr

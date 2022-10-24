@@ -20,6 +20,7 @@
     - `FILENAME`             - "and" a raw file or subquery appearing as an operation will intersect the current working set with IDs parsed from the file's text contents
     - `or FILENAME`          - union ( concatenate ) IDs with all IDs appearing in the file or subquery
     - `not FILENAME`         - filter out all IDs appearing in the file or subquery
+    - `edges`                - get edges between all nodes in set as pairs. vertex-induced subgraph. terminal operation.
 
 - examples
 ```
@@ -28,6 +29,11 @@
 ./graphquery id $RECENT_MOD refs not $recentids not <( echo $MY_ID )    # everything attached to $RECENT_MOD that does not have an id in the tempfile named $recentids
 ./graphquery $recentids not <( ./graphquery id $RECENT_MOD refs )       # IDs in tempfile $recentids that are not attached to $RECENT_MOD
 ./graphquery @DEL | awk '/^[0-9]+$/ {system("rm -rf zet/" $0)}'         # cleanup all zets with a certain tag - not great practice
+
+./graphquery README.md 2>/dev/null
+
+./graphquery README.md edges 2>/dev/null
+
 ```
 
 - future ideas and enhancements
