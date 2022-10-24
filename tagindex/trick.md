@@ -64,3 +64,4 @@
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
+- [20221024070910](/zet/20221024070910/README.md) drop first column with awk

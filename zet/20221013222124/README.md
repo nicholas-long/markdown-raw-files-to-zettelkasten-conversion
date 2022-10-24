@@ -156,6 +156,7 @@
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221013185251](/zet/20221013185251/README.md) general information concept FYI
+- [20221024070910](/zet/20221024070910/README.md) drop first column with awk
 
 Tags:
 
