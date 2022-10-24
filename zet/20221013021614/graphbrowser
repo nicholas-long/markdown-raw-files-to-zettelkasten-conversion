@@ -140,11 +140,15 @@ while [ 1 == "$going" ]; do
       $EDITOR "$doc"
     fi
   elif [ "$act" == "addtags" ]; then
-    tag=$(ls tagindex/ | sed -e 's/\.md$//' | fzf)
-    if [ ! -z "$tag" ]; then
-      echo "adding tag $tag to $doc"
-      sed -i '$s/$/ #'$tag'/' "$doc"
-    fi
+    selection=$(mktemp)
+    ls tagindex/ | sed -e 's/\.md$//' | fzf -m > $selection
+    for tag in $(cat $selection); do
+      if [ ! -z "$tag" ]; then
+        echo "adding tag $tag to $doc"
+        sed -i '$s/$/ #'$tag'/' "$doc"
+      fi
+    done
+    rm "$selection"
   elif [ "$act" == "tab" ]; then
     #tmux new-window $0 "$doc"
     selection=$(mktemp)
