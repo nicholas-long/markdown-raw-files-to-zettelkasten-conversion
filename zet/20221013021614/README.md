@@ -8,6 +8,7 @@
 - menu options documentation
   - `goto ...`    - follow link
   - `tab`         - if running in tmux, open multiple other links in new tmux windows (like browser tabs)
+  - `mkfile`      - touch a file and optionally `chmod +x`
   - `tagindex`    - browse by tags
   - `addtags`     - add multiple tags to card
   - `edit ...`    - edit card or attachments in vim

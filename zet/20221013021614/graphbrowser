@@ -54,6 +54,7 @@ while [ 1 == "$going" ]; do
         close(cmd)
         print "spawn"
         print "addtags"
+        print "mkfile"
       }
       print "link"
       print "unlink"
@@ -178,6 +179,15 @@ while [ 1 == "$going" ]; do
     ./zc enrich_links_single $id
     ./zc enrich_links_single $newid
     #TODO: add fzf menu step to select more links like workflow loop
+  elif [ "$act" == "mkfile" ]; then
+    id=$(echo "$doc" | awk -F / '{print $(NF-1)}')
+    read -p "enter filename> " filename
+    path="zet/$id/$filename"
+    touch "$path"
+    read -p "exec? (y/n)" exec
+    if [[ $exec =~ [Yy] ]]; then
+      chmod +x "$path"
+    fi
   elif [ "$act" == "stat" ]; then
     if which lazygit; then
       lazygit
