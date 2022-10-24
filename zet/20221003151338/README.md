@@ -20,6 +20,7 @@
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221003151337](/zet/20221003151337/README.md) awk scripting initialize TSV tab separated values
 - ~/kb/awk-scripting/snippets.md
+- [20221024070910](/zet/20221024070910/README.md) drop first column
 
 Tags:
 
