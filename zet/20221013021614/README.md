@@ -29,8 +29,8 @@ ln -s zet/20221013021614/ browser
 ```
 
 - changed preview hotkeys to page up and page down to match lazygit hotkeys
+- added ability to list and edit attachments
 - todo
-  - list and edit attachments
   - quick tag add / remove
 
 ` zet/20221013021614/README.md `
