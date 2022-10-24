@@ -37,6 +37,8 @@
 ```
 
 - future ideas and enhancements
+  - enumerate all reachable nodes from current nodes that exist in a subquery file - duplicate of search N levels?
+    - find all reachable within that set
   - have queries return tables of the entire trail encoutered while running query, treat the last ID in table as the current set
     - add `--path` flag for trails to not visit the same node twice
   - add a flag to graphquery to enable path mode and not visit verticies twice

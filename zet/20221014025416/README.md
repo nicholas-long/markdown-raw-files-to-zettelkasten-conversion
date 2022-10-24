@@ -21,6 +21,7 @@
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221023084432](/zet/20221023084432/README.md) graph theory
+- [20221013221136](/zet/20221013221136/README.md) implement a graph query language
 
 Tags:
 
