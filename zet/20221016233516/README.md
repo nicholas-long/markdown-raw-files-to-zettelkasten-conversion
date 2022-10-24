@@ -71,7 +71,6 @@ kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md
 - [20221014185635](/zet/20221014185635/README.md) kb file named kb/hacking/to-try-lists/docker-repository.md
 - [20221014190238](/zet/20221014190238/README.md) kb file named kb/bash-scripting/file-operations.md
 - [20221016233514](/zet/20221016233514/README.md) commits for day of 2022-06-01
-- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 
 Tags:
 

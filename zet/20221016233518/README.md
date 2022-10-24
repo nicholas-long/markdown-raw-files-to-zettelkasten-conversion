@@ -103,6 +103,7 @@ kb/hacking/windows/dll-to-run-commands.md
 - [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md
 - [20221014185706](/zet/20221014185706/README.md) kb file named kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md
 - [20221016233516](/zet/20221016233516/README.md) commits for day of 2022-06-02
+- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 
 Tags:
 

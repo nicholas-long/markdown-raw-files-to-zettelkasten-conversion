@@ -1,5 +1,13 @@
 # awk and bash scripting
 
+- bash
+  - [20221003151329](/zet/20221003151329/README.md) bash scripting
+  - [20221003151332](/zet/20221003151332/README.md) bash scripting
+  - [20221003151424](/zet/20221003151424/README.md) bash scripts
+- awk
+  - [20221003151338](/zet/20221003151338/README.md) awk scripting
+  - [20221003151441](/zet/20221003151441/README.md) awk scripting
+
 ` zet/20221003151350/README.md `
 
 # Related
@@ -22,7 +30,11 @@
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - ~/kb/awk-scripting/bash-awk-quick-commands.md
 - [20221004212452](/zet/20221004212452/README.md) keyword stuffing zettels to fix bash sh
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221003151329](/zet/20221003151329/README.md) bash scripting
+- [20221003151332](/zet/20221003151332/README.md) bash scripting
+- [20221003151338](/zet/20221003151338/README.md) awk scripting
+- [20221003151424](/zet/20221003151424/README.md) bash scripts
+- [20221003151441](/zet/20221003151441/README.md) awk scripting
 
 Tags:
 

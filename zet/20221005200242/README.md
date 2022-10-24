@@ -41,7 +41,6 @@ this is a list of possibly empty zettels.
 - [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script
 - [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally
 - [20221003151356](/zet/20221003151356/README.md) python scripting urlencode every input line
-- [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 - [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
 - [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database
 - [20221003151318](/zet/20221003151318/README.md) bash parse xml cli

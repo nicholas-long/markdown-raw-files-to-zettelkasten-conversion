@@ -10,6 +10,7 @@
 - [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion
 - ~/kb/hacking/php/type-juggling.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221008042814](/zet/20221008042814/README.md) WIP
 
 Tags:
 

@@ -44,7 +44,6 @@
 - [20221014185901](/zet/20221014185901/README.md) kb file named kb/hacking/commands/msfvenom-commands.md
 - [20221014185825](/zet/20221014185825/README.md) kb file named kb/hacking/commands/john-the-ripper-crack-with-wordlist.md
 - [20221014185652](/zet/20221014185652/README.md) kb file named kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md
-- [20221014185635](/zet/20221014185635/README.md) kb file named kb/hacking/to-try-lists/docker-repository.md
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
 - [20221014185557](/zet/20221014185557/README.md) kb file named kb/hacking/tricks/valid-https-server.md
 - [20221014185556](/zet/20221014185556/README.md) kb file named kb/hacking/tricks/smtp-send-email-cli.md
