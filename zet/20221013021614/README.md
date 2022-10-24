@@ -13,7 +13,7 @@
   - `/deep`       - deep keyword search combining links, titles, content, and fzf fuzzy finding. launches new tmux windows if tmux is running.
   - `~`           - return to home page
   - `spawn`       - create a new zettel card linked to here. enter title at prompt. new card is available to navigate and edit immediately.
-  - `xfer`        - copy between cards easily by selecting other card from links to open in vim tabs
+  - `xfer`        - copy between cards easily by selecting other cards from links to open in vim tabs
   - `link`        - insert many links with fzf fuzzy finder
   - `unlink`      - select one link to remove. will remove from target zettel card as well.
   - `stat`        - git status preview, colorized. launches lazygit if selected.
