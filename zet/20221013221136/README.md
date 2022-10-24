@@ -24,6 +24,9 @@
 
 - examples
 ```
+mv ./graphquery zet/20221013221136/
+ln -s zet/20221013221136/graphquery ./graphquery
+
 ./graphquery README.md not <( ./graphquery @meta ) not <( ./graphquery id $CARD_ID refs ) # all ids on the main page that are not tagged #meta and not referenced in this card
 ./graphquery id $CARD_ID refs not README.md                             # all references in this card that are not on README.md
 ./graphquery id $RECENT_MOD refs not $recentids not <( echo $MY_ID )    # everything attached to $RECENT_MOD that does not have an id in the tempfile named $recentids
