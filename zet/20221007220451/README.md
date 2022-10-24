@@ -221,6 +221,7 @@ hacking notes hub
 - [20221003150146](/zet/20221003150146/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks char mappings
 - [20221003150921](/zet/20221003150921/README.md) windows persistence and DLL hijacking locations
 - [20221003150444](/zet/20221003150444/README.md) hacktricks markdown data github
+- [20221003151166](/zet/20221003151166/README.md) got access to docker repository
 
 Tags:
 

@@ -117,6 +117,7 @@ This is a collection of bash scripts
 - [20221003150094](/zet/20221003150094/README.md) bash scripts sh nmap script types
 - [20221003150095](/zet/20221003150095/README.md) bash scripts sh autogenerate all languages
 - [20221004212452](/zet/20221004212452/README.md) keyword stuffing zettels to fix bash sh
+- [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 
 Tags:
 

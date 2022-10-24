@@ -34,6 +34,7 @@ Collection of awk scripting examples
 - [20221003151426](/zet/20221003151426/README.md) awk scripting combine lines with all previous lines combinatorically
 - [20221003151425](/zet/20221003151425/README.md) awk scripting get HTTP POST content from HTTP request stream
 - ~/kb/auto-awk.md
+- [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 
 Tags:
 
