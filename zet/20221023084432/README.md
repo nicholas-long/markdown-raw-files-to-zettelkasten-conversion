@@ -54,9 +54,6 @@
 - <https://en.wikipedia.org/wiki/Graph_theory>
 - [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
 - [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
-- [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
-- [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
-- [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
 
 Tags:
 
