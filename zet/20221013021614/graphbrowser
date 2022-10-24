@@ -35,7 +35,7 @@ while [ 1 == "$going" ]; do
     id=$(echo "$doc" | awk -F / '{ print $(NF-1) }')
   fi
   id=${id//\//_} # make sure there's something in this variable to save as fzf history file
-  cat attachments | awk '
+  awk '
   BEGIN {
     if (ENVIRON["TMUX"] ~ /tmux/) {
       print "tab"
@@ -140,13 +140,11 @@ while [ 1 == "$going" ]; do
       $EDITOR "$doc"
     fi
   elif [ "$act" == "addtags" ]; then
-    #tmux new-window $0 "$doc"
-    selection=$(mktemp)
-    ls tagindex/ | sed -e 's/\.md$//' | fzf | "$selection"
-    #awk '{print "zet/" $0 "/README.md"}' $selection | xargs -n 1 tmux new-window "$0"
-    tag=$(cat $selection)
-    sed -i '$s/$/ #'$tag'/' README.md
-    rm "$selection"
+    tag=$(ls tagindex/ | sed -e 's/\.md$//' | fzf)
+    if [ ! -z "$tag" ]; then
+      echo "adding tag $tag to $doc"
+      sed -i '$s/$/ #'$tag'/' "$doc"
+    fi
   elif [ "$act" == "tab" ]; then
     #tmux new-window $0 "$doc"
     selection=$(mktemp)
