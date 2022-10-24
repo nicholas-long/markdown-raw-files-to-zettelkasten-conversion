@@ -486,7 +486,6 @@
 - [20221020053629](/zet/20221020053629/README.md) parse mermaid syntax and use to generate set of linked cards
 - [20221020154329](/zet/20221020154329/README.md) port forwarding concept
 - [20221020160107](/zet/20221020160107/README.md) zettels with kb script paths to fix
-- [20221020183231](/zet/20221020183231/README.md) how to get titles to show up in obsidian graph
 - [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
 - [20221021183918](/zet/20221021183918/README.md) C language

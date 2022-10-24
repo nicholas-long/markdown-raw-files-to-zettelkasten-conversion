@@ -6,5 +6,6 @@
 - [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY
+- [20221020183231](/zet/20221020183231/README.md) how to get titles to show up in obsidian graph
 - [20221021071146](/zet/20221021071146/README.md) delete things marked as #DEL periodically
 - [20221024080719](/zet/20221024080719/README.md) tmux default s hotkey choose tree to explore panes

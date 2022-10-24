@@ -28,7 +28,6 @@
 - [20221003150247](/zet/20221003150247/README.md) enterprise PAM
 - [20221003151443](/zet/20221003151443/README.md) kb
 - [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 
