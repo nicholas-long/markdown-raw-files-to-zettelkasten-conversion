@@ -53,6 +53,7 @@ while [ 1 == "$going" ]; do
         }
         close(cmd)
         print "spawn"
+        print "addtags"
       }
       print "link"
       print "unlink"
@@ -138,6 +139,14 @@ while [ 1 == "$going" ]; do
     else
       $EDITOR "$doc"
     fi
+  elif [ "$act" == "addtags" ]; then
+    #tmux new-window $0 "$doc"
+    selection=$(mktemp)
+    ls tagindex/ | sed -e 's/\.md$//' | fzf | "$selection"
+    #awk '{print "zet/" $0 "/README.md"}' $selection | xargs -n 1 tmux new-window "$0"
+    tag=$(cat $selection)
+    sed -i '$s/$/ #'$tag'/' README.md
+    rm "$selection"
   elif [ "$act" == "tab" ]; then
     #tmux new-window $0 "$doc"
     selection=$(mktemp)
