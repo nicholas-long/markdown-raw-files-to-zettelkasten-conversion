@@ -9,7 +9,7 @@
   - `goto ...`    - follow link
   - `tab`         - if running in tmux, open multiple other links in new tmux windows (like browser tabs)
   - `tagindex`    - browse by tags
-  - `edit`        - edit card in vim
+  - `edit ...`    - edit card or attachments in vim
   - `/deep`       - deep keyword search combining links, titles, content, and fzf fuzzy finding. launches new tmux windows if tmux is running.
   - `~`           - return to home page
   - `spawn`       - create a new zettel card linked to here. enter title at prompt. new card is available to navigate and edit immediately.

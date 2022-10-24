@@ -28,21 +28,15 @@ if [ ! -z "$1" ]; then
   export doc="$1"
 fi
 selection=$(mktemp)
+attachments=$(mktemp)
 while [ 1 == "$going" ]; do
   id="$doc" # get id here too for fzf history
   if [[ "$doc" =~ zet/[0-9]+ ]]; then
     id=$(echo "$doc" | awk -F / '{ print $(NF-1) }')
   fi
   id=${id//\//_} # make sure there's something in this variable to save as fzf history file
-  awk '
+  cat attachments | awk '
   BEGIN {
-    print "edit"
-    print "/deep"
-    print "tagindex"
-    print "back"
-    print "xfer"
-    print "~"
-    print "enrich"
     if (ENVIRON["TMUX"] ~ /tmux/) {
       print "tab"
       print "copypath"
@@ -53,13 +47,25 @@ while [ 1 == "$going" ]; do
       gsub(/^zet\//,"",id)
       gsub(/\/.*$/,"",id)
       if (id != "README.md") {
-        print "spawn", id
+        cmd = "ls zet/" id
+        while ((cmd | getline) > 0) {
+          print "edit", "zet/" id "/" $0
+        }
+        close(cmd)
+        print "spawn"
       }
       print "link"
       print "unlink"
     } else {
       id = 0
+      print "edit", doc
     }
+    print "xfer"
+    print "/deep"
+    print "tagindex"
+    print "~"
+    print "back"
+    print "enrich"
     print "stat"
     print "quit"
     fflush()
@@ -126,8 +132,9 @@ while [ 1 == "$going" ]; do
     prevdoc="$temp" # would expect back to work again?
     echo "back to $doc"
   elif [ "$act" == "edit" ]; then
+    choice=$(cat $selection | awk '{print $2}')
     if [ ! -z $TMUX ]; then
-      tmux new-window $EDITOR "$doc"
+      tmux new-window $EDITOR "$choice"
     else
       $EDITOR "$doc"
     fi
