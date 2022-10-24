@@ -178,13 +178,11 @@ while [ 1 == "$going" ]; do
         print $0
         fflush()
       }
-    ' "$doc" | fzf -m > "$selection"
-    zet/$IMPL/parseids $selection | awk '
+    ' "$doc" | fzf -m | implementation/parseids | awk '
       BEGIN { c = ENVIRON["EDITOR"] " -p " ENVIRON["doc"] " " }
       /^[0-9]+/ { c = c " zet/" $0 "/README.md" }
       END { system(c) }
-    '
-    rm "$selection"
+      '
   elif [ "$act" == "enrich" ]; then
     echo ''
     echo ' ╭────────────────────────────────┬───╮'
