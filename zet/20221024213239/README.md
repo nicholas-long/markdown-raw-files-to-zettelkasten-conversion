@@ -12,6 +12,8 @@
   - can query yaml properties of notes
     - shows up in rendered view in output
 - unrelated note from video: recommend readwise plugin for book highlights
+- query lives in dataview snippet and results get updated in obsidian output
+  - supported by github?
 
 ```
 ```
