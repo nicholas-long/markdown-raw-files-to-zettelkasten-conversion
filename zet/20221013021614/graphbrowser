@@ -134,7 +134,7 @@ while [ 1 == "$going" ]; do
     echo "back to $doc"
   elif [ "$act" == "edit" ]; then
     choice=$(cat $selection | awk '{print $2}')
-    $EDITOR "$doc"
+    $EDITOR "$choice"
   elif [ "$act" == "addtags" ]; then
     selection=$(mktemp)
     ls tagindex/ | sed -e 's/\.md$//' | fzf -m > $selection
