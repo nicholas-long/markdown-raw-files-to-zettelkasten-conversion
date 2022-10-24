@@ -145,7 +145,7 @@ while [ 1 == "$going" ]; do
     for tag in $(cat $selection); do
       if [ ! -z "$tag" ]; then
         echo "adding tag $tag to $doc"
-        sed -i '$s/$/ #'$tag'/' "$doc"
+        sed -i -e '$s/ *$//' -e '$s/$/ #'$tag'/' "$doc"
       fi
     done
     rm "$selection"
