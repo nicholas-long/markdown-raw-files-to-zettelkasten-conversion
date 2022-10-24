@@ -12,6 +12,11 @@
     - some definitions include a graph with 0 verticies
   - trivial graph - has 1 vertex with 0 edges, empty graph on 1 vertex
   - null graph - no verticies and no edges
+- 2 edges are adjacent if they are connected to the same vertex "incident with the vertex"
+- subgraph - graph that contains same verticies and edges
+  - proper vs. improper - improper subgraph is exactly equal to the same graph
+  - spanning subgraph
+    - vertex set is equal
 
 ```
 ```

@@ -4,6 +4,8 @@
   - `~/.vimrc`
   - systemwide `/etc/vim/vimrc` - ignored if vimrc found in home
 - gets color capabilities from TERM enviornment variable
+- ideas for vimrc
+  - fix end of lines
 
 ` zet/20221003150067/README.md `
 
