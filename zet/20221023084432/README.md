@@ -27,6 +27,18 @@
     - has some edges
     - only verticies that are incident with those edges
   - notation of incident subgraphs - includes just a subset of edges or verticies; underlined variable with set in square brackets
+- "walk"
+  - sequence of verticies where consecutive ones are adjacent
+- "trail" is a walk where you cannot traverse same edge multiple times. can do same vertex but leave it on different edges.
+  - length - number of edges encountered, one less than the number of verticies in walk
+  - open trail - ends at a different vertex than it started
+  - closed trail - ends at same starting vertex
+- my graph query language is about specifying a trail using set theory to filter the next nodes
+- "path" - walk/trail of only unique verticies (also has to be unique edges then)
+  - add a flag to graphquery to enable path mode and not visit verticies twice
+- "circuit" - closed trail of length 3 or more
+  - going back and forth along the same edge is not a circuit because a trail does not visit the same edge
+- "cycle" possble circuit occuring within graph?
 
 ```
 ```
@@ -41,6 +53,7 @@
 - https://www.youtube.com/c/WrathofMath
 - <https://en.wikipedia.org/wiki/Graph_theory>
 - [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
+- [20221013221136](/zet/20221013221136/README.md) implement a graph query language
 
 Tags:
 

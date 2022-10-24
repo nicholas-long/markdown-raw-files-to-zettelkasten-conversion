@@ -37,6 +37,9 @@
 ```
 
 - future ideas and enhancements
+  - have queries return tables of the entire trail encoutered while running query, treat the last ID in table as the current set
+    - add `--path` flag for trails to not visit the same node twice
+  - add a flag to graphquery to enable path mode and not visit verticies twice
   - search N levels from a set of nodes for nodes within another set
     - used to search through neighboring systems
     - maintain visited set for speed to avoid expanding nodes multiple times
@@ -44,8 +47,6 @@
     - could be very bad to combine with the feature for returning all paths - combinatoric expansion
     - the reason this is necessary instead of saying "refs refs refs" is that refs getting expanded do not include the nodes that got expanded
       - otherwise would require chaining a bunch of ORs together, like `refs or (... refs refs) or (.... refs refs refs)` - yuck
-  - have queries return tables, treat the last ID in table as the current set
-    - this way, the whole search path can be returned
   - like relational database from old awk book
   - look at graphql for inspiration?
   - look at neo4j for inspiration?

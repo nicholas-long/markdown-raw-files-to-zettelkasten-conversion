@@ -116,6 +116,8 @@
   - work can progress in 5-30 minute intervals - does not feel like work and can switch to something else if it does
 - copying subset of some zet directories to another zettelkasten is the equivalent of copying a vertex induced subgraph
   - links will match up with enrich process
+- tags are already like concept hubs, so it seems silly to make concept hubs for them
+  - can already query them in that way
 
 ` zet/20221007043646/README.md `
 

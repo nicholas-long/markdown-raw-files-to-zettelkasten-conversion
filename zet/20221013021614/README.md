@@ -29,22 +29,24 @@ ln -s zet/20221013021614/ browser
 ```
 
 - changed preview hotkeys to page up and page down to match lazygit hotkeys
+- todo
+  - quick tag add / remove
 
 ` zet/20221013021614/README.md `
 
 # Related
 
+- [20221013195816](/zet/20221013195816/README.md) ability to spawn from an existing card
+- [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
+- [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
+- [20221013203732](/zet/20221013203732/README.md) feels like "being plugged into the matrix"
 - [20221022232030](/zet/20221022232030/README.md) save fzf completion history for each card
 - [20221012102820](/zet/20221012102820/README.md) use connectome for context and keyword during spawn
-- [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
 - [20221015021344](/zet/20221015021344/README.md) graph explorer does not let you add 0 links or back out of link screen
 - [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
 - [20221014153143](/zet/20221014153143/README.md) scroll preview window
-- [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221014070023](/zet/20221014070023/README.md) findings from implementing deep connectome search
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
-- [20221013203732](/zet/20221013203732/README.md) feels like "being plugged into the matrix"
-- [20221013195816](/zet/20221013195816/README.md) ability to spawn from an existing card
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221012102144](/zet/20221012102144/README.md) preview window for menu
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd

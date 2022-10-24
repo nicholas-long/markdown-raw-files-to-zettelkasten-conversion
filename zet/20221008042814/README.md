@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221024160055](/zet/20221024160055/README.md) sort finished nodes and organize into projects and unlink issues
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 - [20221022232615](/zet/20221022232615/README.md) defcon video notes
