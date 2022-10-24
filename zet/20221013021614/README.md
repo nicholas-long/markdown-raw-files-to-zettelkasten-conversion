@@ -9,6 +9,7 @@
   - `goto ...`    - follow link
   - `tab`         - if running in tmux, open multiple other links in new tmux windows (like browser tabs)
   - `tagindex`    - browse by tags
+  - `addtags`     - add multiple tags to card
   - `edit ...`    - edit card or attachments in vim
   - `/deep`       - deep keyword search combining links, titles, content, and fzf fuzzy finding. launches new tmux windows if tmux is running.
   - `~`           - return to home page
@@ -30,8 +31,9 @@ ln -s zet/20221013021614/ browser
 
 - changed preview hotkeys to page up and page down to match lazygit hotkeys
 - added ability to list and edit attachments
+- added tag features: quick tag add
 - todo
-  - quick tag add / remove
+  - quick tag remove
 
 ` zet/20221013021614/README.md `
 
