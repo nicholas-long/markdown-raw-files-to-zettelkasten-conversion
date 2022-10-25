@@ -1,4 +1,5 @@
-# neovim specific diff
+# neovim diff
+
 ```bash
 nvim -d file1 file2
 ```
@@ -14,4 +15,4 @@ nvim -d file1 file2
 
 Tags:
 
-    #vim #vim 
+    #tip #vim

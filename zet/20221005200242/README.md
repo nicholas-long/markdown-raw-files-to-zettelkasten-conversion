@@ -304,7 +304,6 @@ this is a list of possibly empty zettels.
 - [20221003150075](/zet/20221003150075/README.md) tmux
 - [20221003150070](/zet/20221003150070/README.md) vim edit multiple files add args while running and converting into tabs
 - [20221003150067](/zet/20221003150067/README.md) vim
-- [20221003150065](/zet/20221003150065/README.md) neovim specific
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 
 Tags:

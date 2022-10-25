@@ -58,13 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150065
-# neovim specific
-20221003150065 20221003150064 zet/20221003150064/README.md 4
-# neovim specific diff
-20221003150065 20221014185505 zet/20221014185505/README.md 4
-# kb file named kb/vim/vim.md
-
 next id 20221003150070
 # vim edit multiple files add args while running and converting into tabs
 20221003150070 20221003150071 zet/20221003150071/README.md 3
