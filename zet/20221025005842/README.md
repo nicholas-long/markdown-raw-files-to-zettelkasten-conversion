@@ -58,38 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150122
-# routing using a linux box add router to routes on hosts
-20221003150122 20221003150121 zet/20221003150121/README.md 7
-# routing using a linux box add router to routes on hosts windows
-20221003150122 20221003150126 zet/20221003150126/README.md 4
-# routing using a linux box
-20221003150122 20221014190210 zet/20221014190210/README.md 4
-# kb file named kb/linux/routing.md
-
-next id 20221003150125
-# routing using a linux box enable ip forwarding
-20221003150125 20221003150123 zet/20221003150123/README.md 13
-# routing using a linux box enable ip forwarding permanently
-20221003150125 20221003150124 zet/20221003150124/README.md 4
-# routing using a linux box enable ip forwarding temporarily
-20221003150125 20221003150126 zet/20221003150126/README.md 4
-# routing using a linux box
-20221003150125 20221014190210 zet/20221014190210/README.md 4
-# kb file named kb/linux/routing.md
-
-next id 20221003150128
-# tldr pages location
-20221003150128 20221003150127 zet/20221003150127/README.md 2
-# tldr pages location english
-20221003150128 20221014190209 zet/20221014190209/README.md 4
-# kb file named kb/linux/tldr-info.md
-
-next id 20221003150129
-# tldr
-20221003150129 20221014190209 zet/20221014190209/README.md 4
-# kb file named kb/linux/tldr-info.md
-
 next id 20221003150131
 # java download links
 20221003150131 20221003150130 zet/20221003150130/README.md 2
