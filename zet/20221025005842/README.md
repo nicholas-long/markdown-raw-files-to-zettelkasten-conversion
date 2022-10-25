@@ -58,17 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150143
-# proxmox
-20221003150143 20221003150142 zet/20221003150142/README.md 4
-# proxmox server layout
-20221003150143 20221007043259 zet/20221007043259/README.md 90
-# zettelkasten generic ideas
-20221003150143 20221009005402 zet/20221009005402/README.md 4
-# preparing for the OSCP exam
-20221003150143 20221014190200 zet/20221014190200/README.md 4
-# kb file named kb/linux/proxmox.md
-
 next id 20221003150154
 # cyberpunk retro machine project
 20221003150154 20221003150150 zet/20221003150150/README.md 2
