@@ -299,9 +299,6 @@ this is a list of possibly empty zettels.
 - [20221003150115](/zet/20221003150115/README.md) socat
 - [20221003150105](/zet/20221003150105/README.md) python scripting
 - [20221003150104](/zet/20221003150104/README.md) python scripting requests http
-- [20221003150100](/zet/20221003150100/README.md) python scripting argument variable argv
-- [20221003150079](/zet/20221003150079/README.md) tmux
-- [20221003150075](/zet/20221003150075/README.md) tmux
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 

@@ -58,36 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150075
-# tmux
-20221003150075 20221003150074 zet/20221003150074/README.md 4
-# tmux copy to buffer from bash pipes
-20221003150075 20221003150076 zet/20221003150076/README.md 2
-# tmux swap panes
-20221003150075 20221003150081 zet/20221003150081/README.md 7
-# tmux box art enable
-20221003150075 20221008050923 zet/20221008050923/README.md 16
-# tmux buffers as bash script pipe debug file buffer
-20221003150075 20221010180841 zet/20221010180841/README.md 31
-# screen and tmux rwxrob video
-20221003150075 20221010222312 zet/20221010222312/README.md 4
-# tmux workflow
-20221003150075 20221012065200 zet/20221012065200/README.md 10
-# side panels work in vim with tmux over ssh now?
-20221003150075 20221013222336 zet/20221013222336/README.md 8
-# how to tell if tmux is running
-20221003150075 20221014154934 zet/20221014154934/README.md 10
-# terminal user interface (TUI) program
-20221003150075 20221014190219 zet/20221014190219/README.md 4
-# kb file named kb/tmux/copy-buffer.md
-20221003150075 20221024082446 zet/20221024082446/README.md 9
-# tmux join window back into pane
-
-next id 20221003150100
-# python scripting argument variable argv
-20221003150100 20221014185507 zet/20221014185507/README.md 4
-# kb file named kb/python/coding-reference.md
-
 next id 20221003150104
 # python scripting requests http
 20221003150104 20221003150101 zet/20221003150101/README.md 8

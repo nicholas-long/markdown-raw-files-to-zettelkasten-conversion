@@ -1,4 +1,4 @@
-# tmux
+# tmux program
 
 - config rc file
   - `$HOME/.tmux.conf`
@@ -30,8 +30,8 @@
 - [20221014160551](/zet/20221014160551/README.md) terminal emulator program
 - [20221014190216](/zet/20221014190216/README.md) kb file named kb/tmux/get-data-info.md
 - ~/kb/tmux/get-data-info.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221024082446](/zet/20221024082446/README.md) tmux join window back into pane
+- [20221003150075](/zet/20221003150075/README.md) tmux
 
 Tags:
 
