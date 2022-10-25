@@ -13,6 +13,7 @@ https://github.com/quentinhardy/odat
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221003150978](/zet/20221003150978/README.md) oracle
 - https://github.com/quentinhardy/odat
+- [20221003150379](/zet/20221003150379/README.md) oracle database attacking tool odat enumerate users
 
 Tags:
 

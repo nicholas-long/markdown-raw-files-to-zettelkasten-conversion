@@ -48,7 +48,7 @@
 - [20221003150364](/zet/20221003150364/README.md) portable TCP port scanner
 - [20221003150359](/zet/20221003150359/README.md) windows run commands as other user with credentials switch users on windows host with RunasCs with no WinRM remote management access
 - [20221003150368](/zet/20221003150368/README.md) dump credentials from browsers chromium edge
-- [20221003150377](/zet/20221003150377/README.md) oracle database attacking tool odat execute system commands
+- [20221003150377](/zet/20221003150377/README.md) oracle database attacking tool ODAT can execute system commands
 - [20221003150389](/zet/20221003150389/README.md) krbrelayx
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
 - [20221003150419](/zet/20221003150419/README.md) text cipher encryption decryption tools

@@ -12,7 +12,7 @@
 - [20221003150374](/zet/20221003150374/README.md) volatility framework analyze dump files of volatile RAM file type "MS Windows 64bit crash dump, full dump, XXX pages"
 - [20221003150375](/zet/20221003150375/README.md) volatility framework analyze dump files of volatile RAM
 - [20221003150376](/zet/20221003150376/README.md) volatility framework
-- [20221003150377](/zet/20221003150377/README.md) oracle database attacking tool odat execute system commands
+- [20221003150377](/zet/20221003150377/README.md) oracle database attacking tool ODAT can execute system commands
 - [20221003150378](/zet/20221003150378/README.md) oracle database attacking tool odat escalate database account to DBA
 - [20221003150379](/zet/20221003150379/README.md) oracle database attacking tool odat enumerate users
 - [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat

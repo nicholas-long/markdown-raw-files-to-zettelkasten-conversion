@@ -12,6 +12,8 @@
 - [20221012154324](/zet/20221012154324/README.md) java
 - [20221003150977](/zet/20221003150977/README.md) oracle connect as sysdba enable file read privileges
 - ~/kb/hacking/methodology/oracle.md
+- [20221003150377](/zet/20221003150377/README.md) oracle database attacking tool ODAT can execute system commands
+- [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat
 
 Tags:
 

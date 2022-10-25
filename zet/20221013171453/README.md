@@ -36,6 +36,7 @@
 - [20221025045945](/zet/20221025045945/README.md) tldr pages
 - [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
+- [20221003150377](/zet/20221003150377/README.md) oracle database attacking tool ODAT can execute system commands
 
 Tags:
 

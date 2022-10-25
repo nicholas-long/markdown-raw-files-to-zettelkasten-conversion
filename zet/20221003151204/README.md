@@ -50,6 +50,7 @@
 - [20221003150979](/zet/20221003150979/README.md) mariadb mysql files read database users
 - [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list
 - [20221003150826](/zet/20221003150826/README.md) postgres sql enumeration exit
+- [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat
 
 Tags:
 
