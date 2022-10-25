@@ -209,14 +209,25 @@ while [ 1 == "$going" ]; do
     sleep 0.5
   elif [ "$act" == "xfer" ]; then
     selection=$(mktemp)
+    export id
     awk '
       /^ *- \[.*\]\(\/zet\/[0-9]+\/README.md\)/ {
         print $0
         fflush()
       }
-    ' "$doc" | fzf -m | implementation/parseids | awk '
+      END {
+        cmd = "find zet/" ENVIRON["id"] " -type f | grep -v README.md"
+        while ((cmd | getline) > 0) {
+          if ($0 !~ /^$/) print $0
+        }
+      }
+    ' "$doc" | fzf -m | awk '
+      /^ *- \[.*\]\(\/zet\/[0-9]+\/README.md\)/ { print | "implementation/parseids" }
+      /^zet\// { print }
+    ' | awk '
       BEGIN { c = ENVIRON["EDITOR"] " -p " ENVIRON["doc"] " " }
       /^[0-9]+/ { c = c " zet/" $0 "/README.md" }
+      /^zet\// { c = c " \047" $0 "\047" }
       END { system(c) }
       '
   elif [ "$act" == "enrich" ]; then
