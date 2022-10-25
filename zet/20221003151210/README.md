@@ -131,6 +131,7 @@
 - [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
 - ~/kb/hacking/to-try-lists/privesc/linux.md
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities
+- [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
 
 Tags:
 

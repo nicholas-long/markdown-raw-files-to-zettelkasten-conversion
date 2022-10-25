@@ -18,6 +18,7 @@
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
+- [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
 
 Tags:
 

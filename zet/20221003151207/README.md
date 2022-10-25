@@ -126,6 +126,8 @@
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - ~/kb/hacking/to-try-lists/privesc/windows.md
+- [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
+- [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
 
 Tags:
 

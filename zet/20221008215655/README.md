@@ -42,6 +42,7 @@ the concept of `user account`
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221008215530](/zet/20221008215530/README.md) username
 - [20221003150247](/zet/20221003150247/README.md) enterprise PAM
+- [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
 
 Tags:
 

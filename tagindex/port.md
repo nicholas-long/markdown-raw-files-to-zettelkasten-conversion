@@ -8,3 +8,4 @@
 - [20221003150113](/zet/20221003150113/README.md) socat execute program
 - [20221003150114](/zet/20221003150114/README.md) socat port forwarding with socat
 - [20221003150115](/zet/20221003150115/README.md) socat
+- [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan

@@ -58,23 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150374
-# volatility framework analyze dump files of volatile RAM file type "MS Windows 64bit crash dump, full dump, XXX pages"
-20221003150374 20221014190047 zet/20221014190047/README.md 4
-# kb file named kb/hacking/misc/important-repositories-tools.md
-
-next id 20221003150375
-# volatility framework analyze dump files of volatile RAM
-20221003150375 20221003150373 zet/20221003150373/README.md 7
-# volatility framework analyze dump files of volatile RAM .dmp .img
-20221003150375 20221014190047 zet/20221014190047/README.md 4
-# kb file named kb/hacking/misc/important-repositories-tools.md
-
-next id 20221003150376
-# volatility framework
-20221003150376 20221014190047 zet/20221014190047/README.md 4
-# kb file named kb/hacking/misc/important-repositories-tools.md
-
 next id 20221003150378
 # oracle database attacking tool odat escalate database account to DBA
 20221003150378 20221014190047 zet/20221014190047/README.md 4

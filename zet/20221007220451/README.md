@@ -226,6 +226,9 @@ hacking notes hub
 - [20221003150306](/zet/20221003150306/README.md) modify date with touch timestomping
 - [20221025221046](/zet/20221025221046/README.md) worst tier of AV
 - [20221003150326](/zet/20221003150326/README.md) top tier endpoint protection AV
+- [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
+- [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
+- [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 
 Tags:
 

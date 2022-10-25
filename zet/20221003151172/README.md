@@ -126,6 +126,7 @@
 - [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old
 - ~/kb/hacking/to-try-lists/active-directory-domain.md
+- [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
 
 Tags:
 

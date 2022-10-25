@@ -319,6 +319,7 @@
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221006214142](/zet/20221006214142/README.md) streamers
 - [20221006213311](/zet/20221006213311/README.md) hackthebox
+- [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
 
 Tags:
 

@@ -13,6 +13,7 @@
 - [20221003150472](/zet/20221003150472/README.md) powershell tricks run powershell commands as another user on remote machine with impersonated token
 - ~/kb/hacking/powershell/powershell-tricks.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
 
 Tags:
 

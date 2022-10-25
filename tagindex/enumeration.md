@@ -1,4 +1,5 @@
 - [20221003150242](/zet/20221003150242/README.md) identify service
+- [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150593](/zet/20221003150593/README.md) generating enumeration wordlists exfiltrated passwd usernames to ssh key id_rsa fuzz list
 - [20221003150594](/zet/20221003150594/README.md) generating enumeration wordlists
 - [20221003150894](/zet/20221003150894/README.md) linux enumeration quick commands file transfer with cat herefiles
