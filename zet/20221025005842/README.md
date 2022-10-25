@@ -58,26 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150264
-# block ciphers AES DES blowfish
-20221003150264 20221003150263 zet/20221003150263/README.md 15
-# block ciphers AES DES blowfish ECB CBC CFB OFB CTR cipher modes
-20221003150264 20221014190105 zet/20221014190105/README.md 4
-# kb file named kb/hacking/misc/buzzwords-and-acronyms.md
-20221003150264 20221024131549 zet/20221024131549/README.md 4
-# buzzwords and acronyms hub
-
-next id 20221003150265
-# block ciphers
-20221003150265 20221003150261 zet/20221003150261/README.md 8
-# block ciphers ECB electronic code book cipher mode of operation
-20221003150265 20221003150262 zet/20221003150262/README.md 8
-# block ciphers CBC cipher cipher block chaining cipher mode of operation
-20221003150265 20221014190105 zet/20221014190105/README.md 4
-# kb file named kb/hacking/misc/buzzwords-and-acronyms.md
-20221003150265 20221024131549 zet/20221024131549/README.md 4
-# buzzwords and acronyms hub
-
 next id 20221003150268
 # IPMI intelligent platform management interface BMC
 20221003150268 20221014190105 zet/20221014190105/README.md 4
