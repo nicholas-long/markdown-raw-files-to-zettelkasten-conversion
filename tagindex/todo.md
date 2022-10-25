@@ -3,7 +3,6 @@
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221006025730](/zet/20221006025730/README.md) apt repositories
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221006032933](/zet/20221006032933/README.md) problems / issues with zet cmd
 - [20221006034046](/zet/20221006034046/README.md) kafka and zettelkasten graph docs
 - [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`
