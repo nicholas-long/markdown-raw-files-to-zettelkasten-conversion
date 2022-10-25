@@ -27,6 +27,17 @@ implementation/countlines 20221025005842 20221006032546
 wc -l zet/20221025005842/emptycards
 254 zet/20221025005842/emptycards
 
+for id in $(cat zet/20221025005842/emptycards); do
+  export id
+  ./graphquery id $id refs | xargs implementation/countlines | awk '
+    $3 > 1 {
+      print ENVIRON["id"], $0
+    }
+    '
+done
+
+zet/20221025005842/queryallneighbors
+
 ```
 
 ` zet/20221025005842/README.md `

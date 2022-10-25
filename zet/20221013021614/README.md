@@ -34,6 +34,8 @@ ln -s zet/20221013021614/ browser
 - added ability to list and edit attachments
 - added tag features: quick tag add
 - todo
+  - spawn new shell tmux window in working directory of zettel
+  - xfer to files in directory as well as links
   - quick tag remove
   - quick git ops - push pull commit - implement here instead of lazygit
 

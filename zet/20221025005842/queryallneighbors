@@ -1,0 +1,11 @@
+#!/bin/bash
+
+for id in $(cat zet/20221025005842/emptycards); do
+  export id
+  ./graphquery id $id refs | xargs implementation/countlines | awk '
+    $3 > 1 {
+      print ENVIRON["id"], $0
+    }
+    '
+done
+
