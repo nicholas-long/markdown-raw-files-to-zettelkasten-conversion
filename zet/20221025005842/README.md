@@ -58,13 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150184
-# add user to group
-20221003150184 20221003150183 zet/20221003150183/README.md 4
-# add user to group docker
-20221003150184 20221014190143 zet/20221014190143/README.md 4
-# kb file named kb/linux/users-groups.md
-
 next id 20221003150191
 # zsh
 20221003150191 20221003150188 zet/20221003150188/README.md 8

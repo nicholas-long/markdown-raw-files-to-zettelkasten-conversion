@@ -279,7 +279,6 @@ this is a list of possibly empty zettels.
 - [20221003150193](/zet/20221003150193/README.md) convert
 - [20221003150191](/zet/20221003150191/README.md) zsh
 - [20221003150187](/zet/20221003150187/README.md) linux free up space
-- [20221003150184](/zet/20221003150184/README.md) add user to group
 - [20221003150176](/zet/20221003150176/README.md) ex editor
 - [20221003150174](/zet/20221003150174/README.md) less
 - [20221003150159](/zet/20221003150159/README.md) upgrade when apt is causing problems
