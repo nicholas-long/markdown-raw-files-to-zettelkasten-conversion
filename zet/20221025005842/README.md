@@ -58,13 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150360
-# windows run commands as other user with credentials
-20221003150360 20221003150359 zet/20221003150359/README.md 4
-# windows run commands as other user with credentials switch users on windows host with RunasCs with no WinRM remote management access
-20221003150360 20221014190047 zet/20221014190047/README.md 4
-# kb file named kb/hacking/misc/important-repositories-tools.md
-
 next id 20221003150363
 # portable TCP port scanner bash only
 20221003150363 20221003150362 zet/20221003150362/README.md 6
