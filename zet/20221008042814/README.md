@@ -6,8 +6,15 @@ stuff i am working on.
 
 # Related
 
-- [20221024160055](/zet/20221024160055/README.md) sort finished nodes and organize into projects and unlink issues
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
+- [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams
+- [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
+- [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+- [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language
+- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
+- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221024160055](/zet/20221024160055/README.md) sort finished nodes and organize into projects and unlink issues
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 - [20221022232615](/zet/20221022232615/README.md) defcon video notes
 - [20221003151144](/zet/20221003151144/README.md) active directory 
@@ -18,8 +25,6 @@ stuff i am working on.
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash
 - [20221018020643](/zet/20221018020643/README.md) what is hadoop for?
-- [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
-- [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
@@ -45,7 +50,6 @@ stuff i am working on.
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221010155109](/zet/20221010155109/README.md) add link titles to youtube or some other links
 - [20221010153630](/zet/20221010153630/README.md) make symlinks for markdown titles for search optimization
-- [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
@@ -70,7 +74,6 @@ stuff i am working on.
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221003150483](/zet/20221003150483/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip
-- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
@@ -80,9 +83,6 @@ stuff i am working on.
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
 - [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
 - [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step
-- [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language
-- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 
 Tags:
 
