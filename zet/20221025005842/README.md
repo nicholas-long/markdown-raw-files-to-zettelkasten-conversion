@@ -40,6 +40,8 @@ zet/20221025005842/queryallneighbors
 
 zet/20221025005842/queryallneighbors | tee zet/20221025005842/queryoutput
 
+# used a vim script to remove all references to "empty zettels to fix" `nkdj`
+
 --------------------------------------------------------------------------------
 
 awk '
@@ -60,8 +62,6 @@ next id 20221003150065
 # neovim specific
 20221003150065 20221003150064 zet/20221003150064/README.md 4
 # neovim specific diff
-20221003150065 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150065 20221014185505 zet/20221014185505/README.md 4
 # kb file named kb/vim/vim.md
 
@@ -69,8 +69,6 @@ next id 20221003150070
 # vim edit multiple files add args while running and converting into tabs
 20221003150070 20221003150071 zet/20221003150071/README.md 3
 # vim edit multiple files
-20221003150070 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150070 20221014185504 zet/20221014185504/README.md 4
 # kb file named kb/vim/edit-multiple-files.md
 
@@ -82,8 +80,6 @@ next id 20221003150075
 # tmux swap panes
 20221003150075 20221003150081 zet/20221003150081/README.md 7
 # tmux box art enable
-20221003150075 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150075 20221008050923 zet/20221008050923/README.md 16
 # tmux buffers as bash script pipe debug file buffer
 20221003150075 20221010180841 zet/20221010180841/README.md 31
@@ -103,8 +99,6 @@ next id 20221003150075
 
 next id 20221003150100
 # python scripting argument variable argv
-20221003150100 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150100 20221014185507 zet/20221014185507/README.md 4
 # kb file named kb/python/coding-reference.md
 
@@ -118,8 +112,6 @@ next id 20221003150104
 # python scripting requests http upload file
 20221003150104 20221003150315 zet/20221003150315/README.md 2
 # python uvicorn `--reload` flag
-20221003150104 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150104 20221014185507 zet/20221014185507/README.md 4
 # kb file named kb/python/coding-reference.md
 
@@ -129,8 +121,6 @@ next id 20221003150105
 # python scripting format string variables
 20221003150105 20221003150315 zet/20221003150315/README.md 2
 # python uvicorn `--reload` flag
-20221003150105 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150105 20221007023939 zet/20221007023939/README.md 8
 # python ternary operator
 20221003150105 20221008070202 zet/20221008070202/README.md 15
@@ -150,8 +140,6 @@ next id 20221003150120
 # routing using a linux box iptables rules forward all traffic between two interfaces
 20221003150120 20221003150126 zet/20221003150126/README.md 4
 # routing using a linux box
-20221003150120 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150120 20221014190210 zet/20221014190210/README.md 4
 # kb file named kb/linux/routing.md
 
@@ -161,8 +149,6 @@ next id 20221003150122
 # routing using a linux box add router to routes on hosts windows
 20221003150122 20221003150126 zet/20221003150126/README.md 4
 # routing using a linux box
-20221003150122 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150122 20221014190210 zet/20221014190210/README.md 4
 # kb file named kb/linux/routing.md
 
@@ -174,8 +160,6 @@ next id 20221003150125
 # routing using a linux box enable ip forwarding temporarily
 20221003150125 20221003150126 zet/20221003150126/README.md 4
 # routing using a linux box
-20221003150125 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150125 20221014190210 zet/20221014190210/README.md 4
 # kb file named kb/linux/routing.md
 
@@ -183,15 +167,11 @@ next id 20221003150128
 # tldr pages location
 20221003150128 20221003150127 zet/20221003150127/README.md 2
 # tldr pages location english
-20221003150128 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150128 20221014190209 zet/20221014190209/README.md 4
 # kb file named kb/linux/tldr-info.md
 
 next id 20221003150129
 # tldr
-20221003150129 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150129 20221014190209 zet/20221014190209/README.md 4
 # kb file named kb/linux/tldr-info.md
 
@@ -199,8 +179,6 @@ next id 20221003150131
 # java download links
 20221003150131 20221003150130 zet/20221003150130/README.md 2
 # java download links jdk
-20221003150131 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150131 20221014190207 zet/20221014190207/README.md 4
 # kb file named kb/linux/java-jdk-links.md
 
@@ -214,8 +192,6 @@ next id 20221003150140
 # dpkg list files installed with package ##apt
 20221003150140 20221003150632 zet/20221003150632/README.md 4
 # list dpkg packages installed on a certain date
-20221003150140 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150140 20221006025730 zet/20221006025730/README.md 2
 # apt repositories
 20221003150140 20221009005402 zet/20221009005402/README.md 4
@@ -233,8 +209,6 @@ next id 20221003150143
 # proxmox
 20221003150143 20221003150142 zet/20221003150142/README.md 4
 # proxmox server layout
-20221003150143 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150143 20221007043259 zet/20221007043259/README.md 90
 # zettelkasten generic ideas
 20221003150143 20221009005402 zet/20221009005402/README.md 4
@@ -248,8 +222,6 @@ next id 20221003150154
 # cyberpunk retro machine project Tandy TRS-80 Model 100 terminal
 20221003150154 20221003150153 zet/20221003150153/README.md 8
 # cyberpunk retro machine project enable usb serial port terminal as a service
-20221003150154 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150154 20221014190158 zet/20221014190158/README.md 4
 # kb file named kb/linux/cyberpunk-retro-machine-serial-terminals.md
 
@@ -261,8 +233,6 @@ next id 20221003150156
 # listen for pings with tcpdump
 20221003150156 20221003150632 zet/20221003150632/README.md 4
 # list dpkg packages installed on a certain date
-20221003150156 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150156 20221007181438 zet/20221007181438/README.md 12
 # directories and bash scripts as commands
 20221003150156 20221007220451 zet/20221007220451/README.md 7
@@ -280,8 +250,6 @@ next id 20221003150165
 # linux job control send background process to foreground
 20221003150165 20221003150164 zet/20221003150164/README.md 3
 # linux job control background running process
-20221003150165 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150165 20221014190152 zet/20221014190152/README.md 4
 # kb file named kb/linux/job-control.md
 
@@ -291,8 +259,6 @@ next id 20221003150171
 # linux capabilities capability set `=ep`
 20221003150171 20221003150170 zet/20221003150170/README.md 7
 # linux capabilities inheritance after exec
-20221003150171 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150171 20221014190149 zet/20221014190149/README.md 4
 # kb file named kb/linux/capabilities.md
 
@@ -300,8 +266,6 @@ next id 20221003150173
 # less replay script log
 20221003150173 20221003150174 zet/20221003150174/README.md 3
 # less
-20221003150173 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150173 20221014190147 zet/20221014190147/README.md 4
 # kb file named kb/linux/less.md
 
@@ -309,8 +273,6 @@ next id 20221003150184
 # add user to group
 20221003150184 20221003150183 zet/20221003150183/README.md 4
 # add user to group docker
-20221003150184 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150184 20221014190143 zet/20221014190143/README.md 4
 # kb file named kb/linux/users-groups.md
 
@@ -322,8 +284,6 @@ next id 20221003150191
 # zsh arrow key based history autocomplete browse
 20221003150191 20221003150190 zet/20221003150190/README.md 5
 # zsh see default bindings for vim command and insert modes keybinds
-20221003150191 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150191 20221006025356 zet/20221006025356/README.md 2
 # linux
 20221003150191 20221008212802 zet/20221008212802/README.md 2
@@ -339,8 +299,6 @@ next id 20221003150193
 # convert
 20221003150193 20221003150192 zet/20221003150192/README.md 10
 # convert package type to deb rpm slp lsb tgz
-20221003150193 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150193 20221013035124 zet/20221013035124/README.md 4
 # problems with markdown conversion process
 20221003150193 20221014190138 zet/20221014190138/README.md 4
@@ -350,8 +308,6 @@ next id 20221003150221
 # surface tablet
 20221003150221 20221003150220 zet/20221003150220/README.md 2
 # surface tablet force restart
-20221003150221 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150221 20221010150900 zet/20221010150900/README.md 2
 # draw stuff on cards with tablet
 20221003150221 20221012152421 zet/20221012152421/README.md 9
@@ -373,8 +329,6 @@ next id 20221003150225
 # bettercap settings
 20221003150225 20221003150224 zet/20221003150224/README.md 4
 # bettercap start commnad
-20221003150225 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150225 20221014190114 zet/20221014190114/README.md 4
 # kb file named kb/hacking/lan/bettercap-options.md
 20221003150225 20221017172946 zet/20221017172946/README.md 4
@@ -386,8 +340,6 @@ next id 20221003150231
 # apk analysis emulate a phone with genymotion and virtualbox
 20221003150231 20221003150230 zet/20221003150230/README.md 2
 # apk analysis decompile to bytecode and inspect objects
-20221003150231 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150231 20221014190111 zet/20221014190111/README.md 4
 # kb file named kb/hacking/analysis/apk-analysis.md
 
@@ -405,8 +357,6 @@ next id 20221003150239
 # extract command for file type tar.gz
 20221003150239 20221003150238 zet/20221003150238/README.md 4
 # extract command for file type deb
-20221003150239 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150239 20221007220451 zet/20221007220451/README.md 7
 # hacking notes hub
 20221003150239 20221010064819 zet/20221010064819/README.md 31
@@ -446,8 +396,6 @@ next id 20221003150242
 # LDAP
 20221003150242 20221003151237 zet/20221003151237/README.md 4
 # wfuzz identify files containing version info like README and changelog
-20221003150242 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150242 20221008213825 zet/20221008213825/README.md 15
 # hacker concept of CMS - slang lingo for web app / service
 20221003150242 20221014164014 zet/20221014164014/README.md 4
@@ -461,8 +409,6 @@ next id 20221003150247
 # enterprise PAM
 20221003150247 20221003150246 zet/20221003150246/README.md 2
 # enterprise PAM Thycotic
-20221003150247 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150247 20221014190105 zet/20221014190105/README.md 4
 # kb file named kb/hacking/misc/buzzwords-and-acronyms.md
 20221003150247 20221024131549 zet/20221024131549/README.md 4
@@ -474,8 +420,6 @@ next id 20221003150259
 # firefox containers addon = multiple sessions cookies in firefox web browser
 20221003150259 20221003150275 zet/20221003150275/README.md 2
 # firefox reverse shell toolbar hacktools
-20221003150259 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150259 20221014190105 zet/20221014190105/README.md 4
 # kb file named kb/hacking/misc/buzzwords-and-acronyms.md
 20221003150259 20221024131549 zet/20221024131549/README.md 4
@@ -485,8 +429,6 @@ next id 20221003150264
 # block ciphers AES DES blowfish
 20221003150264 20221003150263 zet/20221003150263/README.md 15
 # block ciphers AES DES blowfish ECB CBC CFB OFB CTR cipher modes
-20221003150264 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150264 20221014190105 zet/20221014190105/README.md 4
 # kb file named kb/hacking/misc/buzzwords-and-acronyms.md
 20221003150264 20221024131549 zet/20221024131549/README.md 4
@@ -498,8 +440,6 @@ next id 20221003150265
 # block ciphers ECB electronic code book cipher mode of operation
 20221003150265 20221003150262 zet/20221003150262/README.md 8
 # block ciphers CBC cipher cipher block chaining cipher mode of operation
-20221003150265 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150265 20221014190105 zet/20221014190105/README.md 4
 # kb file named kb/hacking/misc/buzzwords-and-acronyms.md
 20221003150265 20221024131549 zet/20221024131549/README.md 4
@@ -507,8 +447,6 @@ next id 20221003150265
 
 next id 20221003150268
 # IPMI intelligent platform management interface BMC
-20221003150268 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150268 20221014190105 zet/20221014190105/README.md 4
 # kb file named kb/hacking/misc/buzzwords-and-acronyms.md
 20221003150268 20221024131549 zet/20221024131549/README.md 4
@@ -516,8 +454,6 @@ next id 20221003150268
 
 next id 20221003150269
 # IPMI intelligent platform management interface zabbix
-20221003150269 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150269 20221014190105 zet/20221014190105/README.md 4
 # kb file named kb/hacking/misc/buzzwords-and-acronyms.md
 20221003150269 20221024131549 zet/20221024131549/README.md 4
@@ -527,8 +463,6 @@ next id 20221003150270
 # IPMI intelligent platform management interface
 20221003150270 20221003150267 zet/20221003150267/README.md 5
 # IPMI intelligent platform management interface udp port 613
-20221003150270 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150270 20221014190105 zet/20221014190105/README.md 4
 # kb file named kb/hacking/misc/buzzwords-and-acronyms.md
 20221003150270 20221024131549 zet/20221024131549/README.md 4
@@ -542,8 +476,6 @@ next id 20221003150279
 # pfx extension PKCS#12 format certificate cracking with crackpkcs12
 20221003150279 20221003150281 zet/20221003150281/README.md 4
 # pfx extension PKCS#12 format certificate
-20221003150279 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150279 20221008215325 zet/20221008215325/README.md 4
 # password
 20221003150279 20221014190059 zet/20221014190059/README.md 4
@@ -551,8 +483,6 @@ next id 20221003150279
 
 next id 20221003150283
 # default webroots debian system
-20221003150283 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150283 20221014190057 zet/20221014190057/README.md 4
 # kb file named kb/hacking/misc/web-server-default-webroots.md
 
@@ -562,8 +492,6 @@ next id 20221003150286
 # default webroots BSD systems FreeBSD
 20221003150286 20221003150285 zet/20221003150285/README.md 2
 # default webroots BSD systems OpenBSD httpd
-20221003150286 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150286 20221014190057 zet/20221014190057/README.md 4
 # kb file named kb/hacking/misc/web-server-default-webroots.md
 
@@ -579,8 +507,6 @@ next id 20221003150289
 # windows directory traversal path traversal LFI strings
 20221003150289 20221003151153 zet/20221003151153/README.md 4
 # windows
-20221003150289 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150289 20221006213130 zet/20221006213130/README.md 2
 # hacking / CTF platforms
 20221003150289 20221007220451 zet/20221007220451/README.md 7
@@ -594,8 +520,6 @@ next id 20221003150289
 
 next id 20221003150297
 # fixing golang module errors go get fails
-20221003150297 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150297 20221013222124 zet/20221013222124/README.md 4
 # concept hub for tricks and tips
 20221003150297 20221014190056 zet/20221014190056/README.md 4
@@ -607,8 +531,6 @@ next id 20221003150298
 # fixing golang module errors cannot install module
 20221003150298 20221003151274 zet/20221003151274/README.md 5
 # install mandown
-20221003150298 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150298 20221013194055 zet/20221013194055/README.md 4
 # concept of installing something
 20221003150298 20221014190056 zet/20221014190056/README.md 4
@@ -620,8 +542,6 @@ next id 20221003150299
 # fixing golang module errors
 20221003150299 20221003150296 zet/20221003150296/README.md 9
 # fixing golang module errors no required module provides package
-20221003150299 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150299 20221007062330 zet/20221007062330/README.md 4
 # broken stuff to fix
 20221003150299 20221013222124 zet/20221013222124/README.md 4
@@ -637,8 +557,6 @@ next id 20221003150306
 # modify date with touch timestomping set destination file date the same as source file date
 20221003150306 20221003150352 zet/20221003150352/README.md 2
 # fake set change system time for command
-20221003150306 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150306 20221014190056 zet/20221014190056/README.md 4
 # kb file named kb/hacking/misc/assorted-information.md
 20221003150306 20221022210719 zet/20221022210719/README.md 5
@@ -652,8 +570,6 @@ next id 20221003150310
 # burpsuite set scope to limit request catching
 20221003150310 20221003151408 zet/20221003151408/README.md 65
 # parse burpsuite saved request file and convert to python requests script for copying
-20221003150310 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150310 20221014190056 zet/20221014190056/README.md 4
 # kb file named kb/hacking/misc/assorted-information.md
 20221003150310 20221022210719 zet/20221022210719/README.md 5
@@ -671,8 +587,6 @@ next id 20221003150312
 # hidden shares
 20221003150312 20221003151198 zet/20221003151198/README.md 39
 # SMB to try list
-20221003150312 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150312 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150312 20221014164014 zet/20221014164014/README.md 4
@@ -686,8 +600,6 @@ next id 20221003150314
 # default http config locations
 20221003150314 20221003150313 zet/20221003150313/README.md 2
 # default http config locations FreeBSD
-20221003150314 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150314 20221014190056 zet/20221014190056/README.md 4
 # kb file named kb/hacking/misc/assorted-information.md
 20221003150314 20221022210719 zet/20221022210719/README.md 5
@@ -695,42 +607,28 @@ next id 20221003150314
 
 next id 20221003150316
 # fastapi uvicorn put python webshells
-20221003150316 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150316 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 
 next id 20221003150318
 # sophos
-20221003150318 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 
 next id 20221003150319
 # symantec
-20221003150319 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 
 next id 20221003150320
 # mcaffee
-20221003150320 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 
 next id 20221003150321
 # arctic wolf
-20221003150321 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 
 next id 20221003150324
 # vmware carbon black cloud
-20221003150324 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 
 next id 20221003150325
 # Microsoft Defender for Endpoint - enterprise protection
 20221003150325 20221003150323 zet/20221003150323/README.md 2
 # crowdstrike falcon
-20221003150325 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150325 20221012152319 zet/20221012152319/README.md 4
 # concept of company or organization
 
@@ -738,8 +636,6 @@ next id 20221003150326
 # top tier endpoint protection AV defender
 20221003150326 20221003150323 zet/20221003150323/README.md 2
 # crowdstrike falcon
-20221003150326 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 
 next id 20221003150340
 # ansible
@@ -747,8 +643,6 @@ next id 20221003150340
 # ansible exploiting playbook
 20221003150340 20221003150339 zet/20221003150339/README.md 16
 # ansible How does Ansible work?
-20221003150340 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150340 20221014190054 zet/20221014190054/README.md 4
 # kb file named kb/hacking/misc/ansible.md
 
@@ -756,8 +650,6 @@ next id 20221003150343
 # wordpress
 20221003150343 20221003150342 zet/20221003150342/README.md 4
 # wordpress plugins
-20221003150343 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150343 20221008213825 zet/20221008213825/README.md 15
 # hacker concept of CMS - slang lingo for web app / service
 20221003150343 20221014190051 zet/20221014190051/README.md 4
@@ -779,8 +671,6 @@ next id 20221003150346
 # SSH to try list
 20221003150346 20221003151210 zet/20221003151210/README.md 88
 # linux privilege escalation
-20221003150346 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150346 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150346 20221014190050 zet/20221014190050/README.md 4
@@ -794,8 +684,6 @@ next id 20221003150350
 # troubleshooting fix error ValueError: unsupported hash type MD4 python hashlib openssl conf
 20221003150350 20221003150349 zet/20221003150349/README.md 5
 # troubleshooting fix error "sign_and_send_pubkey: no mutual signature supported"
-20221003150350 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150350 20221007062330 zet/20221007062330/README.md 4
 # broken stuff to fix
 20221003150350 20221013222124 zet/20221013222124/README.md 4
@@ -811,8 +699,6 @@ next id 20221003150355
 # .NET decompiler reverse engineering C# managed EXE DLL binaries
 20221003150355 20221003150354 zet/20221003150354/README.md 2
 # .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
-20221003150355 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150355 20221008194048 zet/20221008194048/README.md 40
 # good DLLs to hide in for sideloading
 20221003150355 20221008212519 zet/20221008212519/README.md 2
@@ -826,8 +712,6 @@ next id 20221003150360
 # windows run commands as other user with credentials
 20221003150360 20221003150359 zet/20221003150359/README.md 4
 # windows run commands as other user with credentials switch users on windows host with RunasCs with no WinRM remote management access
-20221003150360 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150360 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
@@ -835,22 +719,16 @@ next id 20221003150363
 # portable TCP port scanner bash only
 20221003150363 20221003150362 zet/20221003150362/README.md 6
 # portable TCP port scanner bash only spookyscan
-20221003150363 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150363 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
 next id 20221003150364
 # portable TCP port scanner
-20221003150364 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150364 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
 next id 20221003150369
 # dump credentials from browsers chromium chrome
-20221003150369 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150369 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
@@ -858,8 +736,6 @@ next id 20221003150370
 # dump credentials from browsers chromium
 20221003150370 20221003150368 zet/20221003150368/README.md 2
 # dump credentials from browsers chromium edge
-20221003150370 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150370 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
@@ -871,8 +747,6 @@ next id 20221003150371
 # keepass CLI tool open and edit keepass databases
 20221003150371 20221003151175 zet/20221003151175/README.md 17
 # EVERYTHING - common to try list
-20221003150371 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150371 20221013185837 zet/20221013185837/README.md 5
 # HKCU registry hive ntuser.dat
 20221003150371 20221014190047 zet/20221014190047/README.md 4
@@ -880,8 +754,6 @@ next id 20221003150371
 
 next id 20221003150374
 # volatility framework analyze dump files of volatile RAM file type "MS Windows 64bit crash dump, full dump, XXX pages"
-20221003150374 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150374 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
@@ -889,29 +761,21 @@ next id 20221003150375
 # volatility framework analyze dump files of volatile RAM
 20221003150375 20221003150373 zet/20221003150373/README.md 7
 # volatility framework analyze dump files of volatile RAM .dmp .img
-20221003150375 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150375 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
 next id 20221003150376
 # volatility framework
-20221003150376 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150376 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
 next id 20221003150378
 # oracle database attacking tool odat escalate database account to DBA
-20221003150378 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150378 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
 next id 20221003150379
 # oracle database attacking tool odat enumerate users
-20221003150379 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150379 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
@@ -919,8 +783,6 @@ next id 20221003150380
 # oracle database attacking tool odat
 20221003150380 20221003150377 zet/20221003150377/README.md 3
 # oracle database attacking tool odat execute system commands
-20221003150380 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150380 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
@@ -928,15 +790,11 @@ next id 20221003150382
 # threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender)
 20221003150382 20221003150381 zet/20221003150381/README.md 3
 # threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender) identify and pinpoints that exact bytes that the target antivirus engine will flag on
-20221003150382 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150382 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
 next id 20221003150383
 # threatcheck help obfuscate windows executable strings
-20221003150383 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150383 20221010064819 zet/20221010064819/README.md 31
 # locating the origin of files by hash to determine version
 20221003150383 20221014190047 zet/20221014190047/README.md 4
@@ -944,22 +802,16 @@ next id 20221003150383
 
 next id 20221003150386
 # krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP.
-20221003150386 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150386 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
 next id 20221003150387
 # krbrelayx addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP.
-20221003150387 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150387 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
 next id 20221003150388
 # krbrelayx Kerberos relaying and unconstrained delegation abuse toolkit
-20221003150388 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150388 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
@@ -969,8 +821,6 @@ next id 20221003150389
 # krbrelayx krbrelayx.py Kerberos relaying and Unconstrained delegation abuse
 20221003150389 20221003150385 zet/20221003150385/README.md 2
 # krbrelayx printerbug.py Simple tool to trigger SpoolService bug via RPC backconnect. Similar to dementor.py
-20221003150389 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150389 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
@@ -978,8 +828,6 @@ next id 20221003150391
 # file backup fuzzer
 20221003150391 20221003150390 zet/20221003150390/README.md 2
 # file backup fuzzer generate wordlists from filenames
-20221003150391 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150391 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
@@ -989,8 +837,6 @@ next id 20221003150419
 # diffie-hellman key exchange
 20221003150419 20221003150392 zet/20221003150392/README.md 29
 # text cipher encryption decryption tools Text Manipulator
-20221003150419 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150419 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
@@ -998,8 +844,6 @@ next id 20221003150421
 # kerberos attack on windows host Constrained delegation abuse
 20221003150421 20221003150425 zet/20221003150425/README.md 2
 # kerberos attack on windows host
-20221003150421 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150421 20221007220451 zet/20221007220451/README.md 7
 # hacking notes hub
 20221003150421 20221014190047 zet/20221014190047/README.md 4
@@ -1011,8 +855,6 @@ next id 20221003150422
 # kerberos attack on windows host
 20221003150422 20221003150748 zet/20221003150748/README.md 6
 # impacket kerberos commands
-20221003150422 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150422 20221013035124 zet/20221013035124/README.md 4
 # problems with markdown conversion process
 20221003150422 20221014190047 zet/20221014190047/README.md 4
@@ -1020,8 +862,6 @@ next id 20221003150422
 
 next id 20221003150423
 # kerberos attack on windows host ticket attacks forgery
-20221003150423 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150423 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
@@ -1029,8 +869,6 @@ next id 20221003150424
 # kerberos attack on windows host ticket attacks
 20221003150424 20221003150425 zet/20221003150425/README.md 2
 # kerberos attack on windows host
-20221003150424 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150424 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 20221003150424 20221019150132 zet/20221019150132/README.md 9
@@ -1040,8 +878,6 @@ next id 20221003150429
 # generate wordlists username anarchy, generate from lists of names, from country and locale output all formats top 10k names from facebook
 20221003150429 20221003150430 zet/20221003150430/README.md 5
 # generate wordlists username anarchy, generate from lists of names, from country and locale output all formats
-20221003150429 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150429 20221014190047 zet/20221014190047/README.md 4
 # kb file named kb/hacking/misc/important-repositories-tools.md
 
@@ -1053,8 +889,6 @@ next id 20221003150433
 # generate wordlists username anarchy, generate from lists of names, from country and locale
 20221003150433 20221003150432 zet/20221003150432/README.md 3
 # generate wordlists namemash - simple
-20221003150433 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150433 20221008215325 zet/20221008215325/README.md 4
 # password
 20221003150433 20221014190047 zet/20221014190047/README.md 4
@@ -1064,15 +898,11 @@ next id 20221003150448
 # poppler utils PDF parsing
 20221003150448 20221003150447 zet/20221003150447/README.md 4
 # poppler utils PDF parsing pdftotext pdftohtml pdfinfo pdfimages
-20221003150448 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150448 20221014190045 zet/20221014190045/README.md 4
 # kb file named kb/hacking/misc/tools-and-apt-packages.md
 
 next id 20221003150452
 # java decompiler JD-GUI analyze war file
-20221003150452 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150452 20221014190045 zet/20221014190045/README.md 4
 # kb file named kb/hacking/misc/tools-and-apt-packages.md
 
@@ -1080,8 +910,6 @@ next id 20221003150453
 # java decompiler JD-GUI analyze
 20221003150453 20221003150451 zet/20221003150451/README.md 7
 # java decompiler JD-GUI analyze jar file
-20221003150453 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150453 20221012153843 zet/20221012153843/README.md 14
 # confluent.io
 20221003150453 20221014190045 zet/20221014190045/README.md 4
@@ -1089,8 +917,6 @@ next id 20221003150453
 
 next id 20221003150454
 # java decompiler JD-GUI
-20221003150454 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150454 20221012153843 zet/20221012153843/README.md 14
 # confluent.io
 20221003150454 20221012154059 zet/20221012154059/README.md 8
@@ -1104,8 +930,6 @@ next id 20221003150469
 # powershell tricks browse and edit registry read registry values
 20221003150469 20221003150468 zet/20221003150468/README.md 5
 # powershell tricks browse and edit registry set registry values
-20221003150469 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150469 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150469 20221013222124 zet/20221013222124/README.md 4
@@ -1123,8 +947,6 @@ next id 20221003150475
 # powershell tricks run powershell commands as another user with RunasCs
 20221003150475 20221003150474 zet/20221003150474/README.md 9
 # powershell tricks run powershell commands as another user with SecureString credential
-20221003150475 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150475 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150475 20221013222124 zet/20221013222124/README.md 4
@@ -1150,8 +972,6 @@ next id 20221003150476
 # active directory get GMSA service account properties
 20221003150476 20221003150487 zet/20221003150487/README.md 4
 # active directory get user account
-20221003150476 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150476 20221006214729 zet/20221006214729/README.md 5
 # alh4zr3d
 20221003150476 20221009005402 zet/20221009005402/README.md 4
@@ -1167,8 +987,6 @@ next id 20221003150483
 # active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip
 20221003150483 20221003150484 zet/20221003150484/README.md 7
 # active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob
-20221003150483 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150483 20221007062330 zet/20221007062330/README.md 4
 # broken stuff to fix
 20221003150483 20221008042814 zet/20221008042814/README.md 2
@@ -1196,8 +1014,6 @@ next id 20221003150488
 # send email over SMTP from command line with swaks
 20221003150488 20221003151241 zet/20221003151241/README.md 5
 # ping whole subnet of IPs in a loop to fingerprint OS versions
-20221003150488 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150488 20221006214729 zet/20221006214729/README.md 5
 # alh4zr3d
 20221003150488 20221007220451 zet/20221007220451/README.md 7
@@ -1219,8 +1035,6 @@ next id 20221003150490
 # html template upload file
 20221003150490 20221003150489 zet/20221003150489/README.md 13
 # html template upload file http form POST
-20221003150490 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150490 20221008221822 zet/20221008221822/README.md 3
 # www - the web
 20221003150490 20221014190036 zet/20221014190036/README.md 4
@@ -1230,8 +1044,6 @@ next id 20221003150490
 
 next id 20221003150491
 # html template
-20221003150491 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150491 20221008221822 zet/20221008221822/README.md 3
 # www - the web
 20221003150491 20221014190036 zet/20221014190036/README.md 4
@@ -1253,8 +1065,6 @@ next id 20221003150503
 # pwntools sigreturn
 20221003150503 20221003150523 zet/20221003150523/README.md 3
 # heap exploit resources
-20221003150503 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150503 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150503 20221014190022 zet/20221014190022/README.md 4
@@ -1266,8 +1076,6 @@ next id 20221003150507
 # python pwn tricks convert little endian bytes to floating point
 20221003150507 20221003150506 zet/20221003150506/README.md 4
 # python pwn tricks convert little endian bytes to int
-20221003150507 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150507 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150507 20221013222124 zet/20221013222124/README.md 4
@@ -1281,8 +1089,6 @@ next id 20221003150508
 # python pwn tricks convert
 20221003150508 20221003150504 zet/20221003150504/README.md 4
 # python pwn tricks convert hex to int
-20221003150508 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150508 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150508 20221013222124 zet/20221013222124/README.md 4
@@ -1302,8 +1108,6 @@ next id 20221003150509
 # heap exploit resources
 20221003150509 20221003150527 zet/20221003150527/README.md 5
 # generate reverse shell shellcode payload for pwn
-20221003150509 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150509 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150509 20221013222124 zet/20221013222124/README.md 4
@@ -1319,8 +1123,6 @@ next id 20221003150511
 # pwn commands / tricks patchelf ld paths
 20221003150511 20221003150510 zet/20221003150510/README.md 4
 # pwn commands / tricks patchelf ld paths use custom ld version and library path
-20221003150511 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150511 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150511 20221013222124 zet/20221013222124/README.md 4
@@ -1338,8 +1140,6 @@ next id 20221003150512
 # pwntools sigreturn
 20221003150512 20221003150523 zet/20221003150523/README.md 3
 # heap exploit resources
-20221003150512 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150512 20221013222124 zet/20221013222124/README.md 4
 # concept hub for tricks and tips
 20221003150512 20221014142356 zet/20221014142356/README.md 4
@@ -1357,8 +1157,6 @@ next id 20221003150517
 # binary analysis golang
 20221003150517 20221003151213 zet/20221003151213/README.md 7
 # got leaked files to try list
-20221003150517 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150517 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150517 20221014190016 zet/20221014190016/README.md 4
@@ -1370,8 +1168,6 @@ next id 20221003150522
 # calling conventions x64 windows C style
 20221003150522 20221003150521 zet/20221003150521/README.md 4
 # calling conventions x64 linux C style
-20221003150522 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150522 20221014190013 zet/20221014190013/README.md 4
 # kb file named kb/hacking/pwn/calling-conventions.md
 
@@ -1379,8 +1175,6 @@ next id 20221003150525
 # make executable binary with input shellcode
 20221003150525 20221003150524 zet/20221003150524/README.md 4
 # make executable binary with input shellcode msfvenom
-20221003150525 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150525 20221014190010 zet/20221014190010/README.md 4
 # kb file named kb/hacking/pwn/shellcode-to-executable.md
 
@@ -1388,8 +1182,6 @@ next id 20221003150529
 # gdb commands
 20221003150529 20221003150528 zet/20221003150528/README.md 4
 # gdb commands debug step into / follow child process
-20221003150529 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150529 20221008081231 zet/20221008081231/README.md 4
 # debugging
 20221003150529 20221014190005 zet/20221014190005/README.md 4
@@ -1401,8 +1193,6 @@ next id 20221003150535
 # immunity debugger mona commands search for opcode string jmp esp inside module
 20221003150535 20221003150534 zet/20221003150534/README.md 4
 # immunity debugger mona commands search for opcode string jmp esp in exe
-20221003150535 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150535 20221014190002 zet/20221014190002/README.md 4
 # kb file named kb/hacking/pwn/basic-win-pwn.md
 
@@ -1410,8 +1200,6 @@ next id 20221003150537
 # immunity debugger mona commands
 20221003150537 20221003150536 zet/20221003150536/README.md 4
 # immunity debugger mona commands list loaded modules and security flags
-20221003150537 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150537 20221007220451 zet/20221007220451/README.md 7
 # hacking notes hub
 20221003150537 20221008081231 zet/20221008081231/README.md 4
@@ -1423,8 +1211,6 @@ next id 20221003150539
 # simple binary exploits payload generation
 20221003150539 20221003150538 zet/20221003150538/README.md 2
 # simple binary exploits payload generation changing architecture
-20221003150539 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150539 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150539 20221014190002 zet/20221014190002/README.md 4
@@ -1438,8 +1224,6 @@ next id 20221003150543
 # simple binary exploits python exploit scripts all bad characters
 20221003150543 20221003150542 zet/20221003150542/README.md 4
 # simple binary exploits python exploit scripts import pwntools
-20221003150543 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150543 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150543 20221014190002 zet/20221014190002/README.md 4
@@ -1449,8 +1233,6 @@ next id 20221003150545
 # simple binary exploits pattern offset finding
 20221003150545 20221003150544 zet/20221003150544/README.md 6
 # simple binary exploits pattern offset finding create pattern with length with pattern create
-20221003150545 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150545 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150545 20221014190002 zet/20221014190002/README.md 4
@@ -1460,8 +1242,6 @@ next id 20221003150548
 # simple binary exploits
 20221003150548 20221003150547 zet/20221003150547/README.md 6
 # simple binary exploits jmp esp instruction FF E4
-20221003150548 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150548 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150548 20221013175128 zet/20221013175128/README.md 4
@@ -1475,8 +1255,6 @@ next id 20221003150553
 # PhpmyAdmin write shell Windows
 20221003150553 20221003150559 zet/20221003150559/README.md 4
 # Kali Default PHP CMD Shell
-20221003150553 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150553 20221014190001 zet/20221014190001/README.md 4
 # kb file named kb/hacking/common-commands.md
 
@@ -1484,8 +1262,6 @@ next id 20221003150573
 # php type juggling string and number exponent type confusion
 20221003150573 20221003150572 zet/20221003150572/README.md 11
 # php type juggling string and number exponent type confusion vulnerable hash prefix `0e` md5 sha1
-20221003150573 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150573 20221014185958 zet/20221014185958/README.md 4
 # kb file named kb/hacking/php/type-juggling.md
 
@@ -1493,15 +1269,11 @@ next id 20221003150575
 # php type juggling methodology
 20221003150575 20221003150574 zet/20221003150574/README.md 4
 # php type juggling methodology http post data
-20221003150575 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150575 20221014185958 zet/20221014185958/README.md 4
 # kb file named kb/hacking/php/type-juggling.md
 
 next id 20221003150576
 # php type juggling
-20221003150576 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150576 20221008042814 zet/20221008042814/README.md 2
 # WIP
 20221003150576 20221009005402 zet/20221009005402/README.md 4
@@ -1515,8 +1287,6 @@ next id 20221003150584
 # php code convert human readable time to unix epoch timestamp apache HTTP Date header
 20221003150584 20221003150590 zet/20221003150590/README.md 6
 # php code examples
-20221003150584 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150584 20221014185953 zet/20221014185953/README.md 4
 # kb file named kb/hacking/php/PHP-quick-command-reference.md
 
@@ -1534,8 +1304,6 @@ next id 20221003150592
 # php code examples
 20221003150592 20221003150591 zet/20221003150591/README.md 4
 # php run as interactive shell
-20221003150592 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150592 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150592 20221014185953 zet/20221014185953/README.md 4
@@ -1545,8 +1313,6 @@ next id 20221003150594
 # generating enumeration wordlists
 20221003150594 20221003150593 zet/20221003150593/README.md 4
 # generating enumeration wordlists exfiltrated passwd usernames to ssh key id_rsa fuzz list
-20221003150594 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150594 20221014185952 zet/20221014185952/README.md 4
 # kb file named kb/hacking/commands/enumeration-util.md
 
@@ -1556,8 +1322,6 @@ next id 20221003150614
 # smbclient shell recursive get all files
 20221003150614 20221003150613 zet/20221003150613/README.md 5
 # smbclient shell recursive list directory
-20221003150614 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150614 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150614 20221014185947 zet/20221014185947/README.md 4
@@ -1565,8 +1329,6 @@ next id 20221003150614
 
 next id 20221003150620
 # PureFTP Get Service Ready
-20221003150620 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150620 20221014185946 zet/20221014185946/README.md 4
 # kb file named kb/hacking/commands/pureftp-commands.md
 
@@ -1588,8 +1350,6 @@ next id 20221003150623
 # PureFTP Install
 20221003150623 20221003151179 zet/20221003151179/README.md 8
 # FTP to try list
-20221003150623 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150623 20221008212802 zet/20221008212802/README.md 2
 # software program
 20221003150623 20221014185946 zet/20221014185946/README.md 4
@@ -1599,8 +1359,6 @@ next id 20221003150625
 # LDAP enumeration authenticated
 20221003150625 20221003150624 zet/20221003150624/README.md 5
 # LDAP enumeration authenticated ldapdomaindump tool
-20221003150625 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150625 20221014185944 zet/20221014185944/README.md 4
 # kb file named kb/hacking/commands/ldap.md
 
@@ -1610,8 +1368,6 @@ next id 20221003150629
 # LDAP enumeration anonymous python
 20221003150629 20221003150628 zet/20221003150628/README.md 6
 # LDAP enumeration anonymous nmap scripts
-20221003150629 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150629 20221013173355 zet/20221013173355/README.md 4
 # enumeration - the process of enumerating a target
 20221003150629 20221014185944 zet/20221014185944/README.md 4
@@ -1621,8 +1377,6 @@ next id 20221003150630
 # LDAP enumeration
 20221003150630 20221003150358 zet/20221003150358/README.md 2
 # jxplorer connect to LDAP GUI access
-20221003150630 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150630 20221013173355 zet/20221013173355/README.md 4
 # enumeration - the process of enumerating a target
 20221003150630 20221014185944 zet/20221014185944/README.md 4
@@ -1632,8 +1386,6 @@ next id 20221003150634
 # smbmap default enumeration
 20221003150634 20221003150633 zet/20221003150633/README.md 4
 # smbmap default enumeration as guest
-20221003150634 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150634 20221013173355 zet/20221013173355/README.md 4
 # enumeration - the process of enumerating a target
 20221003150634 20221014185940 zet/20221014185940/README.md 4
@@ -1641,8 +1393,6 @@ next id 20221003150634
 
 next id 20221003150635
 # smbmap
-20221003150635 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150635 20221014185940 zet/20221014185940/README.md 4
 # kb file named kb/hacking/commands/smbmap.md
 
@@ -1650,8 +1400,6 @@ next id 20221003150638
 # nmap check for mountable NFS shares
 20221003150638 20221003150637 zet/20221003150637/README.md 4
 # nmap check for mountable NFS shares test access
-20221003150638 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150638 20221014185938 zet/20221014185938/README.md 4
 # kb file named kb/hacking/commands/nmap-command.md
 
@@ -1659,8 +1407,6 @@ next id 20221003150646
 # nmap flags extra fast options
 20221003150646 20221003150647 zet/20221003150647/README.md 8
 # nmap flags
-20221003150646 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150646 20221014185938 zet/20221014185938/README.md 4
 # kb file named kb/hacking/commands/nmap-command.md
 
@@ -1686,8 +1432,6 @@ next id 20221003150648
 # nmap scripts search by type
 20221003150648 20221003151258 zet/20221003151258/README.md 9
 # scan for ports to connect back on through firewall
-20221003150648 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150648 20221014185938 zet/20221014185938/README.md 4
 # kb file named kb/hacking/commands/nmap-command.md
 20221003150648 20221017180938 zet/20221017180938/README.md 4
@@ -1697,15 +1441,11 @@ next id 20221003150650
 # kubernetes kubectl
 20221003150650 20221003150649 zet/20221003150649/README.md 4
 # kubernetes kubectl enumerate permissions
-20221003150650 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150650 20221014185936 zet/20221014185936/README.md 4
 # kb file named kb/hacking/commands/kubernetes.md
 
 next id 20221003150651
 # kubernetes
-20221003150651 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150651 20221006033248 zet/20221006033248/README.md 8
 # rwxrob
 20221003150651 20221010142810 zet/20221010142810/README.md 180
@@ -1733,8 +1473,6 @@ next id 20221003150659
 # wfuzz fuzzing details
 20221003150659 20221003151237 zet/20221003151237/README.md 4
 # wfuzz identify files containing version info like README and changelog
-20221003150659 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150659 20221008212802 zet/20221008212802/README.md 2
 # software program
 20221003150659 20221014185935 zet/20221014185935/README.md 4
@@ -1758,8 +1496,6 @@ next id 20221003150662
 # EVERYTHING - common to try list
 20221003150662 20221003151300 zet/20221003151300/README.md 4
 # drop newlines from stream with tr
-20221003150662 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150662 20221007181438 zet/20221007181438/README.md 12
 # directories and bash scripts as commands
 20221003150662 20221008050923 zet/20221008050923/README.md 16
@@ -1779,8 +1515,6 @@ next id 20221003150671
 # crackmapexec cme commands test password username arguments or files
 20221003150671 20221003150673 zet/20221003150673/README.md 11
 # crackmapexec cme commands
-20221003150671 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150671 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150671 20221014185929 zet/20221014185929/README.md 4
@@ -1794,8 +1528,6 @@ next id 20221003150683
 # nikto command
 20221003150683 20221003151241 zet/20221003151241/README.md 5
 # ping whole subnet of IPs in a loop to fingerprint OS versions
-20221003150683 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150683 20221007220451 zet/20221007220451/README.md 7
 # hacking notes hub
 20221003150683 20221009001740 zet/20221009001740/README.md 3
@@ -1807,29 +1539,21 @@ next id 20221003150683
 
 next id 20221003150689
 # wpscan initial database exports
-20221003150689 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150689 20221014185921 zet/20221014185921/README.md 4
 # kb file named kb/hacking/commands/wpscan-command.md
 
 next id 20221003150690
 # wpscan initial config backups
-20221003150690 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150690 20221014185921 zet/20221014185921/README.md 4
 # kb file named kb/hacking/commands/wpscan-command.md
 
 next id 20221003150691
 # wpscan initial vulnerable themes
-20221003150691 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150691 20221014185921 zet/20221014185921/README.md 4
 # kb file named kb/hacking/commands/wpscan-command.md
 
 next id 20221003150692
 # wpscan initial all plugins passive scan
-20221003150692 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150692 20221014185921 zet/20221014185921/README.md 4
 # kb file named kb/hacking/commands/wpscan-command.md
 
@@ -1841,8 +1565,6 @@ next id 20221003150693
 # wpscan initial enumerate user id range
 20221003150693 20221003151188 zet/20221003151188/README.md 9
 # HTTP found CMS
-20221003150693 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150693 20221014185921 zet/20221014185921/README.md 4
 # kb file named kb/hacking/commands/wpscan-command.md
 
@@ -1850,8 +1572,6 @@ next id 20221003150694
 # wpscan
 20221003150694 20221003150686 zet/20221003150686/README.md 5
 # wpscan brute force users file and password list
-20221003150694 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150694 20221008213825 zet/20221008213825/README.md 15
 # hacker concept of CMS - slang lingo for web app / service
 20221003150694 20221013035124 zet/20221013035124/README.md 4
@@ -1887,8 +1607,6 @@ next id 20221003150709
 # HTTP API and POST endpoints
 20221003150709 20221003151192 zet/20221003151192/README.md 48
 # HTTP to try list
-20221003150709 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150709 20221009014200 zet/20221009014200/README.md 2
 # concept of a command
 20221003150709 20221014185918 zet/20221014185918/README.md 4
@@ -1902,8 +1620,6 @@ next id 20221003150714
 # packet capture with tcpdump watch traffic print packet data contents
 20221003150714 20221003150713 zet/20221003150713/README.md 4
 # packet capture with tcpdump watch traffic print IP and port
-20221003150714 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150714 20221014185917 zet/20221014185917/README.md 4
 # kb file named kb/hacking/commands/packet-capture.md
 
@@ -1917,8 +1633,6 @@ next id 20221003150716
 # packet capture with tcpdump log data to pcap file
 20221003150716 20221003150717 zet/20221003150717/README.md 5
 # packet capture
-20221003150716 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150716 20221014185917 zet/20221014185917/README.md 4
 # kb file named kb/hacking/commands/packet-capture.md
 20221003150716 20221017172946 zet/20221017172946/README.md 4
@@ -1930,8 +1644,6 @@ next id 20221003150720
 # curl upload a file
 20221003150720 20221003150719 zet/20221003150719/README.md 7
 # curl scan ports for websites through http proxy
-20221003150720 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150720 20221009014200 zet/20221009014200/README.md 2
 # concept of a command
 20221003150720 20221014185915 zet/20221014185915/README.md 4
@@ -1953,8 +1665,6 @@ next id 20221003150730
 # powershell base64 encode equivalent within ps
 20221003150730 20221003150729 zet/20221003150729/README.md 8
 # powershell encode commands as base64 with windows wide char strings in linux
-20221003150730 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150730 20221006214729 zet/20221006214729/README.md 5
 # alh4zr3d
 20221003150730 20221009005402 zet/20221009005402/README.md 4
@@ -1968,8 +1678,6 @@ next id 20221003150750
 # kerberos attack on windows host
 20221003150750 20221003150749 zet/20221003150749/README.md 6
 # crackmapexec kerberos authentication with ticket include ticket environment variable
-20221003150750 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150750 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150750 20221014185905 zet/20221014185905/README.md 5
@@ -1981,8 +1689,6 @@ next id 20221003150755
 # keytool
 20221003150755 20221003150754 zet/20221003150754/README.md 4
 # keytool print certificate in RSA file
-20221003150755 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150755 20221014185903 zet/20221014185903/README.md 4
 # kb file named kb/hacking/commands/keytool.md
 
@@ -1990,8 +1696,6 @@ next id 20221003150757
 # MSFVENOM tricks
 20221003150757 20221003150756 zet/20221003150756/README.md 4
 # MSFVENOM tricks make executable binary with input shellcode
-20221003150757 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150757 20221013222124 zet/20221013222124/README.md 4
 # concept hub for tricks and tips
 20221003150757 20221014142356 zet/20221014142356/README.md 4
@@ -2009,15 +1713,11 @@ next id 20221003150765
 # MSFVENOM Linux Binary (.elf) 32 Bit (x86) Bind Shell
 20221003150765 20221003150764 zet/20221003150764/README.md 4
 # MSFVENOM Linux Binary (.elf) 32 Bit (x86) Reverse Shell
-20221003150765 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150765 20221014185901 zet/20221014185901/README.md 4
 # kb file named kb/hacking/commands/msfvenom-commands.md
 
 next id 20221003150766
 # MSFVENOM Linux Binary (.elf)
-20221003150766 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150766 20221007220451 zet/20221007220451/README.md 7
 # hacking notes hub
 20221003150766 20221009005402 zet/20221009005402/README.md 4
@@ -2035,8 +1735,6 @@ next id 20221003150771
 # MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) Reverse Shell
 20221003150771 20221003150770 zet/20221003150770/README.md 4
 # MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) service
-20221003150771 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150771 20221014185901 zet/20221014185901/README.md 4
 # kb file named kb/hacking/commands/msfvenom-commands.md
 
@@ -2048,15 +1746,11 @@ next id 20221003150775
 # MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Bind Shell
 20221003150775 20221003150774 zet/20221003150774/README.md 4
 # MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Reverse Shell
-20221003150775 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150775 20221014185901 zet/20221014185901/README.md 4
 # kb file named kb/hacking/commands/msfvenom-commands.md
 
 next id 20221003150776
 # MSFVENOM Windows Binary (.exe) executable
-20221003150776 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150776 20221014185901 zet/20221014185901/README.md 4
 # kb file named kb/hacking/commands/msfvenom-commands.md
 
@@ -2068,8 +1762,6 @@ next id 20221003150777
 # MSFVENOM Active Sever Pages Extended (.aspx)
 20221003150777 20221003150760 zet/20221003150760/README.md 4
 # MSFVENOM Java Server Pages (.jsp)
-20221003150777 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150777 20221013175128 zet/20221013175128/README.md 4
 # preparing exploit payloads
 20221003150777 20221014185901 zet/20221014185901/README.md 4
@@ -2081,8 +1773,6 @@ next id 20221003150780
 # crowbar
 20221003150780 20221003150779 zet/20221003150779/README.md 4
 # crowbar brute force RDP
-20221003150780 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150780 20221014185900 zet/20221014185900/README.md 4
 # kb file named kb/hacking/commands/crowbar.md
 
@@ -2110,8 +1800,6 @@ next id 20221003150791
 # openssl create certificate signing request
 20221003150791 20221003150790 zet/20221003150790/README.md 4
 # openssl create a key 4096 bits
-20221003150791 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150791 20221008042814 zet/20221008042814/README.md 2
 # WIP
 20221003150791 20221008212802 zet/20221008212802/README.md 2
@@ -2127,8 +1815,6 @@ next id 20221003150794
 # generate cewl wordlist from file plaintext with grep
 20221003150794 20221003150793 zet/20221003150793/README.md 8
 # generate cewl wordlist from file using temporary http server
-20221003150794 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150794 20221014185855 zet/20221014185855/README.md 4
 # kb file named kb/hacking/commands/generate-cewl-wordlist.md
 
@@ -2136,8 +1822,6 @@ next id 20221003150796
 # generate cewl wordlist
 20221003150796 20221003150795 zet/20221003150795/README.md 6
 # generate cewl wordlist from website
-20221003150796 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150796 20221014185855 zet/20221014185855/README.md 4
 # kb file named kb/hacking/commands/generate-cewl-wordlist.md
 
@@ -2155,8 +1839,6 @@ next id 20221003150801
 # openssl commands decrypt file
 20221003150801 20221003150800 zet/20221003150800/README.md 4
 # openssl commands encrypt file
-20221003150801 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150801 20221014185852 zet/20221014185852/README.md 4
 # kb file named kb/hacking/commands/openssl-commands.md
 
@@ -2170,8 +1852,6 @@ next id 20221003150807
 # brute force default credentials ssh
 20221003150807 20221003150806 zet/20221003150806/README.md 4
 # brute force default credentials mysql
-20221003150807 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150807 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150807 20221014185851 zet/20221014185851/README.md 4
@@ -2181,8 +1861,6 @@ next id 20221003150807
 
 next id 20221003150815
 # meterpreter msf move from x86 to x64
-20221003150815 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150815 20221014185848 zet/20221014185848/README.md 4
 # kb file named kb/hacking/commands/metasploit.md
 
@@ -2190,8 +1868,6 @@ next id 20221003150816
 # meterpreter msf
 20221003150816 20221003150814 zet/20221003150814/README.md 6
 # meterpreter msf migrate
-20221003150816 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150816 20221014185848 zet/20221014185848/README.md 4
 # kb file named kb/hacking/commands/metasploit.md
 20221003150816 20221017180938 zet/20221017180938/README.md 4
@@ -2205,8 +1881,6 @@ next id 20221003150819
 # metasploit msf run as script from rc file
 20221003150819 20221003151149 zet/20221003151149/README.md 3
 # windows XP and windows server 2003 arbitrary file write -> remote code execution metasploit
-20221003150819 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150819 20221014185848 zet/20221014185848/README.md 4
 # kb file named kb/hacking/commands/metasploit.md
 20221003150819 20221017180938 zet/20221017180938/README.md 4
@@ -2222,8 +1896,6 @@ next id 20221003150822
 # hydra bruteforce ftp default creds
 20221003150822 20221003151179 zet/20221003151179/README.md 8
 # FTP to try list
-20221003150822 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150822 20221007220451 zet/20221007220451/README.md 7
 # hacking notes hub
 20221003150822 20221009005402 zet/20221009005402/README.md 4
@@ -2243,8 +1915,6 @@ next id 20221003150829
 # postgres sql enumeration
 20221003150829 20221003151204 zet/20221003151204/README.md 24
 # got access to databases - general SQL
-20221003150829 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150829 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150829 20221012153512 zet/20221012153512/README.md 5
@@ -2258,8 +1928,6 @@ next id 20221003150833
 # responder
 20221003150833 20221003150832 zet/20221003150832/README.md 7
 # responder add ssl certificate
-20221003150833 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150833 20221014185840 zet/20221014185840/README.md 4
 # kb file named kb/hacking/commands/responder.md
 20221003150833 20221017172946 zet/20221017172946/README.md 4
@@ -2269,8 +1937,6 @@ next id 20221003150851
 # dns commands update / change / delete DNS records for subdomain with nsupdate
 20221003150851 20221003150850 zet/20221003150850/README.md 10
 # dns commands update / change / delete DNS records for subdomain with nsupdate 86400 seconds = one day
-20221003150851 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150851 20221014185831 zet/20221014185831/README.md 4
 # kb file named kb/hacking/commands/dns-commands.md
 
@@ -2286,8 +1952,6 @@ next id 20221003150855
 # DNS to try list
 20221003150855 20221003151238 zet/20221003151238/README.md 3
 # firefox url bar get tld working for ctf boxes
-20221003150855 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150855 20221014185831 zet/20221014185831/README.md 4
 # kb file named kb/hacking/commands/dns-commands.md
 
@@ -2295,8 +1959,6 @@ next id 20221003150857
 # ssh-keygen
 20221003150857 20221003150856 zet/20221003150856/README.md 4
 # ssh-keygen generate key to file no password prompt
-20221003150857 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150857 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150857 20221014185829 zet/20221014185829/README.md 4
@@ -2310,8 +1972,6 @@ next id 20221003150859
 # SSH arguments connect to old server
 20221003150859 20221003151174 zet/20221003151174/README.md 14
 # SSH to try list
-20221003150859 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150859 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150859 20221014185829 zet/20221014185829/README.md 4
@@ -2333,8 +1993,6 @@ next id 20221003150862
 # SSH arguments troubleshoot diagnose connection problems
 20221003150862 20221003151174 zet/20221003151174/README.md 14
 # SSH to try list
-20221003150862 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150862 20221009014200 zet/20221009014200/README.md 2
 # concept of a command
 20221003150862 20221013222124 zet/20221013222124/README.md 4
@@ -2352,8 +2010,6 @@ next id 20221003150865
 # apache 2fa default key
 20221003150865 20221003150864 zet/20221003150864/README.md 6
 # two-factor authentication 2fa generate one time pins OTP google authenticator
-20221003150865 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150865 20221014185826 zet/20221014185826/README.md 4
 # kb file named kb/hacking/commands/two-factor.md
 
@@ -2361,8 +2017,6 @@ next id 20221003150866
 # two-factor authentication 2fa
 20221003150866 20221003150291 zet/20221003150291/README.md 3
 # apache 2fa default key
-20221003150866 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150866 20221014185826 zet/20221014185826/README.md 4
 # kb file named kb/hacking/commands/two-factor.md
 
@@ -2372,8 +2026,6 @@ next id 20221003150873
 # Netcat Sending file
 20221003150873 20221003150872 zet/20221003150872/README.md 4
 # host quick server smtp receive email server
-20221003150873 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150873 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150873 20221014185823 zet/20221014185823/README.md 4
@@ -2383,8 +2035,6 @@ next id 20221003150876
 # sudo sudoers file
 20221003150876 20221003150875 zet/20221003150875/README.md 4
 # sudo sudoers file all nopassword
-20221003150876 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150876 20221014185820 zet/20221014185820/README.md 4
 # kb file named kb/hacking/priv-esc/sudoers.md
 
@@ -2392,8 +2042,6 @@ next id 20221003150884
 # privilege escalation relative path abuse
 20221003150884 20221003150883 zet/20221003150883/README.md 3
 # privilege escalation relative path abuse using echo
-20221003150884 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150884 20221007220451 zet/20221007220451/README.md 7
 # hacking notes hub
 20221003150884 20221008213254 zet/20221008213254/README.md 4
@@ -2417,8 +2065,6 @@ next id 20221003150890
 # Test CVE-2021-4034 in a docker Links to deb files
 20221003150890 20221003150889 zet/20221003150889/README.md 2
 # Test CVE-2021-4034 in a docker Original exploit
-20221003150890 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150890 20221009015558 zet/20221009015558/README.md 2
 # docker
 20221003150890 20221010142810 zet/20221010142810/README.md 180
@@ -2440,8 +2086,6 @@ next id 20221003150901
 # linux enumeration quick commands capabilities get capabilities of all files recursively
 20221003150901 20221003150920 zet/20221003150920/README.md 7
 # linux enumeration quick commands
-20221003150901 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150901 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150901 20221014185808 zet/20221014185808/README.md 4
@@ -2455,8 +2099,6 @@ next id 20221003150907
 # linux enumeration quick commands transfer / download files with just bash receive
 20221003150907 20221003150920 zet/20221003150920/README.md 7
 # linux enumeration quick commands
-20221003150907 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150907 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150907 20221014185808 zet/20221014185808/README.md 4
@@ -2470,8 +2112,6 @@ next id 20221003150942
 # python imports files vs loading as libraries
 20221003150942 20221003151339 zet/20221003151339/README.md 4
 # enumerate all python imports; chain 2 awk scripts with a filter
-20221003150942 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150942 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150942 20221014185754 zet/20221014185754/README.md 4
@@ -2499,8 +2139,6 @@ next id 20221003150946
 # enumerate all python imports; chain 2 awk scripts with a filter
 20221003150946 20221003151408 zet/20221003151408/README.md 65
 # parse burpsuite saved request file and convert to python requests script for copying
-20221003150946 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150946 20221007023939 zet/20221007023939/README.md 8
 # python ternary operator
 20221003150946 20221007043259 zet/20221007043259/README.md 90
@@ -2532,8 +2170,6 @@ next id 20221003150949
 # python fix SSL errors
 20221003150949 20221003150948 zet/20221003150948/README.md 2
 # python fix SSL errors using requests library
-20221003150949 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150949 20221007062330 zet/20221007062330/README.md 4
 # broken stuff to fix
 20221003150949 20221013222124 zet/20221013222124/README.md 4
@@ -2551,8 +2187,6 @@ next id 20221003150953
 # OSINT organizations github OSINT
 20221003150953 20221003150966 zet/20221003150966/README.md 2
 # OSINT
-20221003150953 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150953 20221014185750 zet/20221014185750/README.md 4
 # kb file named kb/hacking/methodology/osint-overview.md
 
@@ -2572,8 +2206,6 @@ next id 20221003150983
 # got access to databases - general SQL
 20221003150983 20221003151233 zet/20221003151233/README.md 10
 # mysql mariadb write UDF shell or any binary file with file permissions
-20221003150983 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150983 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150983 20221012153512 zet/20221012153512/README.md 5
@@ -2587,8 +2219,6 @@ next id 20221003150985
 # mariadb mysql files write
 20221003150985 20221003151204 zet/20221003151204/README.md 24
 # got access to databases - general SQL
-20221003150985 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150985 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150985 20221012153512 zet/20221012153512/README.md 5
@@ -2610,8 +2240,6 @@ next id 20221003150987
 # got access to databases - general SQL
 20221003150987 20221003151233 zet/20221003151233/README.md 10
 # mysql mariadb write UDF shell or any binary file with file permissions
-20221003150987 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003150987 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003150987 20221012153512 zet/20221012153512/README.md 5
@@ -2633,8 +2261,6 @@ next id 20221003151004
 # API enumeration good wordlists seclists for endpoints
 20221003151004 20221003151006 zet/20221003151006/README.md 4
 # API enumeration
-20221003151004 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151004 20221013173355 zet/20221013173355/README.md 4
 # enumeration - the process of enumerating a target
 20221003151004 20221014185733 zet/20221014185733/README.md 4
@@ -2646,8 +2272,6 @@ next id 20221003151008
 # LFI or directory traversal procedures file wordlists linux
 20221003151008 20221003151014 zet/20221003151014/README.md 12
 # LFI or directory traversal procedures
-20221003151008 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151008 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003151008 20221014185732 zet/20221014185732/README.md 4
@@ -2659,8 +2283,6 @@ next id 20221003151010
 # LFI or directory traversal procedures read scripts from web server process cwd downloading with curl  prevent normalization of paths
 20221003151010 20221003151012 zet/20221003151012/README.md 2
 # LFI or directory traversal procedures read scripts from web server process cwd
-20221003151010 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151010 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003151010 20221014185732 zet/20221014185732/README.md 4
@@ -2670,8 +2292,6 @@ next id 20221003151028
 # decrypt azure AD connect passwords
 20221003151028 20221003151027 zet/20221003151027/README.md 30
 # decrypt azure AD connect passwords powershell MSSQL queries
-20221003151028 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151028 20221014185721 zet/20221014185721/README.md 4
 # kb file named kb/hacking/windows/decrypt-azure-ad-connect.md
 
@@ -2679,15 +2299,11 @@ next id 20221003151034
 # applocker limit allowed executables and allowed paths
 20221003151034 20221003151033 zet/20221003151033/README.md 2
 # applocker limit allowed executables and allowed paths bypass executable blocking
-20221003151034 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151034 20221014185718 zet/20221014185718/README.md 4
 # kb file named kb/hacking/windows/windows-information.md
 
 next id 20221003151037
 # program files ruxim directory
-20221003151037 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 
 next id 20221003151039
 # dumping credentials as admin
@@ -2697,8 +2313,6 @@ next id 20221003151039
 # dumping credentials as admin in remote desktop RDP or GUI
 20221003151039 20221003151175 zet/20221003151175/README.md 17
 # EVERYTHING - common to try list
-20221003151039 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151039 20221013185837 zet/20221013185837/README.md 5
 # HKCU registry hive ntuser.dat
 20221003151039 20221014185718 zet/20221014185718/README.md 4
@@ -2712,15 +2326,11 @@ next id 20221003151045
 # windows alternate data streams commands creating alt streams
 20221003151045 20221003151044 zet/20221003151044/README.md 4
 # windows alternate data streams commands enumerate directory for alt streams
-20221003151045 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151045 20221014185718 zet/20221014185718/README.md 4
 # kb file named kb/hacking/windows/windows-information.md
 
 next id 20221003151047
 # windows reverse shell AV bypass active directory endpoint protection
-20221003151047 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151047 20221014185718 zet/20221014185718/README.md 4
 # kb file named kb/hacking/windows/windows-information.md
 
@@ -2728,8 +2338,6 @@ next id 20221003151048
 # windows reverse shell AV bypass
 20221003151048 20221003151046 zet/20221003151046/README.md 3
 # windows reverse shell AV bypass defender
-20221003151048 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151048 20221014185718 zet/20221014185718/README.md 4
 # kb file named kb/hacking/windows/windows-information.md
 
@@ -2737,27 +2345,19 @@ next id 20221003151050
 # change user password
 20221003151050 20221003151049 zet/20221003151049/README.md 5
 # change user password powershell or dos
-20221003151050 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151050 20221014185718 zet/20221014185718/README.md 4
 # kb file named kb/hacking/windows/windows-information.md
 
 next id 20221003151052
 # check network time offset with network time protocol NTP server on windows AD kerberos
-20221003151052 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 
 next id 20221003151057
 # get windows enumeration info from file read
-20221003151057 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 
 next id 20221003151066
 # AMSI detect windows defender
 20221003151066 20221003151065 zet/20221003151065/README.md 4
 # AMSI detect windows defender with known malicious string
-20221003151066 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151066 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003151066 20221014185715 zet/20221014185715/README.md 4
@@ -2765,8 +2365,6 @@ next id 20221003151066
 
 next id 20221003151067
 # AMSI
-20221003151067 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151067 20221014185715 zet/20221014185715/README.md 4
 # kb file named kb/hacking/windows/test-for-defender-amsi.md
 
@@ -2776,8 +2374,6 @@ next id 20221003151070
 # dump process memory with task manager as admin
 20221003151070 20221003151069 zet/20221003151069/README.md 6
 # dump process memory with sysinternals procdump
-20221003151070 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151070 20221014185713 zet/20221014185713/README.md 4
 # kb file named kb/hacking/windows/dump-process-memory.md
 
@@ -2785,8 +2381,6 @@ next id 20221003151072
 # windows color script output winpeas log
 20221003151072 20221003151071 zet/20221003151071/README.md 4
 # windows color script output winpeas log scroll with colors and convert to utf8 for linux
-20221003151072 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151072 20221007220451 zet/20221007220451/README.md 7
 # hacking notes hub
 20221003151072 20221014185712 zet/20221014185712/README.md 4
@@ -2794,8 +2388,6 @@ next id 20221003151072
 
 next id 20221003151073
 # windows color script output
-20221003151073 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151073 20221014185712 zet/20221014185712/README.md 4
 # kb file named kb/hacking/windows/enumeration-scripts-processing.md
 
@@ -2805,8 +2397,6 @@ next id 20221003151076
 # service account privileges exploiting SeManageVolumePrivilege
 20221003151076 20221003151075 zet/20221003151075/README.md 6
 # service account privileges exploiting SeImpersonatePrivilege
-20221003151076 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151076 20221007220451 zet/20221007220451/README.md 7
 # hacking notes hub
 20221003151076 20221008215655 zet/20221008215655/README.md 2
@@ -2820,8 +2410,6 @@ next id 20221003151081
 # service account privileges
 20221003151081 20221003151080 zet/20221003151080/README.md 2
 # service account privileges restore
-20221003151081 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151081 20221007220451 zet/20221007220451/README.md 7
 # hacking notes hub
 20221003151081 20221008215655 zet/20221008215655/README.md 2
@@ -2839,8 +2427,6 @@ next id 20221003151089
 # mimikatz dump passwords
 20221003151089 20221003151088 zet/20221003151088/README.md 4
 # mimikatz all in one command for non-interactive powershell
-20221003151089 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151089 20221014185704 zet/20221014185704/README.md 4
 # kb file named kb/hacking/windows/mimikatz.md
 20221003151089 20221017180938 zet/20221017180938/README.md 4
@@ -2852,8 +2438,6 @@ next id 20221003151094
 # location of services in windows registry
 20221003151094 20221003151093 zet/20221003151093/README.md 12
 # windows API enable privilege
-20221003151094 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151094 20221008213458 zet/20221008213458/README.md 4
 # operating system
 20221003151094 20221013185837 zet/20221013185837/README.md 5
@@ -2863,8 +2447,6 @@ next id 20221003151094
 
 next id 20221003151099
 # powershell commands encoded command nop bypass hidden
-20221003151099 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151099 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003151099 20221014185658 zet/20221014185658/README.md 4
@@ -2878,8 +2460,6 @@ next id 20221003151101
 # powershell commands execute encoded command as quietly as possible
 20221003151101 20221003151100 zet/20221003151100/README.md 5
 # powershell commands download and execute script
-20221003151101 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151101 20221006214729 zet/20221006214729/README.md 5
 # alh4zr3d
 20221003151101 20221008212802 zet/20221008212802/README.md 2
@@ -2893,8 +2473,6 @@ next id 20221003151108
 # dos commands net
 20221003151108 20221003151107 zet/20221003151107/README.md 2
 # dos commands net add user to domain group
-20221003151108 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151108 20221014185655 zet/20221014185655/README.md 4
 # kb file named kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 
@@ -2902,8 +2480,6 @@ next id 20221003151110
 # dos commands admin / system
 20221003151110 20221003151109 zet/20221003151109/README.md 3
 # dos commands admin / system dump registry secretsdump hashes
-20221003151110 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151110 20221007220451 zet/20221007220451/README.md 7
 # hacking notes hub
 20221003151110 20221014185655 zet/20221014185655/README.md 4
@@ -2917,8 +2493,6 @@ next id 20221003151115
 # dos commands services sc set binary path
 20221003151115 20221003151114 zet/20221003151114/README.md 3
 # dos commands services sc enable service
-20221003151115 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151115 20221007220451 zet/20221007220451/README.md 7
 # hacking notes hub
 20221003151115 20221014185655 zet/20221014185655/README.md 4
@@ -2948,8 +2522,6 @@ next id 20221003151124
 # dos commands see running service processes
 20221003151124 20221003151207 zet/20221003151207/README.md 83
 # windows privilege escalation
-20221003151124 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151124 20221013173355 zet/20221013173355/README.md 4
 # enumeration - the process of enumerating a target
 20221003151124 20221014185655 zet/20221014185655/README.md 4
@@ -2959,8 +2531,6 @@ next id 20221003151126
 # active directory  delegation unconstrained
 20221003151126 20221003151127 zet/20221003151127/README.md 4
 # active directory  delegation
-20221003151126 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151126 20221007220451 zet/20221007220451/README.md 7
 # hacking notes hub
 20221003151126 20221014185654 zet/20221014185654/README.md 4
@@ -2972,8 +2542,6 @@ next id 20221003151143
 # active directory  exploiting permissions GenericAll
 20221003151143 20221003151142 zet/20221003151142/README.md 3
 # active directory  exploiting permissions WriteDacl
-20221003151143 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151143 20221006213130 zet/20221006213130/README.md 2
 # hacking / CTF platforms
 20221003151143 20221007220451 zet/20221007220451/README.md 7
@@ -3025,8 +2593,6 @@ next id 20221003151144
 # windows privilege escalation
 20221003151144 20221003151218 zet/20221003151218/README.md 5
 # send email over SMTP from command line with swaks
-20221003151144 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151144 20221006214729 zet/20221006214729/README.md 5
 # alh4zr3d
 20221003151144 20221006215623 zet/20221006215623/README.md 47
@@ -3052,8 +2618,6 @@ next id 20221003151146
 # resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec convert kirbi to ccache
 20221003151146 20221003151148 zet/20221003151148/README.md 7
 # resource based constrained delegation S4U attack
-20221003151146 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151146 20221013222124 zet/20221013222124/README.md 4
 # concept hub for tricks and tips
 20221003151146 20221014185652 zet/20221014185652/README.md 4
@@ -3071,8 +2635,6 @@ next id 20221003151152
 # active directory domain old
 20221003151152 20221003151197 zet/20221003151197/README.md 8
 # SMB old SMB exploits
-20221003151152 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151152 20221014185651 zet/20221014185651/README.md 4
 # kb file named kb/hacking/windows/xp-server-2003.md
 
@@ -3114,8 +2676,6 @@ next id 20221003151193
 # DNS to try list
 20221003151193 20221003151408 zet/20221003151408/README.md 65
 # parse burpsuite saved request file and convert to python requests script for copying
-20221003151193 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151193 20221006215353 zet/20221006215353/README.md 8
 # InsiderPHD
 20221003151193 20221007220451 zet/20221007220451/README.md 7
@@ -3155,8 +2715,6 @@ next id 20221003151214
 # got leaked files encrypted zip files
 20221003151214 20221003151213 zet/20221003151213/README.md 7
 # got leaked files to try list
-20221003151214 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151214 20221007044552 zet/20221007044552/README.md 2
 # todo or to-try list
 20221003151214 20221008213254 zet/20221008213254/README.md 4
@@ -3178,8 +2736,6 @@ next id 20221003151236
 # mysql mariadb write UDF shell or any binary file with file permissions
 20221003151236 20221003151235 zet/20221003151235/README.md 5
 # mysql mariadb display query output as pretty printed text with column names
-20221003151236 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151236 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003151236 20221012153512 zet/20221012153512/README.md 5
@@ -3197,8 +2753,6 @@ next id 20221003151244
 # preparing malicious package payloads node npm package
 20221003151244 20221003151261 zet/20221003151261/README.md 3
 # build windows exploit on linux using mingw
-20221003151244 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151244 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003151244 20221013175128 zet/20221013175128/README.md 4
@@ -3216,8 +2770,6 @@ next id 20221003151247
 # Jenkins / Groovy (Java) Reverse Shell Windows
 20221003151247 20221003151246 zet/20221003151246/README.md 7
 # Jenkins / Groovy (Java) Reverse Shell Linux
-20221003151247 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151247 20221013222124 zet/20221013222124/README.md 4
 # concept hub for tricks and tips
 20221003151247 20221014185534 zet/20221014185534/README.md 4
@@ -3227,8 +2779,6 @@ next id 20221003151249
 # sending installs to target install programs on target as tar archive file using docker to find installed dependencies
 20221003151249 20221003151250 zet/20221003151250/README.md 4
 # sending installs to target
-20221003151249 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151249 20221013194055 zet/20221013194055/README.md 4
 # concept of installing something
 20221003151249 20221013222124 zet/20221013222124/README.md 4
@@ -3242,8 +2792,6 @@ next id 20221003151253
 # run executable binary programs within process memory windows cobalt strike BOF.NET common language runtime CLR .NET assemblies
 20221003151253 20221003151252 zet/20221003151252/README.md 2
 # run executable binary programs within process memory windows cobalt strike BOF C DLLs
-20221003151253 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151253 20221013222124 zet/20221013222124/README.md 4
 # concept hub for tricks and tips
 20221003151253 20221014185531 zet/20221014185531/README.md 4
@@ -3251,8 +2799,6 @@ next id 20221003151253
 
 next id 20221003151254
 # run executable binary programs within process memory windows
-20221003151254 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151254 20221013222124 zet/20221013222124/README.md 4
 # concept hub for tricks and tips
 20221003151254 20221014185531 zet/20221014185531/README.md 4
@@ -3262,8 +2808,6 @@ next id 20221003151256
 # run executable binary programs within process memory linux
 20221003151256 20221003151255 zet/20221003151255/README.md 3
 # run executable binary programs within process memory linux base64 piped text using dd and shellcode
-20221003151256 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151256 20221013222124 zet/20221013222124/README.md 4
 # concept hub for tricks and tips
 20221003151256 20221014185531 zet/20221014185531/README.md 4
@@ -3279,8 +2823,6 @@ next id 20221003151257
 # run executable binary programs within process memory windows cobalt strike BOF C DLLs
 20221003151257 20221003151255 zet/20221003151255/README.md 3
 # run executable binary programs within process memory linux base64 piped text using dd and shellcode
-20221003151257 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151257 20221013222124 zet/20221013222124/README.md 4
 # concept hub for tricks and tips
 20221003151257 20221014185531 zet/20221014185531/README.md 4
@@ -3294,8 +2836,6 @@ next id 20221003151267
 # fzf install
 20221003151267 20221003151266 zet/20221003151266/README.md 2
 # fzf run with preview
-20221003151267 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151267 20221007043646 zet/20221007043646/README.md 121
 # findings about implementing zettelkasten
 20221003151267 20221008210746 zet/20221008210746/README.md 11
@@ -3325,15 +2865,11 @@ next id 20221003151280
 # YAML parsing
 20221003151280 20221003151279 zet/20221003151279/README.md 24
 # YAML parsing yq
-20221003151280 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151280 20221014190226 zet/20221014190226/README.md 4
 # kb file named kb/data-engineering-pipelines/yaml-syntax.md
 
 next id 20221003151281
 # YAML
-20221003151281 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151281 20221006072230 zet/20221006072230/README.md 14
 # arrays in yaml
 20221003151281 20221007193634 zet/20221007193634/README.md 65
@@ -3349,8 +2885,6 @@ next id 20221003151286
 # postgres
 20221003151286 20221003151285 zet/20221003151285/README.md 2
 # postgres cannot find table name
-20221003151286 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151286 20221014190222 zet/20221014190222/README.md 4
 # kb file named kb/data-engineering-pipelines/postgres.md
 
@@ -3358,8 +2892,6 @@ next id 20221003151288
 # jq pipe syntax
 20221003151288 20221003151287 zet/20221003151287/README.md 5
 # jq pipe and filter objects syntax
-20221003151288 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151288 20221014190221 zet/20221014190221/README.md 4
 # kb file named kb/data-engineering-pipelines/jq-command-reference.md
 
@@ -3367,8 +2899,6 @@ next id 20221003151289
 # jq
 20221003151289 20221003151287 zet/20221003151287/README.md 5
 # jq pipe and filter objects syntax
-20221003151289 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151289 20221009014200 zet/20221009014200/README.md 2
 # concept of a command
 20221003151289 20221012153019 zet/20221012153019/README.md 5
@@ -3450,8 +2980,6 @@ next id 20221003151299
 # bash scripts
 20221003151299 20221003151431 zet/20221003151431/README.md 17
 # awk scripting check output of grep and next line using awk "grep -A 1 -R '^# ' ."
-20221003151299 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151299 20221007043646 zet/20221007043646/README.md 121
 # findings about implementing zettelkasten
 20221003151299 20221007181438 zet/20221007181438/README.md 12
@@ -3529,8 +3057,6 @@ next id 20221003151309
 # expect scripts use arguments
 20221003151309 20221003151308 zet/20221003151308/README.md 4
 # expect scripts record
-20221003151309 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151309 20221008070202 zet/20221008070202/README.md 15
 # awk bash dealing with file paths
 20221003151309 20221008081231 zet/20221008081231/README.md 4
@@ -3542,8 +3068,6 @@ next id 20221003151318
 # bash parse xml cli
 20221003151318 20221003151317 zet/20221003151317/README.md 5
 # bash parse xml cli with xpath using xpup
-20221003151318 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151318 20221014190248 zet/20221014190248/README.md 4
 # kb file named kb/bash-scripting/xml-parsing.md
 
@@ -3551,22 +3075,16 @@ next id 20221003151324
 # ASCII text-based TSV / CSV file database
 20221003151324 20221003151323 zet/20221003151323/README.md 5
 # ASCII text-based TSV / CSV file database join tables
-20221003151324 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151324 20221014190244 zet/20221014190244/README.md 4
 # kb file named kb/bash-scripting/text-database-operations.md
 
 next id 20221003151356
 # python scripting urlencode every input line
-20221003151356 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151356 20221014190229 zet/20221014190229/README.md 4
 # kb file named kb/auto-python.md
 
 next id 20221003151361
 # python scripting test exploit locally
-20221003151361 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151361 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003151361 20221014190229 zet/20221014190229/README.md 4
@@ -3574,8 +3092,6 @@ next id 20221003151361
 
 next id 20221003151362
 # python scripting pwntools template binary exploit script
-20221003151362 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151362 20221009005402 zet/20221009005402/README.md 4
 # preparing for the OSCP exam
 20221003151362 20221014190229 zet/20221014190229/README.md 4
@@ -3585,8 +3101,6 @@ next id 20221003151377
 # bash scripting find the largest N files
 20221003151377 20221003151424 zet/20221003151424/README.md 2
 # bash scripts
-20221003151377 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151377 20221014185450 zet/20221014185450/README.md 4
 # kb file named kb/auto-bash.md
 
@@ -3594,8 +3108,6 @@ next id 20221003151380
 # bash scripting run neo4j in a docker
 20221003151380 20221003151424 zet/20221003151424/README.md 2
 # bash scripts
-20221003151380 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151380 20221008054623 zet/20221008054623/README.md 7
 # neo4j
 20221003151380 20221009015558 zet/20221009015558/README.md 2
@@ -3609,8 +3121,6 @@ next id 20221003151383
 # bash scripting get all tags and start walking their commits
 20221003151383 20221003151424 zet/20221003151424/README.md 2
 # bash scripts
-20221003151383 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151383 20221010152742 zet/20221010152742/README.md 7
 # how to jump right to a recent card on github
 20221003151383 20221014185450 zet/20221014185450/README.md 4
@@ -3620,8 +3130,6 @@ next id 20221003151384
 # bash scripting clone repo into temp dir
 20221003151384 20221003151424 zet/20221003151424/README.md 2
 # bash scripts
-20221003151384 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151384 20221014185450 zet/20221014185450/README.md 4
 # kb file named kb/auto-bash.md
 
@@ -3629,8 +3137,6 @@ next id 20221003151386
 # bash scripting define bash array
 20221003151386 20221003151424 zet/20221003151424/README.md 2
 # bash scripts
-20221003151386 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151386 20221014185450 zet/20221014185450/README.md 4
 # kb file named kb/auto-bash.md
 
@@ -3638,8 +3144,6 @@ next id 20221003151394
 # bash scripting watch failed ssh login attempts as a live stream
 20221003151394 20221003151424 zet/20221003151424/README.md 2
 # bash scripts
-20221003151394 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151394 20221014185450 zet/20221014185450/README.md 4
 # kb file named kb/auto-bash.md
 
@@ -3647,8 +3151,6 @@ next id 20221003151402
 # bash scripting prepend gzip magic bytes
 20221003151402 20221003151424 zet/20221003151424/README.md 2
 # bash scripts
-20221003151402 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151402 20221014185450 zet/20221014185450/README.md 4
 # kb file named kb/auto-bash.md
 
@@ -3656,8 +3158,6 @@ next id 20221003151403
 # bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf
 20221003151403 20221003151424 zet/20221003151424/README.md 2
 # bash scripts
-20221003151403 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151403 20221010064819 zet/20221010064819/README.md 31
 # locating the origin of files by hash to determine version
 20221003151403 20221014185450 zet/20221014185450/README.md 4
@@ -3667,8 +3167,6 @@ next id 20221003151418
 # bash scripting parse args with case statement
 20221003151418 20221003151424 zet/20221003151424/README.md 2
 # bash scripts
-20221003151418 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151418 20221014185450 zet/20221014185450/README.md 4
 # kb file named kb/auto-bash.md
 
@@ -3676,8 +3174,6 @@ next id 20221003151421
 # bash scripting find all git repositories in a directory
 20221003151421 20221003151424 zet/20221003151424/README.md 2
 # bash scripts
-20221003151421 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151421 20221014185450 zet/20221014185450/README.md 4
 # kb file named kb/auto-bash.md
 
@@ -3685,8 +3181,6 @@ next id 20221003151438
 # awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
 20221003151438 20221003151441 zet/20221003151441/README.md 2
 # awk scripting
-20221003151438 20221005200242 zet/20221005200242/README.md 14
-# empty zettels to fix
 20221003151438 20221010074318 zet/20221010074318/README.md 5
 # engineer the workflow, not the product
 20221003151438 20221014185509 zet/20221014185509/README.md 4
