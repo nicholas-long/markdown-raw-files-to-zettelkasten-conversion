@@ -58,19 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150279
-# pfx extension PKCS#12 format certificate cracking
-20221003150279 20221003150277 zet/20221003150277/README.md 4
-# pfx extension PKCS#12 format certificate cracking with johntheripper
-20221003150279 20221003150278 zet/20221003150278/README.md 3
-# pfx extension PKCS#12 format certificate cracking with crackpkcs12
-20221003150279 20221003150281 zet/20221003150281/README.md 4
-# pfx extension PKCS#12 format certificate
-20221003150279 20221008215325 zet/20221008215325/README.md 4
-# password
-20221003150279 20221014190059 zet/20221014190059/README.md 4
-# kb file named kb/hacking/misc/file-type-reference.md
-
 next id 20221003150283
 # default webroots debian system
 20221003150283 20221014190057 zet/20221014190057/README.md 4
