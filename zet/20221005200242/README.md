@@ -237,8 +237,6 @@ this is a list of possibly empty zettels.
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
 - [20221003150370](/zet/20221003150370/README.md) dump credentials from browsers chromium
 - [20221003150369](/zet/20221003150369/README.md) dump credentials from browsers chromium chrome
-- [20221003150364](/zet/20221003150364/README.md) portable TCP port scanner
-- [20221003150363](/zet/20221003150363/README.md) portable TCP port scanner bash only
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
 - [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface

@@ -58,18 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150363
-# portable TCP port scanner bash only
-20221003150363 20221003150362 zet/20221003150362/README.md 6
-# portable TCP port scanner bash only spookyscan
-20221003150363 20221014190047 zet/20221014190047/README.md 4
-# kb file named kb/hacking/misc/important-repositories-tools.md
-
-next id 20221003150364
-# portable TCP port scanner
-20221003150364 20221014190047 zet/20221014190047/README.md 4
-# kb file named kb/hacking/misc/important-repositories-tools.md
-
 next id 20221003150369
 # dump credentials from browsers chromium chrome
 20221003150369 20221014190047 zet/20221014190047/README.md 4
