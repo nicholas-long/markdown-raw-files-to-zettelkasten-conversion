@@ -106,7 +106,6 @@ this is a list of possibly empty zettels.
 - [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi
 - [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection
 - [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
-- [20221003150978](/zet/20221003150978/README.md) oracle
 - [20221003150953](/zet/20221003150953/README.md) OSINT organizations
 - [20221003150949](/zet/20221003150949/README.md) python fix SSL errors
 - [20221003150946](/zet/20221003150946/README.md) python
@@ -228,9 +227,6 @@ this is a list of possibly empty zettels.
 - [20221003150386](/zet/20221003150386/README.md) krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP.
 - [20221003150383](/zet/20221003150383/README.md) threatcheck help obfuscate windows executable strings
 - [20221003150382](/zet/20221003150382/README.md) threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender)
-- [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat
-- [20221003150379](/zet/20221003150379/README.md) oracle database attacking tool odat enumerate users
-- [20221003150378](/zet/20221003150378/README.md) oracle database attacking tool odat escalate database account to DBA
 - [20221003150370](/zet/20221003150370/README.md) dump credentials from browsers chromium
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails

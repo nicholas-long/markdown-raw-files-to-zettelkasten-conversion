@@ -58,23 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150378
-# oracle database attacking tool odat escalate database account to DBA
-20221003150378 20221014190047 zet/20221014190047/README.md 4
-# kb file named kb/hacking/misc/important-repositories-tools.md
-
-next id 20221003150379
-# oracle database attacking tool odat enumerate users
-20221003150379 20221014190047 zet/20221014190047/README.md 4
-# kb file named kb/hacking/misc/important-repositories-tools.md
-
-next id 20221003150380
-# oracle database attacking tool odat
-20221003150380 20221003150377 zet/20221003150377/README.md 3
-# oracle database attacking tool odat execute system commands
-20221003150380 20221014190047 zet/20221014190047/README.md 4
-# kb file named kb/hacking/misc/important-repositories-tools.md
-
 next id 20221003150382
 # threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender)
 20221003150382 20221003150381 zet/20221003150381/README.md 3
