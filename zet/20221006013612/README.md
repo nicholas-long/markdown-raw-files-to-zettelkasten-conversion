@@ -12,6 +12,7 @@
 
 # Related
 
+- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - [20221021071146](/zet/20221021071146/README.md) delete things marked as #DEL periodically
 - [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
@@ -55,7 +56,6 @@
 - [20221012221003](/zet/20221012221003/README.md) weird related bug documents
 - [20221012213538](/zet/20221012213538/README.md) collect loose nodes and sort them out
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
-- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 
 Tags:
 

@@ -37,6 +37,7 @@ wc -l zet/20221025005842/emptycards
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221008042814](/zet/20221008042814/README.md) WIP
 
 Tags:
 
