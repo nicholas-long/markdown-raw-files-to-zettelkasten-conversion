@@ -85,3 +85,4 @@
 - [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
+- [20221025024238](/zet/20221025024238/README.md) enumerate tags
