@@ -21,6 +21,7 @@
     - `or FILENAME`          - union ( concatenate ) IDs with all IDs appearing in the file or subquery
     - `not FILENAME`         - filter out all IDs appearing in the file or subquery
     - `edges`                - get edges between all nodes in set as pairs. vertex-induced subgraph. terminal operation.
+- yaml [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
 
 - examples
 ```
@@ -45,6 +46,7 @@ ln -s zet/20221013221136/graphquery ./graphquery
 
 - [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
+- [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
 - [20221023084432](/zet/20221023084432/README.md) graph theory
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
