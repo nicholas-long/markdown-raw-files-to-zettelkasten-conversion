@@ -12,7 +12,7 @@
 
 - [20221003150076](/zet/20221003150076/README.md) tmux swap panes
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
-- [20221024082446](/zet/20221024082446/README.md) tmux join window back into pane
+- [20221024082446](/zet/20221024082446/README.md) tmux join-pane move window back into pane
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221003150074](/zet/20221003150074/README.md) tmux copy to buffer from bash pipes
 - [20221003150079](/zet/20221003150079/README.md) tmux program

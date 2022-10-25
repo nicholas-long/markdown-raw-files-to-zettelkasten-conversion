@@ -1,6 +1,7 @@
 - [20221003150064](/zet/20221003150064/README.md) neovim diff
+- [20221003150309](/zet/20221003150309/README.md) burpsuite set scope to limit request catching
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux
 - [20221020183231](/zet/20221020183231/README.md) how to get titles to show up in obsidian graph
-- [20221024082446](/zet/20221024082446/README.md) tmux join window back into pane
+- [20221024082446](/zet/20221024082446/README.md) tmux join-pane move window back into pane

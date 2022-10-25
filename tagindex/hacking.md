@@ -68,6 +68,8 @@
 - [20221003150312](/zet/20221003150312/README.md) SMB
 - [20221003150313](/zet/20221003150313/README.md) default http config locations FreeBSD
 - [20221003150314](/zet/20221003150314/README.md) default http config locations
+- [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
+- [20221003150326](/zet/20221003150326/README.md) top tier endpoint protection AV
 - [20221003150336](/zet/20221003150336/README.md) ansible exploiting playbook priv esc backdoor
 - [20221003150337](/zet/20221003150337/README.md) ansible exploiting playbook rev shell
 - [20221003150338](/zet/20221003150338/README.md) ansible exploiting playbook
@@ -833,3 +835,4 @@
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
+- [20221025221046](/zet/20221025221046/README.md) worst tier of AV

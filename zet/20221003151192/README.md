@@ -93,6 +93,8 @@
 - ~/kb/hacking/to-try-lists/HTTP.md
 - got access to database - general SQL - where?
 - [20221003150658](/zet/20221003150658/README.md) wfuzz dirbusting
+- [20221003150310](/zet/20221003150310/README.md) burpsuite
+- [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 
 Tags:
 

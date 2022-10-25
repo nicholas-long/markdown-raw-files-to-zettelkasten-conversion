@@ -9,6 +9,7 @@
 - [20221003151046](/zet/20221003151046/README.md) windows reverse shell AV bypass defender
 - ~/kb/hacking/windows/windows-information.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221025221046](/zet/20221025221046/README.md) worst tier of AV
 
 Tags:
 

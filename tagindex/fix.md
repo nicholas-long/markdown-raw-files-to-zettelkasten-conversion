@@ -1,5 +1,6 @@
 - [20221003150080](/zet/20221003150080/README.md) ctrl H does not work as a hotkey in qterminal by default 
 - [20221003150299](/zet/20221003150299/README.md) fixing golang module errors
+- [20221003150311](/zet/20221003150311/README.md) SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
 - [20221003150947](/zet/20221003150947/README.md) python fix SSL errors using requests library ignore errors
 - [20221003150948](/zet/20221003150948/README.md) python fix SSL errors using requests library
 - [20221003150949](/zet/20221003150949/README.md) python fix SSL errors

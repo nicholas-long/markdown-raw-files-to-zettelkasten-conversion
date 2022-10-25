@@ -224,6 +224,8 @@ hacking notes hub
 - [20221003151166](/zet/20221003151166/README.md) got access to docker repository
 - [20221003150242](/zet/20221003150242/README.md) identify service
 - [20221003150306](/zet/20221003150306/README.md) modify date with touch timestomping
+- [20221025221046](/zet/20221025221046/README.md) worst tier of AV
+- [20221003150326](/zet/20221003150326/README.md) top tier endpoint protection AV
 
 Tags:
 

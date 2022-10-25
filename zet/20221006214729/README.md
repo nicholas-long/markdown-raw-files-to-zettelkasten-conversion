@@ -35,6 +35,8 @@
 - [20221003151144](/zet/20221003151144/README.md) active directory 
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - [20221006214142](/zet/20221006214142/README.md) streamers
+- [20221003150326](/zet/20221003150326/README.md) top tier endpoint protection AV
+- [20221025221046](/zet/20221025221046/README.md) worst tier of AV
 
 Tags:
 

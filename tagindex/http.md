@@ -1,4 +1,6 @@
 - [20221003150104](/zet/20221003150104/README.md) python scripting http
+- [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
+- [20221003150313](/zet/20221003150313/README.md) default http config locations FreeBSD
 - [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks )
 - [20221003151181](/zet/20221003151181/README.md) HTTP compromised CMS login CMS auth code exec / becoming web user
 - [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login

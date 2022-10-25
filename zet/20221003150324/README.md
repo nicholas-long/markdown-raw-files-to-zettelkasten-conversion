@@ -4,8 +4,9 @@
 
 # Related
 
+- [20221003150326](/zet/20221003150326/README.md) top tier endpoint protection AV
 
 Tags:
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
     

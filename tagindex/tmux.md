@@ -5,4 +5,4 @@
 - [20221003150079](/zet/20221003150079/README.md) tmux program
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - [20221024080719](/zet/20221024080719/README.md) tmux default s hotkey choose tree to explore panes
-- [20221024082446](/zet/20221024082446/README.md) tmux join window back into pane
+- [20221024082446](/zet/20221024082446/README.md) tmux join-pane move window back into pane

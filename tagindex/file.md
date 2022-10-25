@@ -5,6 +5,7 @@
 - [20221003150281](/zet/20221003150281/README.md) pfx extension PKCS#12 format certificate
 - [20221003150283](/zet/20221003150283/README.md) default webroots debian system
 - [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems
+- [20221003150313](/zet/20221003150313/README.md) default http config locations FreeBSD
 - [20221003151165](/zet/20221003151165/README.md) TFTP udp 69 to try list
 - [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
 - [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path

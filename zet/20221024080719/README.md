@@ -43,7 +43,7 @@
 
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - https://youtu.be/79Y-kqAiMpw
-- [20221024082446](/zet/20221024082446/README.md) tmux join window back into pane
+- [20221024082446](/zet/20221024082446/README.md) tmux join-pane move window back into pane
 
 Tags:
 
