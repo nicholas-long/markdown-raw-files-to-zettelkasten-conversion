@@ -257,8 +257,6 @@ this is a list of possibly empty zettels.
 - [20221003150312](/zet/20221003150312/README.md) SMB
 - [20221003150310](/zet/20221003150310/README.md) burpsuite
 - [20221003150306](/zet/20221003150306/README.md) modify date with touch timestomping
-- [20221003150299](/zet/20221003150299/README.md) fixing golang module errors
-- [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
 - [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface
 - [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix

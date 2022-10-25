@@ -58,39 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150297
-# fixing golang module errors go get fails
-20221003150297 20221013222124 zet/20221013222124/README.md 4
-# concept hub for tricks and tips
-20221003150297 20221014190056 zet/20221014190056/README.md 4
-# kb file named kb/hacking/misc/assorted-information.md
-20221003150297 20221022210719 zet/20221022210719/README.md 5
-# assorted information
-
-next id 20221003150298
-# fixing golang module errors cannot install module
-20221003150298 20221003151274 zet/20221003151274/README.md 5
-# install mandown
-20221003150298 20221013194055 zet/20221013194055/README.md 4
-# concept of installing something
-20221003150298 20221014190056 zet/20221014190056/README.md 4
-# kb file named kb/hacking/misc/assorted-information.md
-20221003150298 20221022210719 zet/20221022210719/README.md 5
-# assorted information
-
-next id 20221003150299
-# fixing golang module errors
-20221003150299 20221003150296 zet/20221003150296/README.md 9
-# fixing golang module errors no required module provides package
-20221003150299 20221007062330 zet/20221007062330/README.md 4
-# broken stuff to fix
-20221003150299 20221013222124 zet/20221013222124/README.md 4
-# concept hub for tricks and tips
-20221003150299 20221014190056 zet/20221014190056/README.md 4
-# kb file named kb/hacking/misc/assorted-information.md
-20221003150299 20221022210719 zet/20221022210719/README.md 5
-# assorted information
-
 next id 20221003150306
 # modify date with touch timestomping
 20221003150306 20221003150305 zet/20221003150305/README.md 4
