@@ -58,13 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150070
-# vim edit multiple files add args while running and converting into tabs
-20221003150070 20221003150071 zet/20221003150071/README.md 3
-# vim edit multiple files
-20221003150070 20221014185504 zet/20221014185504/README.md 4
-# kb file named kb/vim/edit-multiple-files.md
-
 next id 20221003150075
 # tmux
 20221003150075 20221003150074 zet/20221003150074/README.md 4

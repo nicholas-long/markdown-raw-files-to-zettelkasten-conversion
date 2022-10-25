@@ -1,9 +1,11 @@
 # vim edit multiple files open multiple files
+
+- open files while running add args while running and convert into tabs
 ```vim
 args *.sh
 tab all
 ```
-run `:tab all` to put the files in tabs
+- run `:tab all` to put the files in tabs
 
 ` zet/20221003150069/README.md `
 
