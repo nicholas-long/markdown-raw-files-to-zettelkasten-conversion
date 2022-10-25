@@ -58,29 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150140
-# apt package
-20221003150140 20221003150138 zet/20221003150138/README.md 2
-# apt package nc ncat netcat
-20221003150140 20221003150139 zet/20221003150139/README.md 2
-# apt package column
-20221003150140 20221003150199 zet/20221003150199/README.md 4
-# dpkg list files installed with package ##apt
-20221003150140 20221003150632 zet/20221003150632/README.md 4
-# list dpkg packages installed on a certain date
-20221003150140 20221006025730 zet/20221006025730/README.md 2
-# apt repositories
-20221003150140 20221009005402 zet/20221009005402/README.md 4
-# preparing for the OSCP exam
-20221003150140 20221013171453 zet/20221013171453/README.md 4
-# important repositories and tools
-20221003150140 20221014190201 zet/20221014190201/README.md 4
-# kb file named kb/linux/utilities-packages.md
-20221003150140 20221018125400 zet/20221018125400/README.md 10
-# bundle an apt package and all its dependencies in a tar to deploy
-20221003150140 20221018174628 zet/20221018174628/README.md 4
-# tar command
-
 next id 20221003150143
 # proxmox
 20221003150143 20221003150142 zet/20221003150142/README.md 4
