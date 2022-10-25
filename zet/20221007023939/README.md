@@ -13,7 +13,7 @@ Out[2]: 'Small'
 
 # Related
 
-- [20221003150105](/zet/20221003150105/README.md) python scripting
+- [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference
 - [20221003151363](/zet/20221003151363/README.md) python scripting
 - [20221003150946](/zet/20221003150946/README.md) python
 

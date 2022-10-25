@@ -16,6 +16,7 @@
 - [20221003150117](/zet/20221003150117/README.md) OSI networking model
 - [20221014190210](/zet/20221014190210/README.md) kb file named kb/linux/routing.md
 - ~/kb/linux/routing.md
+- [20221003150119](/zet/20221003150119/README.md) routing using a linux box iptables rules forward all traffic between two interfaces
 
 Tags:
 

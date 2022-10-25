@@ -1,3 +1,4 @@
+- [20221003150121](/zet/20221003150121/README.md) routing using a linux box add router to routes on hosts windows
 - [20221003150728](/zet/20221003150728/README.md) powershell base64 encode equivalent within ps
 - [20221003150729](/zet/20221003150729/README.md) powershell encode commands as base64 with windows wide char strings in linux
 - [20221003150730](/zet/20221003150730/README.md) powershell

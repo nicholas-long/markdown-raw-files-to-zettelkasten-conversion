@@ -18,8 +18,9 @@ print(r.text)
 
 - [20221014185507](/zet/20221014185507/README.md) kb file named kb/python/coding-reference.md
 - [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag
-- [20221003150104](/zet/20221003150104/README.md) python scripting requests http
+- [20221003150104](/zet/20221003150104/README.md) python scripting http
 - ~/kb/python/coding-reference.md
+- [20221025184026](/zet/20221025184026/README.md) python requests library for http
 
 Tags:
 

@@ -37,8 +37,8 @@
 20221003150101	zet/20221003150101/README.md	python scripting requests http GET params
 20221003150102	zet/20221003150102/README.md	python scripting requests http cookies
 20221003150103	zet/20221003150103/README.md	python scripting requests http upload file
-20221003150104	zet/20221003150104/README.md	python scripting requests http
-20221003150105	zet/20221003150105/README.md	python scripting
+20221003150104	zet/20221003150104/README.md	python scripting http
+20221003150105	zet/20221003150105/README.md	python coding and scripting quick reference
 20221003150106	zet/20221003150106/README.md	ssh port forwarding dynamic ( socks )
 20221003150107	zet/20221003150107/README.md	ssh port forwarding
 20221003150108	zet/20221003150108/README.md	tunneling through chisel Target
@@ -2260,3 +2260,4 @@
 20221025025810	zet/20221025025810/README.md	useful zet scripts
 20221025045053	zet/20221025045053/README.md	yaml data convention for my zet implementation
 20221025045945	zet/20221025045945/README.md	tldr pages
+20221025184026	zet/20221025184026/README.md	python requests library for http

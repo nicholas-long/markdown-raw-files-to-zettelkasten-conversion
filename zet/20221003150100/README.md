@@ -12,7 +12,7 @@ url = f"http://{ip}/api/example"
 
 - [20221003150099](/zet/20221003150099/README.md) python scripting format string variables
 - [20221014185507](/zet/20221014185507/README.md) kb file named kb/python/coding-reference.md
-- [20221003150105](/zet/20221003150105/README.md) python scripting
+- [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference
 - ~/kb/python/coding-reference.md
 
 Tags:

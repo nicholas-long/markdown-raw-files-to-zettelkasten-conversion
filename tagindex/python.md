@@ -3,8 +3,8 @@
 - [20221003150101](/zet/20221003150101/README.md) python scripting requests http GET params
 - [20221003150102](/zet/20221003150102/README.md) python scripting requests http cookies
 - [20221003150103](/zet/20221003150103/README.md) python scripting requests http upload file
-- [20221003150104](/zet/20221003150104/README.md) python scripting requests http
-- [20221003150105](/zet/20221003150105/README.md) python scripting
+- [20221003150104](/zet/20221003150104/README.md) python scripting http
+- [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference
 - [20221003150504](/zet/20221003150504/README.md) python pwn tricks convert hex to int
 - [20221003150505](/zet/20221003150505/README.md) python pwn tricks convert little endian bytes to floating point
 - [20221003150506](/zet/20221003150506/README.md) python pwn tricks convert little endian bytes to int
@@ -34,3 +34,4 @@
 - [20221003151363](/zet/20221003151363/README.md) python scripting
 - [20221007023939](/zet/20221007023939/README.md) python ternary operator
 - [20221015005745](/zet/20221015005745/README.md) python coding
+- [20221025184026](/zet/20221025184026/README.md) python requests library for http

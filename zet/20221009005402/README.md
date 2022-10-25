@@ -178,7 +178,7 @@
 - [20221003150506](/zet/20221003150506/README.md) python pwn tricks convert little endian bytes to int
 - [20221003150504](/zet/20221003150504/README.md) python pwn tricks convert hex to int
 - [20221003151363](/zet/20221003151363/README.md) python scripting
-- [20221003150105](/zet/20221003150105/README.md) python scripting
+- [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference
 - [20221003150509](/zet/20221003150509/README.md) python pwn tricks
 - [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert
 - [20221003150500](/zet/20221003150500/README.md) shellshock python2 exploit

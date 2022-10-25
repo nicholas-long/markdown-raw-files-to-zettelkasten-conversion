@@ -1,3 +1,4 @@
+- [20221003150104](/zet/20221003150104/README.md) python scripting http
 - [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks )
 - [20221003151181](/zet/20221003151181/README.md) HTTP compromised CMS login CMS auth code exec / becoming web user
 - [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login
@@ -13,3 +14,4 @@
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - [20221008221548](/zet/20221008221548/README.md) website
+- [20221025184026](/zet/20221025184026/README.md) python requests library for http

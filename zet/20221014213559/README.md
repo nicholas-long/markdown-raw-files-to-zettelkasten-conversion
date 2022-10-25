@@ -24,7 +24,7 @@
 - [20221003151338](/zet/20221003151338/README.md) awk scripting
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
-- [20221003150105](/zet/20221003150105/README.md) python scripting
+- [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference
 - [20221014213613](/zet/20221014213613/README.md) boilerplate code template
 
 Tags:

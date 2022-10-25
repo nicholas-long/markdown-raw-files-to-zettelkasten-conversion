@@ -29,6 +29,7 @@
 - [20221003151352](/zet/20221003151352/README.md) python scripting convert tsv with key and value fields to python dictionary
 - [20221003151351](/zet/20221003151351/README.md) python scripting parse all post params from post content given on standard input
 - ~/kb/auto-python.md
+- [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference
 
 Tags:
 
