@@ -157,7 +157,7 @@ while [ 1 == "$going" ]; do
     rm "$selection"
   elif [ "$act" == "deltags" ]; then
     selection=$(mktemp)
-    ls tagindex/ | sed -e 's/\.md$//' | fzf -m > $selection
+    zet/20221025024238/enumtags $doc | fzf -m > $selection
     for tag in $(cat $selection); do
       if [ ! -z "$tag" ]; then
         echo "removing tag $tag from $doc"
