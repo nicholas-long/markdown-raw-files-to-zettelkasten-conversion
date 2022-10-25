@@ -21,6 +21,12 @@ implementation/getcontent 20221006032546
 # get way to count lines too
 implementation/countlines 20221025005842 20221006032546
 
+# fix a bug related to line count and multiple files with FNR vs NR
+
+./graphquery id 20221005200242 refs | xargs implementation/countlines | awk '$3 == 1 { print $1 }' > zet/20221025005842/emptycards
+wc -l zet/20221025005842/emptycards
+254 zet/20221025005842/emptycards
+
 ```
 
 ` zet/20221025005842/README.md `
