@@ -58,31 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150369
-# dump credentials from browsers chromium chrome
-20221003150369 20221014190047 zet/20221014190047/README.md 4
-# kb file named kb/hacking/misc/important-repositories-tools.md
-
-next id 20221003150370
-# dump credentials from browsers chromium
-20221003150370 20221003150368 zet/20221003150368/README.md 2
-# dump credentials from browsers chromium edge
-20221003150370 20221014190047 zet/20221014190047/README.md 4
-# kb file named kb/hacking/misc/important-repositories-tools.md
-
-next id 20221003150371
-# dump credentials from browsers
-20221003150371 20221003150367 zet/20221003150367/README.md 4
-# dump credentials from browsers firefox
-20221003150371 20221003150449 zet/20221003150449/README.md 4
-# keepass CLI tool open and edit keepass databases
-20221003150371 20221003151175 zet/20221003151175/README.md 17
-# EVERYTHING - common to try list
-20221003150371 20221013185837 zet/20221013185837/README.md 5
-# HKCU registry hive ntuser.dat
-20221003150371 20221014190047 zet/20221014190047/README.md 4
-# kb file named kb/hacking/misc/important-repositories-tools.md
-
 next id 20221003150374
 # volatility framework analyze dump files of volatile RAM file type "MS Windows 64bit crash dump, full dump, XXX pages"
 20221003150374 20221014190047 zet/20221014190047/README.md 4
