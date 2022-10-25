@@ -58,17 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150306
-# modify date with touch timestomping
-20221003150306 20221003150305 zet/20221003150305/README.md 4
-# modify date with touch timestomping set destination file date the same as source file date
-20221003150306 20221003150352 zet/20221003150352/README.md 2
-# fake set change system time for command
-20221003150306 20221014190056 zet/20221014190056/README.md 4
-# kb file named kb/hacking/misc/assorted-information.md
-20221003150306 20221022210719 zet/20221022210719/README.md 5
-# assorted information
-
 next id 20221003150310
 # burpsuite
 20221003150310 20221003150308 zet/20221003150308/README.md 4
