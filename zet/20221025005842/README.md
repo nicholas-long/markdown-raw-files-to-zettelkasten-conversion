@@ -58,19 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150310
-# burpsuite
-20221003150310 20221003150308 zet/20221003150308/README.md 4
-# burpsuite add header to forwarded requests, like X-Forwarded-For
-20221003150310 20221003150309 zet/20221003150309/README.md 4
-# burpsuite set scope to limit request catching
-20221003150310 20221003151408 zet/20221003151408/README.md 65
-# parse burpsuite saved request file and convert to python requests script for copying
-20221003150310 20221014190056 zet/20221014190056/README.md 4
-# kb file named kb/hacking/misc/assorted-information.md
-20221003150310 20221022210719 zet/20221022210719/README.md 5
-# assorted information
-
 next id 20221003150312
 # SMB
 20221003150312 20221003150311 zet/20221003150311/README.md 2

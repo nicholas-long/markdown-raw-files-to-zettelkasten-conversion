@@ -255,7 +255,6 @@ this is a list of possibly empty zettels.
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150314](/zet/20221003150314/README.md) default http config locations
 - [20221003150312](/zet/20221003150312/README.md) SMB
-- [20221003150310](/zet/20221003150310/README.md) burpsuite
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
 - [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface
 - [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix
