@@ -58,14 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150316
-# fastapi uvicorn put python webshells
-20221003150316 20221009005402 zet/20221009005402/README.md 4
-# preparing for the OSCP exam
-
-next id 20221003150318
-# sophos
-
 next id 20221003150319
 # symantec
 
