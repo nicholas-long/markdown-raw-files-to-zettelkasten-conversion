@@ -29,7 +29,6 @@
 - https://www.youtube.com/watch?v=JTObSymEvWA
 - [20221012153512](/zet/20221012153512/README.md) database
 - [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 
