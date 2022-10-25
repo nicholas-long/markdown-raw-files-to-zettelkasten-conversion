@@ -58,46 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150346
-# SSH brute force
-20221003150346 20221003150249 zet/20221003150249/README.md 2
-# Apache guacamole RDP VNC SSH in web browser default creds
-20221003150346 20221003150344 zet/20221003150344/README.md 4
-# SSH brute force old key exchange algorithms
-20221003150346 20221003150345 zet/20221003150345/README.md 7
-# SSH brute force command shortlist from hacktricks
-20221003150346 20221003150805 zet/20221003150805/README.md 4
-# brute force default credentials ssh
-20221003150346 20221003150823 zet/20221003150823/README.md 4
-# hydra ssh brute force
-20221003150346 20221003151174 zet/20221003151174/README.md 14
-# SSH to try list
-20221003150346 20221003151210 zet/20221003151210/README.md 88
-# linux privilege escalation
-20221003150346 20221009005402 zet/20221009005402/README.md 4
-# preparing for the OSCP exam
-20221003150346 20221014190050 zet/20221014190050/README.md 4
-# kb file named kb/hacking/misc/bruteforcing-tools.md
-20221003150346 20221015014643 zet/20221015014643/README.md 12
-# overengineering and overthinking
-
-next id 20221003150350
-# troubleshooting fix error
-20221003150350 20221003150348 zet/20221003150348/README.md 288
-# troubleshooting fix error ValueError: unsupported hash type MD4 python hashlib openssl conf
-20221003150350 20221003150349 zet/20221003150349/README.md 5
-# troubleshooting fix error "sign_and_send_pubkey: no mutual signature supported"
-20221003150350 20221007062330 zet/20221007062330/README.md 4
-# broken stuff to fix
-20221003150350 20221013222124 zet/20221013222124/README.md 4
-# concept hub for tricks and tips
-20221003150350 20221014190048 zet/20221014190048/README.md 4
-# kb file named kb/hacking/misc/troubleshoot-error-messages.md
-20221003150350 20221015172248 zet/20221015172248/README.md 26
-# how to fix ubuntu gnome not remembering screen rotation on One Mix netbook?
-20221003150350 20221016161034 zet/20221016161034/README.md 7
-# one mix netbook standby issues in linux
-
 next id 20221003150355
 # .NET decompiler reverse engineering C# managed EXE DLL binaries
 20221003150355 20221003150354 zet/20221003150354/README.md 2
