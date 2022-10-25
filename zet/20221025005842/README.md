@@ -58,25 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150156
-# linux assorted commands
-20221003150156 20221003150155 zet/20221003150155/README.md 5
-# linux assorted commands find disk mounting for root file system
-20221003150156 20221003150631 zet/20221003150631/README.md 7
-# listen for pings with tcpdump
-20221003150156 20221003150632 zet/20221003150632/README.md 4
-# list dpkg packages installed on a certain date
-20221003150156 20221007181438 zet/20221007181438/README.md 12
-# directories and bash scripts as commands
-20221003150156 20221007220451 zet/20221007220451/README.md 7
-# hacking notes hub
-20221003150156 20221009014200 zet/20221009014200/README.md 2
-# concept of a command
-20221003150156 20221014190157 zet/20221014190157/README.md 4
-# kb file named kb/linux/os-pseudo-filesystem-data-commands.md
-20221003150156 20221022210719 zet/20221022210719/README.md 5
-# assorted information
-
 next id 20221003150165
 # linux job control
 20221003150165 20221003150163 zet/20221003150163/README.md 5

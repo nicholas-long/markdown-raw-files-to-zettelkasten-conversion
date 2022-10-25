@@ -286,7 +286,6 @@ this is a list of possibly empty zettels.
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities
 - [20221003150165](/zet/20221003150165/README.md) linux job control
 - [20221003150159](/zet/20221003150159/README.md) upgrade when apt is causing problems
-- [20221003150156](/zet/20221003150156/README.md) linux assorted commands
 - [20221003150143](/zet/20221003150143/README.md) proxmox
 - [20221003150129](/zet/20221003150129/README.md) tldr
 - [20221003150115](/zet/20221003150115/README.md) socat
