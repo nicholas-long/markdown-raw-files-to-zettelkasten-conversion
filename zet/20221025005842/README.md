@@ -58,15 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150171
-# linux capabilities
-20221003150171 20221003150169 zet/20221003150169/README.md 2
-# linux capabilities capability set `=ep`
-20221003150171 20221003150170 zet/20221003150170/README.md 7
-# linux capabilities inheritance after exec
-20221003150171 20221014190149 zet/20221014190149/README.md 4
-# kb file named kb/linux/capabilities.md
-
 next id 20221003150173
 # less replay script log
 20221003150173 20221003150174 zet/20221003150174/README.md 3
