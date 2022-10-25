@@ -30,6 +30,7 @@ implementation/countlines 20221025005842 20221006032546
 - [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

@@ -503,3 +503,4 @@
 - [20221024160055](/zet/20221024160055/README.md) sort finished nodes 
 - [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
 - [20221024213239](/zet/20221024213239/README.md) obsidian dataview plugin
+- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
