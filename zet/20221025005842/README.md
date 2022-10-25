@@ -58,29 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150239
-# extract command for file type
-20221003150239 20221003150233 zet/20221003150233/README.md 4
-# extract command for file type apk
-20221003150239 20221003150234 zet/20221003150234/README.md 7
-# extract command for file type asar
-20221003150239 20221003150235 zet/20221003150235/README.md 4
-# extract command for file type xz
-20221003150239 20221003150236 zet/20221003150236/README.md 5
-# extract command for file type tar.xz
-20221003150239 20221003150237 zet/20221003150237/README.md 4
-# extract command for file type tar.gz
-20221003150239 20221003150238 zet/20221003150238/README.md 4
-# extract command for file type deb
-20221003150239 20221007220451 zet/20221007220451/README.md 7
-# hacking notes hub
-20221003150239 20221010064819 zet/20221010064819/README.md 31
-# locating the origin of files by hash to determine version
-20221003150239 20221014190109 zet/20221014190109/README.md 4
-# kb file named kb/hacking/analysis/extract-commands.md
-20221003150239 20221022210052 zet/20221022210052/README.md 4
-# file type reference
-
 next id 20221003150242
 # identify service
 20221003150242 20221003150241 zet/20221003150241/README.md 4

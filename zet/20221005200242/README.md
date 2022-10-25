@@ -272,7 +272,6 @@ this is a list of possibly empty zettels.
 - [20221003150259](/zet/20221003150259/README.md) firefox
 - [20221003150247](/zet/20221003150247/README.md) enterprise PAM
 - [20221003150242](/zet/20221003150242/README.md) identify service
-- [20221003150239](/zet/20221003150239/README.md) extract command for file type
 - [20221003150187](/zet/20221003150187/README.md) linux free up space
 - [20221003150176](/zet/20221003150176/README.md) ex editor
 - [20221003150174](/zet/20221003150174/README.md) less
