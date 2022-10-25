@@ -58,15 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150314
-# default http config locations
-20221003150314 20221003150313 zet/20221003150313/README.md 2
-# default http config locations FreeBSD
-20221003150314 20221014190056 zet/20221014190056/README.md 4
-# kb file named kb/hacking/misc/assorted-information.md
-20221003150314 20221022210719 zet/20221022210719/README.md 5
-# assorted information
-
 next id 20221003150316
 # fastapi uvicorn put python webshells
 20221003150316 20221009005402 zet/20221009005402/README.md 4
