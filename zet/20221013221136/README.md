@@ -55,6 +55,7 @@ ln -s zet/20221013221136/graphquery ./graphquery
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221024213239](/zet/20221024213239/README.md) obsidian dataview plugin
+- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 
 Tags:
 

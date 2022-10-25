@@ -21,6 +21,7 @@ this is a list of possibly empty zettels.
 
 # Related
 
+- zet/20221007182026/content.awk
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221003150307](/zet/20221003150307/README.md) copy docker binary to target
 - [20221003150567](/zet/20221003150567/README.md) SMB Copy Files (Execute on Victim)
