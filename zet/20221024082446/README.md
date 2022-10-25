@@ -1,4 +1,4 @@
-# tmux join window back into pane
+# tmux join-pane move window back into pane
 
 - join panes - move windows back into panes
   - open `choose-tree` with prefix+`s`
