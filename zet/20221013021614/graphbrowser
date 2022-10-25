@@ -8,6 +8,9 @@ fi
 if [ -z "$prog" ]; then
   export prog="./zc"
 fi
+if [ ! -d "fzftracking" ]; then
+  mkdir -p fzftracking
+fi
 
 # running preview subprocess
 if [ "$1" == "video" ]; then
