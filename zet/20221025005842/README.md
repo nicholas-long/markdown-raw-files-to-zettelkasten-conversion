@@ -58,15 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150154
-# cyberpunk retro machine project
-20221003150154 20221003150150 zet/20221003150150/README.md 2
-# cyberpunk retro machine project Tandy TRS-80 Model 100 terminal
-20221003150154 20221003150153 zet/20221003150153/README.md 8
-# cyberpunk retro machine project enable usb serial port terminal as a service
-20221003150154 20221014190158 zet/20221014190158/README.md 4
-# kb file named kb/linux/cyberpunk-retro-machine-serial-terminals.md
-
 next id 20221003150156
 # linux assorted commands
 20221003150156 20221003150155 zet/20221003150155/README.md 5
