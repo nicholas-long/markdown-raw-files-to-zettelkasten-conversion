@@ -129,6 +129,7 @@ the concept of a `command`
 - [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 - [20221003151305](/zet/20221003151305/README.md) bash scripting comm utility for set operations
+- [20221003150129](/zet/20221003150129/README.md) tldr command
 
 Tags:
 

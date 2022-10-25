@@ -14,6 +14,7 @@ less -f -r file.log
 - [20221003150174](/zet/20221003150174/README.md) less
 - ~/kb/linux/less.md
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
+- [20221003150173](/zet/20221003150173/README.md) less replay script log
 
 Tags:
 

@@ -28,6 +28,7 @@ sudo pip3 install asciinema
 - [20221012070358](/zet/20221012070358/README.md) recording and logging
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221008221548](/zet/20221008221548/README.md) website
+- [20221003150173](/zet/20221003150173/README.md) less replay script log
 
 Tags:
 

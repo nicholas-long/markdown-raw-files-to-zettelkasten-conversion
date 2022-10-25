@@ -21,6 +21,7 @@ the concept of `operating system`
 - [20221003151153](/zet/20221003151153/README.md) windows
 - [20221003150551](/zet/20221003150551/README.md) linux
 - [20221006025356](/zet/20221006025356/README.md) linux
+- [20221003150143](/zet/20221003150143/README.md) proxmox vm host operating system
 
 Tags:
 

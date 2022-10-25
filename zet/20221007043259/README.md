@@ -134,7 +134,7 @@
 - [20221003151432](/zet/20221003151432/README.md) awk scripting filter the CVE list for potentially valid, relevant vulnerabilities
 - [20221003151406](/zet/20221003151406/README.md) bash scripting download the current CVE list get as Tab Separated Values
 - [20221003151023](/zet/20221003151023/README.md) analyzing source code
-- [20221003150143](/zet/20221003150143/README.md) proxmox
+- [20221003150143](/zet/20221003150143/README.md) proxmox vm host operating system
 - [20221003151216](/zet/20221003151216/README.md) caddy stand up https server with a valid certificate
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003151314](/zet/20221003151314/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it example

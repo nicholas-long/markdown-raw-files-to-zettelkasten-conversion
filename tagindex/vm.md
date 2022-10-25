@@ -1,1 +1,2 @@
 - [20221003150137](/zet/20221003150137/README.md) installing virtualbox
+- [20221003150143](/zet/20221003150143/README.md) proxmox vm host operating system

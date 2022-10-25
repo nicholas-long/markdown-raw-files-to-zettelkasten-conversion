@@ -8,7 +8,7 @@
 - [20221003150126](/zet/20221003150126/README.md) routing using a linux box
 - [20221003150127](/zet/20221003150127/README.md) tldr pages location english
 - [20221003150128](/zet/20221003150128/README.md) tldr pages location
-- [20221003150129](/zet/20221003150129/README.md) tldr
+- [20221003150129](/zet/20221003150129/README.md) tldr command
 - [20221003150130](/zet/20221003150130/README.md) java download links jdk
 - [20221003150131](/zet/20221003150131/README.md) java download links
 - [20221003150133](/zet/20221003150133/README.md) DNS add nameserver to resolv.conf
@@ -19,7 +19,7 @@
 - [20221003150140](/zet/20221003150140/README.md) apt package
 - [20221003150141](/zet/20221003150141/README.md) proxmox server layout ISO upload location
 - [20221003150142](/zet/20221003150142/README.md) proxmox server layout
-- [20221003150143](/zet/20221003150143/README.md) proxmox
+- [20221003150143](/zet/20221003150143/README.md) proxmox vm host operating system
 - [20221003150144](/zet/20221003150144/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal copying binary programs
 - [20221003150145](/zet/20221003150145/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal programs
 - [20221003150146](/zet/20221003150146/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks char mappings

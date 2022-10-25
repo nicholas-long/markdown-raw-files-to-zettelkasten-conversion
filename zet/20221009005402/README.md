@@ -259,7 +259,7 @@
 - [20221003151161](/zet/20221003151161/README.md) pivoting guide
 - [20221003150942](/zet/20221003150942/README.md) python imports
 - [20221003151091](/zet/20221003151091/README.md) powerview
-- [20221003150143](/zet/20221003150143/README.md) proxmox
+- [20221003150143](/zet/20221003150143/README.md) proxmox vm host operating system
 - [20221003150503](/zet/20221003150503/README.md) pwntools
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 - [20221003150465](/zet/20221003150465/README.md) powershell PSCredential password

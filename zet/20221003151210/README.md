@@ -130,6 +130,7 @@
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
 - [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
 - ~/kb/hacking/to-try-lists/privesc/linux.md
+- [20221003150171](/zet/20221003150171/README.md) linux capabilities
 
 Tags:
 

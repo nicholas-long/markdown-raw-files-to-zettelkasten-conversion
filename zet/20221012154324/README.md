@@ -25,6 +25,7 @@
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
 - [20221008212519](/zet/20221008212519/README.md) programming language
+- [20221003150131](/zet/20221003150131/README.md) java download links
 
 Tags:
 

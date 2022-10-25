@@ -79,6 +79,7 @@
 - [20221003151296](/zet/20221003151296/README.md) bash tricks check if current directory is writable
 - ~/kb/bash-scripting/tricks.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221003150172](/zet/20221003150172/README.md) less color output
 
 Tags:
 

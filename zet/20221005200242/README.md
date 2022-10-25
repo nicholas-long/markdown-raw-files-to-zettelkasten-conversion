@@ -283,8 +283,8 @@ this is a list of possibly empty zettels.
 - [20221003150176](/zet/20221003150176/README.md) ex editor
 - [20221003150174](/zet/20221003150174/README.md) less
 - [20221003150159](/zet/20221003150159/README.md) upgrade when apt is causing problems
-- [20221003150143](/zet/20221003150143/README.md) proxmox
-- [20221003150129](/zet/20221003150129/README.md) tldr
+- [20221003150143](/zet/20221003150143/README.md) proxmox vm host operating system
+- [20221003150129](/zet/20221003150129/README.md) tldr command
 - [20221003150115](/zet/20221003150115/README.md) socat
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
