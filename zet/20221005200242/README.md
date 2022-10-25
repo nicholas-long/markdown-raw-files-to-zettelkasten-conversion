@@ -297,7 +297,6 @@ this is a list of possibly empty zettels.
 - [20221003150122](/zet/20221003150122/README.md) routing using a linux box add router to routes on hosts
 - [20221003150120](/zet/20221003150120/README.md) routing using a linux box iptables rules
 - [20221003150115](/zet/20221003150115/README.md) socat
-- [20221003150105](/zet/20221003150105/README.md) python scripting
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 

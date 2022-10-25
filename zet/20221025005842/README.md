@@ -58,25 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150105
-# python scripting
-20221003150105 20221003150099 zet/20221003150099/README.md 6
-# python scripting format string variables
-20221003150105 20221003150315 zet/20221003150315/README.md 2
-# python uvicorn `--reload` flag
-20221003150105 20221007023939 zet/20221007023939/README.md 8
-# python ternary operator
-20221003150105 20221008070202 zet/20221008070202/README.md 15
-# awk bash dealing with file paths
-20221003150105 20221009005402 zet/20221009005402/README.md 4
-# preparing for the OSCP exam
-20221003150105 20221014185507 zet/20221014185507/README.md 4
-# kb file named kb/python/coding-reference.md
-20221003150105 20221014213559 zet/20221014213559/README.md 4
-# concept of a snippet of code
-20221003150105 20221015005745 zet/20221015005745/README.md 5
-# python coding
-
 next id 20221003150120
 # routing using a linux box iptables rules
 20221003150120 20221003150119 zet/20221003150119/README.md 10
