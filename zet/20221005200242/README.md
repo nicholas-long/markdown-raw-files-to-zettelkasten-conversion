@@ -269,7 +269,6 @@ this is a list of possibly empty zettels.
 - [20221003150268](/zet/20221003150268/README.md) IPMI intelligent platform management interface BMC
 - [20221003150265](/zet/20221003150265/README.md) block ciphers
 - [20221003150264](/zet/20221003150264/README.md) block ciphers AES DES blowfish
-- [20221003150259](/zet/20221003150259/README.md) firefox
 - [20221003150187](/zet/20221003150187/README.md) linux free up space
 - [20221003150176](/zet/20221003150176/README.md) ex editor
 - [20221003150174](/zet/20221003150174/README.md) less

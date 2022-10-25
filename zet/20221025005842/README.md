@@ -58,17 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150259
-# firefox
-20221003150259 20221003150258 zet/20221003150258/README.md 3
-# firefox containers addon = multiple sessions cookies in firefox web browser
-20221003150259 20221003150275 zet/20221003150275/README.md 2
-# firefox reverse shell toolbar hacktools
-20221003150259 20221014190105 zet/20221014190105/README.md 4
-# kb file named kb/hacking/misc/buzzwords-and-acronyms.md
-20221003150259 20221024131549 zet/20221024131549/README.md 4
-# buzzwords and acronyms hub
-
 next id 20221003150264
 # block ciphers AES DES blowfish
 20221003150264 20221003150263 zet/20221003150263/README.md 15
