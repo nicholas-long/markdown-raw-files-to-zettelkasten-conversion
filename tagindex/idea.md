@@ -450,7 +450,6 @@
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 - [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
 - [20221015173720](/zet/20221015173720/README.md) touchscreen concept
-- [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221017033638](/zet/20221017033638/README.md) Funday Sunday: Taking down the INSANE-ranked TryHackMe's Takedown alh4zr3d
 - [20221017033801](/zet/20221017033801/README.md) tryhackme box Takedown

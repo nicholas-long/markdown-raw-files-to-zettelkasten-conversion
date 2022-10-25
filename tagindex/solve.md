@@ -1,0 +1,1 @@
+- [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved

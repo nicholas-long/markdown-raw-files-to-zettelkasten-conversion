@@ -81,6 +81,7 @@ stuff i am working on.
 - [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
 - [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step
 - [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language
+- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 
 Tags:
 
