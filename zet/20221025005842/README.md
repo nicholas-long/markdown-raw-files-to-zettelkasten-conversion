@@ -58,15 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150165
-# linux job control
-20221003150165 20221003150163 zet/20221003150163/README.md 5
-# linux job control send background process to foreground
-20221003150165 20221003150164 zet/20221003150164/README.md 3
-# linux job control background running process
-20221003150165 20221014190152 zet/20221014190152/README.md 4
-# kb file named kb/linux/job-control.md
-
 next id 20221003150171
 # linux capabilities
 20221003150171 20221003150169 zet/20221003150169/README.md 2
