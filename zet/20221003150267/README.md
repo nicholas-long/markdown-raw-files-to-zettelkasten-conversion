@@ -13,6 +13,8 @@ zabbix stores configs to access mysql database
 - [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
 - [20221024131549](/zet/20221024131549/README.md) buzzwords and acronyms hub
+- [20221003150268](/zet/20221003150268/README.md) IPMI intelligent platform management interface BMC
+- [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix
 
 Tags:
 

@@ -47,6 +47,7 @@
 #copy
 #crackmapexec
 #crowbar
+#crypto
 #ctf
 #curl
 #cyberpunk
@@ -94,6 +95,7 @@
 #fidget
 #file
 #filehash
+#filepath
 #files
 #find
 #finding

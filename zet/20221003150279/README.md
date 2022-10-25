@@ -13,6 +13,7 @@
 - [20221008215325](/zet/20221008215325/README.md) password
 - [20221003150281](/zet/20221003150281/README.md) pfx extension PKCS#12 format certificate
 - ~/kb/hacking/misc/file-type-reference.md
+- [20221003150721](/zet/20221003150721/README.md) openssl pfx p12 file PKCS12 export pfx private key
 
 Tags:
 
