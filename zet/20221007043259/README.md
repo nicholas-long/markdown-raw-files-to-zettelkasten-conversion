@@ -142,7 +142,7 @@
 - [20221003150101](/zet/20221003150101/README.md) python scripting requests http GET params
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - [20221003150072](/zet/20221003150072/README.md) Set spacevim record key back to [Q]
-- [20221003150064](/zet/20221003150064/README.md) neovim specific diff
+- [20221003150064](/zet/20221003150064/README.md) neovim diff
 - [20221006215623](/zet/20221006215623/README.md) scrambled machine video notes
 - [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames
 - [20221003150071](/zet/20221003150071/README.md) vim edit multiple files

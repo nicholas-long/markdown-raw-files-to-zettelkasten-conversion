@@ -28,8 +28,8 @@ bat zet/$(tmux saveb - | head -n 1)/README.md
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
-- [20221003150079](/zet/20221003150079/README.md) tmux
-- [20221003150075](/zet/20221003150075/README.md) tmux
+- [20221003150079](/zet/20221003150079/README.md) tmux program
+- [20221003150075](/zet/20221003150075/README.md) tmux tricks
 - [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project

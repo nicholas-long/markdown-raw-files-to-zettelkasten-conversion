@@ -46,8 +46,8 @@ zet/20221010180841/README.md	screen and tmux rwxrob video	- i used screen in tan
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221003150078](/zet/20221003150078/README.md) tmux get current pane
 - [20221003150081](/zet/20221003150081/README.md) tmux box art enable
-- [20221003150075](/zet/20221003150075/README.md) tmux
-- [20221003150079](/zet/20221003150079/README.md) tmux
+- [20221003150075](/zet/20221003150075/README.md) tmux tricks
+- [20221003150079](/zet/20221003150079/README.md) tmux program
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221003150146](/zet/20221003150146/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks char mappings
 - [20221003150148](/zet/20221003150148/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal terminfo and TERM variable

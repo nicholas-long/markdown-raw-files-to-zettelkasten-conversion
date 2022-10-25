@@ -9,7 +9,7 @@
 
 # Related
 
-- [20221003150079](/zet/20221003150079/README.md) tmux
+- [20221003150079](/zet/20221003150079/README.md) tmux program
 - [20221003150242](/zet/20221003150242/README.md) identify service
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool

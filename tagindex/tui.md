@@ -1,4 +1,4 @@
-- [20221003150079](/zet/20221003150079/README.md) tmux
+- [20221003150079](/zet/20221003150079/README.md) tmux program
 - [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program

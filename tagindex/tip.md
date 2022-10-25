@@ -1,3 +1,4 @@
+- [20221003150064](/zet/20221003150064/README.md) neovim diff
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux

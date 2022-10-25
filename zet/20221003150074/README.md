@@ -8,7 +8,7 @@
 # Related
 
 - [20221014190219](/zet/20221014190219/README.md) kb file named kb/tmux/copy-buffer.md
-- [20221003150075](/zet/20221003150075/README.md) tmux
+- [20221003150075](/zet/20221003150075/README.md) tmux tricks
 - ~/kb/tmux/copy-buffer.md
 
 Tags:

@@ -1,5 +1,5 @@
-20221003150064	zet/20221003150064/README.md	neovim specific diff
-20221003150065	zet/20221003150065/README.md	neovim specific
+20221003150064	zet/20221003150064/README.md	neovim diff
+20221003150065	zet/20221003150065/README.md	neovim specifics
 20221003150066	zet/20221003150066/README.md	vim diff
 20221003150067	zet/20221003150067/README.md	vim
 20221003150068	zet/20221003150068/README.md	vim edit multiple files find and edit files recursively open in tabs
@@ -9,11 +9,11 @@
 20221003150072	zet/20221003150072/README.md	Set spacevim record key back to [Q]
 20221003150073	zet/20221003150073/README.md	Run vim as a script on datafile, write to file `output`
 20221003150074	zet/20221003150074/README.md	tmux copy to buffer from bash pipes
-20221003150075	zet/20221003150075/README.md	tmux
+20221003150075	zet/20221003150075/README.md	tmux tricks
 20221003150076	zet/20221003150076/README.md	tmux swap panes
 20221003150077	zet/20221003150077/README.md	tmux get current pane working directory
 20221003150078	zet/20221003150078/README.md	tmux get current pane
-20221003150079	zet/20221003150079/README.md	tmux
+20221003150079	zet/20221003150079/README.md	tmux program
 20221003150080	zet/20221003150080/README.md	ctrl H does not work as a hotkey in qterminal by default 
 20221003150081	zet/20221003150081/README.md	tmux box art enable
 20221003150082	zet/20221003150082/README.md	bash scripts sh setup aliases

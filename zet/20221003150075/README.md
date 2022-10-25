@@ -15,7 +15,7 @@
 - [20221024082446](/zet/20221024082446/README.md) tmux join window back into pane
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221003150074](/zet/20221003150074/README.md) tmux copy to buffer from bash pipes
-- [20221003150079](/zet/20221003150079/README.md) tmux
+- [20221003150079](/zet/20221003150079/README.md) tmux program
 - [20221003150081](/zet/20221003150081/README.md) tmux box art enable
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running

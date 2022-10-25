@@ -1,2 +1,1 @@
 - [20221003150074](/zet/20221003150074/README.md) tmux copy to buffer from bash pipes
-- [20221003150075](/zet/20221003150075/README.md) tmux

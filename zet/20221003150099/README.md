@@ -14,6 +14,7 @@ url = f"http://{ip}/api/example"
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150105](/zet/20221003150105/README.md) python scripting
 - ~/kb/python/coding-reference.md
+- [20221003150100](/zet/20221003150100/README.md) python scripting argument variable argv
 
 Tags:
 
