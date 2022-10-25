@@ -58,19 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150104
-# python scripting requests http
-20221003150104 20221003150101 zet/20221003150101/README.md 8
-# python scripting requests http GET params
-20221003150104 20221003150102 zet/20221003150102/README.md 5
-# python scripting requests http cookies
-20221003150104 20221003150103 zet/20221003150103/README.md 11
-# python scripting requests http upload file
-20221003150104 20221003150315 zet/20221003150315/README.md 2
-# python uvicorn `--reload` flag
-20221003150104 20221014185507 zet/20221014185507/README.md 4
-# kb file named kb/python/coding-reference.md
-
 next id 20221003150105
 # python scripting
 20221003150105 20221003150099 zet/20221003150099/README.md 6
