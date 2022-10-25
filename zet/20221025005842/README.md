@@ -58,13 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150173
-# less replay script log
-20221003150173 20221003150174 zet/20221003150174/README.md 3
-# less
-20221003150173 20221014190147 zet/20221014190147/README.md 4
-# kb file named kb/linux/less.md
-
 next id 20221003150184
 # add user to group
 20221003150184 20221003150183 zet/20221003150183/README.md 4
