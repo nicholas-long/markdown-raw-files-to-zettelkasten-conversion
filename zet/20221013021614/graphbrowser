@@ -162,7 +162,7 @@ while [ 1 == "$going" ]; do
       if [ ! -z "$tag" ]; then
         echo "removing tag $tag from $doc"
         # remove tags and cleanup spaces from end and ensure 4 at beginning
-        sed -i -e '$s/#'$tag'//' -e '$s/ *$//' -e '$s/^ *$/    /' "$doc"
+        sed -i -e '$s/#'$tag'//' -e '$s/ *$//' -e '$s/  */ /g' -e '$s/^ */    /' "$doc"
       fi
     done
     rm "$selection"
