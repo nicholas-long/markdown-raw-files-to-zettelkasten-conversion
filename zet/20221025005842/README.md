@@ -58,19 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150355
-# .NET decompiler reverse engineering C# managed EXE DLL binaries
-20221003150355 20221003150354 zet/20221003150354/README.md 2
-# .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
-20221003150355 20221008194048 zet/20221008194048/README.md 40
-# good DLLs to hide in for sideloading
-20221003150355 20221008212519 zet/20221008212519/README.md 2
-# programming language
-20221003150355 20221014190047 zet/20221014190047/README.md 4
-# kb file named kb/hacking/misc/important-repositories-tools.md
-20221003150355 20221015014643 zet/20221015014643/README.md 12
-# overengineering and overthinking
-
 next id 20221003150360
 # windows run commands as other user with credentials
 20221003150360 20221003150359 zet/20221003150359/README.md 4
