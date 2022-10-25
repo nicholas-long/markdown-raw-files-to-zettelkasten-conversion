@@ -290,7 +290,6 @@ this is a list of possibly empty zettels.
 - [20221003150154](/zet/20221003150154/README.md) cyberpunk retro machine project
 - [20221003150143](/zet/20221003150143/README.md) proxmox
 - [20221003150140](/zet/20221003150140/README.md) apt package
-- [20221003150131](/zet/20221003150131/README.md) java download links
 - [20221003150129](/zet/20221003150129/README.md) tldr
 - [20221003150115](/zet/20221003150115/README.md) socat
 - [20221003150067](/zet/20221003150067/README.md) vim

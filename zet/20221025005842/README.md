@@ -58,13 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150131
-# java download links
-20221003150131 20221003150130 zet/20221003150130/README.md 2
-# java download links jdk
-20221003150131 20221014190207 zet/20221014190207/README.md 4
-# kb file named kb/linux/java-jdk-links.md
-
 next id 20221003150140
 # apt package
 20221003150140 20221003150138 zet/20221003150138/README.md 2
