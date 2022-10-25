@@ -47,9 +47,11 @@ Options:
     -h|--help
 ```
 
-- i think the project should be broken into 2 parts
-  - graph browser, linker, editor, git workflow
+- i think the project should be broken into 3 parts
+  - in order of dependencies:
   - console utility (collection of scripts)
+  - graph query language
+  - graph browser, linker, editor, git workflow
 
 ` zet/20221006032546/README.md `
 
@@ -137,4 +139,4 @@ Options:
 
 Tags:
 
-    #zettelkasten #bash #coding
+    #zettelkasten #bash #coding #program
