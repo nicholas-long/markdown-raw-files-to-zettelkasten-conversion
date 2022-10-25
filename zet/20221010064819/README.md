@@ -30,6 +30,10 @@ the concept of `locating the origin of files by hash to determine version`
             - things that look like source code leaks from names? unable to see content.
       - takes 1.5 hours to process the stream with `jq` queries
 
+- ideas
+  - standalone hash tool with data from vulnerable hashes repo
+  - make pull request to integrate as privesc check in linpeas output with links to details
+
 ` zet/20221010064819/README.md `
 
 # Related
