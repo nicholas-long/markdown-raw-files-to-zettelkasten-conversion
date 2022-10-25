@@ -1,4 +1,4 @@
-# convert package type to deb rpm slp lsb tgz
+# convert package type with alien to deb rpm slp lsb tgz
 --to-deb              Generate a Debian deb package (default).
 --to-rpm              Generate a Red Hat rpm package.
 --to-slp              Generate a Stampede slp package.
