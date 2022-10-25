@@ -1,9 +1,18 @@
 # default webroots
 
+- [20221003150283](/zet/20221003150283/README.md) default webroots debian system
+- [20221003150282](/zet/20221003150282/README.md) default webroots apache
+- [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems
+- [20221003150287](/zet/20221003150287/README.md) default webroots xampp
+
 ` zet/20221003150289/README.md `
 
 # Related
 
+- [20221003150287](/zet/20221003150287/README.md) default webroots xampp
+- [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems
+- [20221003150283](/zet/20221003150283/README.md) default webroots debian system
+- [20221003150282](/zet/20221003150282/README.md) default webroots apache
 - [20221014190057](/zet/20221014190057/README.md) kb file named kb/hacking/misc/web-server-default-webroots.md
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150288](/zet/20221003150288/README.md) default webroots wamp
@@ -12,12 +21,8 @@
 - [20221003151153](/zet/20221003151153/README.md) windows
 - [20221003151058](/zet/20221003151058/README.md) windows directory traversal path traversal LFI strings
 - [20221008221940](/zet/20221008221940/README.md) URL
-- [20221003150287](/zet/20221003150287/README.md) default webroots xampp
-- [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems
-- [20221003150283](/zet/20221003150283/README.md) default webroots debian system
-- [20221003150282](/zet/20221003150282/README.md) default webroots apache
 - ~/kb/hacking/misc/web-server-default-webroots.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221008213254](/zet/20221008213254/README.md) file path
 
 Tags:
 

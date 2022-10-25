@@ -58,43 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150283
-# default webroots debian system
-20221003150283 20221014190057 zet/20221014190057/README.md 4
-# kb file named kb/hacking/misc/web-server-default-webroots.md
-
-next id 20221003150286
-# default webroots BSD systems
-20221003150286 20221003150284 zet/20221003150284/README.md 4
-# default webroots BSD systems FreeBSD
-20221003150286 20221003150285 zet/20221003150285/README.md 2
-# default webroots BSD systems OpenBSD httpd
-20221003150286 20221014190057 zet/20221014190057/README.md 4
-# kb file named kb/hacking/misc/web-server-default-webroots.md
-
-next id 20221003150289
-# default webroots
-20221003150289 20221003150282 zet/20221003150282/README.md 2
-# default webroots apache
-20221003150289 20221003150287 zet/20221003150287/README.md 2
-# default webroots xampp
-20221003150289 20221003150288 zet/20221003150288/README.md 2
-# default webroots wamp
-20221003150289 20221003151058 zet/20221003151058/README.md 13
-# windows directory traversal path traversal LFI strings
-20221003150289 20221003151153 zet/20221003151153/README.md 4
-# windows
-20221003150289 20221006213130 zet/20221006213130/README.md 2
-# hacking / CTF platforms
-20221003150289 20221007220451 zet/20221007220451/README.md 7
-# hacking notes hub
-20221003150289 20221008221548 zet/20221008221548/README.md 4
-# website
-20221003150289 20221008221940 zet/20221008221940/README.md 8
-# URL
-20221003150289 20221014190057 zet/20221014190057/README.md 4
-# kb file named kb/hacking/misc/web-server-default-webroots.md
-
 next id 20221003150297
 # fixing golang module errors go get fails
 20221003150297 20221013222124 zet/20221013222124/README.md 4

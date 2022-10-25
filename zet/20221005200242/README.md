@@ -260,9 +260,6 @@ this is a list of possibly empty zettels.
 - [20221003150299](/zet/20221003150299/README.md) fixing golang module errors
 - [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
-- [20221003150289](/zet/20221003150289/README.md) default webroots
-- [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems
-- [20221003150283](/zet/20221003150283/README.md) default webroots debian system
 - [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface
 - [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix
 - [20221003150187](/zet/20221003150187/README.md) linux free up space
