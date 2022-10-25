@@ -58,45 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150320
-# mcaffee
-
-next id 20221003150321
-# arctic wolf
-
-next id 20221003150324
-# vmware carbon black cloud
-
-next id 20221003150325
-# Microsoft Defender for Endpoint - enterprise protection
-20221003150325 20221003150323 zet/20221003150323/README.md 2
-# crowdstrike falcon
-20221003150325 20221012152319 zet/20221012152319/README.md 4
-# concept of company or organization
-
-next id 20221003150326
-# top tier endpoint protection AV defender
-20221003150326 20221003150323 zet/20221003150323/README.md 2
-# crowdstrike falcon
-
-next id 20221003150340
-# ansible
-20221003150340 20221003150338 zet/20221003150338/README.md 2
-# ansible exploiting playbook
-20221003150340 20221003150339 zet/20221003150339/README.md 16
-# ansible How does Ansible work?
-20221003150340 20221014190054 zet/20221014190054/README.md 4
-# kb file named kb/hacking/misc/ansible.md
-
-next id 20221003150343
-# wordpress
-20221003150343 20221003150342 zet/20221003150342/README.md 4
-# wordpress plugins
-20221003150343 20221008213825 zet/20221008213825/README.md 15
-# hacker concept of CMS - slang lingo for web app / service
-20221003150343 20221014190051 zet/20221014190051/README.md 4
-# kb file named kb/hacking/misc/database-cms-enum.md
-
 next id 20221003150346
 # SSH brute force
 20221003150346 20221003150249 zet/20221003150249/README.md 2

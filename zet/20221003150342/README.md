@@ -1,4 +1,4 @@
-# wordpress plugins
+# wordpress plugins in database
 ```sql
 select * from wp_options where option_name = 'active_plugins'
 ```
