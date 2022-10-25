@@ -82,6 +82,7 @@ linux reference links and concepts
 - [20221006214348](/zet/20221006214348/README.md) ippsec
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 - [20221003150184](/zet/20221003150184/README.md) add user to group
+- [20221003150306](/zet/20221003150306/README.md) modify date with touch timestomping
 
 Tags:
 

@@ -11,6 +11,7 @@
 - [20221003150237](/zet/20221003150237/README.md) extract command for file type tar.gz
 - [20221003150238](/zet/20221003150238/README.md) extract command for file type deb
 - [20221003150239](/zet/20221003150239/README.md) extract command for file type
+- [20221003150306](/zet/20221003150306/README.md) modify date with touch timestomping
 - [20221003150477](/zet/20221003150477/README.md) general enumeration Active Directory Certificate Services is AD CS enabled
 - [20221003150479](/zet/20221003150479/README.md) general enumeration what commands are available
 - [20221003150480](/zet/20221003150480/README.md) general enumeration get processes

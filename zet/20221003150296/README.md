@@ -16,6 +16,8 @@ go run file.go
 - [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
 - [20221003150299](/zet/20221003150299/README.md) fixing golang module errors
 - ~/kb/hacking/misc/assorted-information.md
+- [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
+- [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module
 
 Tags:
 
