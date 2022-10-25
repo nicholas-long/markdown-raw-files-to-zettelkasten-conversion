@@ -58,15 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150231
-# apk analysis
-20221003150231 20221003150229 zet/20221003150229/README.md 2
-# apk analysis emulate a phone with genymotion and virtualbox
-20221003150231 20221003150230 zet/20221003150230/README.md 2
-# apk analysis decompile to bytecode and inspect objects
-20221003150231 20221014190111 zet/20221014190111/README.md 4
-# kb file named kb/hacking/analysis/apk-analysis.md
-
 next id 20221003150239
 # extract command for file type
 20221003150239 20221003150233 zet/20221003150233/README.md 4
