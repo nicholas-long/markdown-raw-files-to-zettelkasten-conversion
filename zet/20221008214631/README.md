@@ -2,6 +2,7 @@
 
 useful vim hotkeys and tricks
 
+- `gt` and `gT` cycle tabs
 - get a zettel id from a file path `df/;D`
 - `gea` add to previous word
 - markdown headings - `0v$r-`
