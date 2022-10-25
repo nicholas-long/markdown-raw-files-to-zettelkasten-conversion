@@ -58,15 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150120
-# routing using a linux box iptables rules
-20221003150120 20221003150119 zet/20221003150119/README.md 10
-# routing using a linux box iptables rules forward all traffic between two interfaces
-20221003150120 20221003150126 zet/20221003150126/README.md 4
-# routing using a linux box
-20221003150120 20221014190210 zet/20221014190210/README.md 4
-# kb file named kb/linux/routing.md
-
 next id 20221003150122
 # routing using a linux box add router to routes on hosts
 20221003150122 20221003150121 zet/20221003150121/README.md 7
