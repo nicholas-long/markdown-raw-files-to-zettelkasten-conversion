@@ -58,29 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150268
-# IPMI intelligent platform management interface BMC
-20221003150268 20221014190105 zet/20221014190105/README.md 4
-# kb file named kb/hacking/misc/buzzwords-and-acronyms.md
-20221003150268 20221024131549 zet/20221024131549/README.md 4
-# buzzwords and acronyms hub
-
-next id 20221003150269
-# IPMI intelligent platform management interface zabbix
-20221003150269 20221014190105 zet/20221014190105/README.md 4
-# kb file named kb/hacking/misc/buzzwords-and-acronyms.md
-20221003150269 20221024131549 zet/20221024131549/README.md 4
-# buzzwords and acronyms hub
-
-next id 20221003150270
-# IPMI intelligent platform management interface
-20221003150270 20221003150267 zet/20221003150267/README.md 5
-# IPMI intelligent platform management interface udp port 613
-20221003150270 20221014190105 zet/20221014190105/README.md 4
-# kb file named kb/hacking/misc/buzzwords-and-acronyms.md
-20221003150270 20221024131549 zet/20221024131549/README.md 4
-# buzzwords and acronyms hub
-
 next id 20221003150279
 # pfx extension PKCS#12 format certificate cracking
 20221003150279 20221003150277 zet/20221003150277/README.md 4
