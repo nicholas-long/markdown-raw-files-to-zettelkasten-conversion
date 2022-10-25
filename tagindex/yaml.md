@@ -2,3 +2,4 @@
 - [20221003151280](/zet/20221003151280/README.md) YAML parsing
 - [20221003151281](/zet/20221003151281/README.md) YAML
 - [20221006072230](/zet/20221006072230/README.md) arrays in yaml
+- [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation

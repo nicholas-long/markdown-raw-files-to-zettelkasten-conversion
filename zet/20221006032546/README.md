@@ -136,6 +136,7 @@ Options:
 - [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step
 - [20221025025810](/zet/20221025025810/README.md) useful zet scripts
 - [20221025024238](/zet/20221025024238/README.md) enumerate tags
+- [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
 
 Tags:
 

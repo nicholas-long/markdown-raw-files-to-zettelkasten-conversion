@@ -24,3 +24,4 @@
 - [20221014072547](/zet/20221014072547/README.md) ideas need to be explained and connected to relevant things
 - [20221020193850](/zet/20221020193850/README.md) what is knowledge management
 - [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language
+- [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation

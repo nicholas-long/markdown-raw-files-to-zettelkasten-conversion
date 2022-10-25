@@ -504,3 +504,4 @@
 - [20221024213239](/zet/20221024213239/README.md) obsidian dataview plugin
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 - [20221025025810](/zet/20221025025810/README.md) useful zet scripts
+- [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
