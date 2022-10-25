@@ -4,7 +4,7 @@
 
 # Related
 
-- [20221003150192](/zet/20221003150192/README.md) convert package type to deb rpm slp lsb tgz
+- [20221003150192](/zet/20221003150192/README.md) convert package type with alien to deb rpm slp lsb tgz
 - [20221003151214](/zet/20221003151214/README.md) got leaked files
 - [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
 - [20221014190016](/zet/20221014190016/README.md) kb file named kb/hacking/pwn/binary-analysis.md

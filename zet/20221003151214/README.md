@@ -17,6 +17,7 @@
 - [20221003151211](/zet/20221003151211/README.md) got leaked files jar
 - ~/kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221003150231](/zet/20221003150231/README.md) apk analysis
 
 Tags:
 

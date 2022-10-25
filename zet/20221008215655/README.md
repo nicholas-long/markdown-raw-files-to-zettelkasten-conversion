@@ -41,6 +41,7 @@ the concept of `user account`
 - [20221003150551](/zet/20221003150551/README.md) linux
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221008215530](/zet/20221008215530/README.md) username
+- [20221003150247](/zet/20221003150247/README.md) enterprise PAM
 
 Tags:
 

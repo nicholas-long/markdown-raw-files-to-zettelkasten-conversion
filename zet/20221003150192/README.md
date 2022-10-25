@@ -18,7 +18,7 @@ alien --to-deb file.rpm
 - [20221013175128](/zet/20221013175128/README.md) preparing exploit payloads
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221014190138](/zet/20221014190138/README.md) kb file named kb/linux/package-manager-commands.md
-- [20221003150193](/zet/20221003150193/README.md) convert
+- [20221003150193](/zet/20221003150193/README.md) concept of converting files
 - ~/kb/linux/package-manager-commands.md
 
 Tags:

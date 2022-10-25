@@ -1,2 +1,2 @@
-- [20221003150192](/zet/20221003150192/README.md) convert package type to deb rpm slp lsb tgz
-- [20221003150193](/zet/20221003150193/README.md) convert
+- [20221003150192](/zet/20221003150192/README.md) convert package type with alien to deb rpm slp lsb tgz
+- [20221003150193](/zet/20221003150193/README.md) concept of converting files

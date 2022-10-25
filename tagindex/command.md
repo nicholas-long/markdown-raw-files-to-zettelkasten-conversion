@@ -1,8 +1,8 @@
 - [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive
 - [20221003150155](/zet/20221003150155/README.md) linux assorted commands find disk mounting for root file system
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands
-- [20221003150192](/zet/20221003150192/README.md) convert package type to deb rpm slp lsb tgz
-- [20221003150193](/zet/20221003150193/README.md) convert
+- [20221003150192](/zet/20221003150192/README.md) convert package type with alien to deb rpm slp lsb tgz
+- [20221003150193](/zet/20221003150193/README.md) concept of converting files
 - [20221003150232](/zet/20221003150232/README.md) extract command for file type apk rebuild apk
 - [20221003150233](/zet/20221003150233/README.md) extract command for file type apk
 - [20221003150234](/zet/20221003150234/README.md) extract command for file type asar

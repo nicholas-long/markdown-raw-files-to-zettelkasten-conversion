@@ -27,6 +27,8 @@ the concept of a `password`
 - [20221003150972](/zet/20221003150972/README.md) crack salted md5 hash with hashcat
 - [20221003151167](/zet/20221003151167/README.md) got hashes
 - [20221008215139](/zet/20221008215139/README.md) hash / checksum
+- [20221003150246](/zet/20221003150246/README.md) enterprise PAM Thycotic
+- [20221003150247](/zet/20221003150247/README.md) enterprise PAM
 
 Tags:
 

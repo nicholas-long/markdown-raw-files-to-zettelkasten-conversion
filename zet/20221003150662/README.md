@@ -4,7 +4,7 @@
 
 # Related
 
-- [20221003150192](/zet/20221003150192/README.md) convert package type to deb rpm slp lsb tgz
+- [20221003150192](/zet/20221003150192/README.md) convert package type with alien to deb rpm slp lsb tgz
 - [20221019143615](/zet/20221019143615/README.md) data concept
 - [20221017172946](/zet/20221017172946/README.md) LAN attacks
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list

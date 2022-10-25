@@ -67,8 +67,8 @@
 - [20221003150189](/zet/20221003150189/README.md) zsh arrow key based history autocomplete browse
 - [20221003150190](/zet/20221003150190/README.md) zsh see default bindings for vim command and insert modes keybinds
 - [20221003150191](/zet/20221003150191/README.md) zsh
-- [20221003150192](/zet/20221003150192/README.md) convert package type to deb rpm slp lsb tgz
-- [20221003150193](/zet/20221003150193/README.md) convert
+- [20221003150192](/zet/20221003150192/README.md) convert package type with alien to deb rpm slp lsb tgz
+- [20221003150193](/zet/20221003150193/README.md) concept of converting files
 - [20221003150196](/zet/20221003150196/README.md) iptables rules forward all traffic between two interfaces
 - [20221003150197](/zet/20221003150197/README.md) iptables rules
 - [20221003150200](/zet/20221003150200/README.md) refresh xterm configs

@@ -13,7 +13,7 @@
 - [20221014190045](/zet/20221014190045/README.md) kb file named kb/hacking/misc/tools-and-apt-packages.md
 - [20221003150139](/zet/20221003150139/README.md) apt package column
 - [20221003150138](/zet/20221003150138/README.md) apt package nc ncat netcat
-- [20221003150192](/zet/20221003150192/README.md) convert package type to deb rpm slp lsb tgz
+- [20221003150192](/zet/20221003150192/README.md) convert package type with alien to deb rpm slp lsb tgz
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful

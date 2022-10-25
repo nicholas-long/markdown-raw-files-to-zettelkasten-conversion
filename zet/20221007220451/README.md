@@ -222,6 +222,7 @@ hacking notes hub
 - [20221003150921](/zet/20221003150921/README.md) windows persistence and DLL hijacking locations
 - [20221003150444](/zet/20221003150444/README.md) hacktricks markdown data github
 - [20221003151166](/zet/20221003151166/README.md) got access to docker repository
+- [20221003150242](/zet/20221003150242/README.md) identify service
 
 Tags:
 

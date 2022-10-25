@@ -16,6 +16,7 @@
 - [20221003150855](/zet/20221003150855/README.md) dns commands
 - [20221003150134](/zet/20221003150134/README.md) DNS commands
 - [20221003150133](/zet/20221003150133/README.md) DNS add nameserver to resolv.conf
+- [20221003150259](/zet/20221003150259/README.md) firefox
 
 Tags:
 

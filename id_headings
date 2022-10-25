@@ -125,8 +125,8 @@
 20221003150189	zet/20221003150189/README.md	zsh arrow key based history autocomplete browse
 20221003150190	zet/20221003150190/README.md	zsh see default bindings for vim command and insert modes keybinds
 20221003150191	zet/20221003150191/README.md	zsh
-20221003150192	zet/20221003150192/README.md	convert package type to deb rpm slp lsb tgz
-20221003150193	zet/20221003150193/README.md	convert
+20221003150192	zet/20221003150192/README.md	convert package type with alien to deb rpm slp lsb tgz
+20221003150193	zet/20221003150193/README.md	concept of converting files
 20221003150194	zet/20221003150194/README.md	set the bash prompt to use vi hotkeys
 20221003150195	zet/20221003150195/README.md	desktop notification reminders in crontab with notify-send
 20221003150196	zet/20221003150196/README.md	iptables rules forward all traffic between two interfaces

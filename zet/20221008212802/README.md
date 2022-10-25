@@ -67,6 +67,8 @@ the concept of a `program`
 - [20221003151101](/zet/20221003151101/README.md) powershell commands
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 - [20221003151305](/zet/20221003151305/README.md) bash scripting comm utility for set operations
+- [20221003150246](/zet/20221003150246/README.md) enterprise PAM Thycotic
+- [20221003150247](/zet/20221003150247/README.md) enterprise PAM
 
 Tags:
 

@@ -1,4 +1,5 @@
 - [20221003150079](/zet/20221003150079/README.md) tmux program
+- [20221003150259](/zet/20221003150259/README.md) firefox
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221008213357](/zet/20221008213357/README.md) version of program
