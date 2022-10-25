@@ -1,3 +1,4 @@
+- [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
 - [20221013185120](/zet/20221013185120/README.md) concept of cryptography

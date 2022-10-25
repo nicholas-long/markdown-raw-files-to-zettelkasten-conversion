@@ -1,5 +1,4 @@
 - [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
-- [20221003150355](/zet/20221003150355/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries
 - [20221003150359](/zet/20221003150359/README.md) windows run commands as other user with credentials switch users on windows host with RunasCs with no WinRM remote management access
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
@@ -44,3 +43,4 @@
 - [20221003150432](/zet/20221003150432/README.md) generate wordlists namemash - simple
 - [20221003150433](/zet/20221003150433/README.md) generate wordlists
 - [20221003150458](/zet/20221003150458/README.md) redis-cli apt repository
+- [20221013171453](/zet/20221013171453/README.md) important repositories and tools

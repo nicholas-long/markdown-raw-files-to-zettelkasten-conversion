@@ -75,7 +75,7 @@
 - [20221003150338](/zet/20221003150338/README.md) ansible exploiting playbook
 - [20221003150339](/zet/20221003150339/README.md) ansible How does Ansible work?
 - [20221003150340](/zet/20221003150340/README.md) ansible
-- [20221003150342](/zet/20221003150342/README.md) wordpress plugins
+- [20221003150342](/zet/20221003150342/README.md) wordpress plugins in database
 - [20221003150343](/zet/20221003150343/README.md) wordpress
 - [20221003150344](/zet/20221003150344/README.md) SSH brute force old key exchange algorithms
 - [20221003150345](/zet/20221003150345/README.md) SSH brute force command shortlist from hacktricks

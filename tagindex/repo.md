@@ -1,1 +1,3 @@
+- [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
+- [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221025045945](/zet/20221025045945/README.md) tldr pages

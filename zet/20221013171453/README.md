@@ -34,6 +34,7 @@
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221025045945](/zet/20221025045945/README.md) tldr pages
+- [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
 
 Tags:
 

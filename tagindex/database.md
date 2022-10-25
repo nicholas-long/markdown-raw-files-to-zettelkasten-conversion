@@ -1,4 +1,4 @@
-- [20221003150342](/zet/20221003150342/README.md) wordpress plugins
+- [20221003150342](/zet/20221003150342/README.md) wordpress plugins in database
 - [20221003150343](/zet/20221003150343/README.md) wordpress
 - [20221003150824](/zet/20221003150824/README.md) postgres sql enumeration connect to database using file socket
 - [20221003150825](/zet/20221003150825/README.md) postgres sql enumeration connect to database

@@ -12,6 +12,7 @@
 - [20221003150289](/zet/20221003150289/README.md) default webroots
 - [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
 - [20221003150313](/zet/20221003150313/README.md) default http config locations FreeBSD
+- [20221003150343](/zet/20221003150343/README.md) wordpress
 - [20221003150682](/zet/20221003150682/README.md) web enumeration quick commands forms
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 - [20221008221548](/zet/20221008221548/README.md) website
