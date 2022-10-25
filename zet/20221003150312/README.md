@@ -1,9 +1,12 @@
 # SMB
 
+- [20221003150311](/zet/20221003150311/README.md) SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
+
 ` zet/20221003150312/README.md `
 
 # Related
 
+- [20221003150311](/zet/20221003150311/README.md) SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
 - [20221022210719](/zet/20221022210719/README.md) assorted information
 - [20221003150600](/zet/20221003150600/README.md) impacket
 - [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
@@ -12,10 +15,8 @@
 - [20221003151035](/zet/20221003151035/README.md) hidden shares
 - [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-- [20221003150311](/zet/20221003150311/README.md) SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
 - ~/kb/hacking/misc/assorted-information.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 
-    #hacking #assorted 
+    #hacking #assorted #windows
