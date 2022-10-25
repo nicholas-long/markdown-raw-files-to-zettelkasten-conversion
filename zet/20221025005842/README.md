@@ -58,9 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150319
-# symantec
-
 next id 20221003150320
 # mcaffee
 

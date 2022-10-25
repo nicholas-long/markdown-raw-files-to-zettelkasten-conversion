@@ -250,7 +250,6 @@ this is a list of possibly empty zettels.
 - [20221003150324](/zet/20221003150324/README.md) vmware carbon black cloud
 - [20221003150321](/zet/20221003150321/README.md) arctic wolf
 - [20221003150320](/zet/20221003150320/README.md) mcaffee
-- [20221003150319](/zet/20221003150319/README.md) symantec
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
 - [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface
