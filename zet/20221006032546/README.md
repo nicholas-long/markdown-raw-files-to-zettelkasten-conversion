@@ -137,4 +137,4 @@ Options:
 
 Tags:
 
-    #zettelkasten #bash #todo #coding 
+    #zettelkasten #bash #coding
