@@ -66,6 +66,7 @@ while [ 1 == "$going" ]; do
     if (ENVIRON["TMUX"] ~ /tmux/) {
       print "tab"
       print "copypath"
+      print "workdir"
     }
     print "back"
     print "enrich"
@@ -102,6 +103,12 @@ while [ 1 == "$going" ]; do
     prevdoc="$doc"
     doc="tagindex/$choice"
     echo "changed to $doc"
+  elif [ "$act" == 'workdir' ]; then
+    wd=$(awk 'BEGIN {FS=OFS="/"} {NF--;print}' <(echo $doc))
+    echo "opening window to $wd"
+    if [ -d "$wd" ]; then
+      tmux new-window -c "$wd"
+    fi
   elif [ "$act" == '~' ]; then
     prevdoc="$doc"
     doc="README.md"

@@ -35,7 +35,6 @@ things that are finished.
 - [20221012102144](/zet/20221012102144/README.md) preview window for menu
 - [20221012213538](/zet/20221012213538/README.md) collect loose nodes and sort them out
 - [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221012220453](/zet/20221012220453/README.md) unlink should be easier
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221006220044](/zet/20221006220044/README.md) adding stream notes
