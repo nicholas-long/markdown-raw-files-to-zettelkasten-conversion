@@ -3,6 +3,7 @@
 - concept of `test card with duplicate links`
 
 ```
+./zc enrich_links_single 20221026133841
 ```
 
 ` zet/20221026133841/README.md `
@@ -11,6 +12,7 @@
 
 - [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step
 
 Tags:
 

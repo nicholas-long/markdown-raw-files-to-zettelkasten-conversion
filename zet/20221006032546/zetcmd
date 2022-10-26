@@ -468,7 +468,7 @@ EOF
     find zet -name README.md | xargs zet/$ZET_CMD_IMPLEMENTATION/scanrefs > $scanoutput
 
     # beautify links
-    awk '$1 == "cleanup" {
+    awk '$1 == "cleanup" || $1 == "duplicate" {
       command = (ENVIRON["prog"] " enrich_links_single " $2)
       system ( command )
     }' $scanoutput
