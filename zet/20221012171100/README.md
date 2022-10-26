@@ -16,6 +16,7 @@ zet/20221012171100/README.md
 - [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
 - [20221026080325](/zet/20221026080325/README.md) move code to add tags to zetcmd
 - [20221026133841](/zet/20221026133841/README.md) test card with duplicate links
+- [20221026135114](/zet/20221026135114/README.md) add step to check for duplicate links in enrich scanrefs
 
 Tags:
 

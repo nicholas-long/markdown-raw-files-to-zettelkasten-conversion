@@ -85,6 +85,7 @@ stuff i am working on.
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
 - [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
+- [20221026135114](/zet/20221026135114/README.md) add step to check for duplicate links in enrich scanrefs
 
 Tags:
 

@@ -139,6 +139,7 @@ Options:
 - [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
 - [20221026060602](/zet/20221026060602/README.md) remove dependency on lazygit
 - [20221026080325](/zet/20221026080325/README.md) move code to add tags to zetcmd
+- [20221026135114](/zet/20221026135114/README.md) add step to check for duplicate links in enrich scanrefs
 
 Tags:
 
