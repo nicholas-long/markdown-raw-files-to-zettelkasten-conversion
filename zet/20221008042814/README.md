@@ -6,6 +6,7 @@ stuff i am working on.
 
 # Related
 
+- [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 - [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
@@ -82,7 +83,6 @@ stuff i am working on.
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
-- [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags
 
 Tags:
 

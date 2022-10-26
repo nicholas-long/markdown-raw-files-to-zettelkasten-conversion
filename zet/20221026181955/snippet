@@ -1,4 +1,7 @@
 #!/bin/bash
 
 KB_ID=20221003151443 #zet/20221003151443/README.md # kb
-zet/20221023085822/walkquery --human @to-try-list refs not <( ./graphquery @to-try-list ) not <( ./graphquery id $KB_ID refs )
+zet/20221023085822/walkquery --human @to-try-list refs \
+  not <( ./graphquery @to-try-list ) \
+  not <( ./graphquery @hub ) \
+  not <( ./graphquery id $KB_ID refs )
