@@ -83,6 +83,7 @@ stuff i am working on.
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
 - [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
 - [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step
+- [20221026060602](/zet/20221026060602/README.md) remove dependency on lazygit
 
 Tags:
 

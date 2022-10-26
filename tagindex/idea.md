@@ -506,3 +506,4 @@
 - [20221025025810](/zet/20221025025810/README.md) useful zet scripts
 - [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
 - [20221025221321](/zet/20221025221321/README.md) B-tier of AV
+- [20221026060602](/zet/20221026060602/README.md) remove dependency on lazygit

@@ -23,6 +23,7 @@ learning git internals
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221003150798](/zet/20221003150798/README.md) git
+- [20221026060602](/zet/20221026060602/README.md) remove dependency on lazygit
 
 Tags:
 

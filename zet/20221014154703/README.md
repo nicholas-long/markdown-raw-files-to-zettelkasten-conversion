@@ -22,6 +22,7 @@
 - [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch
 - [20221003151400](/zet/20221003151400/README.md) bash scripting update all the git repos in home directory and prompt with lazygit
 - [20221012095659](/zet/20221012095659/README.md) working in github in the same branch on multiple devices
+- [20221026060602](/zet/20221026060602/README.md) remove dependency on lazygit
 
 Tags:
 
