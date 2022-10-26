@@ -16,4 +16,4 @@ https://github.com/epinna/tplmap
 
 Tags:
 
-    #repo #ssti
+    #repo #ssti #trick #command

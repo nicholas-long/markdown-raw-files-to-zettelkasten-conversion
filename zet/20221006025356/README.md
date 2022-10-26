@@ -87,4 +87,4 @@ linux reference links and concepts
 Tags:
 
 - [20221003150137](/zet/20221003150137/README.md) installing virtualbox
-    #todo
+    #concept #hub #linux
