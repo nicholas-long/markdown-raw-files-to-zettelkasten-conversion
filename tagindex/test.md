@@ -1,6 +1,3 @@
-- [20221003151065](/zet/20221003151065/README.md) AMSI detect windows defender with known malicious string
-- [20221003151066](/zet/20221003151066/README.md) AMSI detect windows defender
-- [20221003151067](/zet/20221003151067/README.md) AMSI
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
 - [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4

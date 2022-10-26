@@ -29,6 +29,7 @@
 - [20221003150918](/zet/20221003150918/README.md) linux enumeration quick commands enumerate open ports if `ss` is not present
 - [20221003150919](/zet/20221003150919/README.md) linux enumeration quick commands list all recursively with ls sorting by modification date within directories
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
+- [20221003151065](/zet/20221003151065/README.md) AMSI detect windows defender with known malicious string
 - [20221003151071](/zet/20221003151071/README.md) windows color script output winpeas log scroll with colors and convert to utf8 for linux
 - [20221003151072](/zet/20221003151072/README.md) windows color script output winpeas log
 - [20221003151073](/zet/20221003151073/README.md) windows color script output

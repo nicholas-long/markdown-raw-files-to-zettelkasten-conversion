@@ -14,4 +14,4 @@ $str = 'amsiinitfailed'
 
 Tags:
 
-    #hacking #windows #test 
+    #hacking #windows #av #enumeration
