@@ -8,6 +8,7 @@
   - tricks
   - tips
   - command
+  - exploit
   - fix?
 
 ```

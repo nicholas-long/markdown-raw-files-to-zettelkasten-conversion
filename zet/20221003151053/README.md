@@ -10,4 +10,4 @@ analyze process dump with pypykatz
 
 Tags:
 
-    
+    #tip
