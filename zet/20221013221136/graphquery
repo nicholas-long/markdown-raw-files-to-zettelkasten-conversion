@@ -75,6 +75,13 @@ while [[ $# -gt 0 ]]; do
       echo "not a file $1" > /dev/stderr
       exit 1
     fi
+  elif [[ "$1" == 'taglist' ]]; then
+    shift
+    list="$1"
+    echo "" > $buf # clear
+    for t in $(echo "$1" | awk -F , '{for (n=1;n<=NF;n++) print "@"$n}'); do
+      $0 "$t" >> $buf
+    done
   elif [[ "$1" == 'file' ]]; then
     shift
     if [ -f "$1" ]; then

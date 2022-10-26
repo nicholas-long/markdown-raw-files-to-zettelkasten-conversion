@@ -21,6 +21,7 @@
     - `or FILENAME`          - union ( concatenate ) IDs with all IDs appearing in the file or subquery
     - `not FILENAME`         - filter out all IDs appearing in the file or subquery
     - `edges`                - get edges between all nodes in set as pairs. vertex-induced subgraph. terminal operation.
+    - `taglist tagA,tagB,C`  - convenient way to union lists of notes from lots of tags
 - yaml [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
 
 - examples
