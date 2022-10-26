@@ -2,6 +2,13 @@
 
 - concept of `replace useless concept hubs with hashtags`
 - hubs should definitely be labeled as hubs
+- things that should be okay to be linked to to try lists
+  - other to try lists
+  - concepts / hubs
+  - tricks
+  - tips
+  - command
+  - fix?
 
 ```
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound #to-try-list #hacking #bloodhound
