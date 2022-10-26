@@ -7,7 +7,6 @@ stuff i am working on.
 # Related
 
 - [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
-- [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step
 - [20221026060602](/zet/20221026060602/README.md) remove dependency on lazygit
 - [20221026080325](/zet/20221026080325/README.md) move code to add tags to zetcmd
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
