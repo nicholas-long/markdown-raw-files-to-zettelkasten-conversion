@@ -6,6 +6,108 @@
 - `./graphquery --human @to-try-list refs not <( ./graphquery @to-try-list )`
 - `zet/20221023085822/walkquery --human @to-try-list refs not <( ./graphquery @to-try-list )`
 ```
+- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
+- [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service #hacking #cms
+
+- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
+
+- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
+
+- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
+- [20221013180230](/zet/20221013180230/README.md) session cookie, API key, or access token #concept
+
+- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
+- [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages 
+
+- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
+
+- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
+
+- [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits #to-try-list #hacking #smb 
+- [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003 #hacking #windows #xp 
+
+- [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits #to-try-list #hacking #smb 
+- [20221014185612](/zet/20221014185612/README.md) kb file named kb/hacking/to-try-lists/SMB.md #idea
+
+- [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits #to-try-list #hacking #smb 
+- [20221013190422](/zet/20221013190422/README.md) headline exploits #concept #hub #hacking
+
+- [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits #to-try-list #hacking #smb 
+- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working #exploit #windows #smb
+
+- [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits #to-try-list #hacking #smb 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
+
+- [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files #to-try-list #hacking #got 
+- [20221022210052](/zet/20221022210052/README.md) file type reference #idea
+
+- [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files #to-try-list #hacking #got 
+- [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md #idea
+
+- [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files #to-try-list #hacking #got 
+- [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext 
+
+- [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits #to-try-list #hacking #ssh 
+- [20221014185628](/zet/20221014185628/README.md) kb file named kb/hacking/to-try-lists/SSH.md #idea
+
+- [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits #to-try-list #hacking #ssh 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
+
+- [20221003151170](/zet/20221003151170/README.md) active directory domain old #to-try-list #hacking #active 
+- [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003 #hacking #windows #xp 
+
+- [20221003151170](/zet/20221003151170/README.md) active directory domain old #to-try-list #hacking #active 
+- [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md #idea
+
+- [20221003151170](/zet/20221003151170/README.md) active directory domain old #to-try-list #hacking #active 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
+
+- [20221003151166](/zet/20221003151166/README.md) got access to docker repository #to-try-list #docker
+- [20221009015558](/zet/20221009015558/README.md) docker #docker
+
+- [20221003151166](/zet/20221003151166/README.md) got access to docker repository #to-try-list #docker
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
+
+- [20221003151166](/zet/20221003151166/README.md) got access to docker repository #to-try-list #docker
+- [20221014185635](/zet/20221014185635/README.md) kb file named kb/hacking/to-try-lists/docker-repository.md #idea
+
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
+- [20221003150277](/zet/20221003150277/README.md) pfx extension PKCS#12 format certificate cracking with johntheripper #hacking #file 
+
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
+- [20221003150745](/zet/20221003150745/README.md) cracking keepass database with image key 2 john 
+
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
+- [20221003151179](/zet/20221003151179/README.md) FTP to try list #hacking #to-try-lists
+
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
+- [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12 #command #hacking #openssl 
+
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
+- [20221003150517](/zet/20221003150517/README.md) binary analysis #hacking #pwn #binary 
+
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
+- [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md #idea
+
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
+- [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows 
+
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
+
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
+
+- [20221003151181](/zet/20221003151181/README.md) HTTP compromised CMS login CMS auth code exec / becoming web user #to-try-list #hacking #http 
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
+
+- [20221003151181](/zet/20221003151181/README.md) HTTP compromised CMS login CMS auth code exec / becoming web user #to-try-list #hacking #http 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
+
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits #to-try-list #hacking #privesc #windows #windows 
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working #exploit #windows #smb
 
@@ -21,41 +123,158 @@
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits #to-try-list #hacking #privesc #windows #windows 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
 
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
-- [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service #hacking #cms
+- [20221015022512](/zet/20221015022512/README.md) password reuse to try list #to-try-list
+- [20221003150966](/zet/20221003150966/README.md) OSINT #hacking #osint 
 
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
-- [20221003151025](/zet/20221003151025/README.md) JWT token concept #hacking #jwt 
+- [20221015022512](/zet/20221015022512/README.md) password reuse to try list #to-try-list
+- [20221011181629](/zet/20221011181629/README.md) usernames #notes
 
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
-- [20221019151504](/zet/20221019151504/README.md) error message username enumeration #idea #process #enumeration
-
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
-- [20221003150849](/zet/20221003150849/README.md) hydra brute force HTTP basic authentication #command #hacking #hydra 
-
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
-- [20221003150709](/zet/20221003150709/README.md) sqlmap #command #hacking #sqlmap 
-
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
-- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying #bash #script 
-
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
+- [20221015022512](/zet/20221015022512/README.md) password reuse to try list #to-try-list
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
 
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
+- [20221015022512](/zet/20221015022512/README.md) password reuse to try list #to-try-list
+- [20221008215325](/zet/20221008215325/README.md) password #todo #idea
+
+- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
+- [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog 
+
+- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
+- [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting #command #hacking #feroxbuster 
+
+- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
+- [20221003150739](/zet/20221003150739/README.md) feroxbuster #command #hacking #feroxbuster 
+
+- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
+
+- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
 
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
-- [20221003150291](/zet/20221003150291/README.md) apache 2fa default key 
-
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
-- [20221013180230](/zet/20221013180230/README.md) session cookie, API key, or access token #concept
-
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
+- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
+- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
+
+- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
+- [20221006215135](/zet/20221006215135/README.md) siren #hacking #streamer 
+
+- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
+- [20221003150658](/zet/20221003150658/README.md) wfuzz dirbusting #command #hacking #wfuzz 
+
+- [20221003151189](/zet/20221003151189/README.md) HTTP specific HTTP server exploit possibilities #to-try-list #hacking #http 
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
+
+- [20221003151189](/zet/20221003151189/README.md) HTTP specific HTTP server exploit possibilities #to-try-list #hacking #http 
+- [20221013190422](/zet/20221013190422/README.md) headline exploits #concept #hub #hacking
+
+- [20221003151189](/zet/20221003151189/README.md) HTTP specific HTTP server exploit possibilities #to-try-list #hacking #http 
+- [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py 
+
+- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
+- [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service #hacking #cms
+
+- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
+- [20221003150849](/zet/20221003150849/README.md) hydra brute force HTTP basic authentication #command #hacking #hydra 
+
+- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
+- [20221003150693](/zet/20221003150693/README.md) wpscan initial #command #hacking #wpscan 
+
+- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
+
+- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
+- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL 
+
+- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
+
+- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
+- [20221008221548](/zet/20221008221548/README.md) website #web #http
+
+- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
+
+- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
+- [20221003150500](/zet/20221003150500/README.md) shellshock python2 exploit #hacking #shellshock 
+
+- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
+- [20221003150938](/zet/20221003150938/README.md) searchsploit exploitdb linux kernel exploit privesc #privesc #exploit
+
+- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
+- [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md #idea
+
+- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
+- [20221013190422](/zet/20221013190422/README.md) headline exploits #concept #hub #hacking
+
+- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
+- [20221003150331](/zet/20221003150331/README.md) log4j log4shell 
+
+- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
+- [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560 #hacking #privesc
+
+- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
+
+- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
+
+- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
+- [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures #hacking #lfi 
+
+- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
+- [20221003151225](/zet/20221003151225/README.md) php filter LFI to iconv RCE original get 0 script #hacking #trick #php 
+
+- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
+- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying #bash #script 
+
+- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
+
+- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
+- [20221014081712](/zet/20221014081712/README.md) ways to get hacked #idea
+
+- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
+- [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages 
+
+- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
+
+- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
+
+- [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans #to-try-list #hacking #nmap 
+- [20221014185640](/zet/20221014185640/README.md) kb file named kb/hacking/to-try-lists/nmap-UDP-scan-individual-port-scans.md #idea
+
+- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
+- [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies 
+
+- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
+- [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials 
+
+- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
+- [20221018160416](/zet/20221018160416/README.md) phishing or credential harvesting concept #idea
+
+- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
+- [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking #concept #idea
+
+- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
+
+- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
+
+- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
+- [20221003151177](/zet/20221003151177/README.md) Stuck to try list 
+
+- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
+- [20221003150252](/zet/20221003150252/README.md) httponly cookie option 
+
+- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
+- [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS 
+
+- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221003151176](/zet/20221003151176/README.md) email POP3 / IMAP 
@@ -120,120 +339,6 @@
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221008042814](/zet/20221008042814/README.md) WIP #todo
 
-- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
-- [20221003150517](/zet/20221003150517/README.md) binary analysis #hacking #pwn #binary 
-
-- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
-- [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md #idea
-
-- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
-- [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read 
-
-- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
-- [20221003151164](/zet/20221003151164/README.md) SNMP 
-
-- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
-- [20221008213254](/zet/20221008213254/README.md) file path #file #path
-
-- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo
-
-- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
-- [20221003150231](/zet/20221003150231/README.md) apk analysis #hacking #apk #analysis
-
-- [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files #to-try-list #hacking #got 
-- [20221022210052](/zet/20221022210052/README.md) file type reference #idea
-
-- [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files #to-try-list #hacking #got 
-- [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md #idea
-
-- [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files #to-try-list #hacking #got 
-- [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext 
-
-- [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing #to-try-list #hacking #http 
-- [20221003151020](/zet/20221003151020/README.md) SSTI polyglot payload #ssti #hacking
-
-- [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing #to-try-list #hacking #http 
-- [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS 
-
-- [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing #to-try-list #hacking #http 
-- [20221003150976](/zet/20221003150976/README.md) IDOR general steps 
-
-- [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing #to-try-list #hacking #http 
-- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
-
-- [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing #to-try-list #hacking #http 
-- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access #to-try-list #hacking #active 
-- [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md #idea
-
-- [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access #to-try-list #hacking #active 
-- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access #to-try-list #hacking #active 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
-
-- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
-- [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service #hacking #cms
-
-- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
-- [20221003150849](/zet/20221003150849/README.md) hydra brute force HTTP basic authentication #command #hacking #hydra 
-
-- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
-- [20221003150693](/zet/20221003150693/README.md) wpscan initial #command #hacking #wpscan 
-
-- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
-- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
-
-- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
-- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL 
-
-- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
-- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
-- [20221008221548](/zet/20221008221548/README.md) website #web #http
-
-- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
-
-- [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy #hacking #to-try-list
-- [20221014185632](/zet/20221014185632/README.md) kb file named kb/hacking/to-try-lists/HTTP-proxy-squid-proxy.md #idea
-
-- [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy #hacking #to-try-list
-- [20221008221822](/zet/20221008221822/README.md) www - the web #web
-
-- [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy #hacking #to-try-list
-- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration
-
-- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
-- [20221003150781](/zet/20221003150781/README.md) enum4linux-ng next gen default smb enumeration #command #hacking #enum4linux 
-
-- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
-- [20221014185612](/zet/20221014185612/README.md) kb file named kb/hacking/to-try-lists/SMB.md #idea
-
-- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
-
-- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
-- [20221003150312](/zet/20221003150312/README.md) SMB #hacking #assorted #windows
-
-- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
-- [20221013190422](/zet/20221013190422/README.md) headline exploits #concept #hub #hacking
-
-- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
-- [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap 
-
-- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
-- [20221003151035](/zet/20221003151035/README.md) hidden shares 
-
-- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
-- [20221003151169](/zet/20221003151169/README.md) NFS to try list #nfs #linux
-
-- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
-- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
 - [20221003151025](/zet/20221003151025/README.md) JWT token concept #hacking #jwt 
 
@@ -294,104 +399,74 @@
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD #todo
 
-- [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits #to-try-list #hacking #ssh 
-- [20221014185628](/zet/20221014185628/README.md) kb file named kb/hacking/to-try-lists/SSH.md #idea
+- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
+- [20221003150781](/zet/20221003150781/README.md) enum4linux-ng next gen default smb enumeration #command #hacking #enum4linux 
 
-- [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits #to-try-list #hacking #ssh 
-- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
+- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
+- [20221014185612](/zet/20221014185612/README.md) kb file named kb/hacking/to-try-lists/SMB.md #idea
 
-- [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans #to-try-list #hacking #nmap 
-- [20221014185640](/zet/20221014185640/README.md) kb file named kb/hacking/to-try-lists/nmap-UDP-scan-individual-port-scans.md #idea
-
-- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
-- [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog 
-
-- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
-- [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting #command #hacking #feroxbuster 
-
-- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
-- [20221003150739](/zet/20221003150739/README.md) feroxbuster #command #hacking #feroxbuster 
-
-- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
+- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
 
-- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
-- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
+- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
+- [20221003150312](/zet/20221003150312/README.md) SMB #hacking #assorted #windows
 
-- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
+- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
+- [20221013190422](/zet/20221013190422/README.md) headline exploits #concept #hub #hacking
+
+- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
+- [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap 
+
+- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
+- [20221003151035](/zet/20221003151035/README.md) hidden shares 
+
+- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
+- [20221003151169](/zet/20221003151169/README.md) NFS to try list #nfs #linux
+
+- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
-- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
+- [20221003150862](/zet/20221003150862/README.md) SSH arguments #command #hacking #ssh 
 
-- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
-- [20221006215135](/zet/20221006215135/README.md) siren #hacking #streamer 
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
+- [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force 
 
-- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
-- [20221003150658](/zet/20221003150658/README.md) wfuzz dirbusting #command #hacking #wfuzz 
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
+- [20221003150346](/zet/20221003150346/README.md) SSH brute force #hacking #bruteforcing #ssh
 
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
-- [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies 
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
+- [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm #command #hacking #ssh 
 
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
-- [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials 
-
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
-- [20221018160416](/zet/20221018160416/README.md) phishing or credential harvesting concept #idea
-
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking #concept #idea
 
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
+- [20221014185628](/zet/20221014185628/README.md) kb file named kb/hacking/to-try-lists/SSH.md #idea
+
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
+- [20221014181941](/zet/20221014181941/README.md) general privilege escalation #idea
+
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
 
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
-- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
+- [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty 
 
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
-- [20221003151177](/zet/20221003151177/README.md) Stuck to try list 
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
+- [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud #concept #hub
 
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
-- [20221003150252](/zet/20221003150252/README.md) httponly cookie option 
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
+- [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange 
 
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
-- [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS 
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
+- [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream 
 
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
+- [20221012070318](/zet/20221012070318/README.md) linux terminal #todo #idea
+
+- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
-- [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service #hacking #cms
-
-- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
-
-- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
-- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
-
-- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
-- [20221013180230](/zet/20221013180230/README.md) session cookie, API key, or access token #concept
-
-- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
-- [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages 
-
-- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
-- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
-
-- [20221015022512](/zet/20221015022512/README.md) password reuse to try list #to-try-list
-- [20221003150966](/zet/20221003150966/README.md) OSINT #hacking #osint 
-
-- [20221015022512](/zet/20221015022512/README.md) password reuse to try list #to-try-list
-- [20221011181629](/zet/20221011181629/README.md) usernames #notes
-
-- [20221015022512](/zet/20221015022512/README.md) password reuse to try list #to-try-list
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
-
-- [20221015022512](/zet/20221015022512/README.md) password reuse to try list #to-try-list
-- [20221008215325](/zet/20221008215325/README.md) password #todo #idea
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
 - [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing #hacking #mobile 
@@ -473,6 +548,27 @@
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells #hacking #python
+
+- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
+- [20221003150517](/zet/20221003150517/README.md) binary analysis #hacking #pwn #binary 
+
+- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
+- [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md #idea
+
+- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
+- [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read 
+
+- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
+- [20221003151164](/zet/20221003151164/README.md) SNMP 
+
+- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
+- [20221008213254](/zet/20221008213254/README.md) file path #file #path
+
+- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo
+
+- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
+- [20221003150231](/zet/20221003150231/README.md) apk analysis #hacking #apk #analysis
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003151259](/zet/20221003151259/README.md) stabilize shell with script command 
@@ -585,26 +681,11 @@
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven #hacking #fun #games
 
-- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
-- [20221014185617](/zet/20221014185617/README.md) kb file named kb/hacking/to-try-lists/procedure.md #idea
+- [20221003151211](/zet/20221003151211/README.md) got leaked files jar #to-try-list #hacking #got 
+- [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md #idea
 
-- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
-- [20221003150644](/zet/20221003150644/README.md) nmap all ports command #command #hacking #nmap 
-
-- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
-- [20221003150795](/zet/20221003150795/README.md) generate cewl wordlist from website #command #hacking #generate 
-
-- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
-
-- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
-- [20221011181920](/zet/20221011181920/README.md) working notes - foothold #notes
-
-- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
-- [20221011181531](/zet/20221011181531/README.md) steps #notes
-
-- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
-- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
+- [20221003151211](/zet/20221003151211/README.md) got leaked files jar #to-try-list #hacking #got 
+- [20221003150231](/zet/20221003150231/README.md) apk analysis #hacking #apk #analysis
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003151124](/zet/20221003151124/README.md) dos commands #hacking #windows #dos 
@@ -726,125 +807,143 @@
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003151063](/zet/20221003151063/README.md) bypass UAC with administrators group fodhelper bypass #hacking #windows #uac 
 
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221003150862](/zet/20221003150862/README.md) SSH arguments #command #hacking #ssh 
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force 
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221003150346](/zet/20221003150346/README.md) SSH brute force #hacking #bruteforcing #ssh
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm #command #hacking #ssh 
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking #concept #idea
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221014185628](/zet/20221014185628/README.md) kb file named kb/hacking/to-try-lists/SSH.md #idea
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221014181941](/zet/20221014181941/README.md) general privilege escalation #idea
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty 
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud #concept #hub
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange 
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream 
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221012070318](/zet/20221012070318/README.md) linux terminal #todo #idea
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151189](/zet/20221003151189/README.md) HTTP specific HTTP server exploit possibilities #to-try-list #hacking #http 
+- [20221003151185](/zet/20221003151185/README.md) HTTP bypassing restrictions #to-try-list #hacking #http 
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
 
-- [20221003151189](/zet/20221003151189/README.md) HTTP specific HTTP server exploit possibilities #to-try-list #hacking #http 
-- [20221013190422](/zet/20221013190422/README.md) headline exploits #concept #hub #hacking
-
-- [20221003151189](/zet/20221003151189/README.md) HTTP specific HTTP server exploit possibilities #to-try-list #hacking #http 
-- [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py 
-
-- [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits #to-try-list #hacking #privesc #windows #windows 
-- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working #exploit #windows #smb
-
-- [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits #to-try-list #hacking #privesc #windows #windows 
-- [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md #idea
-
-- [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits #to-try-list #hacking #privesc #windows #windows 
-- [20221013190422](/zet/20221013190422/README.md) headline exploits #concept #hub #hacking
-
-- [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits #to-try-list #hacking #privesc #windows #windows 
+- [20221003151185](/zet/20221003151185/README.md) HTTP bypassing restrictions #to-try-list #hacking #http 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
-- [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits #to-try-list #hacking #privesc #windows #windows 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
+- [20221003151185](/zet/20221003151185/README.md) HTTP bypassing restrictions #to-try-list #hacking #http 
+- [20221006215135](/zet/20221006215135/README.md) siren #hacking #streamer 
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
-- [20221003150462](/zet/20221003150462/README.md) tomcat #hacking #tomcat 
+- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
+- [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service #hacking #cms
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
-- [20221019143424](/zet/20221019143424/README.md) JSON concept #concept #json
+- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
+- [20221003151025](/zet/20221003151025/README.md) JWT token concept #hacking #jwt 
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
+- [20221019151504](/zet/20221019151504/README.md) error message username enumeration #idea #process #enumeration
+
+- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
+- [20221003150849](/zet/20221003150849/README.md) hydra brute force HTTP basic authentication #command #hacking #hydra 
+
+- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
+- [20221003150709](/zet/20221003150709/README.md) sqlmap #command #hacking #sqlmap 
+
+- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying #bash #script 
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
-- [20221015005535](/zet/20221015005535/README.md) werkzeug #idea
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
-- [20221014164014](/zet/20221014164014/README.md) protocol for application communication #idea
+- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
+- [20221003150291](/zet/20221003150291/README.md) apache 2fa default key 
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
-- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration
+- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
+- [20221013180230](/zet/20221013180230/README.md) session cookie, API key, or access token #concept
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
-- [20221003150252](/zet/20221003150252/README.md) httponly cookie option 
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
-- [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS 
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
-- [20221009001740](/zet/20221009001740/README.md) OSCP exam #todo #idea #hacking
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
-- [20221008221548](/zet/20221008221548/README.md) website #web #http
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
-- [20221008221822](/zet/20221008221822/README.md) www - the web #web
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
-- [20221008210209](/zet/20221008210209/README.md) nim makes smaller wasm binaries than rust #nim #rust #wasm
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
-- [20221006215353](/zet/20221006215353/README.md) InsiderPHD #todo
+- [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing #to-try-list #hacking #http 
+- [20221003151020](/zet/20221003151020/README.md) SSTI polyglot payload #ssti #hacking
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing #to-try-list #hacking #http 
+- [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS 
+
+- [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing #to-try-list #hacking #http 
+- [20221003150976](/zet/20221003150976/README.md) IDOR general steps 
+
+- [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing #to-try-list #hacking #http 
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
+
+- [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing #to-try-list #hacking #http 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
+
+- [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks ) #to-try-list #hacking #http 
+- [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking #concept #idea
+
+- [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks ) #to-try-list #hacking #http 
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips #concept #hub #trick #tip
+
+- [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks ) #to-try-list #hacking #http 
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
+
+- [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks ) #to-try-list #hacking #http 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
+
+- [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command #to-try-list #hacking #nmap 
+- [20221014185640](/zet/20221014185640/README.md) kb file named kb/hacking/to-try-lists/nmap-UDP-scan-individual-port-scans.md #idea
+
+- [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access #to-try-list #hacking #active 
+- [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md #idea
+
+- [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access #to-try-list #hacking #active 
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
+
+- [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access #to-try-list #hacking #active 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work #idea
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards #todo #idea
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221010071719](/zet/20221010071719/README.md) nodes to add #todo #idea
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221009104752](/zet/20221009104752/README.md) stuff to research #todo #idea
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221008213627](/zet/20221008213627/README.md) enhancement / improvement #todo #enhancement
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes #todo #idea #github #filehash
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221008061845](/zet/20221008061845/README.md) workflow #workflow #optimization
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221008061334](/zet/20221008061334/README.md) concepts #noun #idea #hub
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221008042814](/zet/20221008042814/README.md) WIP #todo
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list 
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet #fun #fidget #games 
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221006215135](/zet/20221006215135/README.md) siren #hacking #streamer 
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list 
+
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221003151177](/zet/20221003151177/README.md) Stuck to try list 
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory 
@@ -948,126 +1047,6 @@
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings #hacking #repositories #important #tool #repo #windows
 
-- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
-- [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures #hacking #lfi 
-
-- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
-- [20221003151225](/zet/20221003151225/README.md) php filter LFI to iconv RCE original get 0 script #hacking #trick #php 
-
-- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
-- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying #bash #script 
-
-- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
-- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
-
-- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
-- [20221014081712](/zet/20221014081712/README.md) ways to get hacked #idea
-
-- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
-- [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages 
-
-- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
-- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
-
-- [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks ) #to-try-list #hacking #http 
-- [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking #concept #idea
-
-- [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks ) #to-try-list #hacking #http 
-- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips #concept #hub #trick #tip
-
-- [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks ) #to-try-list #hacking #http 
-- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
-
-- [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks ) #to-try-list #hacking #http 
-- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
-- [20221003150500](/zet/20221003150500/README.md) shellshock python2 exploit #hacking #shellshock 
-
-- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
-- [20221003150938](/zet/20221003150938/README.md) searchsploit exploitdb linux kernel exploit privesc #privesc #exploit
-
-- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
-- [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md #idea
-
-- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
-- [20221013190422](/zet/20221013190422/README.md) headline exploits #concept #hub #hacking
-
-- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
-- [20221003150331](/zet/20221003150331/README.md) log4j log4shell 
-
-- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
-- [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560 #hacking #privesc
-
-- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
-- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
-
-- [20221003151181](/zet/20221003151181/README.md) HTTP compromised CMS login CMS auth code exec / becoming web user #to-try-list #hacking #http 
-- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
-
-- [20221003151181](/zet/20221003151181/README.md) HTTP compromised CMS login CMS auth code exec / becoming web user #to-try-list #hacking #http 
-- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work #idea
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards #todo #idea
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221010071719](/zet/20221010071719/README.md) nodes to add #todo #idea
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221009104752](/zet/20221009104752/README.md) stuff to research #todo #idea
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221008213627](/zet/20221008213627/README.md) enhancement / improvement #todo #enhancement
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes #todo #idea #github #filehash
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221008061845](/zet/20221008061845/README.md) workflow #workflow #optimization
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221008061334](/zet/20221008061334/README.md) concepts #noun #idea #hub
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221008042814](/zet/20221008042814/README.md) WIP #todo
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list 
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet #fun #fidget #games 
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221006215135](/zet/20221006215135/README.md) siren #hacking #streamer 
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list 
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221003151177](/zet/20221003151177/README.md) Stuck to try list 
-
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
 - [20221003150855](/zet/20221003150855/README.md) dns commands #command #hacking #dns 
 
@@ -1104,83 +1083,83 @@
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
 - [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration
 
-- [20221003151170](/zet/20221003151170/README.md) active directory domain old #to-try-list #hacking #active 
-- [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003 #hacking #windows #xp 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003150462](/zet/20221003150462/README.md) tomcat #hacking #tomcat 
 
-- [20221003151170](/zet/20221003151170/README.md) active directory domain old #to-try-list #hacking #active 
-- [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md #idea
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221019143424](/zet/20221019143424/README.md) JSON concept #concept #json
 
-- [20221003151170](/zet/20221003151170/README.md) active directory domain old #to-try-list #hacking #active 
-- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying #bash #script 
 
-- [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits #to-try-list #hacking #smb 
-- [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003 #hacking #windows #xp 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221015005535](/zet/20221015005535/README.md) werkzeug #idea
 
-- [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits #to-try-list #hacking #smb 
-- [20221014185612](/zet/20221014185612/README.md) kb file named kb/hacking/to-try-lists/SMB.md #idea
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
 
-- [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits #to-try-list #hacking #smb 
-- [20221013190422](/zet/20221013190422/README.md) headline exploits #concept #hub #hacking
-
-- [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits #to-try-list #hacking #smb 
-- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working #exploit #windows #smb
-
-- [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits #to-try-list #hacking #smb 
-- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151185](/zet/20221003151185/README.md) HTTP bypassing restrictions #to-try-list #hacking #http 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
 
-- [20221003151185](/zet/20221003151185/README.md) HTTP bypassing restrictions #to-try-list #hacking #http 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221014164014](/zet/20221014164014/README.md) protocol for application communication #idea
+
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration
+
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003150252](/zet/20221003150252/README.md) httponly cookie option 
+
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS 
+
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
-- [20221003151185](/zet/20221003151185/README.md) HTTP bypassing restrictions #to-try-list #hacking #http 
-- [20221006215135](/zet/20221006215135/README.md) siren #hacking #streamer 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221009001740](/zet/20221009001740/README.md) OSCP exam #todo #idea #hacking
 
-- [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command #to-try-list #hacking #nmap 
-- [20221014185640](/zet/20221014185640/README.md) kb file named kb/hacking/to-try-lists/nmap-UDP-scan-individual-port-scans.md #idea
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221008221548](/zet/20221008221548/README.md) website #web #http
 
-- [20221003151211](/zet/20221003151211/README.md) got leaked files jar #to-try-list #hacking #got 
-- [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md #idea
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221008221822](/zet/20221008221822/README.md) www - the web #web
 
-- [20221003151211](/zet/20221003151211/README.md) got leaked files jar #to-try-list #hacking #got 
-- [20221003150231](/zet/20221003150231/README.md) apk analysis #hacking #apk #analysis
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221008210209](/zet/20221008210209/README.md) nim makes smaller wasm binaries than rust #nim #rust #wasm
 
-- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
-- [20221003150277](/zet/20221003150277/README.md) pfx extension PKCS#12 format certificate cracking with johntheripper #hacking #file 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
 
-- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
-- [20221003150745](/zet/20221003150745/README.md) cracking keepass database with image key 2 john 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221006215353](/zet/20221006215353/README.md) InsiderPHD #todo
 
-- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
-- [20221003151179](/zet/20221003151179/README.md) FTP to try list #hacking #to-try-lists
+- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo
 
-- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
-- [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12 #command #hacking #openssl 
+- [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits #to-try-list #hacking #privesc #windows #windows 
+- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working #exploit #windows #smb
 
-- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
-- [20221003150517](/zet/20221003150517/README.md) binary analysis #hacking #pwn #binary 
+- [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits #to-try-list #hacking #privesc #windows #windows 
+- [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md #idea
 
-- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
-- [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md #idea
+- [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits #to-try-list #hacking #privesc #windows #windows 
+- [20221013190422](/zet/20221013190422/README.md) headline exploits #concept #hub #hacking
 
-- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
-- [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows 
-
-- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
+- [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits #to-try-list #hacking #privesc #windows #windows 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
-- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
+- [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits #to-try-list #hacking #privesc #windows #windows 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
 
-- [20221003151166](/zet/20221003151166/README.md) got access to docker repository #to-try-list #docker
-- [20221009015558](/zet/20221009015558/README.md) docker #docker
+- [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy #hacking #to-try-list
+- [20221014185632](/zet/20221014185632/README.md) kb file named kb/hacking/to-try-lists/HTTP-proxy-squid-proxy.md #idea
 
-- [20221003151166](/zet/20221003151166/README.md) got access to docker repository #to-try-list #docker
-- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
+- [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy #hacking #to-try-list
+- [20221008221822](/zet/20221008221822/README.md) www - the web #web
 
-- [20221003151166](/zet/20221003151166/README.md) got access to docker repository #to-try-list #docker
-- [20221014185635](/zet/20221014185635/README.md) kb file named kb/hacking/to-try-lists/docker-repository.md #idea
+- [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy #hacking #to-try-list
+- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration
 
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
 - [20221003151240](/zet/20221003151240/README.md) Using touch to make files with strange names for exploiting scripts 
@@ -1226,6 +1205,27 @@
 
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns #bash #hacking
+
+- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
+- [20221014185617](/zet/20221014185617/README.md) kb file named kb/hacking/to-try-lists/procedure.md #idea
+
+- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
+- [20221003150644](/zet/20221003150644/README.md) nmap all ports command #command #hacking #nmap 
+
+- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
+- [20221003150795](/zet/20221003150795/README.md) generate cewl wordlist from website #command #hacking #generate 
+
+- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
+
+- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
+- [20221011181920](/zet/20221011181920/README.md) working notes - foothold #notes
+
+- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
+- [20221011181531](/zet/20221011181531/README.md) steps #notes
+
+- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
 
 ```
 
