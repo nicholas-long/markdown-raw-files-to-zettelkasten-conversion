@@ -2232,7 +2232,7 @@
 20221020230358	zet/20221020230358/README.md	test node 1
 20221020230420	zet/20221020230420/README.md	test node 2 bar
 20221021071146	zet/20221021071146/README.md	delete things marked as #DEL periodically
-20221021081636	zet/20221021081636/README.md	template card to run command in snippet
+20221021081636	zet/20221021081636/README.md	template example card to run command output in snippet
 20221021182334	zet/20221021182334/README.md	project issue workflow
 20221021183918	zet/20221021183918/README.md	C language
 20221021202250	zet/20221021202250/README.md	put all the link titles in square brackets and automatically update them
@@ -2264,3 +2264,4 @@
 20221025221046	zet/20221025221046/README.md	worst tier of AV
 20221025221321	zet/20221025221321/README.md	B-tier of AV
 20221026060602	zet/20221026060602/README.md	remove dependency on lazygit
+20221026064448	zet/20221026064448/README.md	check syntax of dash lists for tabstop 4

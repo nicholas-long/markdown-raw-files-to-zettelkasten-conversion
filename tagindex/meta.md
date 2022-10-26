@@ -1,2 +1,2 @@
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
-- [20221021081636](/zet/20221021081636/README.md) template card to run command in snippet
+- [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet

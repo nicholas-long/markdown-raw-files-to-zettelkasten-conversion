@@ -24,6 +24,7 @@ fi
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
+- [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4
 
 Tags:
 

@@ -14,6 +14,7 @@ hello world!
 
 - [20221011153230](/zet/20221011153230/README.md) template example card for scripts
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
+- [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4
 
 Tags:
 

@@ -507,3 +507,4 @@
 - [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
 - [20221025221321](/zet/20221025221321/README.md) B-tier of AV
 - [20221026060602](/zet/20221026060602/README.md) remove dependency on lazygit
+- [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4
