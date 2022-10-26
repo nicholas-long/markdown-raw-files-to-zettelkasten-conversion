@@ -640,6 +640,7 @@
 - [20221003151023](/zet/20221003151023/README.md) analyzing source code
 - [20221003151024](/zet/20221003151024/README.md) JWT tokens put token in HTTP request to API
 - [20221003151025](/zet/20221003151025/README.md) JWT token concept
+- [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory
 - [20221003151027](/zet/20221003151027/README.md) decrypt azure AD connect passwords powershell MSSQL queries
 - [20221003151028](/zet/20221003151028/README.md) decrypt azure AD connect passwords
 - [20221003151033](/zet/20221003151033/README.md) applocker limit allowed executables and allowed paths bypass executable blocking

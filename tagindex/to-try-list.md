@@ -1,4 +1,5 @@
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
+- [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory
 - [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
 - [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans
 - [20221003151166](/zet/20221003151166/README.md) got access to docker repository

@@ -1,4 +1,5 @@
 # common misconfigurations of active directory
+
 - sensitive information on file shares
 - passwords in AD description
 - weaponized lnk
@@ -19,4 +20,4 @@
 
 Tags:
 
-    
+    #to-try-list #hacking #info

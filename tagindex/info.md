@@ -1,1 +1,2 @@
+- [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory
 - [20221018193528](/zet/20221018193528/README.md) bash shell builtin commands
