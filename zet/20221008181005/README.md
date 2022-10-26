@@ -27,4 +27,4 @@ sources:
 
 Tags:
 
-    #todo #idea #github #filehash
+    #todo #idea #github #filehash #trick

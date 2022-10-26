@@ -20,4 +20,4 @@
 
 Tags:
 
-    #idea
+    #info #trick #file #analysis #exploit

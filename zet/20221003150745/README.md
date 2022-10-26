@@ -16,4 +16,4 @@ For hashcat, make sure all hashes load or do one at a time
 
 Tags:
 
-    
+    #command #crack
