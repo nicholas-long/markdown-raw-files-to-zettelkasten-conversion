@@ -51,6 +51,7 @@ things that are finished.
 - [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step
 - [20221026080325](/zet/20221026080325/README.md) move code to add tags to zetcmd
 - [20221026152737](/zet/20221026152737/README.md) template snippet cards not getting run because of parameter issues
+- [20221026165857](/zet/20221026165857/README.md) template example card to replace second snippet
 
 Tags:
 
