@@ -63,6 +63,7 @@
 #debug
 #debugging
 #decrypt
+#defense
 #DEL
 #deserialization
 #diag
@@ -79,6 +80,7 @@
 #dump
 #edit
 #editor
+#email
 #enable
 #encode
 #enh
@@ -275,7 +277,6 @@
 #tldr
 #tmux
 #to-try-list
-#to-try-lists
 #todo
 #tomcat
 #tool

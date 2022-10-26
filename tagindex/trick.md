@@ -1,6 +1,9 @@
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
+- [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
+- [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
+- [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
 - [20221003150466](/zet/20221003150466/README.md) powershell tricks convert guid to string
 - [20221003150467](/zet/20221003150467/README.md) powershell tricks browse and edit registry read registry values
 - [20221003150468](/zet/20221003150468/README.md) powershell tricks browse and edit registry set registry values
@@ -25,8 +28,10 @@
 - [20221003151215](/zet/20221003151215/README.md) caddy install
 - [20221003151216](/zet/20221003151216/README.md) caddy stand up https server with a valid certificate
 - [20221003151217](/zet/20221003151217/README.md) caddy
+- [20221003151218](/zet/20221003151218/README.md) send email over SMTP from command line with swaks
 - [20221003151219](/zet/20221003151219/README.md) hql injection auth bypass example
 - [20221003151220](/zet/20221003151220/README.md) hql injection
+- [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup
 - [20221003151222](/zet/20221003151222/README.md) identify linux version from service version ubuntu
 - [20221003151223](/zet/20221003151223/README.md) identify linux version from service version
 - [20221003151224](/zet/20221003151224/README.md) php filter LFI to iconv RCE updated conversion table for all base64 (hacktricks)
@@ -64,6 +69,7 @@
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
 - [20221003151315](/zet/20221003151315/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it
+- [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips

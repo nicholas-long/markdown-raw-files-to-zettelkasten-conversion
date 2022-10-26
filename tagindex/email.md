@@ -1,0 +1,1 @@
+- [20221003151218](/zet/20221003151218/README.md) send email over SMTP from command line with swaks

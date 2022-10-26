@@ -5,6 +5,7 @@
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221009021452](/zet/20221009021452/README.md) container
+- [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221012070358](/zet/20221012070358/README.md) recording and logging
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221013173355](/zet/20221013173355/README.md) enumeration - the process of enumerating a target

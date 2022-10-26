@@ -1,3 +1,4 @@
+- [20221003150341](/zet/20221003150341/README.md) cms database creds config locations
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
 - [20221003150677](/zet/20221003150677/README.md) bloodhound
 - [20221003151144](/zet/20221003151144/README.md) active directory
@@ -13,6 +14,7 @@
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221009021452](/zet/20221009021452/README.md) container
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
+- [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
 - [20221013185120](/zet/20221013185120/README.md) concept of cryptography

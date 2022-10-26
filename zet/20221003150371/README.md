@@ -22,4 +22,4 @@
 
 Tags:
 
-    #hacking #repositories #important #web #creds
+    #hacking #repositories #important #web #creds #trick

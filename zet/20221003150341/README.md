@@ -1,4 +1,4 @@
-# database creds
+# cms database creds config locations
 - wordpress `wp-config.php`
 - drupal `sites/default/settings.php`
 
@@ -13,4 +13,4 @@
 
 Tags:
 
-    
+    #hub #creds #database #cms

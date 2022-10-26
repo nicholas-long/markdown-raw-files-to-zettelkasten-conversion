@@ -130,6 +130,7 @@
 - [20221003150431](/zet/20221003150431/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale
 - [20221003150432](/zet/20221003150432/README.md) generate wordlists namemash - simple
 - [20221003150433](/zet/20221003150433/README.md) generate wordlists
+- [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
 - [20221003150447](/zet/20221003150447/README.md) poppler utils PDF parsing pdftotext pdftohtml pdfinfo pdfimages
 - [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing
 - [20221003150451](/zet/20221003150451/README.md) java decompiler JD-GUI analyze jar file
@@ -192,6 +193,7 @@
 - [20221003150522](/zet/20221003150522/README.md) calling conventions
 - [20221003150524](/zet/20221003150524/README.md) make executable binary with input shellcode msfvenom
 - [20221003150525](/zet/20221003150525/README.md) make executable binary with input shellcode
+- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list
 - [20221003150527](/zet/20221003150527/README.md) generate reverse shell shellcode payload for pwn
 - [20221003150528](/zet/20221003150528/README.md) gdb commands debug step into / follow child process
 - [20221003150529](/zet/20221003150529/README.md) gdb commands

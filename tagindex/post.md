@@ -1,1 +1,2 @@
+- [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy

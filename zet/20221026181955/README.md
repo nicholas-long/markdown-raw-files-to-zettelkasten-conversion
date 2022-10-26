@@ -14,20 +14,20 @@
   - fix?
 
 ```
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file #hacking #load 
+- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list #to-try-list #hacking #pwn
+- [20221003150518](/zet/20221003150518/README.md) pwntools sigreturn 
 
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003151218](/zet/20221003151218/README.md) send email over SMTP from command line with swaks 
+- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list #to-try-list #hacking #pwn
+- [20221003150523](/zet/20221003150523/README.md) heap exploit resources 
 
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221006214729](/zet/20221006214729/README.md) alh4zr3d #streamers #video 
+- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list #to-try-list #hacking #pwn
+- [20221003150527](/zet/20221003150527/README.md) generate reverse shell shellcode payload for pwn #pwn #hacking
+
+- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list #to-try-list #hacking #pwn
+- [20221006215135](/zet/20221006215135/README.md) siren #hacking #streamer 
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page #meta
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221011181920](/zet/20221011181920/README.md) working notes - foothold #notes
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands #ad #kerberos #windows #activedirectory
@@ -37,24 +37,6 @@
 
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
 - [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange 
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream 
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221012070318](/zet/20221012070318/README.md) linux terminal #todo #idea
-
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
-- [20221003150341](/zet/20221003150341/README.md) database creds 
-
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
-- [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers #hacking #repositories #important #web #creds
-
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
-- [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials 
-
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
-- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list 
 
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list 
@@ -69,10 +51,10 @@
 - [20221003151177](/zet/20221003151177/README.md) Stuck to try list 
 
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
-- [20221003151179](/zet/20221003151179/README.md) FTP to try list #hacking #to-try-lists
-
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
 - [20221003151441](/zet/20221003151441/README.md) awk scripting #awk #script #example 
+
+- [20221003151179](/zet/20221003151179/README.md) FTP to try list #hacking #to-try-list
+- [20221014164014](/zet/20221014164014/README.md) protocol for application communication #idea
 
 - [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages 
@@ -275,12 +257,6 @@
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221015005535](/zet/20221015005535/README.md) werkzeug #idea
 
-- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
-- [20221011181531](/zet/20221011181531/README.md) steps #notes
-
-- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
-- [20221011181920](/zet/20221011181920/README.md) working notes - foothold #notes
-
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
 - [20221003150134](/zet/20221003150134/README.md) DNS commands #linux #assorted 
 
@@ -330,19 +306,10 @@
 - [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI 
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers #hacking #repositories #important #web #creds
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py 
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file #hacking #load 
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows 
@@ -378,9 +345,6 @@
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem 
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221008215655](/zet/20221008215655/README.md) user account #todo #idea
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
@@ -388,9 +352,6 @@
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version #todo #idea
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221011182016](/zet/20221011182016/README.md) working notes - privesc #notes
 
 - [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
 - [20221003150331](/zet/20221003150331/README.md) log4j log4shell 
@@ -420,9 +381,6 @@
 - [20221003151240](/zet/20221003151240/README.md) Using touch to make files with strange names for exploiting scripts 
 
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
-- [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos #linux #video #notes 
-
-- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns #bash #hacking
 
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
@@ -448,9 +406,6 @@
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script 
-
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers #hacking #repositories #important #web #creds
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py 
@@ -507,9 +462,6 @@
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker #docker #question
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221011182016](/zet/20221011182016/README.md) working notes - privesc #notes
-
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session #todo #idea
 
 - [20221003151211](/zet/20221003151211/README.md) got leaked files jar #to-try-list #hacking #got 
@@ -533,9 +485,6 @@
 - [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
 - [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows 
 
-- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
-- [20221003151179](/zet/20221003151179/README.md) FTP to try list #hacking #to-try-lists
-
 - [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
 - [20221003150231](/zet/20221003150231/README.md) apk analysis #hacking #apk #analysis
 
@@ -553,9 +502,6 @@
 
 - [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
 - [20221008213254](/zet/20221008213254/README.md) file path #file #path
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list 
 
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list 
@@ -606,9 +552,6 @@
 - [20221003151176](/zet/20221003151176/README.md) email POP3 / IMAP 
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
-- [20221003151179](/zet/20221003151179/README.md) FTP to try list #hacking #to-try-lists
-
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221003151196](/zet/20221003151196/README.md) IPMI 
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
@@ -630,12 +573,6 @@
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page #meta
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
-- [20221010182721](/zet/20221010182721/README.md) how was hacktricks made? #question #hacking #notes
-
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
-- [20221011181920](/zet/20221011181920/README.md) working notes - foothold #notes
-
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221011190351](/zet/20221011190351/README.md) fix to try list cards #markdown
 
 - [20221015022512](/zet/20221015022512/README.md) password reuse to try list #to-try-list
@@ -643,9 +580,6 @@
 
 - [20221015022512](/zet/20221015022512/README.md) password reuse to try list #to-try-list
 - [20221008215325](/zet/20221008215325/README.md) password #todo #idea
-
-- [20221015022512](/zet/20221015022512/README.md) password reuse to try list #to-try-list
-- [20221011181629](/zet/20221011181629/README.md) usernames #notes
 
 ```
 

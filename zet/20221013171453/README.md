@@ -38,6 +38,7 @@
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150377](/zet/20221003150377/README.md) oracle database attacking tool ODAT can execute system commands
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
+- [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
 
 Tags:
 

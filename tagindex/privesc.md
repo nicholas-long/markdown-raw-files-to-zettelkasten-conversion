@@ -1,3 +1,4 @@
+- [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
 - [20221003150875](/zet/20221003150875/README.md) sudo sudoers file all nopassword
 - [20221003150876](/zet/20221003150876/README.md) sudo sudoers file
 - [20221003150877](/zet/20221003150877/README.md) dirty cow privilege escalation working version build on attacker machine with statically linked binaries embedded

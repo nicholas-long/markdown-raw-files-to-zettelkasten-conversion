@@ -1,1 +1,0 @@
-- [20221003151179](/zet/20221003151179/README.md) FTP to try list

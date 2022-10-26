@@ -1,3 +1,4 @@
+- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory
 - [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
@@ -10,6 +11,7 @@
 - [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
+- [20221003151179](/zet/20221003151179/README.md) FTP to try list
 - [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks )
 - [20221003151181](/zet/20221003151181/README.md) HTTP compromised CMS login CMS auth code exec / becoming web user
 - [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login

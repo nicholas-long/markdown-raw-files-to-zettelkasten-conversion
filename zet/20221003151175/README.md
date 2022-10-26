@@ -46,7 +46,7 @@
 - [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
-- [20221003150341](/zet/20221003150341/README.md) database creds
+- [20221003150341](/zet/20221003150341/README.md) cms database creds config locations
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 

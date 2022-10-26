@@ -38,4 +38,4 @@ the concept of `linux terminal`
 
 Tags:
 
-    #todo #idea
+    #todo #idea #concept #hub
