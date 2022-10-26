@@ -67,7 +67,7 @@ ENDFILE {
 }
 END {
   for (id in cleanup) print "cleanup", id
-  for (x in seenref) if ( seenref[x] != 2 ) { # xref ordering trick
+  for (x in seenref) if ( seenref[x] < 2 ) { # xref ordering trick
     if (seenooo[x]) { # if seen out of order, then flip
       split(x,arr," ")
       print "backlink", arr[2], arr[1], 1
