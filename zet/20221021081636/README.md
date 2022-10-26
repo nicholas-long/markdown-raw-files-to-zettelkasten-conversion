@@ -3,7 +3,7 @@
 - template card to run command in snippet
 
 ```
-hello world!
+hello world again!
 ```
 
 - install: ` cp zet/20221021081636/{autoexec_enrich,snippet} zet/$newid `
