@@ -27,4 +27,4 @@ https://osintframework.com/
 
 Tags:
 
-    #hacking #osint 
+    #hacking #tool #web #osint

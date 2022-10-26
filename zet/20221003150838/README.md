@@ -19,4 +19,4 @@ nmap --script smb-vuln* $IP
 
 Tags:
 
-    
+    #command #hacking #enumeration
