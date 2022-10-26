@@ -17,6 +17,7 @@
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221008221548](/zet/20221008221548/README.md) website
+- [20221026190658](/zet/20221026190658/README.md) learn more about 5-4-3 rule in networking
 
 Tags:
 

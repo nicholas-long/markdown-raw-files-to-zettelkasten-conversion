@@ -20,6 +20,7 @@ node for hackthebox.
 - [20221006214348](/zet/20221006214348/README.md) ippsec
 - [20221006213414](/zet/20221006213414/README.md) retired machines
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
+- [20221026190658](/zet/20221026190658/README.md) learn more about 5-4-3 rule in networking
 
 Tags:
 

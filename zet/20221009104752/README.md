@@ -18,7 +18,7 @@
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221023084432](/zet/20221023084432/README.md) graph theory
 - [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
-- [20221026190658](/zet/20221026190658/README.md) 5-4-3 rule in networking
+- [20221026190658](/zet/20221026190658/README.md) learn more about 5-4-3 rule in networking
 
 Tags:
 
