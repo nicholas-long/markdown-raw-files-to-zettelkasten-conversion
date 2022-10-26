@@ -1,3 +1,4 @@
+- [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs
 - [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [20221020193850](/zet/20221020193850/README.md) what is knowledge management

@@ -3,6 +3,7 @@
 - [20221003150677](/zet/20221003150677/README.md) bloodhound
 - [20221003151144](/zet/20221003151144/README.md) active directory
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
+- [20221003151441](/zet/20221003151441/README.md) awk scripting
 - [20221006214142](/zet/20221006214142/README.md) streamers
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub

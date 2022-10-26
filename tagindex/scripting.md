@@ -1,2 +1,3 @@
+- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221007023939](/zet/20221007023939/README.md) python ternary operator

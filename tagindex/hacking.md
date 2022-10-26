@@ -50,6 +50,7 @@
 - [20221003150287](/zet/20221003150287/README.md) default webroots xampp
 - [20221003150288](/zet/20221003150288/README.md) default webroots wamp
 - [20221003150289](/zet/20221003150289/README.md) default webroots
+- [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
 - [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
 - [20221003150296](/zet/20221003150296/README.md) fixing golang module errors no required module provides package
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
@@ -593,8 +594,10 @@
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
 - [20221003150969](/zet/20221003150969/README.md) mobile apps and API testing steps for mobile app API + burpsuite
 - [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing
+- [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs
 - [20221003150974](/zet/20221003150974/README.md) XXE xml external entity exfiltrate file out of band payload
 - [20221003150975](/zet/20221003150975/README.md) XXE xml external entity
+- [20221003150976](/zet/20221003150976/README.md) IDOR general steps
 - [20221003150977](/zet/20221003150977/README.md) oracle connect as sysdba enable file read privileges
 - [20221003150978](/zet/20221003150978/README.md) oracle
 - [20221003150979](/zet/20221003150979/README.md) mariadb mysql files read database users
@@ -607,6 +610,7 @@
 - [20221003150986](/zet/20221003150986/README.md) mariadb mysql SQLi concat multiple values into one field rows
 - [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi
 - [20221003150988](/zet/20221003150988/README.md) mariadb mysql
+- [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
 - [20221003150990](/zet/20221003150990/README.md) GraphQL APIs example GraphQL queries from InsiderPHD video
 - [20221003150991](/zet/20221003150991/README.md) GraphQL APIs writing GraphQL mutations
 - [20221003150992](/zet/20221003150992/README.md) GraphQL APIs writing GraphQL queries
@@ -824,6 +828,7 @@
 - [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory
 - [20221003151262](/zet/20221003151262/README.md) windows executable smartscreen protection bypass ( apt 29 )
 - [20221003151263](/zet/20221003151263/README.md) windows executable smartscreen protection
+- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 - [20221006213311](/zet/20221006213311/README.md) hackthebox
 - [20221006213649](/zet/20221006213649/README.md) offensive security

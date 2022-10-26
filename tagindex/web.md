@@ -10,12 +10,16 @@
 - [20221003150287](/zet/20221003150287/README.md) default webroots xampp
 - [20221003150288](/zet/20221003150288/README.md) default webroots wamp
 - [20221003150289](/zet/20221003150289/README.md) default webroots
+- [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
 - [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
 - [20221003150313](/zet/20221003150313/README.md) default http config locations FreeBSD
 - [20221003150343](/zet/20221003150343/README.md) wordpress
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
 - [20221003150682](/zet/20221003150682/README.md) web enumeration quick commands forms
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
+- [20221003150976](/zet/20221003150976/README.md) IDOR general steps
+- [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
+- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221008221548](/zet/20221008221548/README.md) website
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys

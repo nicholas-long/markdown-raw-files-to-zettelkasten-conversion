@@ -54,6 +54,7 @@
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
+- [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
 
 Tags:
 

@@ -22,89 +22,53 @@
   - fix
 
 ```
+- [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs #to-try-list #hacking #videonotes #notes
+- [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow #hacking #api 
+
+- [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs #to-try-list #hacking #videonotes #notes
+- [20221003151006](/zet/20221003151006/README.md) API enumeration #hacking #api 
+
+- [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs #to-try-list #hacking #videonotes #notes
+- [20221006215353](/zet/20221006215353/README.md) InsiderPHD #todo
+
+- [20221003150976](/zet/20221003150976/README.md) IDOR general steps #bug #to-try-list #hacking #api #web
+- [20221003150996](/zet/20221003150996/README.md) GraphQL APIs common GraphQL bugs #hacking #api 
+
+- [20221003150976](/zet/20221003150976/README.md) IDOR general steps #bug #to-try-list #hacking #api #web
+- [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow #hacking #api 
+
+- [20221003151169](/zet/20221003151169/README.md) NFS to try list #nfs #linux #to-try-list
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem 
+
+- [20221003151169](/zet/20221003151169/README.md) NFS to try list #nfs #linux #to-try-list
+- [20221006025356](/zet/20221006025356/README.md) linux #todo
+
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page #meta
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange 
-
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
-- [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list 
 
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
 - [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin #hacking #windows #windows 
 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
-- [20221003151169](/zet/20221003151169/README.md) NFS to try list #nfs #linux
-
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
-- [20221003151177](/zet/20221003151177/README.md) Stuck to try list 
-
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
-- [20221003151441](/zet/20221003151441/README.md) awk scripting #awk #script #example 
+- [20221003151177](/zet/20221003151177/README.md) Stuck to try list #to-try-list
+- [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet #fun #fidget #games 
 
 - [20221003151179](/zet/20221003151179/README.md) FTP to try list #hacking #to-try-list
 - [20221014164014](/zet/20221014164014/README.md) protocol for application communication #idea
-
-- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
-- [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages 
-
-- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
-- [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service #hacking #cms
-
-- [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing #to-try-list #hacking #http 
-- [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS 
-
-- [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing #to-try-list #hacking #http 
-- [20221003150976](/zet/20221003150976/README.md) IDOR general steps 
-
-- [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing #to-try-list #hacking #http 
-- [20221003151020](/zet/20221003151020/README.md) SSTI polyglot payload #ssti #hacking
-
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
-- [20221003150291](/zet/20221003150291/README.md) apache 2fa default key 
-
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
-- [20221003151025](/zet/20221003151025/README.md) JWT token concept #hacking #jwt 
-
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
-- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying #bash #script 
-
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
-- [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service #hacking #cms
 
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
 - [20221019151504](/zet/20221019151504/README.md) error message username enumeration #idea #process #enumeration
 
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
-- [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages 
-
-- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
-- [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap 
+- [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap #repo #ssti
 
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
 - [20221003150441](/zet/20221003150441/README.md) OWASP cheat sheet series 
-
-- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
-- [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs 
-
-- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
-- [20221003150976](/zet/20221003150976/README.md) IDOR general steps 
 
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
 - [20221003150995](/zet/20221003150995/README.md) GraphQL APIs GraphQL tools #hacking #api 
 
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow #hacking #api 
-
-- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
-- [20221003151020](/zet/20221003151020/README.md) SSTI polyglot payload #ssti #hacking
-
-- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
-- [20221003151025](/zet/20221003151025/README.md) JWT token concept #hacking #jwt 
-
-- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
-- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying #bash #script 
 
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD #todo
@@ -116,22 +80,13 @@
 - [20221019151504](/zet/20221019151504/README.md) error message username enumeration #idea #process #enumeration
 
 - [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
-- [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages 
-
-- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
 - [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures #hacking #lfi 
-
-- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
-- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying #bash #script 
 
 - [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked #idea
 
 - [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL 
-
-- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
-- [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service #hacking #cms
 
 - [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
 - [20221008221548](/zet/20221008221548/README.md) website #web #http
@@ -152,16 +107,7 @@
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials 
 
 - [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
-- [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS 
-
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
-- [20221003151177](/zet/20221003151177/README.md) Stuck to try list 
-
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
 - [20221018160416](/zet/20221018160416/README.md) phishing or credential harvesting concept #idea
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003150291](/zet/20221003150291/README.md) apache 2fa default key 
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
 - [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For #hacking #http #web
@@ -185,13 +131,7 @@
 - [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing #hacking #mobile 
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003150976](/zet/20221003150976/README.md) IDOR general steps 
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
 - [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write #hacking #sqli 
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003151025](/zet/20221003151025/README.md) JWT token concept #hacking #jwt 
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
 - [20221003151167](/zet/20221003151167/README.md) got hashes 
@@ -210,12 +150,6 @@
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221003150462](/zet/20221003150462/README.md) tomcat #hacking #tomcat 
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
-- [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS 
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
-- [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying #bash #script 
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo
@@ -264,9 +198,6 @@
 
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
 - [20221003151035](/zet/20221003151035/README.md) hidden shares 
-
-- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
-- [20221003151169](/zet/20221003151169/README.md) NFS to try list #nfs #linux
 
 - [20221003151201](/zet/20221003151201/README.md) RDP #to-try-list #hacking #remoteaccess #rdp #windows
 - [20221003150250](/zet/20221003150250/README.md) Apache guacamole RDP VNC SSH in web browser #hacking #buzzwords #buzzwords 
@@ -482,12 +413,6 @@
 - [20221008213254](/zet/20221008213254/README.md) file path #file #path
 
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list 
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221003151177](/zet/20221003151177/README.md) Stuck to try list 
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo
 
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
@@ -519,9 +444,6 @@
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221003151164](/zet/20221003151164/README.md) SNMP 
-
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
-- [20221003151169](/zet/20221003151169/README.md) NFS to try list #nfs #linux
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221003151176](/zet/20221003151176/README.md) email POP3 / IMAP 

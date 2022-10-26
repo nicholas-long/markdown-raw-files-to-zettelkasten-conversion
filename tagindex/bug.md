@@ -1,2 +1,3 @@
+- [20221003150976](/zet/20221003150976/README.md) IDOR general steps
 - [20221015021344](/zet/20221015021344/README.md) graph explorer does not let you add 0 links or back out of link screen
 - [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step

@@ -11,7 +11,6 @@ zet/20221012171100/README.md
 # Related
 
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
-- [20221026135114](/zet/20221026135114/README.md) add step to check for duplicate links in enrich scanrefs
 - [20221026135851](/zet/20221026135851/README.md) make graph browser run properly from any path like zetcmd
 - [20221026152737](/zet/20221026152737/README.md) template snippet cards not getting run because of parameter issues
 - [20221026165857](/zet/20221026165857/README.md) template example card to replace second snippet

@@ -1,1 +1,2 @@
+- [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
 - [20221003151020](/zet/20221003151020/README.md) SSTI polyglot payload

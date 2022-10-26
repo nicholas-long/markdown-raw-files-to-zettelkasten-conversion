@@ -1,4 +1,7 @@
+- [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange
 - [20221003150523](/zet/20221003150523/README.md) heap exploit resources
+- [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory
+- [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
 - [20221018193528](/zet/20221018193528/README.md) bash shell builtin commands

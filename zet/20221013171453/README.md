@@ -39,6 +39,7 @@
 - [20221003150377](/zet/20221003150377/README.md) oracle database attacking tool ODAT can execute system commands
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
+- [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
 
 Tags:
 
