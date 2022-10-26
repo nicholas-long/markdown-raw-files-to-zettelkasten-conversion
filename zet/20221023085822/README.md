@@ -24,8 +24,10 @@
 - added `follow`
   - should append matching paths to current
   - untested
+- combine this version of script with graphquery or use a parent script to select them based on syntax?
 - idea: could call graphquery as a subprocess within pathquery
   - parent script could sort out who needs to be called?
+- yaml queries still need to be implemented in graphquery and here?
 
 ```
 zet/20221023085822/walkquery
