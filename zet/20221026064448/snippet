@@ -1,7 +1,9 @@
 #!/bin/bash
 
 awk '
-/^ *- / {
+BEGINFILE { snip = 0 }
+/```/ { snip = !snip }
+!snip && /^ *- / {
   m = match($0, /^ */)
   space = RLENGTH
   if (space - lastspace > 2) { print FILENAME, $0 }
