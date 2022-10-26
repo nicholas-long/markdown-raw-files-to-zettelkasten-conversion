@@ -7,7 +7,12 @@ implemented:
 - add executable file named `autoexec_enrich` to card
 
 ```
--rwxr-xr-x    1 kali kali  480 2022-10-08 07:34:11.336000000 +0000 autoexec_enrich
+zet/20221009192000/autoexec_enrich
+zet/20221006032546/autoexec_enrich
+zet/20221012144502/autoexec_enrich
+zet/20221008063052/autoexec_enrich
+zet/20221026064448/autoexec_enrich
+zet/20221021081636/autoexec_enrich
 ```
 
 ` zet/20221008063052/README.md `
