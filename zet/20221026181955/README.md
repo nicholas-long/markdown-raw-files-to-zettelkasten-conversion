@@ -49,12 +49,6 @@
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory 
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working #exploit #windows #smb
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003151053](/zet/20221003151053/README.md) lsass process contains credentials 
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003151203](/zet/20221003151203/README.md) LDAP #ad #ldap
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
@@ -430,9 +424,6 @@
 - [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes 
 
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits #to-try-list #hacking #smb 
-- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working #exploit #windows #smb
-
-- [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits #to-try-list #hacking #smb 
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003 #hacking #windows #xp 
 
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits #to-try-list #hacking #smb 
@@ -463,13 +454,7 @@
 - [20221003151153](/zet/20221003151153/README.md) windows #windows
 
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits #to-try-list #hacking #privesc #windows #windows 
-- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working #exploit #windows #smb
-
-- [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits #to-try-list #hacking #privesc #windows #windows 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits #to-try-list #hacking #privesc #windows #windows 
-- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working #exploit #windows #smb
 
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits #to-try-list #hacking #privesc #windows #windows 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
@@ -503,9 +488,6 @@
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003151053](/zet/20221003151053/README.md) lsass process contains credentials 
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read 
@@ -575,9 +557,6 @@
 
 - [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
 - [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560 #hacking #privesc
-
-- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
-- [20221003150938](/zet/20221003150938/README.md) searchsploit exploitdb linux kernel exploit privesc #privesc #exploit
 
 - [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
@@ -674,9 +653,6 @@
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems #hacking #privesc #lxd 
-
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221003150938](/zet/20221003150938/README.md) searchsploit exploitdb linux kernel exploit privesc #privesc #exploit
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003151165](/zet/20221003151165/README.md) TFTP udp 69 to try list #file #udp
