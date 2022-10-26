@@ -37,6 +37,7 @@ tips:
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221007194303](/zet/20221007194303/README.md) github
+- [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
 
 Tags:
 
