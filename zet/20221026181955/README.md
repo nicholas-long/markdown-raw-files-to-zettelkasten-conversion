@@ -4,11 +4,20 @@
 - hubs should definitely be labeled as hubs
 
 ```
-- [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy #hacking #to-try-list
-- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration
+- [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound #to-try-list #hacking #bloodhound
+- [20221003151144](/zet/20221003151144/README.md) active directory  #hacking #windows #windows 
+
+- [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound #to-try-list #hacking #bloodhound
+- [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target #hacking #windows #ad 
+
+- [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound #to-try-list #hacking #bloodhound
+- [20221008061845](/zet/20221008061845/README.md) workflow #workflow #optimization
+
+- [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound #to-try-list #hacking #bloodhound
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
 - [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy #hacking #to-try-list
-- [20221008221822](/zet/20221008221822/README.md) www - the web #web
+- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration
 
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old #to-try-list #hacking #active 
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003 #hacking #windows #xp 
@@ -17,7 +26,7 @@
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003150352](/zet/20221003150352/README.md) fake set change system time for command 
+- [20221003150352](/zet/20221003150352/README.md) fake set change system time for command #command
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf 
@@ -56,9 +65,6 @@
 - [20221003150752](/zet/20221003150752/README.md) kerbrute enumerate users using wordlist #command #hacking #windows #windows 
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound 
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory 
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
@@ -66,12 +72,6 @@
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003151053](/zet/20221003151053/README.md) lsass process contains credentials 
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003151201](/zet/20221003151201/README.md) RDP 
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986 
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003151203](/zet/20221003151203/README.md) LDAP #ad #ldap
@@ -437,57 +437,51 @@
 - [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog 
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221008221822](/zet/20221008221822/README.md) www - the web #web
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
 - [20221013180230](/zet/20221013180230/README.md) session cookie, API key, or access token #concept
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221003150252](/zet/20221003150252/README.md) httponly cookie option 
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221003150462](/zet/20221003150462/README.md) tomcat #hacking #tomcat 
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS 
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying #bash #script 
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD #todo
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221008210209](/zet/20221008210209/README.md) nim makes smaller wasm binaries than rust #nim #rust #wasm
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221008221548](/zet/20221008221548/README.md) website #web #http
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
-- [20221008221822](/zet/20221008221822/README.md) www - the web #web
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam #todo #idea #hacking
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221014164014](/zet/20221014164014/README.md) protocol for application communication #idea
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221015005535](/zet/20221015005535/README.md) werkzeug #idea
 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
+- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221019143424](/zet/20221019143424/README.md) JSON concept #concept #json
 
 - [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
@@ -555,6 +549,27 @@
 
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
+
+- [20221003151201](/zet/20221003151201/README.md) RDP #to-try-list #hacking #remoteaccess #rdp #windows
+- [20221003150250](/zet/20221003150250/README.md) Apache guacamole RDP VNC SSH in web browser #hacking #buzzwords #buzzwords 
+
+- [20221003151201](/zet/20221003151201/README.md) RDP #to-try-list #hacking #remoteaccess #rdp #windows
+- [20221003150488](/zet/20221003150488/README.md) active directory #command #hacking #powershell 
+
+- [20221003151201](/zet/20221003151201/README.md) RDP #to-try-list #hacking #remoteaccess #rdp #windows
+- [20221003150779](/zet/20221003150779/README.md) crowbar brute force RDP #command #hacking #crowbar 
+
+- [20221003151201](/zet/20221003151201/README.md) RDP #to-try-list #hacking #remoteaccess #rdp #windows
+- [20221003151144](/zet/20221003151144/README.md) active directory  #hacking #windows #windows 
+
+- [20221003151201](/zet/20221003151201/README.md) RDP #to-try-list #hacking #remoteaccess #rdp #windows
+- [20221003151153](/zet/20221003151153/README.md) windows #windows
+
+- [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986 #to-try-list #hacking
+- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration
+
+- [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986 #to-try-list #hacking
+- [20221003150644](/zet/20221003150644/README.md) nmap all ports command #command #hacking #nmap 
 
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits #to-try-list #hacking #privesc #windows #windows 
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working #exploit #windows #smb
@@ -642,9 +657,6 @@
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003151201](/zet/20221003151201/README.md) RDP 
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003151203](/zet/20221003151203/README.md) LDAP #ad #ldap
@@ -932,9 +944,6 @@
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP 
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
-- [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound 
-
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221003151164](/zet/20221003151164/README.md) SNMP 
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
@@ -954,9 +963,6 @@
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem 
-
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
-- [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986 
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221003151203](/zet/20221003151203/README.md) LDAP #ad #ldap

@@ -1,3 +1,4 @@
+- [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
 - [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
 - [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans
 - [20221003151166](/zet/20221003151166/README.md) got access to docker repository
@@ -26,6 +27,8 @@
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
+- [20221003151201](/zet/20221003151201/README.md) RDP
+- [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation

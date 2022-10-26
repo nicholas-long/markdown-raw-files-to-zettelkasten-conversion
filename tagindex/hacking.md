@@ -586,6 +586,7 @@
 - [20221003150964](/zet/20221003150964/README.md) OSINT sock puppets
 - [20221003150965](/zet/20221003150965/README.md) OSINT guides and step-by-step flowcharts
 - [20221003150966](/zet/20221003150966/README.md) OSINT
+- [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
 - [20221003150969](/zet/20221003150969/README.md) mobile apps and API testing steps for mobile app API + burpsuite
 - [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing
 - [20221003150974](/zet/20221003150974/README.md) XXE xml external entity exfiltrate file out of band payload
@@ -769,6 +770,8 @@
 - [20221003151194](/zet/20221003151194/README.md) procedure
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
+- [20221003151201](/zet/20221003151201/README.md) RDP
+- [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation

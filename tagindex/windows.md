@@ -119,6 +119,7 @@
 - [20221003151150](/zet/20221003151150/README.md) windows XP and windows server 2003 write arbitrary MOF file for remote code execution
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
 - [20221003151153](/zet/20221003151153/README.md) windows
+- [20221003151201](/zet/20221003151201/README.md) RDP
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation

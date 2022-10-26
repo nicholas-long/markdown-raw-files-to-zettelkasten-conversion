@@ -2,3 +2,4 @@
 - [20221003150675](/zet/20221003150675/README.md) bloodhound run python version in docker with NTLM hashes instead of creds
 - [20221003150676](/zet/20221003150676/README.md) bloodhound run python version in docker
 - [20221003150677](/zet/20221003150677/README.md) bloodhound
+- [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
