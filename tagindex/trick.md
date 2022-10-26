@@ -42,7 +42,10 @@
 - [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures
 - [20221003151020](/zet/20221003151020/README.md) SSTI polyglot payload
 - [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin
+- [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
+- [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
+- [20221003151150](/zet/20221003151150/README.md) windows XP and windows server 2003 write arbitrary MOF file for remote code execution
 - [20221003151215](/zet/20221003151215/README.md) caddy install
 - [20221003151216](/zet/20221003151216/README.md) caddy stand up https server with a valid certificate
 - [20221003151217](/zet/20221003151217/README.md) caddy
@@ -95,4 +98,5 @@
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands
+- [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
 - [20221024070910](/zet/20221024070910/README.md) drop first column with awk

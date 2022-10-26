@@ -1,1 +1,2 @@
+- [20221003151176](/zet/20221003151176/README.md) email POP3 / IMAP
 - [20221003151218](/zet/20221003151218/README.md) send email over SMTP from command line with swaks

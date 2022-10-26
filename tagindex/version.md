@@ -1,1 +1,2 @@
+- [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
 - [20221008213357](/zet/20221008213357/README.md) version of program

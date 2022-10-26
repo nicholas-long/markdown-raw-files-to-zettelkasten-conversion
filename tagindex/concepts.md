@@ -1,1 +1,0 @@
-- [20221009014200](/zet/20221009014200/README.md) concept of a command

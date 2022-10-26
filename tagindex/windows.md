@@ -32,6 +32,8 @@
 - [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass
 - [20221003151049](/zet/20221003151049/README.md) change user password powershell or dos
 - [20221003151050](/zet/20221003151050/README.md) change user password
+- [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
+- [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows
 - [20221003151061](/zet/20221003151061/README.md) bypass UAC with administrators group read files quickly using smb shares
 - [20221003151062](/zet/20221003151062/README.md) bypass UAC with administrators group uacme bypass
 - [20221003151063](/zet/20221003151063/README.md) bypass UAC with administrators group fodhelper bypass

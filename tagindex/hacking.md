@@ -667,6 +667,7 @@
 - [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass
 - [20221003151049](/zet/20221003151049/README.md) change user password powershell or dos
 - [20221003151050](/zet/20221003151050/README.md) change user password
+- [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
 - [20221003151061](/zet/20221003151061/README.md) bypass UAC with administrators group read files quickly using smb shares
 - [20221003151062](/zet/20221003151062/README.md) bypass UAC with administrators group uacme bypass
 - [20221003151063](/zet/20221003151063/README.md) bypass UAC with administrators group fodhelper bypass
@@ -759,6 +760,7 @@
 - [20221003151155](/zet/20221003151155/README.md) linux hardening
 - [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
 - [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans
+- [20221003151165](/zet/20221003151165/README.md) TFTP udp 69 to try list
 - [20221003151167](/zet/20221003151167/README.md) got hashes
 - [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old
@@ -767,6 +769,7 @@
 - [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
+- [20221003151176](/zet/20221003151176/README.md) email POP3 / IMAP
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list
 - [20221003151179](/zet/20221003151179/README.md) FTP to try list
 - [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks )

@@ -1,3 +1,4 @@
+- [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082
 - [20221003150341](/zet/20221003150341/README.md) cms database creds config locations
 - [20221003150342](/zet/20221003150342/README.md) wordpress plugins in database
 - [20221003150343](/zet/20221003150343/README.md) wordpress

@@ -10,7 +10,9 @@
 - [20221003150996](/zet/20221003150996/README.md) GraphQL APIs common GraphQL bugs
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory
+- [20221003151035](/zet/20221003151035/README.md) hidden shares
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221018193528](/zet/20221018193528/README.md) bash shell builtin commands
+- [20221020203509](/zet/20221020203509/README.md) concept of an antipattern

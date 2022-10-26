@@ -2,5 +2,6 @@
 - [20221003150836](/zet/20221003150836/README.md) smb mount share unauthenticated
 - [20221003150837](/zet/20221003150837/README.md) smb mount share
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
+- [20221003151035](/zet/20221003151035/README.md) hidden shares
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list

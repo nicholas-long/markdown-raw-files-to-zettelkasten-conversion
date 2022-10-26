@@ -8,6 +8,7 @@
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory
 - [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
 - [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans
+- [20221003151165](/zet/20221003151165/README.md) TFTP udp 69 to try list
 - [20221003151166](/zet/20221003151166/README.md) got access to docker repository
 - [20221003151167](/zet/20221003151167/README.md) got hashes
 - [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy
@@ -18,6 +19,7 @@
 - [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
+- [20221003151176](/zet/20221003151176/README.md) email POP3 / IMAP
 - [20221003151177](/zet/20221003151177/README.md) Stuck to try list
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list
 - [20221003151179](/zet/20221003151179/README.md) FTP to try list
