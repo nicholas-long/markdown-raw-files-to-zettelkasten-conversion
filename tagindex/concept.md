@@ -21,6 +21,7 @@
 - [20221013192245](/zet/20221013192245/README.md) cracking hashes
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
+- [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221015024515](/zet/20221015024515/README.md) concept of repeating something periodically
 - [20221015173433](/zet/20221015173433/README.md) gnome window manager

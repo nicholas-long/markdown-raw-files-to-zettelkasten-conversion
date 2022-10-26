@@ -17,7 +17,7 @@
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
 - [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy #hacking #to-try-list
-- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration
+- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration #skill
 
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old #to-try-list #hacking #active 
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003 #hacking #windows #xp 
@@ -105,9 +105,6 @@
 
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
 - [20221012070318](/zet/20221012070318/README.md) linux terminal #todo #idea
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221014181941](/zet/20221014181941/README.md) general privilege escalation #idea
 
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking #concept #idea
@@ -374,7 +371,7 @@
 - [20221013180230](/zet/20221013180230/README.md) session cookie, API key, or access token #concept
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
-- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration
+- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration #skill
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221003150252](/zet/20221003150252/README.md) httponly cookie option 
@@ -425,7 +422,7 @@
 - [20221003150134](/zet/20221003150134/README.md) DNS commands #linux #assorted 
 
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
-- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration
+- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration #skill
 
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
 - [20221003150550](/zet/20221003150550/README.md) Sub domain Enum 
@@ -476,7 +473,7 @@
 - [20221003151153](/zet/20221003151153/README.md) windows #windows
 
 - [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986 #to-try-list #hacking
-- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration
+- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration #skill
 
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits #to-try-list #hacking #privesc #windows #windows 
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working #exploit #windows #smb
@@ -588,9 +585,6 @@
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat #concept #file #hacking
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221014181941](/zet/20221014181941/README.md) general privilege escalation #idea
 
 - [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
 - [20221003150331](/zet/20221003150331/README.md) log4j log4shell 
@@ -738,9 +732,6 @@
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target #concept #hacking
-
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221014181941](/zet/20221014181941/README.md) general privilege escalation #idea
 
 - [20221003151211](/zet/20221003151211/README.md) got leaked files jar #to-try-list #hacking #got 
 - [20221003150231](/zet/20221003150231/README.md) apk analysis #hacking #apk #analysis

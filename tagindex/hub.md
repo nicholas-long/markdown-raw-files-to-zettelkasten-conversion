@@ -18,3 +18,4 @@
 - [20221013192245](/zet/20221013192245/README.md) cracking hashes
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
+- [20221014181941](/zet/20221014181941/README.md) general privilege escalation
