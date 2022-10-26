@@ -43,7 +43,7 @@ while [[ $# -gt 0 ]]; do
       shift # pop arg
       query="$1"
       ;;
-    -t|--title|--target)
+    -t|--title|--target|--tag)
       shift # pop arg
       title="$1"
       ;;
@@ -58,7 +58,7 @@ while [[ $# -gt 0 ]]; do
       echo "Usage: $0 action [ options ]"
       echo "| action      : [ spawn, search, find, rm, print, enrich, new, refs, preview ]"
       echo "| | fzf       : [ menu, spawn, search, vilink, viunlink, connectome ]"
-      echo "| | scripting : [ find, addref, rm, print, enrich, new, refs, preview, enum, unlink, enrich_links_single, fixspaces ]"
+      echo "| | scripting : [ find, addref, addtag, deltag, rm, print, enrich, new, refs, preview, enum, unlink, enrich_links_single, fixspaces ]"
       echo "Options:"
       cat "$prog" | grep '^\s\+-.|--.*' | sed 's/)$//'
       exit 1
@@ -122,6 +122,25 @@ case $action in
     echo "spawned new $newid" > /dev/stderr
     $prog fixspaces "$newid"
     $EDITOR zet/$newid/README.md
+    ;;
+  deltag)
+    tag="$title"
+    doc="$arg"
+    if [[ "$doc" =~ ^[0-9]+$ ]]; then
+      doc="zet/$arg/README.md"
+    fi
+    echo "removing tag $tag from $doc" > /dev/stderr
+    # remove tags and cleanup spaces from end and ensure 4 at beginning
+    sed -i -e '$s/#'$tag'//' -e '$s/ *$//' -e '$s/  */ /g' -e '$s/^ */    /' "$doc"
+    ;;
+  addtag)
+    tag="$title"
+    doc="$arg"
+    if [[ "$doc" =~ ^[0-9]+$ ]]; then
+      doc="zet/$arg/README.md"
+    fi
+    echo "adding tag $tag to $doc" > /dev/stderr
+    sed -i -e '$s/ *$//' -e '$s/$/ #'$tag'/' -e '$s/  */ /g' -e '$s/^ */    /' "$doc"
     ;;
   enum) # enum tags
     #TODO: join tags with related tags in enum
