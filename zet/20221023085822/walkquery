@@ -193,7 +193,7 @@ done # end of operations loop
 
 # final output of script
 if [ $human == 0 ]; then
-  cat $paths
+  LC_COLLATE=C sort $paths
 else # print readable table with titles
   awk '{
     for (n = 1; n <= NF; n++) {
@@ -209,7 +209,7 @@ else # print readable table with titles
       print "- [" id "](/zet/" id "/README.md)", header, tags
     }
     print ""
-  }' $paths
+  }' <(LC_COLLATE=C sort $paths)
 fi
 
 # cleanup
