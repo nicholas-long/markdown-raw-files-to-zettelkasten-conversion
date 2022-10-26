@@ -26,6 +26,7 @@
 - [20221003150486](/zet/20221003150486/README.md) active directory get GMSA service account properties
 - [20221003150487](/zet/20221003150487/README.md) active directory get user account
 - [20221003150488](/zet/20221003150488/README.md) active directory
+- [20221003150527](/zet/20221003150527/README.md) generate reverse shell shellcode payload for pwn
 - [20221003150528](/zet/20221003150528/README.md) gdb commands debug step into / follow child process
 - [20221003150529](/zet/20221003150529/README.md) gdb commands
 - [20221003150530](/zet/20221003150530/README.md) gef gdb plugin buffer overflow pattern create and offset
@@ -358,3 +359,4 @@
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221007205652](/zet/20221007205652/README.md) find limit recursion depth
 - [20221011145143](/zet/20221011145143/README.md) bat command pretty printer
+- [20221019150132](/zet/20221019150132/README.md) kerberos AD commands

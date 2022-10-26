@@ -25,6 +25,7 @@
 - [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths
 - [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks
 - [20221003150518](/zet/20221003150518/README.md) pwntools sigreturn
+- [20221003150527](/zet/20221003150527/README.md) generate reverse shell shellcode payload for pwn
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
 - [20221003151215](/zet/20221003151215/README.md) caddy install
 - [20221003151216](/zet/20221003151216/README.md) caddy stand up https server with a valid certificate
@@ -75,4 +76,5 @@
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
+- [20221019150132](/zet/20221019150132/README.md) kerberos AD commands
 - [20221024070910](/zet/20221024070910/README.md) drop first column with awk

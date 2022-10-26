@@ -12,9 +12,9 @@ terminal -> features -> "disable application keypad mode"
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - [20221008061845](/zet/20221008061845/README.md) workflow
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list
 - [20221003151153](/zet/20221003151153/README.md) windows
 - [20221003150862](/zet/20221003150862/README.md) SSH arguments
+- [20221020000848](/zet/20221020000848/README.md) SSH
 
 Tags:
 

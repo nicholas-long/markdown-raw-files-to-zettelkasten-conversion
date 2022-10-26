@@ -3,31 +3,27 @@
 - concept of `replace useless concept hubs with hashtags`
 - hubs should definitely be labeled as hubs
 - things that should be okay to be linked to to try lists
-  - other to try lists
-  - concepts / hubs
-  - tricks
-  - tips
-  - command
-  - exploit
-  - tool
-  - links coming in from certs are okay
-  - fix?
+  - to-try-list other to try lists
+  - concept / hub
+    - hub
+    - concept
+  - skill
+    - trick
+    - tip
+    - command
+    - exploit
+    - tool
+  - info
+  - cert links coming in from certs are okay
+  - streamer (fixed tags)
+    - streamer
+    - video
+  - notes - links coming in from hacking notes template
+  - fix
 
 ```
-- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list #to-try-list #hacking #pwn
-- [20221003150523](/zet/20221003150523/README.md) heap exploit resources #pwn #info #help
-
-- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list #to-try-list #hacking #pwn
-- [20221003150527](/zet/20221003150527/README.md) generate reverse shell shellcode payload for pwn #pwn #hacking
-
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page #meta
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221019150132](/zet/20221019150132/README.md) kerberos AD commands #ad #kerberos #windows #activedirectory
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty 
 
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
 - [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange 
@@ -97,9 +93,6 @@
 
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
 - [20221003150995](/zet/20221003150995/README.md) GraphQL APIs GraphQL tools #hacking #api 
-
-- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
-- [20221003150998](/zet/20221003150998/README.md) GraphQL APIs #hacking #api 
 
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow #hacking #api 
@@ -373,9 +366,6 @@
 
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource #idea
-
-- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
-- [20221018193528](/zet/20221018193528/README.md) bash shell builtin commands #info
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities #linux #capabilities 

@@ -29,4 +29,4 @@
 
 Tags:
 
-    #ad #kerberos #windows #activedirectory
+    #ad #kerberos #windows #activedirectory #command #trick
