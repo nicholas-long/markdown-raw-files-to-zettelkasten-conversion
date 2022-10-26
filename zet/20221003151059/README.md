@@ -13,4 +13,4 @@ C:\windows\tasks
 
 Tags:
 
-    
+    #info #list #filepath #windows #hacking #privesc

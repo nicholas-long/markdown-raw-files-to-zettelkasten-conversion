@@ -90,4 +90,4 @@ C:/Program Files/Microsoft SQL Server/MSSQL14.SQLEXPRESS/Template Data/master.md
 
 Tags:
 
-    #hacking #windows #windows 
+    #hacking #windows #file #list #info

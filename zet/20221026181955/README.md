@@ -46,9 +46,6 @@
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows 
 
-- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
-- [20221003151285](/zet/20221003151285/README.md) postgres cannot find table name #data-engineering-pipelines #postgres #fix
-
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell 
 
