@@ -1,6 +1,8 @@
 # YAML parsing yq
-has TLDR page for command reference.
-https://github.com/mikefarah/yq
+
+- has TLDR page for command reference
+- https://github.com/mikefarah/yq
+- go binary with platform release links
 
 ```
 tldr yq
@@ -43,7 +45,8 @@ A lightweight and portable command-line YAML processor.More information: https:/
 - https://github.com/mikefarah/yq
 - https://github.com/tldr-pages/tldr
 - [20221025045945](/zet/20221025045945/README.md) tldr pages
+- [20221008214935](/zet/20221008214935/README.md) go language
 
 Tags:
 
-    #data-engineering-pipelines #yaml 
+    #data-engineering-pipelines #yaml #go
