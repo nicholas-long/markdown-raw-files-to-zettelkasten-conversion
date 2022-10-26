@@ -18,9 +18,10 @@ mvn package
 - [20221012152421](/zet/20221012152421/README.md) micosoft
 - [20221013175128](/zet/20221013175128/README.md) preparing exploit payloads
 - [20221011183500](/zet/20221011183500/README.md) potential exploits
-- [20221011181453](/zet/20221011181453/README.md) exploit path
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 
 Tags:
 
-    
+    #hacking #fun #games

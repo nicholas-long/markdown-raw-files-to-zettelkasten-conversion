@@ -9,6 +9,8 @@ the concept of `potential exploits`
 
 # Related
 
+- [20221003151029](/zet/20221003151029/README.md) MS08-067
+- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
 - [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
