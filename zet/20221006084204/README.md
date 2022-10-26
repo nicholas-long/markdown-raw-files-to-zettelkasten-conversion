@@ -72,6 +72,7 @@
 - [20221006032933](/zet/20221006032933/README.md) problems / issues with zet cmd
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221026060602](/zet/20221026060602/README.md) remove dependency on lazygit
+- [20221026135851](/zet/20221026135851/README.md) make graph browser run properly from any path like zetcmd
 
 Tags:
 

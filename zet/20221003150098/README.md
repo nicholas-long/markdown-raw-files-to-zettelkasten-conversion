@@ -36,6 +36,7 @@
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
+- [20221026135851](/zet/20221026135851/README.md) make graph browser run properly from any path like zetcmd
 
 Tags:
 
