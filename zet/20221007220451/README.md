@@ -231,6 +231,7 @@ hacking notes hub
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
 - [20221003151064](/zet/20221003151064/README.md) bypass UAC with administrators group
+- [20221008061334](/zet/20221008061334/README.md) concepts
 
 Tags:
 

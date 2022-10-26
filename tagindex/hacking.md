@@ -826,6 +826,7 @@
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - [20221009032056](/zet/20221009032056/README.md) keeping track of htb ctf flags
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
 - [20221011145037](/zet/20221011145037/README.md) kali linux
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target

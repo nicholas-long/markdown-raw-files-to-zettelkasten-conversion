@@ -1,4 +1,10 @@
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
+- [20221008054439](/zet/20221008054439/README.md) graph database
+- [20221008061334](/zet/20221008061334/README.md) concepts
+- [20221009021452](/zet/20221009021452/README.md) container
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
 - [20221013185120](/zet/20221013185120/README.md) concept of cryptography

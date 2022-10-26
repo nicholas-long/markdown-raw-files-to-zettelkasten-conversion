@@ -30,7 +30,6 @@
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221009012547](/zet/20221009012547/README.md) Github UI tricks
 - [20221009022138](/zet/20221009022138/README.md) parse text in zettelkasten with python scripts
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009102918](/zet/20221009102918/README.md) get titles in tag links
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
