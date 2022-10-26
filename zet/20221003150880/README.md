@@ -19,4 +19,4 @@
 
 Tags:
 
-    #hacking #privesc
+    #hacking #privesc #info #tip

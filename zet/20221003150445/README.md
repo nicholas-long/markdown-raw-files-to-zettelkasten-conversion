@@ -15,4 +15,4 @@ https://github.com/carlospolop/PEASS-ng/releases
 
 Tags:
 
-    
+    #repo #tool #linux #windows #privesc #github

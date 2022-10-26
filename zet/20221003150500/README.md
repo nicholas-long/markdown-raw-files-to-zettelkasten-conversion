@@ -13,4 +13,4 @@ https://github.com/nccgroup/shocker
 
 Tags:
 
-    #hacking #shellshock 
+    #hacking #shellshock #exploit #linux

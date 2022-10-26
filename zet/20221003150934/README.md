@@ -18,4 +18,4 @@ regsvr32.exe /s .\payload.dll
 
 Tags:
 
-    
+    #windows #privesc #command

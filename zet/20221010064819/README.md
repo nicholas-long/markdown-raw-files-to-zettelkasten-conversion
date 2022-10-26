@@ -62,4 +62,4 @@ the concept of `locating the origin of files by hash to determine version`
 
 Tags:
 
-    #todo #idea
+    #todo #idea #trick #file #filehash #hash

@@ -10,4 +10,4 @@ variations of perl designed to handle setuid security properly
 
 Tags:
 
-    
+    #info #privesc #linux

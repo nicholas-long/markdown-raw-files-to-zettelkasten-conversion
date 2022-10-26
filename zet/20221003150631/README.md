@@ -22,4 +22,4 @@ option `-v` verbosity; add extra line with human-readable details
 
 Tags:
 
-    
+    #hacking #command #trick
