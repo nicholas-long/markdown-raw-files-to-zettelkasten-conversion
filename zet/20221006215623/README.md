@@ -10,16 +10,16 @@
 - application to download an analyze
 - usernames as passwords
 - defaulted to kerbrute is choice for brute forcing AD
-    - has `--user-as-pass` option
+  - has `--user-as-pass` option
 - `NT_STATUS_NOT_SUPPORTED`
-    - easiest way to fix is with impacket
+  - easiest way to fix is with impacket
 - impacket
-    - Get TGT `getTGT.py`
+  - Get TGT `getTGT.py`
 - `11:09`
 - KRB5CCNAME
 - can't use just IP with kerberos ticket, needs hostname with impacket scripts
 - talking about detecting impacket using timestamps
-    - timestamp not printed in windows event log
+  - timestamp not printed in windows event log
 
 timestamps from youtube
 ```

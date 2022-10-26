@@ -84,8 +84,8 @@
 - 3-way connection search
   - fuzzy search all nodes outgoing connections pairs
 - cloning / copying a card
-    - backlinks do not point to same card
-    - using as a template
+  - backlinks do not point to same card
+  - using as a template
 
 ### seen this around
 
@@ -96,9 +96,9 @@
 
 - linked a lot of stuff together for brainstorming in fzf
 - the order of references should matter
-    - need to be kept in a paragraph
-    - move to top when useful
-        - log when useful or parse logs
+  - need to be kept in a paragraph
+  - move to top when useful
+    - log when useful or parse logs
 
 ` zet/20221007043259/README.md `
 

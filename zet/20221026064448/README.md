@@ -4,15 +4,6 @@
 - tabstop should be 2
 
 ```
-zet/20221006213953/README.md     - on a line you could grep for
-zet/20221006214348/README.md     - making segment titles content searchable in zettelkasten will help find results
-zet/20221006215623/README.md     - has `--user-as-pass` option
-zet/20221007043259/README.md     - backlinks do not point to same card
-zet/20221007043646/README.md     - integrated vscode in github platform
-zet/20221008181850/README.md     - put this in video notes findings
-zet/20221008214631/README.md     - 0 optional
-zet/20221014072547/README.md     - i swear writing down notes reduces anxiety, and my partner does too, except hers are only on paper.
-zet/20221014073148/README.md     - C is still around. has use cases. still wouldn't want to write an API call in it though.
 ```
 
 ` zet/20221026064448/README.md `

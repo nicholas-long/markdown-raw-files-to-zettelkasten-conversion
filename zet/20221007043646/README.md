@@ -5,34 +5,34 @@
 - this is a functioning graph database written in like 350 lines of bash and awk
 - can tag the cards by adding files: find files by name to list
 - i can find information with links and add info to anything from anywhere
-    - integrated vscode in github platform
+  - integrated vscode in github platform
 - it is so easy to add tons of links when creating a zettel using fzf as a first step
-    - `spawn` action
+  - `spawn` action
 - links improve the content by adding context
 - numbering sequentially based on timestamps can be an arbitrary ordering imposed on zettels
 - if you want some hierarchies and directory structure to find things while working on something in the terminal, make some symlinks to the zet directories
 - some links should be one-way links
-    - ex: bash scripts is a list of all bash scripts and other things relevant to bash
-        - remove a backlink to something, but keep scripts indexed by leaving link from ` bash -> thing `.
-    - machines need one way links
-    - people are good at reading context but bad at navigating complicated UIs until they have a much higher level of experience with them, so links to documentation should be two way or you will get lost and waste time
+  - ex: bash scripts is a list of all bash scripts and other things relevant to bash
+    - remove a backlink to something, but keep scripts indexed by leaving link from ` bash -> thing `.
+  - machines need one way links
+  - people are good at reading context but bad at navigating complicated UIs until they have a much higher level of experience with them, so links to documentation should be two way or you will get lost and waste time
 - converting files from markdown hierarchy of headings
-    - creates really sparsely linked cards - need way more links!
+  - creates really sparsely linked cards - need way more links!
 - cool regular expression for searching tags in vscode `^- \[[0-9]+].*git`
 - can view on github with lynx if you search stuff with `/` to bypass huge text navbars
-    - renders in colorized markdown way that looks kinda like bat
-    - things have been converted so many times... `markdown -> html -> HTTP -> lynx -> html -> colorized text`
+  - renders in colorized markdown way that looks kinda like bat
+  - things have been converted so many times... `markdown -> html -> HTTP -> lynx -> html -> colorized text`
 - search content?
   - `./zc search -q .`
 - zettel about what you are working on is really useful
-    - direct hotlinks to stuff you are doing like to do list
-    - already traversing a graph of web page links and scripts when doing normal web browsing
+  - direct hotlinks to stuff you are doing like to do list
+  - already traversing a graph of web page links and scripts when doing normal web browsing
 - graph searching concepts
-    - if i want to get to a topic, i know a good path to get there through these links
-    - i can be working on one thing and get to any other notes with 2-5 clicks
-    - only have to remember which things are connected together to navigate the "UI"
+  - if i want to get to a topic, i know a good path to get there through these links
+  - i can be working on one thing and get to any other notes with 2-5 clicks
+  - only have to remember which things are connected together to navigate the "UI"
 - i'm not an expert at designing these yet
-    - research graph theory
+  - research graph theory
 - issue tracking workflow nodes
   - github has issue tracking - it should be possible to open issues in github and type in zettel IDs and have a relevant zettel linking everything together
   - list of nodes
@@ -45,29 +45,29 @@
       - easy to find it
 - i can't watch a video without thinking of ideas, and i can get to a relevant card in 2 or 3 clicks to write them down
 - git already tracks file changes - take advantage of this in scripts
-    - can use git to go back in time and replay changes to filesystem
-    - can see if enrichment process has changed any files and needs to run again
-        - repeated `git add .` and `git status --porcelain` commands
+  - can use git to go back in time and replay changes to filesystem
+  - can see if enrichment process has changed any files and needs to run again
+    - repeated `git add .` and `git status --porcelain` commands
 - workflow - windows
-    - screens `ctrl` + `win` + left or right
-        - hard to change this hotkey
-    - `win` v = clipboard manager - if i have to memorize any windows hotkeys, this would be it
+  - screens `ctrl` + `win` + left or right
+    - hard to change this hotkey
+  - `win` v = clipboard manager - if i have to memorize any windows hotkeys, this would be it
 - awk and graph databases
-    - really good segment of awk book about implementing a database query language LINK LINK LINK LINK LINK LINK
-        - stuffed some awk commands together with pipes
-            - totally unsafe from an injection standpoint to concatenate strings and command arguments
-                - bash is designed to escape commands and strings and stuff, so it can deal with those issues separately
-    - i wouldn't want to use awk to search a graph database
-        - no local variables except function arguments
-            - not a problem for small programs, queries, or stream operatons (<100 lines of code)
-            - big problem for writing serious programs
-        - recursive algorithms do not do well in stream processors - unless you go the "quick and dirty" route and spawn processes
-            - let OS handle some of the work - subprocesses are fine in moderation
-                - like a good one that produces a long stream of data
-                - not a million tiny ones
-                - forking takes time, and it is obviously slower than function calls, but it's probably not problematic now that all processes on the machine are the same cached binary (check out docker, alpine, and busybox)
-    - however, awk would be relatively convenient for enumerating nodes
-    - and extremely convenient for processing any output text
+  - really good segment of awk book about implementing a database query language LINK LINK LINK LINK LINK LINK
+    - stuffed some awk commands together with pipes
+      - totally unsafe from an injection standpoint to concatenate strings and command arguments
+        - bash is designed to escape commands and strings and stuff, so it can deal with those issues separately
+  - i wouldn't want to use awk to search a graph database
+    - no local variables except function arguments
+      - not a problem for small programs, queries, or stream operatons (<100 lines of code)
+      - big problem for writing serious programs
+    - recursive algorithms do not do well in stream processors - unless you go the "quick and dirty" route and spawn processes
+      - let OS handle some of the work - subprocesses are fine in moderation
+        - like a good one that produces a long stream of data
+        - not a million tiny ones
+        - forking takes time, and it is obviously slower than function calls, but it's probably not problematic now that all processes on the machine are the same cached binary (check out docker, alpine, and busybox)
+  - however, awk would be relatively convenient for enumerating nodes
+  - and extremely convenient for processing any output text
 - unix join command (for relational data)
 - python for exploration algorithms
 - edit in 1 tab.
