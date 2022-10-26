@@ -4,6 +4,7 @@ the concept of `autorunning scripts in cards`.
 
 implemented:
 - help snippet block on the implementation page.
+- add executable file named `autoexec_enrich` to card
 
 ```
 -rwxr-xr-x    1 kali kali  480 2022-10-08 07:34:11.336000000 +0000 autoexec_enrich
