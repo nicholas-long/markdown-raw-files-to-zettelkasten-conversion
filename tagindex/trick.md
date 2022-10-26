@@ -111,6 +111,7 @@
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
+- [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands

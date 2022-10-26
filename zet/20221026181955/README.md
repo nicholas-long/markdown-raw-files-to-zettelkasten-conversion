@@ -27,9 +27,6 @@
   - analysis
 
 ```
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards #todo #idea
-
 ```
 
 ` zet/20221026181955/README.md `

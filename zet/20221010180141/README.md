@@ -21,4 +21,4 @@ the concept of `reinforcement learning and motivation and candy rewards`
 
 Tags:
 
-    #todo #idea
+    #idea #tip #trick #workflow
