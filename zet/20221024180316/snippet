@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "checking tags..."
+grep 20221024180316 tagindex/test.md

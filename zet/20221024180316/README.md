@@ -4,8 +4,11 @@
 - should not cause problems - ignore duplicates
 - should not add multiple entries to tag index
 - is tag index even sorted?
+- does not seem to cause a problem
 
 ```
+checking tags...
+- [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
 ```
 
 ` zet/20221024180316/README.md `
@@ -14,7 +17,8 @@
 
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221008042814](/zet/20221008042814/README.md) WIP
+- [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 
 Tags:
 
-    #idea #question #zet
+    #idea #question #zet #test #test #test
