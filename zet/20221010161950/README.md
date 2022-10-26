@@ -24,7 +24,6 @@ feature
 - https://hub.github.com/
 - https://stackoverflow.com/questions/18376014/is-possible-to-list-the-git-repository-issues-in-command-line
 - [20221006032933](/zet/20221006032933/README.md) problems / issues with zet cmd
-- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - [20221003151006](/zet/20221003151006/README.md) API enumeration
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github

@@ -28,4 +28,4 @@
 
 Tags:
 
-    #fun #fidget #games 
+    #fun #fidget #games #info #trick

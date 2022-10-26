@@ -17,7 +17,8 @@
 - [20221003150976](/zet/20221003150976/README.md) IDOR general steps
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - ~/kb/hacking/methodology/API-enumeration.md
+- [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
 
 Tags:
 
-    #hacking #api 
+    #hacking #api #bug #info

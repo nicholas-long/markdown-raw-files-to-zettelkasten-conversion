@@ -29,4 +29,4 @@
 
 Tags:
 
-    #hacking #lfi 
+    #hacking #lfi #trick #skill
