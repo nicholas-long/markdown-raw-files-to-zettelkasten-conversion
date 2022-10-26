@@ -18,6 +18,7 @@
   - `~`           - return to home page
   - `spawn`       - create a new zettel card linked to here. enter title at prompt. new card is available to navigate and edit immediately.
   - `xfer`        - copy between cards or attached files easily by selecting files or cards to open alongside `README.md` in vim tabs
+  - `fxfer`       - copy files between cards
   - `link`        - insert many links with fzf fuzzy finder
   - `unlink`      - select one link to remove. will remove from target zettel card as well.
   - `stat`        - git status preview, colorized. launches lazygit if selected.
