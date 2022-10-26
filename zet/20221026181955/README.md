@@ -22,38 +22,14 @@
   - fix
 
 ```
-- [20221003151167](/zet/20221003151167/README.md) got hashes #to-try-list #hacking #hash
-- [20221008215139](/zet/20221008215139/README.md) hash / checksum #hash
-
-- [20221003151167](/zet/20221003151167/README.md) got hashes #to-try-list #hacking #hash
-- [20221008215325](/zet/20221008215325/README.md) password #todo #idea
-
-- [20221003151167](/zet/20221003151167/README.md) got hashes #to-try-list #hacking #hash
-- [20221008215739](/zet/20221008215739/README.md) go packages have checksums #file #hash
-
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page #meta
 
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list #to-try-list #programming #coding #hacking #exploit #file
-- [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells 
+- [20221015004252](/zet/20221015004252/README.md) htb opensource machine #idea #boxes
 
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list #to-try-list #programming #coding #hacking #exploit #file
-- [20221003151021](/zet/20221003151021/README.md) analyzing source code PHP code #hacking #source 
-
-- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list #to-try-list #programming #coding #hacking #exploit #file
-- [20221003151023](/zet/20221003151023/README.md) analyzing source code #hacking #source 
-
-- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list #to-try-list #programming #coding #hacking #exploit #file
-- [20221007194303](/zet/20221007194303/README.md) github #company #microsoft
-
-- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list #to-try-list #programming #coding #hacking #exploit #file
-- [20221008214935](/zet/20221008214935/README.md) go language #go #language
-
-- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list #to-try-list #programming #coding #hacking #exploit #file
-- [20221015004252](/zet/20221015004252/README.md) htb opensource machine #idea
-
-- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list #to-try-list #programming #coding #hacking #exploit #file
-- [20221015010704](/zet/20221015010704/README.md) things that need splitting up #idea
+- [20221015010704](/zet/20221015010704/README.md) things that need splitting up #idea #meta
 
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list #to-try-list #programming #coding #hacking #exploit #file
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern #idea #programming #hacking
@@ -65,22 +41,16 @@
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo #meta
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
-- [20221008210209](/zet/20221008210209/README.md) nim makes smaller wasm binaries than rust #nim #rust #wasm
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam #todo #idea #hacking
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
-- [20221015005535](/zet/20221015005535/README.md) werkzeug #idea
+- [20221015005535](/zet/20221015005535/README.md) werkzeug #program #web #library #python
 
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS #hacking #windows #windows 
 
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
 - [20221003151176](/zet/20221003151176/README.md) email POP3 / IMAP 
-
-- [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
-- [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes 
 
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
 - [20221003150312](/zet/20221003150312/README.md) SMB #hacking #assorted #windows
@@ -369,9 +339,6 @@
 
 - [20221015022512](/zet/20221015022512/README.md) password reuse to try list #to-try-list
 - [20221003150966](/zet/20221003150966/README.md) OSINT #hacking #osint 
-
-- [20221015022512](/zet/20221015022512/README.md) password reuse to try list #to-try-list
-- [20221008215325](/zet/20221008215325/README.md) password #todo #idea
 
 - [20221019151504](/zet/20221019151504/README.md) error message username enumeration #idea #process #enumeration #to-try-list #hacking
 - [20221008215655](/zet/20221008215655/README.md) user account #todo #idea

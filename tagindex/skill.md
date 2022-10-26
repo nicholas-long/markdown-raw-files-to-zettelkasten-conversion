@@ -1,3 +1,6 @@
+- [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells
 - [20221003150242](/zet/20221003150242/README.md) identify service
 - [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures
+- [20221003151021](/zet/20221003151021/README.md) analyzing source code PHP code
+- [20221003151023](/zet/20221003151023/README.md) analyzing source code
 - [20221003151025](/zet/20221003151025/README.md) JWT token concept

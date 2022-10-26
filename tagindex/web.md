@@ -24,8 +24,10 @@
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
 - [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
+- [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD
 - [20221008221548](/zet/20221008221548/README.md) website
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys
+- [20221015005535](/zet/20221015005535/README.md) werkzeug

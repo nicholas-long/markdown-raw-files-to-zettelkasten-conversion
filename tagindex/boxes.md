@@ -1,3 +1,5 @@
+- [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
 - [20221006213311](/zet/20221006213311/README.md) hackthebox
 - [20221006213649](/zet/20221006213649/README.md) offensive security
 - [20221006213821](/zet/20221006213821/README.md) tryhackme
+- [20221015004252](/zet/20221015004252/README.md) htb opensource machine

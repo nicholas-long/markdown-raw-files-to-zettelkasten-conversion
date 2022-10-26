@@ -2,7 +2,10 @@
 - [20221003150309](/zet/20221003150309/README.md) burpsuite set scope to limit request catching
 - [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup
 - [20221003151053](/zet/20221003151053/README.md) lsass process contains credentials
+- [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
+- [20221008210209](/zet/20221008210209/README.md) nim makes smaller wasm binaries than rust
+- [20221008215739](/zet/20221008215739/README.md) go packages have checksums
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux
 - [20221020183231](/zet/20221020183231/README.md) how to get titles to show up in obsidian graph

@@ -35,5 +35,6 @@
 - [20221003151363](/zet/20221003151363/README.md) python scripting
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221007023939](/zet/20221007023939/README.md) python ternary operator
+- [20221015005535](/zet/20221015005535/README.md) werkzeug
 - [20221015005745](/zet/20221015005745/README.md) python coding
 - [20221025184026](/zet/20221025184026/README.md) python requests library for http

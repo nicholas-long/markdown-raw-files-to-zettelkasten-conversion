@@ -6,3 +6,4 @@
 - [20221003150855](/zet/20221003150855/README.md) dns commands
 - [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list
+- [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes

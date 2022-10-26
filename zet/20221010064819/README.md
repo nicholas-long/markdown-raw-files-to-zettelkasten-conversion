@@ -58,6 +58,7 @@ the concept of `locating the origin of files by hash to determine version`
 - [20221008221940](/zet/20221008221940/README.md) URL
 - [20221008215400](/zet/20221008215400/README.md) file
 - [20221008215139](/zet/20221008215139/README.md) hash / checksum
+- [20221008215739](/zet/20221008215739/README.md) go packages have checksums
 
 Tags:
 

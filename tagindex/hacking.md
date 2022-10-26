@@ -15,6 +15,7 @@
 - [20221003150237](/zet/20221003150237/README.md) extract command for file type tar.gz
 - [20221003150238](/zet/20221003150238/README.md) extract command for file type deb
 - [20221003150239](/zet/20221003150239/README.md) extract command for file type
+- [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells
 - [20221003150241](/zet/20221003150241/README.md) identify service port 1978 data "SIN 15win nop nop 300"
 - [20221003150242](/zet/20221003150242/README.md) identify service
 - [20221003150244](/zet/20221003150244/README.md) MOTW mark of the web microsoft alternate data stream file label ZoneId avoiding / evading
