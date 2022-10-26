@@ -62,6 +62,7 @@ ln -s zet/20221013021614/ browser
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221025024238](/zet/20221025024238/README.md) enumerate tags
 - [20221026080325](/zet/20221026080325/README.md) move code to add tags to zetcmd
+- [20221026135851](/zet/20221026135851/README.md) make it run properly from any path like zetcmd
 
 Tags:
 

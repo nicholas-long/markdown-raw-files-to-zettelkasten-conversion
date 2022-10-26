@@ -3,6 +3,7 @@
 - the updated tag code has been thoroughly tested and works good. it should be moved to `./zc`
 
 ```
+./zc addtag
 ```
 
 ` zet/20221026080325/README.md `
