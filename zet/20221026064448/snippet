@@ -6,7 +6,10 @@ BEGINFILE { snip = 0 }
 !snip && /^ *- / {
   m = match($0, /^ */)
   space = RLENGTH
-  if (space - lastspace > 2) { print FILENAME, $0 }
+  if (space - lastspace > 2) {
+    print FILENAME, $0
+    nextfile # only report first issue in file
+  }
   lastspace = space
 }
 /^# Related/ { nextfile }

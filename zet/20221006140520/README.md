@@ -1,10 +1,10 @@
 # zet cmd spawn feature
 
 - spawn a new zettel and fzf search for existing links.
-    - use `-q` to query
-        - optional
-    - use `-t` to set title first
-        - before you forget that good title you had while fuzzy finding
+  - use `-q` to query
+    - optional
+  - use `-t` to set title first
+    - before you forget that good title you had while fuzzy finding
 
 ```bash
 ./zc spawn -q 'zettelkasten' -t 'awesome idea about zettelkasten' # spawn a new zettel idea searching for links to zettelkasten
