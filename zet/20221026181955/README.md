@@ -13,16 +13,10 @@
 
 ```
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound #to-try-list #hacking #bloodhound
-- [20221003151144](/zet/20221003151144/README.md) active directory  #hacking #windows #windows 
-
-- [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound #to-try-list #hacking #bloodhound
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
 - [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access #to-try-list #hacking #active 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials #hacking
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings #hacking #repositories #important #tool #repo #windows
@@ -59,9 +53,6 @@
 
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
 - [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange 
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221003150346](/zet/20221003150346/README.md) SSH brute force #hacking #bruteforcing #ssh
 
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
 - [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream 
@@ -394,13 +385,7 @@
 - [20221003150250](/zet/20221003150250/README.md) Apache guacamole RDP VNC SSH in web browser #hacking #buzzwords #buzzwords 
 
 - [20221003151201](/zet/20221003151201/README.md) RDP #to-try-list #hacking #remoteaccess #rdp #windows
-- [20221003151144](/zet/20221003151144/README.md) active directory  #hacking #windows #windows 
-
-- [20221003151201](/zet/20221003151201/README.md) RDP #to-try-list #hacking #remoteaccess #rdp #windows
 - [20221003151153](/zet/20221003151153/README.md) windows #windows
-
-- [20221003151203](/zet/20221003151203/README.md) LDAP #ad #ldap #to-try-list #hacking
-- [20221003151144](/zet/20221003151144/README.md) active directory  #hacking #windows #windows 
 
 - [20221003151203](/zet/20221003151203/README.md) LDAP #ad #ldap #to-try-list #hacking
 - [20221003151153](/zet/20221003151153/README.md) windows #windows
@@ -413,9 +398,6 @@
 
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits #to-try-list #hacking #privesc #windows #windows 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials #hacking
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell 
@@ -467,9 +449,6 @@
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003151137](/zet/20221003151137/README.md) active directory  sensitive files #hacking #windows #windows 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003151144](/zet/20221003151144/README.md) active directory  #hacking #windows #windows 
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003151165](/zet/20221003151165/README.md) TFTP udp 69 to try list #file #udp
@@ -557,9 +536,6 @@
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003150322](/zet/20221003150322/README.md) cyber reason 
-
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221003150346](/zet/20221003150346/README.md) SSH brute force #hacking #bruteforcing #ssh
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script 

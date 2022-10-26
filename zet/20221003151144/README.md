@@ -1,4 +1,4 @@
-# active directory 
+# active directory
 
 ` zet/20221003151144/README.md `
 

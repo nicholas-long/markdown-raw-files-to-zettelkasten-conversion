@@ -1,4 +1,6 @@
+- [20221003150346](/zet/20221003150346/README.md) SSH brute force
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
+- [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
 - [20221003150466](/zet/20221003150466/README.md) powershell tricks convert guid to string
 - [20221003150467](/zet/20221003150467/README.md) powershell tricks browse and edit registry read registry values
 - [20221003150468](/zet/20221003150468/README.md) powershell tricks browse and edit registry set registry values
