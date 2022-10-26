@@ -16,6 +16,7 @@ hello world!
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4
 - [20221026135114](/zet/20221026135114/README.md) add step to check for duplicate links in enrich scanrefs
+- [20221026152737](/zet/20221026152737/README.md) template snippet cards not getting run because of parameter issues
 
 Tags:
 
