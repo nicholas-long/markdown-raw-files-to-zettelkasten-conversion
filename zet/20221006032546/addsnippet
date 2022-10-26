@@ -1,5 +1,9 @@
 #!/usr/bin/awk -f
 BEGIN { foundstartsnip = foundendsnip = 0 }
+#print first file up to snippet, then save the rest after snippet.
+#print second file, then print saved stuff after snippet.
+#end effect is inserting it into file
+#add index paremter to alter other snippets
 { snipline = 0 }
 /^```/ { snipline = 1 }
 ARGIND == 1 {
