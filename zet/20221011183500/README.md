@@ -23,6 +23,8 @@ the concept of `potential exploits`
 - [20221011181347](/zet/20221011181347/README.md) hacking notes template 1
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
+- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
+- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
 
 Tags:
 
