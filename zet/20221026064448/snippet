@@ -1,2 +1,11 @@
 #!/bin/bash
-echo "hello world!"
+
+awk '
+/^ *- / {
+  m = match($0, /^ */)
+  space = RLENGTH
+  if (space - lastspace > 2) { print FILENAME, $0 }
+  lastspace = space
+}
+/^# Related/ { nextfile }
+' $(find zet -name README.md)
