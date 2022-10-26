@@ -26,9 +26,6 @@
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003150352](/zet/20221003150352/README.md) fake set change system time for command #command
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf 
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
@@ -45,24 +42,6 @@
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003150473](/zet/20221003150473/README.md) powershell tricks run powershell commands as another user with RunasCs #hacking #trick #powershell 
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003150477](/zet/20221003150477/README.md) general enumeration Active Directory Certificate Services is AD CS enabled #command #hacking #powershell 
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003150485](/zet/20221003150485/README.md) active directory get GMSA service account properties get GMSA password and run commands #command #hacking #powershell 
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003150488](/zet/20221003150488/README.md) active directory #command #hacking #powershell 
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts #command #hacking #ldap 
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003150751](/zet/20221003150751/README.md) kerbrute password spray users from user list file #command #hacking #windows #windows 
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003150752](/zet/20221003150752/README.md) kerbrute enumerate users using wordlist #command #hacking #windows #windows 
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory 
@@ -119,12 +98,6 @@
 - [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force 
 
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm #command #hacking #ssh 
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221003150862](/zet/20221003150862/README.md) SSH arguments #command #hacking #ssh 
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
 - [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream 
 
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
@@ -150,9 +123,6 @@
 
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list 
-
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
-- [20221003150662](/zet/20221003150662/README.md) data analysis commands #command #hacking #binary 
 
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list 
@@ -212,12 +182,6 @@
 - [20221003150291](/zet/20221003150291/README.md) apache 2fa default key 
 
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
-- [20221003150709](/zet/20221003150709/README.md) sqlmap #command #hacking #sqlmap 
-
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
-- [20221003150849](/zet/20221003150849/README.md) hydra brute force HTTP basic authentication #command #hacking #hydra 
-
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
 - [20221003151025](/zet/20221003151025/README.md) JWT token concept #hacking #jwt 
 
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
@@ -249,12 +213,6 @@
 
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
 - [20221003150441](/zet/20221003150441/README.md) OWASP cheat sheet series 
-
-- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
-- [20221003150709](/zet/20221003150709/README.md) sqlmap #command #hacking #sqlmap 
-
-- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
-- [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details #command #hacking #wfuzz 
 
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
 - [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs 
@@ -311,12 +269,6 @@
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked #idea
 
 - [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
-- [20221003150693](/zet/20221003150693/README.md) wpscan initial #command #hacking #wpscan 
-
-- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
-- [20221003150849](/zet/20221003150849/README.md) hydra brute force HTTP basic authentication #command #hacking #hydra 
-
-- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL 
 
 - [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
@@ -330,15 +282,6 @@
 
 - [20221003151189](/zet/20221003151189/README.md) HTTP specific HTTP server exploit possibilities #to-try-list #hacking #http 
 - [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py 
-
-- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
-- [20221003150658](/zet/20221003150658/README.md) wfuzz dirbusting #command #hacking #wfuzz 
-
-- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
-- [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting #command #hacking #feroxbuster 
-
-- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
-- [20221003150739](/zet/20221003150739/README.md) feroxbuster #command #hacking #feroxbuster 
 
 - [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
 - [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog 
@@ -390,18 +333,6 @@
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
 - [20221003150581](/zet/20221003150581/README.md) php LFI include PHP filter URL #hacking #lfi 
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003150658](/zet/20221003150658/README.md) wfuzz dirbusting #command #hacking #wfuzz 
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003150709](/zet/20221003150709/README.md) sqlmap #command #hacking #sqlmap 
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting #command #hacking #feroxbuster 
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details #command #hacking #wfuzz 
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials 
@@ -485,12 +416,6 @@
 - [20221019143424](/zet/20221019143424/README.md) JSON concept #concept #json
 
 - [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
-- [20221003150644](/zet/20221003150644/README.md) nmap all ports command #command #hacking #nmap 
-
-- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
-- [20221003150795](/zet/20221003150795/README.md) generate cewl wordlist from website #command #hacking #generate 
-
-- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
 - [20221011181531](/zet/20221011181531/README.md) steps #notes
 
 - [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
@@ -504,12 +429,6 @@
 
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
 - [20221003150550](/zet/20221003150550/README.md) Sub domain Enum 
-
-- [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
-- [20221003150840](/zet/20221003150840/README.md) gobuster vhost enumeration #command #hacking #gobuster 
-
-- [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
-- [20221003150855](/zet/20221003150855/README.md) dns commands #command #hacking #dns 
 
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
 - [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup 
@@ -536,9 +455,6 @@
 - [20221003150312](/zet/20221003150312/README.md) SMB #hacking #assorted #windows
 
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
-- [20221003150781](/zet/20221003150781/README.md) enum4linux-ng next gen default smb enumeration #command #hacking #enum4linux 
-
-- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
 - [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap 
 
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
@@ -554,12 +470,6 @@
 - [20221003150250](/zet/20221003150250/README.md) Apache guacamole RDP VNC SSH in web browser #hacking #buzzwords #buzzwords 
 
 - [20221003151201](/zet/20221003151201/README.md) RDP #to-try-list #hacking #remoteaccess #rdp #windows
-- [20221003150488](/zet/20221003150488/README.md) active directory #command #hacking #powershell 
-
-- [20221003151201](/zet/20221003151201/README.md) RDP #to-try-list #hacking #remoteaccess #rdp #windows
-- [20221003150779](/zet/20221003150779/README.md) crowbar brute force RDP #command #hacking #crowbar 
-
-- [20221003151201](/zet/20221003151201/README.md) RDP #to-try-list #hacking #remoteaccess #rdp #windows
 - [20221003151144](/zet/20221003151144/README.md) active directory  #hacking #windows #windows 
 
 - [20221003151201](/zet/20221003151201/README.md) RDP #to-try-list #hacking #remoteaccess #rdp #windows
@@ -567,9 +477,6 @@
 
 - [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986 #to-try-list #hacking
 - [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration
-
-- [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986 #to-try-list #hacking
-- [20221003150644](/zet/20221003150644/README.md) nmap all ports command #command #hacking #nmap 
 
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits #to-try-list #hacking #privesc #windows #windows 
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working #exploit #windows #smb
@@ -614,9 +521,6 @@
 - [20221003150473](/zet/20221003150473/README.md) powershell tricks run powershell commands as another user with RunasCs #hacking #trick #powershell 
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003150481](/zet/20221003150481/README.md) general enumeration get list of filepaths recursively #command #hacking #powershell 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows 
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
@@ -639,9 +543,6 @@
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003151081](/zet/20221003151081/README.md) service account privileges #hacking #windows #service 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands #command #hacking #windows #dll 
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003151124](/zet/20221003151124/README.md) dos commands #hacking #windows #dos 
@@ -714,9 +615,6 @@
 
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
 - [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump 
-
-- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
-- [20221003150881](/zet/20221003150881/README.md) create symbolic link #bash #command
 
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
 - [20221003150882](/zet/20221003150882/README.md) writing to and modifying setuid binaries 
@@ -797,9 +695,6 @@
 - [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present 
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands #command #hacking #privesc #enumeration #command 
-
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003150922](/zet/20221003150922/README.md) BSD file transfers #hacking #privesc #bsd 
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
@@ -861,9 +756,6 @@
 
 - [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
 - [20221003150517](/zet/20221003150517/README.md) binary analysis #hacking #pwn #binary 
-
-- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
-- [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12 #command #hacking #openssl 
 
 - [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
 - [20221003150745](/zet/20221003150745/README.md) cracking keepass database with image key 2 john 
