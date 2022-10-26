@@ -24,4 +24,4 @@
 
 Tags:
 
-    #bash #hacking
+    #bash #hacking #info #tip
