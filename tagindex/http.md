@@ -1,4 +1,5 @@
 - [20221003150104](/zet/20221003150104/README.md) python scripting http
+- [20221003150252](/zet/20221003150252/README.md) httponly cookie option
 - [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
 - [20221003150313](/zet/20221003150313/README.md) default http config locations FreeBSD
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list

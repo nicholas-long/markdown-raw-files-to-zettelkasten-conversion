@@ -3,6 +3,7 @@
 - [20221003150318](/zet/20221003150318/README.md) sophos
 - [20221003150319](/zet/20221003150319/README.md) symantec
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
+- [20221003150462](/zet/20221003150462/README.md) tomcat
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221008213357](/zet/20221008213357/README.md) version of program

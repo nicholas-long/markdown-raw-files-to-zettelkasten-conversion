@@ -21,4 +21,4 @@ subfinder -d "$URL"
 
 Tags:
 
-    
+    #command #trick

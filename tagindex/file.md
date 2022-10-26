@@ -6,7 +6,12 @@
 - [20221003150283](/zet/20221003150283/README.md) default webroots debian system
 - [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems
 - [20221003150313](/zet/20221003150313/README.md) default http config locations FreeBSD
+- [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
+- [20221003150981](/zet/20221003150981/README.md) mariadb mysql files read
+- [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
 - [20221003151165](/zet/20221003151165/README.md) TFTP udp 69 to try list
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 - [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
 - [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path
 - [20221003151335](/zet/20221003151335/README.md) bash command reference

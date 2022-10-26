@@ -1,4 +1,5 @@
 # php LFI include PHP filter URL
+
 `php://filter` case insensitive
 
 ` zet/20221003150581/README.md `
@@ -15,4 +16,4 @@
 
 Tags:
 
-    #hacking #lfi 
+    #hacking #lfi #info

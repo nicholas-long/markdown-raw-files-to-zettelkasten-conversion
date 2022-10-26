@@ -13,4 +13,4 @@ hashes can either be in `Password` or `authentication_string` columns
 
 Tags:
 
-    #hacking #sqli 
+    #hacking #sqli #database #users

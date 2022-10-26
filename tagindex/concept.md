@@ -4,6 +4,7 @@
 - [20221008054439](/zet/20221008054439/README.md) graph database
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221008215530](/zet/20221008215530/README.md) username
+- [20221008221548](/zet/20221008221548/README.md) website
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221009021452](/zet/20221009021452/README.md) container
@@ -27,6 +28,7 @@
 - [20221013192245](/zet/20221013192245/README.md) cracking hashes
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
+- [20221014164014](/zet/20221014164014/README.md) protocol for application communication
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221015024515](/zet/20221015024515/README.md) concept of repeating something periodically
@@ -36,6 +38,7 @@
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept
 - [20221018152809](/zet/20221018152809/README.md) VM hypervisor or manager or player or host software
+- [20221018160416](/zet/20221018160416/README.md) phishing or credential harvesting concept
 - [20221019002732](/zet/20221019002732/README.md) shells
 - [20221019003259](/zet/20221019003259/README.md) background task or running service on machine
 - [20221019143424](/zet/20221019143424/README.md) JSON concept

@@ -1,5 +1,6 @@
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
+- [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing
 - [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs
 - [20221003150976](/zet/20221003150976/README.md) IDOR general steps
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
@@ -8,6 +9,7 @@
 - [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
 - [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans
 - [20221003151166](/zet/20221003151166/README.md) got access to docker repository
+- [20221003151167](/zet/20221003151167/README.md) got hashes
 - [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy
 - [20221003151169](/zet/20221003151169/README.md) NFS to try list
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old
@@ -17,6 +19,7 @@
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221003151177](/zet/20221003151177/README.md) Stuck to try list
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list
 - [20221003151179](/zet/20221003151179/README.md) FTP to try list
 - [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks )
 - [20221003151181](/zet/20221003151181/README.md) HTTP compromised CMS login CMS auth code exec / becoming web user
@@ -36,6 +39,7 @@
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 - [20221003151201](/zet/20221003151201/README.md) RDP
 - [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986
 - [20221003151203](/zet/20221003151203/README.md) LDAP

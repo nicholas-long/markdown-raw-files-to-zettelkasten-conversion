@@ -1,3 +1,4 @@
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 - [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags

@@ -4,4 +4,5 @@
 - [20221003150853](/zet/20221003150853/README.md) dns commands zone transfer axfr
 - [20221003150854](/zet/20221003150854/README.md) dns commands reverse lookup with dig
 - [20221003150855](/zet/20221003150855/README.md) dns commands
+- [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list

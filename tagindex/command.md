@@ -1,3 +1,4 @@
+- [20221003150134](/zet/20221003150134/README.md) DNS commands
 - [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive
 - [20221003150155](/zet/20221003150155/README.md) linux assorted commands find disk mounting for root file system
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands
@@ -33,6 +34,7 @@
 - [20221003150530](/zet/20221003150530/README.md) gef gdb plugin buffer overflow pattern create and offset
 - [20221003150531](/zet/20221003150531/README.md) gef gdb plugin rop gadget search
 - [20221003150532](/zet/20221003150532/README.md) gef gdb plugin
+- [20221003150550](/zet/20221003150550/README.md) Sub domain Enum
 - [20221003150552](/zet/20221003150552/README.md) PhpmyAdmin write shell Windows
 - [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell
 - [20221003150583](/zet/20221003150583/README.md) php code convert human readable time to unix epoch timestamp apache HTTP Date header
@@ -312,6 +314,7 @@
 - [20221003150871](/zet/20221003150871/README.md) john the ripper
 - [20221003150872](/zet/20221003150872/README.md) host quick server smtp receive email server
 - [20221003150873](/zet/20221003150873/README.md) host quick server
+- [20221003150874](/zet/20221003150874/README.md) nikto command
 - [20221003150881](/zet/20221003150881/README.md) create symbolic link
 - [20221003150894](/zet/20221003150894/README.md) linux enumeration quick commands file transfer with cat herefiles
 - [20221003150895](/zet/20221003150895/README.md) linux enumeration quick commands check if users can see other users' processes
@@ -345,6 +348,7 @@
 - [20221003151104](/zet/20221003151104/README.md) compile windows DLL to run commands DLL code building with mingw
 - [20221003151105](/zet/20221003151105/README.md) compile windows DLL to run commands DLL code
 - [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
+- [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
 - [20221003151268](/zet/20221003151268/README.md) Lookup missing packages with command-not-found
 - [20221003151276](/zet/20221003151276/README.md) linux data science issues
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities

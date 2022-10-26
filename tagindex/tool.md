@@ -1,6 +1,10 @@
 - [20221003150310](/zet/20221003150310/README.md) burpsuite
 - [20221003150376](/zet/20221003150376/README.md) volatility framework
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
+- [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
+- [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
+- [20221003150457](/zet/20221003150457/README.md) GraphQLmap for GraphQL enumeration
+- [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
 - [20221003150995](/zet/20221003150995/README.md) GraphQL APIs GraphQL tools
 - [20221003151305](/zet/20221003151305/README.md) bash scripting comm utility for set operations
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool

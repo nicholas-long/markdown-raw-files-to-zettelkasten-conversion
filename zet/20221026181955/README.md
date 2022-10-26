@@ -22,110 +22,56 @@
   - fix
 
 ```
-- [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow #hacking #to-try-list #workflow #videonotes #api #web
-- [20221003150457](/zet/20221003150457/README.md) GraphQLmap for GraphQL enumeration 
+- [20221003151167](/zet/20221003151167/README.md) got hashes #to-try-list #hacking #hash
+- [20221008215139](/zet/20221008215139/README.md) hash / checksum #hash
 
-- [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow #hacking #to-try-list #workflow #videonotes #api #web
-- [20221010054621](/zet/20221010054621/README.md) github doesn't let me edit a markdown page with template braces #finding
+- [20221003151167](/zet/20221003151167/README.md) got hashes #to-try-list #hacking #hash
+- [20221008215325](/zet/20221008215325/README.md) password #todo #idea
 
-- [20221003151169](/zet/20221003151169/README.md) NFS to try list #nfs #linux #to-try-list
-- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem 
+- [20221003151167](/zet/20221003151167/README.md) got hashes #to-try-list #hacking #hash
+- [20221008215739](/zet/20221008215739/README.md) go packages have checksums #file #hash
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page #meta
 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
-- [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin #hacking #windows #windows 
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list #to-try-list #programming #coding #hacking #exploit #file
+- [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells 
 
-- [20221003151179](/zet/20221003151179/README.md) FTP to try list #hacking #to-try-list
-- [20221014164014](/zet/20221014164014/README.md) protocol for application communication #idea
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list #to-try-list #programming #coding #hacking #exploit #file
+- [20221003151021](/zet/20221003151021/README.md) analyzing source code PHP code #hacking #source 
 
-- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
-- [20221003150441](/zet/20221003150441/README.md) OWASP cheat sheet series #videonotes
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list #to-try-list #programming #coding #hacking #exploit #file
+- [20221003151023](/zet/20221003151023/README.md) analyzing source code #hacking #source 
 
-- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS #to-try-list #hacking #http 
-- [20221008221548](/zet/20221008221548/README.md) website #web #http
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list #to-try-list #programming #coding #hacking #exploit #file
+- [20221007194303](/zet/20221007194303/README.md) github #company #microsoft
 
-- [20221003151189](/zet/20221003151189/README.md) HTTP specific HTTP server exploit possibilities #to-try-list #hacking #http 
-- [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py 
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list #to-try-list #programming #coding #hacking #exploit #file
+- [20221008214935](/zet/20221008214935/README.md) go language #go #language
 
-- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
-- [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog 
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list #to-try-list #programming #coding #hacking #exploit #file
+- [20221015004252](/zet/20221015004252/README.md) htb opensource machine #idea
 
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
-- [20221003150252](/zet/20221003150252/README.md) httponly cookie option 
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list #to-try-list #programming #coding #hacking #exploit #file
+- [20221015010704](/zet/20221015010704/README.md) things that need splitting up #idea
 
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
-- [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies 
-
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
-- [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials 
-
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
-- [20221018160416](/zet/20221018160416/README.md) phishing or credential harvesting concept #idea
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For #hacking #http #web
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells #hacking #python
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003150581](/zet/20221003150581/README.md) php LFI include PHP filter URL #hacking #lfi 
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials 
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003150874](/zet/20221003150874/README.md) nikto command 
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing #hacking #mobile 
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write #hacking #sqli 
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003151167](/zet/20221003151167/README.md) got hashes 
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list 
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog 
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list #to-try-list #programming #coding #hacking #exploit #file
+- [20221020203509](/zet/20221020203509/README.md) concept of an antipattern #idea #programming #hacking
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
-- [20221003150252](/zet/20221003150252/README.md) httponly cookie option 
+- [20221003150462](/zet/20221003150462/README.md) tomcat #hacking #tomcat #program
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
-- [20221003150462](/zet/20221003150462/README.md) tomcat #hacking #tomcat 
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo #meta
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221008210209](/zet/20221008210209/README.md) nim makes smaller wasm binaries than rust #nim #rust #wasm
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
-- [20221008221548](/zet/20221008221548/README.md) website #web #http
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam #todo #idea #hacking
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
-- [20221014164014](/zet/20221014164014/README.md) protocol for application communication #idea
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221015005535](/zet/20221015005535/README.md) werkzeug #idea
-
-- [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
-- [20221003150134](/zet/20221003150134/README.md) DNS commands #linux #assorted 
-
-- [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
-- [20221003150550](/zet/20221003150550/README.md) Sub domain Enum 
-
-- [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
-- [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup 
 
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS #hacking #windows #windows 
@@ -145,6 +91,27 @@
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
 - [20221003151035](/zet/20221003151035/README.md) hidden shares 
 
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem #hacking #to-try-list #file #filepath
+- [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082 
+
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem #hacking #to-try-list #file #filepath
+- [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read 
+
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem #hacking #to-try-list #file #filepath
+- [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows 
+
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem #hacking #to-try-list #file #filepath
+- [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows 
+
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem #hacking #to-try-list #file #filepath
+- [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet #hacking #windows #windows 
+
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem #hacking #to-try-list #file #filepath
+- [20221003151150](/zet/20221003151150/README.md) windows XP and windows server 2003 write arbitrary MOF file for remote code execution #hacking #windows #xp 
+
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem #hacking #to-try-list #file #filepath
+- [20221003151153](/zet/20221003151153/README.md) windows #windows
+
 - [20221003151201](/zet/20221003151201/README.md) RDP #to-try-list #hacking #remoteaccess #rdp #windows
 - [20221003150250](/zet/20221003150250/README.md) Apache guacamole RDP VNC SSH in web browser #hacking #buzzwords #buzzwords 
 
@@ -154,9 +121,6 @@
 - [20221003151203](/zet/20221003151203/README.md) LDAP #ad #ldap #to-try-list #hacking
 - [20221003151153](/zet/20221003151153/README.md) windows #windows
 
-- [20221003151203](/zet/20221003151203/README.md) LDAP #ad #ldap #to-try-list #hacking
-- [20221014164014](/zet/20221014164014/README.md) protocol for application communication #idea
-
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
 - [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082 
 
@@ -164,28 +128,7 @@
 - [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat #hacking #repositories #important 
 
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
-- [20221003150979](/zet/20221003150979/README.md) mariadb mysql files read database users #hacking #sqli 
-
-- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
-- [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write #hacking #sqli 
-
-- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
-- [20221003150981](/zet/20221003150981/README.md) mariadb mysql files read #hacking #sqli 
-
-- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
-- [20221003150983](/zet/20221003150983/README.md) mariadb mysql files #hacking #sqli 
-
-- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
-- [20221003150984](/zet/20221003150984/README.md) mariadb mysql SQLi information tables #hacking #sqli 
-
-- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
-- [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection #hacking #sqli 
-
-- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
-- [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi #hacking #sqli 
-
-- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
-- [20221003150988](/zet/20221003150988/README.md) mariadb mysql #hacking #sqli 
+- [20221003150979](/zet/20221003150979/README.md) mariadb mysql files read database users #hacking #sqli #database #users
 
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read 
@@ -201,9 +144,6 @@
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py 
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads 
@@ -239,9 +179,6 @@
 - [20221003151165](/zet/20221003151165/README.md) TFTP udp 69 to try list #file #udp
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221008215655](/zet/20221008215655/README.md) user account #todo #idea
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
@@ -260,16 +197,10 @@
 - [20221003150260](/zet/20221003150260/README.md) sperl and suidperl 
 
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
-- [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py 
-
-- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
 - [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump 
 
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
 - [20221003150882](/zet/20221003150882/README.md) writing to and modifying setuid binaries 
-
-- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
-- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list 
 
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
 - [20221003151240](/zet/20221003151240/README.md) Using touch to make files with strange names for exploiting scripts 
@@ -299,9 +230,6 @@
 - [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script 
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py 
-
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads 
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
@@ -327,12 +255,6 @@
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003151165](/zet/20221003151165/README.md) TFTP udp 69 to try list #file #udp
-
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list 
-
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem 
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall 
@@ -389,13 +311,13 @@
 - [20221003151164](/zet/20221003151164/README.md) SNMP 
 
 - [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo #meta
 
 - [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
 - [20221008213254](/zet/20221008213254/README.md) file path #file #path
 
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo #meta
 
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
 - [20221008042814](/zet/20221008042814/README.md) WIP #todo
@@ -432,9 +354,6 @@
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221003151199](/zet/20221003151199/README.md) finger tcp 79 
-
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
-- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem 
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221008042814](/zet/20221008042814/README.md) WIP #todo

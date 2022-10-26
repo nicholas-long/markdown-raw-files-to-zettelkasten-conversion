@@ -1,5 +1,6 @@
 - [20221003150064](/zet/20221003150064/README.md) neovim diff
 - [20221003150309](/zet/20221003150309/README.md) burpsuite set scope to limit request catching
+- [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup
 - [20221003151053](/zet/20221003151053/README.md) lsass process contains credentials
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips

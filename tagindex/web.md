@@ -1,3 +1,4 @@
+- [20221003150252](/zet/20221003150252/README.md) httponly cookie option
 - [20221003150259](/zet/20221003150259/README.md) firefox
 - [20221003150272](/zet/20221003150272/README.md) web server file executable extensions ASP
 - [20221003150273](/zet/20221003150273/README.md) web server file executable extensions PHP
@@ -17,9 +18,12 @@
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
 - [20221003150682](/zet/20221003150682/README.md) web enumeration quick commands forms
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
+- [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
+- [20221003150874](/zet/20221003150874/README.md) nikto command
 - [20221003150976](/zet/20221003150976/README.md) IDOR general steps
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
+- [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD
 - [20221008221548](/zet/20221008221548/README.md) website

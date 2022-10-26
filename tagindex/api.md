@@ -1,3 +1,4 @@
+- [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing
 - [20221003150976](/zet/20221003150976/README.md) IDOR general steps
 - [20221003150990](/zet/20221003150990/README.md) GraphQL APIs example GraphQL queries from InsiderPHD video
 - [20221003150991](/zet/20221003150991/README.md) GraphQL APIs writing GraphQL mutations

@@ -1,6 +1,12 @@
 - [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange
+- [20221003150252](/zet/20221003150252/README.md) httponly cookie option
+- [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150523](/zet/20221003150523/README.md) heap exploit resources
+- [20221003150581](/zet/20221003150581/README.md) php LFI include PHP filter URL
 - [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS
+- [20221003150969](/zet/20221003150969/README.md) mobile apps and API testing steps for mobile app API + burpsuite
+- [20221003150984](/zet/20221003150984/README.md) mariadb mysql SQLi information tables
+- [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection
 - [20221003150996](/zet/20221003150996/README.md) GraphQL APIs common GraphQL bugs
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory

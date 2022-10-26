@@ -22,4 +22,4 @@ Example union injection
 
 Tags:
 
-    #hacking #sqli 
+    #hacking #sqli #database #info

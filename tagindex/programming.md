@@ -1,3 +1,4 @@
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list
 - [20221008212519](/zet/20221008212519/README.md) programming language
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221014155450](/zet/20221014155450/README.md) nim language

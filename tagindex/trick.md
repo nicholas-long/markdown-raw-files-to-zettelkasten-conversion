@@ -1,4 +1,5 @@
 - [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
+- [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
@@ -6,6 +7,7 @@
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
 - [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
+- [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
 - [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
 - [20221003150466](/zet/20221003150466/README.md) powershell tricks convert guid to string
 - [20221003150467](/zet/20221003150467/README.md) powershell tricks browse and edit registry read registry values
@@ -29,8 +31,17 @@
 - [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks
 - [20221003150518](/zet/20221003150518/README.md) pwntools sigreturn
 - [20221003150527](/zet/20221003150527/README.md) generate reverse shell shellcode payload for pwn
+- [20221003150550](/zet/20221003150550/README.md) Sub domain Enum
+- [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
+- [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
+- [20221003150981](/zet/20221003150981/README.md) mariadb mysql files read
+- [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
+- [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection
+- [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi
+- [20221003150988](/zet/20221003150988/README.md) mariadb mysql
 - [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures
 - [20221003151020](/zet/20221003151020/README.md) SSTI polyglot payload
+- [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
 - [20221003151215](/zet/20221003151215/README.md) caddy install
 - [20221003151216](/zet/20221003151216/README.md) caddy stand up https server with a valid certificate

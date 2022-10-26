@@ -16,4 +16,4 @@ wfuzz -u "http://$IP/FUZZ" -w /usr/share/seclists/Fuzzing/fuzz-Bo0oM.txt --hc 40
 
 Tags:
 
-    
+    #command #hacking #web

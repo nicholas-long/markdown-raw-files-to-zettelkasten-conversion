@@ -17,4 +17,4 @@ nikto -host $IP
 
 Tags:
 
-    
+    #hacking #command #web

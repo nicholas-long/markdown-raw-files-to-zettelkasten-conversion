@@ -1,2 +1,3 @@
 - [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange
 - [20221003150264](/zet/20221003150264/README.md) block ciphers AES DES blowfish
+- [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies

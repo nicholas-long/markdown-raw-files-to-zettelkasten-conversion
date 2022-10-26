@@ -18,4 +18,4 @@
 
 Tags:
 
-    #hacking #sqli 
+    #hacking #sqli #trick

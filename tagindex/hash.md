@@ -1,3 +1,4 @@
+- [20221003151167](/zet/20221003151167/README.md) got hashes
 - [20221008215139](/zet/20221008215139/README.md) hash / checksum
 - [20221008215739](/zet/20221008215739/README.md) go packages have checksums
 - [20221009015743](/zet/20221009015743/README.md) dockerfile

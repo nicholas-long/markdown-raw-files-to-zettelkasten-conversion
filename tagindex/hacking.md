@@ -133,6 +133,7 @@
 - [20221003150432](/zet/20221003150432/README.md) generate wordlists namemash - simple
 - [20221003150433](/zet/20221003150433/README.md) generate wordlists
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
+- [20221003150441](/zet/20221003150441/README.md) OWASP cheat sheet series
 - [20221003150447](/zet/20221003150447/README.md) poppler utils PDF parsing pdftotext pdftohtml pdfinfo pdfimages
 - [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing
 - [20221003150451](/zet/20221003150451/README.md) java decompiler JD-GUI analyze jar file
@@ -471,6 +472,7 @@
 - [20221003150828](/zet/20221003150828/README.md) postgres sql enumeration list databases
 - [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list
 - [20221003150830](/zet/20221003150830/README.md) postgres sql enumeration
+- [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
 - [20221003150832](/zet/20221003150832/README.md) responder add ssl certificate
 - [20221003150833](/zet/20221003150833/README.md) responder
 - [20221003150835](/zet/20221003150835/README.md) smb mount share old SMBv1 share
@@ -509,6 +511,7 @@
 - [20221003150871](/zet/20221003150871/README.md) john the ripper
 - [20221003150872](/zet/20221003150872/README.md) host quick server smtp receive email server
 - [20221003150873](/zet/20221003150873/README.md) host quick server
+- [20221003150874](/zet/20221003150874/README.md) nikto command
 - [20221003150875](/zet/20221003150875/README.md) sudo sudoers file all nopassword
 - [20221003150876](/zet/20221003150876/README.md) sudo sudoers file
 - [20221003150877](/zet/20221003150877/README.md) dirty cow privilege escalation working version build on attacker machine with statically linked binaries embedded
@@ -755,6 +758,7 @@
 - [20221003151155](/zet/20221003151155/README.md) linux hardening
 - [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
 - [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans
+- [20221003151167](/zet/20221003151167/README.md) got hashes
 - [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old
 - [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access
@@ -762,6 +766,7 @@
 - [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
+- [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list
 - [20221003151179](/zet/20221003151179/README.md) FTP to try list
 - [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks )
 - [20221003151181](/zet/20221003151181/README.md) HTTP compromised CMS login CMS auth code exec / becoming web user
@@ -780,6 +785,7 @@
 - [20221003151194](/zet/20221003151194/README.md) procedure
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 - [20221003151201](/zet/20221003151201/README.md) RDP
 - [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986
 - [20221003151203](/zet/20221003151203/README.md) LDAP
@@ -812,6 +818,7 @@
 - [20221003151233](/zet/20221003151233/README.md) mysql mariadb write UDF shell or any binary file with file permissions
 - [20221003151235](/zet/20221003151235/README.md) mysql mariadb display query output as pretty printed text with column names
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
+- [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
 - [20221003151242](/zet/20221003151242/README.md) preparing malicious package payloads node npm package malicious repository ( tcp port 4873 )
 - [20221003151243](/zet/20221003151243/README.md) preparing malicious package payloads node npm package
 - [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads
