@@ -28,3 +28,4 @@
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221018193528](/zet/20221018193528/README.md) bash shell builtin commands
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
+- [20221022210052](/zet/20221022210052/README.md) file type reference

@@ -1,6 +1,7 @@
 - [20221003150312](/zet/20221003150312/README.md) SMB
 - [20221003150341](/zet/20221003150341/README.md) cms database creds config locations
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
+- [20221003150517](/zet/20221003150517/README.md) binary analysis
 - [20221003150677](/zet/20221003150677/README.md) bloodhound
 - [20221003151006](/zet/20221003151006/README.md) API enumeration
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS
@@ -28,6 +29,7 @@
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221009021452](/zet/20221009021452/README.md) container
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
+- [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud

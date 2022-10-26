@@ -1,3 +1,4 @@
+- [20221003150277](/zet/20221003150277/README.md) pfx extension PKCS#12 format certificate cracking with johntheripper
 - [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
 - [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
 - [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
@@ -106,10 +107,12 @@
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
+- [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
+- [20221022210052](/zet/20221022210052/README.md) file type reference
 - [20221024070910](/zet/20221024070910/README.md) drop first column with awk

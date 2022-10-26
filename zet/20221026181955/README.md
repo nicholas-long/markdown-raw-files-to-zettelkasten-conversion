@@ -30,41 +30,8 @@
 - [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files #to-try-list #hacking #got 
 - [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext 
 
-- [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files #to-try-list #hacking #got 
-- [20221022210052](/zet/20221022210052/README.md) file type reference #idea
-
-- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
-- [20221003150277](/zet/20221003150277/README.md) pfx extension PKCS#12 format certificate cracking with johntheripper #hacking #file 
-
-- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
-- [20221003150517](/zet/20221003150517/README.md) binary analysis #hacking #pwn #binary 
-
-- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
-- [20221003150745](/zet/20221003150745/README.md) cracking keepass database with image key 2 john 
-
-- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
-- [20221003150517](/zet/20221003150517/README.md) binary analysis #hacking #pwn #binary 
-
-- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
-- [20221003151164](/zet/20221003151164/README.md) SNMP 
-
-- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
-- [20221008213254](/zet/20221008213254/README.md) file path #file #path
-
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
 - [20221008042814](/zet/20221008042814/README.md) WIP #todo
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes #todo #idea #github #filehash
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221008213627](/zet/20221008213627/README.md) enhancement / improvement #todo #enhancement
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221009104752](/zet/20221009104752/README.md) stuff to research #todo #idea
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221010071719](/zet/20221010071719/README.md) nodes to add #todo #idea
 
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
 - [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards #todo #idea
@@ -74,9 +41,6 @@
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP 
-
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
-- [20221003151164](/zet/20221003151164/README.md) SNMP 
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221003151196](/zet/20221003151196/README.md) IPMI 

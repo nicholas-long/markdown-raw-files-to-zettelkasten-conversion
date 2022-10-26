@@ -763,6 +763,7 @@
 - [20221003151155](/zet/20221003151155/README.md) linux hardening
 - [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
 - [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans
+- [20221003151164](/zet/20221003151164/README.md) SNMP
 - [20221003151165](/zet/20221003151165/README.md) TFTP udp 69 to try list
 - [20221003151167](/zet/20221003151167/README.md) got hashes
 - [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy
