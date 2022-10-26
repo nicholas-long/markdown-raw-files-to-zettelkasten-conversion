@@ -20,6 +20,9 @@
     - video
   - notes - links coming in from hacking notes template
   - fix
+  - meta
+  - boxes
+  - program
 
 ```
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 

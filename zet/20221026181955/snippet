@@ -3,4 +3,4 @@
 KB_ID=20221003151443 #zet/20221003151443/README.md # kb
 zet/20221023085822/walkquery --human @to-try-list refs \
   not <( ./graphquery id $KB_ID refs ) \
-  not <( ./graphquery taglist 'to-try-list,hub,concept,skill,tip,trick,exploit,command,tool,cert,notes,streamer,video,info' )
+  not <( ./graphquery taglist 'to-try-list,hub,concept,skill,tip,trick,exploit,command,tool,cert,notes,streamer,video,info,meta,boxes,program' )
