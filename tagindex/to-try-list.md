@@ -29,6 +29,7 @@
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
 - [20221003151201](/zet/20221003151201/README.md) RDP
 - [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986
+- [20221003151203](/zet/20221003151203/README.md) LDAP
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation

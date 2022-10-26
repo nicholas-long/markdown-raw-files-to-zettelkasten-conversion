@@ -25,4 +25,4 @@
 
 Tags:
 
-    #hacking #bruteforcing #ssh
+    #hacking #bruteforcing #ssh #trick #command

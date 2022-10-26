@@ -1,5 +1,6 @@
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
 - [20221003150677](/zet/20221003150677/README.md) bloodhound
+- [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221008054439](/zet/20221008054439/README.md) graph database
@@ -21,3 +22,4 @@
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
+- [20221017172946](/zet/20221017172946/README.md) LAN attacks

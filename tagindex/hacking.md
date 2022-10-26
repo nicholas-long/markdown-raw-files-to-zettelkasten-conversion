@@ -86,6 +86,7 @@
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
 - [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
 - [20221003150355](/zet/20221003150355/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries
+- [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150359](/zet/20221003150359/README.md) windows run commands as other user with credentials switch users on windows host with RunasCs with no WinRM remote management access
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
@@ -458,6 +459,7 @@
 - [20221003150820](/zet/20221003150820/README.md) hydra bruteforce ftp rockyou 50
 - [20221003150821](/zet/20221003150821/README.md) hydra bruteforce ftp default creds
 - [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
+- [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force
 - [20221003150824](/zet/20221003150824/README.md) postgres sql enumeration connect to database using file socket
 - [20221003150825](/zet/20221003150825/README.md) postgres sql enumeration connect to database
 - [20221003150826](/zet/20221003150826/README.md) postgres sql enumeration exit
@@ -772,6 +774,7 @@
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
 - [20221003151201](/zet/20221003151201/README.md) RDP
 - [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986
+- [20221003151203](/zet/20221003151203/README.md) LDAP
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation

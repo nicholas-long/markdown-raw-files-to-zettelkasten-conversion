@@ -28,6 +28,7 @@
 - [20221015024515](/zet/20221015024515/README.md) concept of repeating something periodically
 - [20221015173433](/zet/20221015173433/README.md) gnome window manager
 - [20221017070405](/zet/20221017070405/README.md) docker compose
+- [20221017172946](/zet/20221017172946/README.md) LAN attacks
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept
 - [20221018152809](/zet/20221018152809/README.md) VM hypervisor or manager or player or host software

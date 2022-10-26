@@ -1,3 +1,4 @@
 - [20221003150344](/zet/20221003150344/README.md) SSH brute force old key exchange algorithms
 - [20221003150345](/zet/20221003150345/README.md) SSH brute force command shortlist from hacktricks
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
+- [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force

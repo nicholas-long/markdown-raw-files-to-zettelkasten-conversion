@@ -2,7 +2,9 @@
 - [20221003150287](/zet/20221003150287/README.md) default webroots xampp
 - [20221003150311](/zet/20221003150311/README.md) SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
 - [20221003150312](/zet/20221003150312/README.md) SMB
+- [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
+- [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
 - [20221003150728](/zet/20221003150728/README.md) powershell base64 encode equivalent within ps
 - [20221003150729](/zet/20221003150729/README.md) powershell encode commands as base64 with windows wide char strings in linux
 - [20221003150730](/zet/20221003150730/README.md) powershell

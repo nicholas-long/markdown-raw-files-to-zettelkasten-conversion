@@ -16,19 +16,10 @@
 - [20221003151144](/zet/20221003151144/README.md) active directory  #hacking #windows #windows 
 
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound #to-try-list #hacking #bloodhound
-- [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target #hacking #windows #ad 
-
-- [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound #to-try-list #hacking #bloodhound
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151170](/zet/20221003151170/README.md) active directory domain old #to-try-list #hacking #active 
-- [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003 #hacking #windows #xp 
 
 - [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access #to-try-list #hacking #active 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf 
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials #hacking
@@ -37,16 +28,10 @@
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings #hacking #repositories #important #tool #repo #windows
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host #hacking #repositories #important 
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file #hacking #load 
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory 
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003151203](/zet/20221003151203/README.md) LDAP #ad #ldap
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003151218](/zet/20221003151218/README.md) send email over SMTP from command line with swaks 
@@ -64,9 +49,6 @@
 - [20221011181920](/zet/20221011181920/README.md) working notes - foothold #notes
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221017172946](/zet/20221017172946/README.md) LAN attacks #idea
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands #ad #kerberos #windows #activedirectory
 
 - [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits #to-try-list #hacking #ssh 
@@ -80,9 +62,6 @@
 
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force #hacking #bruteforcing #ssh
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force 
 
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
 - [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream 
@@ -394,9 +373,6 @@
 - [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes 
 
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits #to-try-list #hacking #smb 
-- [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003 #hacking #windows #xp 
-
-- [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits #to-try-list #hacking #smb 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
@@ -422,6 +398,15 @@
 
 - [20221003151201](/zet/20221003151201/README.md) RDP #to-try-list #hacking #remoteaccess #rdp #windows
 - [20221003151153](/zet/20221003151153/README.md) windows #windows
+
+- [20221003151203](/zet/20221003151203/README.md) LDAP #ad #ldap #to-try-list #hacking
+- [20221003151144](/zet/20221003151144/README.md) active directory  #hacking #windows #windows 
+
+- [20221003151203](/zet/20221003151203/README.md) LDAP #ad #ldap #to-try-list #hacking
+- [20221003151153](/zet/20221003151153/README.md) windows #windows
+
+- [20221003151203](/zet/20221003151203/README.md) LDAP #ad #ldap #to-try-list #hacking
+- [20221014164014](/zet/20221014164014/README.md) protocol for application communication #idea
 
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits #to-try-list #hacking #privesc #windows #windows 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
@@ -491,9 +476,6 @@
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003151203](/zet/20221003151203/README.md) LDAP #ad #ldap
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup 
@@ -593,9 +575,6 @@
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal 
-
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force 
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack 
@@ -758,9 +737,6 @@
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem 
-
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
-- [20221003151203](/zet/20221003151203/README.md) LDAP #ad #ldap
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL 
