@@ -4,11 +4,8 @@
 #end effect is inserting it into file
 #add index paremter to alter other snippets
 BEGIN {
-  foundstartsnip = foundendsnip = 0
+  foundstartsnip = foundendsnip = ndx = l = insnip = 0
   if (!snipindex) snipindex = 1 # pass as parameter and overwrite this to write to other snippets
-  ndx = 0
-  l = 0
-  insnip = 0
 }
 ARGIND == 2 { print; next }
 { snipline = 0 }
@@ -29,7 +26,4 @@ ARGIND == 1 {
     save[l++] = $0
   } 
 }
-END {
-  print "in END", l
-  for (n = 0; n < l; n++) print save[n]
-}
+END { for (n = 0; n < l; n++) print save[n] }
