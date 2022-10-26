@@ -3,6 +3,7 @@
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221008054439](/zet/20221008054439/README.md) graph database
 - [20221008061334](/zet/20221008061334/README.md) concepts
+- [20221008081231](/zet/20221008081231/README.md) debugging
 - [20221009021452](/zet/20221009021452/README.md) container
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
