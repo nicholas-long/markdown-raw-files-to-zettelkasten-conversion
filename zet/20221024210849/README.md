@@ -13,6 +13,7 @@
 
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221008042814](/zet/20221008042814/README.md) WIP
+- [20221026133841](/zet/20221026133841/README.md) test card with duplicate links
 
 Tags:
 

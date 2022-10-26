@@ -6,6 +6,10 @@ stuff i am working on.
 
 # Related
 
+- [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
+- [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step
+- [20221026060602](/zet/20221026060602/README.md) remove dependency on lazygit
+- [20221026080325](/zet/20221026080325/README.md) move code to add tags to zetcmd
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams
@@ -81,11 +85,7 @@ stuff i am working on.
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
-- [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
-- [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step
-- [20221026060602](/zet/20221026060602/README.md) remove dependency on lazygit
 - [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
-- [20221026080325](/zet/20221026080325/README.md) move code to add tags to zetcmd
 
 Tags:
 
