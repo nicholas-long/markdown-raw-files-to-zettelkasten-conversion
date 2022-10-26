@@ -17,4 +17,4 @@ according to rwxrob, nim makes smaller wasm binaries than rust.
 
 Tags:
 
-    #nim #rust #wasm
+    #nim #rust #wasm #tip

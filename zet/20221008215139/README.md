@@ -24,4 +24,4 @@ the concept of `hash / checksum`
 
 Tags:
 
-    #hash
+    #hash #concept #hub
