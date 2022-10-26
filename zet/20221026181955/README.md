@@ -24,11 +24,9 @@
   - boxes
   - program
   - privesc
+  - analysis
 
 ```
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems #hacking #privesc #lxd 
-
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall 
 

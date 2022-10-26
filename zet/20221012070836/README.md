@@ -32,4 +32,4 @@ sudo pip3 install asciinema
 
 Tags:
 
-    #todo #idea
+    #tool #terminal
