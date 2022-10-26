@@ -127,6 +127,7 @@
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old
 - ~/kb/hacking/to-try-lists/active-directory-domain.md
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
+- [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 
 Tags:
 

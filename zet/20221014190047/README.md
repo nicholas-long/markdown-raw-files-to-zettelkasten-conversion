@@ -58,7 +58,7 @@
 - [20221003150385](/zet/20221003150385/README.md) krbrelayx printerbug.py Simple tool to trigger SpoolService bug via RPC backconnect. Similar to dementor.py
 - [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
 - [20221003150379](/zet/20221003150379/README.md) oracle database attacking tool odat enumerate users
-- [20221003150381](/zet/20221003150381/README.md) threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender) identify and pinpoints that exact bytes that the target antivirus engine will flag on
+- [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 - [20221003150424](/zet/20221003150424/README.md) kerberos attack on windows host ticket attacks
 - [20221003150383](/zet/20221003150383/README.md) threatcheck help obfuscate windows executable strings
 - [20221003150370](/zet/20221003150370/README.md) dump credentials from browsers chromium

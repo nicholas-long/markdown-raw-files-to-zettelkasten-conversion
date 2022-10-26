@@ -1,5 +1,6 @@
 - [20221003150310](/zet/20221003150310/README.md) burpsuite
 - [20221003150376](/zet/20221003150376/README.md) volatility framework
+- [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 - [20221003151305](/zet/20221003151305/README.md) bash scripting comm utility for set operations
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221018183943](/zet/20221018183943/README.md) shellcheck

@@ -103,7 +103,7 @@
 - [20221003150378](/zet/20221003150378/README.md) oracle database attacking tool odat escalate database account to DBA
 - [20221003150379](/zet/20221003150379/README.md) oracle database attacking tool odat enumerate users
 - [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat
-- [20221003150381](/zet/20221003150381/README.md) threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender) identify and pinpoints that exact bytes that the target antivirus engine will flag on
+- [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 - [20221003150382](/zet/20221003150382/README.md) threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender)
 - [20221003150383](/zet/20221003150383/README.md) threatcheck help obfuscate windows executable strings
 - [20221003150384](/zet/20221003150384/README.md) krbrelayx krbrelayx.py Kerberos relaying and Unconstrained delegation abuse

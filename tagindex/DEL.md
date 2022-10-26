@@ -2,4 +2,6 @@
 - [20221003150128](/zet/20221003150128/README.md) tldr pages location
 - [20221003150378](/zet/20221003150378/README.md) oracle database attacking tool odat escalate database account to DBA
 - [20221003150379](/zet/20221003150379/README.md) oracle database attacking tool odat enumerate users
+- [20221003150382](/zet/20221003150382/README.md) threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender)
+- [20221003150383](/zet/20221003150383/README.md) threatcheck help obfuscate windows executable strings
 - [20221003150570](/zet/20221003150570/README.md) PHP unserialize payload gadget chains like ysoserial but for PHP

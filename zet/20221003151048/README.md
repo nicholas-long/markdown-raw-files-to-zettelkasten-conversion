@@ -10,6 +10,7 @@
 - ~/kb/hacking/windows/windows-information.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221025221046](/zet/20221025221046/README.md) worst tier of AV
+- [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 
 Tags:
 
