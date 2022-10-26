@@ -23,6 +23,7 @@
   - meta
   - boxes
   - program
+  - privesc
 
 ```
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
