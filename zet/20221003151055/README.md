@@ -14,4 +14,4 @@ system32\license.rtf will have version
 
 Tags:
 
-    
+    #trick #windows #hacking #version #enumeration

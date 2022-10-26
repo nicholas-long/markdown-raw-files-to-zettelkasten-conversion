@@ -31,4 +31,4 @@
 
 Tags:
 
-    #idea #programming #hacking
+    #idea #programming #hacking #info #trick

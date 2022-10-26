@@ -19,4 +19,4 @@ upload mof file -> callback should be relatively instantaneous
 
 Tags:
 
-    #hacking #windows #xp 
+    #hacking #windows #xp #trick #rce
