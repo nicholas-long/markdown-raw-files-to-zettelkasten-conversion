@@ -129,6 +129,7 @@
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
+- [20221003151081](/zet/20221003151081/README.md) service account privileges
 
 Tags:
 

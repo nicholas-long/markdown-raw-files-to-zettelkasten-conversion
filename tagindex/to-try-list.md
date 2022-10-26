@@ -1,6 +1,7 @@
 - [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
 - [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans
 - [20221003151166](/zet/20221003151166/README.md) got access to docker repository
+- [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old
 - [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list

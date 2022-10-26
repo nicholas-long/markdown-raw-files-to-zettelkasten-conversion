@@ -20,6 +20,7 @@ Start-ScheduledTask -TaskName "GrantAllPerms"
 - [20221003151079](/zet/20221003151079/README.md) service account privileges restore using scheduled task with powershell
 - ~/kb/hacking/windows/service-account-privileges.md
 - [20221003151081](/zet/20221003151081/README.md) service account privileges
+- [20221003151080](/zet/20221003151080/README.md) service account privileges restore
 
 Tags:
 
