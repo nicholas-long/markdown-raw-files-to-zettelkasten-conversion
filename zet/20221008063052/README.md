@@ -41,4 +41,4 @@ zet/20221026165857/autoexec_enrich
 
 Tags:
 
-    #zettelkasten #bash #script #template
+    #zettelkasten #bash #script #template #test
