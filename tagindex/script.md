@@ -90,3 +90,4 @@
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - [20221006010531](/zet/20221006010531/README.md) sed scripts
 - [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames
+- [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards

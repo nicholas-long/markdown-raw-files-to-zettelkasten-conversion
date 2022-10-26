@@ -1,9 +1,7 @@
 # autorunning scripts in cards
 
-the concept of `autorunning scripts in cards`.
-
-implemented:
-- help snippet block on the implementation page.
+- the concept of `autorunning scripts in cards`.
+  - this is an example
 - add executable file named `autoexec_enrich` to card
 
 ```
@@ -38,4 +36,4 @@ zet/20221021081636/autoexec_enrich
 
 Tags:
 
-    #zettelkasten #bash
+    #zettelkasten #bash #script #template
