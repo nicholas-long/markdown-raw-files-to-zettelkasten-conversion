@@ -16,9 +16,6 @@
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound #to-try-list #hacking #bloodhound
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
-- [20221003151168](/zet/20221003151168/README.md) HTTP proxy / squid proxy #hacking #to-try-list
-- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration #skill
-
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old #to-try-list #hacking #active 
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003 #hacking #windows #xp 
 
@@ -39,9 +36,6 @@
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file #hacking #load 
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003150473](/zet/20221003150473/README.md) powershell tricks run powershell commands as another user with RunasCs #hacking #trick #powershell 
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory 
@@ -254,9 +248,6 @@
 - [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures #hacking #lfi 
 
 - [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
-- [20221003151225](/zet/20221003151225/README.md) php filter LFI to iconv RCE original get 0 script #hacking #trick #php 
-
-- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying #bash #script 
 
 - [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal #to-try-list #hacking #http 
@@ -359,9 +350,6 @@
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL 
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE #hacking #trick #php 
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
 - [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog 
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
@@ -369,9 +357,6 @@
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
 - [20221013180230](/zet/20221013180230/README.md) session cookie, API key, or access token #concept
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
-- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration #skill
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221003150252](/zet/20221003150252/README.md) httponly cookie option 
@@ -422,9 +407,6 @@
 - [20221003150134](/zet/20221003150134/README.md) DNS commands #linux #assorted 
 
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
-- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration #skill
-
-- [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
 - [20221003150550](/zet/20221003150550/README.md) Sub domain Enum 
 
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
@@ -472,9 +454,6 @@
 - [20221003151201](/zet/20221003151201/README.md) RDP #to-try-list #hacking #remoteaccess #rdp #windows
 - [20221003151153](/zet/20221003151153/README.md) windows #windows
 
-- [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986 #to-try-list #hacking
-- [20221003150242](/zet/20221003150242/README.md) identify service #hacking #identify #enumeration #skill
-
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits #to-try-list #hacking #privesc #windows #windows 
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working #exploit #windows #smb
 
@@ -513,9 +492,6 @@
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file #hacking #load 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003150473](/zet/20221003150473/README.md) powershell tricks run powershell commands as another user with RunasCs #hacking #trick #powershell 
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows 
@@ -561,9 +537,6 @@
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221008191607](/zet/20221008191607/README.md) procmon auto scroll #tip #trick #windows #tools #procmon
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221008215655](/zet/20221008215655/README.md) user account #todo #idea
