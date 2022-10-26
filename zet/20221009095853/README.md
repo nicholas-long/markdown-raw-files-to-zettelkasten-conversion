@@ -50,6 +50,7 @@ things that are finished.
 - [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4
 - [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step
 - [20221026080325](/zet/20221026080325/README.md) move code to add tags to zetcmd
+- [20221026152737](/zet/20221026152737/README.md) template snippet cards not getting run because of parameter issues
 
 Tags:
 
