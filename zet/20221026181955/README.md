@@ -9,6 +9,7 @@
   - tips
   - command
   - exploit
+  - tool
   - fix?
 
 ```
@@ -17,9 +18,6 @@
 
 - [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access #to-try-list #hacking #active 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings #hacking #repositories #important #tool #repo #windows
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file #hacking #load 
@@ -259,9 +257,6 @@
 - [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For #hacking #http #web
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003150310](/zet/20221003150310/README.md) burpsuite #hacking #tool
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells #hacking #python
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
@@ -409,9 +404,6 @@
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers #hacking #repositories #important #web #creds
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings #hacking #repositories #important #tool #repo #windows
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py 
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
@@ -515,9 +507,6 @@
 
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource #idea
-
-- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
-- [20221018183943](/zet/20221018183943/README.md) shellcheck #tool #bash #hacking
 
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
 - [20221018193528](/zet/20221018193528/README.md) bash shell builtin commands #info
