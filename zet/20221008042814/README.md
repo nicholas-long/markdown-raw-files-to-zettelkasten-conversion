@@ -6,13 +6,15 @@ stuff i am working on.
 
 # Related
 
+- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
+- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
+- [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
+- [20221015000510](/zet/20221015000510/README.md) create install script for zet command
+- [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
+- [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221015010704](/zet/20221015010704/README.md) things that need splitting up
-- [20221015000510](/zet/20221015000510/README.md) create install script for zet command
-- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
-- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221026060602](/zet/20221026060602/README.md) remove dependency on lazygit
-- [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
 - [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
 - [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language
@@ -20,6 +22,7 @@ stuff i am working on.
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
+- [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221022232615](/zet/20221022232615/README.md) defcon video notes
 - [20221003151144](/zet/20221003151144/README.md) active directory 
 - [20221003150791](/zet/20221003150791/README.md) openssl
@@ -29,8 +32,6 @@ stuff i am working on.
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash
 - [20221018020643](/zet/20221018020643/README.md) what is hadoop for?
-- [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
-- [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
@@ -81,7 +82,6 @@ stuff i am working on.
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
-- [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
 
 Tags:
 
