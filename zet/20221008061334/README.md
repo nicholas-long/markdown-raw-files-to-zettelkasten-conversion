@@ -13,7 +13,6 @@
 - [20221009021452](/zet/20221009021452/README.md) container
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221009001238](/zet/20221009001238/README.md) certification
-zet/20221006032546/README.md	my implementation of zet cmd	# my implementation of zet cmd
 - [20221008054439](/zet/20221008054439/README.md) graph database
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
@@ -25,7 +24,8 @@ zet/20221006032546/README.md	my implementation of zet cmd	# my implementation of
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 
 Tags:
 
-    #noun #idea
+    #noun #idea #hub

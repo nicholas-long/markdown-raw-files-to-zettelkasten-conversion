@@ -25,4 +25,4 @@ the concept of graph database
 
 Tags:
 
-    #database
+    #database #concept #hub

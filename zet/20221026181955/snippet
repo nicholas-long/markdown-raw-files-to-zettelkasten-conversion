@@ -1,0 +1,3 @@
+#!/bin/bash
+
+zet/20221023085822/walkquery --human @to-try-list refs not <( ./graphquery @to-try-list )

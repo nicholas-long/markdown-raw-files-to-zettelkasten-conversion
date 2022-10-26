@@ -18,7 +18,7 @@ find zet -name README.md | awk -F / '{print $(NF-1)}' | sort -u > $buf
 while [[ $# -gt 0 ]]; do
   #echo "parsing $1" > /dev/stderr
   if [ -f "$1" -o -p "$1" ]; then # file or pipe
-    echo "got file $1" > /dev/stderr
+    #echo "got file $1" > /dev/stderr
     grep -Eo '[0-9]{14}' "$1" | sort -u > $temp
     join $buf $temp > $joined
     cp "$joined" "$buf"
@@ -56,7 +56,7 @@ while [[ $# -gt 0 ]]; do
   elif [[ "$1" == 'or' ]]; then
     shift
     if [ -f "$1" -o -p "$1" ]; then
-      echo "got file $1" > /dev/stderr
+      #echo "got file $1" > /dev/stderr
       grep -Eo '[0-9]{14}' "$1" | sort -u > $temp
       cat $buf "$1" | sort -u > $joined
       cp "$joined" "$buf"
@@ -67,7 +67,7 @@ while [[ $# -gt 0 ]]; do
   elif [[ "$1" == 'not' ]]; then
     shift
     if [ -f "$1" -o -p "$1" ]; then
-      echo "got file $1" > /dev/stderr
+      #echo "got file $1" > /dev/stderr
       grep -Eo '[0-9]{14}' "$1" | sort -u > $temp
       join -v 1 $buf $temp > $joined
       cp "$joined" "$buf"

@@ -73,4 +73,4 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 
 Tags:
 
-    #todo #idea
+    #idea #hub #to-try-list #hacking

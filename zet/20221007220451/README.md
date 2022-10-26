@@ -234,4 +234,4 @@ hacking notes hub
 
 Tags:
 
-    #hacking
+    #hacking #hub
