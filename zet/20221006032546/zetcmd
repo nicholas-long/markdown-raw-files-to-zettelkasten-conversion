@@ -492,14 +492,18 @@ EOF
 
     # run every autoexec_enrich, passing in the script's full path
     find zet -executable -name autoexec_enrich | awk '
-    BEGIN { FS = OFS = "/" }
+    BEGIN {
+      FS = OFS = "/"
+      "pwd" | getline wd
+      close("pwd")
+    }
     {
       file = $0
       "realpath " file | getline
       NF--
       scriptpath = $0
-      "pwd" | getline
-      system(file " " $0 " " scriptpath)
+      print "executing script", file > "/dev/stderr"
+      system(file " " wd " " scriptpath)
     }
     '
     ;;
