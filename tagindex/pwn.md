@@ -15,10 +15,12 @@
 - [20221003150515](/zet/20221003150515/README.md) pwntools gdb debugging terminal
 - [20221003150516](/zet/20221003150516/README.md) binary analysis golang
 - [20221003150517](/zet/20221003150517/README.md) binary analysis
+- [20221003150518](/zet/20221003150518/README.md) pwntools sigreturn
 - [20221003150519](/zet/20221003150519/README.md) calling conventions x64 windows C style  volatile registers after call
 - [20221003150520](/zet/20221003150520/README.md) calling conventions x64 windows C style
 - [20221003150521](/zet/20221003150521/README.md) calling conventions x64 linux C style
 - [20221003150522](/zet/20221003150522/README.md) calling conventions
+- [20221003150523](/zet/20221003150523/README.md) heap exploit resources
 - [20221003150524](/zet/20221003150524/README.md) make executable binary with input shellcode msfvenom
 - [20221003150525](/zet/20221003150525/README.md) make executable binary with input shellcode
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list

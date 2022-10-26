@@ -15,16 +15,10 @@
 
 ```
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list #to-try-list #hacking #pwn
-- [20221003150518](/zet/20221003150518/README.md) pwntools sigreturn 
-
-- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list #to-try-list #hacking #pwn
-- [20221003150523](/zet/20221003150523/README.md) heap exploit resources 
+- [20221003150523](/zet/20221003150523/README.md) heap exploit resources #pwn #info #help
 
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list #to-try-list #hacking #pwn
 - [20221003150527](/zet/20221003150527/README.md) generate reverse shell shellcode payload for pwn #pwn #hacking
-
-- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list #to-try-list #hacking #pwn
-- [20221006215135](/zet/20221006215135/README.md) siren #hacking #streamer 
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page #meta
@@ -85,9 +79,6 @@
 
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
 - [20221019151504](/zet/20221019151504/README.md) error message username enumeration #idea #process #enumeration
-
-- [20221003151185](/zet/20221003151185/README.md) HTTP bypassing restrictions #to-try-list #hacking #http 
-- [20221006215135](/zet/20221006215135/README.md) siren #hacking #streamer 
 
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages 
@@ -157,9 +148,6 @@
 
 - [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
 - [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog 
-
-- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
-- [20221006215135](/zet/20221006215135/README.md) siren #hacking #streamer 
 
 - [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
 - [20221003150252](/zet/20221003150252/README.md) httponly cookie option 
@@ -514,9 +502,6 @@
 
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet #fun #fidget #games 
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221006215135](/zet/20221006215135/README.md) siren #hacking #streamer 
 
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
 - [20221008042814](/zet/20221008042814/README.md) WIP #todo

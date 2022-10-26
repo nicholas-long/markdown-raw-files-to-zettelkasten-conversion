@@ -1,2 +1,3 @@
+- [20221003150523](/zet/20221003150523/README.md) heap exploit resources
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory
 - [20221018193528](/zet/20221018193528/README.md) bash shell builtin commands
