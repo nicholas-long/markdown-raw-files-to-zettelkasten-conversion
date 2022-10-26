@@ -225,8 +225,6 @@ this is a list of possibly empty zettels.
 - [20221003150388](/zet/20221003150388/README.md) krbrelayx Kerberos relaying and unconstrained delegation abuse toolkit
 - [20221003150387](/zet/20221003150387/README.md) krbrelayx addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP.
 - [20221003150386](/zet/20221003150386/README.md) krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP.
-- [20221003150383](/zet/20221003150383/README.md) threatcheck help obfuscate windows executable strings
-- [20221003150382](/zet/20221003150382/README.md) threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender)
 - [20221003150370](/zet/20221003150370/README.md) dump credentials from browsers chromium
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails

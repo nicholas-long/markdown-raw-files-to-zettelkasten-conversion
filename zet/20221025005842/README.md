@@ -58,20 +58,6 @@ emptyid != $1 {
 ' zet/20221025005842/queryoutput
 
 
-next id 20221003150382
-# threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender)
-20221003150382 20221003150381 zet/20221003150381/README.md 3
-# threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender) identify and pinpoints that exact bytes that the target antivirus engine will flag on
-20221003150382 20221014190047 zet/20221014190047/README.md 4
-# kb file named kb/hacking/misc/important-repositories-tools.md
-
-next id 20221003150383
-# threatcheck help obfuscate windows executable strings
-20221003150383 20221010064819 zet/20221010064819/README.md 31
-# locating the origin of files by hash to determine version
-20221003150383 20221014190047 zet/20221014190047/README.md 4
-# kb file named kb/hacking/misc/important-repositories-tools.md
-
 next id 20221003150386
 # krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP.
 20221003150386 20221014190047 zet/20221014190047/README.md 4
