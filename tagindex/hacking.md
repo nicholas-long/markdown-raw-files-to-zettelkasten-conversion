@@ -843,6 +843,7 @@
 - [20221003151255](/zet/20221003151255/README.md) run executable binary programs within process memory linux base64 piped text using dd and shellcode
 - [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux
 - [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory
+- [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
 - [20221003151259](/zet/20221003151259/README.md) stabilize shell with script command
 - [20221003151262](/zet/20221003151262/README.md) windows executable smartscreen protection bypass ( apt 29 )
 - [20221003151263](/zet/20221003151263/README.md) windows executable smartscreen protection

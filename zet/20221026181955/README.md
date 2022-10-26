@@ -27,18 +27,6 @@
   - analysis
 
 ```
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall 
-
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker #docker #question
-
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session #todo #idea
-
-- [20221003151211](/zet/20221003151211/README.md) got leaked files jar #to-try-list #hacking #got 
-- [20221003150231](/zet/20221003150231/README.md) apk analysis #hacking #apk #analysis
-
 - [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files #to-try-list #hacking #got 
 - [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext 
 
@@ -53,9 +41,6 @@
 
 - [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
 - [20221003150745](/zet/20221003150745/README.md) cracking keepass database with image key 2 john 
-
-- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
-- [20221003150231](/zet/20221003150231/README.md) apk analysis #hacking #apk #analysis
 
 - [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
 - [20221003150517](/zet/20221003150517/README.md) binary analysis #hacking #pwn #binary 

@@ -14,6 +14,7 @@
 - [20221003150966](/zet/20221003150966/README.md) OSINT
 - [20221003150995](/zet/20221003150995/README.md) GraphQL APIs GraphQL tools
 - [20221003151305](/zet/20221003151305/README.md) bash scripting comm utility for set operations
+- [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221022232952](/zet/20221022232952/README.md) pandoc markdown format converter

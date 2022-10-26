@@ -46,7 +46,6 @@
 - [20221011192157](/zet/20221011192157/README.md) cool names for the project
 - [20221012065200](/zet/20221012065200/README.md) side panels work in vim with tmux over ssh now?
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
-- [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221012082959](/zet/20221012082959/README.md) discord
 - [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
 - [20221012090359](/zet/20221012090359/README.md) first post from netbook

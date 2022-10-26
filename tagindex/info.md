@@ -24,6 +24,7 @@
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
+- [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221018193528](/zet/20221018193528/README.md) bash shell builtin commands
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern

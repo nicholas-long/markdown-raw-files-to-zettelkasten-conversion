@@ -63,7 +63,6 @@
 - [20221011192157](/zet/20221011192157/README.md) cool names for the project
 - [20221012065200](/zet/20221012065200/README.md) side panels work in vim with tmux over ssh now?
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
-- [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221013214821](/zet/20221013214821/README.md) check for command injection

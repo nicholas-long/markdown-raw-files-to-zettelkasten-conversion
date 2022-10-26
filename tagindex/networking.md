@@ -10,3 +10,4 @@
 - [20221003150115](/zet/20221003150115/README.md) socat
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen
+- [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
