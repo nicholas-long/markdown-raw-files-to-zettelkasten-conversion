@@ -2,3 +2,4 @@
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221009100510](/zet/20221009100510/README.md) concept of finished / being done
 - [20221009162538](/zet/20221009162538/README.md) add menu
+- [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step

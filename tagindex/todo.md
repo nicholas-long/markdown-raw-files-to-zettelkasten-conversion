@@ -77,6 +77,5 @@
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
 - [20221018182017](/zet/20221018182017/README.md) read bash man page
 - [20221022210719](/zet/20221022210719/README.md) assorted information
-- [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step
 - [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language
 - [20221026135851](/zet/20221026135851/README.md) make graph browser run properly from any path like zetcmd

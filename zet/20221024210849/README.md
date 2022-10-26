@@ -4,6 +4,9 @@
 - happened to 20221013221136
 - should not be duplicates at all
 - fixed the bug where duplicate links start multiplying
+- added code to scanrefs to check for duplicates
+- added check to zetcmd enrich to enrich docs with duplicate links
+  - enrich single already removed duplicates if it is used
 
 ```
 ```
@@ -19,4 +22,4 @@
 
 Tags:
 
-    #bug #todo
+    #bug #done
