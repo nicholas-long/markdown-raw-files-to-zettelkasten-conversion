@@ -120,7 +120,6 @@
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-- [20221008215530](/zet/20221008215530/README.md) username
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d
 - [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access
@@ -128,6 +127,7 @@
 - ~/kb/hacking/to-try-lists/active-directory-domain.md
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
+- [20221015022512](/zet/20221015022512/README.md) password reuse to try list
 
 Tags:
 
