@@ -17,6 +17,7 @@
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221023084432](/zet/20221023084432/README.md) graph theory
+- [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
 
 Tags:
 

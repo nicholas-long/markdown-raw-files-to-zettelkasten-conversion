@@ -57,6 +57,7 @@ concept of the github website owned by the company microsoft.
 - [20221009032056](/zet/20221009032056/README.md) keeping track of htb ctf flags
 - [20221009183745](/zet/20221009183745/README.md) TODO: categorize github knowledge bases by attaching graph nodes
 - [20221025045945](/zet/20221025045945/README.md) tldr pages
+- [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
 
 Tags:
 

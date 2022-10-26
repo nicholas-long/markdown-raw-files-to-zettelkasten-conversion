@@ -16,6 +16,7 @@
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221012094712](/zet/20221012094712/README.md) linux sort issues with locale
 - [20221009095853](/zet/20221009095853/README.md) finished
+- [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
 
 Tags:
 
