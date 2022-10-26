@@ -16,7 +16,7 @@ stuff i am working on.
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
-- [20221024160055](/zet/20221024160055/README.md) sort finished nodes and organize into projects and unlink issues
+- [20221024160055](/zet/20221024160055/README.md) sort finished nodes 
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 - [20221022232615](/zet/20221022232615/README.md) defcon video notes
 - [20221003151144](/zet/20221003151144/README.md) active directory 
@@ -84,6 +84,7 @@ stuff i am working on.
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
 - [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
+- [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags
 
 Tags:
 

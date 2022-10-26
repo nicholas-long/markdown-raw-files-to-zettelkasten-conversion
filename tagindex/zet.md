@@ -1,2 +1,3 @@
 - [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
 - [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
+- [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags

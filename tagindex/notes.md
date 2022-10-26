@@ -36,3 +36,4 @@
 - [20221015010931](/zet/20221015010931/README.md) track existing ctf box notes
 - [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video
 - [20221020193850](/zet/20221020193850/README.md) what is knowledge management
+- [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags

@@ -131,6 +131,7 @@ the concept of a `command`
 - [20221003151305](/zet/20221003151305/README.md) bash scripting comm utility for set operations
 - [20221003150129](/zet/20221003150129/README.md) tldr command
 - [20221003150184](/zet/20221003150184/README.md) add user to group
+- [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags
 
 Tags:
 

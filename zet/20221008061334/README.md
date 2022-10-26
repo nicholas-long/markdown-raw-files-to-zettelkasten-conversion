@@ -24,6 +24,7 @@ zet/20221006032546/README.md	my implementation of zet cmd	# my implementation of
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
+- [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags
 
 Tags:
 

@@ -1,0 +1,21 @@
+# replace useless concept hubs with hashtags
+
+- concept of `replace useless concept hubs with hashtags`
+
+```
+```
+
+` zet/20221026181955/README.md `
+
+# Related
+
+- [20221008042814](/zet/20221008042814/README.md) WIP
+- [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
+- [20221008061334](/zet/20221008061334/README.md) concepts
+- [20221008212802](/zet/20221008212802/README.md) software program
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+
+Tags:
+
+    #idea #zettelkasten #zet #notes #meta #todo
