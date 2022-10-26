@@ -1,4 +1,5 @@
 # automated SSTI testing with tplmap
+
 https://github.com/epinna/tplmap
 
 ` zet/20221003150438/README.md `
@@ -11,7 +12,8 @@ https://github.com/epinna/tplmap
 - [20221003151020](/zet/20221003151020/README.md) SSTI polyglot payload
 - [20221003151006](/zet/20221003151006/README.md) API enumeration
 - [20221003150442](/zet/20221003150442/README.md) payloads payloadsallthethings github
+- [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 
 Tags:
 
-    
+    #repo #ssti

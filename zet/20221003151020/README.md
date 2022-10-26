@@ -18,4 +18,4 @@ ${{<%[%'"}}%\.
 
 Tags:
 
-    #ssti #hacking
+    #ssti #hacking #trick

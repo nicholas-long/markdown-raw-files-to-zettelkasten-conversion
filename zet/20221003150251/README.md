@@ -1,5 +1,7 @@
 # diffie-hellman key exchange
-allows client and server to derive the same key.
+
+- protocol RFC?
+- allows client and server to derive the same key.
 
 ` zet/20221003150251/README.md `
 
@@ -11,4 +13,4 @@ allows client and server to derive the same key.
 
 Tags:
 
-    
+    #info #crypto

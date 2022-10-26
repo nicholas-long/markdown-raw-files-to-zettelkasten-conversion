@@ -20,7 +20,11 @@
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
+- [20221003151184](/zet/20221003151184/README.md) HTTP found login form
+- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
+- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS
+- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list
 
 Tags:
 
-    
+    #to-try-list #web #http #hacking

@@ -15,7 +15,8 @@
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
 
 Tags:
 
-    #nfs #linux
+    #nfs #linux #to-try-list

@@ -35,4 +35,4 @@ hacker concept of CMS - slang lingo for web app / service
 
 Tags:
 
-    #hacking #cms
+    #hacking #cms #info
