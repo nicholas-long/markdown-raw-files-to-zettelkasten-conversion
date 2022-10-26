@@ -5,12 +5,14 @@
 - add executable file named `autoexec_enrich` to card
 
 ```
-zet/20221009192000/autoexec_enrich
+enumerating cards with scripts...
 zet/20221006032546/autoexec_enrich
-zet/20221012144502/autoexec_enrich
 zet/20221008063052/autoexec_enrich
-zet/20221026064448/autoexec_enrich
+zet/20221009192000/autoexec_enrich
+zet/20221012144502/autoexec_enrich
 zet/20221021081636/autoexec_enrich
+zet/20221026064448/autoexec_enrich
+zet/20221026135114/autoexec_enrich
 ```
 
 ` zet/20221008063052/README.md `
