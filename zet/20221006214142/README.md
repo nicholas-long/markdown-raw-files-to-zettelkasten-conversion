@@ -22,4 +22,4 @@ node for streamers and content creators.
 
 Tags:
 
-    #streamers #video 
+    #video #streamer #hub #concept
