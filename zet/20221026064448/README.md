@@ -4,7 +4,6 @@
 - tabstop should be 2
 
 ```
-in END 17
 ```
 
 ` zet/20221026064448/README.md `
