@@ -80,6 +80,7 @@
 - [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
+- [20221006025356](/zet/20221006025356/README.md) linux
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos
 - [20221006063114](/zet/20221006063114/README.md) small files are stored in inodes in ext4

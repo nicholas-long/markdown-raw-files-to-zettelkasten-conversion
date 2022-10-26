@@ -1,2 +1,3 @@
 - [20221003150242](/zet/20221003150242/README.md) identify service
+- [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures
 - [20221003151025](/zet/20221003151025/README.md) JWT token concept

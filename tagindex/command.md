@@ -15,6 +15,7 @@
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
 - [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
+- [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
 - [20221003150477](/zet/20221003150477/README.md) general enumeration Active Directory Certificate Services is AD CS enabled
 - [20221003150479](/zet/20221003150479/README.md) general enumeration what commands are available
 - [20221003150480](/zet/20221003150480/README.md) general enumeration get processes

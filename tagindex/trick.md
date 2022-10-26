@@ -4,6 +4,7 @@
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
+- [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
 - [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
 - [20221003150466](/zet/20221003150466/README.md) powershell tricks convert guid to string
@@ -28,6 +29,7 @@
 - [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks
 - [20221003150518](/zet/20221003150518/README.md) pwntools sigreturn
 - [20221003150527](/zet/20221003150527/README.md) generate reverse shell shellcode payload for pwn
+- [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures
 - [20221003151020](/zet/20221003151020/README.md) SSTI polyglot payload
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
 - [20221003151215](/zet/20221003151215/README.md) caddy install
@@ -76,6 +78,7 @@
 - [20221003151315](/zet/20221003151315/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it
 - [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
+- [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips

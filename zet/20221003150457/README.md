@@ -12,4 +12,4 @@ https://github.com/swisskyrepo/GraphQLmap
 
 Tags:
 
-    
+    #repo #tool

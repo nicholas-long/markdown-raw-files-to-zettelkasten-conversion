@@ -19,7 +19,9 @@
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 - [20221003150976](/zet/20221003150976/README.md) IDOR general steps
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
+- [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
+- [20221006215353](/zet/20221006215353/README.md) InsiderPHD
 - [20221008221548](/zet/20221008221548/README.md) website
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys

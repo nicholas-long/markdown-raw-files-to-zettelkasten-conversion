@@ -3,6 +3,7 @@
 - [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs
 - [20221003150976](/zet/20221003150976/README.md) IDOR general steps
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
+- [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory
 - [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
 - [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans
@@ -38,6 +39,7 @@
 - [20221003151201](/zet/20221003151201/README.md) RDP
 - [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986
 - [20221003151203](/zet/20221003151203/README.md) LDAP
+- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
@@ -52,3 +54,4 @@
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221015022512](/zet/20221015022512/README.md) password reuse to try list
 - [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
+- [20221019151504](/zet/20221019151504/README.md) error message username enumeration

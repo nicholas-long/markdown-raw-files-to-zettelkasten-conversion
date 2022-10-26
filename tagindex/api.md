@@ -16,3 +16,4 @@
 - [20221003151004](/zet/20221003151004/README.md) API enumeration good wordlists
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
 - [20221003151006](/zet/20221003151006/README.md) API enumeration
+- [20221006215353](/zet/20221006215353/README.md) InsiderPHD

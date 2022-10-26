@@ -72,6 +72,7 @@
 - [20221003150314](/zet/20221003150314/README.md) default http config locations
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150326](/zet/20221003150326/README.md) top tier endpoint protection AV
+- [20221003150331](/zet/20221003150331/README.md) log4j log4shell
 - [20221003150336](/zet/20221003150336/README.md) ansible exploiting playbook priv esc backdoor
 - [20221003150337](/zet/20221003150337/README.md) ansible exploiting playbook rev shell
 - [20221003150338](/zet/20221003150338/README.md) ansible exploiting playbook
@@ -782,6 +783,7 @@
 - [20221003151201](/zet/20221003151201/README.md) RDP
 - [20221003151202](/zet/20221003151202/README.md) wsmans tcp 1270, 5985, 5986
 - [20221003151203](/zet/20221003151203/README.md) LDAP
+- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
@@ -854,5 +856,6 @@
 - [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
+- [20221019151504](/zet/20221019151504/README.md) error message username enumeration
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
 - [20221025221046](/zet/20221025221046/README.md) worst tier of AV
