@@ -1,3 +1,4 @@
+- [20221003150312](/zet/20221003150312/README.md) SMB
 - [20221003150341](/zet/20221003150341/README.md) cms database creds config locations
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
 - [20221003150677](/zet/20221003150677/README.md) bloodhound

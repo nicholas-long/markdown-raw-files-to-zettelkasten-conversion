@@ -3,6 +3,7 @@
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
 - [20221003150593](/zet/20221003150593/README.md) generating enumeration wordlists exfiltrated passwd usernames to ssh key id_rsa fuzz list
 - [20221003150594](/zet/20221003150594/README.md) generating enumeration wordlists
+- [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap
 - [20221003150894](/zet/20221003150894/README.md) linux enumeration quick commands file transfer with cat herefiles
 - [20221003150895](/zet/20221003150895/README.md) linux enumeration quick commands check if users can see other users' processes
 - [20221003150896](/zet/20221003150896/README.md) linux enumeration quick commands list systemd timers

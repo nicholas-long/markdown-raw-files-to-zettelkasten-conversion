@@ -479,6 +479,7 @@
 - [20221003150835](/zet/20221003150835/README.md) smb mount share old SMBv1 share
 - [20221003150836](/zet/20221003150836/README.md) smb mount share unauthenticated
 - [20221003150837](/zet/20221003150837/README.md) smb mount share
+- [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap
 - [20221003150839](/zet/20221003150839/README.md) gobuster flags
 - [20221003150840](/zet/20221003150840/README.md) gobuster vhost enumeration
 - [20221003150841](/zet/20221003150841/README.md) gobuster fix HTTPS cert errors

@@ -26,19 +26,7 @@
 
 ```
 - [20221003151176](/zet/20221003151176/README.md) email POP3 / IMAP #to-try-list #hacking #email
-- [20221003150959](/zet/20221003150959/README.md) OSINT email OSINT #hacking #osint 
-
-- [20221003151176](/zet/20221003151176/README.md) email POP3 / IMAP #to-try-list #hacking #email
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes #idea
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
-- [20221009001740](/zet/20221009001740/README.md) OSCP exam #todo #idea #hacking
-
-- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
-- [20221003150312](/zet/20221003150312/README.md) SMB #hacking #assorted #windows
-
-- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
-- [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap 
 
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem #hacking #to-try-list #file #filepath
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows 
@@ -59,7 +47,7 @@
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows 
 
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
-- [20221003151285](/zet/20221003151285/README.md) postgres cannot find table name #data-engineering-pipelines #postgres 
+- [20221003151285](/zet/20221003151285/README.md) postgres cannot find table name #data-engineering-pipelines #postgres #fix
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell 
@@ -245,13 +233,7 @@
 - [20221008042814](/zet/20221008042814/README.md) WIP #todo
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
-- [20221009001740](/zet/20221009001740/README.md) OSCP exam #todo #idea #hacking
-
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221011190351](/zet/20221011190351/README.md) fix to try list cards #markdown
-
-- [20221015022512](/zet/20221015022512/README.md) password reuse to try list #to-try-list
-- [20221003150966](/zet/20221003150966/README.md) OSINT #hacking #osint 
 
 - [20221019151504](/zet/20221019151504/README.md) error message username enumeration #idea #process #enumeration #to-try-list #hacking
 - [20221019150908](/zet/20221019150908/README.md) userlist file concept #idea

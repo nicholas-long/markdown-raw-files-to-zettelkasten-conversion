@@ -20,6 +20,7 @@
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
 - [20221003150874](/zet/20221003150874/README.md) nikto command
+- [20221003150966](/zet/20221003150966/README.md) OSINT
 - [20221003150976](/zet/20221003150976/README.md) IDOR general steps
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
