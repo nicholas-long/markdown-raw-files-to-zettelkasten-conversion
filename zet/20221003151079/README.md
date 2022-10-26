@@ -14,6 +14,7 @@ Start-ScheduledTask -TaskName "GrantPerm"
 - [20221003151080](/zet/20221003151080/README.md) service account privileges restore
 - [20221003151078](/zet/20221003151078/README.md) service account privileges restore using scheduled task with powershell require seimpersonate privilege for task using principal
 - ~/kb/hacking/windows/service-account-privileges.md
+- [20221003151081](/zet/20221003151081/README.md) service account privileges
 
 Tags:
 

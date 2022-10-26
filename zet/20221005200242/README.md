@@ -82,7 +82,6 @@ this is a list of possibly empty zettels.
 - [20221003151094](/zet/20221003151094/README.md) windows API
 - [20221003151089](/zet/20221003151089/README.md) mimikatz
 - [20221003151081](/zet/20221003151081/README.md) service account privileges
-- [20221003151076](/zet/20221003151076/README.md) service account privileges exploiting
 - [20221003151073](/zet/20221003151073/README.md) windows color script output
 - [20221003151072](/zet/20221003151072/README.md) windows color script output winpeas log
 - [20221003151070](/zet/20221003151070/README.md) dump process memory
