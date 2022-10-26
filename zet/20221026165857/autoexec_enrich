@@ -16,5 +16,5 @@ fi
 tf=$(mktemp)
 
 myreadme="zet/$MY_ID/README.md"
-zet/$ZET_IMPL/addsnippet snipindex=2 "$myreadme" <( "$filename" ) > $tf
+zet/$ZET_IMPL/addsnippet -v snipindex=2 "$myreadme" <( "$filename" ) > $tf
 mv "$tf" "$myreadme"
