@@ -41,6 +41,7 @@ kb/hacking/to-try-lists/HTTP.md
 - [20221014185849](/zet/20221014185849/README.md) kb file named kb/hacking/commands/wfuzz-fuzzing.md
 - [20221014185935](/zet/20221014185935/README.md) kb file named kb/hacking/commands/wfuzz-commands.md
 - [20221016233520](/zet/20221016233520/README.md) commits for day of 2022-06-04
+- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 
 Tags:
 

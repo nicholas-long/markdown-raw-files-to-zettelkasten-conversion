@@ -76,7 +76,6 @@ this is a list of possibly empty zettels.
 - [20221003151115](/zet/20221003151115/README.md) dos commands services sc
 - [20221003151110](/zet/20221003151110/README.md) dos commands admin / system
 - [20221003151108](/zet/20221003151108/README.md) dos commands net
-- [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
 - [20221003151101](/zet/20221003151101/README.md) powershell commands
 - [20221003151099](/zet/20221003151099/README.md) powershell commands encoded command nop bypass hidden
 - [20221003151094](/zet/20221003151094/README.md) windows API
