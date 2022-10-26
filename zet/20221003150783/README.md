@@ -13,4 +13,4 @@ enum4linux $IP | grep -Ev '^(Use of)' > enum4linux.out
 
 Tags:
 
-    #command #hacking #enum4linux 
+    #command #hacking #enumeration

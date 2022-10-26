@@ -54,4 +54,4 @@
 
 Tags:
 
-    #videonotes #hacking
+    #videonotes #hacking #video

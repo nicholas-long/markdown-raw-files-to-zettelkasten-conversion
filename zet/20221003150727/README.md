@@ -15,4 +15,4 @@ ssh $USER@$IP -t bash --noprofile
 
 Tags:
 
-    
+    #trick #command

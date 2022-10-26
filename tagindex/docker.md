@@ -1,3 +1,4 @@
+- [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present
 - [20221003151166](/zet/20221003151166/README.md) got access to docker repository
 - [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately
 - [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control

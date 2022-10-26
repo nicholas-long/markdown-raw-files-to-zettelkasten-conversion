@@ -1,6 +1,8 @@
 - [20221003150260](/zet/20221003150260/README.md) sperl and suidperl
+- [20221003150266](/zet/20221003150266/README.md) systemd-private
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
+- [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack
 - [20221003150875](/zet/20221003150875/README.md) sudo sudoers file all nopassword
 - [20221003150876](/zet/20221003150876/README.md) sudo sudoers file
 - [20221003150877](/zet/20221003150877/README.md) dirty cow privilege escalation working version build on attacker machine with statically linked binaries embedded
@@ -65,3 +67,4 @@
 - [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
+- [20221003151240](/zet/20221003151240/README.md) Using touch to make files with strange names for exploiting scripts

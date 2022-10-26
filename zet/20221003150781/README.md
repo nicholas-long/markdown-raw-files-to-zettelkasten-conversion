@@ -16,4 +16,4 @@ python3 enum4linux-ng.py -u guest $IP
 
 Tags:
 
-    #command #hacking #enum4linux 
+    #command #hacking #enumeration

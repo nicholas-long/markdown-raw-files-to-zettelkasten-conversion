@@ -2,8 +2,10 @@
 - [20221003150250](/zet/20221003150250/README.md) Apache guacamole RDP VNC SSH in web browser
 - [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082
 - [20221003150259](/zet/20221003150259/README.md) firefox
+- [20221003150266](/zet/20221003150266/README.md) systemd-private
 - [20221003150318](/zet/20221003150318/README.md) sophos
 - [20221003150319](/zet/20221003150319/README.md) symantec
+- [20221003150322](/zet/20221003150322/README.md) cyber reason
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150462](/zet/20221003150462/README.md) tomcat
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd

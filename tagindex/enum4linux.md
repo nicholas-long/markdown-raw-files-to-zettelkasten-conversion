@@ -1,6 +1,0 @@
-- [20221003150781](/zet/20221003150781/README.md) enum4linux-ng next gen default smb enumeration
-- [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen
-- [20221003150783](/zet/20221003150783/README.md) enum4linux Scan Host Suppress Errors
-- [20221003150784](/zet/20221003150784/README.md) enum4linux Scan Host
-- [20221003150785](/zet/20221003150785/README.md) enum4linux enumerate SMB shares and permissions
-- [20221003150786](/zet/20221003150786/README.md) enum4linux

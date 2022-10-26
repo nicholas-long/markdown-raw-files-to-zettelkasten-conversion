@@ -15,4 +15,4 @@
 
 Tags:
 
-    #linux #capabilities 
+    #linux #capabilities #info

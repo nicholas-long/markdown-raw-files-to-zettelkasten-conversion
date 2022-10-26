@@ -16,4 +16,4 @@ fetch $URL
 
 Tags:
 
-    #hacking #privesc #bsd 
+    #hacking #privesc #bsd #command #trick

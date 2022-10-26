@@ -16,4 +16,4 @@ enum4linux $IP
 
 Tags:
 
-    #command #hacking #enum4linux 
+    #command #hacking #enumeration

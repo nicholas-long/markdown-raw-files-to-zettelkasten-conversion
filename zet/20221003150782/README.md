@@ -12,7 +12,8 @@
 - [20221013173355](/zet/20221013173355/README.md) enumeration - the process of enumerating a target
 - ~/kb/hacking/commands/enum4linux-command.md
 - [20221003150786](/zet/20221003150786/README.md) enum4linux
+- [20221009015558](/zet/20221009015558/README.md) docker
 
 Tags:
 
-    #command #hacking #enum4linux 
+    #command #hacking #enumeration #tool #networking

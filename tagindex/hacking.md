@@ -826,6 +826,7 @@
 - [20221003151235](/zet/20221003151235/README.md) mysql mariadb display query output as pretty printed text with column names
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
 - [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
+- [20221003151240](/zet/20221003151240/README.md) Using touch to make files with strange names for exploiting scripts
 - [20221003151242](/zet/20221003151242/README.md) preparing malicious package payloads node npm package malicious repository ( tcp port 4873 )
 - [20221003151243](/zet/20221003151243/README.md) preparing malicious package payloads node npm package
 - [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads
@@ -842,6 +843,7 @@
 - [20221003151255](/zet/20221003151255/README.md) run executable binary programs within process memory linux base64 piped text using dd and shellcode
 - [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux
 - [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory
+- [20221003151259](/zet/20221003151259/README.md) stabilize shell with script command
 - [20221003151262](/zet/20221003151262/README.md) windows executable smartscreen protection bypass ( apt 29 )
 - [20221003151263](/zet/20221003151263/README.md) windows executable smartscreen protection
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
@@ -867,6 +869,7 @@
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221013192245](/zet/20221013192245/README.md) cracking hashes
 - [20221013214821](/zet/20221013214821/README.md) check for command injection
+- [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221018183943](/zet/20221018183943/README.md) shellcheck

@@ -175,6 +175,7 @@
 - [20221003150722](/zet/20221003150722/README.md) openssl pfx p12 file PKCS12 public key fingerprint
 - [20221003150723](/zet/20221003150723/README.md) openssl pfx p12 file PKCS12 view information about certificate
 - [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12
+- [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal
 - [20221003150728](/zet/20221003150728/README.md) powershell base64 encode equivalent within ps
 - [20221003150729](/zet/20221003150729/README.md) powershell encode commands as base64 with windows wide char strings in linux
 - [20221003150730](/zet/20221003150730/README.md) powershell
@@ -318,6 +319,7 @@
 - [20221003150873](/zet/20221003150873/README.md) host quick server
 - [20221003150874](/zet/20221003150874/README.md) nikto command
 - [20221003150881](/zet/20221003150881/README.md) create symbolic link
+- [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present
 - [20221003150894](/zet/20221003150894/README.md) linux enumeration quick commands file transfer with cat herefiles
 - [20221003150895](/zet/20221003150895/README.md) linux enumeration quick commands check if users can see other users' processes
 - [20221003150896](/zet/20221003150896/README.md) linux enumeration quick commands list systemd timers
@@ -345,6 +347,7 @@
 - [20221003150918](/zet/20221003150918/README.md) linux enumeration quick commands enumerate open ports if `ss` is not present
 - [20221003150919](/zet/20221003150919/README.md) linux enumeration quick commands list all recursively with ls sorting by modification date within directories
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
+- [20221003150922](/zet/20221003150922/README.md) BSD file transfers
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
 - [20221003151090](/zet/20221003151090/README.md) powerview enumerate sensitive information disclosure on file shares
 - [20221003151091](/zet/20221003151091/README.md) powerview

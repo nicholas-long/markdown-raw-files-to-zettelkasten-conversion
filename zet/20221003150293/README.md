@@ -24,4 +24,4 @@ mvn package
 
 Tags:
 
-    #hacking #fun #games
+    #hacking #fun #games #trick

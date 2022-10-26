@@ -2,3 +2,4 @@
 - [20221003150345](/zet/20221003150345/README.md) SSH brute force command shortlist from hacktricks
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
 - [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force
+- [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack

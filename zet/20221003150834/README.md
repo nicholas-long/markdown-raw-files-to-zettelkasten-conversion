@@ -17,4 +17,4 @@ sucrack -u root -
 
 Tags:
 
-    
+    #tool #privesc #bruteforcing #linux

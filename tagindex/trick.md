@@ -1,6 +1,8 @@
 - [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
+- [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
 - [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
+- [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
 - [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI
@@ -34,7 +36,10 @@
 - [20221003150527](/zet/20221003150527/README.md) generate reverse shell shellcode payload for pwn
 - [20221003150550](/zet/20221003150550/README.md) Sub domain Enum
 - [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
+- [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
+- [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present
+- [20221003150922](/zet/20221003150922/README.md) BSD file transfers
 - [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
 - [20221003150981](/zet/20221003150981/README.md) mariadb mysql files read
 - [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
@@ -69,6 +74,7 @@
 - [20221003151233](/zet/20221003151233/README.md) mysql mariadb write UDF shell or any binary file with file permissions
 - [20221003151235](/zet/20221003151235/README.md) mysql mariadb display query output as pretty printed text with column names
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
+- [20221003151240](/zet/20221003151240/README.md) Using touch to make files with strange names for exploiting scripts
 - [20221003151242](/zet/20221003151242/README.md) preparing malicious package payloads node npm package malicious repository ( tcp port 4873 )
 - [20221003151243](/zet/20221003151243/README.md) preparing malicious package payloads node npm package
 - [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads
@@ -85,6 +91,7 @@
 - [20221003151255](/zet/20221003151255/README.md) run executable binary programs within process memory linux base64 piped text using dd and shellcode
 - [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux
 - [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory
+- [20221003151259](/zet/20221003151259/README.md) stabilize shell with script command
 - [20221003151262](/zet/20221003151262/README.md) windows executable smartscreen protection bypass ( apt 29 )
 - [20221003151263](/zet/20221003151263/README.md) windows executable smartscreen protection
 - [20221003151296](/zet/20221003151296/README.md) bash tricks check if current directory is writable

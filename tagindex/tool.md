@@ -7,7 +7,9 @@
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
 - [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
 - [20221003150457](/zet/20221003150457/README.md) GraphQLmap for GraphQL enumeration
+- [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
+- [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack
 - [20221003150959](/zet/20221003150959/README.md) OSINT email OSINT
 - [20221003150966](/zet/20221003150966/README.md) OSINT
 - [20221003150995](/zet/20221003150995/README.md) GraphQL APIs GraphQL tools

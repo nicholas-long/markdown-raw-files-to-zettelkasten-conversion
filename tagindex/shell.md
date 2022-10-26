@@ -13,3 +13,4 @@
 - [20221003150094](/zet/20221003150094/README.md) bash scripts sh nmap script types
 - [20221003150095](/zet/20221003150095/README.md) bash scripts sh autogenerate all languages
 - [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell
+- [20221003151259](/zet/20221003151259/README.md) stabilize shell with script command

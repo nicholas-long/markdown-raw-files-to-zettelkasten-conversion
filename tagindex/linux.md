@@ -74,15 +74,18 @@
 - [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
 - [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
 - [20221003150260](/zet/20221003150260/README.md) sperl and suidperl
+- [20221003150266](/zet/20221003150266/README.md) systemd-private
 - [20221003150283](/zet/20221003150283/README.md) default webroots debian system
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
 - [20221003150500](/zet/20221003150500/README.md) shellshock python2 exploit
+- [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack
 - [20221003151154](/zet/20221003151154/README.md) linux hardening add hidepid to /proc at run time
 - [20221003151155](/zet/20221003151155/README.md) linux hardening
 - [20221003151169](/zet/20221003151169/README.md) NFS to try list
 - [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
+- [20221003151240](/zet/20221003151240/README.md) Using touch to make files with strange names for exploiting scripts
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos

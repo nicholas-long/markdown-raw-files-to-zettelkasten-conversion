@@ -14,4 +14,4 @@ netstat -tunlp
 
 Tags:
 
-    
+    #command #trick #docker #bsd #enumeration

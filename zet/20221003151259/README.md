@@ -17,4 +17,4 @@ script -q /dev/null -c bash
 
 Tags:
 
-    
+    #trick #hacking #shell

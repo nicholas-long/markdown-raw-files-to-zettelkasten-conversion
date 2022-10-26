@@ -3,4 +3,5 @@
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
 - [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
+- [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221020193850](/zet/20221020193850/README.md) what is knowledge management
