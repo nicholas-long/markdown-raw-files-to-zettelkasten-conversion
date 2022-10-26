@@ -10,4 +10,4 @@ BEGINFILE { snip = 0 }
   lastspace = space
 }
 /^# Related/ { nextfile }
-' $(find zet -name README.md)
+' $(find zet -name README.md | LC_COLLATE=C sort -u )
