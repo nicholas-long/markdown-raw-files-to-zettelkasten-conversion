@@ -34,14 +34,14 @@ name: zc
 Usage: ./zc action [ options ]
 | action      : [ spawn, search, find, rm, print, enrich, new, refs, preview ]
 | | fzf       : [ menu, spawn, search, vilink, viunlink, connectome ]
-| | scripting : [ find, addref, rm, print, enrich, new, refs, preview, enum, unlink, enrich_links_single, fixspaces ]
+| | scripting : [ find, addref, addtag, deltag, rm, print, enrich, new, refs, preview, enum, unlink, enrich_links_single, fixspaces ]
 Options:
     -m|--multiple
     -p|--print
     -e|--edit
     -f|--file|--forwarding-address
     -q|--query
-    -t|--title|--target
+    -t|--title|--target|--tag
     -r|--reference
     -v|--verbose
     -h|--help
