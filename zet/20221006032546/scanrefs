@@ -50,6 +50,7 @@ scanning && /^$/ { empties++ }
   }
   if ( isref ) {
     seenref[xrefid(fileid, refid)]++
+    if (seenooo[fileid " " refid]) print "duplicate", fileid
     seenooo[fileid " " refid] = 1
     if (ids[refid]) print "ref", fileid, refid
     else print "dead", fileid, refid
