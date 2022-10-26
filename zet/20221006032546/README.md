@@ -137,6 +137,7 @@ Options:
 - [20221025025810](/zet/20221025025810/README.md) useful zet scripts
 - [20221025024238](/zet/20221025024238/README.md) enumerate tags
 - [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
+- [20221026060602](/zet/20221026060602/README.md) remove dependency on lazygit
 
 Tags:
 

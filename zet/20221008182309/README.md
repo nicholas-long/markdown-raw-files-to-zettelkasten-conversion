@@ -6,6 +6,7 @@ learning git internals
   - use it all the time
   - starting to use in bash scripts
 - previous research into things like `git bisect` was really interesing
+- use `git status --porcelain=2` to see detailed scriptable output
 
 ` zet/20221008182309/README.md `
 

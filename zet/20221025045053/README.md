@@ -4,6 +4,10 @@
   - not `data.yaml` because that is a reserved file for rwxrob KEG which i think is supposed to have the actual zettelkasten data in it
 - convention from dataview: `property:: value` in card text will populate data to yaml data file
   - not in snippet
+- using yq program as dependency
+  - include binaries here
+  - TODO: add shell script to select platform binary
+    - there's no other reason this stuff can't go to ARM?
 
 ```
 ```
