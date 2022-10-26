@@ -73,6 +73,7 @@
 - [20221003150197](/zet/20221003150197/README.md) iptables rules
 - [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
 - [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
+- [20221003150283](/zet/20221003150283/README.md) default webroots debian system
 - [20221003151154](/zet/20221003151154/README.md) linux hardening add hidepid to /proc at run time
 - [20221003151155](/zet/20221003151155/README.md) linux hardening
 - [20221003151169](/zet/20221003151169/README.md) NFS to try list

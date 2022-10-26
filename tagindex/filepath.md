@@ -1,1 +1,3 @@
 - [20221003150283](/zet/20221003150283/README.md) default webroots debian system
+- [20221003150287](/zet/20221003150287/README.md) default webroots xampp
+- [20221003150289](/zet/20221003150289/README.md) default webroots

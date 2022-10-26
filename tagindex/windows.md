@@ -1,4 +1,5 @@
 - [20221003150121](/zet/20221003150121/README.md) routing using a linux box add router to routes on hosts windows
+- [20221003150287](/zet/20221003150287/README.md) default webroots xampp
 - [20221003150311](/zet/20221003150311/README.md) SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
 - [20221003150312](/zet/20221003150312/README.md) SMB
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
@@ -117,6 +118,7 @@
 - [20221003151149](/zet/20221003151149/README.md) windows XP and windows server 2003 arbitrary file write -> remote code execution metasploit
 - [20221003151150](/zet/20221003151150/README.md) windows XP and windows server 2003 write arbitrary MOF file for remote code execution
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
+- [20221003151153](/zet/20221003151153/README.md) windows
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation

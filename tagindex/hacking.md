@@ -765,6 +765,7 @@
 - [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 - [20221003151193](/zet/20221003151193/README.md) HTTP
+- [20221003151194](/zet/20221003151194/README.md) procedure
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
@@ -823,6 +824,7 @@
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
+- [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - [20221009032056](/zet/20221009032056/README.md) keeping track of htb ctf flags
 - [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
 - [20221011145037](/zet/20221011145037/README.md) kali linux

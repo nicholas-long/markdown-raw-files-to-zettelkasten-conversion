@@ -15,6 +15,7 @@ dll.dll: PE32+ executable (DLL) (console) x86-64, for MS Windows
 - [20221008194048](/zet/20221008194048/README.md) good DLLs to hide in for sideloading
 - [20221003151105](/zet/20221003151105/README.md) compile windows DLL to run commands DLL code
 - ~/kb/hacking/windows/dll-to-run-commands.md
+- [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
 
 Tags:
 
