@@ -1040,7 +1040,7 @@
 20221003151141	zet/20221003151141/README.md	active directory  exploiting permissions GenericAll
 20221003151142	zet/20221003151142/README.md	active directory  exploiting permissions WriteDacl
 20221003151143	zet/20221003151143/README.md	active directory  exploiting permissions
-20221003151144	zet/20221003151144/README.md	active directory 
+20221003151144	zet/20221003151144/README.md	active directory
 20221003151145	zet/20221003151145/README.md	resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec convert kirbi to ccache
 20221003151146	zet/20221003151146/README.md	resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec
 20221003151147	zet/20221003151147/README.md	resource based constrained delegation S4U attack powershell commands on target
