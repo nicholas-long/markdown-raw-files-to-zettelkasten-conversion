@@ -5,12 +5,16 @@
 - [20221003150581](/zet/20221003150581/README.md) php LFI include PHP filter URL
 - [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS
 - [20221003150969](/zet/20221003150969/README.md) mobile apps and API testing steps for mobile app API + burpsuite
+- [20221003150979](/zet/20221003150979/README.md) mariadb mysql files read database users
 - [20221003150984](/zet/20221003150984/README.md) mariadb mysql SQLi information tables
 - [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection
 - [20221003150996](/zet/20221003150996/README.md) GraphQL APIs common GraphQL bugs
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory
 - [20221003151035](/zet/20221003151035/README.md) hidden shares
+- [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
+- [20221003151060](/zet/20221003151060/README.md) location of services in windows registry
+- [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked

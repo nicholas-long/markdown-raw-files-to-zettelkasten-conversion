@@ -3,6 +3,7 @@
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
+- [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
 - [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages
 - [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
@@ -44,6 +45,7 @@
 - [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
 - [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows
+- [20221003151063](/zet/20221003151063/README.md) bypass UAC with administrators group fodhelper bypass
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
 - [20221003151150](/zet/20221003151150/README.md) windows XP and windows server 2003 write arbitrary MOF file for remote code execution
 - [20221003151215](/zet/20221003151215/README.md) caddy install

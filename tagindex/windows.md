@@ -3,6 +3,8 @@
 - [20221003150311](/zet/20221003150311/README.md) SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
 - [20221003150312](/zet/20221003150312/README.md) SMB
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
+- [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell
+- [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
 - [20221003150728](/zet/20221003150728/README.md) powershell base64 encode equivalent within ps
@@ -34,6 +36,7 @@
 - [20221003151050](/zet/20221003151050/README.md) change user password
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
 - [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows
+- [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
 - [20221003151061](/zet/20221003151061/README.md) bypass UAC with administrators group read files quickly using smb shares
 - [20221003151062](/zet/20221003151062/README.md) bypass UAC with administrators group uacme bypass
 - [20221003151063](/zet/20221003151063/README.md) bypass UAC with administrators group fodhelper bypass

@@ -669,6 +669,7 @@
 - [20221003151049](/zet/20221003151049/README.md) change user password powershell or dos
 - [20221003151050](/zet/20221003151050/README.md) change user password
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
+- [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
 - [20221003151061](/zet/20221003151061/README.md) bypass UAC with administrators group read files quickly using smb shares
 - [20221003151062](/zet/20221003151062/README.md) bypass UAC with administrators group uacme bypass
 - [20221003151063](/zet/20221003151063/README.md) bypass UAC with administrators group fodhelper bypass

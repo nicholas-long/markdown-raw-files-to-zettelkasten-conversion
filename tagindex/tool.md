@@ -1,5 +1,7 @@
 - [20221003150310](/zet/20221003150310/README.md) burpsuite
+- [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell
 - [20221003150376](/zet/20221003150376/README.md) volatility framework
+- [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 - [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
 - [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies

@@ -9,6 +9,7 @@
 - [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
 - [20221003150981](/zet/20221003150981/README.md) mariadb mysql files read
 - [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
+- [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet
 - [20221003151165](/zet/20221003151165/README.md) TFTP udp 69 to try list
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem

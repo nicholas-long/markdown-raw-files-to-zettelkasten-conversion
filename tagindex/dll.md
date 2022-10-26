@@ -1,3 +1,4 @@
+- [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI
 - [20221003151104](/zet/20221003151104/README.md) compile windows DLL to run commands DLL code building with mingw
 - [20221003151105](/zet/20221003151105/README.md) compile windows DLL to run commands DLL code
 - [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands

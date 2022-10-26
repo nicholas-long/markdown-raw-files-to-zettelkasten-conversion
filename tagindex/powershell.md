@@ -1,3 +1,4 @@
+- [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell
 - [20221003150466](/zet/20221003150466/README.md) powershell tricks convert guid to string
 - [20221003150467](/zet/20221003150467/README.md) powershell tricks browse and edit registry read registry values
 - [20221003150468](/zet/20221003150468/README.md) powershell tricks browse and edit registry set registry values

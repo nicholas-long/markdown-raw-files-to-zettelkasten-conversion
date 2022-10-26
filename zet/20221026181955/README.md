@@ -25,47 +25,11 @@
   - program
 
 ```
-- [20221003151176](/zet/20221003151176/README.md) email POP3 / IMAP #to-try-list #hacking #email
-- [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes #idea
-
-- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem #hacking #to-try-list #file #filepath
-- [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows 
-
-- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem #hacking #to-try-list #file #filepath
-- [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet #hacking #windows #windows 
-
-- [20221003151201](/zet/20221003151201/README.md) RDP #to-try-list #hacking #remoteaccess #rdp #windows
-- [20221003150250](/zet/20221003150250/README.md) Apache guacamole RDP VNC SSH in web browser #hacking #buzzwords #buzzwords 
-
-- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
-- [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat #hacking #repositories #important 
-
-- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
-- [20221003150979](/zet/20221003150979/README.md) mariadb mysql files read database users #hacking #sqli #database #users
-
-- [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
-- [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI 
-
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads 
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003151060](/zet/20221003151060/README.md) location of services in windows registry 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003151063](/zet/20221003151063/README.md) bypass UAC with administrators group fodhelper bypass #hacking #windows #uac 
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003151081](/zet/20221003151081/README.md) service account privileges #hacking #windows #service 
