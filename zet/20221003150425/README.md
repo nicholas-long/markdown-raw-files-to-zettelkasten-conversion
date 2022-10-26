@@ -1,4 +1,5 @@
 # kerberos attack on windows host
+
 https://github.com/GhostPack/Rubeus
 
 ` zet/20221003150425/README.md `
@@ -23,4 +24,4 @@ https://github.com/GhostPack/Rubeus
 
 Tags:
 
-    #hacking #repositories #important 
+    #hacking #repositories #important #command #enumeration #windows
