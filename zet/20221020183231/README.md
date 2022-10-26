@@ -22,6 +22,7 @@
 - [20221009172351](/zet/20221009172351/README.md) markdown file format
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - https://github.com/Snezhig/obsidian-front-matter-title
+- [20221010153630](/zet/20221010153630/README.md) make symlinks for markdown titles for search optimization
 
 Tags:
 
