@@ -10,9 +10,6 @@
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service #hacking #cms
 
 - [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
-
-- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
 
 - [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
@@ -130,9 +127,6 @@
 - [20221011181629](/zet/20221011181629/README.md) usernames #notes
 
 - [20221015022512](/zet/20221015022512/README.md) password reuse to try list #to-try-list
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
-
-- [20221015022512](/zet/20221015022512/README.md) password reuse to try list #to-try-list
 - [20221008215325](/zet/20221008215325/README.md) password #todo #idea
 
 - [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
@@ -143,9 +137,6 @@
 
 - [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
 - [20221003150739](/zet/20221003150739/README.md) feroxbuster #command #hacking #feroxbuster 
-
-- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
 
 - [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list #to-try-list #hacking #http 
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
@@ -259,9 +250,6 @@
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking #concept #idea
 
 - [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
-
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
 
 - [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
@@ -290,9 +278,6 @@
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound 
-
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
 
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP 
@@ -376,9 +361,6 @@
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying #bash #script 
 
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
-
-- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
 
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints #to-try-list #hacking #http 
@@ -404,9 +386,6 @@
 
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
 - [20221014185612](/zet/20221014185612/README.md) kb file named kb/hacking/to-try-lists/SMB.md #idea
-
-- [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
 
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list #to-try-list #hacking #smb 
 - [20221003150312](/zet/20221003150312/README.md) SMB #hacking #assorted #windows
@@ -446,9 +425,6 @@
 
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation #idea
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
 
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
 - [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty 
@@ -497,9 +473,6 @@
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
 - [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For #hacking #http #web
-
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
@@ -816,6 +789,48 @@
 - [20221003151185](/zet/20221003151185/README.md) HTTP bypassing restrictions #to-try-list #hacking #http 
 - [20221006215135](/zet/20221006215135/README.md) siren #hacking #streamer 
 
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
+- [20221014185626](/zet/20221014185626/README.md) kb file named kb/hacking/to-try-lists/EVERYTHING.md #idea
+
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
+- [20221003151179](/zet/20221003151179/README.md) FTP to try list #hacking #to-try-lists
+
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
+- [20221003151169](/zet/20221003151169/README.md) NFS to try list #nfs #linux
+
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
+- [20221003151177](/zet/20221003151177/README.md) Stuck to try list 
+
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
+- [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list 
+
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
+- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list 
+
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
+- [20221008081231](/zet/20221008081231/README.md) debugging #todo #idea
+
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
+- [20221003151441](/zet/20221003151441/README.md) awk scripting #awk #script #example 
+
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
+- [20221003150662](/zet/20221003150662/README.md) data analysis commands #command #hacking #binary 
+
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
+- [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin #hacking #windows #windows 
+
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
+- [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials 
+
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
+- [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers #hacking #repositories #important #web #creds
+
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
+- [20221003150341](/zet/20221003150341/README.md) database creds 
+
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
+
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service #hacking #cms
 
@@ -833,9 +848,6 @@
 
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying #bash #script 
-
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
 
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
@@ -937,9 +949,6 @@
 - [20221006215135](/zet/20221006215135/README.md) siren #hacking #streamer 
 
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list 
 
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
@@ -974,9 +983,6 @@
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md #idea
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221003150488](/zet/20221003150488/README.md) active directory #command #hacking #powershell 
@@ -1054,9 +1060,6 @@
 - [20221014185616](/zet/20221014185616/README.md) kb file named kb/hacking/to-try-lists/DNS.md #idea
 
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
-
-- [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
 - [20221003151176](/zet/20221003151176/README.md) email POP3 / IMAP 
 
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list #to-try-list #dns
@@ -1094,9 +1097,6 @@
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
 - [20221015005535](/zet/20221015005535/README.md) werkzeug #idea
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP #to-try-list #hacking #http 
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea
@@ -1214,9 +1214,6 @@
 
 - [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
 - [20221003150795](/zet/20221003150795/README.md) generate cewl wordlist from website #command #hacking #generate 
-
-- [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
-- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list 
 
 - [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
 - [20221011181920](/zet/20221011181920/README.md) working notes - foothold #notes
