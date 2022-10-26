@@ -17,6 +17,15 @@
   - if importing with `file`, do parsing
   - if concatenating a file that is assumed to be a subquery, do not parse?
 - `zet/20221023085822/walkquery`
+- or changed to union
+  - changed to use paths
+  - concatenate other walks to the current walk
+  - tested
+- added `follow`
+  - should append matching paths to current
+  - untested
+- idea: could call graphquery as a subprocess within pathquery
+  - parent script could sort out who needs to be called?
 
 ```
 zet/20221023085822/walkquery
@@ -215,6 +224,7 @@ got file /dev/fd/62
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 
 
+zet/20221023085822/walkquery --human --path id 20221011181347 refs not <( echo 20221011134623) union <( zet/20221023085822/walkquery @awk : @tip )
 ```
 
 ` zet/20221023085822/README.md `
