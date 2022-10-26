@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "checking for duplicates..."
-find zet -name README.md | xargs implementation/scanrefs | grep duplicate
+./graphquery --human <(find zet -name README.md | xargs implementation/scanrefs | awk '$1 == "duplicate" {print $2}')
