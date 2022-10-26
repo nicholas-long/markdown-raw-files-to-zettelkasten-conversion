@@ -171,6 +171,7 @@
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
+- [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4
 
 Tags:
 

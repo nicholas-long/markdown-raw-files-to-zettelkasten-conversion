@@ -1,4 +1,4 @@
-# template card to run command in snippet
+# template example card to run command output in snippet
 
 - template card to run command in snippet
 
