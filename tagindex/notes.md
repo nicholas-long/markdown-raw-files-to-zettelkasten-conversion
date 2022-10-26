@@ -1,3 +1,4 @@
+- [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221003150441](/zet/20221003150441/README.md) OWASP cheat sheet series
 - [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types

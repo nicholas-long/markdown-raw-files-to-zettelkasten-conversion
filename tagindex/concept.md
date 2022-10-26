@@ -53,5 +53,6 @@
 - [20221019002732](/zet/20221019002732/README.md) shells
 - [20221019003259](/zet/20221019003259/README.md) background task or running service on machine
 - [20221019143424](/zet/20221019143424/README.md) JSON concept
+- [20221019150908](/zet/20221019150908/README.md) userlist file concept
 - [20221020000848](/zet/20221020000848/README.md) SSH
 - [20221024131549](/zet/20221024131549/README.md) buzzwords and acronyms hub

@@ -3,6 +3,9 @@
 - [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082
 - [20221003150259](/zet/20221003150259/README.md) firefox
 - [20221003150266](/zet/20221003150266/README.md) systemd-private
+- [20221003150267](/zet/20221003150267/README.md) IPMI intelligent platform management interface udp port 613
+- [20221003150268](/zet/20221003150268/README.md) IPMI intelligent platform management interface BMC
+- [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface
 - [20221003150318](/zet/20221003150318/README.md) sophos
 - [20221003150319](/zet/20221003150319/README.md) symantec
 - [20221003150322](/zet/20221003150322/README.md) cyber reason

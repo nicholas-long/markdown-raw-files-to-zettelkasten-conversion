@@ -1,8 +1,11 @@
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221010071719](/zet/20221010071719/README.md) nodes to add
+- [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
+- [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
 - [20221015010704](/zet/20221015010704/README.md) things that need splitting up
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 - [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags

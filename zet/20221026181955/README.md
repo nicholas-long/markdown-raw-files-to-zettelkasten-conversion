@@ -27,35 +27,8 @@
   - analysis
 
 ```
-- [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files #to-try-list #hacking #got 
-- [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext 
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221008042814](/zet/20221008042814/README.md) WIP #todo
-
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
 - [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards #todo #idea
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work #idea
-
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
-- [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP 
-
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
-- [20221003151196](/zet/20221003151196/README.md) IPMI 
-
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
-- [20221003151199](/zet/20221003151199/README.md) finger tcp 79 
-
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
-- [20221008042814](/zet/20221008042814/README.md) WIP #todo
-
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
-- [20221011190351](/zet/20221011190351/README.md) fix to try list cards #markdown
-
-- [20221019151504](/zet/20221019151504/README.md) error message username enumeration #idea #process #enumeration #to-try-list #hacking
-- [20221019150908](/zet/20221019150908/README.md) userlist file concept #idea
 
 ```
 

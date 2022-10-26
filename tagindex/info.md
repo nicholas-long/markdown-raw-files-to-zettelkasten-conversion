@@ -2,6 +2,8 @@
 - [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange
 - [20221003150252](/zet/20221003150252/README.md) httponly cookie option
 - [20221003150260](/zet/20221003150260/README.md) sperl and suidperl
+- [20221003150267](/zet/20221003150267/README.md) IPMI intelligent platform management interface udp port 613
+- [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150523](/zet/20221003150523/README.md) heap exploit resources
 - [20221003150581](/zet/20221003150581/README.md) php LFI include PHP filter URL

@@ -1,5 +1,6 @@
 - [20221003150240](/zet/20221003150240/README.md) analyze php source code for malicious code and things that look like webshells
 - [20221003150242](/zet/20221003150242/README.md) identify service
+- [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext
 - [20221003150517](/zet/20221003150517/README.md) binary analysis
 - [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures
 - [20221003151021](/zet/20221003151021/README.md) analyzing source code PHP code

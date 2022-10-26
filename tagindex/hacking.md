@@ -73,6 +73,7 @@
 - [20221003150314](/zet/20221003150314/README.md) default http config locations
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150326](/zet/20221003150326/README.md) top tier endpoint protection AV
+- [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext
 - [20221003150331](/zet/20221003150331/README.md) log4j log4shell
 - [20221003150336](/zet/20221003150336/README.md) ansible exploiting playbook priv esc backdoor
 - [20221003150337](/zet/20221003150337/README.md) ansible exploiting playbook rev shell
@@ -89,6 +90,7 @@
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
 - [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
 - [20221003150355](/zet/20221003150355/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries
+- [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150359](/zet/20221003150359/README.md) windows run commands as other user with credentials switch users on windows host with RunasCs with no WinRM remote management access
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
@@ -791,6 +793,7 @@
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - [20221003151194](/zet/20221003151194/README.md) procedure
+- [20221003151196](/zet/20221003151196/README.md) IPMI
 - [20221003151197](/zet/20221003151197/README.md) SMB old SMB exploits
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem

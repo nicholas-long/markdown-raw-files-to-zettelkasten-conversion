@@ -26,4 +26,5 @@
 - [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
 - [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat
 - [20221014185510](/zet/20221014185510/README.md) kb file named kb/ascii/coyote0x90.md
+- [20221019150908](/zet/20221019150908/README.md) userlist file concept
 - [20221022210052](/zet/20221022210052/README.md) file type reference
