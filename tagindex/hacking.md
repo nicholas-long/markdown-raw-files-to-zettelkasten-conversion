@@ -50,6 +50,7 @@
 - [20221003150287](/zet/20221003150287/README.md) default webroots xampp
 - [20221003150288](/zet/20221003150288/README.md) default webroots wamp
 - [20221003150289](/zet/20221003150289/README.md) default webroots
+- [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
 - [20221003150296](/zet/20221003150296/README.md) fixing golang module errors no required module provides package
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
 - [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module

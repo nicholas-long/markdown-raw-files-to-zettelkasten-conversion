@@ -132,6 +132,7 @@
 - ~/kb/hacking/to-try-lists/privesc/linux.md
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
+- [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
 
 Tags:
 

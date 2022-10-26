@@ -21,6 +21,8 @@ the concept of `potential exploits`
 - [20221011181531](/zet/20221011181531/README.md) steps
 - [20221011181453](/zet/20221011181453/README.md) exploit path
 - [20221011181347](/zet/20221011181347/README.md) hacking notes template 1
+- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
+- [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
 
 Tags:
 

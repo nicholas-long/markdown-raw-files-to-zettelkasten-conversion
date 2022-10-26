@@ -15,6 +15,7 @@
 - [20221011134623](/zet/20221011134623/README.md) note taking template for heckin boxes
 - [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs
 - [20221011181347](/zet/20221011181347/README.md) hacking notes template 1
+- [20221011181453](/zet/20221011181453/README.md) exploit path
 - [20221011181531](/zet/20221011181531/README.md) steps
 - [20221011181605](/zet/20221011181605/README.md) creds
 - [20221011181629](/zet/20221011181629/README.md) usernames
