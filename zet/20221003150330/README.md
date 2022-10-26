@@ -17,4 +17,4 @@ try hash length extension
 
 Tags:
 
-    
+    #skill #trick #hacking #crypto
