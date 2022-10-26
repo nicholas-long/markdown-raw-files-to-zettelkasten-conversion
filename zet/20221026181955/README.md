@@ -19,9 +19,6 @@
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target #hacking #windows #ad 
 
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound #to-try-list #hacking #bloodhound
-- [20221008061845](/zet/20221008061845/README.md) workflow #workflow #optimization
-
-- [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound #to-try-list #hacking #bloodhound
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old #to-try-list #hacking #active 
@@ -58,9 +55,6 @@
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d #streamers #video 
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221008215530](/zet/20221008215530/README.md) username #todo #idea
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
@@ -68,9 +62,6 @@
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221011181920](/zet/20221011181920/README.md) working notes - foothold #notes
-
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
-- [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target #concept #hacking
 
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
 - [20221017172946](/zet/20221017172946/README.md) LAN attacks #idea
@@ -101,9 +92,6 @@
 
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
 - [20221012070318](/zet/20221012070318/README.md) linux terminal #todo #idea
-
-- [20221003151174](/zet/20221003151174/README.md) SSH to try list #to-try-list #hacking #ssh 
-- [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking #concept #idea
 
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list #to-try-list #hacking
 - [20221003150341](/zet/20221003150341/README.md) database creds 
@@ -141,9 +129,6 @@
 - [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks ) #to-try-list #hacking #http 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
-- [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks ) #to-try-list #hacking #http 
-- [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking #concept #idea
-
 - [20221003151181](/zet/20221003151181/README.md) HTTP compromised CMS login CMS auth code exec / becoming web user #to-try-list #hacking #http 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
@@ -155,9 +140,6 @@
 
 - [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login #to-try-list #hacking #http 
-- [20221013180230](/zet/20221013180230/README.md) session cookie, API key, or access token #concept
 
 - [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing #to-try-list #hacking #http 
 - [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS 
@@ -185,9 +167,6 @@
 
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
-- [20221013180230](/zet/20221013180230/README.md) session cookie, API key, or access token #concept
 
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form #to-try-list #hacking #http 
 - [20221019151504](/zet/20221019151504/README.md) error message username enumeration #idea #process #enumeration
@@ -301,9 +280,6 @@
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
 - [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
-- [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking #concept #idea
-
-- [20221003151191](/zet/20221003151191/README.md) HTTP uncommon ideas list #to-try-list #hacking #http 
 - [20221018160416](/zet/20221018160416/README.md) phishing or credential harvesting concept #idea
 
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
@@ -357,9 +333,6 @@
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
 
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list #to-try-list #hacking #http 
-- [20221013180230](/zet/20221013180230/README.md) session cookie, API key, or access token #concept
-
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221003150252](/zet/20221003150252/README.md) httponly cookie option 
 
@@ -395,9 +368,6 @@
 
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221015005535](/zet/20221015005535/README.md) werkzeug #idea
-
-- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
-- [20221019143424](/zet/20221019143424/README.md) JSON concept #concept #json
 
 - [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
 - [20221011181531](/zet/20221011181531/README.md) steps #notes
@@ -543,12 +513,6 @@
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221011182016](/zet/20221011182016/README.md) working notes - privesc #notes
 
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target #concept #hacking
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221013185837](/zet/20221013185837/README.md) HKCU registry hive ntuser.dat #concept #file #hacking
-
 - [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
 - [20221003150331](/zet/20221003150331/README.md) log4j log4shell 
 
@@ -587,9 +551,6 @@
 
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam #todo #cert
-
-- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
-- [20221013175128](/zet/20221013175128/README.md) preparing exploit payloads #concept #hacking
 
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource #idea
@@ -687,9 +648,6 @@
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session #todo #idea
 
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target #concept #hacking
-
 - [20221003151211](/zet/20221003151211/README.md) got leaked files jar #to-try-list #hacking #got 
 - [20221003150231](/zet/20221003150231/README.md) apk analysis #hacking #apk #analysis
 
@@ -755,9 +713,6 @@
 
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
 - [20221008042814](/zet/20221008042814/README.md) WIP #todo
-
-- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
-- [20221008061845](/zet/20221008061845/README.md) workflow #workflow #optimization
 
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes #todo #idea #github #filehash

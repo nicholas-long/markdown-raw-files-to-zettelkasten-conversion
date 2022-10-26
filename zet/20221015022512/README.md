@@ -20,6 +20,7 @@
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221008215325](/zet/20221008215325/README.md) password
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 
 Tags:
 
