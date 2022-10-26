@@ -20,6 +20,7 @@
 - [20221008215739](/zet/20221008215739/README.md) go packages have checksums
 - [20221009015743](/zet/20221009015743/README.md) dockerfile
 - [20221009172351](/zet/20221009172351/README.md) markdown file format
+- [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - [20221013185406](/zet/20221013185406/README.md) etc passwd file on linux
 - [20221013185456](/zet/20221013185456/README.md) shadow file
 - [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers

@@ -104,10 +104,10 @@
 - [20221003151141](/zet/20221003151141/README.md) active directory  exploiting permissions GenericAll
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory
 - [20221003151136](/zet/20221003151136/README.md) active directory  mindset and methodology
-- [20221003151137](/zet/20221003151137/README.md) active directory  sensitive files
+- [20221003151137](/zet/20221003151137/README.md) active directory sensitive files
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS
-- [20221003151144](/zet/20221003151144/README.md) active directory 
+- [20221003151144](/zet/20221003151144/README.md) active directory
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions

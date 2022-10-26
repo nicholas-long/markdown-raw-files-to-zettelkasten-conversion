@@ -128,6 +128,7 @@
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 - [20221015022512](/zet/20221015022512/README.md) password reuse to try list
+- [20221003151137](/zet/20221003151137/README.md) active directory sensitive files
 
 Tags:
 

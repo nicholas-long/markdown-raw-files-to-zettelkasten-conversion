@@ -1,8 +1,10 @@
 - [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange
 - [20221003150252](/zet/20221003150252/README.md) httponly cookie option
+- [20221003150260](/zet/20221003150260/README.md) sperl and suidperl
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150523](/zet/20221003150523/README.md) heap exploit resources
 - [20221003150581](/zet/20221003150581/README.md) php LFI include PHP filter URL
+- [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560
 - [20221003150968](/zet/20221003150968/README.md) document.cookie and XSS
 - [20221003150969](/zet/20221003150969/README.md) mobile apps and API testing steps for mobile app API + burpsuite
 - [20221003150979](/zet/20221003150979/README.md) mariadb mysql files read database users
@@ -14,7 +16,9 @@
 - [20221003151035](/zet/20221003151035/README.md) hidden shares
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
 - [20221003151060](/zet/20221003151060/README.md) location of services in windows registry
+- [20221003151081](/zet/20221003151081/README.md) service account privileges
 - [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet
+- [20221003151137](/zet/20221003151137/README.md) active directory sensitive files
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked

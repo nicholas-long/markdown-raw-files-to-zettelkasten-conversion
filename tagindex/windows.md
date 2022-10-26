@@ -7,6 +7,7 @@
 - [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
+- [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
 - [20221003150728](/zet/20221003150728/README.md) powershell base64 encode equivalent within ps
 - [20221003150729](/zet/20221003150729/README.md) powershell encode commands as base64 with windows wide char strings in linux
 - [20221003150730](/zet/20221003150730/README.md) powershell
@@ -18,6 +19,7 @@
 - [20221003150751](/zet/20221003150751/README.md) kerbrute password spray users from user list file
 - [20221003150752](/zet/20221003150752/README.md) kerbrute enumerate users using wordlist
 - [20221003150753](/zet/20221003150753/README.md) kerbrute
+- [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
 - [20221003151027](/zet/20221003151027/README.md) decrypt azure AD connect passwords powershell MSSQL queries
 - [20221003151028](/zet/20221003151028/README.md) decrypt azure AD connect passwords
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
@@ -110,7 +112,7 @@
 - [20221003151134](/zet/20221003151134/README.md) active directory  GMSA group managed service account
 - [20221003151135](/zet/20221003151135/README.md) active directory  workflow for penetration test on windows network in organization
 - [20221003151136](/zet/20221003151136/README.md) active directory  mindset and methodology
-- [20221003151137](/zet/20221003151137/README.md) active directory  sensitive files
+- [20221003151137](/zet/20221003151137/README.md) active directory sensitive files
 - [20221003151138](/zet/20221003151138/README.md) active directory  Backup Operators group
 - [20221003151139](/zet/20221003151139/README.md) active directory  ForceChangePassword change user password
 - [20221003151140](/zet/20221003151140/README.md) active directory  NTLMv2 vs kerberos authentication on the network

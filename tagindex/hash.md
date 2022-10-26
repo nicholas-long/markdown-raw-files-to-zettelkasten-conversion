@@ -2,3 +2,4 @@
 - [20221008215139](/zet/20221008215139/README.md) hash / checksum
 - [20221008215739](/zet/20221008215739/README.md) go packages have checksums
 - [20221009015743](/zet/20221009015743/README.md) dockerfile
+- [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version

@@ -33,6 +33,7 @@
 - [20221003150518](/zet/20221003150518/README.md) pwntools sigreturn
 - [20221003150527](/zet/20221003150527/README.md) generate reverse shell shellcode payload for pwn
 - [20221003150550](/zet/20221003150550/README.md) Sub domain Enum
+- [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
 - [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
 - [20221003150981](/zet/20221003150981/README.md) mariadb mysql files read
@@ -97,6 +98,7 @@
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
+- [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands

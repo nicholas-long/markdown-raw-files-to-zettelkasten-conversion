@@ -1,1 +1,2 @@
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
+- [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version

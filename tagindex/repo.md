@@ -5,6 +5,7 @@
 - [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
 - [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
+- [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
 - [20221003150457](/zet/20221003150457/README.md) GraphQLmap for GraphQL enumeration
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221025045945](/zet/20221025045945/README.md) tldr pages

@@ -1,5 +1,6 @@
 - [20221003150064](/zet/20221003150064/README.md) neovim diff
 - [20221003150309](/zet/20221003150309/README.md) burpsuite set scope to limit request catching
+- [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560
 - [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup
 - [20221003151053](/zet/20221003151053/README.md) lsass process contains credentials
 - [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes

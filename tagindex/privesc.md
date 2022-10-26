@@ -1,4 +1,6 @@
+- [20221003150260](/zet/20221003150260/README.md) sperl and suidperl
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
+- [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
 - [20221003150875](/zet/20221003150875/README.md) sudo sudoers file all nopassword
 - [20221003150876](/zet/20221003150876/README.md) sudo sudoers file
 - [20221003150877](/zet/20221003150877/README.md) dirty cow privilege escalation working version build on attacker machine with statically linked binaries embedded
@@ -51,6 +53,7 @@
 - [20221003150931](/zet/20221003150931/README.md) lxd priv esc without painful build problems lxd priv esc x86
 - [20221003150932](/zet/20221003150932/README.md) lxd priv esc without painful build problems lxd priv esc x64
 - [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems
+- [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
 - [20221003150935](/zet/20221003150935/README.md) fail2ban writable conf RCE
 - [20221003150936](/zet/20221003150936/README.md) fail2ban default config location
 - [20221003150937](/zet/20221003150937/README.md) fail2ban

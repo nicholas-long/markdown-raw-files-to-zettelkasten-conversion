@@ -282,6 +282,7 @@
 - [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts
 - [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous
 - [20221003150630](/zet/20221003150630/README.md) LDAP enumeration
+- [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
 - [20221003150633](/zet/20221003150633/README.md) smbmap default enumeration as guest
 - [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration
 - [20221003150635](/zet/20221003150635/README.md) smbmap
@@ -743,7 +744,7 @@
 - [20221003151134](/zet/20221003151134/README.md) active directory  GMSA group managed service account
 - [20221003151135](/zet/20221003151135/README.md) active directory  workflow for penetration test on windows network in organization
 - [20221003151136](/zet/20221003151136/README.md) active directory  mindset and methodology
-- [20221003151137](/zet/20221003151137/README.md) active directory  sensitive files
+- [20221003151137](/zet/20221003151137/README.md) active directory sensitive files
 - [20221003151138](/zet/20221003151138/README.md) active directory  Backup Operators group
 - [20221003151139](/zet/20221003151139/README.md) active directory  ForceChangePassword change user password
 - [20221003151140](/zet/20221003151140/README.md) active directory  NTLMv2 vs kerberos authentication on the network

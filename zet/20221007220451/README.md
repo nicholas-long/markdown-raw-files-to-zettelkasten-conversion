@@ -192,12 +192,12 @@ hacking notes hub
 - [20221003151130](/zet/20221003151130/README.md) active directory  change user password with rpcclient over SMB 
 - [20221003151140](/zet/20221003151140/README.md) active directory  NTLMv2 vs kerberos authentication on the network
 - [20221003150488](/zet/20221003150488/README.md) active directory
-- [20221003151144](/zet/20221003151144/README.md) active directory 
+- [20221003151144](/zet/20221003151144/README.md) active directory
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old
 - [20221003151127](/zet/20221003151127/README.md) active directory  delegation
-- [20221003151137](/zet/20221003151137/README.md) active directory  sensitive files
+- [20221003151137](/zet/20221003151137/README.md) active directory sensitive files
 - [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login
 - [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
 - [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal

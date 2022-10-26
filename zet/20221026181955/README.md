@@ -25,36 +25,6 @@
   - program
 
 ```
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003151081](/zet/20221003151081/README.md) service account privileges #hacking #windows #service 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003151124](/zet/20221003151124/README.md) dos commands #hacking #windows #dos 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003151137](/zet/20221003151137/README.md) active directory  sensitive files #hacking #windows #windows 
-
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version #todo #idea
-
-- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
-- [20221003150500](/zet/20221003150500/README.md) shellshock python2 exploit #hacking #shellshock 
-
-- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits #to-try-list #hacking #privesc #linux 
-- [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560 #hacking #privesc
-
-- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
-- [20221003150260](/zet/20221003150260/README.md) sperl and suidperl 
-
-- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
-- [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump 
-
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
 - [20221003150882](/zet/20221003150882/README.md) writing to and modifying setuid binaries 
 
@@ -71,9 +41,6 @@
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities #linux #capabilities 
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221003150260](/zet/20221003150260/README.md) sperl and suidperl 
-
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003150266](/zet/20221003150266/README.md) systemd-private 
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
@@ -86,16 +53,10 @@
 - [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script 
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads 
-
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal 
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack 
-
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560 #hacking #privesc
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221003150882](/zet/20221003150882/README.md) writing to and modifying setuid binaries 
@@ -117,9 +78,6 @@
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns #bash #hacking
-
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version #todo #idea
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker #docker #question

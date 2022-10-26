@@ -85,6 +85,7 @@
 - [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts
 - [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous
 - [20221003150630](/zet/20221003150630/README.md) LDAP enumeration
+- [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
 - [20221003150633](/zet/20221003150633/README.md) smbmap default enumeration as guest
 - [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration
 - [20221003150635](/zet/20221003150635/README.md) smbmap
@@ -344,11 +345,13 @@
 - [20221003150918](/zet/20221003150918/README.md) linux enumeration quick commands enumerate open ports if `ss` is not present
 - [20221003150919](/zet/20221003150919/README.md) linux enumeration quick commands list all recursively with ls sorting by modification date within directories
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
+- [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
 - [20221003151090](/zet/20221003151090/README.md) powerview enumerate sensitive information disclosure on file shares
 - [20221003151091](/zet/20221003151091/README.md) powerview
 - [20221003151104](/zet/20221003151104/README.md) compile windows DLL to run commands DLL code building with mingw
 - [20221003151105](/zet/20221003151105/README.md) compile windows DLL to run commands DLL code
 - [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
+- [20221003151124](/zet/20221003151124/README.md) dos commands
 - [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
 - [20221003151268](/zet/20221003151268/README.md) Lookup missing packages with command-not-found
 - [20221003151276](/zet/20221003151276/README.md) linux data science issues

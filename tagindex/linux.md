@@ -73,7 +73,10 @@
 - [20221003150197](/zet/20221003150197/README.md) iptables rules
 - [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
 - [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
+- [20221003150260](/zet/20221003150260/README.md) sperl and suidperl
 - [20221003150283](/zet/20221003150283/README.md) default webroots debian system
+- [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
+- [20221003150500](/zet/20221003150500/README.md) shellshock python2 exploit
 - [20221003151154](/zet/20221003151154/README.md) linux hardening add hidepid to /proc at run time
 - [20221003151155](/zet/20221003151155/README.md) linux hardening
 - [20221003151169](/zet/20221003151169/README.md) NFS to try list
