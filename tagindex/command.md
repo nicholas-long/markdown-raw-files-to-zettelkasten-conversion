@@ -38,6 +38,7 @@
 - [20221003150550](/zet/20221003150550/README.md) Sub domain Enum
 - [20221003150552](/zet/20221003150552/README.md) PhpmyAdmin write shell Windows
 - [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell
+- [20221003150567](/zet/20221003150567/README.md) SMB Copy Files (Execute on Victim)
 - [20221003150583](/zet/20221003150583/README.md) php code convert human readable time to unix epoch timestamp apache HTTP Date header
 - [20221003150584](/zet/20221003150584/README.md) php code convert human readable time to unix epoch timestamp
 - [20221003150585](/zet/20221003150585/README.md) php code embed file or multiline string as heredoc variable
@@ -357,6 +358,7 @@
 - [20221003151105](/zet/20221003151105/README.md) compile windows DLL to run commands DLL code
 - [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
 - [20221003151124](/zet/20221003151124/README.md) dos commands
+- [20221003151236](/zet/20221003151236/README.md) mysql mariadb
 - [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
 - [20221003151268](/zet/20221003151268/README.md) Lookup missing packages with command-not-found
 - [20221003151276](/zet/20221003151276/README.md) linux data science issues

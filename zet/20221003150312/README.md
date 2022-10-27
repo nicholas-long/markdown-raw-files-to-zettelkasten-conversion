@@ -16,6 +16,7 @@
 - [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - ~/kb/hacking/misc/assorted-information.md
+- [20221003150567](/zet/20221003150567/README.md) SMB Copy Files (Execute on Victim)
 
 Tags:
 

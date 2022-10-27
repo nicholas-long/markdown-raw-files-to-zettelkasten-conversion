@@ -2,5 +2,6 @@
 - [20221003150213](/zet/20221003150213/README.md) kafkacat install APT
 - [20221003150214](/zet/20221003150214/README.md) kafkacat install alias for kcat
 - [20221003150215](/zet/20221003150215/README.md) kafkacat install
+- [20221003150567](/zet/20221003150567/README.md) SMB Copy Files (Execute on Victim)
 - [20221003150872](/zet/20221003150872/README.md) host quick server smtp receive email server
 - [20221003150873](/zet/20221003150873/README.md) host quick server

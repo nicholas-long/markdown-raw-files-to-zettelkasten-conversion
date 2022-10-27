@@ -16,6 +16,7 @@
 - [20221003150313](/zet/20221003150313/README.md) default http config locations FreeBSD
 - [20221003150343](/zet/20221003150343/README.md) wordpress
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
+- [20221003150392](/zet/20221003150392/README.md) text cipher encryption decryption tools Text Manipulator
 - [20221003150682](/zet/20221003150682/README.md) web enumeration quick commands forms
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
