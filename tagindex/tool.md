@@ -1,3 +1,4 @@
+- [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
 - [20221003150310](/zet/20221003150310/README.md) burpsuite
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell

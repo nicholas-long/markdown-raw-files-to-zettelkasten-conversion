@@ -1,4 +1,5 @@
 - [20221003150080](/zet/20221003150080/README.md) ctrl H does not work as a hotkey in qterminal by default 
+- [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
 - [20221003150299](/zet/20221003150299/README.md) fixing golang module errors
 - [20221003150311](/zet/20221003150311/README.md) SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error

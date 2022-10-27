@@ -146,7 +146,6 @@
 #json
 #jwt
 #kafka
-#kafkacat
 #kali
 #kerberos
 #keytool
@@ -190,6 +189,7 @@
 #package
 #packet
 #pane
+#password
 #path
 #pc
 #php
@@ -286,6 +286,7 @@
 #udp
 #url
 #useful
+#username
 #users
 #util
 #utilities

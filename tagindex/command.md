@@ -10,6 +10,10 @@
 - [20221003150192](/zet/20221003150192/README.md) convert package type with alien to deb rpm slp lsb tgz
 - [20221003150193](/zet/20221003150193/README.md) concept of converting files
 - [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
+- [20221003150208](/zet/20221003150208/README.md) kafkacat add data to topic include keys
+- [20221003150209](/zet/20221003150209/README.md) kafkacat add data to topic
+- [20221003150210](/zet/20221003150210/README.md) kafkacat
+- [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset
 - [20221003150224](/zet/20221003150224/README.md) bettercap start commnad
 - [20221003150232](/zet/20221003150232/README.md) extract command for file type apk rebuild apk
 - [20221003150233](/zet/20221003150233/README.md) extract command for file type apk
@@ -19,6 +23,7 @@
 - [20221003150237](/zet/20221003150237/README.md) extract command for file type tar.gz
 - [20221003150238](/zet/20221003150238/README.md) extract command for file type deb
 - [20221003150239](/zet/20221003150239/README.md) extract command for file type
+- [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
 - [20221003150306](/zet/20221003150306/README.md) modify date with touch timestomping
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
 - [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
@@ -370,6 +375,7 @@
 - [20221003151276](/zet/20221003151276/README.md) linux data science issues
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities
 - [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub
+- [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 - [20221003151287](/zet/20221003151287/README.md) jq pipe and filter objects syntax
 - [20221003151288](/zet/20221003151288/README.md) jq pipe syntax
 - [20221003151289](/zet/20221003151289/README.md) jq

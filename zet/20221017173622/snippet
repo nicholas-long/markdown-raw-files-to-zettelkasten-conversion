@@ -15,7 +15,7 @@ echo ""
 echo "#"
 echo "# tags"
 echo "#"
-ls tagindex | awk '
+ls tagindex | LC_COLLATE=C awk '
 { gsub(/\.md$/,"") }
 {
   c = substr($1,1,1)

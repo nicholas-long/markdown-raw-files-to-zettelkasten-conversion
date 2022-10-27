@@ -5,6 +5,7 @@
 - [20221003150267](/zet/20221003150267/README.md) IPMI intelligent platform management interface udp port 613
 - [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
+- [20221003150332](/zet/20221003150332/README.md) default openssl message digest
 - [20221003150523](/zet/20221003150523/README.md) heap exploit resources
 - [20221003150581](/zet/20221003150581/README.md) php LFI include PHP filter URL
 - [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560

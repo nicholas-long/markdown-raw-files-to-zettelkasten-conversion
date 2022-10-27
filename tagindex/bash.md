@@ -1,4 +1,8 @@
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
+- [20221003150208](/zet/20221003150208/README.md) kafkacat add data to topic include keys
+- [20221003150209](/zet/20221003150209/README.md) kafkacat add data to topic
+- [20221003150210](/zet/20221003150210/README.md) kafkacat
+- [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset
 - [20221003150881](/zet/20221003150881/README.md) create symbolic link
 - [20221003151239](/zet/20221003151239/README.md) make date wordlist for fuzzing with bash and parameter expansion
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
