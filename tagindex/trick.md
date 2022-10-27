@@ -106,6 +106,7 @@
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
 - [20221003151315](/zet/20221003151315/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it
 - [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream
+- [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable

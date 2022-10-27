@@ -15,7 +15,7 @@
 ARCHIVE
 ad administration ai analysis ansible api apk apt av awk
 bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
-c-language c2 calling capabilities cert check cleanup cms coding color command company concept config container convert copy crack creds crypto ctf curl cyberpunk
+c-language c2 calling capabilities cert cleanup cms coding color command company concept config container convert copy crack creds crypto ctf curl cyberpunk
 data database date dayinhistory debian debug debugging decrypt defense deserialization diag diagram dirty dll dns docker done dos dotfiles download dpkg ds dump
 edit editor email enable encode enhancement enumeration error etc ex example expect exploit extract
 feature feroxbuster fidget file filehash filepath files filesystem find finding fix force format free fun fzf-fuzzy-find
@@ -34,7 +34,7 @@ rce rdp redhat reference relative remoteaccess repo repositories responder retir
 scam screenshot script scripting sed service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve source speed sqli sqlmap ssh ssti stack stream streamer substitution sudoers surface
 tablet tar template templates terminal test text tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui two type
 uac udp url useful username users util
-valid vbscript version video videonotes videos vim virtualbox vm
+valid var vbscript version video videonotes videos vim virtualbox vm
 wasm web wfuzz windows workflow wpscan wtf
 xml xp xxe
 yaml

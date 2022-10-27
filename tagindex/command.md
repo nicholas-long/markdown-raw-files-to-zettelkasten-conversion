@@ -387,6 +387,7 @@
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
 - [20221003151305](/zet/20221003151305/README.md) bash scripting comm utility for set operations
 - [20221003151325](/zet/20221003151325/README.md) utility to render / capture screenshot of url
+- [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221003151344](/zet/20221003151344/README.md) awk bash scripting split into files by column value
 - [20221003151348](/zet/20221003151348/README.md) awk bash scripting move files automatically
