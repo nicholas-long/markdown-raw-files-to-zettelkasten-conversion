@@ -8,8 +8,10 @@
 - data-engineering-pipelines -> #data #pipelines
 - lxd -> container
 - active -> ad
+
 - Crowbar
 - xterm
+- enh -> enhancement
 
 ```
 # awk
