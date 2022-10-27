@@ -2,6 +2,7 @@
 
 commandconcept=20221009014200 #concept of a command
 KB_ID=20221003151443 #zet/20221003151443/README.md # kb
+export LC_COLLATE=C
 
 echo "#"
 echo "# things attached to command hub that are not marked as commands"
@@ -15,7 +16,7 @@ echo ""
 echo "#"
 echo "# tags"
 echo "#"
-ls tagindex | LC_COLLATE=C awk '
+ls tagindex | sort | awk '
 { gsub(/\.md$/,"") }
 {
   c = substr($1,1,1)
