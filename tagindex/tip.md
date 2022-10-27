@@ -1,4 +1,5 @@
 - [20221003150064](/zet/20221003150064/README.md) neovim diff
+- [20221003150307](/zet/20221003150307/README.md) copy docker binary to target
 - [20221003150309](/zet/20221003150309/README.md) burpsuite set scope to limit request catching
 - [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560
 - [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup

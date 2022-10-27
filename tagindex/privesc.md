@@ -1,5 +1,6 @@
 - [20221003150260](/zet/20221003150260/README.md) sperl and suidperl
 - [20221003150266](/zet/20221003150266/README.md) systemd-private
+- [20221003150307](/zet/20221003150307/README.md) copy docker binary to target
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
 - [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack

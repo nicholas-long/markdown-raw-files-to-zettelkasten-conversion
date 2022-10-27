@@ -1,3 +1,4 @@
+- [20221003150307](/zet/20221003150307/README.md) copy docker binary to target
 - [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present
 - [20221003151166](/zet/20221003151166/README.md) got access to docker repository
 - [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately

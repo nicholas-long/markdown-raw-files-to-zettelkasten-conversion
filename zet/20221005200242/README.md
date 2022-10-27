@@ -18,7 +18,227 @@ this is a list of possibly empty zettels.
   - [20221004203354](/zet/20221004203354/README.md) Related
 
 ```
-hello world again!
+#
+# Non-Empty
+#
+8	- [20221003150067](/zet/20221003150067/README.md) vim #vim #vim 
+2	- [20221003150129](/zet/20221003150129/README.md) tldr command #linux #tldr 
+2	- [20221003150143](/zet/20221003150143/README.md) proxmox vm host operating system #linux #proxmox #vm
+3	- [20221003150159](/zet/20221003150159/README.md) upgrade when apt is causing problems #linux #apt #dpkg
+3	- [20221003150174](/zet/20221003150174/README.md) less #linux #less 
+5	- [20221003150176](/zet/20221003150176/README.md) ex editor #linux #ex 
+3	- [20221003150187](/zet/20221003150187/README.md) linux free up space #linux #free 
+2	- [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix #hacking #buzzwords #buzzwords 
+5	- [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface #hacking #buzzwords #buzzwords #info #program
+2	- [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails #hacking #assorted #go
+2	- [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells #hacking #python #info
+5	- [20221003150370](/zet/20221003150370/README.md) dump credentials from browsers chromium #hacking #repositories #important 
+29	- [20221003150392](/zet/20221003150392/README.md) text cipher encryption decryption tools Text Manipulator #hacking #repositories #important #decrypt 
+4	- [20221003150567](/zet/20221003150567/README.md) SMB Copy Files (Execute on Victim) 
+6	- [20221003150590](/zet/20221003150590/README.md) php code examples #command #hacking #php 
+3	- [20221003150665](/zet/20221003150665/README.md) NFS commands #command #hacking #nfs 
+5	- [20221003150681](/zet/20221003150681/README.md) tftp commands #command #hacking #tftp 
+5	- [20221003150798](/zet/20221003150798/README.md) git #command #hacking #git 
+5	- [20221003150879](/zet/20221003150879/README.md) dirty cow privilege escalation #hacking #privesc #dirty 
+7	- [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands #command #hacking #privesc #enumeration #command 
+3	- [20221003150988](/zet/20221003150988/README.md) mariadb mysql #hacking #sqli #trick
+3	- [20221003151023](/zet/20221003151023/README.md) analyzing source code #hacking #source #skill
+3	- [20221003151230](/zet/20221003151230/README.md) VBScript #hacking #trick #vbscript 
+4	- [20221003151250](/zet/20221003151250/README.md) sending installs to target #hacking #trick #install 
+3	- [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub #command #data-engineering-pipelines #data 
+13	- [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax #bash-scripting #substitution 
+5	- [20221003151343](/zet/20221003151343/README.md) convert decimal to hex #awk-scripting #convert 
+7	- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project #zettelkasten #project 
+2	- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+4	- [20221007062330](/zet/20221007062330/README.md) broken stuff to fix #todo #broken #error 
+4	- [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process #broken
+6	- [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet #meta
+2250	- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries #idea
+
+#
+# Empty
+#
+- [20221003150386](/zet/20221003150386/README.md) krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP. #hacking #repositories #important 
+- [20221003150387](/zet/20221003150387/README.md) krbrelayx addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP. #hacking #repositories #important 
+- [20221003150388](/zet/20221003150388/README.md) krbrelayx Kerberos relaying and unconstrained delegation abuse toolkit #hacking #repositories #important 
+- [20221003150389](/zet/20221003150389/README.md) krbrelayx #hacking #repositories #important 
+- [20221003150391](/zet/20221003150391/README.md) file backup fuzzer #hacking #repositories #important 
+- [20221003150419](/zet/20221003150419/README.md) text cipher encryption decryption tools #hacking #repositories #important 
+- [20221003150421](/zet/20221003150421/README.md) kerberos attack on windows host Constrained delegation abuse #hacking #repositories #important 
+- [20221003150422](/zet/20221003150422/README.md) kerberos attack on windows host ticket attacks extraction and harvesting #hacking #repositories #important 
+- [20221003150423](/zet/20221003150423/README.md) kerberos attack on windows host ticket attacks forgery #hacking #repositories #important 
+- [20221003150424](/zet/20221003150424/README.md) kerberos attack on windows host ticket attacks #hacking #repositories #important 
+- [20221003150429](/zet/20221003150429/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale output all formats top 10k names from facebook #hacking #repositories #important 
+- [20221003150433](/zet/20221003150433/README.md) generate wordlists #hacking #repositories #important 
+- [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing #hacking #tools 
+- [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file #hacking #tools 
+- [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze #hacking #tools 
+- [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI #hacking #tools 
+- [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry #hacking #trick #powershell 
+- [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user #hacking #trick #powershell 
+- [20221003150476](/zet/20221003150476/README.md) powershell tricks #hacking #trick #powershell 
+- [20221003150483](/zet/20221003150483/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip #command #hacking #powershell 
+- [20221003150488](/zet/20221003150488/README.md) active directory #command #hacking #powershell 
+- [20221003150490](/zet/20221003150490/README.md) html template upload file #hacking #html.templates 
+- [20221003150491](/zet/20221003150491/README.md) html template #hacking #html.templates 
+- [20221003150503](/zet/20221003150503/README.md) pwntools #hacking #pwn #pwntools 
+- [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes #hacking #trick #pwn #python 
+- [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert #hacking #trick #pwn #python 
+- [20221003150509](/zet/20221003150509/README.md) python pwn tricks #hacking #trick #pwn #python 
+- [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths #hacking #trick #pwn #tricks 
+- [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks #hacking #trick #pwn #tricks 
+- [20221003150517](/zet/20221003150517/README.md) binary analysis #hacking #pwn #binary #concept #hub #skill
+- [20221003150522](/zet/20221003150522/README.md) calling conventions #hacking #pwn #calling 
+- [20221003150525](/zet/20221003150525/README.md) make executable binary with input shellcode #hacking #pwn #shellcode 
+- [20221003150529](/zet/20221003150529/README.md) gdb commands #command #hacking #pwn #gdb 
+- [20221003150535](/zet/20221003150535/README.md) immunity debugger mona commands search for opcode string jmp esp #hacking #pwn #basic 
+- [20221003150537](/zet/20221003150537/README.md) immunity debugger mona commands #hacking #pwn #basic 
+- [20221003150539](/zet/20221003150539/README.md) simple binary exploits payload generation #hacking #pwn #basic 
+- [20221003150543](/zet/20221003150543/README.md) simple binary exploits python exploit scripts #hacking #pwn #basic 
+- [20221003150545](/zet/20221003150545/README.md) simple binary exploits pattern offset finding #hacking #pwn #basic 
+- [20221003150548](/zet/20221003150548/README.md) simple binary exploits #hacking #pwn #basic 
+- [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell #command #hacking #common 
+- [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion #hacking #type 
+- [20221003150575](/zet/20221003150575/README.md) php type juggling methodology #hacking #type 
+- [20221003150576](/zet/20221003150576/README.md) php type juggling #hacking #type 
+- [20221003150584](/zet/20221003150584/README.md) php code convert human readable time to unix epoch timestamp #command #hacking #php 
+- [20221003150592](/zet/20221003150592/README.md) php #command #hacking #php 
+- [20221003150594](/zet/20221003150594/README.md) generating enumeration wordlists #command #hacking #enumeration 
+- [20221003150614](/zet/20221003150614/README.md) smbclient shell #command #hacking #smbclient 
+- [20221003150620](/zet/20221003150620/README.md) PureFTP Get Service Ready #command #hacking #pureftp 
+- [20221003150623](/zet/20221003150623/README.md) PureFTP #command #hacking #pureftp 
+- [20221003150625](/zet/20221003150625/README.md) LDAP enumeration authenticated #command #hacking #ldap 
+- [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous #command #hacking #ldap 
+- [20221003150630](/zet/20221003150630/README.md) LDAP enumeration #command #hacking #ldap 
+- [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration #command #hacking #smbmap 
+- [20221003150635](/zet/20221003150635/README.md) smbmap #command #hacking #smbmap 
+- [20221003150638](/zet/20221003150638/README.md) nmap check for mountable NFS shares #command #hacking #nmap 
+- [20221003150646](/zet/20221003150646/README.md) nmap flags extra fast options #command #hacking #nmap 
+- [20221003150648](/zet/20221003150648/README.md) nmap #command #hacking #nmap 
+- [20221003150650](/zet/20221003150650/README.md) kubernetes kubectl #command #hacking #kubernetes 
+- [20221003150651](/zet/20221003150651/README.md) kubernetes #command #hacking #kubernetes 
+- [20221003150659](/zet/20221003150659/README.md) wfuzz #command #hacking #wfuzz 
+- [20221003150662](/zet/20221003150662/README.md) data analysis commands #command #hacking #binary 
+- [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files #command #hacking #crackmapexec 
+- [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands #command #hacking #web 
+- [20221003150689](/zet/20221003150689/README.md) wpscan initial database exports #command #hacking #wpscan 
+- [20221003150690](/zet/20221003150690/README.md) wpscan initial config backups #command #hacking #wpscan 
+- [20221003150691](/zet/20221003150691/README.md) wpscan initial vulnerable themes #command #hacking #wpscan 
+- [20221003150692](/zet/20221003150692/README.md) wpscan initial all plugins passive scan #command #hacking #wpscan 
+- [20221003150693](/zet/20221003150693/README.md) wpscan initial #command #hacking #wpscan 
+- [20221003150694](/zet/20221003150694/README.md) wpscan #command #hacking #wpscan 
+- [20221003150709](/zet/20221003150709/README.md) sqlmap #command #hacking #sqlmap 
+- [20221003150714](/zet/20221003150714/README.md) packet capture with tcpdump watch traffic #command #hacking #packet 
+- [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump #command #hacking #packet 
+- [20221003150720](/zet/20221003150720/README.md) curl #command #hacking #curl 
+- [20221003150730](/zet/20221003150730/README.md) powershell #command #hacking #windows #encode 
+- [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket #command #hacking #windows #windows 
+- [20221003150755](/zet/20221003150755/README.md) keytool #command #hacking #keytool 
+- [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks #command #hacking #msfvenom 
+- [20221003150765](/zet/20221003150765/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) #command #hacking #msfvenom 
+- [20221003150766](/zet/20221003150766/README.md) MSFVENOM Linux Binary (.elf) #command #hacking #msfvenom 
+- [20221003150771](/zet/20221003150771/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) #command #hacking #msfvenom 
+- [20221003150775](/zet/20221003150775/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) #command #hacking #msfvenom 
+- [20221003150776](/zet/20221003150776/README.md) MSFVENOM Windows Binary (.exe) executable #command #hacking #msfvenom 
+- [20221003150777](/zet/20221003150777/README.md) MSFVENOM #command #hacking #msfvenom 
+- [20221003150780](/zet/20221003150780/README.md) crowbar #command #hacking #crowbar 
+- [20221003150791](/zet/20221003150791/README.md) openssl #command #hacking #openssl 
+- [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file #command #hacking #generate 
+- [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist #command #hacking #generate 
+- [20221003150801](/zet/20221003150801/README.md) openssl commands #command #hacking #openssl 
+- [20221003150807](/zet/20221003150807/README.md) brute force default credentials #command #hacking #hydra 
+- [20221003150815](/zet/20221003150815/README.md) meterpreter msf move from x86 to x64 #command #hacking #metasploit 
+- [20221003150816](/zet/20221003150816/README.md) meterpreter msf #command #hacking #metasploit 
+- [20221003150819](/zet/20221003150819/README.md) metasploit msf #command #hacking #metasploit 
+- [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp #command #hacking #hydra 
+- [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list #command #hacking #database 
+- [20221003150833](/zet/20221003150833/README.md) responder #command #hacking #responder 
+- [20221003150851](/zet/20221003150851/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate #command #hacking #dns 
+- [20221003150855](/zet/20221003150855/README.md) dns commands #command #hacking #dns 
+- [20221003150857](/zet/20221003150857/README.md) ssh-keygen #command #hacking #ssh 
+- [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm #command #hacking #ssh 
+- [20221003150862](/zet/20221003150862/README.md) SSH arguments #command #hacking #ssh 
+- [20221003150865](/zet/20221003150865/README.md) two-factor authentication 2fa generate one time pins OTP #command #hacking #two 
+- [20221003150866](/zet/20221003150866/README.md) two-factor authentication 2fa #command #hacking #two 
+- [20221003150873](/zet/20221003150873/README.md) host quick server #command #hacking #quick 
+- [20221003150876](/zet/20221003150876/README.md) sudo sudoers file #hacking #privesc #sudoers 
+- [20221003150884](/zet/20221003150884/README.md) privilege escalation relative path abuse #hacking #privesc #relative 
+- [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker #hacking #privesc #run 
+- [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities #command #hacking #privesc #enumeration 
+- [20221003150907](/zet/20221003150907/README.md) linux enumeration quick commands transfer / download files with just bash #command #hacking #privesc #enumeration 
+- [20221003150942](/zet/20221003150942/README.md) python imports #hacking #python 
+- [20221003150946](/zet/20221003150946/README.md) python #hacking #python 
+- [20221003150949](/zet/20221003150949/README.md) python fix SSL errors #hacking #fix 
+- [20221003150953](/zet/20221003150953/README.md) OSINT organizations #hacking #osint 
+- [20221003150983](/zet/20221003150983/README.md) mariadb mysql files #hacking #sqli #trick #file
+- [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection #hacking #sqli #trick #info
+- [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi #hacking #sqli #trick
+- [20221003151004](/zet/20221003151004/README.md) API enumeration good wordlists #hacking #api 
+- [20221003151008](/zet/20221003151008/README.md) LFI or directory traversal procedures file wordlists #hacking #lfi 
+- [20221003151010](/zet/20221003151010/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl  #hacking #lfi 
+- [20221003151028](/zet/20221003151028/README.md) decrypt azure AD connect passwords #hacking #windows #decrypt 
+- [20221003151034](/zet/20221003151034/README.md) applocker limit allowed executables and allowed paths #hacking #windows #windows 
+- [20221003151037](/zet/20221003151037/README.md) program files ruxim directory 
+- [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin #hacking #windows #trick #post
+- [20221003151045](/zet/20221003151045/README.md) windows alternate data streams commands #hacking #windows #windows 
+- [20221003151047](/zet/20221003151047/README.md) windows reverse shell AV bypass active directory endpoint protection #hacking #windows #windows 
+- [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass #hacking #windows #windows 
+- [20221003151050](/zet/20221003151050/README.md) change user password #hacking #windows #windows 
+- [20221003151052](/zet/20221003151052/README.md) check network time offset with network time protocol NTP server on windows AD kerberos 
+- [20221003151057](/zet/20221003151057/README.md) get windows enumeration info from file read 
+- [20221003151066](/zet/20221003151066/README.md) AMSI detect windows defender #hacking #windows
+- [20221003151067](/zet/20221003151067/README.md) AMSI #hacking #windows
+- [20221003151070](/zet/20221003151070/README.md) dump process memory #hacking #windows #dump 
+- [20221003151072](/zet/20221003151072/README.md) windows color script output winpeas log #hacking #windows #enumeration 
+- [20221003151073](/zet/20221003151073/README.md) windows color script output #hacking #windows #enumeration 
+- [20221003151089](/zet/20221003151089/README.md) mimikatz #hacking #windows #mimikatz 
+- [20221003151094](/zet/20221003151094/README.md) windows API #hacking #windows #enable 
+- [20221003151099](/zet/20221003151099/README.md) powershell commands encoded command nop bypass hidden #hacking #windows #windows 
+- [20221003151101](/zet/20221003151101/README.md) powershell commands #hacking #windows #windows 
+- [20221003151108](/zet/20221003151108/README.md) dos commands net #hacking #windows #dos 
+- [20221003151110](/zet/20221003151110/README.md) dos commands admin / system #hacking #windows #dos 
+- [20221003151115](/zet/20221003151115/README.md) dos commands services sc #hacking #windows #dos 
+- [20221003151124](/zet/20221003151124/README.md) dos commands #hacking #windows #dos #command
+- [20221003151126](/zet/20221003151126/README.md) active directory  delegation unconstrained #hacking #windows #windows 
+- [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions #hacking #windows #windows 
+- [20221003151144](/zet/20221003151144/README.md) active directory #hacking #windows #hub #concept
+- [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec #hacking #windows #ad 
+- [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003 #hacking #windows #xp #hub
+- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
+- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
+- [20221003151236](/zet/20221003151236/README.md) mysql mariadb #hacking #trick #mysql 
+- [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads #hacking #trick #malicious 
+- [20221003151247](/zet/20221003151247/README.md) Jenkins / Groovy (Java) Reverse Shell #hacking #trick #jenkins 
+- [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies #hacking #trick #install 
+- [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows cobalt strike #hacking #trick #run 
+- [20221003151254](/zet/20221003151254/README.md) run executable binary programs within process memory windows #hacking #trick #run 
+- [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux #hacking #trick #run 
+- [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory #hacking #trick #run 
+- [20221003151267](/zet/20221003151267/README.md) fzf #fzf-fuzzy-find #help 
+- [20221003151280](/zet/20221003151280/README.md) YAML parsing #data-engineering-pipelines #yaml 
+- [20221003151281](/zet/20221003151281/README.md) YAML #data-engineering-pipelines #yaml 
+- [20221003151286](/zet/20221003151286/README.md) postgres #data-engineering-pipelines #postgres 
+- [20221003151288](/zet/20221003151288/README.md) jq pipe syntax #command #data-engineering-pipelines #jq 
+- [20221003151289](/zet/20221003151289/README.md) jq #command #data-engineering-pipelines #jq 
+- [20221003151299](/zet/20221003151299/README.md) bash tricks #bash-scripting #trick #tricks 
+- [20221003151309](/zet/20221003151309/README.md) expect scripts #bash-scripting #expect 
+- [20221003151318](/zet/20221003151318/README.md) bash parse xml cli #bash-scripting #xml 
+- [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database #bash-scripting #text 
+- [20221003151356](/zet/20221003151356/README.md) python scripting urlencode every input line #python #script 
+- [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally #python #script 
+- [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script #python #script 
+- [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files #bash #script 
+- [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker #bash #script 
+- [20221003151383](/zet/20221003151383/README.md) bash scripting get all tags and start walking their commits #bash #script 
+- [20221003151384](/zet/20221003151384/README.md) bash scripting clone repo into temp dir #bash #script 
+- [20221003151386](/zet/20221003151386/README.md) bash scripting define bash array #bash #script 
+- [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream #bash #script 
+- [20221003151402](/zet/20221003151402/README.md) bash scripting prepend gzip magic bytes #bash #script 
+- [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf #bash #script 
+- [20221003151418](/zet/20221003151418/README.md) bash scripting parse args with case statement #bash #script 
+- [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory #bash #script 
+- [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried #awk #script 
+
 ```
 
 ` zet/20221005200242/README.md `
@@ -27,7 +247,6 @@ hello world again!
 
 - zet/20221007182026/content.awk
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
-- [20221003150307](/zet/20221003150307/README.md) copy docker binary to target
 - [20221003150567](/zet/20221003150567/README.md) SMB Copy Files (Execute on Victim)
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
@@ -237,7 +456,6 @@ hello world again!
 - [20221003150159](/zet/20221003150159/README.md) upgrade when apt is causing problems
 - [20221003150143](/zet/20221003150143/README.md) proxmox vm host operating system
 - [20221003150129](/zet/20221003150129/README.md) tldr command
-- [20221003150115](/zet/20221003150115/README.md) socat
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet

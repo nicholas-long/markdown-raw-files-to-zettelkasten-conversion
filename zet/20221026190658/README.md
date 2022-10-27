@@ -15,7 +15,6 @@
 - <https://en.wikipedia.org/wiki/5-4-3_rule>
 - [20221006213311](/zet/20221006213311/README.md) hackthebox
 - [20221012082959](/zet/20221012082959/README.md) discord
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

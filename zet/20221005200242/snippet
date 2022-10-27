@@ -1,3 +1,23 @@
 #!/bin/bash
 
-echo "hello world again!"
+MYID=20221005200242
+contentscript="zet/20221007182026/content.awk"
+
+tf=$(mktemp)
+for id in $(./graphquery id $MYID refs); do
+  $contentscript zet/$id/README.md | wc -l | awk -v "id=$id" '{print id, $1}'
+done > $tf
+
+echo "#"
+echo "# Non-Empty"
+echo "#"
+awk '$2 != 1 {print $1}' $tf | ./graphquery --human '/dev/stdin' | paste <( awk '$2 != 1 {print $2}' $tf) -
+echo ""
+
+echo "#"
+echo "# Empty"
+echo "#"
+awk '$2 == 1 {print $1}' $tf | ./graphquery --human '/dev/stdin'
+echo ""
+
+rm "$tf"

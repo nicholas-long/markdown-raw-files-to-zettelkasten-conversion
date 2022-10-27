@@ -41,6 +41,7 @@ the concept of `docker`
 - [20221003151271](/zet/20221003151271/README.md) docker cleanup
 - [20221003150183](/zet/20221003150183/README.md) add user to group docker
 - [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen
+- [20221003150307](/zet/20221003150307/README.md) copy docker binary to target
 
 Tags:
 

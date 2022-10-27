@@ -14,7 +14,6 @@
 - [20221003150111](/zet/20221003150111/README.md) socat listen fork print to stdout
 - [20221014185459](/zet/20221014185459/README.md) kb file named kb/networking/port-forwarding.md
 - ~/kb/networking/port-forwarding.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 
