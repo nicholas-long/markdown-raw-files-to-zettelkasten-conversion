@@ -385,7 +385,11 @@
 - [20221003151288](/zet/20221003151288/README.md) jq pipe syntax
 - [20221003151289](/zet/20221003151289/README.md) jq
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
+- [20221003151303](/zet/20221003151303/README.md) bash scripting set operations comm find lines unique to one file and not in another
+- [20221003151304](/zet/20221003151304/README.md) bash scripting set operations comm find common lines between two files
 - [20221003151305](/zet/20221003151305/README.md) bash scripting comm utility for set operations
+- [20221003151306](/zet/20221003151306/README.md) bash scripting set operations
+- [20221003151308](/zet/20221003151308/README.md) expect scripts record
 - [20221003151325](/zet/20221003151325/README.md) utility to render / capture screenshot of url
 - [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty
 - [20221003151335](/zet/20221003151335/README.md) bash command reference

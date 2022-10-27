@@ -22,6 +22,7 @@
 - [20221003150937](/zet/20221003150937/README.md) fail2ban
 - [20221003150977](/zet/20221003150977/README.md) oracle connect as sysdba enable file read privileges
 - [20221003150978](/zet/20221003150978/README.md) oracle
+- [20221003151309](/zet/20221003151309/README.md) expect scripts
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221008212929](/zet/20221008212929/README.md) running process

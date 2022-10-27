@@ -107,6 +107,9 @@
 - [20221003151298](/zet/20221003151298/README.md) bash tricks run a command / program in a pty to get color output
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
+- [20221003151303](/zet/20221003151303/README.md) bash scripting set operations comm find lines unique to one file and not in another
+- [20221003151304](/zet/20221003151304/README.md) bash scripting set operations comm find common lines between two files
+- [20221003151308](/zet/20221003151308/README.md) expect scripts record
 - [20221003151315](/zet/20221003151315/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it
 - [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream
 - [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty

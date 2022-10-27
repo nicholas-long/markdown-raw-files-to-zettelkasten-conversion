@@ -88,6 +88,7 @@
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - [20221003151240](/zet/20221003151240/README.md) Using touch to make files with strange names for exploiting scripts
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
+- [20221003151309](/zet/20221003151309/README.md) expect scripts
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos

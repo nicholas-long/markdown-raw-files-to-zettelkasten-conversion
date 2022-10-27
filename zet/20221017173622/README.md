@@ -6,12 +6,6 @@
 #
 # unlabled scripts and commands and things 
 #
-- [20221003151303](/zet/20221003151303/README.md) bash scripting set operations comm find lines unique to one file and not in another #find #bash #scripting
-- [20221003151304](/zet/20221003151304/README.md) bash scripting set operations comm find common lines between two files #find #bash #scripting
-- [20221003151306](/zet/20221003151306/README.md) bash scripting set operations #find #bash #scripting
-- [20221003151307](/zet/20221003151307/README.md) expect scripts use arguments #expect #bash #scripting
-- [20221003151308](/zet/20221003151308/README.md) expect scripts record #expect #bash #scripting
-- [20221003151309](/zet/20221003151309/README.md) expect scripts #expect #bash #scripting
 - [20221003151310](/zet/20221003151310/README.md) bash scripting substitution syntax return something if another variable is set #substitution #bash #scripting
 - [20221003151311](/zet/20221003151311/README.md) bash scripting substitution syntax read variable or else exit if undefined #substitution #bash #scripting
 - [20221003151312](/zet/20221003151312/README.md) bash scripting substitution syntax return substring of name #substitution #bash #scripting
@@ -116,7 +110,7 @@
 # tags
 #
 ARCHIVE
-ad administration ai analysis ansible api apk apt av awk
+ad administration ai analysis ansible api apk apt arg automation av awk
 bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
 c-language c2 calling capabilities cert cleanup cms coding command company concept config container convert copy crack creds crypto ctf curl cyberpunk
 data database date dayinhistory debian debug debugging decrypt defense deploy deserialization diag diagram dirty dll dns docker done dos dotfiles download dpkg ds dump
@@ -135,7 +129,7 @@ package packet pane password path pc php pipelines pivot plugin port portable po
 question quick
 rce rdp redhat reference relative remoteaccess repo repositories responder retired routing run rust
 scam screenshot script scripting sed service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve source speed sqli sqlmap ssh ssti stack stream streamer substitution sudoers surface
-tablet tar tcp template templates terminal test text tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui two type
+tablet tar tcp template templates terminal test text textprocessing tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui two type
 uac udp url useful username users util
 valid var vbscript version video videonotes videos vim virtualbox vm
 wasm web wfuzz windows wordlist workflow wpscan wtf
