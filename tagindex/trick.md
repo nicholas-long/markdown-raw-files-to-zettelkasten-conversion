@@ -110,7 +110,12 @@
 - [20221003151303](/zet/20221003151303/README.md) bash scripting set operations comm find lines unique to one file and not in another
 - [20221003151304](/zet/20221003151304/README.md) bash scripting set operations comm find common lines between two files
 - [20221003151308](/zet/20221003151308/README.md) expect scripts record
+- [20221003151310](/zet/20221003151310/README.md) bash scripting substitution syntax return something if another variable is set
+- [20221003151312](/zet/20221003151312/README.md) bash scripting substitution syntax return substring of name
+- [20221003151313](/zet/20221003151313/README.md) bash scripting substitution syntax return variables value or default
+- [20221003151314](/zet/20221003151314/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it example
 - [20221003151315](/zet/20221003151315/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it
+- [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax
 - [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream
 - [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying

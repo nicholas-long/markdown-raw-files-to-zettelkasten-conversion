@@ -14,4 +14,4 @@ echo ${param:?"param is required. exiting."}
 
 Tags:
 
-    #substitution #bash #scripting
+    #bash #scripting #syntax #tip

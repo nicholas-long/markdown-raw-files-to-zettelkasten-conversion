@@ -15,4 +15,4 @@ ${varname:+word}
 
 Tags:
 
-    #substitution #bash #scripting
+    #bash #scripting #syntax #trick

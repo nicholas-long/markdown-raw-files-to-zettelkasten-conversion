@@ -52,6 +52,7 @@
 ./graphquery @crackmapexec not <( ./graphquery @bruteforcing ) | xargs -n 1 ./zc addtag -t bruteforcing
 ./graphquery @crackmapexec | xargs -n 1 ./zc deltag -t crackmapexec
 
+./graphquery @substitution | xargs -n 1 ./zc deltag -t substitution
 ```
 
 ` zet/20221027150053/README.md `

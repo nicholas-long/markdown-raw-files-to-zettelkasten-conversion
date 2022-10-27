@@ -19,4 +19,4 @@ coyote
 
 Tags:
 
-    #substitution #bash #scripting
+    #bash #scripting #syntax #reference #trick

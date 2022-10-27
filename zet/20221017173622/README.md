@@ -6,12 +6,6 @@
 #
 # unlabled scripts and commands and things 
 #
-- [20221003151310](/zet/20221003151310/README.md) bash scripting substitution syntax return something if another variable is set #substitution #bash #scripting
-- [20221003151311](/zet/20221003151311/README.md) bash scripting substitution syntax read variable or else exit if undefined #substitution #bash #scripting
-- [20221003151312](/zet/20221003151312/README.md) bash scripting substitution syntax return substring of name #substitution #bash #scripting
-- [20221003151313](/zet/20221003151313/README.md) bash scripting substitution syntax return variables value or default #substitution #bash #scripting
-- [20221003151314](/zet/20221003151314/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it example #substitution #bash #scripting
-- [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax #substitution #bash #scripting
 - [20221003151317](/zet/20221003151317/README.md) bash parse xml cli with xpath using xpup #xml #bash #scripting
 - [20221003151318](/zet/20221003151318/README.md) bash parse xml cli #xml #bash #scripting
 - [20221003151319](/zet/20221003151319/README.md) get current date - linux bash scripting current year #get #bash #scripting
@@ -128,7 +122,7 @@ openssl optimization optimiztion os osint
 package packet pane password path pc php pipelines pivot plugin port portable post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox pureftp pwn pwntools python
 question quick
 rce rdp redhat reference relative remoteaccess repo repositories responder retired routing run rust
-scam screenshot script scripting sed service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve source speed sqli sqlmap ssh ssti stack stream streamer substitution sudoers surface
+scam screenshot script scripting sed service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve source speed sqli sqlmap ssh ssti stack stream streamer sudoers surface syntax
 tablet tar tcp template templates terminal test text textprocessing tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui two type
 uac udp url useful username users util
 valid var vbscript version video videonotes videos vim virtualbox vm

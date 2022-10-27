@@ -29,4 +29,4 @@ echo ${name:="default"}
 
 Tags:
 
-    #substitution #bash #scripting
+    #bash #scripting #reference #coding #trick #syntax

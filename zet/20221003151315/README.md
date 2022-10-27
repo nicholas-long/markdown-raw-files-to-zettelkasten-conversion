@@ -16,4 +16,4 @@ echo ${name:="default"}
 
 Tags:
 
-    #substitution #trick #bash #scripting
+    #trick #bash #scripting
