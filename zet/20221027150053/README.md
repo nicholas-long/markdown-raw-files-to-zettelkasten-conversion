@@ -8,7 +8,8 @@
 - data-engineering-pipelines -> #data #pipelines
 - lxd -> container
 - active -> ad
-Crowbar
+- Crowbar
+- xterm
 
 ```
 # awk
