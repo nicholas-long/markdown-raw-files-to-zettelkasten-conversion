@@ -8,7 +8,7 @@
 - [20221014191506](/zet/20221014191506/README.md) associate kb cards with converted cards
 - [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
 - [20221015010704](/zet/20221015010704/README.md) things that need splitting up
-- [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
+- [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists

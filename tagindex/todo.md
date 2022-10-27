@@ -67,7 +67,7 @@
 - [20221013214821](/zet/20221013214821/README.md) check for command injection
 - [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
 - [20221014183030](/zet/20221014183030/README.md) create cards for kb files
-- [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
+- [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards
 - [20221018182017](/zet/20221018182017/README.md) read bash man page
 - [20221022210719](/zet/20221022210719/README.md) assorted information
 - [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language

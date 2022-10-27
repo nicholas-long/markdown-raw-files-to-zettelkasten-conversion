@@ -9,7 +9,7 @@ stuff i am working on.
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
-- [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
+- [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards
 - [20221015000510](/zet/20221015000510/README.md) create install script for zet command
 - [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process

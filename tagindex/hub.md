@@ -19,6 +19,7 @@
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221008081231](/zet/20221008081231/README.md) debugging
+- [20221008212929](/zet/20221008212929/README.md) running process
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221008214935](/zet/20221008214935/README.md) go language
 - [20221008215139](/zet/20221008215139/README.md) hash / checksum
@@ -50,3 +51,4 @@
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept
 - [20221018160416](/zet/20221018160416/README.md) phishing or credential harvesting concept
 - [20221018174628](/zet/20221018174628/README.md) tar command
+- [20221027150053](/zet/20221027150053/README.md) cleanup tags

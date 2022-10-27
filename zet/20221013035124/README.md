@@ -13,7 +13,7 @@
 - [20221003150483](/zet/20221003150483/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip
 - [20221018161819](/zet/20221018161819/README.md) did i link a bunch of weird enumeration stuff together?
 - [20221003150694](/zet/20221003150694/README.md) wpscan
-- [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
+- [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards
 - [20221014185643](/zet/20221014185643/README.md) kb file named kb/hacking/passwords/password_cracking_rules/README.md
 - [20221003151274](/zet/20221003151274/README.md) install mandown
 - [20221008042814](/zet/20221008042814/README.md) WIP

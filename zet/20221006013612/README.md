@@ -20,7 +20,7 @@
 - [20221019220305](/zet/20221019220305/README.md) combine common commands and enum quick commands
 - [20221018161819](/zet/20221018161819/README.md) did i link a bunch of weird enumeration stuff together?
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
-- [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
+- [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards
 - [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221003151443](/zet/20221003151443/README.md) kb

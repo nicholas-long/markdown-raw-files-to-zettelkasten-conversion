@@ -27,7 +27,7 @@ adding tag kb_import to zet/20221014190301/README.md
 
 # Related
 
-- [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
+- [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards
 - [20221003151443](/zet/20221003151443/README.md) kb
 - [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
 - [20221014183030](/zet/20221014183030/README.md) create cards for kb files
