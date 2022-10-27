@@ -29,7 +29,6 @@
 #cleanup
 #cms
 #coding
-#color
 #command
 #company
 #concept
@@ -52,6 +51,7 @@
 #debugging
 #decrypt
 #defense
+#deploy
 #deserialization
 #diag
 #diagram
@@ -184,6 +184,7 @@
 #pipelines
 #pivot
 #port
+#portable
 #post
 #postgres
 #powershell
@@ -248,6 +249,7 @@
 #surface
 #tablet
 #tar
+#tcp
 #template
 #templates
 #terminal

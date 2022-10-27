@@ -18,4 +18,4 @@ sed 's/\x1B\[[0-9;]*[JKmsu]//g'
 
 Tags:
 
-    #sed #bash #terminal #color #command #trick
+    #sed #bash #terminal #command #trick #data #enumeration

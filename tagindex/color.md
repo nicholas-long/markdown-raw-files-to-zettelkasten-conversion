@@ -1,1 +1,0 @@
-- [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color

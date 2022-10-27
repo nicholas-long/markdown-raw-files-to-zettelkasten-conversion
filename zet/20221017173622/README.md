@@ -15,8 +15,8 @@
 ARCHIVE
 ad administration ai analysis ansible api apk apt av awk
 bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
-c-language c2 calling capabilities cert cleanup cms coding color command company concept config container convert copy crack creds crypto ctf curl cyberpunk
-data database date dayinhistory debian debug debugging decrypt defense deserialization diag diagram dirty dll dns docker done dos dotfiles download dpkg ds dump
+c-language c2 calling capabilities cert cleanup cms coding command company concept config container convert copy crack creds crypto ctf curl cyberpunk
+data database date dayinhistory debian debug debugging decrypt defense deploy deserialization diag diagram dirty dll dns docker done dos dotfiles download dpkg ds dump
 edit editor email enable encode enhancement enumeration error etc ex example expect exploit extract
 feature feroxbuster fidget file filehash filepath files filesystem find finding fix force format free fun fzf-fuzzy-find
 games gdb gef generate get git github go gobuster got graph grep
@@ -28,11 +28,11 @@ lan language laptop ldap less lfi library linux list load
 macro malicious markdown me meta metasploit microsoft mimikatz mobile msfvenom mysql
 naming networking nfs nim nmap notes noun
 openssl optimization optimiztion os osint
-package packet pane password path pc php pipelines pivot port post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox pureftp pwn pwntools python
+package packet pane password path pc php pipelines pivot port portable post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox pureftp pwn pwntools python
 question quick
 rce rdp redhat reference relative remoteaccess repo repositories responder retired routing run rust
 scam screenshot script scripting sed service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve source speed sqli sqlmap ssh ssti stack stream streamer substitution sudoers surface
-tablet tar template templates terminal test text tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui two type
+tablet tar tcp template templates terminal test text tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui two type
 uac udp url useful username users util
 valid var vbscript version video videonotes videos vim virtualbox vm
 wasm web wfuzz windows workflow wpscan wtf
