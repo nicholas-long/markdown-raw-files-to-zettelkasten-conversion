@@ -13,15 +13,19 @@ ls tagindex | awk '
   if (box[c]) { box[c] = box[c] " " }
   box[c] = box[c] $0
 }
-END { for (c in box) { print box[c] } }
+END { asort(box); for (c in box) { print box[c] } }
 '
 
+echo ""
 echo "--------------------------------------------------------------------------------"
+echo ""
+
 echo "#"
 echo "# things attached to command hub that are not marked as commands"
 echo "#"
-echo "--------------------------------------------------------------------------------"
 zet/20221023085822/walkquery --human <( echo $commandconcept) refs not <( ./graphquery '@command' )
+
+echo ""
 echo "--------------------------------------------------------------------------------"
 echo ""
 

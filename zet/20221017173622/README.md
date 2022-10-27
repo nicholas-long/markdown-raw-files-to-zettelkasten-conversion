@@ -7,41 +7,42 @@
 #
 # tags
 #
-uac udp url useful users util utilities utility
-hacking hardware hash help hibernate html.templates http hub hydra
 ARCHIVE
-valid vbscript version video videonotes videos vim virtualbox vm
-idea identify image impacket implementation important info initialize install instanceof iptables
 BAR
-wasm web wfuzz windows workflow wpscan wtf
-java jenkins job john jq json jwt
-xml xp xterm xxe
-kafka kafkacat kali kerberos keytool ksql kubernetes
 DEL
-yaml
-language laptop ldap less lfi library linux list load lxd
-zet zettelkasten zsh
-macro malicious markdown me meta metasploit microsoft mimikatz mobile msfvenom mysql
 FOO
-naming networking nfs nim nmap notes noun
 active activedirectory ad administration ai analysis ansible api apk apt av awk-scripting awk
-observation openssl optimization optimiztion oracle os osint
 bash-scripting bash basic bettercap binary bloodhound boxes broken bruteforcing bsd bug buzzwords
-package packet pane path pc php pivot port post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox pureftp pwn pwntools python
 c-language c c2 calling capabilities cert check cleanup cms coding color command commands company concept config container convert copy crack crackmapexec creds crowbar crypto ctf curl cyberpunk
-question quick
 data-engineering-pipelines data database date dayinhistory debian debug debugging decrypt defense deserialization diag diagram dirty dll dns docker done dos download dpkg ds dump
-rce rdp redhat redundant reference relative remoteaccess repo repositories responder retired routing run rust
 edit editor email enable encode enh enhancement enumeration error etc ex example expect exploit ext4 extract
-scam screenshot script scripting sed service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve source speed sqli sqlmap ssh ssti stack stream streamer substitution sudoers surface
 fail2ban feature feroxbuster fidget file filehash filepath files find finding fix force format free fun fzf-fuzzy-find
-tablet tar template templates terminal test text tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui two type
 games gdb gef generate get git github go gobuster got graph grep
+hacking hardware hash help hibernate html.templates http hub hydra
+idea identify image impacket implementation important info initialize install instanceof iptables
+java jenkins job john jq json jwt
+kafka kafkacat kali kerberos keytool ksql kubernetes
+language laptop ldap less lfi library linux list load lxd
+macro malicious markdown me meta metasploit microsoft mimikatz mobile msfvenom mysql
+naming networking nfs nim nmap notes noun
+observation openssl optimization optimiztion oracle os osint
+package packet pane path pc php pivot port post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox pureftp pwn pwntools python
+question quick
+rce rdp redhat redundant reference relative remoteaccess repo repositories responder retired routing run rust
+scam screenshot script scripting sed service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve source speed sqli sqlmap ssh ssti stack stream streamer substitution sudoers surface
+tablet tar template templates terminal test text tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui two type
+uac udp url useful users util utilities utility
+valid vbscript version video videonotes videos vim virtualbox vm
+wasm web wfuzz windows workflow wpscan wtf
+xml xp xterm xxe
+yaml
+zet zettelkasten zsh
+
 --------------------------------------------------------------------------------
+
 #
 # things attached to command hub that are not marked as commands
 #
---------------------------------------------------------------------------------
 - [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
 - [20221003150067](/zet/20221003150067/README.md) vim #vim #program #hub #concept #editor #shell #linux
 
@@ -353,6 +354,7 @@ games gdb gef generate get git github go gobuster got graph grep
 
 - [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists #idea #zettelkasten #zet #notes #meta #todo
+
 
 --------------------------------------------------------------------------------
 
