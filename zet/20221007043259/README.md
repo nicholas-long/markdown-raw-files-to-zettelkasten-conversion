@@ -1,5 +1,8 @@
 # zettelkasten generic ideas
 
+- integrate with calendar
+  - cron somewhere that runs stuff in API and checks things in?
+    - secrets on server vs. on github
 - deep questions - graph search through notes to see how 2 nodes are connected
 - lists kept up to date with graph queries
 - edit cards from on the road to run batch jobs
