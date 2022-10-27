@@ -14,4 +14,4 @@ gcc -static -o root-shell root-shell.c
 
 Tags:
 
-    #hacking #privesc #c 
+    #hacking #privesc #c-language

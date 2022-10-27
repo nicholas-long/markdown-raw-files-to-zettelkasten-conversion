@@ -15,4 +15,4 @@ gcc -fPIC -shared -o drop-shell.so drop-shell.c
 
 Tags:
 
-    #hacking #privesc #c 
+    #hacking #privesc #c-language

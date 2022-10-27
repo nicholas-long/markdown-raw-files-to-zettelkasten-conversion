@@ -3,6 +3,7 @@
 - concept of `cleanup tags`
 - awk-scripting -> #awk #scripting
 - bash-scripting -> #bash #scripting
+- c -> c-language
 
 ```
 ./graphquery @awk-scripting not <( ./graphquery @awk ) | xargs -n 1 ./zc addtag -t awk

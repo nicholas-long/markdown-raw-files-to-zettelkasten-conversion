@@ -16,4 +16,4 @@
 
 Tags:
 
-    #hacking #privesc #c 
+    #hacking #privesc #c-language

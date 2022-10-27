@@ -1,3 +1,6 @@
+- [20221003150927](/zet/20221003150927/README.md) C setuid suid backdoor exploit write setuid bit to binary with SO shared module object
+- [20221003150928](/zet/20221003150928/README.md) C setuid suid backdoor exploit program to execute shell commands with system
+- [20221003150929](/zet/20221003150929/README.md) C setuid suid backdoor exploit
 - [20221003151290](/zet/20221003151290/README.md) C template copy/pipe output to/from processes with popen fgetc fputc
 - [20221003151291](/zet/20221003151291/README.md) C template readline prompt
 - [20221003151292](/zet/20221003151292/README.md) C template
