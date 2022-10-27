@@ -8,7 +8,6 @@
 - [20221003150125](/zet/20221003150125/README.md) routing using a linux box enable ip forwarding
 - [20221003150126](/zet/20221003150126/README.md) routing using a linux box
 - [20221003150127](/zet/20221003150127/README.md) tldr pages location english
-- [20221003150128](/zet/20221003150128/README.md) tldr pages location
 - [20221003150129](/zet/20221003150129/README.md) tldr command
 - [20221003150130](/zet/20221003150130/README.md) java download links jdk
 - [20221003150131](/zet/20221003150131/README.md) java download links

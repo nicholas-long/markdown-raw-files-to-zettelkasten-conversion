@@ -8,8 +8,6 @@
 # tags
 #
 ARCHIVE
-DEL
-REDUNDANT
 active ad administration ai analysis ansible api apk apt av awk-scripting awk
 bash-scripting bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
 c-language c c2 calling capabilities cert check cleanup cms coding color command commands company concept config container convert copy crack crackmapexec creds crowbar crypto ctf curl cyberpunk

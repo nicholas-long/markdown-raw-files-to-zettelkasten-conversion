@@ -51,7 +51,6 @@ the concept of `locating the origin of files by hash to determine version`
 - [20221008213357](/zet/20221008213357/README.md) version of program
 - [20221006025730](/zet/20221006025730/README.md) apt repositories
 - [20221003150285](/zet/20221003150285/README.md) default webroots BSD systems OpenBSD httpd
-- [20221003150383](/zet/20221003150383/README.md) threatcheck help obfuscate windows executable strings
 - [20221008221548](/zet/20221008221548/README.md) website
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation

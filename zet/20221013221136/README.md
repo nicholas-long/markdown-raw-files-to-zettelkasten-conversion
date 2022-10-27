@@ -52,7 +52,6 @@ ln -s zet/20221013221136/graphquery ./graphquery
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
-- [20221020230358](/zet/20221020230358/README.md) test node 1
 - [20221009102918](/zet/20221009102918/README.md) get titles in tag links
 - [20221008054439](/zet/20221008054439/README.md) graph database
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd

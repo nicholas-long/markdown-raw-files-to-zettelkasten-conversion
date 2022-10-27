@@ -11,7 +11,6 @@
 
 - [20221016233512](/zet/20221016233512/README.md) commits for day of 2022-05-31
 - [20221003150571](/zet/20221003150571/README.md) PHP unserialize payload gadget chains
-- [20221003150570](/zet/20221003150570/README.md) PHP unserialize payload gadget chains like ysoserial but for PHP
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

@@ -9,7 +9,6 @@
 # Related
 
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
-- [20221003150382](/zet/20221003150382/README.md) threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender)
 - ~/kb/hacking/misc/important-repositories-tools.md
 - https://github.com/rasta-mouse/ThreatCheck
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools

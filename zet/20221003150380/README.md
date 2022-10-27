@@ -10,7 +10,6 @@
 
 # Related
 
-- [20221003150379](/zet/20221003150379/README.md) oracle database attacking tool odat enumerate users
 - [20221003150377](/zet/20221003150377/README.md) oracle database attacking tool ODAT can execute system commands
 - [20221003150978](/zet/20221003150978/README.md) oracle
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
