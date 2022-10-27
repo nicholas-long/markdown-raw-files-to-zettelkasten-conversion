@@ -1,0 +1,27 @@
+#!/bin/bash
+
+commandconcept=20221009014200 #concept of a command
+KB_ID=20221003151443 #zet/20221003151443/README.md # kb
+
+echo "#"
+echo "# tags"
+echo "#"
+ls tagindex | awk '
+{ gsub(/\.md$/,"") }
+{
+  c = substr($1,1,1)
+  if (box[c]) { box[c] = box[c] " " }
+  box[c] = box[c] $0
+}
+END { for (c in box) { print box[c] } }
+'
+
+echo "--------------------------------------------------------------------------------"
+echo "#"
+echo "# things attached to command hub that are not marked as commands"
+echo "#"
+echo "--------------------------------------------------------------------------------"
+zet/20221023085822/walkquery --human <( echo $commandconcept) refs not <( ./graphquery '@command' )
+echo "--------------------------------------------------------------------------------"
+echo ""
+

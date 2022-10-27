@@ -23,7 +23,7 @@
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
-- [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags
+- [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 
 Tags:

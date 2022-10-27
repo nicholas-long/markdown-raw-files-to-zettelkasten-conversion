@@ -69,7 +69,7 @@ the concept of a `program`
 - [20221003151305](/zet/20221003151305/README.md) bash scripting comm utility for set operations
 - [20221003150246](/zet/20221003150246/README.md) enterprise PAM Thycotic
 - [20221003150247](/zet/20221003150247/README.md) enterprise PAM
-- [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags
+- [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 
 Tags:
 

@@ -25,4 +25,4 @@
 - [20221020193850](/zet/20221020193850/README.md) what is knowledge management
 - [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language
 - [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
-- [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags
+- [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists

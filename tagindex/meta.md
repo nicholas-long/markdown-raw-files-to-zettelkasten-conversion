@@ -8,4 +8,4 @@
 - [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
 - [20221015010704](/zet/20221015010704/README.md) things that need splitting up
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
-- [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags
+- [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists

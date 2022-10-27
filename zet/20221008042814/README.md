@@ -6,7 +6,7 @@ stuff i am working on.
 
 # Related
 
-- [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags
+- [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 - [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
@@ -26,7 +26,7 @@ stuff i am working on.
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221022232615](/zet/20221022232615/README.md) defcon video notes
-- [20221003151144](/zet/20221003151144/README.md) active directory 
+- [20221003151144](/zet/20221003151144/README.md) active directory
 - [20221003150791](/zet/20221003150791/README.md) openssl
 - [20221020160107](/zet/20221020160107/README.md) zettels with kb script paths to fix
 - [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md

@@ -157,7 +157,7 @@
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
-- [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags
+- [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 
 Tags:
 
