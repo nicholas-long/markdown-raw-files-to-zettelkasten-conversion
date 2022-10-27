@@ -2,6 +2,11 @@
 
 - concept of `cleanup tags`
   - anything attached to this hub needs tags fixed
+- questions / ideas
+  - "buzzwords" - what to do with this? could link them to note
+  - should github be a concept hub or a hashtag? or both?
+  - keep useful as a tag or label?
+
 - awk-scripting -> #awk #scripting
 - bash-scripting -> #bash #scripting
 - c -> c-language
@@ -13,6 +18,10 @@
 - enh -> enhancement
 - crackmapexec -> bruteforcing if not
 - create filesystem tag for ext4 and other future stuff
+- util utilities -> util
+  - remove
+    - utilities
+    - utility
 
 ```
 # awk

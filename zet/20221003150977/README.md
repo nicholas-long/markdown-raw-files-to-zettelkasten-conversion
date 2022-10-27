@@ -15,4 +15,4 @@ sqlplus64 user/pass@$IP:1521/SID as sysdba
 
 Tags:
 
-    #hacking #oracle 
+    #hacking #program #database #privesc #command

@@ -16,7 +16,8 @@
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - ~/kb/hacking/misc/important-repositories-tools.md
 - https://github.com/quentinhardy/odat
+- [20221007194303](/zet/20221007194303/README.md) github
 
 Tags:
 
-    #hacking #repositories #important #database #oracle #tool
+    #hacking #repositories #important #database #tool #repo #github
