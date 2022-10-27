@@ -16,6 +16,7 @@
 - [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
 - [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
+- [20221003151443](/zet/20221003151443/README.md) kb
 - [20221008213254](/zet/20221008213254/README.md) file path
 - [20221008215739](/zet/20221008215739/README.md) go packages have checksums
 - [20221009015743](/zet/20221009015743/README.md) dockerfile

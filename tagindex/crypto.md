@@ -2,3 +2,4 @@
 - [20221003150264](/zet/20221003150264/README.md) block ciphers AES DES blowfish
 - [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext
 - [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
+- [20221003150726](/zet/20221003150726/README.md) openssl view information about certificate request

@@ -1,6 +1,7 @@
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221003150441](/zet/20221003150441/README.md) OWASP cheat sheet series
 - [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs
+- [20221003151443](/zet/20221003151443/README.md) kb
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types
 - [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos
 - [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`

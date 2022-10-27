@@ -8,19 +8,7 @@
 # things attached to command hub that are not marked as commands
 #
 - [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221003150726](/zet/20221003150726/README.md) openssl view information about certificate request 
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221003151305](/zet/20221003151305/README.md) bash scripting comm utility for set operations #bash-scripting #tool
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
 - [20221003151325](/zet/20221003151325/README.md) Capture screenshot of url "utility to capture WebKit's rendering of a web page" 
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221003151335](/zet/20221003151335/README.md) bash command reference #bash-scripting #file 
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221003151443](/zet/20221003151443/README.md) kb 
 
 - [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
 - [20221008061334](/zet/20221008061334/README.md) concepts #noun #idea #hub

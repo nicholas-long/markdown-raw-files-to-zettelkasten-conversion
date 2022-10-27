@@ -188,6 +188,7 @@
 - [20221003150722](/zet/20221003150722/README.md) openssl pfx p12 file PKCS12 public key fingerprint
 - [20221003150723](/zet/20221003150723/README.md) openssl pfx p12 file PKCS12 view information about certificate
 - [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12
+- [20221003150726](/zet/20221003150726/README.md) openssl view information about certificate request
 - [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal
 - [20221003150728](/zet/20221003150728/README.md) powershell base64 encode equivalent within ps
 - [20221003150729](/zet/20221003150729/README.md) powershell encode commands as base64 with windows wide char strings in linux
@@ -380,6 +381,8 @@
 - [20221003151288](/zet/20221003151288/README.md) jq pipe syntax
 - [20221003151289](/zet/20221003151289/README.md) jq
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
+- [20221003151305](/zet/20221003151305/README.md) bash scripting comm utility for set operations
+- [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221003151344](/zet/20221003151344/README.md) awk bash scripting split into files by column value
 - [20221003151348](/zet/20221003151348/README.md) awk bash scripting move files automatically
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
