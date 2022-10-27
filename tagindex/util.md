@@ -1,6 +1,7 @@
 - [20221003150139](/zet/20221003150139/README.md) apt package column
 - [20221003150140](/zet/20221003150140/README.md) apt package
 - [20221003151309](/zet/20221003151309/README.md) expect scripts
+- [20221003151317](/zet/20221003151317/README.md) bash parse xml cli with xpath using xpup
 - [20221003151325](/zet/20221003151325/README.md) utility to render / capture screenshot of url
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content

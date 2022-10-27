@@ -9,6 +9,7 @@
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
 - [20221003150457](/zet/20221003150457/README.md) GraphQLmap for GraphQL enumeration
+- [20221003151318](/zet/20221003151318/README.md) bash parse xml cli
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221017084459](/zet/20221017084459/README.md) xpup xml parsing tool for scripting
 - [20221025045945](/zet/20221025045945/README.md) tldr pages

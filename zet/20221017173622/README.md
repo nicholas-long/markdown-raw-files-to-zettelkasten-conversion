@@ -6,8 +6,6 @@
 #
 # unlabled scripts and commands and things 
 #
-- [20221003151317](/zet/20221003151317/README.md) bash parse xml cli with xpath using xpup #xml #bash #scripting
-- [20221003151318](/zet/20221003151318/README.md) bash parse xml cli #xml #bash #scripting
 - [20221003151319](/zet/20221003151319/README.md) get current date - linux bash scripting current year #get #bash #scripting
 - [20221003151320](/zet/20221003151320/README.md) get current date - linux bash scripting current unix epoch timestamp #get #bash #scripting
 - [20221003151321](/zet/20221003151321/README.md) get current date - linux bash scripting #get #bash #scripting

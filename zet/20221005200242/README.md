@@ -192,7 +192,6 @@ this is a list of possibly empty zettels.
 - [20221003151288](/zet/20221003151288/README.md) jq pipe syntax #command #jq #data #pipelines
 - [20221003151289](/zet/20221003151289/README.md) jq #command #jq #data #pipelines
 - [20221003151299](/zet/20221003151299/README.md) bash tricks #trick #tricks #bash #scripting
-- [20221003151318](/zet/20221003151318/README.md) bash parse xml cli #xml #bash #scripting
 - [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database #text #bash #scripting
 - [20221003151356](/zet/20221003151356/README.md) python scripting urlencode every input line #python #script 
 - [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally #python #script 
@@ -236,7 +235,6 @@ this is a list of possibly empty zettels.
 - [20221003151356](/zet/20221003151356/README.md) python scripting urlencode every input line
 - [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
 - [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database
-- [20221003151318](/zet/20221003151318/README.md) bash parse xml cli
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003151289](/zet/20221003151289/README.md) jq
 - [20221003151288](/zet/20221003151288/README.md) jq pipe syntax

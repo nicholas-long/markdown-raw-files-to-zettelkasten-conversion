@@ -1,3 +1,4 @@
 - [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
+- [20221003151318](/zet/20221003151318/README.md) bash parse xml cli
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes

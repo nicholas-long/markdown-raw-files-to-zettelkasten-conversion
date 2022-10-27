@@ -390,6 +390,7 @@
 - [20221003151305](/zet/20221003151305/README.md) bash scripting comm utility for set operations
 - [20221003151306](/zet/20221003151306/README.md) bash scripting set operations
 - [20221003151308](/zet/20221003151308/README.md) expect scripts record
+- [20221003151317](/zet/20221003151317/README.md) bash parse xml cli with xpath using xpup
 - [20221003151325](/zet/20221003151325/README.md) utility to render / capture screenshot of url
 - [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty
 - [20221003151335](/zet/20221003151335/README.md) bash command reference

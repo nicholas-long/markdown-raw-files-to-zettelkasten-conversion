@@ -1,1 +1,2 @@
+- [20221003151317](/zet/20221003151317/README.md) bash parse xml cli with xpath using xpup
 - [20221003151441](/zet/20221003151441/README.md) awk scripting

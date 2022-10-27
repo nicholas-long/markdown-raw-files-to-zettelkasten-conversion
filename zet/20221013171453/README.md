@@ -40,6 +40,7 @@
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
 - [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
+- [20221003151318](/zet/20221003151318/README.md) bash parse xml cli
 
 Tags:
 
