@@ -23,6 +23,7 @@
     - utilities
     - utility
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
+- text vs textprocessing
 
 ```
 # awk
