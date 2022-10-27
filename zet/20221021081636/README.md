@@ -20,6 +20,7 @@ hello world again!
 - [20221026165857](/zet/20221026165857/README.md) template example card to replace second snippet
 - [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
 - [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 
