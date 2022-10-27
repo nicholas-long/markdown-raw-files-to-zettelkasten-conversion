@@ -59,7 +59,6 @@
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
 - [20221003150935](/zet/20221003150935/README.md) fail2ban writable conf RCE
 - [20221003150936](/zet/20221003150936/README.md) fail2ban default config location
-- [20221003150937](/zet/20221003150937/README.md) fail2ban
 - [20221003150938](/zet/20221003150938/README.md) searchsploit exploitdb linux kernel exploit privesc
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits

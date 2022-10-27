@@ -15,6 +15,9 @@
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150462](/zet/20221003150462/README.md) tomcat
 - [20221003150780](/zet/20221003150780/README.md) crowbar
+- [20221003150935](/zet/20221003150935/README.md) fail2ban writable conf RCE
+- [20221003150936](/zet/20221003150936/README.md) fail2ban default config location
+- [20221003150937](/zet/20221003150937/README.md) fail2ban
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221008212929](/zet/20221008212929/README.md) running process

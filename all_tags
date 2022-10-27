@@ -80,9 +80,7 @@
 #example
 #expect
 #exploit
-#ext4
 #extract
-#fail2ban
 #feature
 #feroxbuster
 #fidget
@@ -90,6 +88,7 @@
 #filehash
 #filepath
 #files
+#filesystem
 #find
 #finding
 #fix

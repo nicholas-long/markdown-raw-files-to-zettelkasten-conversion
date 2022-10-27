@@ -17,8 +17,8 @@ ad administration ai analysis ansible api apk apt av awk
 bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
 c-language c2 calling capabilities cert check cleanup cms coding color command company concept config container convert copy crack creds crypto ctf curl cyberpunk
 data database date dayinhistory debian debug debugging decrypt defense deserialization diag diagram dirty dll dns docker done dos dotfiles download dpkg ds dump
-edit editor email enable encode enhancement enumeration error etc ex example expect exploit ext4 extract
-fail2ban feature feroxbuster fidget file filehash filepath files find finding fix force format free fun fzf-fuzzy-find
+edit editor email enable encode enhancement enumeration error etc ex example expect exploit extract
+feature feroxbuster fidget file filehash filepath files filesystem find finding fix force format free fun fzf-fuzzy-find
 games gdb gef generate get git github go gobuster got graph grep
 hacking hardware hash help hibernate html.templates http hub hydra
 idea identify image impacket implementation important info initialize install iptables
@@ -57,7 +57,7 @@ zet zettelkasten zsh
 - [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
-- [20221027150053](/zet/20221027150053/README.md) cleanup tags
+- [20221027150053](/zet/20221027150053/README.md) cleanup and consolidate tags
 
 Tags:
 

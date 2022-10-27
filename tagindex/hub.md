@@ -52,4 +52,4 @@
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept
 - [20221018160416](/zet/20221018160416/README.md) phishing or credential harvesting concept
 - [20221018174628](/zet/20221018174628/README.md) tar command
-- [20221027150053](/zet/20221027150053/README.md) cleanup tags
+- [20221027150053](/zet/20221027150053/README.md) cleanup and consolidate tags

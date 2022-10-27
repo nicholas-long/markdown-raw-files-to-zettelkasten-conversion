@@ -22,6 +22,7 @@
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types
+- [20221006063114](/zet/20221006063114/README.md) small files are stored in inodes in ext4
 
 Tags:
 
