@@ -293,27 +293,27 @@
 # tags
 #
 ARCHIVE
-active ad administration ai analysis ansible api apk apt av awk awk-scripting
-bash bash-scripting basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
-c2 calling capabilities cert check c-language cleanup c cms coding color command commands company concept config container convert copy crackmapexec crack creds crowbar crypto ctf curl cyberpunk
-database data-engineering-pipelines data date dayinhistory debian debugging debug decrypt defense deserialization diag diagram dirty dll dns docker done dos download dpkg ds dump
-edit editor email enable encode enhancement enh enumeration error etc example ex expect exploit ext4 extract
-fail2ban feature feroxbuster fidget filehash file filepath files finding find fix force format free fun fzf-fuzzy-find
-games gdb gef generate get github git gobuster go got graph grep
+active ad administration ai analysis ansible api apk apt av awk-scripting awk
+bash-scripting bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
+c-language c c2 calling capabilities cert check cleanup cms coding color command commands company concept config container convert copy crack crackmapexec creds crowbar crypto ctf curl cyberpunk
+data-engineering-pipelines data database date dayinhistory debian debug debugging decrypt defense deserialization diag diagram dirty dll dns docker done dos download dpkg ds dump
+edit editor email enable encode enh enhancement enumeration error etc ex example expect exploit ext4 extract
+fail2ban feature feroxbuster fidget file filehash filepath files find finding fix force format free fun fzf-fuzzy-find
+games gdb gef generate get git github go gobuster got graph grep
 hacking hardware hash help hibernate html.templates http hub hydra
 idea identify image impacket implementation important info initialize install instanceof iptables
 java jenkins job john jq json jwt
 kafka kali kerberos keytool ksql kubernetes
-language lan laptop ldap less lfi library linux list load lxd
+lan language laptop ldap less lfi library linux list load lxd
 macro malicious markdown me meta metasploit microsoft mimikatz mobile msfvenom mysql
 naming networking nfs nim nmap notes noun
-openssl optimization optimiztion oracle osint os
-package packet pane password path pc php pivot port postgres post powershell powerview practice preview privesc process procmon program programming project proof proxmox pureftp pwn pwntools python
+openssl optimization optimiztion oracle os osint
+package packet pane password path pc php pivot port post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox pureftp pwn pwntools python
 question quick
 rce rdp redhat reference relative remoteaccess repo repositories responder retired routing run rust
-scam screenshot scripting script sed service setup shellcode shell shellshock skill smbclient smbmap smb snippets snmp solve source speed sqli sqlmap ssh ssti stack streamer stream substitution sudoers surface
-tablet tar template templates terminal test text tftp tip tips tldr tmux todo tomcat tool tools topological to-try-list trick tricks troubleshooting troubleshoot tui two type
-uac udp url useful username users utilities utility util
+scam screenshot script scripting sed service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve source speed sqli sqlmap ssh ssti stack stream streamer substitution sudoers surface
+tablet tar template templates terminal test text tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui two type
+uac udp url useful username users util utilities utility
 valid vbscript version video videonotes videos vim virtualbox vm
 wasm web wfuzz windows workflow wpscan wtf
 xml xp xterm xxe
