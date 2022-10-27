@@ -16,4 +16,4 @@ echo ${name:2:2}
 
 Tags:
 
-    #bash-scripting #substitution 
+    #substitution #bash #scripting

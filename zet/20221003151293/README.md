@@ -14,4 +14,4 @@ bash -x $FILE
 
 Tags:
 
-    #bash-scripting #debugging 
+    #debugging #bash #scripting

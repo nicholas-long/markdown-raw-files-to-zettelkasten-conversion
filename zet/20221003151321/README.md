@@ -23,4 +23,4 @@ date +%Y
 
 Tags:
 
-    #bash-scripting #get 
+    #get #bash #scripting

@@ -14,4 +14,4 @@ tr 'A-Z' 'a-z'
 
 Tags:
 
-    #bash-scripting #stream 
+    #stream #bash #scripting

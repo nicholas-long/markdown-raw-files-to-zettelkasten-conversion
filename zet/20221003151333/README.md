@@ -15,4 +15,4 @@ mktemp --directory
 
 Tags:
 
-    #bash-scripting #file 
+    #file #bash #scripting

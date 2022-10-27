@@ -11,4 +11,4 @@
 
 Tags:
 
-    #bash-scripting #text 
+    #text #bash #scripting

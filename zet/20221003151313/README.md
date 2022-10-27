@@ -15,4 +15,4 @@ echo ${name2:-"default"}
 
 Tags:
 
-    #bash-scripting #substitution 
+    #substitution #bash #scripting

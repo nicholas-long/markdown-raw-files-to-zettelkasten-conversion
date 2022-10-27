@@ -19,4 +19,4 @@
 
 Tags:
 
-    #bash-scripting #debugging 
+    #debugging #bash #scripting

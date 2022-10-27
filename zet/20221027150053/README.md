@@ -11,6 +11,11 @@
 ./graphquery @awk-scripting | xargs -n 1 ./zc deltag -t awk-scripting
 
 #./graphquery @awk-scripting not <( ./graphquery @scripting )
+# bash-scripting -> #bash #scripting
+
+./graphquery @bash-scripting not <( ./graphquery @bash ) | xargs -n 1 ./zc addtag -t bash
+./graphquery @bash-scripting not <( ./graphquery @scripting ) | xargs -n 1 ./zc addtag -t scripting
+./graphquery @bash-scripting | xargs -n 1 ./zc deltag -t bash-scripting
 
 ```
 

@@ -14,4 +14,4 @@ make a pretend tty for them and log the output with `script` instead.
 
 Tags:
 
-    #bash-scripting #trick #tricks 
+    #trick #tricks #bash #scripting
