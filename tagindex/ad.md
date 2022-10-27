@@ -1,8 +1,14 @@
+- [20221003151095](/zet/20221003151095/README.md) active directory certificate services AD CS risks
+- [20221003151096](/zet/20221003151096/README.md) active directory certificate services AD CS privesc
+- [20221003151097](/zet/20221003151097/README.md) active directory certificate services AD CS
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS
 - [20221003151145](/zet/20221003151145/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec convert kirbi to ccache
 - [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
 - [20221003151148](/zet/20221003151148/README.md) resource based constrained delegation S4U attack
+- [20221003151170](/zet/20221003151170/README.md) active directory domain old
+- [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221003151203](/zet/20221003151203/README.md) LDAP
 - [20221013185656](/zet/20221013185656/README.md) ntds.dit file in window AD domain controllers
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands

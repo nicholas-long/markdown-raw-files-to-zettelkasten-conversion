@@ -36,13 +36,13 @@
 - [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs #to-try-list #hacking #videonotes #notes
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD #streamer #api #bug #web
 
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #ad
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d #video #streamer
 
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #ad
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page #meta
 
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #active 
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list #to-try-list #hacking #ad
 - [20221011181920](/zet/20221011181920/README.md) working notes - foothold #notes
 
 - [20221003151176](/zet/20221003151176/README.md) email POP3 / IMAP #to-try-list #hacking #email

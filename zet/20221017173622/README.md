@@ -15,9 +15,9 @@
 # tags
 #
 ARCHIVE
-active ad administration ai analysis ansible api apk apt av awk
+ad administration ai analysis ansible api apk apt av awk
 bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
-c-language c2 calling capabilities cert check cleanup cms coding color command commands company concept config container convert copy crack crackmapexec creds crowbar crypto ctf curl cyberpunk
+c-language c2 calling capabilities cert check cleanup cms coding color command company concept config container convert copy crack crackmapexec creds crowbar crypto ctf curl cyberpunk
 data database date dayinhistory debian debug debugging decrypt defense deserialization diag diagram dirty dll dns docker done dos dotfiles download dpkg ds dump
 edit editor email enable encode enh enhancement enumeration error etc ex example expect exploit ext4 extract
 fail2ban feature feroxbuster fidget file filehash filepath files find finding fix force format free fun fzf-fuzzy-find
@@ -26,7 +26,7 @@ hacking hardware hash help hibernate html.templates http hub hydra
 idea identify image impacket implementation important info initialize install instanceof iptables
 java jenkins job john jq json jwt
 kafka kali kb_import kerberos keytool ksql kubernetes
-lan language laptop ldap less lfi library linux list load lxd
+lan language laptop ldap less lfi library linux list load
 macro malicious markdown me meta metasploit microsoft mimikatz mobile msfvenom mysql
 naming networking nfs nim nmap notes noun
 openssl optimization optimiztion oracle os osint
