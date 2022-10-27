@@ -1,4 +1,5 @@
 # bash scripting urlencode and base64 encode lines individually
+
 ~/kb/bash-scripting/urlencode-base64-every-line.sh
 ```bash
 #!/bin/bash
@@ -21,4 +22,4 @@ awk ' {
 
 Tags:
 
-    #bash #script 
+    #bash #script #trick #base64

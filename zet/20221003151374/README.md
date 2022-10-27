@@ -1,4 +1,5 @@
 # bash scripting build and run CrackMapExec docker
+
 ~/kb/hacking/dockers/crackmapexec.sh
 ```bash
 #!/bin/bash
@@ -10,10 +11,14 @@ source ~/kb/docker/build-github-repo-docker-image.sh
 ```
 
 ~/kb/hacking/dockers/crackmapexec.sh
+
+- [20221003150673](/zet/20221003150673/README.md) crackmapexec commands
+
 ` zet/20221003151374/README.md `
 
 # Related
 
+- [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221009015743](/zet/20221009015743/README.md) dockerfile
@@ -23,4 +28,4 @@ source ~/kb/docker/build-github-repo-docker-image.sh
 
 Tags:
 
-    #bash #script 
+    #bash #script #trick #container #bruteforcing #command

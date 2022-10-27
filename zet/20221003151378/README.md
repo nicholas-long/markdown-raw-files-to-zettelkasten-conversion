@@ -19,7 +19,8 @@ source ~/kb/docker/build-github-repo-docker-image.sh
 - [20221009015743](/zet/20221009015743/README.md) dockerfile
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
+- [20221003150786](/zet/20221003150786/README.md) enum4linux
 
 Tags:
 
-    #bash #script 
+    #bash #script #enumeration #util

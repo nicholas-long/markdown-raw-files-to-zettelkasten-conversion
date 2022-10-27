@@ -25,6 +25,8 @@
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - text vs textprocessing
 
+- things linked docker should be tagged container or docker
+
 ```
 # awk
 ./graphquery @awk-scripting not <( ./graphquery @awk ) | xargs -n 1 ./zc addtag -t awk
