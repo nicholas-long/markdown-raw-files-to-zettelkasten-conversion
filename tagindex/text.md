@@ -1,2 +1,5 @@
 - [20221003151323](/zet/20221003151323/README.md) ASCII text-based TSV / CSV file database join tables
 - [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database
+- [20221003151326](/zet/20221003151326/README.md) bash scripting convert text strings or wordlists to uppercase
+- [20221003151327](/zet/20221003151327/README.md) bash scripting convert text strings or wordlists to lowercase
+- [20221003151328](/zet/20221003151328/README.md) bash scripting convert text strings or wordlists

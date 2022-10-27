@@ -17,5 +17,6 @@
 - [20221003150984](/zet/20221003150984/README.md) mariadb mysql SQLi information tables
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
+- [20221003151323](/zet/20221003151323/README.md) ASCII text-based TSV / CSV file database join tables
 - [20221008054439](/zet/20221008054439/README.md) graph database
 - [20221008054623](/zet/20221008054623/README.md) neo4j

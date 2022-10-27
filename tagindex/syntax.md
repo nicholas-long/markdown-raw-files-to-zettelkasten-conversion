@@ -4,3 +4,4 @@
 - [20221003151313](/zet/20221003151313/README.md) bash scripting substitution syntax return variables value or default
 - [20221003151314](/zet/20221003151314/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it example
 - [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax
+- [20221003151330](/zet/20221003151330/README.md) bash scripting check if a variable is empty concise

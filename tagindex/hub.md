@@ -14,6 +14,7 @@
 - [20221003151306](/zet/20221003151306/README.md) bash scripting set operations
 - [20221003151309](/zet/20221003151309/README.md) expect scripts
 - [20221003151318](/zet/20221003151318/README.md) bash parse xml cli
+- [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - [20221006025356](/zet/20221006025356/README.md) linux

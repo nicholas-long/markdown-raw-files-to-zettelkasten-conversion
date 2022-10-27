@@ -118,6 +118,7 @@
 - [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax
 - [20221003151318](/zet/20221003151318/README.md) bash parse xml cli
 - [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream
+- [20221003151323](/zet/20221003151323/README.md) ASCII text-based TSV / CSV file database join tables
 - [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet

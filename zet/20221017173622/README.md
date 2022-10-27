@@ -6,13 +6,8 @@
 #
 # unlabled scripts and commands and things 
 #
-- [20221003151323](/zet/20221003151323/README.md) ASCII text-based TSV / CSV file database join tables #text #bash #scripting
-- [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database #text #bash #scripting
-- [20221003151326](/zet/20221003151326/README.md) bash scripting convert text strings or wordlists to uppercase #stream #bash #scripting
-- [20221003151327](/zet/20221003151327/README.md) bash scripting convert text strings or wordlists to lowercase #stream #bash #scripting
-- [20221003151328](/zet/20221003151328/README.md) bash scripting convert text strings or wordlists #stream #bash #scripting
 - [20221003151329](/zet/20221003151329/README.md) bash scripting #stream #bash #scripting
-- [20221003151330](/zet/20221003151330/README.md) bash scripting check if a variable is empty concise #bash #scripting #var
+- [20221003151330](/zet/20221003151330/README.md) bash scripting check if a variable is empty concise #bash #scripting #var #syntax #reference
 - [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory #file #bash #scripting
 - [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path #file #bash #scripting
 - [20221003151364](/zet/20221003151364/README.md) bash scripting get bash lines from kb snippets #bash #script 

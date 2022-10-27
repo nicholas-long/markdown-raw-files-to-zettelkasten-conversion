@@ -13,3 +13,6 @@
 - [20221003151288](/zet/20221003151288/README.md) jq pipe syntax
 - [20221003151289](/zet/20221003151289/README.md) jq
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
+- [20221003151323](/zet/20221003151323/README.md) ASCII text-based TSV / CSV file database join tables
+- [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database
+- [20221003151327](/zet/20221003151327/README.md) bash scripting convert text strings or wordlists to lowercase

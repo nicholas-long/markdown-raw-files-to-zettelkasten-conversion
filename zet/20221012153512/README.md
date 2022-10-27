@@ -43,6 +43,7 @@
 - [20221003150988](/zet/20221003150988/README.md) mariadb mysql
 - [20221003150210](/zet/20221003150210/README.md) kafkacat
 - [20221024213239](/zet/20221024213239/README.md) obsidian dataview plugin
+- [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database
 
 Tags:
 
