@@ -6,10 +6,6 @@
 #
 # unlabled scripts and commands and things 
 #
-- [20221003151329](/zet/20221003151329/README.md) bash scripting #stream #bash #scripting
-- [20221003151330](/zet/20221003151330/README.md) bash scripting check if a variable is empty concise #bash #scripting #var #syntax #reference
-- [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory #file #bash #scripting
-- [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path #file #bash #scripting
 - [20221003151364](/zet/20221003151364/README.md) bash scripting get bash lines from kb snippets #bash #script 
 - [20221003151365](/zet/20221003151365/README.md) bash scripting urlencode a line of text from stdin #bash #script 
 - [20221003151366](/zet/20221003151366/README.md) bash scripting install vscode #bash #script 

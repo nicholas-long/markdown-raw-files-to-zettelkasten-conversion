@@ -14,4 +14,4 @@ realpath $FILE
 
 Tags:
 
-    #file #bash #scripting
+    #file #bash #scripting #trick #command

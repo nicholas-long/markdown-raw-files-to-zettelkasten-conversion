@@ -120,6 +120,8 @@
 - [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream
 - [20221003151323](/zet/20221003151323/README.md) ASCII text-based TSV / CSV file database join tables
 - [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty
+- [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
+- [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable

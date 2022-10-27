@@ -1,5 +1,4 @@
 - [20221003151326](/zet/20221003151326/README.md) bash scripting convert text strings or wordlists to uppercase
 - [20221003151327](/zet/20221003151327/README.md) bash scripting convert text strings or wordlists to lowercase
 - [20221003151328](/zet/20221003151328/README.md) bash scripting convert text strings or wordlists
-- [20221003151329](/zet/20221003151329/README.md) bash scripting
 - [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8

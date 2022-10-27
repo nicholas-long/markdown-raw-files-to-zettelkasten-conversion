@@ -16,4 +16,4 @@
 
 Tags:
 
-    #bash #scripting #var #syntax #reference
+    #bash #scripting #var #syntax #reference #command

@@ -399,7 +399,11 @@
 - [20221003151326](/zet/20221003151326/README.md) bash scripting convert text strings or wordlists to uppercase
 - [20221003151327](/zet/20221003151327/README.md) bash scripting convert text strings or wordlists to lowercase
 - [20221003151328](/zet/20221003151328/README.md) bash scripting convert text strings or wordlists
+- [20221003151329](/zet/20221003151329/README.md) bash scripting
+- [20221003151330](/zet/20221003151330/README.md) bash scripting check if a variable is empty concise
 - [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty
+- [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
+- [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221003151344](/zet/20221003151344/README.md) awk bash scripting split into files by column value
 - [20221003151348](/zet/20221003151348/README.md) awk bash scripting move files automatically
