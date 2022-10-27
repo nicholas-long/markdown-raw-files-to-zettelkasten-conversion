@@ -46,10 +46,9 @@
 - [20221006214348](/zet/20221006214348/README.md) ippsec
 - [20221003150066](/zet/20221003150066/README.md) vim diff
 - ~/kb/vim/vim.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - https://www.youtube.com/watch?v=aHm36-na4-4
 - [20221003150065](/zet/20221003150065/README.md) neovim specifics
 
 Tags:
 
-    #vim #vim 
+    #vim #program #hub #concept #editor #shell #linux

