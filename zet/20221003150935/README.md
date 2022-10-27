@@ -11,4 +11,4 @@
 
 Tags:
 
-    #hacking #privesc #fail2ban 
+    #hacking #privesc #program #scripting #exploit

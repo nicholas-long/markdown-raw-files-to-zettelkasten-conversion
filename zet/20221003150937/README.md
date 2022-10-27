@@ -1,4 +1,5 @@
 # fail2ban
+
 - ssh is protected by default
 - iptables-multiport.conf has default ban commands
 
@@ -13,4 +14,4 @@
 
 Tags:
 
-    #hacking #privesc #fail2ban 
+    #hacking #defense #program

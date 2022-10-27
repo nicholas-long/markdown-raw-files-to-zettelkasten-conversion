@@ -1,4 +1,4 @@
-# cleanup tags
+# cleanup and consolidate tags
 
 - concept of `cleanup tags`
   - anything attached to this hub needs tags fixed
@@ -12,6 +12,7 @@
 - xterm
 - enh -> enhancement
 - crackmapexec -> bruteforcing if not
+- create filesystem tag for ext4 and other future stuff
 
 ```
 # awk

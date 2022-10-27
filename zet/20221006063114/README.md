@@ -8,7 +8,9 @@
 
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos
+- [20221013185251](/zet/20221013185251/README.md) general information concept FYI
+- [20221006025356](/zet/20221006025356/README.md) linux
 
 Tags:
 
-    #linux #ext4
+    #linux #filesystem
