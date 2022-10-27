@@ -5,3 +5,4 @@
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221020193850](/zet/20221020193850/README.md) what is knowledge management
+- [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity 10-27

@@ -5,3 +5,4 @@
 - [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
 - [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video
 - [20221017154727](/zet/20221017154727/README.md) xterm
+- [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity 10-27

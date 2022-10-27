@@ -6,3 +6,4 @@
 - [20221006215623](/zet/20221006215623/README.md) scrambled machine video notes
 - [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
+- [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity 10-27
