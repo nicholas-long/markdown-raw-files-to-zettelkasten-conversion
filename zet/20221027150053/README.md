@@ -12,6 +12,7 @@
 - Crowbar
 - xterm
 - enh -> enhancement
+- crackmapexec -> bruteforcing if not
 
 ```
 # awk
