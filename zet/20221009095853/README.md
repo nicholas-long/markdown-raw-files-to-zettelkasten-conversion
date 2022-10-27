@@ -54,6 +54,7 @@ things that are finished.
 - [20221026165857](/zet/20221026165857/README.md) template example card to replace second snippet
 - [20221026135114](/zet/20221026135114/README.md) add step to check for duplicate links in enrich scanrefs
 - [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
+- [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 
 Tags:
 
