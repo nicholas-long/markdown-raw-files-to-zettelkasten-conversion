@@ -11,6 +11,7 @@ stuff i am working on.
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 - [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
 - [20221015000510](/zet/20221015000510/README.md) create install script for zet command
+- [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
@@ -83,7 +84,6 @@ stuff i am working on.
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
-- [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
 
 Tags:
 
