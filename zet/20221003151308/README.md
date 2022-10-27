@@ -13,4 +13,4 @@ autoexpect ssh user@$IP
 
 Tags:
 
-    #expect #bash #scripting
+    #expect #bash #scripting #command #trick #automation

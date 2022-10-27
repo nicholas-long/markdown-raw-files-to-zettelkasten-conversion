@@ -19,4 +19,4 @@ comm -12 <(sort signups.txt) <(sort purchases.txt)
 
 Tags:
 
-    #find #bash #scripting
+    #find #bash #scripting #command #trick
