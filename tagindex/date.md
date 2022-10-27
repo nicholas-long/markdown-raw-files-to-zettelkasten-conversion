@@ -1,3 +1,6 @@
 - [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset
 - [20221003150306](/zet/20221003150306/README.md) modify date with touch timestomping
 - [20221003151239](/zet/20221003151239/README.md) make date wordlist for fuzzing with bash and parameter expansion
+- [20221003151319](/zet/20221003151319/README.md) get current date - linux bash scripting current year
+- [20221003151320](/zet/20221003151320/README.md) get current date - linux bash scripting current unix epoch timestamp
+- [20221003151321](/zet/20221003151321/README.md) get current date - linux bash scripting

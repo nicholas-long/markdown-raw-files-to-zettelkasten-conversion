@@ -14,4 +14,4 @@ date +%s
 
 Tags:
 
-    #get #bash #scripting
+    #bash #scripting #command #date

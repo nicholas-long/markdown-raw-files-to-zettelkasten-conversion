@@ -1,5 +1,2 @@
 - [20221003150077](/zet/20221003150077/README.md) tmux get current pane working directory
 - [20221003150078](/zet/20221003150078/README.md) tmux get current pane
-- [20221003151319](/zet/20221003151319/README.md) get current date - linux bash scripting current year
-- [20221003151320](/zet/20221003151320/README.md) get current date - linux bash scripting current unix epoch timestamp
-- [20221003151321](/zet/20221003151321/README.md) get current date - linux bash scripting

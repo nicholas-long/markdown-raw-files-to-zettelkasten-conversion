@@ -6,9 +6,6 @@
 #
 # unlabled scripts and commands and things 
 #
-- [20221003151319](/zet/20221003151319/README.md) get current date - linux bash scripting current year #get #bash #scripting
-- [20221003151320](/zet/20221003151320/README.md) get current date - linux bash scripting current unix epoch timestamp #get #bash #scripting
-- [20221003151321](/zet/20221003151321/README.md) get current date - linux bash scripting #get #bash #scripting
 - [20221003151323](/zet/20221003151323/README.md) ASCII text-based TSV / CSV file database join tables #text #bash #scripting
 - [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database #text #bash #scripting
 - [20221003151326](/zet/20221003151326/README.md) bash scripting convert text strings or wordlists to uppercase #stream #bash #scripting

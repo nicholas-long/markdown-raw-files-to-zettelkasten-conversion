@@ -35,8 +35,13 @@ ln -s zet/20221013021614/ browser
 
 - changed preview hotkeys to page up and page down to match lazygit hotkeys
 - added ability to list and edit attachments
-- added tag features: quick tag add
+- added tag features: quick tag add, del
+- added auto git add after enrich - no auto commit
 - todo
+  - record sequences of actions as scripts
+    - replay if they exist
+    - show script in preview
+    - record the actual zc commands and replace ID?
   - quick git ops - push pull commit - implement here instead of lazygit
   - toggle hide preview panel
 
