@@ -25,4 +25,4 @@ sudo apt-get install sublime-text
 
 Tags:
 
-    #bash #script 
+    #bash #script #install #program #text #editor

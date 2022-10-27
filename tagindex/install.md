@@ -7,3 +7,5 @@
 - [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies
 - [20221003151250](/zet/20221003151250/README.md) sending installs to target
 - [20221003151317](/zet/20221003151317/README.md) bash parse xml cli with xpath using xpup
+- [20221003151366](/zet/20221003151366/README.md) bash scripting install vscode
+- [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext

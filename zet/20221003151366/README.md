@@ -26,4 +26,4 @@ sudo apt install code # or code-insiders
 
 Tags:
 
-    #bash #script 
+    #bash #script #install

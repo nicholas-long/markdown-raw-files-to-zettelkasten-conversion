@@ -144,6 +144,7 @@
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221003151410](/zet/20221003151410/README.md) bash scripting get raw HTTP request data from burp saved request
 - [20221003151413](/zet/20221003151413/README.md) bash scripting colorize words from stdin with regular expressions
+- [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory
 - [20221003151422](/zet/20221003151422/README.md) bash scripting use awk to print only unique lines as a stream processor
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable

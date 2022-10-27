@@ -6,8 +6,6 @@
 #
 # unlabled scripts and commands and things 
 #
-- [20221003151366](/zet/20221003151366/README.md) bash scripting install vscode #bash #script 
-- [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext #bash #script 
 - [20221003151371](/zet/20221003151371/README.md) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date #bash #script 
 - [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker #bash #script 
 - [20221003151375](/zet/20221003151375/README.md) bash scripting run strings on memory dumps for every readable process #bash #script 
@@ -40,7 +38,6 @@
 - [20221003151418](/zet/20221003151418/README.md) bash scripting parse args with case statement #bash #script #syntax #template #arg
 - [20221003151419](/zet/20221003151419/README.md) bash scripting return the most recently updated ubuntu distro #bash #script 
 - [20221003151420](/zet/20221003151420/README.md) bash scripting remove git from directory name #bash #script 
-- [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory #bash #script #git #filepath
 - [20221003151423](/zet/20221003151423/README.md) bash scripting urlencode and base64 encode lines individually #bash #script 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts #bash #script 
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd #zettelkasten #bash #coding #program

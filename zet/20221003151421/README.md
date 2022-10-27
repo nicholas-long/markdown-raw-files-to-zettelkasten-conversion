@@ -22,4 +22,4 @@ find "$1" -name .git -type d | awk 'BEGIN {FS = OFS = "/" } { NF--;print }'
 
 Tags:
 
-    #bash #script #git #filepath
+    #bash #script #git #filepath #trick

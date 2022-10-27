@@ -3,3 +3,4 @@
 - [20221003151326](/zet/20221003151326/README.md) bash scripting convert text strings or wordlists to uppercase
 - [20221003151327](/zet/20221003151327/README.md) bash scripting convert text strings or wordlists to lowercase
 - [20221003151328](/zet/20221003151328/README.md) bash scripting convert text strings or wordlists
+- [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext

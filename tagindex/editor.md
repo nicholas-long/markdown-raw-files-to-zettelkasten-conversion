@@ -1,2 +1,3 @@
 - [20221003150067](/zet/20221003150067/README.md) vim
+- [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext
 - [20221012135301](/zet/20221012135301/README.md) emacs
