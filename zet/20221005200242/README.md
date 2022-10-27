@@ -21,7 +21,7 @@ this is a list of possibly empty zettels.
 #
 # Non-Empty
 #
-5	- [20221003151343](/zet/20221003151343/README.md) convert decimal to hex #awk-scripting #convert 
+5	- [20221003151343](/zet/20221003151343/README.md) convert decimal to hex #convert #awk #scripting
 7	- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project #zettelkasten #project 
 2	- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
 4	- [20221007062330](/zet/20221007062330/README.md) broken stuff to fix #todo #broken #error 
@@ -191,10 +191,10 @@ this is a list of possibly empty zettels.
 - [20221003151286](/zet/20221003151286/README.md) postgres #data-engineering-pipelines #postgres 
 - [20221003151288](/zet/20221003151288/README.md) jq pipe syntax #command #data-engineering-pipelines #jq 
 - [20221003151289](/zet/20221003151289/README.md) jq #command #data-engineering-pipelines #jq 
-- [20221003151299](/zet/20221003151299/README.md) bash tricks #bash-scripting #trick #tricks 
-- [20221003151309](/zet/20221003151309/README.md) expect scripts #bash-scripting #expect 
-- [20221003151318](/zet/20221003151318/README.md) bash parse xml cli #bash-scripting #xml 
-- [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database #bash-scripting #text 
+- [20221003151299](/zet/20221003151299/README.md) bash tricks #trick #tricks #bash #scripting
+- [20221003151309](/zet/20221003151309/README.md) expect scripts #expect #bash #scripting
+- [20221003151318](/zet/20221003151318/README.md) bash parse xml cli #xml #bash #scripting
+- [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database #text #bash #scripting
 - [20221003151356](/zet/20221003151356/README.md) python scripting urlencode every input line #python #script 
 - [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally #python #script 
 - [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script #python #script 

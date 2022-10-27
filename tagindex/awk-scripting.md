@@ -1,8 +1,0 @@
-- [20221003151336](/zet/20221003151336/README.md) awk scripting initialize TSV tab separated values output
-- [20221003151337](/zet/20221003151337/README.md) awk scripting initialize TSV tab separated values
-- [20221003151338](/zet/20221003151338/README.md) awk scripting
-- [20221003151342](/zet/20221003151342/README.md) convert decimal to hex GMSA managed password
-- [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
-- [20221003151344](/zet/20221003151344/README.md) awk bash scripting split into files by column value
-- [20221003151348](/zet/20221003151348/README.md) awk bash scripting move files automatically
-- [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
