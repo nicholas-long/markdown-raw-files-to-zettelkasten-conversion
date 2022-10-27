@@ -17,7 +17,7 @@ donethings=$(mktemp)
 echo "#"
 echo "# unlabled scripts and commands and things "
 echo "#"
-zet/20221023085822/walkquery --human taglist 'bash,scripting,script' \
+./graphquery --human taglist 'bash,scripting,script' \
   not <( ./graphquery taglist 'command,hub,kb_import,tip,trick,tool,repo' )
 
 echo ""
