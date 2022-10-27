@@ -7,7 +7,7 @@ export LC_COLLATE=C
 echo "#"
 echo "# things attached to command hub that are not marked as commands"
 echo "#"
-zet/20221023085822/walkquery --human <( echo $commandconcept) refs not <( ./graphquery taglist 'command,hub' )
+zet/20221023085822/walkquery --human <( echo $commandconcept) refs not <( ./graphquery taglist 'command,hub,kb_import' )
 
 echo ""
 echo "--------------------------------------------------------------------------------"
