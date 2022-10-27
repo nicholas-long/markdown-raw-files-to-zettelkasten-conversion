@@ -15,4 +15,4 @@ openssl req -in $FILE -text
 
 Tags:
 
-    
+    #command #crypto #openssl

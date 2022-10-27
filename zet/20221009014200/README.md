@@ -102,7 +102,6 @@ the concept of a `command`
 - [20221014185709](/zet/20221014185709/README.md) kb file named kb/hacking/windows/powerup-commands.md
 - [20221014185703](/zet/20221014185703/README.md) kb file named kb/hacking/windows/powerview-commands.md
 - [20221014185657](/zet/20221014185657/README.md) kb file named kb/hacking/windows/dll-to-run-commands.md
-- [20221003151443](/zet/20221003151443/README.md) kb
 - [20221003150798](/zet/20221003150798/README.md) git
 - [20221003150720](/zet/20221003150720/README.md) curl
 - [20221003150665](/zet/20221003150665/README.md) NFS commands

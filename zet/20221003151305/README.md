@@ -17,4 +17,4 @@
 
 Tags:
 
-    #bash-scripting #tool
+    #bash-scripting #tool #command

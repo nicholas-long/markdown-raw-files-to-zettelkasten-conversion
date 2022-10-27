@@ -4,6 +4,8 @@
 - "Snippets, boilerplate code templates, notes, and examples"
 - searchable markdown content i was using for a template search engine fzf alias
 - converted to this zettelkasten
+- i used scripts in my dotfiles repo to search this
+  - https://github.com/nicholas-long/pen-test-environ
 
 ```
 zet/20221014150222/list_of_kb_files
@@ -17,7 +19,6 @@ zet/20221014150222/kb_references
 - [20221016233254](/zet/20221016233254/README.md) commits for day of 2022-01-26
 - [20221017030222](/zet/20221017030222/README.md) figure out how to associate kb files that got moved
 - [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores
-- [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221014191506](/zet/20221014191506/README.md) associate kb cards with converted cards
@@ -358,7 +359,8 @@ zet/20221014150222/kb_references
 - [20221003151442](/zet/20221003151442/README.md) Box drawing ascii unicode characters
 - [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully
 - [20221024131549](/zet/20221024131549/README.md) buzzwords and acronyms hub
+- https://github.com/nicholas-long/pen-test-environ
 
 Tags:
 
-    
+    #notes #file
