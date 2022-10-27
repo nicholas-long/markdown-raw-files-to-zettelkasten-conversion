@@ -27,4 +27,4 @@ rm -rf $tf
 
 Tags:
 
-    #bash #script 
+    #bash #script #trick #useful #image #text

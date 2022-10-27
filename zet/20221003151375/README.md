@@ -43,7 +43,9 @@ rm -rf $tf
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 
 Tags:
 
-    #bash #script 
+    #bash #script #hacking

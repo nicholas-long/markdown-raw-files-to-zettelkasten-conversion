@@ -18,4 +18,4 @@ sudo docker run --rm -it -v "$(pwd):$(pwd)" -w "$(pwd)" $1
 
 Tags:
 
-    #bash #script 
+    #bash #script #trick #docker #container #file
