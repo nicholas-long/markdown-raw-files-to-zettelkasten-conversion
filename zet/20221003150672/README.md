@@ -14,4 +14,4 @@ crackmapexec smb LAB-DC -u 'guest' -p '' --rid-brute
 
 Tags:
 
-    #command #hacking #crackmapexec 
+    #command #hacking #bruteforcing

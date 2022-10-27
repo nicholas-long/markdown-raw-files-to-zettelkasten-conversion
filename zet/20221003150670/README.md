@@ -15,4 +15,4 @@ crackmapexec smb $IP -u users -p passwords
 
 Tags:
 
-    #command #hacking #crackmapexec 
+    #command #hacking #bruteforcing

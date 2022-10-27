@@ -38,4 +38,4 @@ crackmapexec smb --help
 
 Tags:
 
-    #command #hacking #crackmapexec 
+    #command #hacking #bruteforcing

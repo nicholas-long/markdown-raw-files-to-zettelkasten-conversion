@@ -13,4 +13,4 @@ crackmapexec smb $IP -u username -p password123 --shares
 
 Tags:
 
-    #command #hacking #crackmapexec 
+    #command #hacking #bruteforcing

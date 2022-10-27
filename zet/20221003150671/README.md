@@ -12,4 +12,4 @@
 
 Tags:
 
-    #command #hacking #crackmapexec 
+    #command #hacking #bruteforcing
