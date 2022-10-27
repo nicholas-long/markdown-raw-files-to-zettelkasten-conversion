@@ -1,7 +1,5 @@
-# fix problem tags in cards
+# report about fixing problem tags in cards
 
-- concept hub for `fix problem tags in cards`
-  - anything attached to it needs tags fixed.
 - report about tag issues
 
 ```

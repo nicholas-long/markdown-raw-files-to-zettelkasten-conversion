@@ -1,6 +1,7 @@
 # cleanup tags
 
 - concept of `cleanup tags`
+  - anything attached to this hub needs tags fixed
 - awk-scripting -> #awk #scripting
 - bash-scripting -> #bash #scripting
 - c -> c-language
@@ -44,4 +45,4 @@
 
 Tags:
 
-    #meta
+    #meta #hub
