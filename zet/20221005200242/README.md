@@ -95,7 +95,7 @@ this is a list of possibly empty zettels.
 - [20221003150543](/zet/20221003150543/README.md) simple binary exploits python exploit scripts #hacking #pwn #basic 
 - [20221003150545](/zet/20221003150545/README.md) simple binary exploits pattern offset finding #hacking #pwn #basic 
 - [20221003150548](/zet/20221003150548/README.md) simple binary exploits #hacking #pwn #basic 
-- [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell #command #hacking #common 
+- [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell #command #hacking
 - [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion #hacking #type 
 - [20221003150575](/zet/20221003150575/README.md) php type juggling methodology #hacking #type 
 - [20221003150576](/zet/20221003150576/README.md) php type juggling #hacking #type 

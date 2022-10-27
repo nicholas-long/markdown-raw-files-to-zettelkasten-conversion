@@ -1,3 +1,4 @@
+- [20221003150067](/zet/20221003150067/README.md) vim
 - [20221003150082](/zet/20221003150082/README.md) bash scripts sh setup aliases
 - [20221003150083](/zet/20221003150083/README.md) bash scripts sh package it all
 - [20221003150084](/zet/20221003150084/README.md) bash scripts sh oracle

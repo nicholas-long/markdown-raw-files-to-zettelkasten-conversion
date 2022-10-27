@@ -1,3 +1,4 @@
+- [20221003150067](/zet/20221003150067/README.md) vim
 - [20221003150079](/zet/20221003150079/README.md) tmux program
 - [20221003150250](/zet/20221003150250/README.md) Apache guacamole RDP VNC SSH in web browser
 - [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082

@@ -1,3 +1,4 @@
+- [20221003150067](/zet/20221003150067/README.md) vim
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
 - [20221003150119](/zet/20221003150119/README.md) routing using a linux box iptables rules forward all traffic between two interfaces
 - [20221003150120](/zet/20221003150120/README.md) routing using a linux box iptables rules

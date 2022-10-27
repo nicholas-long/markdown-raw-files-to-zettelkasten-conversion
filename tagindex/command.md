@@ -1,3 +1,4 @@
+- [20221003150129](/zet/20221003150129/README.md) tldr command
 - [20221003150134](/zet/20221003150134/README.md) DNS commands
 - [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive
 - [20221003150155](/zet/20221003150155/README.md) linux assorted commands find disk mounting for root file system
