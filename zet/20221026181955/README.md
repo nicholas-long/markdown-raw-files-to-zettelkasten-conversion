@@ -79,7 +79,7 @@
 - [20221011181920](/zet/20221011181920/README.md) working notes - foothold #notes
 
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
-- [20221003151285](/zet/20221003151285/README.md) postgres cannot find table name #data-engineering-pipelines #postgres #fix
+- [20221003151285](/zet/20221003151285/README.md) postgres cannot find table name #postgres #fix #data #pipelines
 
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page #meta

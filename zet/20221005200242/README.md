@@ -186,11 +186,11 @@ this is a list of possibly empty zettels.
 - [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux #hacking #trick #run 
 - [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory #hacking #trick #run 
 - [20221003151267](/zet/20221003151267/README.md) fzf #fzf-fuzzy-find #help 
-- [20221003151280](/zet/20221003151280/README.md) YAML parsing #data-engineering-pipelines #yaml 
-- [20221003151281](/zet/20221003151281/README.md) YAML #data-engineering-pipelines #yaml 
-- [20221003151286](/zet/20221003151286/README.md) postgres #data-engineering-pipelines #postgres 
-- [20221003151288](/zet/20221003151288/README.md) jq pipe syntax #command #data-engineering-pipelines #jq 
-- [20221003151289](/zet/20221003151289/README.md) jq #command #data-engineering-pipelines #jq 
+- [20221003151280](/zet/20221003151280/README.md) YAML parsing #yaml #data #pipelines
+- [20221003151281](/zet/20221003151281/README.md) YAML #yaml #data #pipelines
+- [20221003151286](/zet/20221003151286/README.md) postgres #postgres #data #pipelines
+- [20221003151288](/zet/20221003151288/README.md) jq pipe syntax #command #jq #data #pipelines
+- [20221003151289](/zet/20221003151289/README.md) jq #command #jq #data #pipelines
 - [20221003151299](/zet/20221003151299/README.md) bash tricks #trick #tricks #bash #scripting
 - [20221003151309](/zet/20221003151309/README.md) expect scripts #expect #bash #scripting
 - [20221003151318](/zet/20221003151318/README.md) bash parse xml cli #xml #bash #scripting
