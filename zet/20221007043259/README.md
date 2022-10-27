@@ -21,7 +21,6 @@
   - symbols - ctags
   - link to external things (i.e. vulnerable funcetions, etc.)
 - link github projects to cards that grow big?
-- combine content with best link titles for searching
 - automatically import stackoverflow answers to zettelkasten
   - find data set ?
 - mermaid diagrams
@@ -29,12 +28,14 @@
 - concept or hub card permalinks could be translated to other languages and still convey meaning
   - spoken languages
   - i.e. the hub for programs is still a list of programs if its title is changed
-- context/frame could be represented as the depth you have to traverse from any card to find a set of specific keywords ?
 - auto create cards from tmux buffers in private zk ?
   - not very safe
   - really cool
 - cards could run scripts only periodically when stuff changes in them or their links
 - fuzzy search related to using fzf as an automatic tool in scripts?
+- relating to graph theory
+  - context/frame could be represented as the depth you have to traverse from any card to find a set of specific keywords ?
+- combine content with best link titles for searching - done in graph browser
 
 ## move this stuff to cards it is growing kinda big
 
@@ -107,6 +108,7 @@
 
 # Related
 
+- [20221023084432](/zet/20221023084432/README.md) graph theory
 - [20221022232030](/zet/20221022232030/README.md) save fzf completion history for each card
 - [20221021202250](/zet/20221021202250/README.md) put all the link titles in square brackets and automatically update them
 - [20221020193850](/zet/20221020193850/README.md) what is knowledge management
@@ -175,6 +177,7 @@
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4
+- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 
 Tags:
 

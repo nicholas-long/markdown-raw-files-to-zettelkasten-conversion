@@ -2,6 +2,8 @@
 
 - added awk script `zet/20221006032546/scanrefs`
   - very fast way to detect problems and report about them
+- a lot of new scripts and queries being added... need a way to do something periodically instead of every enrich step
+  - clean up or comment out unused graph query scripts
 
 ` zet/20221007175034/README.md `
 
@@ -19,4 +21,4 @@
 
 Tags:
 
-    #zettelkasten #bash #awk
+    #zettelkasten #bash #awk #meta
