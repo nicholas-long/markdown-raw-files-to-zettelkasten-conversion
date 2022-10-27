@@ -13,7 +13,8 @@
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
+- [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
 
 Tags:
 
-    #todo
+    #todo #meta

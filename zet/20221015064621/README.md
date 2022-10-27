@@ -21,4 +21,4 @@
 
 Tags:
 
-    #idea
+    #command #terminal #linux
