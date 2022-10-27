@@ -445,7 +445,6 @@
 - [20221015020830](/zet/20221015020830/README.md) walk graph and collect keywords for context and prioritize search results based on keywords and scores
 - [20221015024136](/zet/20221015024136/README.md) cron
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
-- [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
 - [20221015173720](/zet/20221015173720/README.md) touchscreen concept
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221017033638](/zet/20221017033638/README.md) Funday Sunday: Taking down the INSANE-ranked TryHackMe's Takedown alh4zr3d
@@ -464,7 +463,6 @@
 - [20221018155432](/zet/20221018155432/README.md) cyberpunk library
 - [20221018160416](/zet/20221018160416/README.md) phishing or credential harvesting concept
 - [20221018161819](/zet/20221018161819/README.md) did i link a bunch of weird enumeration stuff together?
-- [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221018175658](/zet/20221018175658/README.md) hexadecimal hex
 - [20221018190312](/zet/20221018190312/README.md) bash scripting workflow
 - [20221018201513](/zet/20221018201513/README.md) make a script to get the context of a card - word counts

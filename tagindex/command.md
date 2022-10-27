@@ -394,4 +394,8 @@
 - [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?
 - [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
 - [20221011145143](/zet/20221011145143/README.md) bat command pretty printer
+- [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
+- [20221018050715](/zet/20221018050715/README.md) dotfiles concept
+- [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands
+- [20221020000848](/zet/20221020000848/README.md) SSH

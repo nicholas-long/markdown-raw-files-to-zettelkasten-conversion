@@ -31,7 +31,6 @@ stuff i am working on.
 - [20221020160107](/zet/20221020160107/README.md) zettels with kb script paths to fix
 - [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
 - [20221018201513](/zet/20221018201513/README.md) make a script to get the context of a card - word counts
-- [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash
 - [20221018020643](/zet/20221018020643/README.md) what is hadoop for?
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?

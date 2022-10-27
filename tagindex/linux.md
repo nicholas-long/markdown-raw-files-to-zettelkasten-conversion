@@ -95,4 +95,6 @@
 - [20221011145037](/zet/20221011145037/README.md) kali linux
 - [20221011145143](/zet/20221011145143/README.md) bat command pretty printer
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
+- [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
 - [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video
+- [20221018174628](/zet/20221018174628/README.md) tar command

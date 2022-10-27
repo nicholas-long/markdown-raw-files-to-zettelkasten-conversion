@@ -31,6 +31,7 @@
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221009015743](/zet/20221009015743/README.md) dockerfile
 - [20221009021452](/zet/20221009021452/README.md) container
+- [20221009095853](/zet/20221009095853/README.md) finished
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
@@ -46,4 +47,6 @@
 - [20221014164014](/zet/20221014164014/README.md) protocol for application communication
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221017172946](/zet/20221017172946/README.md) LAN attacks
+- [20221018050715](/zet/20221018050715/README.md) dotfiles concept
 - [20221018160416](/zet/20221018160416/README.md) phishing or credential harvesting concept
+- [20221018174628](/zet/20221018174628/README.md) tar command

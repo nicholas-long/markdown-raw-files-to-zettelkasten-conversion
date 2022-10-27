@@ -1,2 +1,3 @@
 - [20221003150192](/zet/20221003150192/README.md) convert package type with alien to deb rpm slp lsb tgz
 - [20221003150193](/zet/20221003150193/README.md) concept of converting files
+- [20221018174628](/zet/20221018174628/README.md) tar command

@@ -9,21 +9,6 @@
 # things attached to command hub that are not marked as commands
 #
 - [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities #idea
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221018050715](/zet/20221018050715/README.md) dotfiles concept #concept
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands #todo
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221018174628](/zet/20221018174628/README.md) tar command #idea
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221020000848](/zet/20221020000848/README.md) SSH #concept #ssh #program
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists #idea #zettelkasten #zet #notes #meta #todo
 
 
@@ -75,6 +60,7 @@ zet zettelkasten zsh
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 - [20221021071146](/zet/20221021071146/README.md) delete things marked as #DEL periodically
 - [20221027134758](/zet/20221027134758/README.md) tag kb imported files
+- [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
 
 Tags:
 
