@@ -4,3 +4,5 @@
 - [20221003151319](/zet/20221003151319/README.md) get current date - linux bash scripting current year
 - [20221003151320](/zet/20221003151320/README.md) get current date - linux bash scripting current unix epoch timestamp
 - [20221003151321](/zet/20221003151321/README.md) get current date - linux bash scripting
+- [20221003151371](/zet/20221003151371/README.md) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date
+- [20221003151387](/zet/20221003151387/README.md) bash scripting generate ISO format dates wordlists for the last few years

@@ -4,3 +4,4 @@
 - [20221003150795](/zet/20221003150795/README.md) generate cewl wordlist from website
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist
 - [20221003151239](/zet/20221003151239/README.md) make date wordlist for fuzzing with bash and parameter expansion
+- [20221003151387](/zet/20221003151387/README.md) bash scripting generate ISO format dates wordlists for the last few years

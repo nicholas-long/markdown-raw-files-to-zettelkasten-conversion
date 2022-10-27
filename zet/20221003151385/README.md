@@ -28,4 +28,4 @@ done
 
 Tags:
 
-    #bash #script 
+    #bash #script #syntax

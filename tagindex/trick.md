@@ -127,6 +127,7 @@
 - [20221003151367](/zet/20221003151367/README.md) bash scripting list public github repositories for user
 - [20221003151368](/zet/20221003151368/README.md) bash scripting get top N most common ports from nmap list pass argument
 - [20221003151370](/zet/20221003151370/README.md) bash scripting get library dependency versions from composer.lock json file
+- [20221003151371](/zet/20221003151371/README.md) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date
 - [20221003151372](/zet/20221003151372/README.md) bash scripting convert string to hex with no newlines
 - [20221003151373](/zet/20221003151373/README.md) bash scripting sort words by length
 - [20221003151376](/zet/20221003151376/README.md) bash scripting get argument value or default

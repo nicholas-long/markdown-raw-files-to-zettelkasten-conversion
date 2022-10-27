@@ -6,14 +6,12 @@
 #
 # unlabled scripts and commands and things 
 #
-- [20221003151371](/zet/20221003151371/README.md) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date #bash #script 
 - [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker #bash #script 
 - [20221003151375](/zet/20221003151375/README.md) bash scripting run strings on memory dumps for every readable process #bash #script 
 - [20221003151378](/zet/20221003151378/README.md) bash scripting build and run enum4linux-ng docker #bash #script 
 - [20221003151379](/zet/20221003151379/README.md) bash scripting mount host neo4j data into docker #bash #script 
-- [20221003151385](/zet/20221003151385/README.md) bash scripting loop over bash array #bash #script 
 - [20221003151386](/zet/20221003151386/README.md) bash scripting define bash array #bash #script 
-- [20221003151387](/zet/20221003151387/README.md) bash scripting generate ISO format dates wordlists for the last few years #bash #script 
+- [20221003151387](/zet/20221003151387/README.md) bash scripting generate ISO format dates wordlists for the last few years #bash #script #date #generate
 - [20221003151388](/zet/20221003151388/README.md) bash scripting search through tldr command descriptions with fzf and display file with bat #bash #script 
 - [20221003151389](/zet/20221003151389/README.md) bash scripting copy and read text from PNG image URL arg print with tesseract OCR #bash #script 
 - [20221003151390](/zet/20221003151390/README.md) bash scripting get headings from wikipedia page #bash #script 
@@ -35,7 +33,6 @@
 - [20221003151414](/zet/20221003151414/README.md) bash scripting generate common passwords #bash #script 
 - [20221003151416](/zet/20221003151416/README.md) bash scripting query nmap ports and service description definitions #bash #script 
 - [20221003151417](/zet/20221003151417/README.md) bash scripting exit if parameter is missing #bash #script 
-- [20221003151418](/zet/20221003151418/README.md) bash scripting parse args with case statement #bash #script #syntax #template #arg
 - [20221003151419](/zet/20221003151419/README.md) bash scripting return the most recently updated ubuntu distro #bash #script 
 - [20221003151420](/zet/20221003151420/README.md) bash scripting remove git from directory name #bash #script 
 - [20221003151423](/zet/20221003151423/README.md) bash scripting urlencode and base64 encode lines individually #bash #script 

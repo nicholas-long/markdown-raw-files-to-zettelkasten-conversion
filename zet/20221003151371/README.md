@@ -31,4 +31,4 @@ done
 
 Tags:
 
-    #bash #script 
+    #bash #script #date #git #trick
