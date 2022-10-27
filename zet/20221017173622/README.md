@@ -9,6 +9,7 @@
 #
 ARCHIVE
 DEL
+REDUNDANT
 active ad administration ai analysis ansible api apk apt av awk-scripting awk
 bash-scripting bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
 c-language c c2 calling capabilities cert check cleanup cms coding color command commands company concept config container convert copy crack crackmapexec creds crowbar crypto ctf curl cyberpunk
@@ -23,10 +24,10 @@ kafka kafkacat kali kerberos keytool ksql kubernetes
 lan language laptop ldap less lfi library linux list load lxd
 macro malicious markdown me meta metasploit microsoft mimikatz mobile msfvenom mysql
 naming networking nfs nim nmap notes noun
-observation openssl optimization optimiztion oracle os osint
+openssl optimization optimiztion oracle os osint
 package packet pane path pc php pivot port post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox pureftp pwn pwntools python
 question quick
-rce rdp redhat redundant reference relative remoteaccess repo repositories responder retired routing run rust
+rce rdp redhat reference relative remoteaccess repo repositories responder retired routing run rust
 scam screenshot script scripting sed service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve source speed sqli sqlmap ssh ssti stack stream streamer substitution sudoers surface
 tablet tar template templates terminal test text tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui two type
 uac udp url useful users util utilities utility
@@ -367,6 +368,7 @@ zet zettelkasten zsh
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221003150465](/zet/20221003150465/README.md) powershell PSCredential password
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
+- [20221021071146](/zet/20221021071146/README.md) delete things marked as #DEL periodically
 
 Tags:
 

@@ -224,7 +224,6 @@
 - [20221003150548](/zet/20221003150548/README.md) simple binary exploits
 - [20221003150552](/zet/20221003150552/README.md) PhpmyAdmin write shell Windows
 - [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell
-- [20221003150570](/zet/20221003150570/README.md) PHP unserialize payload gadget chains like ysoserial but for PHP
 - [20221003150571](/zet/20221003150571/README.md) PHP unserialize payload gadget chains
 - [20221003150572](/zet/20221003150572/README.md) php type juggling string and number exponent type confusion vulnerable hash prefix `0e` md5 sha1
 - [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion
