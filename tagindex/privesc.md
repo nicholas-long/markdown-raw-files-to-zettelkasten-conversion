@@ -60,6 +60,7 @@
 - [20221003150935](/zet/20221003150935/README.md) fail2ban writable conf RCE
 - [20221003150936](/zet/20221003150936/README.md) fail2ban default config location
 - [20221003150938](/zet/20221003150938/README.md) searchsploit exploitdb linux kernel exploit privesc
+- [20221003150977](/zet/20221003150977/README.md) oracle connect as sysdba enable file read privileges
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits

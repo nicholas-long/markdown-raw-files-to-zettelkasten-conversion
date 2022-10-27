@@ -1,4 +1,5 @@
 - [20221003150325](/zet/20221003150325/README.md) Microsoft Defender for Endpoint - enterprise protection
+- [20221003150978](/zet/20221003150978/README.md) oracle
 - [20221006213311](/zet/20221006213311/README.md) hackthebox
 - [20221006213649](/zet/20221006213649/README.md) offensive security
 - [20221006213821](/zet/20221006213821/README.md) tryhackme

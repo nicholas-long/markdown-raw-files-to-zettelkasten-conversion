@@ -1,3 +1,0 @@
-- [20221003150138](/zet/20221003150138/README.md) apt package nc ncat netcat
-- [20221003150139](/zet/20221003150139/README.md) apt package column
-- [20221003150140](/zet/20221003150140/README.md) apt package

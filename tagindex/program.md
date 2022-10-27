@@ -1,5 +1,7 @@
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221003150079](/zet/20221003150079/README.md) tmux program
+- [20221003150138](/zet/20221003150138/README.md) apt package nc ncat netcat
+- [20221003150140](/zet/20221003150140/README.md) apt package
 - [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
 - [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
 - [20221003150250](/zet/20221003150250/README.md) Apache guacamole RDP VNC SSH in web browser
@@ -18,6 +20,8 @@
 - [20221003150935](/zet/20221003150935/README.md) fail2ban writable conf RCE
 - [20221003150936](/zet/20221003150936/README.md) fail2ban default config location
 - [20221003150937](/zet/20221003150937/README.md) fail2ban
+- [20221003150977](/zet/20221003150977/README.md) oracle connect as sysdba enable file read privileges
+- [20221003150978](/zet/20221003150978/README.md) oracle
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221008212929](/zet/20221008212929/README.md) running process

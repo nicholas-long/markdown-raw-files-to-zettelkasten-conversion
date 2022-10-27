@@ -2,6 +2,7 @@
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
+- [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 - [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
 - [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
@@ -9,4 +10,5 @@
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
 - [20221003150457](/zet/20221003150457/README.md) GraphQLmap for GraphQL enumeration
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
+- [20221017084459](/zet/20221017084459/README.md) xpup xml parsing tool for scripting
 - [20221025045945](/zet/20221025045945/README.md) tldr pages

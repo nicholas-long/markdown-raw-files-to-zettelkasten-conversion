@@ -1,3 +1,4 @@
+- [20221003150138](/zet/20221003150138/README.md) apt package nc ncat netcat
 - [20221003150223](/zet/20221003150223/README.md) bettercap settings
 - [20221003150224](/zet/20221003150224/README.md) bettercap start commnad
 - [20221003150225](/zet/20221003150225/README.md) bettercap
@@ -603,7 +604,6 @@
 - [20221003150975](/zet/20221003150975/README.md) XXE xml external entity
 - [20221003150976](/zet/20221003150976/README.md) IDOR general steps
 - [20221003150977](/zet/20221003150977/README.md) oracle connect as sysdba enable file read privileges
-- [20221003150978](/zet/20221003150978/README.md) oracle
 - [20221003150979](/zet/20221003150979/README.md) mariadb mysql files read database users
 - [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
 - [20221003150981](/zet/20221003150981/README.md) mariadb mysql files read

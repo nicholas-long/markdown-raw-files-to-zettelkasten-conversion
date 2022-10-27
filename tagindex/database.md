@@ -10,6 +10,8 @@
 - [20221003150828](/zet/20221003150828/README.md) postgres sql enumeration list databases
 - [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list
 - [20221003150830](/zet/20221003150830/README.md) postgres sql enumeration
+- [20221003150977](/zet/20221003150977/README.md) oracle connect as sysdba enable file read privileges
+- [20221003150978](/zet/20221003150978/README.md) oracle
 - [20221003150979](/zet/20221003150979/README.md) mariadb mysql files read database users
 - [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
 - [20221003150984](/zet/20221003150984/README.md) mariadb mysql SQLi information tables

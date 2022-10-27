@@ -3,6 +3,8 @@
 - [20221003150129](/zet/20221003150129/README.md) tldr command
 - [20221003150134](/zet/20221003150134/README.md) DNS commands
 - [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive
+- [20221003150138](/zet/20221003150138/README.md) apt package nc ncat netcat
+- [20221003150139](/zet/20221003150139/README.md) apt package column
 - [20221003150155](/zet/20221003150155/README.md) linux assorted commands find disk mounting for root file system
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands
 - [20221003150175](/zet/20221003150175/README.md) unix editor ex / ed example commands
@@ -365,6 +367,7 @@
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
 - [20221003150922](/zet/20221003150922/README.md) BSD file transfers
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
+- [20221003150977](/zet/20221003150977/README.md) oracle connect as sysdba enable file read privileges
 - [20221003151090](/zet/20221003151090/README.md) powerview enumerate sensitive information disclosure on file shares
 - [20221003151091](/zet/20221003151091/README.md) powerview
 - [20221003151104](/zet/20221003151104/README.md) compile windows DLL to run commands DLL code building with mingw

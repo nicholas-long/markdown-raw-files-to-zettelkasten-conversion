@@ -8,6 +8,7 @@
 - [20221003150113](/zet/20221003150113/README.md) socat execute program
 - [20221003150114](/zet/20221003150114/README.md) socat port forwarding with socat
 - [20221003150115](/zet/20221003150115/README.md) socat
+- [20221003150138](/zet/20221003150138/README.md) apt package nc ncat netcat
 - [20221003150223](/zet/20221003150223/README.md) bettercap settings
 - [20221003150224](/zet/20221003150224/README.md) bettercap start commnad
 - [20221003150225](/zet/20221003150225/README.md) bettercap
