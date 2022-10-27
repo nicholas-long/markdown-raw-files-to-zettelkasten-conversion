@@ -8,11 +8,9 @@
 # tags
 #
 ARCHIVE
-BAR
 DEL
-FOO
-active activedirectory ad administration ai analysis ansible api apk apt av awk-scripting awk
-bash-scripting bash basic bettercap binary bloodhound boxes broken bruteforcing bsd bug buzzwords
+active ad administration ai analysis ansible api apk apt av awk-scripting awk
+bash-scripting bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
 c-language c c2 calling capabilities cert check cleanup cms coding color command commands company concept config container convert copy crack crackmapexec creds crowbar crypto ctf curl cyberpunk
 data-engineering-pipelines data database date dayinhistory debian debug debugging decrypt defense deserialization diag diagram dirty dll dns docker done dos download dpkg ds dump
 edit editor email enable encode enh enhancement enumeration error etc ex example expect exploit ext4 extract
@@ -22,7 +20,7 @@ hacking hardware hash help hibernate html.templates http hub hydra
 idea identify image impacket implementation important info initialize install instanceof iptables
 java jenkins job john jq json jwt
 kafka kafkacat kali kerberos keytool ksql kubernetes
-language laptop ldap less lfi library linux list load lxd
+lan language laptop ldap less lfi library linux list load lxd
 macro malicious markdown me meta metasploit microsoft mimikatz mobile msfvenom mysql
 naming networking nfs nim nmap notes noun
 observation openssl optimization optimiztion oracle os osint

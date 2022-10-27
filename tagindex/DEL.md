@@ -5,3 +5,5 @@
 - [20221003150382](/zet/20221003150382/README.md) threatcheck help obfuscate windows executable strings evade windows antivirus detection (defender)
 - [20221003150383](/zet/20221003150383/README.md) threatcheck help obfuscate windows executable strings
 - [20221003150570](/zet/20221003150570/README.md) PHP unserialize payload gadget chains like ysoserial but for PHP
+- [20221020230358](/zet/20221020230358/README.md) test node 1
+- [20221020230420](/zet/20221020230420/README.md) test node 2 bar

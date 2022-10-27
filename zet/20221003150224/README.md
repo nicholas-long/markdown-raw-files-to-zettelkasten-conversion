@@ -13,4 +13,4 @@ sudo bettercap -autostart events.stream,net.recon,net.sniff,net.probe,arp.spoof,
 
 Tags:
 
-    #hacking #bettercap 
+    #hacking #networking #command #lan

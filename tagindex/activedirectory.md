@@ -1,2 +1,0 @@
-- [20221003151129](/zet/20221003151129/README.md) active directory  DNS
-- [20221019150132](/zet/20221019150132/README.md) kerberos AD commands

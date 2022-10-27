@@ -19,4 +19,4 @@ any domain user can add a DNS record.
 
 Tags:
 
-    #hacking #windows #windows #hub #activedirectory #ad
+    #hacking #windows #windows #hub #ad

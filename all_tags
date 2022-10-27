@@ -1,6 +1,5 @@
 
 #active
-#activedirectory
 #ad
 #administration
 #ai
@@ -14,11 +13,9 @@
 #av
 #awk
 #awk-scripting
-#BAR
 #bash
 #bash-scripting
 #basic
-#bettercap
 #binary
 #bloodhound
 #boxes
@@ -105,7 +102,6 @@
 #find
 #finding
 #fix
-#FOO
 #force
 #format
 #free
@@ -157,6 +153,7 @@
 #keytool
 #ksql
 #kubernetes
+#lan
 #language
 #laptop
 #ldap
