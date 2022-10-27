@@ -42,6 +42,7 @@
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
 - [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present
 - [20221003150922](/zet/20221003150922/README.md) BSD file transfers
+- [20221003150932](/zet/20221003150932/README.md) lxd priv esc without painful build problems lxd priv esc x64
 - [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems
 - [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
 - [20221003150981](/zet/20221003150981/README.md) mariadb mysql files read
