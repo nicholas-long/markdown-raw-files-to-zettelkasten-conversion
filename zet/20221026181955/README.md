@@ -1,6 +1,5 @@
-# replace useless concept hubs with hashtags
+# keep track of tags attached to to-try lists
 
-- concept of `replace useless concept hubs with hashtags`
 - hubs should definitely be labeled as hubs
 - things that should be okay to be linked to to try lists
   - to-try-list other to try lists
@@ -15,16 +14,17 @@
     - tool
   - info
   - cert links coming in from certs are okay
+  - program
+  - privesc
+  - analysis
+- query should display
+  - meta
+  - fix
+  - boxes
   - streamer (fixed tags)
     - streamer
     - video
   - notes - links coming in from hacking notes template
-  - fix
-  - meta
-  - boxes
-  - program
-  - privesc
-  - analysis
 
 ```
 ```
