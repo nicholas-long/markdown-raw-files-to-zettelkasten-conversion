@@ -1,6 +1,7 @@
 # stuff to research
 
 - graph theory
+- https://www.linuxfromscratch.org/lfs/
 
 ` zet/20221009104752/README.md `
 

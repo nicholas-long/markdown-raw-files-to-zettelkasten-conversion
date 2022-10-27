@@ -59,6 +59,7 @@ zet zettelkasten zsh
 - [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
+- [20221027150053](/zet/20221027150053/README.md) cleanup tags
 
 Tags:
 
