@@ -8,21 +8,6 @@
 # things attached to command hub that are not marked as commands
 #
 - [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221003150067](/zet/20221003150067/README.md) vim #vim #program #hub #concept #editor #shell #linux
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file #bash #linux #debian #apt
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221003150175](/zet/20221003150175/README.md) unix editor ex / ed example commands #linux #ex 
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221003150184](/zet/20221003150184/README.md) add user to group #linux #users 
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt 
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
 - [20221003150210](/zet/20221003150210/README.md) kafkacat #kafka #kafkacat 
 
 - [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
