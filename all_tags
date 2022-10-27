@@ -126,6 +126,7 @@
 #info
 #initialize
 #install
+#interesting
 #iptables
 #java
 #jenkins
@@ -294,6 +295,7 @@
 #web
 #wfuzz
 #windows
+#wordlist
 #workflow
 #wpscan
 #wtf

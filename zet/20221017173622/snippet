@@ -14,11 +14,14 @@ donethings=$(mktemp)
 #  not <( ./graphquery taglist 'command,hub,kb_import' ) \
 #  not $donethings
 
+bashtricks=20221003151299
+
 echo "#"
 echo "# unlabled scripts and commands and things "
 echo "#"
-./graphquery --human taglist 'bash,scripting,script' \
-  not <( ./graphquery taglist 'command,hub,kb_import,tip,trick,tool,repo' )
+./graphquery --human taglist 'bash' \
+  or <( ./graphquery id $bashtricks refs ) \
+  not <( ./graphquery taglist 'meta,command,hub,kb_import,tip,trick,tool,repo' )
 
 echo ""
 echo "--------------------------------------------------------------------------------"

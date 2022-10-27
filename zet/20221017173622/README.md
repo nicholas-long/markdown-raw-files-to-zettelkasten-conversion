@@ -4,8 +4,115 @@
 
 ```
 #
-# things attached to command hub that are not marked as commands
+# unlabled scripts and commands and things 
 #
+- [](/zet//README.md)  
+- [20221003151293](/zet/20221003151293/README.md) debugging bash in terminal #debugging #bash #scripting
+- [20221003151294](/zet/20221003151294/README.md) debugging bash in visual studio code #debugging #bash #scripting
+- [20221003151295](/zet/20221003151295/README.md) debugging bash #debugging #bash #scripting
+- [20221003151303](/zet/20221003151303/README.md) bash scripting set operations comm find lines unique to one file and not in another #find #bash #scripting
+- [20221003151304](/zet/20221003151304/README.md) bash scripting set operations comm find common lines between two files #find #bash #scripting
+- [20221003151306](/zet/20221003151306/README.md) bash scripting set operations #find #bash #scripting
+- [20221003151307](/zet/20221003151307/README.md) expect scripts use arguments #expect #bash #scripting
+- [20221003151308](/zet/20221003151308/README.md) expect scripts record #expect #bash #scripting
+- [20221003151309](/zet/20221003151309/README.md) expect scripts #expect #bash #scripting
+- [20221003151310](/zet/20221003151310/README.md) bash scripting substitution syntax return something if another variable is set #substitution #bash #scripting
+- [20221003151311](/zet/20221003151311/README.md) bash scripting substitution syntax read variable or else exit if undefined #substitution #bash #scripting
+- [20221003151312](/zet/20221003151312/README.md) bash scripting substitution syntax return substring of name #substitution #bash #scripting
+- [20221003151313](/zet/20221003151313/README.md) bash scripting substitution syntax return variables value or default #substitution #bash #scripting
+- [20221003151314](/zet/20221003151314/README.md) bash scripting substitution syntax initialize variable with default value if empty and return it example #substitution #bash #scripting
+- [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax #substitution #bash #scripting
+- [20221003151317](/zet/20221003151317/README.md) bash parse xml cli with xpath using xpup #xml #bash #scripting
+- [20221003151318](/zet/20221003151318/README.md) bash parse xml cli #xml #bash #scripting
+- [20221003151319](/zet/20221003151319/README.md) get current date - linux bash scripting current year #get #bash #scripting
+- [20221003151320](/zet/20221003151320/README.md) get current date - linux bash scripting current unix epoch timestamp #get #bash #scripting
+- [20221003151321](/zet/20221003151321/README.md) get current date - linux bash scripting #get #bash #scripting
+- [20221003151323](/zet/20221003151323/README.md) ASCII text-based TSV / CSV file database join tables #text #bash #scripting
+- [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database #text #bash #scripting
+- [20221003151326](/zet/20221003151326/README.md) bash scripting convert text strings or wordlists to uppercase #stream #bash #scripting
+- [20221003151327](/zet/20221003151327/README.md) bash scripting convert text strings or wordlists to lowercase #stream #bash #scripting
+- [20221003151328](/zet/20221003151328/README.md) bash scripting convert text strings or wordlists #stream #bash #scripting
+- [20221003151329](/zet/20221003151329/README.md) bash scripting #stream #bash #scripting
+- [20221003151330](/zet/20221003151330/README.md) bash scripting check if a variable is empty concise #bash #scripting #var
+- [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory #file #bash #scripting
+- [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path #file #bash #scripting
+- [20221003151364](/zet/20221003151364/README.md) bash scripting get bash lines from kb snippets #bash #script 
+- [20221003151365](/zet/20221003151365/README.md) bash scripting urlencode a line of text from stdin #bash #script 
+- [20221003151366](/zet/20221003151366/README.md) bash scripting install vscode #bash #script 
+- [20221003151367](/zet/20221003151367/README.md) bash scripting list public github repositories for user #bash #script 
+- [20221003151368](/zet/20221003151368/README.md) bash scripting get top N most common ports from nmap list pass argument #bash #script 
+- [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext #bash #script 
+- [20221003151370](/zet/20221003151370/README.md) bash scripting get library dependency versions from composer.lock json file #bash #script 
+- [20221003151371](/zet/20221003151371/README.md) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date #bash #script 
+- [20221003151372](/zet/20221003151372/README.md) bash scripting convert string to hex with no newlines #bash #script 
+- [20221003151373](/zet/20221003151373/README.md) bash scripting sort words by length #bash #script 
+- [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker #bash #script 
+- [20221003151375](/zet/20221003151375/README.md) bash scripting run strings on memory dumps for every readable process #bash #script 
+- [20221003151376](/zet/20221003151376/README.md) bash scripting get argument value or default #bash #script 
+- [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files #bash #script 
+- [20221003151378](/zet/20221003151378/README.md) bash scripting build and run enum4linux-ng docker #bash #script 
+- [20221003151379](/zet/20221003151379/README.md) bash scripting mount host neo4j data into docker #bash #script 
+- [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker #bash #script 
+- [20221003151381](/zet/20221003151381/README.md) bash scripting get random hex unique ID bash #bash #script 
+- [20221003151382](/zet/20221003151382/README.md) bash scripting take only unique git hashes and do md5 hashes of those files #bash #script 
+- [20221003151383](/zet/20221003151383/README.md) bash scripting get all tags and start walking their commits #bash #script 
+- [20221003151384](/zet/20221003151384/README.md) bash scripting clone repo into temp dir #bash #script 
+- [20221003151385](/zet/20221003151385/README.md) bash scripting loop over bash array #bash #script 
+- [20221003151386](/zet/20221003151386/README.md) bash scripting define bash array #bash #script 
+- [20221003151387](/zet/20221003151387/README.md) bash scripting generate ISO format dates wordlists for the last few years #bash #script 
+- [20221003151388](/zet/20221003151388/README.md) bash scripting search through tldr command descriptions with fzf and display file with bat #bash #script 
+- [20221003151389](/zet/20221003151389/README.md) bash scripting copy and read text from PNG image URL arg print with tesseract OCR #bash #script 
+- [20221003151390](/zet/20221003151390/README.md) bash scripting get headings from wikipedia page #bash #script 
+- [20221003151391](/zet/20221003151391/README.md) bash scripting clone github repository and build docker image with its name #bash #script 
+- [20221003151392](/zet/20221003151392/README.md) bash scripting launch ubuntu build environment docker with current directory mounted as working directory #bash #script 
+- [20221003151393](/zet/20221003151393/README.md) bash scripting lookup unique hosts with shodan api #bash #script 
+- [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream #bash #script 
+- [20221003151395](/zet/20221003151395/README.md) bash scripting get the current user's github api key #bash #script 
+- [20221003151396](/zet/20221003151396/README.md) bash scripting run exiftool on all of the images within a directory #bash #script 
+- [20221003151397](/zet/20221003151397/README.md) bash scripting decorate and colorize a passwd file piped from stdin #bash #script 
+- [20221003151398](/zet/20221003151398/README.md) bash scripting build and run impacket docker #bash #script 
+- [20221003151399](/zet/20221003151399/README.md) bash scripting find alphanumeric base64 using awk script #bash #script 
+- [20221003151400](/zet/20221003151400/README.md) bash scripting update all the git repos in home directory and prompt with lazygit #bash #script 
+- [20221003151401](/zet/20221003151401/README.md) bash scripting extract zlib stream between PDF stream and endstream with quick and dirty awk #bash #script 
+- [20221003151402](/zet/20221003151402/README.md) bash scripting prepend gzip magic bytes #bash #script 
+- [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf #bash #script 
+- [20221003151404](/zet/20221003151404/README.md) bash scripting decorate XML with colors for tags, attributes, and content #bash #script 
+- [20221003151405](/zet/20221003151405/README.md) bash scripting shortcut to start tmux session in a working directory with alacritty #bash #script 
+- [20221003151406](/zet/20221003151406/README.md) bash scripting download the current CVE list get as Tab Separated Values #bash #script 
+- [20221003151407](/zet/20221003151407/README.md) bash scripting pull all the git repos in home directory #bash #script 
+- [20221003151409](/zet/20221003151409/README.md) bash scripting get the current user's github colon separated credentials #bash #script 
+- [20221003151410](/zet/20221003151410/README.md) bash scripting get raw HTTP request data from burp saved request #bash #script 
+- [20221003151411](/zet/20221003151411/README.md) bash scripting run docker image with current directory mounted as working directory #bash #script 
+- [20221003151412](/zet/20221003151412/README.md) bash scripting mount shared folders on VM #bash #script 
+- [20221003151413](/zet/20221003151413/README.md) bash scripting colorize words from stdin with regular expressions #bash #script 
+- [20221003151414](/zet/20221003151414/README.md) bash scripting generate common passwords #bash #script 
+- [20221003151415](/zet/20221003151415/README.md) bash scripting print the md5 hashes of all lines in a wordlist file #bash #script 
+- [20221003151416](/zet/20221003151416/README.md) bash scripting query nmap ports and service description definitions #bash #script 
+- [20221003151417](/zet/20221003151417/README.md) bash scripting exit if parameter is missing #bash #script 
+- [20221003151418](/zet/20221003151418/README.md) bash scripting parse args with case statement #bash #script 
+- [20221003151419](/zet/20221003151419/README.md) bash scripting return the most recently updated ubuntu distro #bash #script 
+- [20221003151420](/zet/20221003151420/README.md) bash scripting remove git from directory name #bash #script 
+- [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory #bash #script 
+- [20221003151422](/zet/20221003151422/README.md) bash scripting use awk to print only unique lines as a stream processor #bash #script 
+- [20221003151423](/zet/20221003151423/README.md) bash scripting urlencode and base64 encode lines individually #bash #script 
+- [20221003151424](/zet/20221003151424/README.md) bash scripts #bash #script 
+- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd #zettelkasten #bash #coding #program
+- [20221006033248](/zet/20221006033248/README.md) rwxrob #linux #streamer #vim #bash #zettelkasten 
+- [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames #idea #todo #bash #script 
+- [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process #bash #zettelkasten 
+- [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process #zettelkasten #bash
+- [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion #zettelkasten #bash
+- [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts #bash #awk #me
+- [20221008052510](/zet/20221008052510/README.md) 80-20 rule #bash #awk #finding #interesting
+- [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards #zettelkasten #bash #script #template #test
+- [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths #tricks #coding #awk #bash #useful
+- [20221008182309](/zet/20221008182309/README.md) learning git internals #git #bash
+- [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running #idea #bash
+- [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology #idea #stack #linux #bash
+- [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content #util #bash
+- [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash #idea #bash
+- [20221025024238](/zet/20221025024238/README.md) enumerate tags #bash #sed
+- [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation #idea #bash
 
 --------------------------------------------------------------------------------
 
@@ -21,7 +128,7 @@ edit editor email enable encode enhancement enumeration error etc ex example exp
 feature feroxbuster fidget file filehash filepath files filesystem find finding fix force format free fun fzf-fuzzy-find
 games gdb gef generate get git github go gobuster got graph grep
 hacking hardware hash help hibernate html.templates http hub hydra
-idea identify image impacket implementation important info initialize install iptables
+idea identify image impacket implementation important info initialize install interesting iptables
 java jenkins job john jq json jwt
 kafka kali kb_import kerberos keytool ksql kubernetes
 lan language laptop ldap less lfi library linux list load
@@ -35,7 +142,7 @@ scam screenshot script scripting sed service setup shell shellcode shellshock sk
 tablet tar tcp template templates terminal test text tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui two type
 uac udp url useful username users util
 valid var vbscript version video videonotes videos vim virtualbox vm
-wasm web wfuzz windows workflow wpscan wtf
+wasm web wfuzz windows wordlist workflow wpscan wtf
 xml xp xxe
 yaml
 zet zettelkasten zsh
@@ -57,7 +164,7 @@ zet zettelkasten zsh
 - [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
-- [20221027150053](/zet/20221027150053/README.md) cleanup and consolidate tags
+- [20221027150053](/zet/20221027150053/README.md) cleanup fix and consolidate tags
 
 Tags:
 

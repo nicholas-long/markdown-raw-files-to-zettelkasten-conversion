@@ -78,6 +78,7 @@
 - [20221003151233](/zet/20221003151233/README.md) mysql mariadb write UDF shell or any binary file with file permissions
 - [20221003151235](/zet/20221003151235/README.md) mysql mariadb display query output as pretty printed text with column names
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
+- [20221003151239](/zet/20221003151239/README.md) make date wordlist for fuzzing with bash and parameter expansion
 - [20221003151240](/zet/20221003151240/README.md) Using touch to make files with strange names for exploiting scripts
 - [20221003151242](/zet/20221003151242/README.md) preparing malicious package payloads node npm package malicious repository ( tcp port 4873 )
 - [20221003151243](/zet/20221003151243/README.md) preparing malicious package payloads node npm package

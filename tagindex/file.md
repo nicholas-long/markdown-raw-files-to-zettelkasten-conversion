@@ -13,6 +13,7 @@
 - [20221003151165](/zet/20221003151165/README.md) TFTP udp 69 to try list
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
+- [20221003151239](/zet/20221003151239/README.md) make date wordlist for fuzzing with bash and parameter expansion
 - [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
 - [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path
 - [20221003151335](/zet/20221003151335/README.md) bash command reference

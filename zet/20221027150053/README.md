@@ -1,4 +1,4 @@
-# cleanup and consolidate tags
+# cleanup fix and consolidate tags
 
 - concept of `cleanup tags`
   - anything attached to this hub needs tags fixed
@@ -22,6 +22,7 @@
   - remove
     - utilities
     - utility
+- [20221003151299](/zet/20221003151299/README.md) bash tricks
 
 ```
 # awk

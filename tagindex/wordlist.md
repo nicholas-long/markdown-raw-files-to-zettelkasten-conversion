@@ -1,0 +1,1 @@
+- [20221003151239](/zet/20221003151239/README.md) make date wordlist for fuzzing with bash and parameter expansion
