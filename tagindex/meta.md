@@ -13,3 +13,4 @@
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 - [20221027134758](/zet/20221027134758/README.md) tag kb imported files
+- [20221027150053](/zet/20221027150053/README.md) cleanup tags

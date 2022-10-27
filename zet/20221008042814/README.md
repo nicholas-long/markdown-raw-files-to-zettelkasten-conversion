@@ -83,6 +83,7 @@ stuff i am working on.
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
+- [20221027150053](/zet/20221027150053/README.md) cleanup tags
 
 Tags:
 
