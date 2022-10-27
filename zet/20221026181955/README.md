@@ -78,6 +78,9 @@
 - [20221003151194](/zet/20221003151194/README.md) procedure #hacking #to-try-list
 - [20221011181920](/zet/20221011181920/README.md) working notes - foothold #notes
 
+- [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem #hacking #to-try-list #file #filepath
+- [20221003151375](/zet/20221003151375/README.md) bash scripting run strings on memory dumps for every readable process #bash #script #hacking
+
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL #to-try-list #database #hacking
 - [20221003151285](/zet/20221003151285/README.md) postgres cannot find table name #postgres #fix #data #pipelines
 

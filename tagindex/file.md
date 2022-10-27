@@ -23,6 +23,7 @@
 - [20221003151376](/zet/20221003151376/README.md) bash scripting get argument value or default
 - [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files
 - [20221003151382](/zet/20221003151382/README.md) bash scripting take only unique git hashes and do md5 hashes of those files
+- [20221003151411](/zet/20221003151411/README.md) bash scripting run docker image with current directory mounted as working directory
 - [20221003151415](/zet/20221003151415/README.md) bash scripting print the md5 hashes of all lines in a wordlist file
 - [20221003151443](/zet/20221003151443/README.md) kb
 - [20221008213254](/zet/20221008213254/README.md) file path

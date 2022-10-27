@@ -847,6 +847,8 @@
 - [20221003151262](/zet/20221003151262/README.md) windows executable smartscreen protection bypass ( apt 29 )
 - [20221003151263](/zet/20221003151263/README.md) windows executable smartscreen protection
 - [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream
+- [20221003151375](/zet/20221003151375/README.md) bash scripting run strings on memory dumps for every readable process
+- [20221003151387](/zet/20221003151387/README.md) bash scripting generate ISO format dates wordlists for the last few years
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 - [20221006213311](/zet/20221006213311/README.md) hackthebox

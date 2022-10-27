@@ -39,6 +39,7 @@
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 - [20221003151153](/zet/20221003151153/README.md) windows
+- [20221003151375](/zet/20221003151375/README.md) bash scripting run strings on memory dumps for every readable process
 
 Tags:
 

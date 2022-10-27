@@ -6,6 +6,7 @@
 - [20221003151371](/zet/20221003151371/README.md) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date
 - [20221003151382](/zet/20221003151382/README.md) bash scripting take only unique git hashes and do md5 hashes of those files
 - [20221003151383](/zet/20221003151383/README.md) bash scripting get all tags and start walking their commits
+- [20221003151407](/zet/20221003151407/README.md) bash scripting pull all the git repos in home directory
 - [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github

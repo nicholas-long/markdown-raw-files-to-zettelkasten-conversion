@@ -233,6 +233,7 @@ hacking notes hub
 - [20221003151064](/zet/20221003151064/README.md) bypass UAC with administrators group
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221027164646](/zet/20221027164646/README.md) liveoverflow
+- [20221003151375](/zet/20221003151375/README.md) bash scripting run strings on memory dumps for every readable process
 
 Tags:
 

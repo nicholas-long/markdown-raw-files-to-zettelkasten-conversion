@@ -4,6 +4,7 @@
 - [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately
 - [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control
 - [20221003151271](/zet/20221003151271/README.md) docker cleanup
+- [20221003151411](/zet/20221003151411/README.md) bash scripting run docker image with current directory mounted as working directory
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221009015743](/zet/20221009015743/README.md) dockerfile

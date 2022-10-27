@@ -138,6 +138,7 @@
 - [20221003151382](/zet/20221003151382/README.md) bash scripting take only unique git hashes and do md5 hashes of those files
 - [20221003151383](/zet/20221003151383/README.md) bash scripting get all tags and start walking their commits
 - [20221003151384](/zet/20221003151384/README.md) bash scripting clone repo into temp dir
+- [20221003151389](/zet/20221003151389/README.md) bash scripting copy and read text from PNG image URL arg print with tesseract OCR
 - [20221003151391](/zet/20221003151391/README.md) bash scripting clone github repository and build docker image with its name
 - [20221003151392](/zet/20221003151392/README.md) bash scripting launch ubuntu build environment docker with current directory mounted as working directory
 - [20221003151393](/zet/20221003151393/README.md) bash scripting lookup unique hosts with shodan api
@@ -147,6 +148,7 @@
 - [20221003151404](/zet/20221003151404/README.md) bash scripting decorate XML with colors for tags, attributes, and content
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221003151410](/zet/20221003151410/README.md) bash scripting get raw HTTP request data from burp saved request
+- [20221003151411](/zet/20221003151411/README.md) bash scripting run docker image with current directory mounted as working directory
 - [20221003151413](/zet/20221003151413/README.md) bash scripting colorize words from stdin with regular expressions
 - [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory
 - [20221003151422](/zet/20221003151422/README.md) bash scripting use awk to print only unique lines as a stream processor

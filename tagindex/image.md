@@ -1,2 +1,3 @@
 - [20221003151325](/zet/20221003151325/README.md) utility to render / capture screenshot of url
+- [20221003151389](/zet/20221003151389/README.md) bash scripting copy and read text from PNG image URL arg print with tesseract OCR
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
