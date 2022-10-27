@@ -8,9 +8,6 @@
 #
 # things attached to command hub that are not marked as commands
 #
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists #idea #zettelkasten #zet #notes #meta #todo
-
 
 --------------------------------------------------------------------------------
 
