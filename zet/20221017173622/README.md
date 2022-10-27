@@ -2,6 +2,7 @@
 
 - concept hub for `fix problem tags in cards`
   - anything attached to it needs tags fixed.
+- report about tag issues
 
 ```
 #
@@ -325,4 +326,4 @@ zet zettelkasten zsh
 
 Tags:
 
-    #todo
+    #todo #meta
