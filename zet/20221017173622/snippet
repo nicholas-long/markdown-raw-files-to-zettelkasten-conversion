@@ -21,7 +21,7 @@ echo "# unlabled scripts and commands and things "
 echo "#"
 ./graphquery --human taglist 'bash' \
   or <( ./graphquery id $bashtricks refs ) \
-  not <( ./graphquery taglist 'meta,command,hub,kb_import,tip,trick,tool,repo,install,syntax' )
+  not <( ./graphquery taglist 'meta,command,hub,kb_import,tip,trick,tool,repo,install,syntax,util' )
 
 echo ""
 echo "--------------------------------------------------------------------------------"

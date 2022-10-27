@@ -7,7 +7,6 @@
 # unlabled scripts and commands and things 
 #
 - [20221003151375](/zet/20221003151375/README.md) bash scripting run strings on memory dumps for every readable process #bash #script 
-- [20221003151378](/zet/20221003151378/README.md) bash scripting build and run enum4linux-ng docker #bash #script #enumeration #util
 - [20221003151379](/zet/20221003151379/README.md) bash scripting mount host neo4j data into docker #bash #script 
 - [20221003151386](/zet/20221003151386/README.md) bash scripting define bash array #bash #script 
 - [20221003151387](/zet/20221003151387/README.md) bash scripting generate ISO format dates wordlists for the last few years #bash #script #date #generate
@@ -46,7 +45,6 @@
 - [20221008182309](/zet/20221008182309/README.md) learning git internals #git #bash
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running #idea #bash
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology #idea #stack #linux #bash
-- [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content #util #bash
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash #idea #bash
 - [20221025024238](/zet/20221025024238/README.md) enumerate tags #bash #sed
 - [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation #idea #bash
