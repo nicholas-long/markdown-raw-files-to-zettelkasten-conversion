@@ -12,7 +12,8 @@ crowbar -b rdp -n 1 -s $IP/32 -u username@DOMAIN.local -C ./passwords
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150779](/zet/20221003150779/README.md) crowbar brute force RDP
 - ~/kb/hacking/commands/crowbar.md
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 
 Tags:
 
-    #command #hacking #crowbar 
+    #command #hacking #bruteforcing

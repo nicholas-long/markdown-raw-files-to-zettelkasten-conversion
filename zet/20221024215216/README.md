@@ -32,4 +32,4 @@
 
 Tags:
 
-    #todo #enh #zettelkasten #graph
+    #todo #zettelkasten #graph #enhancement

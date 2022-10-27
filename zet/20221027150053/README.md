@@ -8,8 +8,7 @@
 - data-engineering-pipelines -> #data #pipelines
 - lxd -> container
 - active -> ad
-
-- Crowbar
+- crowbar
 - xterm
 - enh -> enhancement
 - crackmapexec -> bruteforcing if not
@@ -37,6 +36,10 @@
 # active -> ad
 ./graphquery @active not <( ./graphquery @ad ) | xargs -n 1 ./zc addtag -t ad
 ./graphquery @active | xargs -n 1 ./zc deltag -t active
+
+# crackmapexec -> bruteforcing if not
+./graphquery @crackmapexec not <( ./graphquery @bruteforcing ) | xargs -n 1 ./zc addtag -t bruteforcing
+./graphquery @crackmapexec | xargs -n 1 ./zc deltag -t crackmapexec
 
 ```
 

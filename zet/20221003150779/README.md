@@ -15,4 +15,4 @@ crowbar -b rdp -n 1 -s $IP/32 -u username -C ./passwords
 
 Tags:
 
-    #command #hacking #crowbar #command
+    #hacking #command #bruteforcing

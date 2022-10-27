@@ -15,4 +15,4 @@
 
 Tags:
 
-    #idea
+    #program #terminal #linux
