@@ -23,6 +23,7 @@
 - [20221003151439](/zet/20221003151439/README.md) awk scripting base64 encode lines individually
 - [20221003151440](/zet/20221003151440/README.md) awk scripting replace words with colorized versions
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
+- [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
 - [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
 - [20221008052510](/zet/20221008052510/README.md) 80-20 rule
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
