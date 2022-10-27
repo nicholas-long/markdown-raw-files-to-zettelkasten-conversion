@@ -79,6 +79,7 @@ show this to Hayden later when he's not busy.
 - [20221009091132](/zet/20221009091132/README.md) new links should come in at the bottom
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
+- [20221010183037](/zet/20221010183037/README.md) importing zettelkasten data
 
 Tags:
 

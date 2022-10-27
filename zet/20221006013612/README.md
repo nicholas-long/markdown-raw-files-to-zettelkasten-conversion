@@ -56,6 +56,7 @@
 - [20221012221003](/zet/20221012221003/README.md) weird related bug documents
 - [20221012213538](/zet/20221012213538/README.md) collect loose nodes and sort them out
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
+- [20221010183037](/zet/20221010183037/README.md) importing zettelkasten data
 
 Tags:
 

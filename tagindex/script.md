@@ -89,5 +89,7 @@
 - [20221003151440](/zet/20221003151440/README.md) awk scripting replace words with colorized versions
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - [20221006010531](/zet/20221006010531/README.md) sed scripts
+- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames
+- [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards

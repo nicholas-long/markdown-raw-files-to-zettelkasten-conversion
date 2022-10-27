@@ -44,7 +44,6 @@
 - [20221010164408](/zet/20221010164408/README.md) why do i have to export this line in bash or it does not work as intended
 - [20221010175613](/zet/20221010175613/README.md) midjourney AI generated art
 - [20221010182027](/zet/20221010182027/README.md) github copilot analysis
-- [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf
 - [20221011092204](/zet/20221011092204/README.md) catch up on alh4zr3d streams

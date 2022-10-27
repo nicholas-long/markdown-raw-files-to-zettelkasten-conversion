@@ -152,7 +152,7 @@ chmod +x zet/20221006054727/historyscript
 - [20221008182309](/zet/20221008182309/README.md) learning git internals
 - [20221003150798](/zet/20221003150798/README.md) git
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
-- [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
+- [20221010183037](/zet/20221010183037/README.md) importing zettelkasten data
 - [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221003151371](/zet/20221003151371/README.md) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date
 - https://github.com/nicholas-long/kb/blob/main/bash-scripting/git-file-modification-date.sh

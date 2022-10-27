@@ -2,6 +2,7 @@
 - [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
+- [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
 - [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video
 - [20221017154727](/zet/20221017154727/README.md) xterm

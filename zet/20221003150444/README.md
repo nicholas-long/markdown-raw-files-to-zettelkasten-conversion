@@ -7,7 +7,7 @@ https://github.com/carlospolop/hacktricks
 
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
 - [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
-- [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
+- [20221010183037](/zet/20221010183037/README.md) importing zettelkasten data
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221007194303](/zet/20221007194303/README.md) github

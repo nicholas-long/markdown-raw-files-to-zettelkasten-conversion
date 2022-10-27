@@ -26,6 +26,7 @@
 - [20221003151411](/zet/20221003151411/README.md) bash scripting run docker image with current directory mounted as working directory
 - [20221003151415](/zet/20221003151415/README.md) bash scripting print the md5 hashes of all lines in a wordlist file
 - [20221003151443](/zet/20221003151443/README.md) kb
+- [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
 - [20221008213254](/zet/20221008213254/README.md) file path
 - [20221008215739](/zet/20221008215739/README.md) go packages have checksums
 - [20221009015743](/zet/20221009015743/README.md) dockerfile

@@ -16,6 +16,7 @@
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
+- [20221010183037](/zet/20221010183037/README.md) importing zettelkasten data
 
 Tags:
 

@@ -52,4 +52,5 @@
 - [20221003151422](/zet/20221003151422/README.md) bash scripting use awk to print only unique lines as a stream processor
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221007023939](/zet/20221007023939/README.md) python ternary operator
+- [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221017084459](/zet/20221017084459/README.md) xpup xml parsing tool for scripting

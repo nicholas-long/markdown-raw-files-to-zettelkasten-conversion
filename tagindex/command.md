@@ -411,9 +411,11 @@
 - [20221003151368](/zet/20221003151368/README.md) bash scripting get top N most common ports from nmap list pass argument
 - [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker
 - [20221003151410](/zet/20221003151410/README.md) bash scripting get raw HTTP request data from burp saved request
+- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221007205652](/zet/20221007205652/README.md) find limit recursion depth
+- [20221008182309](/zet/20221008182309/README.md) learning git internals
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221008212929](/zet/20221008212929/README.md) running process
 - [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?

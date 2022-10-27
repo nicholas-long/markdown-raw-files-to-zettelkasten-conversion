@@ -11,6 +11,7 @@
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221006215623](/zet/20221006215623/README.md) scrambled machine video notes
 - [20221006220044](/zet/20221006220044/README.md) adding stream notes
+- [20221008182309](/zet/20221008182309/README.md) learning git internals
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video

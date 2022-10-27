@@ -32,7 +32,7 @@
 - [20221010164408](/zet/20221010164408/README.md) why do i have to export this line in bash or it does not work as intended
 - [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
 - [20221010182027](/zet/20221010182027/README.md) github copilot analysis
-- [20221010183037](/zet/20221010183037/README.md) i wonder what if let's try
+- [20221010183037](/zet/20221010183037/README.md) importing zettelkasten data
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221011090542](/zet/20221011090542/README.md) ripgrep might be useful
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
@@ -78,7 +78,6 @@
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221013214821](/zet/20221013214821/README.md) check for command injection
 - [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
-- [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221014023054](/zet/20221014023054/README.md) distinct workflow operations i do in this zettelkasten
 - [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
 - [20221014062642](/zet/20221014062642/README.md) organize OSCP related notes

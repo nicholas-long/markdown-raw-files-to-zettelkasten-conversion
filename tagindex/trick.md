@@ -155,11 +155,13 @@
 - [20221003151423](/zet/20221003151423/README.md) bash scripting urlencode and base64 encode lines individually
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
+- [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
+- [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern

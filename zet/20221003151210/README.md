@@ -134,6 +134,7 @@
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
 - [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
 - [20221003150307](/zet/20221003150307/README.md) copy docker binary to target
+- [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 
 Tags:
 

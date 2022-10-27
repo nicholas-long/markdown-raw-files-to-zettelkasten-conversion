@@ -53,4 +53,5 @@
 - [20221003151404](/zet/20221003151404/README.md) bash scripting decorate XML with colors for tags, attributes, and content
 - [20221003151413](/zet/20221003151413/README.md) bash scripting colorize words from stdin with regular expressions
 - [20221013173355](/zet/20221013173355/README.md) enumeration - the process of enumerating a target
+- [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221019151504](/zet/20221019151504/README.md) error message username enumeration
