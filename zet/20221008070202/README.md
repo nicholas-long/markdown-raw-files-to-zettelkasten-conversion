@@ -36,4 +36,4 @@ BEGIN { FS = OFS = "/" }
 
 Tags:
 
-    #tricks #coding #awk #bash #useful
+    #tricks #coding #awk #bash #useful #trick

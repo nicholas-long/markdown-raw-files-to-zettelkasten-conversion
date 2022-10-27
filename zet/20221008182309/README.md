@@ -27,4 +27,4 @@ learning git internals
 
 Tags:
 
-    #git #bash
+    #git #bash #command #notes

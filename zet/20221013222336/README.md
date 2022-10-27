@@ -19,7 +19,8 @@ TERM_PROGRAM=tmux
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - [20221003150075](/zet/20221003150075/README.md) tmux tricks
 - [20221003150079](/zet/20221003150079/README.md) tmux program
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 
 Tags:
 
-    #idea #bash
+    #bash #trick #terminal #scripting #enumeration

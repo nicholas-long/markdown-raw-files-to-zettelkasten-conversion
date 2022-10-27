@@ -17,4 +17,4 @@
 
 Tags:
 
-    #bash #awk #me #dotfiles
+    #bash #awk #me #dotfiles #script #file

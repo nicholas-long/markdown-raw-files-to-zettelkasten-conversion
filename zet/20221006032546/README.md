@@ -145,4 +145,4 @@ Options:
 
 Tags:
 
-    #zettelkasten #bash #coding #program
+    #zettelkasten #bash #coding #program #script #command
