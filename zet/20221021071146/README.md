@@ -12,6 +12,7 @@
 
 - [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
+- [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
 
 Tags:
 

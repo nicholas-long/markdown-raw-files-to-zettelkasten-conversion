@@ -6,9 +6,8 @@ https://github.com/ambionics/phpggc
 # Related
 
 - [20221014185959](/zet/20221014185959/README.md) kb file named kb/hacking/php/deserialization-attacks.md
-- [20221003150571](/zet/20221003150571/README.md) PHP unserialize payload gadget chains
 - ~/kb/hacking/php/deserialization-attacks.md
 
 Tags:
 
-    #hacking #deserialization #DEL #redundant
+    #DEL #REDUNDANT
