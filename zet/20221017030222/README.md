@@ -18,6 +18,7 @@ zet/20221014150222/kb_references
 - [20221003151443](/zet/20221003151443/README.md) kb
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
 - [20221009095853](/zet/20221009095853/README.md) finished
+- [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 
 Tags:
 

@@ -13,7 +13,8 @@
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221003150067](/zet/20221003150067/README.md) vim
+- [20221009104752](/zet/20221009104752/README.md) stuff to research
 
 Tags:
 
-    #vim
+    #vim #question #command

@@ -22,6 +22,7 @@
 - [20221008213254](/zet/20221008213254/README.md) file path
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
+- [20221009014200](/zet/20221009014200/README.md) concept of a command
 
 Tags:
 

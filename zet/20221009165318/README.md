@@ -27,4 +27,4 @@ the concept of `putting zet cmd script in dotfiles`
 
 Tags:
 
-    #todo #idea
+    #todo #idea #command #dotfiles

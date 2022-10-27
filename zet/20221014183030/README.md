@@ -390,6 +390,7 @@ NR > 1 && /^[0-9]+$/ {
 - 
 - [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents
 - [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully
+- [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 
 Tags:
 

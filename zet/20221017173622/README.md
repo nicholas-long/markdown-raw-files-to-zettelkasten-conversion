@@ -311,6 +311,7 @@ zet zettelkasten zsh
 - [20221003150465](/zet/20221003150465/README.md) powershell PSCredential password
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 - [20221021071146](/zet/20221021071146/README.md) delete things marked as #DEL periodically
+- [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 
 Tags:
 
