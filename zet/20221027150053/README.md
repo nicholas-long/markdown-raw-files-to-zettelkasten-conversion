@@ -6,6 +6,7 @@
 - c -> c-language
 - data-engineering-pipelines -> #data #pipelines
 - lxd -> container
+- active -> ad
 
 ```
 # awk
@@ -26,6 +27,10 @@
 # lxd -> container
 ./graphquery @lxd not <( ./graphquery @container ) | xargs -n 1 ./zc addtag -t container
 ./graphquery @lxd | xargs -n 1 ./zc deltag -t lxd
+
+# active -> ad
+./graphquery @active not <( ./graphquery @ad ) | xargs -n 1 ./zc addtag -t ad
+./graphquery @active | xargs -n 1 ./zc deltag -t active
 
 ```
 

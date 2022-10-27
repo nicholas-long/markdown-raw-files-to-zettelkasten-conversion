@@ -15,4 +15,4 @@ https://posts.specterops.io/certified-pre-owned-d95910965cd2
 
 Tags:
 
-    #hacking #windows #active 
+    #hacking #windows #ad
