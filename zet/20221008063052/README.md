@@ -41,6 +41,7 @@ zet/20221026181955/autoexec_enrich
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221026152737](/zet/20221026152737/README.md) template snippet cards not getting run because of parameter issues
+- [20221017173622](/zet/20221017173622/README.md) fix problem tags in cards
 
 Tags:
 

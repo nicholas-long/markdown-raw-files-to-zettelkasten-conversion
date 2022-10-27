@@ -58,6 +58,7 @@ zet zettelkasten zsh
 - [20221021071146](/zet/20221021071146/README.md) delete things marked as #DEL periodically
 - [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
+- [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 
 Tags:
 
