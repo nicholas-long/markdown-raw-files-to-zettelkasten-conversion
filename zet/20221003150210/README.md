@@ -23,4 +23,4 @@
 
 Tags:
 
-    #kafka #kafkacat 
+    #kafka #command #bash #scripting

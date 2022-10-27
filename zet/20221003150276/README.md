@@ -19,4 +19,4 @@ convert shadow file to passwd file with hashes for john
 
 Tags:
 
-    
+    #tool #fix #hash #crack #password #username #linux #command

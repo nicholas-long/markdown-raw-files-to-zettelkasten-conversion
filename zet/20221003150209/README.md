@@ -16,4 +16,4 @@ cat datafile | kafkacat -b $KAFKA -P -u -t topic_name
 
 Tags:
 
-    #kafka #kafkacat 
+    #kafka #command #bash
