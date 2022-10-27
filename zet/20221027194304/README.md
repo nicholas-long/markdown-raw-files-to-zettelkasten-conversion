@@ -1,6 +1,21 @@
 # rwxrob terminal velocity 10-27
 
 - concept of `rwxrob terminal velocity 10-27`
+- linking to zettelkasten generic ideas because i keep having zet-related ideas watching rob
+- 28 - bash script in vim to process some lines, why not awk?
+  - editing standalone script in new pane in vim
+  - panes vs. tabs
+- 5:30 book references in markdown in pandoc?
+- 6:13 combining README files for KEG nodes
+  - bulleted blocks containing nothing but markdown links
+  - looks similar to how i was recursively concatenating markdown headings for fzf search content in dotfiles
+    - bullet lists as well - i concur with this idea
+  - but what if
+  - they are
+  - a bunch of titles or bullet points
+  - on the same line
+    - with some nested content
+  - they should form a chain
 
 ```
 ```
@@ -9,8 +24,10 @@
 
 # Related
 
-- [20221006213953](/zet/20221006213953/README.md) video notes
+- https://github.com/rwxrob/book-terminal-velocity
 - https://www.twitch.tv/videos/1635743707
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+- [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
