@@ -6,6 +6,7 @@
 - [20221003151344](/zet/20221003151344/README.md) awk bash scripting split into files by column value
 - [20221003151348](/zet/20221003151348/README.md) awk bash scripting move files automatically
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
+- [20221003151422](/zet/20221003151422/README.md) bash scripting use awk to print only unique lines as a stream processor
 - [20221003151425](/zet/20221003151425/README.md) awk scripting get HTTP POST content from HTTP request stream
 - [20221003151426](/zet/20221003151426/README.md) awk scripting combine lines with all previous lines combinatorically
 - [20221003151427](/zet/20221003151427/README.md) awk scripting awk print markdown snippet text between backtick lines

@@ -48,6 +48,7 @@
 - [20221003151348](/zet/20221003151348/README.md) awk bash scripting move files automatically
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
+- [20221003151422](/zet/20221003151422/README.md) bash scripting use awk to print only unique lines as a stream processor
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221007023939](/zet/20221007023939/README.md) python ternary operator
 - [20221017084459](/zet/20221017084459/README.md) xpup xml parsing tool for scripting

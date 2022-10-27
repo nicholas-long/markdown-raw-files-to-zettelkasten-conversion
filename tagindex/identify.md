@@ -2,3 +2,4 @@
 - [20221003150242](/zet/20221003150242/README.md) identify service
 - [20221003151222](/zet/20221003151222/README.md) identify linux version from service version ubuntu
 - [20221003151223](/zet/20221003151223/README.md) identify linux version from service version
+- [20221003151381](/zet/20221003151381/README.md) bash scripting get random hex unique ID bash

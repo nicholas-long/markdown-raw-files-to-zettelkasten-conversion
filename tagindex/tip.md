@@ -11,6 +11,7 @@
 - [20221003151294](/zet/20221003151294/README.md) debugging bash in visual studio code
 - [20221003151307](/zet/20221003151307/README.md) expect scripts use arguments
 - [20221003151311](/zet/20221003151311/README.md) bash scripting substitution syntax read variable or else exit if undefined
+- [20221003151415](/zet/20221003151415/README.md) bash scripting print the md5 hashes of all lines in a wordlist file
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221008210209](/zet/20221008210209/README.md) nim makes smaller wasm binaries than rust

@@ -2,4 +2,6 @@
 - [20221003150931](/zet/20221003150931/README.md) lxd priv esc without painful build problems lxd priv esc x86
 - [20221003150932](/zet/20221003150932/README.md) lxd priv esc without painful build problems lxd priv esc x64
 - [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems
+- [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
+- [20221003151392](/zet/20221003151392/README.md) bash scripting launch ubuntu build environment docker with current directory mounted as working directory
 - [20221009021452](/zet/20221009021452/README.md) container

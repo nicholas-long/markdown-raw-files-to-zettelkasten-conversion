@@ -1,3 +1,4 @@
+- [20221003151364](/zet/20221003151364/README.md) bash scripting get bash lines from kb snippets
 - [20221011145143](/zet/20221011145143/README.md) bat command pretty printer
 - [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams

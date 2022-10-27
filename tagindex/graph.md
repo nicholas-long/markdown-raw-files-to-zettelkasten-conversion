@@ -1,2 +1,3 @@
+- [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
 - [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes
 - [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language

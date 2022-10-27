@@ -18,6 +18,7 @@ find "$1" -name .git -type d | awk 'BEGIN {FS = OFS = "/" } { NF--;print }'
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
+- [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory
 
 Tags:
 

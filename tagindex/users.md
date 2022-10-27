@@ -2,4 +2,5 @@
 - [20221003150184](/zet/20221003150184/README.md) add user to group
 - [20221003150979](/zet/20221003150979/README.md) mariadb mysql files read database users
 - [20221003151199](/zet/20221003151199/README.md) finger tcp 79
+- [20221003151367](/zet/20221003151367/README.md) bash scripting list public github repositories for user
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept

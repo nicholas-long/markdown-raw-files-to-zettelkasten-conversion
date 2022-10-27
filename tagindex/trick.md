@@ -122,7 +122,26 @@
 - [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty
 - [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
 - [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path
+- [20221003151364](/zet/20221003151364/README.md) bash scripting get bash lines from kb snippets
+- [20221003151365](/zet/20221003151365/README.md) bash scripting urlencode a line of text from stdin
+- [20221003151367](/zet/20221003151367/README.md) bash scripting list public github repositories for user
+- [20221003151370](/zet/20221003151370/README.md) bash scripting get library dependency versions from composer.lock json file
+- [20221003151372](/zet/20221003151372/README.md) bash scripting convert string to hex with no newlines
+- [20221003151373](/zet/20221003151373/README.md) bash scripting sort words by length
+- [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
+- [20221003151381](/zet/20221003151381/README.md) bash scripting get random hex unique ID bash
+- [20221003151382](/zet/20221003151382/README.md) bash scripting take only unique git hashes and do md5 hashes of those files
+- [20221003151383](/zet/20221003151383/README.md) bash scripting get all tags and start walking their commits
+- [20221003151384](/zet/20221003151384/README.md) bash scripting clone repo into temp dir
+- [20221003151392](/zet/20221003151392/README.md) bash scripting launch ubuntu build environment docker with current directory mounted as working directory
+- [20221003151393](/zet/20221003151393/README.md) bash scripting lookup unique hosts with shodan api
+- [20221003151399](/zet/20221003151399/README.md) bash scripting find alphanumeric base64 using awk script
+- [20221003151402](/zet/20221003151402/README.md) bash scripting prepend gzip magic bytes
+- [20221003151404](/zet/20221003151404/README.md) bash scripting decorate XML with colors for tags, attributes, and content
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
+- [20221003151410](/zet/20221003151410/README.md) bash scripting get raw HTTP request data from burp saved request
+- [20221003151413](/zet/20221003151413/README.md) bash scripting colorize words from stdin with regular expressions
+- [20221003151422](/zet/20221003151422/README.md) bash scripting use awk to print only unique lines as a stream processor
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes

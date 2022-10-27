@@ -1,1 +1,2 @@
+- [20221003151418](/zet/20221003151418/README.md) bash scripting parse args with case statement
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards

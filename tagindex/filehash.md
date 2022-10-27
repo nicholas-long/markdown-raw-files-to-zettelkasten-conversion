@@ -1,2 +1,3 @@
+- [20221003151415](/zet/20221003151415/README.md) bash scripting print the md5 hashes of all lines in a wordlist file
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version

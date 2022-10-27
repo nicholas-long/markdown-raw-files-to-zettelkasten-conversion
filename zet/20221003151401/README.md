@@ -28,6 +28,8 @@ cat $TF | gzip -d 2>/dev/null
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
+- [20221003151402](/zet/20221003151402/README.md) bash scripting prepend gzip magic bytes
+- [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf
 
 Tags:
 

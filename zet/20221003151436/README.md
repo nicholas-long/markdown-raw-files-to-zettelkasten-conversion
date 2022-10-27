@@ -27,6 +27,7 @@ function expand_rec(str, pos) {
 - [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - ~/kb/auto-awk.md
+- [20221003151399](/zet/20221003151399/README.md) bash scripting find alphanumeric base64 using awk script
 
 Tags:
 

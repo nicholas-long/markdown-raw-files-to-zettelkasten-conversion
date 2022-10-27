@@ -28,6 +28,7 @@ docker run --rm \
 - [20221008054623](/zet/20221008054623/README.md) neo4j
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
+- [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
 
 Tags:
 

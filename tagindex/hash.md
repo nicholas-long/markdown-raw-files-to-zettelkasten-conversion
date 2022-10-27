@@ -1,5 +1,7 @@
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
 - [20221003151167](/zet/20221003151167/README.md) got hashes
+- [20221003151382](/zet/20221003151382/README.md) bash scripting take only unique git hashes and do md5 hashes of those files
+- [20221003151415](/zet/20221003151415/README.md) bash scripting print the md5 hashes of all lines in a wordlist file
 - [20221008215139](/zet/20221008215139/README.md) hash / checksum
 - [20221008215739](/zet/20221008215739/README.md) go packages have checksums
 - [20221009015743](/zet/20221009015743/README.md) dockerfile

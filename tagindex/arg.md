@@ -1,1 +1,2 @@
 - [20221003151307](/zet/20221003151307/README.md) expect scripts use arguments
+- [20221003151418](/zet/20221003151418/README.md) bash scripting parse args with case statement

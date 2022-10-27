@@ -1,0 +1,1 @@
+- [20221003151372](/zet/20221003151372/README.md) bash scripting convert string to hex with no newlines

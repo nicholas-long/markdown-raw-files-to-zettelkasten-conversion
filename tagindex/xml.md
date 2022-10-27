@@ -1,3 +1,5 @@
 - [20221003151317](/zet/20221003151317/README.md) bash parse xml cli with xpath using xpup
 - [20221003151318](/zet/20221003151318/README.md) bash parse xml cli
+- [20221003151404](/zet/20221003151404/README.md) bash scripting decorate XML with colors for tags, attributes, and content
+- [20221003151410](/zet/20221003151410/README.md) bash scripting get raw HTTP request data from burp saved request
 - [20221017084459](/zet/20221017084459/README.md) xpup xml parsing tool for scripting

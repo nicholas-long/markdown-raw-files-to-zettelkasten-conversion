@@ -6,27 +6,16 @@
 #
 # unlabled scripts and commands and things 
 #
-- [20221003151364](/zet/20221003151364/README.md) bash scripting get bash lines from kb snippets #bash #script 
-- [20221003151365](/zet/20221003151365/README.md) bash scripting urlencode a line of text from stdin #bash #script 
 - [20221003151366](/zet/20221003151366/README.md) bash scripting install vscode #bash #script 
-- [20221003151367](/zet/20221003151367/README.md) bash scripting list public github repositories for user #bash #script 
 - [20221003151368](/zet/20221003151368/README.md) bash scripting get top N most common ports from nmap list pass argument #bash #script 
 - [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext #bash #script 
-- [20221003151370](/zet/20221003151370/README.md) bash scripting get library dependency versions from composer.lock json file #bash #script 
 - [20221003151371](/zet/20221003151371/README.md) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date #bash #script 
-- [20221003151372](/zet/20221003151372/README.md) bash scripting convert string to hex with no newlines #bash #script 
-- [20221003151373](/zet/20221003151373/README.md) bash scripting sort words by length #bash #script 
 - [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker #bash #script 
 - [20221003151375](/zet/20221003151375/README.md) bash scripting run strings on memory dumps for every readable process #bash #script 
 - [20221003151376](/zet/20221003151376/README.md) bash scripting get argument value or default #bash #script 
 - [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files #bash #script 
 - [20221003151378](/zet/20221003151378/README.md) bash scripting build and run enum4linux-ng docker #bash #script 
 - [20221003151379](/zet/20221003151379/README.md) bash scripting mount host neo4j data into docker #bash #script 
-- [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker #bash #script 
-- [20221003151381](/zet/20221003151381/README.md) bash scripting get random hex unique ID bash #bash #script 
-- [20221003151382](/zet/20221003151382/README.md) bash scripting take only unique git hashes and do md5 hashes of those files #bash #script 
-- [20221003151383](/zet/20221003151383/README.md) bash scripting get all tags and start walking their commits #bash #script 
-- [20221003151384](/zet/20221003151384/README.md) bash scripting clone repo into temp dir #bash #script 
 - [20221003151385](/zet/20221003151385/README.md) bash scripting loop over bash array #bash #script 
 - [20221003151386](/zet/20221003151386/README.md) bash scripting define bash array #bash #script 
 - [20221003151387](/zet/20221003151387/README.md) bash scripting generate ISO format dates wordlists for the last few years #bash #script 
@@ -34,36 +23,27 @@
 - [20221003151389](/zet/20221003151389/README.md) bash scripting copy and read text from PNG image URL arg print with tesseract OCR #bash #script 
 - [20221003151390](/zet/20221003151390/README.md) bash scripting get headings from wikipedia page #bash #script 
 - [20221003151391](/zet/20221003151391/README.md) bash scripting clone github repository and build docker image with its name #bash #script 
-- [20221003151392](/zet/20221003151392/README.md) bash scripting launch ubuntu build environment docker with current directory mounted as working directory #bash #script 
-- [20221003151393](/zet/20221003151393/README.md) bash scripting lookup unique hosts with shodan api #bash #script 
 - [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream #bash #script 
 - [20221003151395](/zet/20221003151395/README.md) bash scripting get the current user's github api key #bash #script 
 - [20221003151396](/zet/20221003151396/README.md) bash scripting run exiftool on all of the images within a directory #bash #script 
 - [20221003151397](/zet/20221003151397/README.md) bash scripting decorate and colorize a passwd file piped from stdin #bash #script 
 - [20221003151398](/zet/20221003151398/README.md) bash scripting build and run impacket docker #bash #script 
-- [20221003151399](/zet/20221003151399/README.md) bash scripting find alphanumeric base64 using awk script #bash #script 
 - [20221003151400](/zet/20221003151400/README.md) bash scripting update all the git repos in home directory and prompt with lazygit #bash #script 
 - [20221003151401](/zet/20221003151401/README.md) bash scripting extract zlib stream between PDF stream and endstream with quick and dirty awk #bash #script 
-- [20221003151402](/zet/20221003151402/README.md) bash scripting prepend gzip magic bytes #bash #script 
 - [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf #bash #script 
-- [20221003151404](/zet/20221003151404/README.md) bash scripting decorate XML with colors for tags, attributes, and content #bash #script 
 - [20221003151405](/zet/20221003151405/README.md) bash scripting shortcut to start tmux session in a working directory with alacritty #bash #script 
 - [20221003151406](/zet/20221003151406/README.md) bash scripting download the current CVE list get as Tab Separated Values #bash #script 
 - [20221003151407](/zet/20221003151407/README.md) bash scripting pull all the git repos in home directory #bash #script 
 - [20221003151409](/zet/20221003151409/README.md) bash scripting get the current user's github colon separated credentials #bash #script 
-- [20221003151410](/zet/20221003151410/README.md) bash scripting get raw HTTP request data from burp saved request #bash #script 
 - [20221003151411](/zet/20221003151411/README.md) bash scripting run docker image with current directory mounted as working directory #bash #script 
 - [20221003151412](/zet/20221003151412/README.md) bash scripting mount shared folders on VM #bash #script 
-- [20221003151413](/zet/20221003151413/README.md) bash scripting colorize words from stdin with regular expressions #bash #script 
 - [20221003151414](/zet/20221003151414/README.md) bash scripting generate common passwords #bash #script 
-- [20221003151415](/zet/20221003151415/README.md) bash scripting print the md5 hashes of all lines in a wordlist file #bash #script 
 - [20221003151416](/zet/20221003151416/README.md) bash scripting query nmap ports and service description definitions #bash #script 
 - [20221003151417](/zet/20221003151417/README.md) bash scripting exit if parameter is missing #bash #script 
-- [20221003151418](/zet/20221003151418/README.md) bash scripting parse args with case statement #bash #script 
+- [20221003151418](/zet/20221003151418/README.md) bash scripting parse args with case statement #bash #script #syntax #template #arg
 - [20221003151419](/zet/20221003151419/README.md) bash scripting return the most recently updated ubuntu distro #bash #script 
 - [20221003151420](/zet/20221003151420/README.md) bash scripting remove git from directory name #bash #script 
-- [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory #bash #script 
-- [20221003151422](/zet/20221003151422/README.md) bash scripting use awk to print only unique lines as a stream processor #bash #script 
+- [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory #bash #script #git #filepath
 - [20221003151423](/zet/20221003151423/README.md) bash scripting urlencode and base64 encode lines individually #bash #script 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts #bash #script 
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd #zettelkasten #bash #coding #program
@@ -91,13 +71,13 @@
 #
 ARCHIVE
 ad administration ai analysis ansible api apk apt arg automation av awk
-bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
+base64 bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
 c-language c2 calling capabilities cert cleanup cms coding command company concept config container convert copy crack creds crypto ctf curl cyberpunk
 data database date dayinhistory debian debug debugging decrypt defense deploy deserialization diag diagram dirty dll dns docker done dos dotfiles download dpkg ds dump
 edit editor email enable encode enhancement enumeration error etc ex example expect exploit extract
 feature feroxbuster fidget file filehash filepath files filesystem find finding fix force format free fun fzf-fuzzy-find
 games gdb gef generate get git github go gobuster got graph grep
-hacking hardware hash help hibernate html.templates http hub hydra
+hacking hardware hash help hex hibernate html.templates http hub hydra
 idea identify image impacket implementation important info initialize install interesting iptables
 java jenkins job john jq json jwt
 kafka kali kb_import kerberos keytool ksql kubernetes
@@ -108,7 +88,7 @@ openssl optimization optimiztion os osint
 package packet pane password path pc php pipelines pivot plugin port portable post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox pureftp pwn pwntools python
 question quick
 rce rdp redhat reference relative remoteaccess repo repositories responder retired routing run rust
-scam screenshot script scripting sed service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve source speed sqli sqlmap ssh ssti stack stream streamer sudoers surface syntax
+scam screenshot script scripting sed service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve sort source speed sqli sqlmap ssh ssti stack stream streamer sudoers surface syntax
 tablet tar tcp template templates terminal test text textprocessing tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui two type
 uac udp url useful username users util
 valid var vbscript version video videonotes videos vim virtualbox vm

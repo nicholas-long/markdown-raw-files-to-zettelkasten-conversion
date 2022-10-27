@@ -22,6 +22,7 @@ this is a list of possibly empty zettels.
 # Non-Empty
 #
 5	- [20221003151343](/zet/20221003151343/README.md) convert decimal to hex #convert #awk #scripting
+5	- [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf #bash #script 
 7	- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project #zettelkasten #project 
 2	- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
 4	- [20221007062330](/zet/20221007062330/README.md) broken stuff to fix #todo #broken #error 
@@ -198,7 +199,6 @@ this is a list of possibly empty zettels.
 - [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files #bash #script 
 - [20221003151386](/zet/20221003151386/README.md) bash scripting define bash array #bash #script 
 - [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream #bash #script 
-- [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf #bash #script 
 - [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried #awk #script 
 
 ```

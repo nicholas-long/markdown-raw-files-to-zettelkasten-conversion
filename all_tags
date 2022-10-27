@@ -13,6 +13,7 @@
 #automation
 #av
 #awk
+#base64
 #bash
 #basic
 #binary
@@ -114,6 +115,7 @@
 #hardware
 #hash
 #help
+#hex
 #hibernate
 #html.templates
 #http
@@ -239,6 +241,7 @@
 #snippets
 #snmp
 #solve
+#sort
 #source
 #speed
 #sqli

@@ -26,6 +26,7 @@
 - [20221003151214](/zet/20221003151214/README.md) got leaked files
 - ~/kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
 - [20221003151169](/zet/20221003151169/README.md) NFS to try list
+- [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf
 
 Tags:
 

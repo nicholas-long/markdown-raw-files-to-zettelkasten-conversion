@@ -20,6 +20,8 @@
 - [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
 - [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
+- [20221003151382](/zet/20221003151382/README.md) bash scripting take only unique git hashes and do md5 hashes of those files
+- [20221003151415](/zet/20221003151415/README.md) bash scripting print the md5 hashes of all lines in a wordlist file
 - [20221003151443](/zet/20221003151443/README.md) kb
 - [20221008213254](/zet/20221008213254/README.md) file path
 - [20221008215739](/zet/20221008215739/README.md) go packages have checksums

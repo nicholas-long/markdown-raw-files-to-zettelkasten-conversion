@@ -3,6 +3,9 @@
 - [20221003150162](/zet/20221003150162/README.md) git config settings
 - [20221003150797](/zet/20221003150797/README.md) git recover orphaned commits and files and restore a directory after reset
 - [20221003150798](/zet/20221003150798/README.md) git
+- [20221003151382](/zet/20221003151382/README.md) bash scripting take only unique git hashes and do md5 hashes of those files
+- [20221003151383](/zet/20221003151383/README.md) bash scripting get all tags and start walking their commits
+- [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
 - [20221007193324](/zet/20221007193324/README.md) github actions

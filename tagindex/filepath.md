@@ -3,4 +3,5 @@
 - [20221003150289](/zet/20221003150289/README.md) default webroots
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
+- [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory
 - [20221018174628](/zet/20221018174628/README.md) tar command

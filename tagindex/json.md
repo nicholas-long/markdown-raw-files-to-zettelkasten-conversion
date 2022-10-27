@@ -1,1 +1,2 @@
+- [20221003151370](/zet/20221003151370/README.md) bash scripting get library dependency versions from composer.lock json file
 - [20221019143424](/zet/20221019143424/README.md) JSON concept

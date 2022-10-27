@@ -28,7 +28,9 @@
 - [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
 - [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
 - [20221003151325](/zet/20221003151325/README.md) utility to render / capture screenshot of url
+- [20221003151365](/zet/20221003151365/README.md) bash scripting urlencode a line of text from stdin
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
+- [20221003151410](/zet/20221003151410/README.md) bash scripting get raw HTTP request data from burp saved request
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD
 - [20221008221548](/zet/20221008221548/README.md) website
 - [20221008221822](/zet/20221008221822/README.md) www - the web

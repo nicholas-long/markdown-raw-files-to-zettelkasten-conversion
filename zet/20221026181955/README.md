@@ -88,6 +88,9 @@
 - [20221011182016](/zet/20221011182016/README.md) working notes - privesc #notes
 
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
+- [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf #bash #script 
+
+- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
 - [20221006035818](/zet/20221006035818/README.md) rwxrob skilstak beginner boost videos #linux #video #notes 
 
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux #to-try-list #hacking #privesc #linux 
@@ -95,6 +98,9 @@
 
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221011182016](/zet/20221011182016/README.md) working notes - privesc #notes
+
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list #to-try-list #hacking #got 
+- [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf #bash #script 
 
 - [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo #meta

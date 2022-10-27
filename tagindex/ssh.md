@@ -8,4 +8,6 @@
 - [20221003150862](/zet/20221003150862/README.md) SSH arguments
 - [20221003151173](/zet/20221003151173/README.md) SSH old SSH exploits
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list
+- [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream
+- [20221003151393](/zet/20221003151393/README.md) bash scripting lookup unique hosts with shodan api
 - [20221020000848](/zet/20221020000848/README.md) SSH

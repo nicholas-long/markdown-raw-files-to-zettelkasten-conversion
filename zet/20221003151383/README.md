@@ -11,6 +11,7 @@
 - [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
+- [20221003151384](/zet/20221003151384/README.md) bash scripting clone repo into temp dir
 
 Tags:
 

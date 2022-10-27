@@ -53,6 +53,8 @@ rm -rf $tf
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
+- [20221003151383](/zet/20221003151383/README.md) bash scripting get all tags and start walking their commits
+- [20221003151384](/zet/20221003151384/README.md) bash scripting clone repo into temp dir
 
 Tags:
 

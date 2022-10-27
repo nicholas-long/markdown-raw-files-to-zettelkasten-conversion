@@ -408,6 +408,7 @@
 - [20221003151344](/zet/20221003151344/README.md) awk bash scripting split into files by column value
 - [20221003151348](/zet/20221003151348/README.md) awk bash scripting move files automatically
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
+- [20221003151410](/zet/20221003151410/README.md) bash scripting get raw HTTP request data from burp saved request
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221007205652](/zet/20221007205652/README.md) find limit recursion depth
