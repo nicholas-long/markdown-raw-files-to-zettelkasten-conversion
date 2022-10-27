@@ -17,4 +17,4 @@ ls | awk '{ split($0,arr,"-"); system("mv " $0 " " arr[1] ".md") }'
 
 Tags:
 
-    #command #awk-scripting #bash 
+    #command #bash #awk #scripting

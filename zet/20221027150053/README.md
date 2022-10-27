@@ -6,6 +6,9 @@
 
 ```
 ./graphquery @awk-scripting not <( ./graphquery @awk ) | xargs -n 1 ./zc addtag -t awk
+./graphquery @awk-scripting not <( ./graphquery @scripting ) | xargs -n 1 ./zc addtag -t scripting
+
+./graphquery @awk-scripting | xargs -n 1 ./zc deltag -t awk-scripting
 
 #./graphquery @awk-scripting not <( ./graphquery @scripting )
 

@@ -18,4 +18,4 @@ cat trades-june1.csv | awk -F, 'length($4) { print > $4 ".csv" }'
 
 Tags:
 
-    #command #awk-scripting #bash 
+    #command #bash #awk #scripting

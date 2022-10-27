@@ -38,4 +38,4 @@
 
 Tags:
 
-    #command #awk-scripting #bash 
+    #command #bash #awk #scripting
