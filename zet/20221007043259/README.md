@@ -34,6 +34,7 @@
   - not very safe
   - really cool
 - cards could run scripts only periodically when stuff changes in them or their links
+- fuzzy search related to using fzf as an automatic tool in scripts?
 
 ## move this stuff to cards it is growing kinda big
 
@@ -49,6 +50,7 @@
     - link to cards with scripts to add skills?
     - dockers to run common commands
   - reuse AI code completion in weird ways to help in research process
+  - awk scripts - grab actions or patterns and use as genes in evolutionary algos?
 
 ## tips
 - prompts
@@ -66,8 +68,7 @@
   - recently modified list node from github
   - figure out data engineering methodology to integrate with existing graph databases like neo4j with scripts
     - experiment with some dockers and scripts
-  - track recently modified cards in git
-    - fuzzy search "git modification"
+  - track recently modified cards in git - done
   - check formatting
     - does github care about 2 space formatting?
       - awk script to check for list item formatting = 2 spaces
@@ -94,6 +95,7 @@
   - i strongly believe links should be bidirectional
     - but maybe the link's text can be something meaningful like a type of relationship?
       - like `is-a` in OOP inheritance diagrams - img
+  - use tags for is-a
 
 - linked a lot of stuff together for brainstorming in fzf
 - the order of references should matter

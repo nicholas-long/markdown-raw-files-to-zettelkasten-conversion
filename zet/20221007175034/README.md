@@ -1,6 +1,7 @@
 # optimizations for enrichment process
 
-- added awk script
+- added awk script `zet/20221006032546/scanrefs`
+  - very fast way to detect problems and report about them
 
 ` zet/20221007175034/README.md `
 
@@ -18,4 +19,4 @@
 
 Tags:
 
-    #zettelkasten #bash
+    #zettelkasten #bash #awk
