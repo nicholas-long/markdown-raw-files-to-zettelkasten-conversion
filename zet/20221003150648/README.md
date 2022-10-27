@@ -19,6 +19,7 @@
 - [20221003150636](/zet/20221003150636/README.md) nmap run all service enumeration on a port
 - ~/kb/hacking/commands/nmap-command.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221003151368](/zet/20221003151368/README.md) bash scripting get top N most common ports from nmap list pass argument
 
 Tags:
 

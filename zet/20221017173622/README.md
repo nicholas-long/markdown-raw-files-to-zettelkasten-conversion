@@ -7,13 +7,10 @@
 # unlabled scripts and commands and things 
 #
 - [20221003151366](/zet/20221003151366/README.md) bash scripting install vscode #bash #script 
-- [20221003151368](/zet/20221003151368/README.md) bash scripting get top N most common ports from nmap list pass argument #bash #script 
 - [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext #bash #script 
 - [20221003151371](/zet/20221003151371/README.md) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date #bash #script 
 - [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker #bash #script 
 - [20221003151375](/zet/20221003151375/README.md) bash scripting run strings on memory dumps for every readable process #bash #script 
-- [20221003151376](/zet/20221003151376/README.md) bash scripting get argument value or default #bash #script 
-- [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files #bash #script 
 - [20221003151378](/zet/20221003151378/README.md) bash scripting build and run enum4linux-ng docker #bash #script 
 - [20221003151379](/zet/20221003151379/README.md) bash scripting mount host neo4j data into docker #bash #script 
 - [20221003151385](/zet/20221003151385/README.md) bash scripting loop over bash array #bash #script 

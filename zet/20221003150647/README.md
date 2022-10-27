@@ -16,6 +16,7 @@
 - [20221003150646](/zet/20221003150646/README.md) nmap flags extra fast options
 - [20221003150645](/zet/20221003150645/README.md) nmap flags increase speed
 - ~/kb/hacking/commands/nmap-command.md
+- [20221003151368](/zet/20221003151368/README.md) bash scripting get top N most common ports from nmap list pass argument
 
 Tags:
 

@@ -18,6 +18,7 @@ find . -type f -ls 2>/dev/null |\
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
+- [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files
 
 Tags:
 

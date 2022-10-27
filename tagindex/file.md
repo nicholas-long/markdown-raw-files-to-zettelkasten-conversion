@@ -20,6 +20,8 @@
 - [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
 - [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
+- [20221003151376](/zet/20221003151376/README.md) bash scripting get argument value or default
+- [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files
 - [20221003151382](/zet/20221003151382/README.md) bash scripting take only unique git hashes and do md5 hashes of those files
 - [20221003151415](/zet/20221003151415/README.md) bash scripting print the md5 hashes of all lines in a wordlist file
 - [20221003151443](/zet/20221003151443/README.md) kb

@@ -1,3 +1,4 @@
+- [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files
 - [20221003151404](/zet/20221003151404/README.md) bash scripting decorate XML with colors for tags, attributes, and content
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful

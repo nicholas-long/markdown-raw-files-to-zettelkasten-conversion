@@ -47,6 +47,7 @@
 - [20221003151344](/zet/20221003151344/README.md) awk bash scripting split into files by column value
 - [20221003151348](/zet/20221003151348/README.md) awk bash scripting move files automatically
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
+- [20221003151368](/zet/20221003151368/README.md) bash scripting get top N most common ports from nmap list pass argument
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221003151422](/zet/20221003151422/README.md) bash scripting use awk to print only unique lines as a stream processor
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable

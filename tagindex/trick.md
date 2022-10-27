@@ -125,9 +125,12 @@
 - [20221003151364](/zet/20221003151364/README.md) bash scripting get bash lines from kb snippets
 - [20221003151365](/zet/20221003151365/README.md) bash scripting urlencode a line of text from stdin
 - [20221003151367](/zet/20221003151367/README.md) bash scripting list public github repositories for user
+- [20221003151368](/zet/20221003151368/README.md) bash scripting get top N most common ports from nmap list pass argument
 - [20221003151370](/zet/20221003151370/README.md) bash scripting get library dependency versions from composer.lock json file
 - [20221003151372](/zet/20221003151372/README.md) bash scripting convert string to hex with no newlines
 - [20221003151373](/zet/20221003151373/README.md) bash scripting sort words by length
+- [20221003151376](/zet/20221003151376/README.md) bash scripting get argument value or default
+- [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files
 - [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
 - [20221003151381](/zet/20221003151381/README.md) bash scripting get random hex unique ID bash
 - [20221003151382](/zet/20221003151382/README.md) bash scripting take only unique git hashes and do md5 hashes of those files
