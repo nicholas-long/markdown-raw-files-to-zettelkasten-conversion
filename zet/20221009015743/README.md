@@ -66,4 +66,4 @@ ENTRYPOINT [ "pyrit" ]
 
 Tags:
 
-    #docker #file #commands #hash #concept #hub
+    #docker #file #hash #concept #hub #command
