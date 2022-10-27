@@ -6,9 +6,6 @@
 #
 # unlabled scripts and commands and things 
 #
-- [20221003151293](/zet/20221003151293/README.md) debugging bash in terminal #debugging #bash #scripting
-- [20221003151294](/zet/20221003151294/README.md) debugging bash in visual studio code #debugging #bash #scripting
-- [20221003151295](/zet/20221003151295/README.md) debugging bash #debugging #bash #scripting
 - [20221003151303](/zet/20221003151303/README.md) bash scripting set operations comm find lines unique to one file and not in another #find #bash #scripting
 - [20221003151304](/zet/20221003151304/README.md) bash scripting set operations comm find common lines between two files #find #bash #scripting
 - [20221003151306](/zet/20221003151306/README.md) bash scripting set operations #find #bash #scripting
@@ -134,7 +131,7 @@ lan language laptop ldap less lfi library linux list load
 macro malicious markdown me meta metasploit microsoft mimikatz mobile msfvenom mysql
 naming networking nfs nim nmap notes noun
 openssl optimization optimiztion os osint
-package packet pane password path pc php pipelines pivot port portable post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox pureftp pwn pwntools python
+package packet pane password path pc php pipelines pivot plugin port portable post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox pureftp pwn pwntools python
 question quick
 rce rdp redhat reference relative remoteaccess repo repositories responder retired routing run rust
 scam screenshot script scripting sed service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve source speed sqli sqlmap ssh ssti stack stream streamer substitution sudoers surface

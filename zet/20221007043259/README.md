@@ -33,6 +33,7 @@
 - auto create cards from tmux buffers in private zk ?
   - not very safe
   - really cool
+- cards could run scripts only periodically when stuff changes in them or their links
 
 ## move this stuff to cards it is growing kinda big
 

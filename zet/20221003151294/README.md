@@ -1,4 +1,5 @@
 # debugging bash in visual studio code
+
 bashdb
 
 ` zet/20221003151294/README.md `
@@ -12,4 +13,4 @@ bashdb
 
 Tags:
 
-    #debugging #bash #scripting
+    #debugging #bash #scripting #tip #plugin

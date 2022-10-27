@@ -7,6 +7,8 @@
 - [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup
 - [20221003151053](/zet/20221003151053/README.md) lsass process contains credentials
 - [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
+- [20221003151293](/zet/20221003151293/README.md) debugging bash in terminal
+- [20221003151294](/zet/20221003151294/README.md) debugging bash in visual studio code
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221008210209](/zet/20221008210209/README.md) nim makes smaller wasm binaries than rust

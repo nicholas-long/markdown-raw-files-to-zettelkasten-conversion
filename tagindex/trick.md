@@ -100,6 +100,8 @@
 - [20221003151259](/zet/20221003151259/README.md) stabilize shell with script command
 - [20221003151262](/zet/20221003151262/README.md) windows executable smartscreen protection bypass ( apt 29 )
 - [20221003151263](/zet/20221003151263/README.md) windows executable smartscreen protection
+- [20221003151293](/zet/20221003151293/README.md) debugging bash in terminal
+- [20221003151295](/zet/20221003151295/README.md) debugging bash
 - [20221003151296](/zet/20221003151296/README.md) bash tricks check if current directory is writable
 - [20221003151297](/zet/20221003151297/README.md) bash tricks run a command / program in a pty to get color output shodan host
 - [20221003151298](/zet/20221003151298/README.md) bash tricks run a command / program in a pty to get color output
