@@ -6,21 +6,18 @@
 #
 # unlabled scripts and commands and things 
 #
-- [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker #bash #script 
 - [20221003151375](/zet/20221003151375/README.md) bash scripting run strings on memory dumps for every readable process #bash #script 
-- [20221003151378](/zet/20221003151378/README.md) bash scripting build and run enum4linux-ng docker #bash #script 
+- [20221003151378](/zet/20221003151378/README.md) bash scripting build and run enum4linux-ng docker #bash #script #enumeration #util
 - [20221003151379](/zet/20221003151379/README.md) bash scripting mount host neo4j data into docker #bash #script 
 - [20221003151386](/zet/20221003151386/README.md) bash scripting define bash array #bash #script 
 - [20221003151387](/zet/20221003151387/README.md) bash scripting generate ISO format dates wordlists for the last few years #bash #script #date #generate
 - [20221003151388](/zet/20221003151388/README.md) bash scripting search through tldr command descriptions with fzf and display file with bat #bash #script 
 - [20221003151389](/zet/20221003151389/README.md) bash scripting copy and read text from PNG image URL arg print with tesseract OCR #bash #script 
 - [20221003151390](/zet/20221003151390/README.md) bash scripting get headings from wikipedia page #bash #script 
-- [20221003151391](/zet/20221003151391/README.md) bash scripting clone github repository and build docker image with its name #bash #script 
 - [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream #bash #script 
 - [20221003151395](/zet/20221003151395/README.md) bash scripting get the current user's github api key #bash #script 
 - [20221003151396](/zet/20221003151396/README.md) bash scripting run exiftool on all of the images within a directory #bash #script 
 - [20221003151397](/zet/20221003151397/README.md) bash scripting decorate and colorize a passwd file piped from stdin #bash #script 
-- [20221003151398](/zet/20221003151398/README.md) bash scripting build and run impacket docker #bash #script 
 - [20221003151400](/zet/20221003151400/README.md) bash scripting update all the git repos in home directory and prompt with lazygit #bash #script 
 - [20221003151401](/zet/20221003151401/README.md) bash scripting extract zlib stream between PDF stream and endstream with quick and dirty awk #bash #script 
 - [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf #bash #script 
@@ -35,7 +32,6 @@
 - [20221003151417](/zet/20221003151417/README.md) bash scripting exit if parameter is missing #bash #script 
 - [20221003151419](/zet/20221003151419/README.md) bash scripting return the most recently updated ubuntu distro #bash #script 
 - [20221003151420](/zet/20221003151420/README.md) bash scripting remove git from directory name #bash #script 
-- [20221003151423](/zet/20221003151423/README.md) bash scripting urlencode and base64 encode lines individually #bash #script 
 - [20221003151424](/zet/20221003151424/README.md) bash scripts #bash #script 
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd #zettelkasten #bash #coding #program
 - [20221006033248](/zet/20221006033248/README.md) rwxrob #linux #streamer #vim #bash #zettelkasten 

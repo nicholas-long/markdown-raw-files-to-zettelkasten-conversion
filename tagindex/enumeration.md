@@ -49,6 +49,7 @@
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
 - [20221003151368](/zet/20221003151368/README.md) bash scripting get top N most common ports from nmap list pass argument
 - [20221003151370](/zet/20221003151370/README.md) bash scripting get library dependency versions from composer.lock json file
+- [20221003151378](/zet/20221003151378/README.md) bash scripting build and run enum4linux-ng docker
 - [20221003151404](/zet/20221003151404/README.md) bash scripting decorate XML with colors for tags, attributes, and content
 - [20221003151413](/zet/20221003151413/README.md) bash scripting colorize words from stdin with regular expressions
 - [20221013173355](/zet/20221013173355/README.md) enumeration - the process of enumerating a target

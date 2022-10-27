@@ -20,6 +20,7 @@ source ~/kb/docker/build-github-repo-docker-image.sh
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
 - [20221003150786](/zet/20221003150786/README.md) enum4linux
+- [20221003151391](/zet/20221003151391/README.md) bash scripting clone github repository and build docker image with its name
 
 Tags:
 

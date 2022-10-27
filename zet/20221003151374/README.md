@@ -25,6 +25,7 @@ source ~/kb/docker/build-github-repo-docker-image.sh
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
+- [20221003151391](/zet/20221003151391/README.md) bash scripting clone github repository and build docker image with its name
 
 Tags:
 

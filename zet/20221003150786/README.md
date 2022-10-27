@@ -22,6 +22,7 @@ enum4linux -A $IP
 - [20221013173355](/zet/20221013173355/README.md) enumeration - the process of enumerating a target
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - ~/kb/hacking/commands/enum4linux-command.md
+- [20221003151378](/zet/20221003151378/README.md) bash scripting build and run enum4linux-ng docker
 
 Tags:
 

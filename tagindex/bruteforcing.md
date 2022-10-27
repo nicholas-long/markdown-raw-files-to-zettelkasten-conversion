@@ -13,3 +13,4 @@
 - [20221003150780](/zet/20221003150780/README.md) crowbar
 - [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force
 - [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack
+- [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker

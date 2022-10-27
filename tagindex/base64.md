@@ -1,1 +1,2 @@
 - [20221003151399](/zet/20221003151399/README.md) bash scripting find alphanumeric base64 using awk script
+- [20221003151423](/zet/20221003151423/README.md) bash scripting urlencode and base64 encode lines individually

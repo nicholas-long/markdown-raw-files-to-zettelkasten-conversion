@@ -35,6 +35,7 @@ crackmapexec smb --help
 - [20221003150668](/zet/20221003150668/README.md) crackmapexec cme commands enumerate shares accessable by user
 - [20221003150667](/zet/20221003150667/README.md) crackmapexec cme commands enumerate acccess to files as json report
 - ~/kb/hacking/commands/crackmapexec-commands.md
+- [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker
 
 Tags:
 

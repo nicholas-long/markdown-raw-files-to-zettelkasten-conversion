@@ -130,6 +130,7 @@
 - [20221003151371](/zet/20221003151371/README.md) bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date
 - [20221003151372](/zet/20221003151372/README.md) bash scripting convert string to hex with no newlines
 - [20221003151373](/zet/20221003151373/README.md) bash scripting sort words by length
+- [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker
 - [20221003151376](/zet/20221003151376/README.md) bash scripting get argument value or default
 - [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files
 - [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
@@ -137,8 +138,10 @@
 - [20221003151382](/zet/20221003151382/README.md) bash scripting take only unique git hashes and do md5 hashes of those files
 - [20221003151383](/zet/20221003151383/README.md) bash scripting get all tags and start walking their commits
 - [20221003151384](/zet/20221003151384/README.md) bash scripting clone repo into temp dir
+- [20221003151391](/zet/20221003151391/README.md) bash scripting clone github repository and build docker image with its name
 - [20221003151392](/zet/20221003151392/README.md) bash scripting launch ubuntu build environment docker with current directory mounted as working directory
 - [20221003151393](/zet/20221003151393/README.md) bash scripting lookup unique hosts with shodan api
+- [20221003151398](/zet/20221003151398/README.md) bash scripting build and run impacket docker
 - [20221003151399](/zet/20221003151399/README.md) bash scripting find alphanumeric base64 using awk script
 - [20221003151402](/zet/20221003151402/README.md) bash scripting prepend gzip magic bytes
 - [20221003151404](/zet/20221003151404/README.md) bash scripting decorate XML with colors for tags, attributes, and content
@@ -147,6 +150,7 @@
 - [20221003151413](/zet/20221003151413/README.md) bash scripting colorize words from stdin with regular expressions
 - [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory
 - [20221003151422](/zet/20221003151422/README.md) bash scripting use awk to print only unique lines as a stream processor
+- [20221003151423](/zet/20221003151423/README.md) bash scripting urlencode and base64 encode lines individually
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
