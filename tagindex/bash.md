@@ -86,3 +86,4 @@
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221025024238](/zet/20221025024238/README.md) enumerate tags
+- [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
