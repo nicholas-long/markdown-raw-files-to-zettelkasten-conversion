@@ -13,7 +13,8 @@
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
+- [20221018050715](/zet/20221018050715/README.md) dotfiles concept
 
 Tags:
 
-    #bash #awk #me
+    #bash #awk #me #dotfiles

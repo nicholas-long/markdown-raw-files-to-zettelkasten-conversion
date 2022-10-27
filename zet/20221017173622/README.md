@@ -11,7 +11,7 @@
 - [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process #bash #zettelkasten 
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process #zettelkasten #bash
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion #zettelkasten #bash
-- [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts #bash #awk #me
+- [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts #bash #awk #me #dotfiles
 - [20221008052510](/zet/20221008052510/README.md) 80-20 rule #bash #awk #finding #interesting
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths #tricks #coding #awk #bash #useful
 - [20221008182309](/zet/20221008182309/README.md) learning git internals #git #bash
