@@ -113,7 +113,8 @@ done
 if [ $human == 0 ]; then
   cat $buf
 else # print readable table with titles
-  awk '{
+  awk '
+  /^[0-9]+$/ {
     id = $0
     command = "head -n 1 zet/" id "/README.md"
     command | getline header
