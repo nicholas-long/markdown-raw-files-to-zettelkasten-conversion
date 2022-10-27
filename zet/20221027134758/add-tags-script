@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for id in $(awk '{print $1}' zet/20221014183030/kbnodes); do
+  if [ ! -z "$id" ]; then
+    echo "tagging $id"
+    ./zc addtag -t kb_import $id
+  fi
+done

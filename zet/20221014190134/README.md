@@ -25,4 +25,4 @@ tar -czvf bettercap-pkg.tar *.deb
 
 Tags:
 
-    #idea
+    #idea #kb_import

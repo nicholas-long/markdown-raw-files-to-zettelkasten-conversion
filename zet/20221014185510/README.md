@@ -32,4 +32,4 @@
 
 Tags:
 
-    #file
+    #file #kb_import

@@ -16,4 +16,4 @@
 
 Tags:
 
-    #notes
+    #notes #kb_import

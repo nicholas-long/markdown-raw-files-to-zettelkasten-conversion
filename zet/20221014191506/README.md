@@ -39,7 +39,6 @@ awk '
 - [20221003151443](/zet/20221003151443/README.md) kb
 - [20221014150222](/zet/20221014150222/README.md) list of all kb files and references in imported documents
 - [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully
-- [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 
 Tags:
 
