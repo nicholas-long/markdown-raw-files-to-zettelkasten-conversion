@@ -9,18 +9,6 @@
 # things attached to command hub that are not marked as commands
 #
 - [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful #useful #fix
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights? #vim
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221009015743](/zet/20221009015743/README.md) dockerfile #docker #file #commands #hash
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles #todo #idea
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
 - [20221014185657](/zet/20221014185657/README.md) kb file named kb/hacking/windows/dll-to-run-commands.md #idea
 
 - [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
@@ -252,6 +240,9 @@
 - [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities #idea
 
 - [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
+- [20221018050715](/zet/20221018050715/README.md) dotfiles concept #concept
+
+- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands #todo
 
 - [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
@@ -273,7 +264,7 @@ ARCHIVE
 active ad administration ai analysis ansible api apk apt av awk-scripting awk
 bash-scripting bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
 c-language c c2 calling capabilities cert check cleanup cms coding color command commands company concept config container convert copy crack crackmapexec creds crowbar crypto ctf curl cyberpunk
-data-engineering-pipelines data database date dayinhistory debian debug debugging decrypt defense deserialization diag diagram dirty dll dns docker done dos download dpkg ds dump
+data-engineering-pipelines data database date dayinhistory debian debug debugging decrypt defense deserialization diag diagram dirty dll dns docker done dos dotfiles download dpkg ds dump
 edit editor email enable encode enh enhancement enumeration error etc ex example expect exploit ext4 extract
 fail2ban feature feroxbuster fidget file filehash filepath files find finding fix force format free fun fzf-fuzzy-find
 games gdb gef generate get git github go gobuster got graph grep

@@ -129,6 +129,7 @@ the concept of a `command`
 - [20221003150129](/zet/20221003150129/README.md) tldr command
 - [20221003150184](/zet/20221003150184/README.md) add user to group
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
+- [20221018050715](/zet/20221018050715/README.md) dotfiles concept
 
 Tags:
 

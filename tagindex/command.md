@@ -391,5 +391,7 @@
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221007205652](/zet/20221007205652/README.md) find limit recursion depth
 - [20221008212802](/zet/20221008212802/README.md) software program
+- [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?
+- [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
 - [20221011145143](/zet/20221011145143/README.md) bat command pretty printer
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands

@@ -1,3 +1,4 @@
+- [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights?
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
 - [20221011085218](/zet/20221011085218/README.md) how to show hidden . files in fzf

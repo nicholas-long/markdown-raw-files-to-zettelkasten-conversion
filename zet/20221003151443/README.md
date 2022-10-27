@@ -360,6 +360,7 @@ zet/20221014150222/kb_references
 - [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully
 - [20221024131549](/zet/20221024131549/README.md) buzzwords and acronyms hub
 - https://github.com/nicholas-long/pen-test-environ
+- [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 
 Tags:
 
