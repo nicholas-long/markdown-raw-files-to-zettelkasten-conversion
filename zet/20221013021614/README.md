@@ -42,6 +42,7 @@ ln -s zet/20221013021614/ browser
     - replay if they exist
     - show script in preview
     - record the actual zc commands and replace ID?
+  - select N options if tmux and open tabs if more than one goto?
   - quick git ops - push pull commit - implement here instead of lazygit
   - toggle hide preview panel
 

@@ -196,7 +196,6 @@ this is a list of possibly empty zettels.
 - [20221003151356](/zet/20221003151356/README.md) python scripting urlencode every input line #python #script 
 - [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally #python #script 
 - [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script #python #script 
-- [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files #bash #script 
 - [20221003151386](/zet/20221003151386/README.md) bash scripting define bash array #bash #script 
 - [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream #bash #script 
 - [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried #awk #script 
@@ -216,7 +215,6 @@ this is a list of possibly empty zettels.
 - [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf
 - [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream
 - [20221003151386](/zet/20221003151386/README.md) bash scripting define bash array
-- [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files
 - [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script
 - [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally
 - [20221003151356](/zet/20221003151356/README.md) python scripting urlencode every input line

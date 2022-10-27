@@ -21,4 +21,4 @@ find . -type f -ls 2>/dev/null |\
 
 Tags:
 
-    #bash #script 
+    #bash #script #file #syntax #trick

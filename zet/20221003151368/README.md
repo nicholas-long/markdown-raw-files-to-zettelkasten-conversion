@@ -34,7 +34,10 @@ $2 { # print range
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
+- [20221003150642](/zet/20221003150642/README.md) nmap common ports command
+- [20221003150647](/zet/20221003150647/README.md) nmap flags
+- [20221003150648](/zet/20221003150648/README.md) nmap
 
 Tags:
 
-    #bash #script 
+    #bash #script #trick #enumeration #command #scripting #tcp #data
