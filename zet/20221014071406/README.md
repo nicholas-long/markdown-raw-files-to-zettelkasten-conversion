@@ -2,7 +2,7 @@
 
 - concept of `using tools together in strange / convenient ways - examples`
 
-- liveoverflow youtube link about weird machines
+- liveoverflow youtube link about weird machines https://www.youtube.com/watch?v=8Dcj19KGKWM "Introducing Weird Machines: ROP Differently Explaining part 1 - bin 0x29"
 - git = good CMS with version control, similar to how a jekyll blog works
   - commits = automatically writing a changelog?
 - zettelkasten
@@ -25,6 +25,7 @@
 
 # Related
 
+- https://www.youtube.com/watch?v=8Dcj19KGKWM "Introducing Weird Machines: ROP Differently Explaining part 1 - bin 0x29"
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
 - [20221014074852](/zet/20221014074852/README.md) "Keep It Simple Stupid" principle of engineering and design
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
@@ -46,6 +47,7 @@
 - [20221003150079](/zet/20221003150079/README.md) tmux program
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
+- [20221027164646](/zet/20221027164646/README.md) liveoverflow
 
 Tags:
 
