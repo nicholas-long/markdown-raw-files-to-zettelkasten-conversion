@@ -1,5 +1,7 @@
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221003150079](/zet/20221003150079/README.md) tmux program
+- [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
+- [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
 - [20221003150250](/zet/20221003150250/README.md) Apache guacamole RDP VNC SSH in web browser
 - [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082
 - [20221003150259](/zet/20221003150259/README.md) firefox
@@ -12,6 +14,7 @@
 - [20221003150322](/zet/20221003150322/README.md) cyber reason
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150462](/zet/20221003150462/README.md) tomcat
+- [20221003150780](/zet/20221003150780/README.md) crowbar
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221008212929](/zet/20221008212929/README.md) running process
@@ -26,4 +29,5 @@
 - [20221015005535](/zet/20221015005535/README.md) werkzeug
 - [20221015173433](/zet/20221015173433/README.md) gnome window manager
 - [20221017070405](/zet/20221017070405/README.md) docker compose
+- [20221017154727](/zet/20221017154727/README.md) xterm
 - [20221020000848](/zet/20221020000848/README.md) SSH

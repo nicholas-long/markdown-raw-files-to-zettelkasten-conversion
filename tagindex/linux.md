@@ -97,4 +97,5 @@
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
 - [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video
+- [20221017154727](/zet/20221017154727/README.md) xterm
 - [20221018174628](/zet/20221018174628/README.md) tar command

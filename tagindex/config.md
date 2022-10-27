@@ -1,2 +1,4 @@
+- [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
+- [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
 - [20221003150223](/zet/20221003150223/README.md) bettercap settings
 - [20221003150313](/zet/20221003150313/README.md) default http config locations FreeBSD

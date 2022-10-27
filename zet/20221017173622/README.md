@@ -15,9 +15,9 @@
 ARCHIVE
 ad administration ai analysis ansible api apk apt av awk
 bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
-c-language c2 calling capabilities cert check cleanup cms coding color command company concept config container convert copy crack crackmapexec creds crowbar crypto ctf curl cyberpunk
+c-language c2 calling capabilities cert check cleanup cms coding color command company concept config container convert copy crack creds crypto ctf curl cyberpunk
 data database date dayinhistory debian debug debugging decrypt defense deserialization diag diagram dirty dll dns docker done dos dotfiles download dpkg ds dump
-edit editor email enable encode enh enhancement enumeration error etc ex example expect exploit ext4 extract
+edit editor email enable encode enhancement enumeration error etc ex example expect exploit ext4 extract
 fail2ban feature feroxbuster fidget file filehash filepath files find finding fix force format free fun fzf-fuzzy-find
 games gdb gef generate get git github go gobuster got graph grep
 hacking hardware hash help hibernate html.templates http hub hydra
@@ -36,7 +36,7 @@ tablet tar template templates terminal test text tftp tip tips tldr tmux to-try-
 uac udp url useful username users util utilities utility
 valid vbscript version video videonotes videos vim virtualbox vm
 wasm web wfuzz windows workflow wpscan wtf
-xml xp xterm xxe
+xml xp xxe
 yaml
 zet zettelkasten zsh
 

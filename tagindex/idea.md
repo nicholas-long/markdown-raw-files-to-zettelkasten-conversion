@@ -450,7 +450,6 @@
 - [20221017033638](/zet/20221017033638/README.md) Funday Sunday: Taking down the INSANE-ranked TryHackMe's Takedown alh4zr3d
 - [20221017033801](/zet/20221017033801/README.md) tryhackme box Takedown
 - [20221017084532](/zet/20221017084532/README.md) XML concept
-- [20221017154727](/zet/20221017154727/README.md) xterm
 - [20221017172946](/zet/20221017172946/README.md) LAN attacks
 - [20221017182053](/zet/20221017182053/README.md) hydra
 - [20221017182222](/zet/20221017182222/README.md) bruteforcing or password spraying tools

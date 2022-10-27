@@ -93,7 +93,7 @@ this is a list of possibly empty zettels.
 - [20221003150651](/zet/20221003150651/README.md) kubernetes #command #hacking #kubernetes 
 - [20221003150659](/zet/20221003150659/README.md) wfuzz #command #hacking #wfuzz 
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands #command #hacking #binary 
-- [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files #command #hacking #crackmapexec 
+- [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files #command #hacking #bruteforcing
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands #command #hacking #web 
 - [20221003150689](/zet/20221003150689/README.md) wpscan initial database exports #command #hacking #wpscan 
 - [20221003150690](/zet/20221003150690/README.md) wpscan initial config backups #command #hacking #wpscan 
@@ -115,7 +115,7 @@ this is a list of possibly empty zettels.
 - [20221003150775](/zet/20221003150775/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) #command #hacking #msfvenom 
 - [20221003150776](/zet/20221003150776/README.md) MSFVENOM Windows Binary (.exe) executable #command #hacking #msfvenom 
 - [20221003150777](/zet/20221003150777/README.md) MSFVENOM #command #hacking #msfvenom 
-- [20221003150780](/zet/20221003150780/README.md) crowbar #command #hacking #crowbar 
+- [20221003150780](/zet/20221003150780/README.md) crowbar #command #hacking #program #bruteforcing #hub
 - [20221003150791](/zet/20221003150791/README.md) openssl #command #hacking #openssl 
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file #command #hacking #generate 
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist #command #hacking #generate 

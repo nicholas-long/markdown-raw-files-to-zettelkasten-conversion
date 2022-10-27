@@ -1,5 +1,15 @@
 - [20221003150344](/zet/20221003150344/README.md) SSH brute force old key exchange algorithms
 - [20221003150345](/zet/20221003150345/README.md) SSH brute force command shortlist from hacktricks
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
+- [20221003150667](/zet/20221003150667/README.md) crackmapexec cme commands enumerate acccess to files as json report
+- [20221003150668](/zet/20221003150668/README.md) crackmapexec cme commands enumerate shares accessable by user
+- [20221003150669](/zet/20221003150669/README.md) crackmapexec cme commands test combine valid user and password combinations
+- [20221003150670](/zet/20221003150670/README.md) crackmapexec cme commands bruteforce SMB
+- [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files
+- [20221003150672](/zet/20221003150672/README.md) crackmapexec cme commands RID brute force
+- [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
+- [20221003150778](/zet/20221003150778/README.md) crowbar brute force RDP active directory domain joined
+- [20221003150779](/zet/20221003150779/README.md) crowbar brute force RDP
+- [20221003150780](/zet/20221003150780/README.md) crowbar
 - [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force
 - [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack

@@ -1,3 +1,6 @@
 - [20221008210746](/zet/20221008210746/README.md) use title of zettel as fzf prompt
 - [20221008213627](/zet/20221008213627/README.md) enhancement / improvement
+- [20221010153630](/zet/20221010153630/README.md) make symlinks for markdown titles for search optimization
+- [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - [20221011095447](/zet/20221011095447/README.md) change vilink behavior - 1 to many
+- [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language
