@@ -49,4 +49,4 @@ A lightweight and portable command-line YAML processor.More information: https:/
 
 Tags:
 
-    #data-engineering-pipelines #yaml #go
+    #yaml #go #data #pipelines

@@ -36,4 +36,4 @@ https://blog.robertelder.org/data-science-linux-command-line/
 
 Tags:
 
-    #command #data-engineering-pipelines #data 
+    #command #data #pipelines
