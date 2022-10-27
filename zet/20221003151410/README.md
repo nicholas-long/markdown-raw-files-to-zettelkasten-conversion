@@ -18,4 +18,4 @@ cat $1 | go run github.com/ericchiang/xpup@latest //request | base64 -d
 
 Tags:
 
-    #bash #script 
+    #bash #script #command #xml #web #trick

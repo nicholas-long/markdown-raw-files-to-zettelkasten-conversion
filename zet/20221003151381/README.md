@@ -17,4 +17,4 @@ cat /dev/urandom | head -c 6 | xxd -p
 
 Tags:
 
-    #bash #script 
+    #bash #script #trick #syntax #identify

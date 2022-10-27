@@ -96,4 +96,4 @@ rm -f "$CFGFILE"
 
 Tags:
 
-    #bash #script 
+    #bash #script #trick #enumeration

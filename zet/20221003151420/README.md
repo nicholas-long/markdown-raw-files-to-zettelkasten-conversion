@@ -1,4 +1,5 @@
 # bash scripting remove git from directory name
+
 ~/kb/bash-scripting/enum-git-repos-in-directory.sh
 ```bash
 #!/bin/bash
@@ -9,6 +10,7 @@ find "$1" -name .git -type d | awk 'BEGIN {FS = OFS = "/" } { NF--;print }'
 ```
 
 ~/kb/bash-scripting/enum-git-repos-in-directory.sh
+
 ` zet/20221003151420/README.md `
 
 # Related

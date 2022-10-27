@@ -196,15 +196,9 @@ this is a list of possibly empty zettels.
 - [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally #python #script 
 - [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script #python #script 
 - [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files #bash #script 
-- [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker #bash #script 
-- [20221003151383](/zet/20221003151383/README.md) bash scripting get all tags and start walking their commits #bash #script 
-- [20221003151384](/zet/20221003151384/README.md) bash scripting clone repo into temp dir #bash #script 
 - [20221003151386](/zet/20221003151386/README.md) bash scripting define bash array #bash #script 
 - [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream #bash #script 
-- [20221003151402](/zet/20221003151402/README.md) bash scripting prepend gzip magic bytes #bash #script 
 - [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf #bash #script 
-- [20221003151418](/zet/20221003151418/README.md) bash scripting parse args with case statement #bash #script 
-- [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory #bash #script 
 - [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried #awk #script 
 
 ```
@@ -219,15 +213,9 @@ this is a list of possibly empty zettels.
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
-- [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory
-- [20221003151418](/zet/20221003151418/README.md) bash scripting parse args with case statement
 - [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf
-- [20221003151402](/zet/20221003151402/README.md) bash scripting prepend gzip magic bytes
 - [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream
 - [20221003151386](/zet/20221003151386/README.md) bash scripting define bash array
-- [20221003151384](/zet/20221003151384/README.md) bash scripting clone repo into temp dir
-- [20221003151383](/zet/20221003151383/README.md) bash scripting get all tags and start walking their commits
-- [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
 - [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files
 - [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script
 - [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally

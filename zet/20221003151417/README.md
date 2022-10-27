@@ -1,4 +1,5 @@
 # bash scripting exit if parameter is missing
+
 ~/kb/bash-scripting/template.sh
 ```bash
 #!/bin/bash

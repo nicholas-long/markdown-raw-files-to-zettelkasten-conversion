@@ -19,4 +19,4 @@ awk '{print length(), $0}' filters.lst | sort -n | awk '{print $2}'
 
 Tags:
 
-    #bash #script 
+    #bash #script #sort #trick

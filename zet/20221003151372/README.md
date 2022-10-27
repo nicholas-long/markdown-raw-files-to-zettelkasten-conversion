@@ -19,4 +19,4 @@ xxd -p -c 9999999999999
 
 Tags:
 
-    #bash #script 
+    #bash #script #trick #hex

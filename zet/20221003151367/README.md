@@ -21,7 +21,8 @@ curl "https://api.github.com/users/$u/repos?visibility=private" | jq -r '.[].htm
 - [20221003151339](/zet/20221003151339/README.md) enumerate all python imports; chain 2 awk scripts with a filter
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
+- [20221007194303](/zet/20221007194303/README.md) github
 
 Tags:
 
-    #bash #script 
+    #bash #script #github #users #trick

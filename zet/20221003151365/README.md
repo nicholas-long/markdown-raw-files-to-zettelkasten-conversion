@@ -19,4 +19,4 @@ python3 -c 'from urllib.parse import quote;print(quote(input()))'
 
 Tags:
 
-    #bash #script 
+    #bash #script #web #trick #python

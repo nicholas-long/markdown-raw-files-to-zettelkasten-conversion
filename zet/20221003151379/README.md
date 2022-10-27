@@ -1,4 +1,5 @@
 # bash scripting mount host neo4j data into docker
+
 ~/kb/linux/runneo4j.sh
 ```bash
 #!/bin/bash
@@ -18,6 +19,7 @@ docker run --rm \
 ```
 
 ~/kb/linux/runneo4j.sh
+
 ` zet/20221003151379/README.md `
 
 # Related

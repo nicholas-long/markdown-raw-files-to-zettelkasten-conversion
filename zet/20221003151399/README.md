@@ -1,4 +1,5 @@
 # bash scripting find alphanumeric base64 using awk script
+
 ~/kb/bash-scripting/find-alphanum-base64.sh
 ```bash
 #!/bin/bash
@@ -9,11 +10,16 @@ echo "$1" | ~/kb/awk-scripting/space-invader.awk | while read line; do
 done | grep '^[A-Za-z0-9]*$'
 ```
 
-~/kb/bash-scripting/find-alphanum-base64.sh
+- ~/kb/bash-scripting/find-alphanum-base64.sh
+
+- ~/kb/awk-scripting/space-invader.awk
+  - [20221003151436](/zet/20221003151436/README.md) awk scripting print all variations of spaces between tokens
+
 ` zet/20221003151399/README.md `
 
 # Related
 
+- [20221003151436](/zet/20221003151436/README.md) awk scripting print all variations of spaces between tokens
 - [20221018133841](/zet/20221018133841/README.md) base64 concept
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221003150684](/zet/20221003150684/README.md) encode string as base64 url encoded
@@ -22,4 +28,4 @@ done | grep '^[A-Za-z0-9]*$'
 
 Tags:
 
-    #bash #script 
+    #bash #script #trick #base64 #shell

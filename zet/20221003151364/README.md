@@ -18,4 +18,4 @@ grep -A 1 -h -R '^```bash' . | grep -v '^```\|^--'
 
 Tags:
 
-    #bash #script 
+    #bash #script #trick #find #markdown

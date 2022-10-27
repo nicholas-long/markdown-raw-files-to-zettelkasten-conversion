@@ -24,4 +24,4 @@ cat $1 | hashing
 
 Tags:
 
-    #bash #script 
+    #bash #script #file #filehash #hash #tip

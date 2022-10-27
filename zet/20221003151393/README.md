@@ -34,7 +34,8 @@ tail -f /var/log/auth.log | \
 - [20221013035616](/zet/20221013035616/README.md) fun
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - ~/kb/auto-bash.md
+- [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream
 
 Tags:
 
-    #bash #script 
+    #bash #script #trick #defense #ssh

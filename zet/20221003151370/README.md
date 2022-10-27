@@ -18,4 +18,4 @@ cat composer.lock | jq -r '.packages[] | .name,.version' | paste - -
 
 Tags:
 
-    #bash #script 
+    #bash #script #trick #version #json #enumeration
