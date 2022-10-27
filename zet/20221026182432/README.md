@@ -18,7 +18,6 @@
 - [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 
