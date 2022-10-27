@@ -83,4 +83,4 @@ text
 
 Tags:
 
-    #linux #ex 
+    #linux #ex #command

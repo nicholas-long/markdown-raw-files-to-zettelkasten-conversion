@@ -18,4 +18,4 @@ grep -R filename /var/lib/dpkg/info/*.list
 
 Tags:
 
-    #bash #linux #debian #apt
+    #bash #linux #debian #apt #command
