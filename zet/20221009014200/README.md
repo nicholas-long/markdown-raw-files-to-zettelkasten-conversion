@@ -24,7 +24,7 @@ the concept of a `command`
 - [20221003150709](/zet/20221003150709/README.md) sqlmap
 - [20221003150640](/zet/20221003150640/README.md) nmap run "all" enumeration and scripts
 - [20221003151268](/zet/20221003151268/README.md) Lookup missing packages with command-not-found
-- [20221003151325](/zet/20221003151325/README.md) Capture screenshot of url "utility to capture WebKit's rendering of a web page"
+- [20221003151325](/zet/20221003151325/README.md) utility to render / capture screenshot of url
 - [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities
 - [20221014190227](/zet/20221014190227/README.md) kb file named kb/data-engineering-pipelines/data-science-linux-commands.md
 - [20221014190221](/zet/20221014190221/README.md) kb file named kb/data-engineering-pipelines/jq-command-reference.md

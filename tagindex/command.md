@@ -382,6 +382,7 @@
 - [20221003151289](/zet/20221003151289/README.md) jq
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
 - [20221003151305](/zet/20221003151305/README.md) bash scripting comm utility for set operations
+- [20221003151325](/zet/20221003151325/README.md) utility to render / capture screenshot of url
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221003151344](/zet/20221003151344/README.md) awk bash scripting split into files by column value
 - [20221003151348](/zet/20221003151348/README.md) awk bash scripting move files automatically
@@ -389,5 +390,6 @@
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221007205652](/zet/20221007205652/README.md) find limit recursion depth
+- [20221008212802](/zet/20221008212802/README.md) software program
 - [20221011145143](/zet/20221011145143/README.md) bat command pretty printer
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands

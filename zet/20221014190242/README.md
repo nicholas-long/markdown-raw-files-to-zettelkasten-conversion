@@ -9,7 +9,7 @@
 
 # Related
 
-- [20221003151325](/zet/20221003151325/README.md) Capture screenshot of url "utility to capture WebKit's rendering of a web page"
+- [20221003151325](/zet/20221003151325/README.md) utility to render / capture screenshot of url
 - [20221016233427](/zet/20221016233427/README.md) commits for day of 2022-04-26
 - [20221016233256](/zet/20221016233256/README.md) commits for day of 2022-01-27
 - [20221003151443](/zet/20221003151443/README.md) kb

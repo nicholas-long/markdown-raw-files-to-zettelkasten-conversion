@@ -9,18 +9,6 @@
 # things attached to command hub that are not marked as commands
 #
 - [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221003151325](/zet/20221003151325/README.md) Capture screenshot of url "utility to capture WebKit's rendering of a web page" 
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221008061334](/zet/20221008061334/README.md) concepts #noun #idea #hub
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221008061845](/zet/20221008061845/README.md) workflow #workflow #optimization #hub #concept
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
-- [20221008212802](/zet/20221008212802/README.md) software program #program
-
-- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful #useful #fix
 
 - [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub

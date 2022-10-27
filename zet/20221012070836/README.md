@@ -23,7 +23,7 @@ sudo pip3 install asciinema
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
-- [20221003151325](/zet/20221003151325/README.md) Capture screenshot of url "utility to capture WebKit's rendering of a web page"
+- [20221003151325](/zet/20221003151325/README.md) utility to render / capture screenshot of url
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221012070358](/zet/20221012070358/README.md) recording and logging
 - [20221012070318](/zet/20221012070318/README.md) linux terminal

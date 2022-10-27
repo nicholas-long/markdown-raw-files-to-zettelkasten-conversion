@@ -27,6 +27,7 @@
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
 - [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
 - [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
+- [20221003151325](/zet/20221003151325/README.md) utility to render / capture screenshot of url
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD
 - [20221008221548](/zet/20221008221548/README.md) website

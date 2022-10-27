@@ -164,7 +164,7 @@
 - [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems
 - [20221003151235](/zet/20221003151235/README.md) mysql mariadb display query output as pretty printed text with column names
 - [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads
-- [20221003151325](/zet/20221003151325/README.md) Capture screenshot of url "utility to capture WebKit's rendering of a web page"
+- [20221003151325](/zet/20221003151325/README.md) utility to render / capture screenshot of url
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221003150786](/zet/20221003150786/README.md) enum4linux

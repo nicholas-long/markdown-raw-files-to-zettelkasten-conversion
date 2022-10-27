@@ -10,7 +10,7 @@ the concept of `website`
 # Related
 
 - [20221003150462](/zet/20221003150462/README.md) tomcat
-- [20221003151325](/zet/20221003151325/README.md) Capture screenshot of url "utility to capture WebKit's rendering of a web page"
+- [20221003151325](/zet/20221003151325/README.md) utility to render / capture screenshot of url
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?
 - [20221015005249](/zet/20221015005249/README.md) gitlab
 - [20221015005535](/zet/20221015005535/README.md) werkzeug

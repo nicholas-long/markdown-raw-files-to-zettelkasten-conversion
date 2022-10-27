@@ -6,6 +6,7 @@
 - [20221003150881](/zet/20221003150881/README.md) create symbolic link
 - [20221003151239](/zet/20221003151239/README.md) make date wordlist for fuzzing with bash and parameter expansion
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
+- [20221003151325](/zet/20221003151325/README.md) utility to render / capture screenshot of url
 - [20221003151344](/zet/20221003151344/README.md) awk bash scripting split into files by column value
 - [20221003151348](/zet/20221003151348/README.md) awk bash scripting move files automatically
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
