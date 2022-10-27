@@ -13,7 +13,6 @@
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221014185932](/zet/20221014185932/README.md) kb file named kb/hacking/commands/nfs.md
 - ~/kb/hacking/commands/nfs.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

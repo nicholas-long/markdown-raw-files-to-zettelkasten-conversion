@@ -21,30 +21,6 @@ this is a list of possibly empty zettels.
 #
 # Non-Empty
 #
-2	- [20221003150143](/zet/20221003150143/README.md) proxmox vm host operating system #linux #proxmox #vm
-3	- [20221003150159](/zet/20221003150159/README.md) upgrade when apt is causing problems #linux #apt #dpkg
-3	- [20221003150174](/zet/20221003150174/README.md) less #linux #less 
-5	- [20221003150176](/zet/20221003150176/README.md) ex editor #linux #ex 
-3	- [20221003150187](/zet/20221003150187/README.md) linux free up space #linux #free 
-2	- [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix #hacking #buzzwords #buzzwords 
-5	- [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface #hacking #buzzwords #buzzwords #info #program
-2	- [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails #hacking #assorted #go
-2	- [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells #hacking #python #info
-5	- [20221003150370](/zet/20221003150370/README.md) dump credentials from browsers chromium #hacking #repositories #important 
-29	- [20221003150392](/zet/20221003150392/README.md) text cipher encryption decryption tools Text Manipulator #hacking #repositories #important #decrypt 
-4	- [20221003150567](/zet/20221003150567/README.md) SMB Copy Files (Execute on Victim) 
-6	- [20221003150590](/zet/20221003150590/README.md) php code examples #command #hacking #php 
-3	- [20221003150665](/zet/20221003150665/README.md) NFS commands #command #hacking #nfs 
-5	- [20221003150681](/zet/20221003150681/README.md) tftp commands #command #hacking #tftp 
-5	- [20221003150798](/zet/20221003150798/README.md) git #command #hacking #git 
-5	- [20221003150879](/zet/20221003150879/README.md) dirty cow privilege escalation #hacking #privesc #dirty 
-7	- [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands #command #hacking #privesc #enumeration #command 
-3	- [20221003150988](/zet/20221003150988/README.md) mariadb mysql #hacking #sqli #trick
-3	- [20221003151023](/zet/20221003151023/README.md) analyzing source code #hacking #source #skill
-3	- [20221003151230](/zet/20221003151230/README.md) VBScript #hacking #trick #vbscript 
-4	- [20221003151250](/zet/20221003151250/README.md) sending installs to target #hacking #trick #install 
-3	- [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub #command #data-engineering-pipelines #data 
-13	- [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax #bash-scripting #substitution 
 5	- [20221003151343](/zet/20221003151343/README.md) convert decimal to hex #awk-scripting #convert 
 7	- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project #zettelkasten #project 
 2	- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
@@ -169,8 +145,6 @@ this is a list of possibly empty zettels.
 - [20221003150949](/zet/20221003150949/README.md) python fix SSL errors #hacking #fix 
 - [20221003150953](/zet/20221003150953/README.md) OSINT organizations #hacking #osint 
 - [20221003150983](/zet/20221003150983/README.md) mariadb mysql files #hacking #sqli #trick #file
-- [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection #hacking #sqli #trick #info
-- [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi #hacking #sqli #trick
 - [20221003151004](/zet/20221003151004/README.md) API enumeration good wordlists #hacking #api 
 - [20221003151008](/zet/20221003151008/README.md) LFI or directory traversal procedures file wordlists #hacking #lfi 
 - [20221003151010](/zet/20221003151010/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl  #hacking #lfi 
@@ -204,7 +178,6 @@ this is a list of possibly empty zettels.
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003 #hacking #windows #xp #hub
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
-- [20221003151236](/zet/20221003151236/README.md) mysql mariadb #hacking #trick #mysql 
 - [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads #hacking #trick #malicious 
 - [20221003151247](/zet/20221003151247/README.md) Jenkins / Groovy (Java) Reverse Shell #hacking #trick #jenkins 
 - [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies #hacking #trick #install 
@@ -245,7 +218,6 @@ this is a list of possibly empty zettels.
 
 - zet/20221007182026/content.awk
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
-- [20221003150567](/zet/20221003150567/README.md) SMB Copy Files (Execute on Victim)
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
@@ -266,7 +238,6 @@ this is a list of possibly empty zettels.
 - [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
 - [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database
 - [20221003151318](/zet/20221003151318/README.md) bash parse xml cli
-- [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax
 - [20221003151309](/zet/20221003151309/README.md) expect scripts
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003151289](/zet/20221003151289/README.md) jq
@@ -274,18 +245,14 @@ this is a list of possibly empty zettels.
 - [20221003151286](/zet/20221003151286/README.md) postgres
 - [20221003151281](/zet/20221003151281/README.md) YAML
 - [20221003151280](/zet/20221003151280/README.md) YAML parsing
-- [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub
 - [20221003151267](/zet/20221003151267/README.md) fzf
 - [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory
 - [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux
 - [20221003151254](/zet/20221003151254/README.md) run executable binary programs within process memory windows
 - [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows cobalt strike
-- [20221003151250](/zet/20221003151250/README.md) sending installs to target
 - [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies
 - [20221003151247](/zet/20221003151247/README.md) Jenkins / Groovy (Java) Reverse Shell
 - [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads
-- [20221003151236](/zet/20221003151236/README.md) mysql mariadb
-- [20221003151230](/zet/20221003151230/README.md) VBScript
 - [20221003151214](/zet/20221003151214/README.md) got leaked files
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
@@ -316,24 +283,18 @@ this is a list of possibly empty zettels.
 - [20221003151037](/zet/20221003151037/README.md) program files ruxim directory
 - [20221003151034](/zet/20221003151034/README.md) applocker limit allowed executables and allowed paths
 - [20221003151028](/zet/20221003151028/README.md) decrypt azure AD connect passwords
-- [20221003151023](/zet/20221003151023/README.md) analyzing source code
 - [20221003151010](/zet/20221003151010/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl 
 - [20221003151008](/zet/20221003151008/README.md) LFI or directory traversal procedures file wordlists
 - [20221003151004](/zet/20221003151004/README.md) API enumeration good wordlists
-- [20221003150988](/zet/20221003150988/README.md) mariadb mysql
-- [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi
-- [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection
 - [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
 - [20221003150953](/zet/20221003150953/README.md) OSINT organizations
 - [20221003150949](/zet/20221003150949/README.md) python fix SSL errors
 - [20221003150946](/zet/20221003150946/README.md) python
 - [20221003150942](/zet/20221003150942/README.md) python imports
-- [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
 - [20221003150907](/zet/20221003150907/README.md) linux enumeration quick commands transfer / download files with just bash
 - [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities
 - [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
 - [20221003150884](/zet/20221003150884/README.md) privilege escalation relative path abuse
-- [20221003150879](/zet/20221003150879/README.md) dirty cow privilege escalation
 - [20221003150876](/zet/20221003150876/README.md) sudo sudoers file
 - [20221003150873](/zet/20221003150873/README.md) host quick server
 - [20221003150866](/zet/20221003150866/README.md) two-factor authentication 2fa
@@ -351,7 +312,6 @@ this is a list of possibly empty zettels.
 - [20221003150815](/zet/20221003150815/README.md) meterpreter msf move from x86 to x64
 - [20221003150807](/zet/20221003150807/README.md) brute force default credentials
 - [20221003150801](/zet/20221003150801/README.md) openssl commands
-- [20221003150798](/zet/20221003150798/README.md) git
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file
 - [20221003150791](/zet/20221003150791/README.md) openssl
@@ -377,9 +337,7 @@ this is a list of possibly empty zettels.
 - [20221003150690](/zet/20221003150690/README.md) wpscan initial config backups
 - [20221003150689](/zet/20221003150689/README.md) wpscan initial database exports
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
-- [20221003150681](/zet/20221003150681/README.md) tftp commands
 - [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files
-- [20221003150665](/zet/20221003150665/README.md) NFS commands
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands
 - [20221003150659](/zet/20221003150659/README.md) wfuzz
 - [20221003150651](/zet/20221003150651/README.md) kubernetes
@@ -397,7 +355,6 @@ this is a list of possibly empty zettels.
 - [20221003150614](/zet/20221003150614/README.md) smbclient shell
 - [20221003150594](/zet/20221003150594/README.md) generating enumeration wordlists
 - [20221003150592](/zet/20221003150592/README.md) php
-- [20221003150590](/zet/20221003150590/README.md) php code examples
 - [20221003150584](/zet/20221003150584/README.md) php code convert human readable time to unix epoch timestamp
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
 - [20221003150575](/zet/20221003150575/README.md) php type juggling methodology
@@ -437,22 +394,11 @@ this is a list of possibly empty zettels.
 - [20221003150422](/zet/20221003150422/README.md) kerberos attack on windows host ticket attacks extraction and harvesting
 - [20221003150421](/zet/20221003150421/README.md) kerberos attack on windows host Constrained delegation abuse
 - [20221003150419](/zet/20221003150419/README.md) text cipher encryption decryption tools
-- [20221003150392](/zet/20221003150392/README.md) text cipher encryption decryption tools Text Manipulator
 - [20221003150391](/zet/20221003150391/README.md) file backup fuzzer
 - [20221003150389](/zet/20221003150389/README.md) krbrelayx
 - [20221003150388](/zet/20221003150388/README.md) krbrelayx Kerberos relaying and unconstrained delegation abuse toolkit
 - [20221003150387](/zet/20221003150387/README.md) krbrelayx addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP.
 - [20221003150386](/zet/20221003150386/README.md) krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP.
-- [20221003150370](/zet/20221003150370/README.md) dump credentials from browsers chromium
-- [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
-- [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
-- [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface
-- [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix
-- [20221003150187](/zet/20221003150187/README.md) linux free up space
-- [20221003150176](/zet/20221003150176/README.md) ex editor
-- [20221003150174](/zet/20221003150174/README.md) less
-- [20221003150159](/zet/20221003150159/README.md) upgrade when apt is causing problems
-- [20221003150143](/zet/20221003150143/README.md) proxmox vm host operating system
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 

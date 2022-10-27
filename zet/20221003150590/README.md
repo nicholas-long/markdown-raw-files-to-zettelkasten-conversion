@@ -21,7 +21,6 @@
 - [20221003150585](/zet/20221003150585/README.md) php code embed file or multiline string as heredoc variable
 - [20221003150584](/zet/20221003150584/README.md) php code convert human readable time to unix epoch timestamp
 - ~/kb/hacking/php/PHP-quick-command-reference.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

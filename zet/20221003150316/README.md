@@ -10,7 +10,6 @@
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 - [20221003150104](/zet/20221003150104/README.md) python scripting http
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

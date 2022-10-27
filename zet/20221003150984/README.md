@@ -1,4 +1,5 @@
 # mariadb mysql SQLi information tables
+
 `information_schema` is name of metadata database
 `information_schema.schemata` is names of databases in `schema_name` column
 `information_schema.columns` is names of tables and columns 

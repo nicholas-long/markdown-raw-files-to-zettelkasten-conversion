@@ -12,7 +12,6 @@
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221014185547](/zet/20221014185547/README.md) kb file named kb/hacking/tricks/vbscript-wget-hack.md
 - ~/kb/hacking/tricks/vbscript-wget-hack.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

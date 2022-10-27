@@ -14,8 +14,8 @@
 - [20221008215655](/zet/20221008215655/README.md) user account
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - ~/kb/hacking/priv-esc/dirty-cow-no-gcc.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - https://dirtycow.ninja/
+- [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
 
 Tags:
 

@@ -15,7 +15,6 @@
 - [20221003150268](/zet/20221003150268/README.md) IPMI intelligent platform management interface BMC
 - [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md
 - ~/kb/hacking/misc/buzzwords-and-acronyms.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221024131549](/zet/20221024131549/README.md) buzzwords and acronyms hub
 
 Tags:

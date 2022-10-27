@@ -16,7 +16,6 @@
 - [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies
 - [20221014185533](/zet/20221014185533/README.md) kb file named kb/hacking/tricks/install-pip-modules-on-target-as-files.md
 - ~/kb/hacking/tricks/install-pip-modules-on-target-as-files.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

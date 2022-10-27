@@ -15,7 +15,6 @@
 - [20221003151165](/zet/20221003151165/README.md) TFTP udp 69 to try list
 - [20221014185926](/zet/20221014185926/README.md) kb file named kb/hacking/commands/tftp-reference.md
 - ~/kb/hacking/commands/tftp-reference.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

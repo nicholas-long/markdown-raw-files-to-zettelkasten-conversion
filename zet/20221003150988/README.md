@@ -14,7 +14,6 @@
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
 - [20221012153512](/zet/20221012153512/README.md) database
 - ~/kb/hacking/methodology/sqli-manual-mysql-payloads.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 

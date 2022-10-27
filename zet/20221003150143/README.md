@@ -13,7 +13,6 @@
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - ~/kb/linux/proxmox.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 
