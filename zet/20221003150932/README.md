@@ -1,6 +1,9 @@
 # lxd priv esc without painful build problems lxd priv esc x64
-> git clone https://github.com/saghul/lxd-alpine-builder
-There is a container image that comes with this. Try it.
+
+- there is a container image that comes with this. Try it.
+```bash
+git clone https://github.com/saghul/lxd-alpine-builder
+```
 
 ` zet/20221003150932/README.md `
 
@@ -12,4 +15,4 @@ There is a container image that comes with this. Try it.
 
 Tags:
 
-    #hacking #privesc #lxd 
+    #hacking #privesc #lxd #tip #trick
