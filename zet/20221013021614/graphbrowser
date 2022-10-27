@@ -283,6 +283,7 @@ while [ 1 == "$going" ]; do
       $prog enrich
       $prog enrich
       git add . # add all the files changed after enriching as a productivity step and to be aware of changes after
+      lazygit
     else
       echo $answer
       sleep 1
