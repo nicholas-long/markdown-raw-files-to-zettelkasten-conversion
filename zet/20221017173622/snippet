@@ -7,12 +7,18 @@ export LC_COLLATE=C
 donethings=$(mktemp)
 ./graphquery '@done' '@hub' refs > $donethings
 
+#echo "#"
+#echo "# things attached to command hub that are not marked as commands"
+#echo "#"
+#zet/20221023085822/walkquery --human <( echo $commandconcept) refs \
+#  not <( ./graphquery taglist 'command,hub,kb_import' ) \
+#  not $donethings
+
 echo "#"
-echo "# things attached to command hub that are not marked as commands"
+echo "# unlabled scripts and commands and things "
 echo "#"
-zet/20221023085822/walkquery --human <( echo $commandconcept) refs \
-  not <( ./graphquery taglist 'command,hub,kb_import' ) \
-  not $donethings
+zet/20221023085822/walkquery --human taglist 'bash,scripting,script' \
+  not <( ./graphquery taglist 'command,hub,kb_import,tip,trick,tool,repo' )
 
 echo ""
 echo "--------------------------------------------------------------------------------"
