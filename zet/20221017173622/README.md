@@ -14,6 +14,7 @@
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221003150465](/zet/20221003150465/README.md) powershell PSCredential password
+- [20221026181955](/zet/20221026181955/README.md) replace useless concept hubs with hashtags
 
 Tags:
 

@@ -17,6 +17,9 @@ this is a list of possibly empty zettels.
 
   - [20221004203354](/zet/20221004203354/README.md) Related
 
+```
+```
+
 ` zet/20221005200242/README.md `
 
 # Related
@@ -69,7 +72,7 @@ this is a list of possibly empty zettels.
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
 - [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec
-- [20221003151144](/zet/20221003151144/README.md) active directory 
+- [20221003151144](/zet/20221003151144/README.md) active directory
 - [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions
 - [20221003151126](/zet/20221003151126/README.md) active directory  delegation unconstrained
 - [20221003151124](/zet/20221003151124/README.md) dos commands
@@ -236,6 +239,7 @@ this is a list of possibly empty zettels.
 - [20221003150115](/zet/20221003150115/README.md) socat
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
+- [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 
 Tags:
 
