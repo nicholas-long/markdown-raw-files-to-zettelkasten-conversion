@@ -23,6 +23,7 @@
 - [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
 - [20221014190219](/zet/20221014190219/README.md) kb file named kb/tmux/copy-buffer.md
 - ~/kb/tmux/copy-buffer.md
+- [20221028185008](/zet/20221028185008/README.md) tmux notification when changes are on github and not local
 
 Tags:
 

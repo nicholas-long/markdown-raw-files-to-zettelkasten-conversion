@@ -51,6 +51,8 @@ zet/20221012171100/README.md
 - [20221028033132](/zet/20221028033132/README.md) how many cards you got now
 - [20221028085630](/zet/20221028085630/README.md) make links for refs with symlinks
 - [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
+- [20221028185008](/zet/20221028185008/README.md) tmux notification when changes are on github and not local
+- [20221028185008](/zet/20221028185008/README.md) tmux notification when changes are on github and not local
 
 Tags:
 

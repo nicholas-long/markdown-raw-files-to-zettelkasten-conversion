@@ -38,6 +38,7 @@ tips:
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
+- [20221028185008](/zet/20221028185008/README.md) tmux notification when changes are on github and not local
 
 Tags:
 

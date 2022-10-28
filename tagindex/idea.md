@@ -518,3 +518,4 @@
 - [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
 - [20221028173620](/zet/20221028173620/README.md) yq binaries
 - [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
+- [20221028185008](/zet/20221028185008/README.md) tmux notification when changes are on github and not local
