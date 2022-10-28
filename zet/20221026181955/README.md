@@ -25,6 +25,8 @@
     - streamer
     - video
   - notes - links coming in from hacking notes template
+- disabling this card while i'm not working on it
+  - `mv zet/20221026181955/autoexec_enrich zet/20221026181955/autoexec_enrich.bak`
 
 ```
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list #to-try-list #hacking #pwn
