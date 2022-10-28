@@ -1,11 +1,11 @@
-# symlink these cards
+# symlink scripts on snippet cards
 
 - concept of `symlink these cards`
-md5sum: zet/20221026181955/autoexec_enrich: No such file or directory
-- 20221026181955 is disabled - fine
+- 20221026181955 is currently disabled
 - look for `export MY_DIR="$2"`
 - real md5sum `d20075d6b6db8e277f7897e1fa91f868  zet/20221021081636/autoexec_enrich`
 - second snippet `98158c0f3b5b15bc103b2f8bd079fc13  zet/20221026165857/autoexec_enrich`
+  - ignore this experiment to replace the second snippet - different code
 - this experiment did not go well - the scripts do not run. maybe instead track files that are different from expected?
 - list of every one (excluding main template 20221021081636)
 ```
