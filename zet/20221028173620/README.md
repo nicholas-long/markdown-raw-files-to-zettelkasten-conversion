@@ -7,7 +7,7 @@
 ```
 
 mv yq_binaries/* zet/20221028173620/
-rm yq_binaries/
+rm -rf yq_binaries/
 ln -s zet/20221028173620 yq_binaries
 
 ```
