@@ -49,6 +49,15 @@ query @notes
 - [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video #notes #linux #terminal
 - [20221020193850](/zet/20221020193850/README.md) what is knowledge management #videonotes #notes #zettelkasten
 
+# print all connected nodes marked by notes tag
+highlevel=20221011182140 # high level machine overview from notes template
+./graphquery --human <(zet/20221014025416/tagboundary $highlevel template)
+
+query @template
+- [20221011181453](/zet/20221011181453/README.md) exploit path #todo #idea #notes #template
+- [20221011181531](/zet/20221011181531/README.md) steps #notes #template
+- [20221011182140](/zet/20221011182140/README.md) machine high-level overview notes #notes #template
+
 ```
 
 ` zet/20221014025416/README.md `
