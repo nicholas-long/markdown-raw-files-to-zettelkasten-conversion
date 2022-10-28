@@ -1,5 +1,6 @@
 # rwxrob terminal velocity video 10-27
 
+- random idea: could get timestamps?
 - concept of `rwxrob terminal velocity 10-27`
 - linking to zettelkasten generic ideas because i keep having zet-related ideas watching rob
 - 28 - bash script in vim to process some lines, why not awk?
@@ -33,6 +34,11 @@
   - semantic web
 - XML was a massive fail
 - "mathjax" for math? included in github
+- "you need a data.yaml" file for a data node
+  - titles from nodes?
+- do not want to support yaml tagging, but need to?
+- 9:44 reserving elements in yaml schema
+- `KEG:` should be reserved in yaml
 
 ```
 ```
