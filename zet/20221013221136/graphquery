@@ -76,12 +76,16 @@ while [[ $# -gt 0 ]]; do
       exit 1
     fi
   elif [[ "$1" == 'taglist' ]]; then
+    #zet/20221028023010/README.md
     shift
     list="$1"
-    echo "" > $buf # clear
-    for t in $(echo "$1" | awk -F , '{for (n=1;n<=NF;n++) print "@"$n}'); do
-      $0 "$t" >> $buf
-    done
+    echo "$list" | \
+      sed -e 's/[<>\|&#;"'\'']//g' -e 's/,/\n/g' | \
+      awk '!/^$/ {print "tagindex/" $0 ".md"}' | \
+      xargs sed -e 's/^.*zet\///' -e 's|/.*$||' | \
+      sort -u > $temp
+      join -v 1 $buf $temp > $joined
+      cp "$joined" "$buf"
   elif [[ "$1" == 'file' ]]; then
     shift
     if [ -f "$1" ]; then
