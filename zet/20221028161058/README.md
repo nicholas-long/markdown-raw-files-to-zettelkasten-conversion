@@ -5,7 +5,6 @@
 
 ```
 ./Dockerfile
-./fzftracking
 ./refs.gz
 ./rundocker
 ./template_with_unsorted_link.md
