@@ -16,6 +16,13 @@
   - on the same line
     - with some nested content
   - they should form a chain
+- 7:51 KEG design principles
+  - https://github.com/rwxrob/keg/tree/main/docs/spec/2023-01
+- 8:53:30 start talking about keg nodes with slide show
+- rob has pretty good opinion of gemini, but it still has problems
+  - not simple
+- 9:00:20 start diagrams about KEG nodes
+- "the README web"
 
 ```
 ```
@@ -26,6 +33,7 @@
 
 - https://github.com/rwxrob/book-terminal-velocity
 - https://www.twitch.tv/videos/1635743707
+- https://github.com/rwxrob/keg/tree/main/docs/spec/2023-01
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221006033248](/zet/20221006033248/README.md) rwxrob

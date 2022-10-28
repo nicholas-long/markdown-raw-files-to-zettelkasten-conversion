@@ -16,4 +16,4 @@ the concept of `exploit path`
 
 Tags:
 
-    #todo #idea #notes
+    #todo #idea #notes #template

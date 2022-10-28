@@ -19,4 +19,4 @@ the concept of `machine high-level overview notes`
 
 Tags:
 
-    #notes
+    #notes #template

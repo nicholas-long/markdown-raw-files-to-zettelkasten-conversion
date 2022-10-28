@@ -20,4 +20,4 @@ the concept of `steps`
 
 Tags:
 
-    #notes
+    #notes #template
