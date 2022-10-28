@@ -17,6 +17,9 @@ if [ "$1" == "video" ]; then
   if [ "$3" == "stat" ]; then
     zet/$IMPL/previewgit
   else
+    bat --language md --style=plain --color=always <( awk -v "cmd=$3" '
+      $2 ~ cmd { print }
+    ' zet/$MYID/README.md | head -n 1 )
     bat --color=always $2
   fi
   exit 0
