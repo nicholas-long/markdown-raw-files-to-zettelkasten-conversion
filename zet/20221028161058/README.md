@@ -16,6 +16,9 @@
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
 - [20221028173620](/zet/20221028173620/README.md) yq binaries
+- [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
+- [20221006033248](/zet/20221006033248/README.md) rwxrob
+- [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
 
 Tags:
 
