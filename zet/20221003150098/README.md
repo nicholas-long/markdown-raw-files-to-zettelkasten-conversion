@@ -19,7 +19,6 @@
 - [20221015011227](/zet/20221015011227/README.md) make writeups from cards
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - [20221014153143](/zet/20221014153143/README.md) scroll preview window
-- [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
 - [20221013214821](/zet/20221013214821/README.md) check for command injection
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221003151159](/zet/20221003151159/README.md) Credit where credit is due
