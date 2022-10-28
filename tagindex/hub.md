@@ -44,6 +44,7 @@
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
 - [20221013185120](/zet/20221013185120/README.md) concept of cryptography
