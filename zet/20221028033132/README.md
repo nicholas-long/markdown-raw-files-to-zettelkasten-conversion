@@ -11,7 +11,6 @@
 # Related
 
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards

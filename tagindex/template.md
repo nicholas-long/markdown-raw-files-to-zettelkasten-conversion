@@ -1,2 +1,5 @@
 - [20221003151418](/zet/20221003151418/README.md) bash scripting parse args with case statement
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
+- [20221011181453](/zet/20221011181453/README.md) exploit path
+- [20221011181531](/zet/20221011181531/README.md) steps
+- [20221011182140](/zet/20221011182140/README.md) machine high-level overview notes
