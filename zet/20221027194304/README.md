@@ -1,4 +1,4 @@
-# rwxrob terminal velocity 10-27
+# rwxrob terminal velocity video 10-27
 
 - concept of `rwxrob terminal velocity 10-27`
 - linking to zettelkasten generic ideas because i keep having zet-related ideas watching rob
@@ -32,9 +32,12 @@
   - "guy who created media wiki web"
   - semantic web
 - XML was a massive fail
+- "mathjax" for math? included in github
 
 ```
 ```
+
+- next video https://www.twitch.tv/videos/1636670875
 
 ` zet/20221027194304/README.md `
 
@@ -49,6 +52,7 @@
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221028194014](/zet/20221028194014/README.md) check header line lengths in script
 
 Tags:
 

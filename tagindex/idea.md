@@ -519,3 +519,4 @@
 - [20221028173620](/zet/20221028173620/README.md) yq binaries
 - [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
 - [20221028185008](/zet/20221028185008/README.md) tmux notification when changes are on github and not local
+- [20221028194014](/zet/20221028194014/README.md) check header line lengths in script

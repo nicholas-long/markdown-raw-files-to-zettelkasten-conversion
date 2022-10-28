@@ -44,7 +44,7 @@ node for video notes.
 - [20221006215623](/zet/20221006215623/README.md) scrambled machine video notes
 - [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`
 - [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
-- [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity 10-27
+- [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
 
 Tags:
 

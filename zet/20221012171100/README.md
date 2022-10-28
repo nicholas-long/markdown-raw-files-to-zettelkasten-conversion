@@ -43,7 +43,7 @@ zet/20221012171100/README.md
 - [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 - [20221027150053](/zet/20221027150053/README.md) cleanup fix and consolidate tags
 - [20221027164646](/zet/20221027164646/README.md) liveoverflow
-- [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity 10-27
+- [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
 - [20221028014614](/zet/20221028014614/README.md) keep track of scripts with graphquery
 - [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries
 - [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed
@@ -52,7 +52,8 @@ zet/20221012171100/README.md
 - [20221028085630](/zet/20221028085630/README.md) make links for refs with symlinks
 - [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
 - [20221028185008](/zet/20221028185008/README.md) tmux notification when changes are on github and not local
-- [20221028185008](/zet/20221028185008/README.md) tmux notification when changes are on github and not local
+- [20221028194014](/zet/20221028194014/README.md) check header line lengths in script
+- [20221028194014](/zet/20221028194014/README.md) check header line lengths in script
 
 Tags:
 

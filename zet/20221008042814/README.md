@@ -7,7 +7,7 @@ stuff i am working on.
 # Related
 
 - [20221027150053](/zet/20221027150053/README.md) cleanup fix and consolidate tags
-- [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity 10-27
+- [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 - [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries

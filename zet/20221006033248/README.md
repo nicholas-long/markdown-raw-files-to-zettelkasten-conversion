@@ -40,7 +40,7 @@
 - [20221007205652](/zet/20221007205652/README.md) find limit recursion depth
 - [20221010183037](/zet/20221010183037/README.md) importing zettelkasten data
 - https://github.com/rwxrob
-- [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity 10-27
+- [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
 
 Tags:
 

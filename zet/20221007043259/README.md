@@ -184,7 +184,7 @@
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
-- [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity 10-27
+- [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
 
 Tags:
 
