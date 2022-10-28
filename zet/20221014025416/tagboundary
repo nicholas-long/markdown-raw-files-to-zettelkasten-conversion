@@ -13,7 +13,7 @@ size=1
 
 while [[ $size != $lastsize ]]; do
   lastsize=$size
-  cat $workset | xargs -n 1 implementation/quickrefs | sort -u > $temp # get the refs to temp
+  ./graphquery $workset refs > $temp # get the refs to temp
   join $tagged $temp > $joined # only include refs with tag
   cat $workset $joined | sort -u > $temp # concatenate with working set using tempfile
   cp $temp $workset
