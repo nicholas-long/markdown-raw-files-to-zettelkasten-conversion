@@ -14,7 +14,6 @@ zet/20221012171100/README.md
 - [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
 - [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
 - [20221028173620](/zet/20221028173620/README.md) yq binaries
-- [20221024160055](/zet/20221024160055/README.md) sort finished nodes 
 - [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
 - [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step
 - [20221024213239](/zet/20221024213239/README.md) obsidian dataview plugin
@@ -53,6 +52,7 @@ zet/20221012171100/README.md
 - [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
 - [20221028185008](/zet/20221028185008/README.md) tmux notification when changes are on github and not local
 - [20221028194014](/zet/20221028194014/README.md) check header line lengths in script
+- [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
 - [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
 
 Tags:
