@@ -20,6 +20,7 @@ ln -s zet/20221028173620/bin yq_binaries
 - [20221003151279](/zet/20221003151279/README.md) YAML parsing yq
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

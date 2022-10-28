@@ -152,6 +152,7 @@ Options:
 - [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
 - [20221028085630](/zet/20221028085630/README.md) make links for refs with symlinks
 - [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
+- [20221028173620](/zet/20221028173620/README.md) yq binaries
 
 Tags:
 

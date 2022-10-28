@@ -46,6 +46,7 @@ A lightweight and portable command-line YAML processor.More information: https:/
 - https://github.com/tldr-pages/tldr
 - [20221025045945](/zet/20221025045945/README.md) tldr pages
 - [20221008214935](/zet/20221008214935/README.md) go language
+- [20221028173620](/zet/20221028173620/README.md) yq binaries
 
 Tags:
 

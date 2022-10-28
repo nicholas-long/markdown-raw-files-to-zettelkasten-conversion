@@ -4,7 +4,6 @@
 - rwxrob twitch chat `Eskpil: having a defined rule where the document node that enforces all the assets live in that node is a good thing. its a must`
 
 ```
-./yq_binaries
 ```
 
 ` zet/20221028161058/README.md `
