@@ -1,5 +1,8 @@
 # zettelkasten generic ideas
 
+- when generating text for fuzzy searching, iterate over first and last links because they are both important - idea for implementation
+  - first = prioritized
+  - last = just added
 - integrate with calendar
   - cron somewhere that runs stuff in API and checks things in?
     - secrets on server vs. on github
