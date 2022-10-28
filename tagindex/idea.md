@@ -511,3 +511,4 @@
 - [20221026190658](/zet/20221026190658/README.md) learn more about 5-4-3 rule in networking
 - [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
 - [20221027134758](/zet/20221027134758/README.md) tag kb imported files
+- [20221028014614](/zet/20221028014614/README.md) keep track of scripts with graphquery

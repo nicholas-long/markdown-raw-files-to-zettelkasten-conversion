@@ -16,3 +16,4 @@
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 - [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 - [20221027150053](/zet/20221027150053/README.md) cleanup fix and consolidate tags
+- [20221028014614](/zet/20221028014614/README.md) keep track of scripts with graphquery
