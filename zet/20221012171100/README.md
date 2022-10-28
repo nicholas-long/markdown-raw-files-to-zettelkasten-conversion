@@ -50,7 +50,7 @@ zet/20221012171100/README.md
 - [20221028032005](/zet/20221028032005/README.md) how to disable a card
 - [20221028033132](/zet/20221028033132/README.md) how many cards you got now
 - [20221028085630](/zet/20221028085630/README.md) make links for refs with symlinks
-- [20221028173620](/zet/20221028173620/README.md) yq binaries
+- [20221028175711](/zet/20221028175711/README.md) symlink these cards
 
 Tags:
 

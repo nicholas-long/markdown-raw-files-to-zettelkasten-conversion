@@ -86,6 +86,7 @@ stuff i am working on.
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
 - [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
+- [20221028175711](/zet/20221028175711/README.md) symlink these cards
 
 Tags:
 
