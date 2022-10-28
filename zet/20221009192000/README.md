@@ -10,6 +10,7 @@ Missing:
 20221013204452
 20221014024704
 20221014074726
+20221028033132
 Extra:
 20221003151210
 20221007044552
@@ -50,6 +51,7 @@ Extra:
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
+- [20221028033132](/zet/20221028033132/README.md) how many cards you got now
 
 Tags:
 

@@ -44,6 +44,7 @@ zet/20221028033132/autoexec_enrich
 - [20221026152737](/zet/20221026152737/README.md) template snippet cards not getting run because of parameter issues
 - [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards
 - [20221028032005](/zet/20221028032005/README.md) how to disable a card
+- [20221028033132](/zet/20221028033132/README.md) how many cards you got now
 
 Tags:
 

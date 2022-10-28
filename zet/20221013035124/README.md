@@ -30,6 +30,7 @@
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221012221003](/zet/20221012221003/README.md) weird related bug documents
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
+- [20221028033132](/zet/20221028033132/README.md) how many cards you got now
 
 Tags:
 
