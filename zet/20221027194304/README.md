@@ -23,6 +23,15 @@
   - not simple
 - 9:00:20 start diagrams about KEG nodes
 - "the README web"
+- 9:23:28 hyperlinking is a bad idea / broken
+  - google page ranking may be partially determined by "being an authority" on something - lack of hyperlinks out?
+  - "click here" is a fail
+  - original designers of web would not like what it became today
+  - removing constraints for developers -> "worst version of adobe flash / html5 you can imagine"
+- origin of ideas
+  - "guy who created media wiki web"
+  - semantic web
+- XML was a massive fail
 
 ```
 ```
