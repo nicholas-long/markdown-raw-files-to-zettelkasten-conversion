@@ -25,20 +25,24 @@
   - `back`        - go back, like a browser
     - if you edit links in cards you are working on, you could get trapped and need to hop back to previous card
   - `copypath`    - if running in tmux, copy the current markdown file path to tmux buffer
+  - `copy...`     - if running in tmux, select text to copy from snippets with fzf
   - `enrich`      - insert backlinks and other various cleanup scripts. runs automatic scripts in cards
     - consider the security implications of automatic scripts
   - `quit`        - exit program. i like q as a hotkey so this is good in fzf.
 
 ```
 ln -s zet/20221013021614/ browser
+
+zet/20221013021614/getcopycontent zet/20221013021614/README.md
+
 ```
 
 - changed preview hotkeys to page up and page down to match lazygit hotkeys
 - added ability to list and edit attachments
 - added tag features: quick tag add, del
 - added auto git add after enrich - no auto commit
+- added: copy anything in a code tag into tmux clipboard
 - todo
-  - copy anything in a code tag into tmux clipboard
   - record sequences of actions as scripts
     - replay if they exist
     - show script in preview

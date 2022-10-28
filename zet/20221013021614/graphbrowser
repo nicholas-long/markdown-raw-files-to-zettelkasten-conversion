@@ -71,6 +71,7 @@ while [ 1 == "$going" ]; do
     print "~"
     if (ENVIRON["TMUX"] ~ /tmux/) {
       print "tab"
+      print "copy..."
       print "copypath"
       print "workdir"
     }
@@ -218,6 +219,8 @@ while [ 1 == "$going" ]; do
       git status # i guess
       sleep 2
     fi
+  elif [ "$act" == "copy..." ]; then
+    zet/20221013021614/getcopycontent "$doc" | fzf '--prompt=tab select many :' -m | tmux loadb -
   elif [ "$act" == "copypath" ]; then
     echo -n "$doc" | tmux loadb -
     echo "copied $doc"
