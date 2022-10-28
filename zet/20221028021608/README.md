@@ -11,6 +11,10 @@ echo "$list" | sed -e 's/[<>\|&#;"'\'']//g' -e 's/,/\n/g'| awk '!/^$/ {print "ta
   xargs sed -e 's/^.*zet\///' -e 's|/.*$||'
 
 ./graphquery taglist sed,awk,bash,ex
+
+# test it
+./graphquery --human taglist 'to-try-list,hub,concept,skill,tip,trick,exploit,command,tool,cert,info,program,privesc,analysis'
+
 ```
 
 ` zet/20221028021608/README.md `
