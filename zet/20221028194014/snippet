@@ -1,3 +1,9 @@
 #!/bin/bash
 
-echo "hello world again!"
+find zet -name README.md | xargs awk '
+/^# / {
+  gsub(/^# /,"")
+  if (length() > 72) print length(), FILENAME, $0
+  nextfile
+}
+' | sort -nr
