@@ -28,6 +28,7 @@ this is a list of possibly empty zettels.
 4	- [20221007062330](/zet/20221007062330/README.md) broken stuff to fix #todo #broken #error 
 4	- [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process #broken
 6	- [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet #meta
+2250	- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries #idea
 
 #
 # Empty

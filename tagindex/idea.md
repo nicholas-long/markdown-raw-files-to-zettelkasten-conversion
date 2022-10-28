@@ -521,3 +521,4 @@
 - [20221028185008](/zet/20221028185008/README.md) tmux notification when changes are on github and not local
 - [20221028194014](/zet/20221028194014/README.md) check header line lengths in script
 - [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
+- [20221028200515](/zet/20221028200515/README.md) weird new issues with enrich and graph query
