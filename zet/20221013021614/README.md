@@ -38,6 +38,7 @@ ln -s zet/20221013021614/ browser
 - added tag features: quick tag add, del
 - added auto git add after enrich - no auto commit
 - todo
+  - copy anything in a code tag into tmux clipboard
   - record sequences of actions as scripts
     - replay if they exist
     - show script in preview

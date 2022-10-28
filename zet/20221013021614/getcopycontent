@@ -1,0 +1,7 @@
+#!/usr/bin/awk -f
+BEGINFILE { snip = 0 }
+/```/ { snip = !snip; next }
+!snip && /`.*`/ {
+  split($0,arr,"`")
+  print arr[2]
+}
