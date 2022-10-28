@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cardid=20221028014614 # this card's ID
 find zet -type f -executable -name autoexec_enrich -or -name snippet |\
   xargs awk ' /^ *#/ { next } /graphquery|walkquery/ { print length(), FILENAME, $0 } ' |\
+  grep -v $cardid |\
   sort -nr
