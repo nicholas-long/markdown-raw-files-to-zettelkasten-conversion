@@ -53,6 +53,10 @@ Options:
   - graph query language
   - graph browser, linker, editor, git workflow
 
+- added `saverefs` script for optimization
+  - partitions references between nodes into 100 files for quick lookup
+  - also because storing 500kb of files every commit is too much
+
 ` zet/20221006032546/README.md `
 
 # Related
