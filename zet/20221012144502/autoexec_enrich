@@ -3,7 +3,7 @@ export MY_ID=20221012144502
 export RECENT_MOD=20221012171100
 export IMPL=20221006032546
 
-export recenttimestamp=$(date -u --date='8 hours ago' '+%Y%m%d%H%M%S')
+export recenttimestamp=$(date -u --date='100 hours ago' '+%Y%m%d%H%M%S')
 echo ""
 echo "recent = $recenttimestamp"
 echo ""

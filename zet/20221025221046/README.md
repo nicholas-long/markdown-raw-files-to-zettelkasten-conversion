@@ -24,6 +24,7 @@
 - [20221003150317](/zet/20221003150317/README.md) malwarebytes
 - [20221025221321](/zet/20221025221321/README.md) B-tier of AV
 - [20221003150326](/zet/20221003150326/README.md) top tier endpoint protection AV
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

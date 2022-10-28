@@ -30,6 +30,7 @@
 - [20221012153512](/zet/20221012153512/README.md) database
 - [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
 - [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

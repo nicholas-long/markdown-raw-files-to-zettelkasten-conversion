@@ -39,6 +39,7 @@
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

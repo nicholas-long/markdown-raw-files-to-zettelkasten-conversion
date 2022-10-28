@@ -12,6 +12,7 @@
 - [20221025221046](/zet/20221025221046/README.md) worst tier of AV
 - [20221003150322](/zet/20221003150322/README.md) cyber reason
 - [20221003150326](/zet/20221003150326/README.md) top tier endpoint protection AV
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

@@ -14,6 +14,7 @@ echo "a|;'-#,b,c" | sed -e 's/[<>\|&#;"'\'']//g' -e 's/,/\n/g'| awk '{print "tag
 - [20221003151338](/zet/20221003151338/README.md) awk scripting
 - [20221006010531](/zet/20221006010531/README.md) sed scripts
 - [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

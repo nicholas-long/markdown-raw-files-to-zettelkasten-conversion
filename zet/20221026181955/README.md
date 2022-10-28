@@ -160,6 +160,7 @@
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 - [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards
 - [20221028032005](/zet/20221028032005/README.md) how to disable a card
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 
