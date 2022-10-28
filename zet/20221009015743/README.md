@@ -63,6 +63,7 @@ ENTRYPOINT [ "pyrit" ]
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221008215400](/zet/20221008215400/README.md) file
+- [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
 
 Tags:
 

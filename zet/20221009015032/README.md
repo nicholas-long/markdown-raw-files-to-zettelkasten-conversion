@@ -20,6 +20,7 @@ done.
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221003151271](/zet/20221003151271/README.md) docker cleanup
 - [20221006140520](/zet/20221006140520/README.md) zet cmd spawn feature
+- [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
 
 Tags:
 

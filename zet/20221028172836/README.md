@@ -17,6 +17,7 @@ ln -s zet/20221028172836/Dockerfile
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221009015743](/zet/20221009015743/README.md) dockerfile
 - [20221009095853](/zet/20221009095853/README.md) finished
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

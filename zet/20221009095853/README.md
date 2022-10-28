@@ -56,6 +56,7 @@ things that are finished.
 - [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
 - [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
+- [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
 
 Tags:
 
