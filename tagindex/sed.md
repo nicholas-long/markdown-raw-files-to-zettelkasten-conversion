@@ -2,3 +2,4 @@
 - [20221006010149](/zet/20221006010149/README.md) inserting lines with sed
 - [20221006010531](/zet/20221006010531/README.md) sed scripts
 - [20221025024238](/zet/20221025024238/README.md) enumerate tags
+- [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed

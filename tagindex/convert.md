@@ -1,3 +1,4 @@
 - [20221003151328](/zet/20221003151328/README.md) bash scripting convert text strings or wordlists
 - [20221003151342](/zet/20221003151342/README.md) convert decimal to hex GMSA managed password
 - [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
+- [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed

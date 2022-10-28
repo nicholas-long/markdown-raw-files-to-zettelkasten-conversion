@@ -167,3 +167,4 @@
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
 - [20221022210052](/zet/20221022210052/README.md) file type reference
 - [20221024070910](/zet/20221024070910/README.md) drop first column with awk
+- [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed

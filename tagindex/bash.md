@@ -130,3 +130,5 @@
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221025024238](/zet/20221025024238/README.md) enumerate tags
 - [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
+- [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries
+- [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed

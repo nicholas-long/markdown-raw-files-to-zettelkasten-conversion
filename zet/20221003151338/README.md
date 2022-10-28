@@ -22,6 +22,7 @@
 - ~/kb/awk-scripting/snippets.md
 - [20221024070910](/zet/20221024070910/README.md) drop first column with awk
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
+- [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed
 
 Tags:
 

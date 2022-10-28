@@ -12,6 +12,7 @@ collection of sed scripts
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
 - [20221003150867](/zet/20221003150867/README.md) john the ripper find all file formats supported with a 2john script or tojohn use sed to process / execute multiple expressions statements
 - [20221006010149](/zet/20221006010149/README.md) inserting lines with sed
+- [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed
 
 Tags:
 

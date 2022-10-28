@@ -6,13 +6,964 @@
 #
 # unlabled scripts and commands and things 
 #
-- [20221006033248](/zet/20221006033248/README.md) rwxrob #linux #streamer #vim #bash #zettelkasten 
-- [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process #bash #zettelkasten 
-- [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion #zettelkasten #bash
-- [20221008052510](/zet/20221008052510/README.md) 80-20 rule #bash #awk #finding #interesting
-- [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash #idea #bash
-- [20221025024238](/zet/20221025024238/README.md) enumerate tags #bash #sed
-- [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation #idea #bash
+- [20221003150064](/zet/20221003150064/README.md) neovim diff #tip #vim
+- [20221003150067](/zet/20221003150067/README.md) vim #vim #program #hub #concept #editor #shell #linux #command
+- [20221003150129](/zet/20221003150129/README.md) tldr command #linux #tldr #command
+- [20221003150134](/zet/20221003150134/README.md) DNS commands #linux #assorted #command
+- [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive #tar #command
+- [20221003150138](/zet/20221003150138/README.md) apt package nc ncat netcat #linux #command #hacking #networking #apt #program
+- [20221003150139](/zet/20221003150139/README.md) apt package column #linux #util #apt #command
+- [20221003150140](/zet/20221003150140/README.md) apt package #linux #util #program #package #apt #hub #concept
+- [20221003150155](/zet/20221003150155/README.md) linux assorted commands find disk mounting for root file system #command #linux #os 
+- [20221003150156](/zet/20221003150156/README.md) linux assorted commands #command #linux #os 
+- [20221003150175](/zet/20221003150175/README.md) unix editor ex / ed example commands #linux #ex #command
+- [20221003150178](/zet/20221003150178/README.md) install alacritty  config file example yaml config #linux #install 
+- [20221003150179](/zet/20221003150179/README.md) alacritty config file #linux #install 
+- [20221003150180](/zet/20221003150180/README.md) install alacritty commands #linux #install 
+- [20221003150181](/zet/20221003150181/README.md) install alacritty dependencies to fix build errors #linux #install 
+- [20221003150182](/zet/20221003150182/README.md) install alacritty  #linux #install 
+- [20221003150184](/zet/20221003150184/README.md) add user to group #linux #users #command
+- [20221003150192](/zet/20221003150192/README.md) convert package type with alien to deb rpm slp lsb tgz #command #linux #package 
+- [20221003150193](/zet/20221003150193/README.md) concept of converting files #command #linux #package 
+- [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt #command
+- [20221003150200](/zet/20221003150200/README.md) refresh xterm configs #linux #command #config #terminal #program
+- [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors #linux #terminal #config #program #tip
+- [20221003150224](/zet/20221003150224/README.md) bettercap start commnad #hacking #networking #command #lan
+- [20221003150232](/zet/20221003150232/README.md) extract command for file type apk rebuild apk #command #hacking #extract 
+- [20221003150233](/zet/20221003150233/README.md) extract command for file type apk #command #hacking #extract 
+- [20221003150234](/zet/20221003150234/README.md) extract command for file type asar #command #hacking #extract 
+- [20221003150235](/zet/20221003150235/README.md) extract command for file type xz #command #hacking #extract 
+- [20221003150236](/zet/20221003150236/README.md) extract command for file type tar.xz #command #hacking #extract 
+- [20221003150237](/zet/20221003150237/README.md) extract command for file type tar.gz #command #hacking #extract 
+- [20221003150238](/zet/20221003150238/README.md) extract command for file type deb #command #hacking #extract 
+- [20221003150239](/zet/20221003150239/README.md) extract command for file type #command #hacking #extract #analysis
+- [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john #tool #fix #hash #crack #password #username #linux #command
+- [20221003150277](/zet/20221003150277/README.md) pfx extension PKCS#12 format certificate cracking with johntheripper #hacking #file #trick
+- [20221003150291](/zet/20221003150291/README.md) apache 2fa default key #trick #hacking #web
+- [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven #hacking #fun #games #trick
+- [20221003150306](/zet/20221003150306/README.md) modify date with touch timestomping #hacking #assorted #command #date
+- [20221003150307](/zet/20221003150307/README.md) copy docker binary to target #docker #privesc #tip
+- [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For #hacking #http #web #trick
+- [20221003150309](/zet/20221003150309/README.md) burpsuite set scope to limit request catching #hacking #tip
+- [20221003150310](/zet/20221003150310/README.md) burpsuite #hacking #tool
+- [20221003150312](/zet/20221003150312/README.md) SMB #hacking #assorted #windows #concept #hub
+- [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext #skill #trick #hacking #crypto
+- [20221003150341](/zet/20221003150341/README.md) cms database creds config locations #hub #creds #database #cms
+- [20221003150346](/zet/20221003150346/README.md) SSH brute force #hacking #bruteforcing #ssh #trick #command
+- [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error #hacking #troubleshoot #hub #fix
+- [20221003150352](/zet/20221003150352/README.md) fake set change system time for command #command
+- [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script #trick #post
+- [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering Cmanaged EXE DLL binaries modify rebuild and recompile .NET assemblies #hacking #repositories #important #repo
+- [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP #repo #tool #notes #hacking
+- [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf #repo #trick #hacking #windows
+- [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials #hacking #trick
+- [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan #repositories #important #networking #port #program #enumeration #hacking #repo #tcp #portable
+- [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell #tool #shell #powershell #windows
+- [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI #trick #windows #dll #shellcode
+- [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers #hacking #repositories #important #web #creds #trick
+- [20221003150376](/zet/20221003150376/README.md) volatility framework #hacking #repositories #important #tool #analysis
+- [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat #hacking #repositories #important #database #tool #repo #github
+- [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings #hacking #repositories #important #tool #repo #windows
+- [20221003150392](/zet/20221003150392/README.md) text cipher encryption decryption tools Text Manipulator #hacking #repositories #important #decrypt #tool #web
+- [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host #hacking #repositories #important #command #enumeration #windows
+- [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py #repo #tool
+- [20221003150436](/zet/20221003150436/README.md) webshells for all sorts of languages #trick
+- [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap #repo #ssti #trick #command
+- [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials #repo #hacking #trick #privesc
+- [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads #repo #tool #linux #windows #privesc #github
+- [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies #tool #trick #crypto
+- [20221003150457](/zet/20221003150457/README.md) GraphQLmap for GraphQL enumeration #repo #tool
+- [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file #hacking #load #trick
+- [20221003150466](/zet/20221003150466/README.md) powershell tricks convert guid to string #hacking #trick #powershell 
+- [20221003150467](/zet/20221003150467/README.md) powershell tricks browse and edit registry read registry values #hacking #trick #powershell 
+- [20221003150468](/zet/20221003150468/README.md) powershell tricks browse and edit registry set registry values #hacking #trick #powershell 
+- [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry #hacking #trick #powershell 
+- [20221003150470](/zet/20221003150470/README.md) powershell tricks mount smb share as drive "letter" #hacking #trick #powershell 
+- [20221003150471](/zet/20221003150471/README.md) powershell tricks run powershell commands as another user on remote machine with impersonated token copy and run file over session #hacking #trick #powershell 
+- [20221003150472](/zet/20221003150472/README.md) powershell tricks run powershell commands as another user on remote machine with impersonated token #hacking #trick #powershell 
+- [20221003150473](/zet/20221003150473/README.md) powershell tricks run powershell commands as another user with RunasCs #hacking #trick #powershell 
+- [20221003150474](/zet/20221003150474/README.md) powershell tricks run powershell commands as another user with SecureString credential #hacking #trick #powershell 
+- [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user #hacking #trick #powershell 
+- [20221003150476](/zet/20221003150476/README.md) powershell tricks #hacking #trick #powershell 
+- [20221003150477](/zet/20221003150477/README.md) general enumeration Active Directory Certificate Services is AD CS enabled #command #hacking #powershell 
+- [20221003150479](/zet/20221003150479/README.md) general enumeration what commands are available #command #hacking #powershell 
+- [20221003150480](/zet/20221003150480/README.md) general enumeration get processes #command #hacking #powershell 
+- [20221003150481](/zet/20221003150481/README.md) general enumeration get list of filepaths recursively #command #hacking #powershell 
+- [20221003150482](/zet/20221003150482/README.md) general powershell enumeration #command #hacking #powershell 
+- [20221003150483](/zet/20221003150483/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip #command #hacking #powershell 
+- [20221003150484](/zet/20221003150484/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob #command #hacking #powershell 
+- [20221003150485](/zet/20221003150485/README.md) active directory get GMSA service account properties get GMSA password and run commands #command #hacking #powershell 
+- [20221003150486](/zet/20221003150486/README.md) active directory get GMSA service account properties #command #hacking #powershell 
+- [20221003150487](/zet/20221003150487/README.md) active directory get user account #command #hacking #powershell 
+- [20221003150488](/zet/20221003150488/README.md) active directory #command #hacking #powershell 
+- [20221003150504](/zet/20221003150504/README.md) python pwn tricks convert hex to int #hacking #trick #pwn #python 
+- [20221003150505](/zet/20221003150505/README.md) python pwn tricks convert little endian bytes to floating point #hacking #trick #pwn #python 
+- [20221003150506](/zet/20221003150506/README.md) python pwn tricks convert little endian bytes to int #hacking #trick #pwn #python 
+- [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes #hacking #trick #pwn #python 
+- [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert #hacking #trick #pwn #python 
+- [20221003150509](/zet/20221003150509/README.md) python pwn tricks #hacking #trick #pwn #python 
+- [20221003150510](/zet/20221003150510/README.md) pwn commands / tricks patchelf ld paths use custom ld version and library path #hacking #trick #pwn #tricks 
+- [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths #hacking #trick #pwn #tricks 
+- [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks #hacking #trick #pwn #tricks 
+- [20221003150517](/zet/20221003150517/README.md) binary analysis #hacking #pwn #binary #concept #hub #skill
+- [20221003150518](/zet/20221003150518/README.md) pwntools sigreturn #trick #pwn
+- [20221003150527](/zet/20221003150527/README.md) generate reverse shell shellcode payload for pwn #pwn #hacking #trick #command
+- [20221003150528](/zet/20221003150528/README.md) gdb commands debug step into / follow child process #command #hacking #pwn #gdb 
+- [20221003150529](/zet/20221003150529/README.md) gdb commands #command #hacking #pwn #gdb 
+- [20221003150530](/zet/20221003150530/README.md) gef gdb plugin buffer overflow pattern create and offset #command #hacking #pwn #gef 
+- [20221003150531](/zet/20221003150531/README.md) gef gdb plugin rop gadget search #command #hacking #pwn #gef 
+- [20221003150532](/zet/20221003150532/README.md) gef gdb plugin #command #hacking #pwn #gef 
+- [20221003150550](/zet/20221003150550/README.md) Sub domain Enum #command #trick
+- [20221003150552](/zet/20221003150552/README.md) PhpmyAdmin write shell Windows #command #hacking
+- [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell #command #hacking
+- [20221003150567](/zet/20221003150567/README.md) SMB Copy Files (Execute on Victim) #windows #quick #smb #command
+- [20221003150583](/zet/20221003150583/README.md) php code convert human readable time to unix epoch timestamp apache HTTP Date header #command #hacking #php 
+- [20221003150584](/zet/20221003150584/README.md) php code convert human readable time to unix epoch timestamp #command #hacking #php 
+- [20221003150585](/zet/20221003150585/README.md) php code embed file or multiline string as heredoc variable #command #hacking #php 
+- [20221003150586](/zet/20221003150586/README.md) php code write to file easy file write #command #hacking #php 
+- [20221003150587](/zet/20221003150587/README.md) php code write to file #command #hacking #php 
+- [20221003150588](/zet/20221003150588/README.md) php code read file #command #hacking #php 
+- [20221003150589](/zet/20221003150589/README.md) php code return directory as array #command #hacking #php 
+- [20221003150590](/zet/20221003150590/README.md) php code examples #command #hacking #php 
+- [20221003150591](/zet/20221003150591/README.md) php run as interactive shell #command #hacking #php 
+- [20221003150592](/zet/20221003150592/README.md) php #command #hacking #php 
+- [20221003150593](/zet/20221003150593/README.md) generating enumeration wordlists exfiltrated passwd usernames to ssh key id_rsa fuzz list #command #hacking #enumeration 
+- [20221003150594](/zet/20221003150594/README.md) generating enumeration wordlists #command #hacking #enumeration 
+- [20221003150595](/zet/20221003150595/README.md) impacket dump registry and NTDS secrets from files with secretsdump #command #hacking #impacket 
+- [20221003150596](/zet/20221003150596/README.md) impacket quick smb server #command #hacking #impacket 
+- [20221003150597](/zet/20221003150597/README.md) impacket kerberoast with impacket-GetUserSPNs #command #hacking #impacket 
+- [20221003150598](/zet/20221003150598/README.md) impacket ASREP roast with Get-NPUsers #command #hacking #impacket 
+- [20221003150599](/zet/20221003150599/README.md) impacket psexec get remote shell over SMB with administrator account #command #hacking #impacket 
+- [20221003150600](/zet/20221003150600/README.md) impacket #command #hacking #impacket 
+- [20221003150601](/zet/20221003150601/README.md) tunneling Forward specific port through chisel #command #hacking #pivot 
+- [20221003150602](/zet/20221003150602/README.md) tunneling through chisel - socks Target #command #hacking #pivot 
+- [20221003150603](/zet/20221003150603/README.md) tunneling through chisel - socks Attacker #command #hacking #pivot 
+- [20221003150604](/zet/20221003150604/README.md) tunneling through chisel - socks #command #hacking #pivot 
+- [20221003150605](/zet/20221003150605/README.md) smbclient download Stream By Name (:SECRET) #command #hacking #smbclient 
+- [20221003150606](/zet/20221003150606/README.md) smbclient alternate File Streams #command #hacking #smbclient 
+- [20221003150607](/zet/20221003150607/README.md) smbclient download All Files From A Directory Recursively #command #hacking #smbclient 
+- [20221003150608](/zet/20221003150608/README.md) smbclient connect to A Share (As User John) #command #hacking #smbclient 
+- [20221003150609](/zet/20221003150609/README.md) smbclient list Shares (As Guest) #command #hacking #smbclient 
+- [20221003150610](/zet/20221003150610/README.md) smbclient null authentication #command #hacking #smbclient 
+- [20221003150611](/zet/20221003150611/README.md) smbclient #command #hacking #smbclient 
+- [20221003150612](/zet/20221003150612/README.md) smbclient shell recursive get all files #command #hacking #smbclient 
+- [20221003150613](/zet/20221003150613/README.md) smbclient shell recursive list directory #command #hacking #smbclient 
+- [20221003150614](/zet/20221003150614/README.md) smbclient shell #command #hacking #smbclient 
+- [20221003150615](/zet/20221003150615/README.md) PureFTP Execute Script (on Victim) #command #hacking #pureftp 
+- [20221003150616](/zet/20221003150616/README.md) PureFTP Create FTP Script (On Victim) #command #hacking #pureftp 
+- [20221003150617](/zet/20221003150617/README.md) PureFTP Restart Service #command #hacking #pureftp 
+- [20221003150618](/zet/20221003150618/README.md) PureFTP Commit Changes #command #hacking #pureftp 
+- [20221003150619](/zet/20221003150619/README.md) PureFTP Reset Password #command #hacking #pureftp 
+- [20221003150620](/zet/20221003150620/README.md) PureFTP Get Service Ready #command #hacking #pureftp 
+- [20221003150621](/zet/20221003150621/README.md) PureFTP Create setupftp.sh Execute The Script #command #hacking #pureftp 
+- [20221003150622](/zet/20221003150622/README.md) PureFTP Install #command #hacking #pureftp 
+- [20221003150623](/zet/20221003150623/README.md) PureFTP #command #hacking #pureftp 
+- [20221003150624](/zet/20221003150624/README.md) LDAP enumeration authenticated ldapdomaindump tool #command #hacking #ldap 
+- [20221003150625](/zet/20221003150625/README.md) LDAP enumeration authenticated #command #hacking #ldap 
+- [20221003150626](/zet/20221003150626/README.md) LDAP enumeration anonymous python dump all object data #command #hacking #ldap 
+- [20221003150627](/zet/20221003150627/README.md) LDAP enumeration anonymous python #command #hacking #ldap 
+- [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts #command #hacking #ldap 
+- [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous #command #hacking #ldap 
+- [20221003150630](/zet/20221003150630/README.md) LDAP enumeration #command #hacking #ldap 
+- [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump #hacking #command #trick
+- [20221003150633](/zet/20221003150633/README.md) smbmap default enumeration as guest #command #hacking #smbmap 
+- [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration #command #hacking #smbmap 
+- [20221003150635](/zet/20221003150635/README.md) smbmap #command #hacking #smbmap 
+- [20221003150636](/zet/20221003150636/README.md) nmap run all service enumeration on a port #command #hacking #nmap 
+- [20221003150637](/zet/20221003150637/README.md) nmap check for mountable NFS shares test access #command #hacking #nmap 
+- [20221003150638](/zet/20221003150638/README.md) nmap check for mountable NFS shares #command #hacking #nmap 
+- [20221003150639](/zet/20221003150639/README.md) nmap bruteforce HTTP authentication (including NTLM) #command #hacking #nmap 
+- [20221003150640](/zet/20221003150640/README.md) nmap run "all" enumeration and scripts #command #hacking #nmap 
+- [20221003150641](/zet/20221003150641/README.md) nmap over proxychains using socks proxy #command #hacking #nmap 
+- [20221003150642](/zet/20221003150642/README.md) nmap common ports command #command #hacking #nmap 
+- [20221003150643](/zet/20221003150643/README.md) nmap all ports command quick #command #hacking #nmap 
+- [20221003150644](/zet/20221003150644/README.md) nmap all ports command #command #hacking #nmap 
+- [20221003150645](/zet/20221003150645/README.md) nmap flags increase speed #command #hacking #nmap 
+- [20221003150646](/zet/20221003150646/README.md) nmap flags extra fast options #command #hacking #nmap 
+- [20221003150647](/zet/20221003150647/README.md) nmap flags #command #hacking #nmap 
+- [20221003150648](/zet/20221003150648/README.md) nmap #command #hacking #nmap 
+- [20221003150649](/zet/20221003150649/README.md) kubernetes kubectl enumerate permissions #command #hacking #kubernetes 
+- [20221003150650](/zet/20221003150650/README.md) kubernetes kubectl #command #hacking #kubernetes 
+- [20221003150651](/zet/20221003150651/README.md) kubernetes #command #hacking #kubernetes 
+- [20221003150652](/zet/20221003150652/README.md) wfuzz host header pollution #command #hacking #wfuzz 
+- [20221003150653](/zet/20221003150653/README.md) wfuzz authenticated fuzzing parameter names #command #hacking #wfuzz 
+- [20221003150654](/zet/20221003150654/README.md) wfuzz fuzzing parameter names #command #hacking #wfuzz 
+- [20221003150655](/zet/20221003150655/README.md) wfuzz fuzzing subdomains #command #hacking #wfuzz 
+- [20221003150656](/zet/20221003150656/README.md) wfuzz recursive path discovery depth #command #hacking #wfuzz 
+- [20221003150657](/zet/20221003150657/README.md) wfuzz dirbusting really really large directories wordlist #command #hacking #wfuzz 
+- [20221003150658](/zet/20221003150658/README.md) wfuzz dirbusting #command #hacking #wfuzz 
+- [20221003150659](/zet/20221003150659/README.md) wfuzz #command #hacking #wfuzz 
+- [20221003150660](/zet/20221003150660/README.md) data analysis commands binwalk find and extract LZMA zip streams quickly #command #hacking #binary 
+- [20221003150661](/zet/20221003150661/README.md) data analysis commands dd copy from offset #command #hacking #binary 
+- [20221003150662](/zet/20221003150662/README.md) data analysis commands #command #hacking #binary 
+- [20221003150663](/zet/20221003150663/README.md) NFS Mount Drive #command #hacking #nfs 
+- [20221003150664](/zet/20221003150664/README.md) NFS Show mountable drives #command #hacking #nfs 
+- [20221003150665](/zet/20221003150665/README.md) NFS commands #command #hacking #nfs 
+- [20221003150667](/zet/20221003150667/README.md) crackmapexec cme commands enumerate acccess to files as json report #command #hacking #bruteforcing
+- [20221003150668](/zet/20221003150668/README.md) crackmapexec cme commands enumerate shares accessable by user #command #hacking #bruteforcing
+- [20221003150669](/zet/20221003150669/README.md) crackmapexec cme commands test combine valid user and password combinations #command #hacking #bruteforcing
+- [20221003150670](/zet/20221003150670/README.md) crackmapexec cme commands bruteforce SMB #command #hacking #bruteforcing
+- [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files #command #hacking #bruteforcing
+- [20221003150672](/zet/20221003150672/README.md) crackmapexec cme commands RID brute force #command #hacking #bruteforcing
+- [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands #command #hacking #bruteforcing
+- [20221003150674](/zet/20221003150674/README.md) bloodhound stealthy collection method #command #hacking #bloodhound 
+- [20221003150675](/zet/20221003150675/README.md) bloodhound run python version in docker with NTLM hashes instead of creds #command #hacking #bloodhound 
+- [20221003150676](/zet/20221003150676/README.md) bloodhound run python version in docker #command #hacking #bloodhound 
+- [20221003150677](/zet/20221003150677/README.md) bloodhound #command #hacking #bloodhound #hub
+- [20221003150678](/zet/20221003150678/README.md) tftp transfer Files #command #hacking #tftp 
+- [20221003150679](/zet/20221003150679/README.md) tftp start daemon (folder /var/tftp) #command #hacking #tftp 
+- [20221003150680](/zet/20221003150680/README.md) tftp upload file #command #hacking #tftp 
+- [20221003150681](/zet/20221003150681/README.md) tftp commands #command #hacking #tftp 
+- [20221003150682](/zet/20221003150682/README.md) web enumeration quick commands forms #command #hacking #web 
+- [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands #command #hacking #web 
+- [20221003150686](/zet/20221003150686/README.md) wpscan brute force users file and password list #command #hacking #wpscan 
+- [20221003150687](/zet/20221003150687/README.md) wpscan initial aggressive plugins-detection #command #hacking #wpscan 
+- [20221003150688](/zet/20221003150688/README.md) wpscan initial enumerate user id range #command #hacking #wpscan 
+- [20221003150689](/zet/20221003150689/README.md) wpscan initial database exports #command #hacking #wpscan 
+- [20221003150690](/zet/20221003150690/README.md) wpscan initial config backups #command #hacking #wpscan 
+- [20221003150691](/zet/20221003150691/README.md) wpscan initial vulnerable themes #command #hacking #wpscan 
+- [20221003150692](/zet/20221003150692/README.md) wpscan initial all plugins passive scan #command #hacking #wpscan 
+- [20221003150693](/zet/20221003150693/README.md) wpscan initial #command #hacking #wpscan 
+- [20221003150694](/zet/20221003150694/README.md) wpscan #command #hacking #wpscan 
+- [20221003150695](/zet/20221003150695/README.md) SNMP enumeration command enumerating / dumping interesting and categorized information #command #hacking #snmp 
+- [20221003150696](/zet/20221003150696/README.md) SNMP enumeration command onesixtyone #command #hacking #snmp 
+- [20221003150697](/zet/20221003150697/README.md) SNMP enumeration command snmpwalk  #command #hacking #snmp 
+- [20221003150698](/zet/20221003150698/README.md) SNMP enumeration command #command #hacking #snmp 
+- [20221003150699](/zet/20221003150699/README.md) sqlmap with burp request Get A Reverse Shell (MySQL) #command #hacking #sqlmap 
+- [20221003150700](/zet/20221003150700/README.md) sqlmap with burp request Test All (Default Settings, High Stress) #command #hacking #sqlmap 
+- [20221003150701](/zet/20221003150701/README.md) sqlmap with burp request Test All (Default Settings) #command #hacking #sqlmap 
+- [20221003150702](/zet/20221003150702/README.md) sqlmap Test All (Default Settings, High Stress) #command #hacking #sqlmap 
+- [20221003150703](/zet/20221003150703/README.md) sqlmap Test All (Default Settings) #command #hacking #sqlmap 
+- [20221003150704](/zet/20221003150704/README.md) sqlmap search string response on site for successful injection #command #hacking #sqlmap 
+- [20221003150705](/zet/20221003150705/README.md) sqlmap custom injection marker specify exact SQL injection #command #hacking #sqlmap 
+- [20221003150706](/zet/20221003150706/README.md) sqlmap custom injection marker #command #hacking #sqlmap 
+- [20221003150707](/zet/20221003150707/README.md) sqlmap level and risk options #command #hacking #sqlmap 
+- [20221003150708](/zet/20221003150708/README.md) sqlmap result output data file location #command #hacking #sqlmap 
+- [20221003150709](/zet/20221003150709/README.md) sqlmap #command #hacking #sqlmap 
+- [20221003150710](/zet/20221003150710/README.md) packet capture capture packets with tcpdump over ssh connection and pipe directly to wireshark #command #hacking #packet 
+- [20221003150711](/zet/20221003150711/README.md) packet capture read pcap data with tshark #command #hacking #packet 
+- [20221003150712](/zet/20221003150712/README.md) packet capture with tcpdump watch traffic print packet data contents #command #hacking #packet 
+- [20221003150713](/zet/20221003150713/README.md) packet capture with tcpdump watch traffic print IP and port #command #hacking #packet 
+- [20221003150714](/zet/20221003150714/README.md) packet capture with tcpdump watch traffic #command #hacking #packet 
+- [20221003150715](/zet/20221003150715/README.md) packet capture with tcpdump log data to pcap file #command #hacking #packet 
+- [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump #command #hacking #packet 
+- [20221003150717](/zet/20221003150717/README.md) packet capture #command #hacking #packet 
+- [20221003150718](/zet/20221003150718/README.md) curl upload a file #command #hacking #curl 
+- [20221003150719](/zet/20221003150719/README.md) curl scan ports for websites through http proxy #command #hacking #curl 
+- [20221003150720](/zet/20221003150720/README.md) curl #command #hacking #curl 
+- [20221003150721](/zet/20221003150721/README.md) openssl pfx p12 file PKCS12 export pfx private key #command #hacking #openssl 
+- [20221003150722](/zet/20221003150722/README.md) openssl pfx p12 file PKCS12 public key fingerprint #command #hacking #openssl 
+- [20221003150723](/zet/20221003150723/README.md) openssl pfx p12 file PKCS12 view information about certificate #command #hacking #openssl 
+- [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12 #command #hacking #openssl 
+- [20221003150726](/zet/20221003150726/README.md) openssl view information about certificate request #command #crypto #openssl
+- [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal #trick #command
+- [20221003150728](/zet/20221003150728/README.md) powershell base64 encode equivalent within ps #command #hacking #windows #encode 
+- [20221003150729](/zet/20221003150729/README.md) powershell encode commands as base64 with windows wide char strings in linux #command #hacking #windows #encode 
+- [20221003150730](/zet/20221003150730/README.md) powershell #command #hacking #windows #encode 
+- [20221003150731](/zet/20221003150731/README.md) feroxbuster files, backups, and extensions dynamic collection settings #command #hacking #feroxbuster 
+- [20221003150732](/zet/20221003150732/README.md) feroxbuster files, backups, and extensions small words to filenames plus extensions ignore 403  #command #hacking #feroxbuster 
+- [20221003150733](/zet/20221003150733/README.md) feroxbuster files, backups, and extensions backups and extensions files command #command #hacking #feroxbuster 
+- [20221003150734](/zet/20221003150734/README.md) feroxbuster files, backups, and extensions fix recursion loop #command #hacking #feroxbuster 
+- [20221003150735](/zet/20221003150735/README.md) feroxbuster files, backups, and extensions #command #hacking #feroxbuster 
+- [20221003150736](/zet/20221003150736/README.md) feroxbuster dirbusting big buster #command #hacking #feroxbuster 
+- [20221003150737](/zet/20221003150737/README.md) feroxbuster dirbusting common with arguments #command #hacking #feroxbuster 
+- [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting #command #hacking #feroxbuster 
+- [20221003150739](/zet/20221003150739/README.md) feroxbuster #command #hacking #feroxbuster 
+- [20221003150740](/zet/20221003150740/README.md) hydra brute force MYSQL #command #hacking #hydra 
+- [20221003150741](/zet/20221003150741/README.md) hydra brute force HTTP Post Request #command #hacking #hydra 
+- [20221003150742](/zet/20221003150742/README.md) hydra brute force HTTP Get Request #command #hacking #hydra 
+- [20221003150743](/zet/20221003150743/README.md) hydra brute force HTTP Basic Authentication #command #hacking #hydra 
+- [20221003150744](/zet/20221003150744/README.md) hydra brute force #command #hacking #hydra 
+- [20221003150745](/zet/20221003150745/README.md) cracking keepass database with image key 2 john #command #crack
+- [20221003150746](/zet/20221003150746/README.md) impacket kerberos commands wmiexec #command #hacking #windows #windows 
+- [20221003150747](/zet/20221003150747/README.md) impacket kerberos commands ticket environment variable KRB5CCNAME #command #hacking #windows #windows 
+- [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands #command #hacking #windows #windows 
+- [20221003150749](/zet/20221003150749/README.md) crackmapexec kerberos authentication with ticket include ticket environment variable #command #hacking #windows #windows 
+- [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket #command #hacking #windows #windows 
+- [20221003150751](/zet/20221003150751/README.md) kerbrute password spray users from user list file #command #hacking #windows #windows 
+- [20221003150752](/zet/20221003150752/README.md) kerbrute enumerate users using wordlist #command #hacking #windows #windows 
+- [20221003150753](/zet/20221003150753/README.md) kerbrute #command #hacking #windows #windows 
+- [20221003150754](/zet/20221003150754/README.md) keytool print certificate in RSA file #command #hacking #keytool 
+- [20221003150755](/zet/20221003150755/README.md) keytool #command #hacking #keytool 
+- [20221003150756](/zet/20221003150756/README.md) MSFVENOM tricks make executable binary with input shellcode #command #hacking #msfvenom 
+- [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks #command #hacking #msfvenom 
+- [20221003150758](/zet/20221003150758/README.md) MSFVENOM Active Sever Pages Extended (.aspx) #command #hacking #msfvenom 
+- [20221003150759](/zet/20221003150759/README.md) MSFVENOM Java Server Pages (.jsp) As .war #command #hacking #msfvenom 
+- [20221003150760](/zet/20221003150760/README.md) MSFVENOM Java Server Pages (.jsp) #command #hacking #msfvenom 
+- [20221003150761](/zet/20221003150761/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) Bind Shell #command #hacking #msfvenom 
+- [20221003150762](/zet/20221003150762/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) Reverse Shell #command #hacking #msfvenom 
+- [20221003150763](/zet/20221003150763/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) Bind Shell #command #hacking #msfvenom 
+- [20221003150764](/zet/20221003150764/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) Reverse Shell #command #hacking #msfvenom 
+- [20221003150765](/zet/20221003150765/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) #command #hacking #msfvenom 
+- [20221003150766](/zet/20221003150766/README.md) MSFVENOM Linux Binary (.elf) #command #hacking #msfvenom 
+- [20221003150767](/zet/20221003150767/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) Meterpreter #command #hacking #msfvenom 
+- [20221003150768](/zet/20221003150768/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) Bind Shell #command #hacking #msfvenom 
+- [20221003150769](/zet/20221003150769/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) Reverse Shell #command #hacking #msfvenom 
+- [20221003150770](/zet/20221003150770/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) service #command #hacking #msfvenom 
+- [20221003150771](/zet/20221003150771/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) #command #hacking #msfvenom 
+- [20221003150772](/zet/20221003150772/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Bind Shell Output in Hex, C Style, Exclude bad chars, Exitfunction thread #command #hacking #msfvenom 
+- [20221003150773](/zet/20221003150773/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Bind Shell #command #hacking #msfvenom 
+- [20221003150774](/zet/20221003150774/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Reverse Shell #command #hacking #msfvenom 
+- [20221003150775](/zet/20221003150775/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) #command #hacking #msfvenom 
+- [20221003150776](/zet/20221003150776/README.md) MSFVENOM Windows Binary (.exe) executable #command #hacking #msfvenom 
+- [20221003150777](/zet/20221003150777/README.md) MSFVENOM #command #hacking #msfvenom 
+- [20221003150778](/zet/20221003150778/README.md) crowbar brute force RDP active directory domain joined #command #hacking #bruteforcing
+- [20221003150779](/zet/20221003150779/README.md) crowbar brute force RDP #hacking #command #bruteforcing
+- [20221003150780](/zet/20221003150780/README.md) crowbar #command #hacking #program #bruteforcing #hub
+- [20221003150781](/zet/20221003150781/README.md) enum4linux-ng next gen default smb enumeration #command #hacking #enumeration
+- [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen #command #hacking #enumeration #tool #networking
+- [20221003150783](/zet/20221003150783/README.md) enum4linux Scan Host Suppress Errors #command #hacking #enumeration
+- [20221003150784](/zet/20221003150784/README.md) enum4linux Scan Host #command #hacking #enumeration
+- [20221003150785](/zet/20221003150785/README.md) enum4linux enumerate SMB shares and permissions #command #hacking #enumeration
+- [20221003150786](/zet/20221003150786/README.md) enum4linux #command #hacking #enumeration
+- [20221003150787](/zet/20221003150787/README.md) openssl convert certificate to PKCS12 format #command #hacking #openssl 
+- [20221003150788](/zet/20221003150788/README.md) openssl sign a certificate signing request with the private key of a CA certificate authority #command #hacking #openssl 
+- [20221003150789](/zet/20221003150789/README.md) openssl create certificate signing request #command #hacking #openssl 
+- [20221003150790](/zet/20221003150790/README.md) openssl create a key 4096 bits #command #hacking #openssl 
+- [20221003150791](/zet/20221003150791/README.md) openssl #command #hacking #openssl 
+- [20221003150792](/zet/20221003150792/README.md) generate cewl wordlist from file plaintext with grep #command #hacking #generate 
+- [20221003150793](/zet/20221003150793/README.md) generate cewl wordlist from file using temporary http server #command #hacking #generate 
+- [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file #command #hacking #generate 
+- [20221003150795](/zet/20221003150795/README.md) generate cewl wordlist from website #command #hacking #generate 
+- [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist #command #hacking #generate 
+- [20221003150797](/zet/20221003150797/README.md) git recover orphaned commits and files and restore a directory after reset #command #hacking #git 
+- [20221003150798](/zet/20221003150798/README.md) git #command #hacking #git 
+- [20221003150799](/zet/20221003150799/README.md) openssl commands decrypt file #command #hacking #openssl 
+- [20221003150800](/zet/20221003150800/README.md) openssl commands encrypt file #command #hacking #openssl 
+- [20221003150801](/zet/20221003150801/README.md) openssl commands #command #hacking #openssl 
+- [20221003150802](/zet/20221003150802/README.md) brute force default credentials tomcat metasploit #command #hacking #hydra 
+- [20221003150803](/zet/20221003150803/README.md) brute force default credentials tomcat wfuzz #command #hacking #hydra 
+- [20221003150804](/zet/20221003150804/README.md) brute force default credentials tomcat #command #hacking #hydra 
+- [20221003150805](/zet/20221003150805/README.md) brute force default credentials ssh #command #hacking #hydra 
+- [20221003150806](/zet/20221003150806/README.md) brute force default credentials mysql #command #hacking #hydra 
+- [20221003150807](/zet/20221003150807/README.md) brute force default credentials #command #hacking #hydra 
+- [20221003150808](/zet/20221003150808/README.md) wfuzz fuzzing details send to burpsuite local proxy #command #hacking #wfuzz 
+- [20221003150809](/zet/20221003150809/README.md) wfuzz fuzzing details show or hide responses containing text regex #command #hacking #wfuzz 
+- [20221003150810](/zet/20221003150810/README.md) wfuzz fuzzing details fuzz multiple parameters #command #hacking #wfuzz 
+- [20221003150811](/zet/20221003150811/README.md) wfuzz fuzzing details "X-Forwarded-For" header with custom IP ranges #command #hacking #wfuzz 
+- [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details #command #hacking #wfuzz 
+- [20221003150813](/zet/20221003150813/README.md) meterpreter msf migrate local exploit suggester issues #command #hacking #metasploit 
+- [20221003150814](/zet/20221003150814/README.md) meterpreter msf migrate #command #hacking #metasploit 
+- [20221003150815](/zet/20221003150815/README.md) meterpreter msf move from x86 to x64 #command #hacking #metasploit 
+- [20221003150816](/zet/20221003150816/README.md) meterpreter msf #command #hacking #metasploit 
+- [20221003150817](/zet/20221003150817/README.md) metasploit msf proxy exploits through burpsuite #command #hacking #metasploit 
+- [20221003150818](/zet/20221003150818/README.md) metasploit msf run as script from rc file #command #hacking #metasploit 
+- [20221003150819](/zet/20221003150819/README.md) metasploit msf #command #hacking #metasploit 
+- [20221003150820](/zet/20221003150820/README.md) hydra bruteforce ftp rockyou 50 #command #hacking #hydra 
+- [20221003150821](/zet/20221003150821/README.md) hydra bruteforce ftp default creds #command #hacking #hydra 
+- [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp #command #hacking #hydra 
+- [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force #command #hacking #bruteforcing
+- [20221003150824](/zet/20221003150824/README.md) postgres sql enumeration connect to database using file socket #command #hacking #database 
+- [20221003150825](/zet/20221003150825/README.md) postgres sql enumeration connect to database #command #hacking #database 
+- [20221003150826](/zet/20221003150826/README.md) postgres sql enumeration exit #command #hacking #database 
+- [20221003150827](/zet/20221003150827/README.md) postgres sql enumeration list tables and "relations" #command #hacking #database 
+- [20221003150828](/zet/20221003150828/README.md) postgres sql enumeration list databases #command #hacking #database 
+- [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list #command #hacking #database 
+- [20221003150830](/zet/20221003150830/README.md) postgres sql enumeration #command #hacking #database 
+- [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials #trick #tool #hacking #web
+- [20221003150832](/zet/20221003150832/README.md) responder add ssl certificate #command #hacking #responder 
+- [20221003150833](/zet/20221003150833/README.md) responder #command #hacking #responder 
+- [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack #tool #privesc #bruteforcing #linux
+- [20221003150835](/zet/20221003150835/README.md) smb mount share old SMBv1 share #command #hacking #smb 
+- [20221003150836](/zet/20221003150836/README.md) smb mount share unauthenticated #command #hacking #smb 
+- [20221003150837](/zet/20221003150837/README.md) smb mount share #command #hacking #smb 
+- [20221003150838](/zet/20221003150838/README.md) scan SMB for vulnerabilities with nmap #command #hacking #enumeration
+- [20221003150839](/zet/20221003150839/README.md) gobuster flags #command #hacking #gobuster 
+- [20221003150840](/zet/20221003150840/README.md) gobuster vhost enumeration #command #hacking #gobuster 
+- [20221003150841](/zet/20221003150841/README.md) gobuster fix HTTPS cert errors #command #hacking #gobuster 
+- [20221003150842](/zet/20221003150842/README.md) gobuster Slow Scan (Check File Extensions) #command #hacking #gobuster 
+- [20221003150843](/zet/20221003150843/README.md) gobuster Fast Scan (Big List) #command #hacking #gobuster 
+- [20221003150844](/zet/20221003150844/README.md) gobuster Fast Scan (Small List) #command #hacking #gobuster 
+- [20221003150845](/zet/20221003150845/README.md) gobuster scan files and discover backups #command #hacking #gobuster 
+- [20221003150846](/zet/20221003150846/README.md) gobuster dirbusting #command #hacking #gobuster 
+- [20221003150847](/zet/20221003150847/README.md) gobuster #command #hacking #gobuster 
+- [20221003150849](/zet/20221003150849/README.md) hydra brute force HTTP basic authentication #command #hacking #hydra 
+- [20221003150850](/zet/20221003150850/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate 86400 seconds = one day #command #hacking #dns 
+- [20221003150851](/zet/20221003150851/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate #command #hacking #dns 
+- [20221003150852](/zet/20221003150852/README.md) dns commands enumerate with ANY query #command #hacking #dns 
+- [20221003150853](/zet/20221003150853/README.md) dns commands zone transfer axfr #command #hacking #dns 
+- [20221003150854](/zet/20221003150854/README.md) dns commands reverse lookup with dig #command #hacking #dns 
+- [20221003150855](/zet/20221003150855/README.md) dns commands #command #hacking #dns 
+- [20221003150856](/zet/20221003150856/README.md) ssh-keygen generate key to file no password prompt #command #hacking #ssh 
+- [20221003150857](/zet/20221003150857/README.md) ssh-keygen #command #hacking #ssh 
+- [20221003150858](/zet/20221003150858/README.md) SSH arguments use old ssh-rsa RSA private key allow for connection #command #hacking #ssh 
+- [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm #command #hacking #ssh 
+- [20221003150860](/zet/20221003150860/README.md) SSH arguments connect to old server #command #hacking #ssh 
+- [20221003150861](/zet/20221003150861/README.md) SSH arguments troubleshoot diagnose connection problems #command #hacking #ssh 
+- [20221003150862](/zet/20221003150862/README.md) SSH arguments #command #hacking #ssh 
+- [20221003150864](/zet/20221003150864/README.md) two-factor authentication 2fa generate one time pins OTP google authenticator #command #hacking #two 
+- [20221003150865](/zet/20221003150865/README.md) two-factor authentication 2fa generate one time pins OTP #command #hacking #two 
+- [20221003150866](/zet/20221003150866/README.md) two-factor authentication 2fa #command #hacking #two 
+- [20221003150867](/zet/20221003150867/README.md) john the ripper find all file formats supported with a 2john script or tojohn use sed to process / execute multiple expressions statements #command #hacking #john 
+- [20221003150868](/zet/20221003150868/README.md) john the ripper find all file formats supported with a 2john script or tojohn #command #hacking #john 
+- [20221003150869](/zet/20221003150869/README.md) john the ripper use rules to crack hashes from file with wordlist #command #hacking #john 
+- [20221003150870](/zet/20221003150870/README.md) john the ripper crack hashes from file with wordlist #command #hacking #john 
+- [20221003150871](/zet/20221003150871/README.md) john the ripper #command #hacking #john 
+- [20221003150872](/zet/20221003150872/README.md) host quick server smtp receive email server #command #hacking #quick 
+- [20221003150873](/zet/20221003150873/README.md) host quick server #command #hacking #quick 
+- [20221003150874](/zet/20221003150874/README.md) nikto command #hacking #command #web
+- [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560 #hacking #privesc #info #tip
+- [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present #command #trick #docker #bsd #enumeration
+- [20221003150894](/zet/20221003150894/README.md) linux enumeration quick commands file transfer with cat herefiles #command #hacking #privesc #enumeration 
+- [20221003150895](/zet/20221003150895/README.md) linux enumeration quick commands check if users can see other users' processes #command #hacking #privesc #enumeration 
+- [20221003150896](/zet/20221003150896/README.md) linux enumeration quick commands list systemd timers #command #hacking #privesc #enumeration 
+- [20221003150897](/zet/20221003150897/README.md) linux enumeration quick commands capabilities decode on host machine with capsh #command #hacking #privesc #enumeration 
+- [20221003150898](/zet/20221003150898/README.md) linux enumeration quick commands capabilities running process effective capabilities #command #hacking #privesc #enumeration 
+- [20221003150899](/zet/20221003150899/README.md) linux enumeration quick commands capabilities without getcap binary #command #hacking #privesc #enumeration 
+- [20221003150900](/zet/20221003150900/README.md) linux enumeration quick commands capabilities get capabilities of all files recursively #command #hacking #privesc #enumeration 
+- [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities #command #hacking #privesc #enumeration 
+- [20221003150902](/zet/20221003150902/README.md) linux enumeration quick commands copy entire directory to attacker machine quickly by piping tar #command #hacking #privesc #enumeration 
+- [20221003150903](/zet/20221003150903/README.md) linux enumeration quick commands find files that have millisecond microsecond nanosecond times not common install #command #hacking #privesc #enumeration 
+- [20221003150904](/zet/20221003150904/README.md) linux enumeration quick commands exfiltrate files bash pipe tcp #command #hacking #privesc #enumeration 
+- [20221003150905](/zet/20221003150905/README.md) linux enumeration quick commands transfer / download files with just bash send #command #hacking #privesc #enumeration 
+- [20221003150906](/zet/20221003150906/README.md) linux enumeration quick commands transfer / download files with just bash receive #command #hacking #privesc #enumeration 
+- [20221003150907](/zet/20221003150907/README.md) linux enumeration quick commands transfer / download files with just bash #command #hacking #privesc #enumeration 
+- [20221003150908](/zet/20221003150908/README.md) linux enumeration quick commands get IP with no `ifconfig` or `ip a` on a host or within docker container #command #hacking #privesc #enumeration 
+- [20221003150909](/zet/20221003150909/README.md) linux enumeration quick commands find all git repositories #command #hacking #privesc #enumeration 
+- [20221003150910](/zet/20221003150910/README.md) linux enumeration quick commands get number of CPU processors #command #hacking #privesc #enumeration 
+- [20221003150911](/zet/20221003150911/README.md) linux enumeration quick commands get all file hashes in directory using find and md5sum #command #hacking #privesc #enumeration 
+- [20221003150912](/zet/20221003150912/README.md) linux enumeration quick commands find files modified between specific dates (with reference files) #command #hacking #privesc #enumeration 
+- [20221003150913](/zet/20221003150913/README.md) linux enumeration quick commands find files modified between specific dates #command #hacking #privesc #enumeration 
+- [20221003150914](/zet/20221003150914/README.md) linux enumeration quick commands find files belonging to group #command #hacking #privesc #enumeration 
+- [20221003150915](/zet/20221003150915/README.md) linux enumeration quick commands find files belonging to user #command #hacking #privesc #enumeration 
+- [20221003150916](/zet/20221003150916/README.md) linux enumeration quick commands find setuid binaries #command #hacking #privesc #enumeration 
+- [20221003150917](/zet/20221003150917/README.md) linux enumeration quick commands process tree ps #command #hacking #privesc #enumeration 
+- [20221003150918](/zet/20221003150918/README.md) linux enumeration quick commands enumerate open ports if `ss` is not present #command #hacking #privesc #enumeration 
+- [20221003150919](/zet/20221003150919/README.md) linux enumeration quick commands list all recursively with ls sorting by modification date within directories #command #hacking #privesc #enumeration 
+- [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands #command #hacking #privesc #enumeration #command 
+- [20221003150922](/zet/20221003150922/README.md) BSD file transfers #hacking #privesc #bsd #command #trick
+- [20221003150932](/zet/20221003150932/README.md) lxd priv esc without painful build problems lxd priv esc x64 #hacking #privesc #tip #trick #container
+- [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems #hacking #privesc #trick #container
+- [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows #windows #privesc #command
+- [20221003150959](/zet/20221003150959/README.md) OSINT email OSINT #hacking #osint #to-try-list #tool
+- [20221003150966](/zet/20221003150966/README.md) OSINT #hacking #tool #web #osint
+- [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup #tip #dns
+- [20221003150977](/zet/20221003150977/README.md) oracle connect as sysdba enable file read privileges #hacking #program #database #privesc #command
+- [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write #hacking #sqli #file #database #file #trick
+- [20221003150981](/zet/20221003150981/README.md) mariadb mysql files read #hacking #sqli #trick #file
+- [20221003150983](/zet/20221003150983/README.md) mariadb mysql files #hacking #sqli #trick #file
+- [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection #hacking #sqli #trick #info
+- [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi #hacking #sqli #trick #mysql
+- [20221003150988](/zet/20221003150988/README.md) mariadb mysql #hacking #sqli #trick
+- [20221003150995](/zet/20221003150995/README.md) GraphQL APIs GraphQL tools #hacking #api #tool
+- [20221003151006](/zet/20221003151006/README.md) API enumeration #hacking #api #hub
+- [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures #hacking #lfi #trick #skill
+- [20221003151020](/zet/20221003151020/README.md) SSTI polyglot payload #ssti #hacking #trick
+- [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin #hacking #windows #trick #post
+- [20221003151053](/zet/20221003151053/README.md) lsass process contains credentials #tip
+- [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read #trick #windows #hacking #version #enumeration
+- [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows #trick #enumeration #windows
+- [20221003151063](/zet/20221003151063/README.md) bypass UAC with administrators group fodhelper bypass #hacking #windows #uac #exploit #trick
+- [20221003151090](/zet/20221003151090/README.md) powerview enumerate sensitive information disclosure on file shares #command #hacking #windows #powerview 
+- [20221003151091](/zet/20221003151091/README.md) powerview #command #hacking #windows #powerview 
+- [20221003151104](/zet/20221003151104/README.md) compile windows DLL to run commands DLL code building with mingw #command #hacking #windows #dll 
+- [20221003151105](/zet/20221003151105/README.md) compile windows DLL to run commands DLL code #command #hacking #windows #dll 
+- [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands #command #hacking #windows #dll 
+- [20221003151124](/zet/20221003151124/README.md) dos commands #hacking #windows #dos #command
+- [20221003151129](/zet/20221003151129/README.md) active directory  DNS #hacking #windows #windows #hub #ad
+- [20221003151144](/zet/20221003151144/README.md) active directory #hacking #windows #hub #concept
+- [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target #hacking #windows #ad #trick
+- [20221003151150](/zet/20221003151150/README.md) windows XP and windows server 2003 write arbitrary MOF file for remote code execution #hacking #windows #xp #trick #rce
+- [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003 #hacking #windows #xp #hub
+- [20221003151153](/zet/20221003151153/README.md) windows #windows #hub #concept
+- [20221003151199](/zet/20221003151199/README.md) finger tcp 79 #tool #enumeration #users
+- [20221003151215](/zet/20221003151215/README.md) caddy install #hacking #trick #valid 
+- [20221003151216](/zet/20221003151216/README.md) caddy stand up https server with a valid certificate #hacking #trick #valid 
+- [20221003151217](/zet/20221003151217/README.md) caddy #hacking #trick #valid 
+- [20221003151218](/zet/20221003151218/README.md) send email over SMTP from command line with swaks #trick #email
+- [20221003151219](/zet/20221003151219/README.md) hql injection auth bypass example #hacking #trick #hibernate 
+- [20221003151220](/zet/20221003151220/README.md) hql injection #hacking #trick #hibernate 
+- [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup #trick #post
+- [20221003151222](/zet/20221003151222/README.md) identify linux version from service version ubuntu #hacking #trick #identify 
+- [20221003151223](/zet/20221003151223/README.md) identify linux version from service version #hacking #trick #identify 
+- [20221003151224](/zet/20221003151224/README.md) php filter LFI to iconv RCE updated conversion table for all base64 (hacktricks) #hacking #trick #php 
+- [20221003151225](/zet/20221003151225/README.md) php filter LFI to iconv RCE original get 0 script #hacking #trick #php 
+- [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE #hacking #trick #php 
+- [20221003151228](/zet/20221003151228/README.md) VBScript Download Files #hacking #trick #vbscript 
+- [20221003151229](/zet/20221003151229/README.md) VBScript Create wget.vbs File #hacking #trick #vbscript 
+- [20221003151230](/zet/20221003151230/README.md) VBScript #hacking #trick #vbscript 
+- [20221003151231](/zet/20221003151231/README.md) mysql mariadb find plugin directory #hacking #trick #mysql 
+- [20221003151232](/zet/20221003151232/README.md) mysql mariadb exploit GRANT OPTION to grant file write permissions to self #hacking #trick #mysql 
+- [20221003151233](/zet/20221003151233/README.md) mysql mariadb write UDF shell or any binary file with file permissions #hacking #trick #mysql 
+- [20221003151235](/zet/20221003151235/README.md) mysql mariadb display query output as pretty printed text with column names #hacking #trick #mysql 
+- [20221003151236](/zet/20221003151236/README.md) mysql mariadb #hacking #trick #mysql #command #database #enumeration
+- [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog #command #hacking #web
+- [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes #tip #fix #dns #boxes #ctf #web
+- [20221003151240](/zet/20221003151240/README.md) Using touch to make files with strange names for exploiting scripts #trick #hacking #linux #privesc
+- [20221003151242](/zet/20221003151242/README.md) preparing malicious package payloads node npm package malicious repository ( tcp port 4873 ) #hacking #trick #malicious 
+- [20221003151243](/zet/20221003151243/README.md) preparing malicious package payloads node npm package #hacking #trick #malicious 
+- [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads #hacking #trick #malicious 
+- [20221003151245](/zet/20221003151245/README.md) Jenkins / Groovy (Java) Reverse Shell Windows #hacking #trick #jenkins 
+- [20221003151246](/zet/20221003151246/README.md) Jenkins / Groovy (Java) Reverse Shell Linux #hacking #trick #jenkins 
+- [20221003151247](/zet/20221003151247/README.md) Jenkins / Groovy (Java) Reverse Shell #hacking #trick #jenkins 
+- [20221003151248](/zet/20221003151248/README.md) sending installs to target install pip modules on target as files with no dependencies on network connection to pip #hacking #trick #install 
+- [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies #hacking #trick #install 
+- [20221003151250](/zet/20221003151250/README.md) sending installs to target #hacking #trick #install 
+- [20221003151251](/zet/20221003151251/README.md) run executable binary programs within process memory windows cobalt strike BOF.NET common language runtime CLR .NET assemblies #hacking #trick #run 
+- [20221003151252](/zet/20221003151252/README.md) run executable binary programs within process memory windows cobalt strike BOF C DLLs #hacking #trick #run 
+- [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows cobalt strike #hacking #trick #run 
+- [20221003151254](/zet/20221003151254/README.md) run executable binary programs within process memory windows #hacking #trick #run 
+- [20221003151255](/zet/20221003151255/README.md) run executable binary programs within process memory linux base64 piped text using dd and shellcode #hacking #trick #run 
+- [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux #hacking #trick #run 
+- [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory #hacking #trick #run 
+- [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall #trick #networking #hacking
+- [20221003151259](/zet/20221003151259/README.md) stabilize shell with script command #trick #hacking #shell
+- [20221003151262](/zet/20221003151262/README.md) windows executable smartscreen protection bypass ( apt 29 ) #hacking #trick #windows #windows 
+- [20221003151263](/zet/20221003151263/README.md) windows executable smartscreen protection #hacking #trick #windows #windows 
+- [20221003151268](/zet/20221003151268/README.md) Lookup missing packages with command-not-found #command
+- [20221003151276](/zet/20221003151276/README.md) linux data science issues #command #data #pipelines
+- [20221003151277](/zet/20221003151277/README.md) linux data science utilities #command #data #pipelines
+- [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub #command #data #pipelines
+- [20221003151284](/zet/20221003151284/README.md) topological sort with tsort #topological #command #linux #data #pipelines
+- [20221003151287](/zet/20221003151287/README.md) jq pipe and filter objects syntax #command #jq #data #pipelines
+- [20221003151288](/zet/20221003151288/README.md) jq pipe syntax #command #jq #data #pipelines
+- [20221003151289](/zet/20221003151289/README.md) jq #command #jq #data #pipelines
+- [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream #trick #defense #hacking #ssh
+- [20221003151351](/zet/20221003151351/README.md) python scripting parse all post params from post content given on standard input #python #script 
+- [20221003151352](/zet/20221003151352/README.md) python scripting convert tsv with key and value fields to python dictionary #python #script 
+- [20221003151353](/zet/20221003151353/README.md) python scripting fuzz valid dates #python #script 
+- [20221003151354](/zet/20221003151354/README.md) python scripting convert a GMSA managed password structure to a NTLM hash #python #script 
+- [20221003151355](/zet/20221003151355/README.md) python scripting read and process lines of input #python #script 
+- [20221003151356](/zet/20221003151356/README.md) python scripting urlencode every input line #python #script 
+- [20221003151357](/zet/20221003151357/README.md) python scripting parse all get parameters from a url #python #script 
+- [20221003151358](/zet/20221003151358/README.md) python scripting parse a cookie from every line on standard input #python #script 
+- [20221003151359](/zet/20221003151359/README.md) python scripting convert CSV to TSV #python #script 
+- [20221003151360](/zet/20221003151360/README.md) python scripting connect to remote server #python #script 
+- [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally #python #script 
+- [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script #python #script 
+- [20221003151363](/zet/20221003151363/README.md) python scripting #python #script 
+- [20221003151425](/zet/20221003151425/README.md) awk scripting get HTTP POST content from HTTP request stream #awk #script 
+- [20221003151426](/zet/20221003151426/README.md) awk scripting combine lines with all previous lines combinatorically #awk #script 
+- [20221003151427](/zet/20221003151427/README.md) awk scripting awk print markdown snippet text between backtick lines #awk #script 
+- [20221003151428](/zet/20221003151428/README.md) awk scripting autogenerate headings for source files #awk #script 
+- [20221003151429](/zet/20221003151429/README.md) awk scripting print all variations of upper and lower case for given lowercase string #awk #script 
+- [20221003151430](/zet/20221003151430/README.md) awk scripting constrict line widths of input text stream #awk #script 
+- [20221003151432](/zet/20221003151432/README.md) awk scripting filter the CVE list for potentially valid, relevant vulnerabilities #awk #script 
+- [20221003151433](/zet/20221003151433/README.md) awk scripting combine lines from two files combinatorically with symbol between #awk #script 
+- [20221003151434](/zet/20221003151434/README.md) awk scripting get column headings from first line of CSV #awk #script 
+- [20221003151435](/zet/20221003151435/README.md) awk scripting print nested markdown content within headings #awk #script 
+- [20221003151436](/zet/20221003151436/README.md) awk scripting print all variations of spaces between tokens #awk #script 
+- [20221003151437](/zet/20221003151437/README.md) awk scripting read and write a separated value file as a database #awk #script 
+- [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried #awk #script 
+- [20221003151439](/zet/20221003151439/README.md) awk scripting base64 encode lines individually #awk #script 
+- [20221003151440](/zet/20221003151440/README.md) awk scripting replace words with colorized versions #awk #script 
+- [20221003151441](/zet/20221003151441/README.md) awk scripting #awk #script #example #hub
+- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix #todo #meta
+- [20221006010531](/zet/20221006010531/README.md) sed scripts #sed #script
+- [20221006025356](/zet/20221006025356/README.md) linux #concept #hub #linux
+- [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet #fun #fidget #games #info #trick
+- [20221006214142](/zet/20221006214142/README.md) streamers #video #streamer #hub #concept
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
+- [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions #zettelkasten  #command #reference
+- [20221007194303](/zet/20221007194303/README.md) github #company #microsoft #concept #hub
+- [20221007200304](/zet/20221007200304/README.md) how to use zc cmd #reference #command #zettelkasten #implementation
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub #hacking #hub
+- [20221008042814](/zet/20221008042814/README.md) WIP #todo #meta
+- [20221008054439](/zet/20221008054439/README.md) graph database #database #concept #hub
+- [20221008061334](/zet/20221008061334/README.md) concepts #noun #idea #hub
+- [20221008061845](/zet/20221008061845/README.md) workflow #workflow #optimization #hub #concept
+- [20221008081231](/zet/20221008081231/README.md) debugging #todo #idea #hub
+- [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes #todo #idea #github #filehash #trick
+- [20221008191607](/zet/20221008191607/README.md) procmon auto scroll #tip #trick #windows #tools #procmon
+- [20221008210209](/zet/20221008210209/README.md) nim makes smaller wasm binaries than rust #nim #rust #wasm #tip
+- [20221008212802](/zet/20221008212802/README.md) software program #program #command
+- [20221008212929](/zet/20221008212929/README.md) running process #program #command #concept #hub #run
+- [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful #useful #util #hub
+- [20221008214935](/zet/20221008214935/README.md) go language #go #language #concept #hub
+- [20221008215139](/zet/20221008215139/README.md) hash / checksum #hash #concept #hub
+- [20221008215325](/zet/20221008215325/README.md) password #todo #idea #concept #hub
+- [20221008215530](/zet/20221008215530/README.md) username #todo #idea #hub #concept
+- [20221008215655](/zet/20221008215655/README.md) user account #todo #idea #concept #hub
+- [20221008215739](/zet/20221008215739/README.md) go packages have checksums #file #hash #tip
+- [20221008221548](/zet/20221008221548/README.md) website #web #http #concept #hub
+- [20221008221822](/zet/20221008221822/README.md) www - the web #web #concept #hub
+- [20221009013945](/zet/20221009013945/README.md) how to clear vim search highlights? #vim #question #command
+- [20221009014200](/zet/20221009014200/README.md) concept of a command #noun #concept #hub
+- [20221009015558](/zet/20221009015558/README.md) docker #docker #concept #hub
+- [20221009015743](/zet/20221009015743/README.md) dockerfile #docker #file #hash #concept #hub #command #deploy
+- [20221009021452](/zet/20221009021452/README.md) container #container #concept #hub
+- [20221009095853](/zet/20221009095853/README.md) finished #done #hub
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists #idea #hub #to-try-list #hacking
+- [20221009104752](/zet/20221009104752/README.md) stuff to research #todo #idea #meta #hub
+- [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles #todo #idea #command #dotfiles
+- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page #meta
+- [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version #todo #idea #trick #file #filehash #hash
+- [20221010071719](/zet/20221010071719/README.md) nodes to add #todo #idea #meta
+- [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards #idea #tip #trick #workflow
+- [20221011145143](/zet/20221011145143/README.md) bat command pretty printer #command #linux #markdown #preview
+- [20221011190351](/zet/20221011190351/README.md) fix to try list cards #markdown #meta
+- [20221012070318](/zet/20221012070318/README.md) linux terminal #todo #idea #concept #hub
+- [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session #tool #terminal
+- [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes #idea #meta
+- [20221013171453](/zet/20221013171453/README.md) important repositories and tools #concept #hub #repo #repositories
+- [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud #concept #hub
+- [20221013185120](/zet/20221013185120/README.md) concept of cryptography #concept #hub
+- [20221013185251](/zet/20221013185251/README.md) general information concept FYI #concept #hub
+- [20221013190051](/zet/20221013190051/README.md) blue team #concept #hub #hacking
+- [20221013190422](/zet/20221013190422/README.md) headline exploits #concept #hub #hacking
+- [20221013192245](/zet/20221013192245/README.md) cracking hashes #concept #hub #hacking
+- [20221013194055](/zet/20221013194055/README.md) concept of installing something #concept #hub
+- [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips #concept #hub #trick #tip
+- [20221014164014](/zet/20221014164014/README.md) protocol for application communication #idea #concept #hub
+- [20221014181941](/zet/20221014181941/README.md) general privilege escalation #idea #concept #hub
+- [20221014185440](/zet/20221014185440/README.md) kb file named kb/docker/install-docker-compose.md #idea #kb_import
+- [20221014185441](/zet/20221014185441/README.md) kb file named kb/docker/installations/install-mandown.md #idea #kb_import
+- [20221014185443](/zet/20221014185443/README.md) kb file named kb/docker/run-container-in-background.md #idea #kb_import
+- [20221014185444](/zet/20221014185444/README.md) kb file named kb/docker/docker-compose-shortcuts.md #idea #kb_import
+- [20221014185446](/zet/20221014185446/README.md) kb file named kb/docker/docker-hd-space.md #idea #kb_import
+- [20221014185447](/zet/20221014185447/README.md) kb file named kb/docker/lookup-missing-command-packages.md #idea #kb_import
+- [20221014185449](/zet/20221014185449/README.md) kb file named kb/shell-script-list.md #idea #kb_import
+- [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md #idea #kb_import
+- [20221014185452](/zet/20221014185452/README.md) kb file named kb/c-language/templates.md #idea #kb_import
+- [20221014185453](/zet/20221014185453/README.md) kb file named kb/zettelkasten-methodology.md #idea #kb_import
+- [20221014185455](/zet/20221014185455/README.md) kb file named kb/example-zettel.md #idea #kb_import
+- [20221014185456](/zet/20221014185456/README.md) kb file named kb/networking/osi-model.md #idea #kb_import
+- [20221014185458](/zet/20221014185458/README.md) kb file named kb/networking/socat-proxy.md #idea #kb_import
+- [20221014185459](/zet/20221014185459/README.md) kb file named kb/networking/port-forwarding.md #idea #kb_import
+- [20221014185501](/zet/20221014185501/README.md) kb file named kb/vim/run-as-script.md #idea #kb_import
+- [20221014185502](/zet/20221014185502/README.md) kb file named kb/vim/spacevim-set-bindings.md #idea #kb_import
+- [20221014185504](/zet/20221014185504/README.md) kb file named kb/vim/edit-multiple-files.md #idea #kb_import
+- [20221014185505](/zet/20221014185505/README.md) kb file named kb/vim/vim.md #idea #kb_import
+- [20221014185507](/zet/20221014185507/README.md) kb file named kb/python/coding-reference.md #idea #kb_import
+- [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md #idea #kb_import
+- [20221014185510](/zet/20221014185510/README.md) kb file named kb/ascii/coyote0x90.md #file #kb_import
+- [20221014185512](/zet/20221014185512/README.md) kb file named kb/ascii/ascii-box-art.md #idea #kb_import
+- [20221014185513](/zet/20221014185513/README.md) kb file named kb/ascii/coyote0x90-narrow.md #idea #kb_import
+- [20221014185515](/zet/20221014185515/README.md) kb file named kb/scratch.md #idea #kb_import
+- [20221014185516](/zet/20221014185516/README.md) kb file named kb/kafka/connect-confluent.md #idea #kb_import
+- [20221014185518](/zet/20221014185518/README.md) kb file named kb/kafka/initialize-topics.md #idea #kb_import
+- [20221014185519](/zet/20221014185519/README.md) kb file named kb/kafka/quick-and-dirty-kafkacat.md #idea #kb_import
+- [20221014185521](/zet/20221014185521/README.md) kb file named kb/kafka/kafkacat-get-data-by-time.md #idea #kb_import
+- [20221014185522](/zet/20221014185522/README.md) kb file named kb/kafka/kafkacat.md #idea #kb_import
+- [20221014185524](/zet/20221014185524/README.md) kb file named kb/kafka/ksql-initialize-example.md #idea #kb_import
+- [20221014185525](/zet/20221014185525/README.md) kb file named kb/hacking/tricks/windows-smartscreen-bypass.md #idea #kb_import
+- [20221014185527](/zet/20221014185527/README.md) kb file named kb/hacking/tricks/build-windows-exploits.md #idea #kb_import
+- [20221014185528](/zet/20221014185528/README.md) kb file named kb/hacking/tricks/stabilize-shell.md #idea #kb_import
+- [20221014185530](/zet/20221014185530/README.md) kb file named kb/hacking/tricks/scan-firewall-reverse-ports.md #idea #kb_import
+- [20221014185531](/zet/20221014185531/README.md) kb file named kb/hacking/tricks/run-programs-in-memory.md #idea #kb_import
+- [20221014185533](/zet/20221014185533/README.md) kb file named kb/hacking/tricks/install-pip-modules-on-target-as-files.md #idea #kb_import
+- [20221014185534](/zet/20221014185534/README.md) kb file named kb/hacking/tricks/jenkins-rev-shell-code.md #idea #kb_import
+- [20221014185536](/zet/20221014185536/README.md) kb file named kb/hacking/tricks/malicious-packages.md #idea #kb_import
+- [20221014185537](/zet/20221014185537/README.md) kb file named kb/hacking/tricks/ping-subnet-os-enumeration.md #idea #kb_import
+- [20221014185539](/zet/20221014185539/README.md) kb file named kb/hacking/tricks/exploit-asterisk-with-touch.md #idea #kb_import
+- [20221014185540](/zet/20221014185540/README.md) kb file named kb/hacking/tricks/make-wordlists-fuzzing-with-bash.md #idea #kb_import
+- [20221014185542](/zet/20221014185542/README.md) kb file named kb/hacking/tricks/ctf-get-tld-working-firefox-url-bar.md #idea #kb_import
+- [20221014185544](/zet/20221014185544/README.md) kb file named kb/hacking/tricks/wfuzz-identify-versions.md #idea #kb_import
+- [20221014185545](/zet/20221014185545/README.md) kb file named kb/hacking/tricks/mysql-tricks.md #idea #kb_import
+- [20221014185547](/zet/20221014185547/README.md) kb file named kb/hacking/tricks/vbscript-wget-hack.md #idea #kb_import
+- [20221014185548](/zet/20221014185548/README.md) kb file named kb/hacking/tricks/windows-encoding-base64-utf16.md #idea #kb_import
+- [20221014185550](/zet/20221014185550/README.md) kb file named kb/hacking/tricks/php-lfi2rce-filter-iconv-exploit.md #idea #kb_import
+- [20221014185551](/zet/20221014185551/README.md) kb file named kb/hacking/tricks/identify-linux-version-service-versions.md #idea #kb_import
+- [20221014185553](/zet/20221014185553/README.md) kb file named kb/hacking/tricks/dump-hashes-from-registry-backups.md #idea #kb_import
+- [20221014185554](/zet/20221014185554/README.md) kb file named kb/hacking/tricks/hibernate-hql-injection.md #idea #kb_import
+- [20221014185556](/zet/20221014185556/README.md) kb file named kb/hacking/tricks/smtp-send-email-cli.md #idea #kb_import
+- [20221014185557](/zet/20221014185557/README.md) kb file named kb/hacking/tricks/valid-https-server.md #idea #kb_import
+- [20221014185559](/zet/20221014185559/README.md) kb file named kb/hacking/to-try-lists/got-leaked-file-to-try-list.md #idea #kb_import
+- [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md #idea #kb_import
+- [20221014185602](/zet/20221014185602/README.md) kb file named kb/hacking/to-try-lists/privesc/windows.md #idea #kb_import
+- [20221014185603](/zet/20221014185603/README.md) kb file named kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md #idea #kb_import
+- [20221014185605](/zet/20221014185605/README.md) kb file named kb/hacking/to-try-lists/LDAP.md #idea #kb_import
+- [20221014185606](/zet/20221014185606/README.md) kb file named kb/hacking/to-try-lists/wsmans-tcp-1270,5985,5986.md #idea #kb_import
+- [20221014185608](/zet/20221014185608/README.md) kb file named kb/hacking/to-try-lists/RDP.md #idea #kb_import
+- [20221014185609](/zet/20221014185609/README.md) kb file named kb/hacking/to-try-lists/got-read-or-write-access-to-filesystem.md #idea #kb_import
+- [20221014185611](/zet/20221014185611/README.md) kb file named kb/hacking/to-try-lists/finger-tcp-79.md #idea #kb_import
+- [20221014185612](/zet/20221014185612/README.md) kb file named kb/hacking/to-try-lists/SMB.md #idea #kb_import
+- [20221014185614](/zet/20221014185614/README.md) kb file named kb/hacking/to-try-lists/IPMI.md #idea #kb_import
+- [20221014185616](/zet/20221014185616/README.md) kb file named kb/hacking/to-try-lists/DNS.md #idea #kb_import
+- [20221014185617](/zet/20221014185617/README.md) kb file named kb/hacking/to-try-lists/procedure.md #idea #kb_import
+- [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md #idea #kb_import
+- [20221014185620](/zet/20221014185620/README.md) kb file named kb/hacking/to-try-lists/FTP.md #idea #kb_import
+- [20221014185622](/zet/20221014185622/README.md) kb file named kb/hacking/to-try-lists/got-source-code.md #idea #kb_import
+- [20221014185623](/zet/20221014185623/README.md) kb file named kb/hacking/to-try-lists/stuck.md #idea #kb_import
+- [20221014185625](/zet/20221014185625/README.md) kb file named kb/hacking/to-try-lists/email.md #idea #kb_import
+- [20221014185626](/zet/20221014185626/README.md) kb file named kb/hacking/to-try-lists/EVERYTHING.md #idea #kb_import
+- [20221014185628](/zet/20221014185628/README.md) kb file named kb/hacking/to-try-lists/SSH.md #idea #kb_import
+- [20221014185629](/zet/20221014185629/README.md) kb file named kb/hacking/to-try-lists/active-directory-domain.md #idea #kb_import
+- [20221014185631](/zet/20221014185631/README.md) kb file named kb/hacking/to-try-lists/NFS.md #idea #kb_import
+- [20221014185632](/zet/20221014185632/README.md) kb file named kb/hacking/to-try-lists/HTTP-proxy-squid-proxy.md #idea #kb_import
+- [20221014185634](/zet/20221014185634/README.md) kb file named kb/hacking/to-try-lists/got-hashes.md #idea #kb_import
+- [20221014185635](/zet/20221014185635/README.md) kb file named kb/hacking/to-try-lists/docker-repository.md #idea #kb_import
+- [20221014185637](/zet/20221014185637/README.md) kb file named kb/hacking/to-try-lists/TFTP-udp-69.md #idea #kb_import
+- [20221014185638](/zet/20221014185638/README.md) kb file named kb/hacking/to-try-lists/SNMP.md #idea #kb_import
+- [20221014185640](/zet/20221014185640/README.md) kb file named kb/hacking/to-try-lists/nmap-UDP-scan-individual-port-scans.md #idea #kb_import
+- [20221014185641](/zet/20221014185641/README.md) kb file named kb/hacking/pivoting.md #idea #kb_import
+- [20221014185643](/zet/20221014185643/README.md) kb file named kb/hacking/passwords/password_cracking_rules/README.md #idea #kb_import
+- [20221014185644](/zet/20221014185644/README.md) kb file named kb/hacking/passwords/hashcat-generate-wordlist-from-file-stdout.md #idea #kb_import
+- [20221014185646](/zet/20221014185646/README.md) kb file named kb/hacking/passwords/hashcat-generate-passwords-output-with-mask-pattern.md #idea #kb_import
+- [20221014185647](/zet/20221014185647/README.md) kb file named kb/hacking/defense/linux-hardening.md #idea #kb_import
+- [20221014185649](/zet/20221014185649/README.md) kb file named kb/hacking/windows/windows-cheatsheet-resources.md #idea #kb_import
+- [20221014185651](/zet/20221014185651/README.md) kb file named kb/hacking/windows/xp-server-2003.md #idea #kb_import
+- [20221014185652](/zet/20221014185652/README.md) kb file named kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md #idea #kb_import
+- [20221014185654](/zet/20221014185654/README.md) kb file named kb/hacking/windows/windows-active-directory-and-privilege-information.md #idea #kb_import
+- [20221014185655](/zet/20221014185655/README.md) kb file named kb/hacking/windows/dos-and-powershell-enumeration-quick.md #idea #kb_import
+- [20221014185657](/zet/20221014185657/README.md) kb file named kb/hacking/windows/dll-to-run-commands.md #idea #kb_import
+- [20221014185658](/zet/20221014185658/README.md) kb file named kb/hacking/windows/windows-reverse-shell.md #idea #kb_import
+- [20221014185700](/zet/20221014185700/README.md) kb file named kb/hacking/windows/active-directory-certificate-services.md #idea #kb_import
+- [20221014185701](/zet/20221014185701/README.md) kb file named kb/hacking/windows/enable-privilege-api.md #idea #kb_import
+- [20221014185703](/zet/20221014185703/README.md) kb file named kb/hacking/windows/powerview-commands.md #idea #kb_import
+- [20221014185704](/zet/20221014185704/README.md) kb file named kb/hacking/windows/mimikatz.md #idea #kb_import
+- [20221014185706](/zet/20221014185706/README.md) kb file named kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md #idea #kb_import
+- [20221014185707](/zet/20221014185707/README.md) kb file named kb/hacking/windows/persistence.md #idea #kb_import
+- [20221014185709](/zet/20221014185709/README.md) kb file named kb/hacking/windows/powerup-commands.md #idea #kb_import
+- [20221014185710](/zet/20221014185710/README.md) kb file named kb/hacking/windows/service-account-privileges.md #idea #kb_import
+- [20221014185712](/zet/20221014185712/README.md) kb file named kb/hacking/windows/enumeration-scripts-processing.md #idea #kb_import
+- [20221014185713](/zet/20221014185713/README.md) kb file named kb/hacking/windows/dump-process-memory.md #idea #kb_import
+- [20221014185715](/zet/20221014185715/README.md) kb file named kb/hacking/windows/test-for-defender-amsi.md #idea #kb_import
+- [20221014185716](/zet/20221014185716/README.md) kb file named kb/hacking/windows/uacbypass/uac-bypass.md #idea #kb_import
+- [20221014185718](/zet/20221014185718/README.md) kb file named kb/hacking/windows/windows-information.md #idea #kb_import
+- [20221014185719](/zet/20221014185719/README.md) kb file named kb/hacking/windows/windows-exploits-non-metasploit.md #idea #kb_import
+- [20221014185721](/zet/20221014185721/README.md) kb file named kb/hacking/windows/decrypt-azure-ad-connect.md #idea #kb_import
+- [20221014185722](/zet/20221014185722/README.md) kb file named kb/hacking/windows/common-ad-misconfigurations-footholds.md #idea #kb_import
+- [20221014185724](/zet/20221014185724/README.md) kb file named kb/hacking/methodology/jwt.md #idea #kb_import
+- [20221014185726](/zet/20221014185726/README.md) kb file named kb/hacking/methodology/source-analysis.md #idea #kb_import
+- [20221014185727](/zet/20221014185727/README.md) kb file named kb/hacking/methodology/SSTI-test-payloads.md #idea #kb_import
+- [20221014185729](/zet/20221014185729/README.md) kb file named kb/hacking/methodology/ds-store-file.md #idea #kb_import
+- [20221014185730](/zet/20221014185730/README.md) kb file named kb/hacking/methodology/nmap-scripts.md #idea #kb_import
+- [20221014185732](/zet/20221014185732/README.md) kb file named kb/hacking/methodology/LFI-procedure.md #idea #kb_import
+- [20221014185733](/zet/20221014185733/README.md) kb file named kb/hacking/methodology/API-enumeration.md #idea #kb_import
+- [20221014185735](/zet/20221014185735/README.md) kb file named kb/hacking/methodology/sqli-manual-mysql-payloads.md #idea #kb_import
+- [20221014185736](/zet/20221014185736/README.md) kb file named kb/hacking/methodology/oracle.md #idea #kb_import
+- [20221014185738](/zet/20221014185738/README.md) kb file named kb/hacking/methodology/IDOR-notes.md #idea #kb_import
+- [20221014185739](/zet/20221014185739/README.md) kb file named kb/hacking/methodology/XXE.md #idea #kb_import
+- [20221014185741](/zet/20221014185741/README.md) kb file named kb/hacking/methodology/dns-enum.md #idea #kb_import
+- [20221014185742](/zet/20221014185742/README.md) kb file named kb/hacking/methodology/hashcat-crack-salted-password.md #idea #kb_import
+- [20221014185744](/zet/20221014185744/README.md) kb file named kb/hacking/methodology/owasp-top-10-api-bugs.md #idea #kb_import
+- [20221014185745](/zet/20221014185745/README.md) kb file named kb/hacking/methodology/mobile-apps-and-api-testing.md #idea #kb_import
+- [20221014185747](/zet/20221014185747/README.md) kb file named kb/hacking/methodology/XSS.md #idea #kb_import
+- [20221014185748](/zet/20221014185748/README.md) kb file named kb/hacking/methodology/bloodhound-checklist.md #idea #kb_import
+- [20221014185750](/zet/20221014185750/README.md) kb file named kb/hacking/methodology/osint-overview.md #idea #kb_import
+- [20221014185751](/zet/20221014185751/README.md) kb file named kb/hacking/python/fix-ssl.md #idea #kb_import
+- [20221014185753](/zet/20221014185753/README.md) kb file named kb/hacking/python/python-quick-reference.md #idea #kb_import
+- [20221014185754](/zet/20221014185754/README.md) kb file named kb/hacking/python/python-imports.md #idea #kb_import
+- [20221014185756](/zet/20221014185756/README.md) kb file named kb/hacking/priv-esc/searchsploit-privesc-queries.md #idea #kb_import
+- [20221014185758](/zet/20221014185758/README.md) kb file named kb/hacking/priv-esc/fail2ban.md #idea #kb_import
+- [20221014185759](/zet/20221014185759/README.md) kb file named kb/hacking/priv-esc/windows-run-dll.md #idea #kb_import
+- [20221014185801](/zet/20221014185801/README.md) kb file named kb/hacking/priv-esc/lxd/lxd-priv-esc.md #idea #kb_import
+- [20221014185802](/zet/20221014185802/README.md) kb file named kb/hacking/priv-esc/c-shells-and-setuid.md #idea #kb_import
+- [20221014185804](/zet/20221014185804/README.md) kb file named kb/hacking/priv-esc/etc-passwd-writable-line.md #idea #kb_import
+- [20221014185805](/zet/20221014185805/README.md) kb file named kb/hacking/priv-esc/bsd-enumeration.md #idea #kb_import
+- [20221014185807](/zet/20221014185807/README.md) kb file named kb/hacking/priv-esc/windows-dll-hijack.md #idea #kb_import
+- [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md #idea #kb_import
+- [20221014185810](/zet/20221014185810/README.md) kb file named kb/hacking/priv-esc/netstat-command.md #idea #kb_import
+- [20221014185811](/zet/20221014185811/README.md) kb file named kb/hacking/priv-esc/polkit-pkexec-CVE-2021-4034/run-in-docker.md #idea #kb_import
+- [20221014185813](/zet/20221014185813/README.md) kb file named kb/hacking/priv-esc/relative-path-abuse.md #idea #kb_import
+- [20221014185814](/zet/20221014185814/README.md) kb file named kb/hacking/priv-esc/setuid-binary-no-write-note.md #idea #kb_import
+- [20221014185816](/zet/20221014185816/README.md) kb file named kb/hacking/priv-esc/symlink.md #idea #kb_import
+- [20221014185817](/zet/20221014185817/README.md) kb file named kb/hacking/priv-esc/polkit-notes.md #idea #kb_import
+- [20221014185819](/zet/20221014185819/README.md) kb file named kb/hacking/priv-esc/dirty-cow-no-gcc.md #idea #kb_import
+- [20221014185820](/zet/20221014185820/README.md) kb file named kb/hacking/priv-esc/sudoers.md #idea #kb_import
+- [20221014185822](/zet/20221014185822/README.md) kb file named kb/hacking/commands/nikto-command.md #idea #kb_import
+- [20221014185823](/zet/20221014185823/README.md) kb file named kb/hacking/commands/quick-servers.md #idea #kb_import
+- [20221014185825](/zet/20221014185825/README.md) kb file named kb/hacking/commands/john-the-ripper-crack-with-wordlist.md #idea #kb_import
+- [20221014185826](/zet/20221014185826/README.md) kb file named kb/hacking/commands/two-factor.md #idea #kb_import
+- [20221014185828](/zet/20221014185828/README.md) kb file named kb/hacking/commands/wget-recursive-command.md #idea #kb_import
+- [20221014185829](/zet/20221014185829/README.md) kb file named kb/hacking/commands/ssh-commands.md #idea #kb_import
+- [20221014185831](/zet/20221014185831/README.md) kb file named kb/hacking/commands/dns-commands.md #idea #kb_import
+- [20221014185833](/zet/20221014185833/README.md) kb file named kb/hacking/commands/hydra-http-auth.md #idea #kb_import
+- [20221014185834](/zet/20221014185834/README.md) kb file named kb/hacking/commands/gobuster.md #idea #kb_import
+- [20221014185836](/zet/20221014185836/README.md) kb file named kb/hacking/commands/nmap-vuln-scan.md #idea #kb_import
+- [20221014185837](/zet/20221014185837/README.md) kb file named kb/hacking/commands/smb-mount-share.md #idea #kb_import
+- [20221014185839](/zet/20221014185839/README.md) kb file named kb/hacking/commands/sucrack-command.md #idea #kb_import
+- [20221014185840](/zet/20221014185840/README.md) kb file named kb/hacking/commands/responder.md #idea #kb_import
+- [20221014185842](/zet/20221014185842/README.md) kb file named kb/hacking/commands/davtest-commands.md #idea #kb_import
+- [20221014185843](/zet/20221014185843/README.md) kb file named kb/hacking/commands/database-enum-commands.md #idea #kb_import
+- [20221014185845](/zet/20221014185845/README.md) kb file named kb/hacking/commands/hydra-ssh-command.md #idea #kb_import
+- [20221014185846](/zet/20221014185846/README.md) kb file named kb/hacking/commands/hydra-ftp-command.md #idea #kb_import
+- [20221014185848](/zet/20221014185848/README.md) kb file named kb/hacking/commands/metasploit.md #idea #kb_import
+- [20221014185849](/zet/20221014185849/README.md) kb file named kb/hacking/commands/wfuzz-fuzzing.md #idea #kb_import
+- [20221014185851](/zet/20221014185851/README.md) kb file named kb/hacking/commands/hydra-default-credentials.md #idea #kb_import
+- [20221014185852](/zet/20221014185852/README.md) kb file named kb/hacking/commands/openssl-commands.md #idea #kb_import
+- [20221014185854](/zet/20221014185854/README.md) kb file named kb/hacking/commands/git.md #idea #kb_import
+- [20221014185855](/zet/20221014185855/README.md) kb file named kb/hacking/commands/generate-cewl-wordlist.md #idea #kb_import
+- [20221014185857](/zet/20221014185857/README.md) kb file named kb/hacking/commands/openssl-general.md #idea #kb_import
+- [20221014185858](/zet/20221014185858/README.md) kb file named kb/hacking/commands/enum4linux-command.md #idea #kb_import
+- [20221014185900](/zet/20221014185900/README.md) kb file named kb/hacking/commands/crowbar.md #idea #kb_import
+- [20221014185901](/zet/20221014185901/README.md) kb file named kb/hacking/commands/msfvenom-commands.md #idea #kb_import
+- [20221014185903](/zet/20221014185903/README.md) kb file named kb/hacking/commands/keytool.md #idea #kb_import
+- [20221014185905](/zet/20221014185905/README.md) kb file named kb/hacking/commands/windows-active-directory-kerberos-commands.md #idea #kb_import
+- [20221014185906](/zet/20221014185906/README.md) kb file named kb/hacking/commands/cracking-encrypted-files-with-john-the-ripper.md #idea #kb_import
+- [20221014185908](/zet/20221014185908/README.md) kb file named kb/hacking/commands/hydra.md #idea #kb_import
+- [20221014185909](/zet/20221014185909/README.md) kb file named kb/hacking/commands/feroxbuster-command.md #idea #kb_import
+- [20221014185911](/zet/20221014185911/README.md) kb file named kb/hacking/commands/encode-powershell-base64-windows.md #idea #kb_import
+- [20221014185912](/zet/20221014185912/README.md) kb file named kb/hacking/commands/ssh-escape-rbash-set-terminal.md #idea #kb_import
+- [20221014185914](/zet/20221014185914/README.md) kb file named kb/hacking/commands/openssl-view-information-about-cert.md #idea #kb_import
+- [20221014185915](/zet/20221014185915/README.md) kb file named kb/hacking/commands/curl.md #idea #kb_import
+- [20221014185917](/zet/20221014185917/README.md) kb file named kb/hacking/commands/packet-capture.md #idea #kb_import
+- [20221014185918](/zet/20221014185918/README.md) kb file named kb/hacking/commands/sqlmap-commands.md #idea #kb_import
+- [20221014185920](/zet/20221014185920/README.md) kb file named kb/hacking/commands/snmp-enumeration-commands.md #idea #kb_import
+- [20221014185921](/zet/20221014185921/README.md) kb file named kb/hacking/commands/wpscan-command.md #idea #kb_import
+- [20221014185923](/zet/20221014185923/README.md) kb file named kb/hacking/commands/encoding-commands.md #idea #kb_import
+- [20221014185924](/zet/20221014185924/README.md) kb file named kb/hacking/commands/web-enumeration-commands.md #idea #kb_import
+- [20221014185926](/zet/20221014185926/README.md) kb file named kb/hacking/commands/tftp-reference.md #idea #kb_import
+- [20221014185927](/zet/20221014185927/README.md) kb file named kb/hacking/commands/bloodhound.md #idea #kb_import
+- [20221014185929](/zet/20221014185929/README.md) kb file named kb/hacking/commands/crackmapexec-commands.md #idea #kb_import
+- [20221014185930](/zet/20221014185930/README.md) kb file named kb/hacking/commands/hydra-http-post-form.md #idea #kb_import
+- [20221014185932](/zet/20221014185932/README.md) kb file named kb/hacking/commands/nfs.md #idea #kb_import
+- [20221014185933](/zet/20221014185933/README.md) kb file named kb/hacking/commands/binary-data-analysis.md #idea #kb_import
+- [20221014185935](/zet/20221014185935/README.md) kb file named kb/hacking/commands/wfuzz-commands.md #idea #kb_import
+- [20221014185936](/zet/20221014185936/README.md) kb file named kb/hacking/commands/kubernetes.md #idea #kb_import
+- [20221014185938](/zet/20221014185938/README.md) kb file named kb/hacking/commands/nmap-command.md #idea #kb_import
+- [20221014185940](/zet/20221014185940/README.md) kb file named kb/hacking/commands/smbmap.md #idea #kb_import
+- [20221014185941](/zet/20221014185941/README.md) kb file named kb/hacking/commands/list-dpkg-packages-installed-date.md #idea #kb_import
+- [20221014185943](/zet/20221014185943/README.md) kb file named kb/hacking/commands/tcpdump-listen-for-pings.md #idea #kb_import
+- [20221014185944](/zet/20221014185944/README.md) kb file named kb/hacking/commands/ldap.md #idea #kb_import
+- [20221014185946](/zet/20221014185946/README.md) kb file named kb/hacking/commands/pureftp-commands.md #idea #kb_import
+- [20221014185947](/zet/20221014185947/README.md) kb file named kb/hacking/commands/smbclient-commands.md #idea #kb_import
+- [20221014185949](/zet/20221014185949/README.md) kb file named kb/hacking/commands/pivot-tunnel-through-chisel.md #idea #kb_import
+- [20221014185950](/zet/20221014185950/README.md) kb file named kb/hacking/commands/impacket-commands.md #idea #kb_import
+- [20221014185952](/zet/20221014185952/README.md) kb file named kb/hacking/commands/enumeration-util.md #idea #kb_import
+- [20221014185953](/zet/20221014185953/README.md) kb file named kb/hacking/php/PHP-quick-command-reference.md #idea #kb_import
+- [20221014185955](/zet/20221014185955/README.md) kb file named kb/hacking/php/lfi.md #idea #kb_import
+- [20221014185956](/zet/20221014185956/README.md) kb file named kb/hacking/php/PHP-credential-harvesting-write-file.md #idea #kb_import
+- [20221014185958](/zet/20221014185958/README.md) kb file named kb/hacking/php/type-juggling.md #idea #kb_import
+- [20221014185959](/zet/20221014185959/README.md) kb file named kb/hacking/php/deserialization-attacks.md #idea #kb_import
+- [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md #idea #kb_import
+- [20221014190002](/zet/20221014190002/README.md) kb file named kb/hacking/pwn/basic-win-pwn.md #idea #kb_import
+- [20221014190004](/zet/20221014190004/README.md) kb file named kb/hacking/pwn/gef-commands.md #idea #kb_import
+- [20221014190005](/zet/20221014190005/README.md) kb file named kb/hacking/pwn/gdb-commands.md #idea #kb_import
+- [20221014190007](/zet/20221014190007/README.md) kb file named kb/hacking/pwn/msfvenom-shellcode-for-pwn.md #idea #kb_import
+- [20221014190008](/zet/20221014190008/README.md) kb file named kb/hacking/pwn/pwn-methodology.md #idea #kb_import
+- [20221014190010](/zet/20221014190010/README.md) kb file named kb/hacking/pwn/shellcode-to-executable.md #idea #kb_import
+- [20221014190012](/zet/20221014190012/README.md) kb file named kb/hacking/pwn/heap-exploit.md #idea #kb_import
+- [20221014190013](/zet/20221014190013/README.md) kb file named kb/hacking/pwn/calling-conventions.md #idea #kb_import
+- [20221014190015](/zet/20221014190015/README.md) kb file named kb/hacking/pwn/sigreturn.md #idea #kb_import
+- [20221014190016](/zet/20221014190016/README.md) kb file named kb/hacking/pwn/binary-analysis.md #idea #kb_import
+- [20221014190018](/zet/20221014190018/README.md) kb file named kb/hacking/pwn/debug-terminal-setup.md #idea #kb_import
+- [20221014190019](/zet/20221014190019/README.md) kb file named kb/hacking/pwn/tricks.md #idea #kb_import
+- [20221014190021](/zet/20221014190021/README.md) kb file named kb/hacking/pwn/python-tricks.md #idea #kb_import
+- [20221014190022](/zet/20221014190022/README.md) kb file named kb/hacking/pwn/pwntools.md #idea #kb_import
+- [20221014190024](/zet/20221014190024/README.md) kb file named kb/hacking/exploit/shellshock-exploit.md #idea #kb_import
+- [20221014190025](/zet/20221014190025/README.md) kb file named kb/hacking/notes-template/privesc.md #notes #kb_import
+- [20221014190027](/zet/20221014190027/README.md) kb file named kb/hacking/notes-template/creds.md #idea #kb_import
+- [20221014190028](/zet/20221014190028/README.md) kb file named kb/hacking/notes-template/scratch.md #idea #kb_import
+- [20221014190030](/zet/20221014190030/README.md) kb file named kb/hacking/notes-template/steps.md #notes #kb_import
+- [20221014190031](/zet/20221014190031/README.md) kb file named kb/hacking/notes-template/exploit.md #idea #kb_import
+- [20221014190033](/zet/20221014190033/README.md) kb file named kb/hacking/notes-template/enum.md #idea #kb_import
+- [20221014190034](/zet/20221014190034/README.md) kb file named kb/hacking/notes-template/notes.md #idea #kb_import
+- [20221014190036](/zet/20221014190036/README.md) kb file named kb/hacking/web/html.templates.md #idea #kb_import
+- [20221014190037](/zet/20221014190037/README.md) kb file named kb/hacking/powershell/powershell-enumeration-commands.md #idea #kb_import
+- [20221014190039](/zet/20221014190039/README.md) kb file named kb/hacking/powershell/powershell-tricks.md #idea #kb_import
+- [20221014190040](/zet/20221014190040/README.md) kb file named kb/hacking/powershell/load-xml-object-print-password-from-pscredential.md #idea #kb_import
+- [20221014190042](/zet/20221014190042/README.md) kb file named kb/hacking/misc/tomcat.md #idea #kb_import
+- [20221014190044](/zet/20221014190044/README.md) kb file named kb/hacking/misc/openssl-commands-encrypt-text.md #idea #kb_import
+- [20221014190045](/zet/20221014190045/README.md) kb file named kb/hacking/misc/tools-and-apt-packages.md #idea #kb_import
+- [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md #idea #kb_import
+- [20221014190048](/zet/20221014190048/README.md) kb file named kb/hacking/misc/troubleshoot-error-messages.md #idea #kb_import
+- [20221014190050](/zet/20221014190050/README.md) kb file named kb/hacking/misc/bruteforcing-tools.md #idea #kb_import
+- [20221014190051](/zet/20221014190051/README.md) kb file named kb/hacking/misc/database-cms-enum.md #idea #kb_import
+- [20221014190053](/zet/20221014190053/README.md) kb file named kb/hacking/misc/database-config-locations.md #idea #kb_import
+- [20221014190054](/zet/20221014190054/README.md) kb file named kb/hacking/misc/ansible.md #idea #kb_import
+- [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md #idea #kb_import
+- [20221014190057](/zet/20221014190057/README.md) kb file named kb/hacking/misc/web-server-default-webroots.md #idea #kb_import
+- [20221014190059](/zet/20221014190059/README.md) kb file named kb/hacking/misc/file-type-reference.md #idea #kb_import
+- [20221014190100](/zet/20221014190100/README.md) kb file named kb/hacking/misc/assorted-tools.md #idea #kb_import
+- [20221014190102](/zet/20221014190102/README.md) kb file named kb/hacking/misc/web-server-executable-extensions.md #idea #kb_import
+- [20221014190103](/zet/20221014190103/README.md) kb file named kb/hacking/misc/openssl-client-certificates.md #idea #kb_import
+- [20221014190105](/zet/20221014190105/README.md) kb file named kb/hacking/misc/buzzwords-and-acronyms.md #idea #kb_import
+- [20221014190106](/zet/20221014190106/README.md) kb file named kb/hacking/analysis/identify-service-data.md #idea #kb_import
+- [20221014190108](/zet/20221014190108/README.md) kb file named kb/hacking/analysis/source-code-analysis-php.md #idea #kb_import
+- [20221014190109](/zet/20221014190109/README.md) kb file named kb/hacking/analysis/extract-commands.md #idea #kb_import
+- [20221014190111](/zet/20221014190111/README.md) kb file named kb/hacking/analysis/apk-analysis.md #idea #kb_import
+- [20221014190112](/zet/20221014190112/README.md) kb file named kb/hacking/analysis/grep-patterns.md #idea #kb_import
+- [20221014190114](/zet/20221014190114/README.md) kb file named kb/hacking/lan/bettercap-options.md #idea #kb_import
+- [20221014190115](/zet/20221014190115/README.md) kb file named kb/hacking/lan/change-mac-address.md #idea #kb_import
+- [20221014190117](/zet/20221014190117/README.md) kb file named kb/awk-scripting/bash-awk-quick-commands.md #idea #kb_import
+- [20221014190119](/zet/20221014190119/README.md) kb file named kb/awk-scripting/convert-decimal-to-hex.md #idea #kb_import
+- [20221014190120](/zet/20221014190120/README.md) kb file named kb/awk-scripting/awk-split.md #idea #kb_import
+- [20221014190122](/zet/20221014190122/README.md) kb file named kb/awk-scripting/awk-print-unbuffered.md #idea #kb_import
+- [20221014190123](/zet/20221014190123/README.md) kb file named kb/awk-scripting/enumerate-python-imports.md #idea #kb_import
+- [20221014190125](/zet/20221014190125/README.md) kb file named kb/awk-scripting/snippets.md #idea #kb_import
+- [20221014190126](/zet/20221014190126/README.md) kb file named kb/linux/grub-fix-windows-partition.md #idea #kb_import
+- [20221014190128](/zet/20221014190128/README.md) kb file named kb/linux/xterm-font-size.md #idea #kb_import
+- [20221014190129](/zet/20221014190129/README.md) kb file named kb/linux/dpkg-info.md #idea #kb_import
+- [20221014190131](/zet/20221014190131/README.md) kb file named kb/linux/tty-notes.md #idea #kb_import
+- [20221014190132](/zet/20221014190132/README.md) kb file named kb/linux/iptables.md #idea #kb_import
+- [20221014190134](/zet/20221014190134/README.md) kb file named kb/linux/deb-dependencies.md #idea #kb_import
+- [20221014190135](/zet/20221014190135/README.md) kb file named kb/linux/notify-send-crontab-reminder.md #idea #kb_import
+- [20221014190137](/zet/20221014190137/README.md) kb file named kb/linux/edit-bash-prompt-vi-hotkeys.md #idea #kb_import
+- [20221014190138](/zet/20221014190138/README.md) kb file named kb/linux/package-manager-commands.md #idea #kb_import
+- [20221014190140](/zet/20221014190140/README.md) kb file named kb/linux/zsh-see-default-bindings.md #idea #kb_import
+- [20221014190141](/zet/20221014190141/README.md) kb file named kb/linux/free-up-space.md #idea #kb_import
+- [20221014190143](/zet/20221014190143/README.md) kb file named kb/linux/users-groups.md #idea #kb_import
+- [20221014190144](/zet/20221014190144/README.md) kb file named kb/linux/install-alacritty.md #idea #kb_import
+- [20221014190146](/zet/20221014190146/README.md) kb file named kb/linux/ex-notes.md #idea #kb_import
+- [20221014190147](/zet/20221014190147/README.md) kb file named kb/linux/less.md #idea #kb_import
+- [20221014190149](/zet/20221014190149/README.md) kb file named kb/linux/capabilities.md #idea #kb_import
+- [20221014190151](/zet/20221014190151/README.md) kb file named kb/linux/dump-process-memory.md #idea #kb_import
+- [20221014190152](/zet/20221014190152/README.md) kb file named kb/linux/job-control.md #idea #kb_import
+- [20221014190154](/zet/20221014190154/README.md) kb file named kb/linux/git-settings.md #idea #kb_import
+- [20221014190155](/zet/20221014190155/README.md) kb file named kb/linux/force-upgrade.md #idea #kb_import
+- [20221014190157](/zet/20221014190157/README.md) kb file named kb/linux/os-pseudo-filesystem-data-commands.md #idea #kb_import
+- [20221014190158](/zet/20221014190158/README.md) kb file named kb/linux/cyberpunk-retro-machine-serial-terminals.md #idea #kb_import
+- [20221014190200](/zet/20221014190200/README.md) kb file named kb/linux/proxmox.md #idea #kb_import
+- [20221014190201](/zet/20221014190201/README.md) kb file named kb/linux/utilities-packages.md #idea #kb_import
+- [20221014190203](/zet/20221014190203/README.md) kb file named kb/linux/installing-virtualbox.md #idea #kb_import
+- [20221014190204](/zet/20221014190204/README.md) kb file named kb/linux/tar-commands.md #idea #kb_import
+- [20221014190206](/zet/20221014190206/README.md) kb file named kb/linux/assorted-notes-and-tips.md #idea #kb_import
+- [20221014190207](/zet/20221014190207/README.md) kb file named kb/linux/java-jdk-links.md #idea #kb_import
+- [20221014190209](/zet/20221014190209/README.md) kb file named kb/linux/tldr-info.md #idea #kb_import
+- [20221014190210](/zet/20221014190210/README.md) kb file named kb/linux/routing.md #idea #kb_import
+- [20221014190212](/zet/20221014190212/README.md) kb file named kb/linux/numpad-ssh-putty.md #idea #kb_import
+- [20221014190213](/zet/20221014190213/README.md) kb file named kb/tmux/fix-box-art.md #idea #kb_import
+- [20221014190215](/zet/20221014190215/README.md) kb file named kb/tmux/get-ctrl-h-to-work.md #idea #kb_import
+- [20221014190216](/zet/20221014190216/README.md) kb file named kb/tmux/get-data-info.md #idea #kb_import
+- [20221014190218](/zet/20221014190218/README.md) kb file named kb/tmux/swap-panes.md #idea #kb_import
+- [20221014190219](/zet/20221014190219/README.md) kb file named kb/tmux/copy-buffer.md #idea #kb_import
+- [20221014190221](/zet/20221014190221/README.md) kb file named kb/data-engineering-pipelines/jq-command-reference.md #idea #kb_import
+- [20221014190222](/zet/20221014190222/README.md) kb file named kb/data-engineering-pipelines/postgres.md #idea #kb_import
+- [20221014190224](/zet/20221014190224/README.md) kb file named kb/data-engineering-pipelines/topological-sort.md #idea #kb_import
+- [20221014190226](/zet/20221014190226/README.md) kb file named kb/data-engineering-pipelines/yaml-syntax.md #idea #kb_import
+- [20221014190227](/zet/20221014190227/README.md) kb file named kb/data-engineering-pipelines/data-science-linux-commands.md #idea #kb_import
+- [20221014190229](/zet/20221014190229/README.md) kb file named kb/auto-python.md #idea #kb_import
+- [20221014190230](/zet/20221014190230/README.md) kb file named kb/README.md #idea #kb_import
+- [20221014190232](/zet/20221014190232/README.md) kb file named kb/scripts.md #idea #kb_import
+- [20221014190233](/zet/20221014190233/README.md) kb file named kb/hardware/surface-tablet.md #idea #kb_import
+- [20221014190235](/zet/20221014190235/README.md) kb file named kb/hardware/msi-motherboard-error-codes.md #idea #kb_import
+- [20221014190236](/zet/20221014190236/README.md) kb file named kb/fzf-fuzzy-find/help.md #idea #kb_import
+- [20221014190238](/zet/20221014190238/README.md) kb file named kb/bash-scripting/file-operations.md #idea #kb_import
+- [20221014190239](/zet/20221014190239/README.md) kb file named kb/bash-scripting/check-empty-var.md #idea #kb_import
+- [20221014190241](/zet/20221014190241/README.md) kb file named kb/bash-scripting/stream-operations.md #idea #kb_import
+- [20221014190242](/zet/20221014190242/README.md) kb file named kb/bash-scripting/capture-web-site-screenshot.md #idea #kb_import
+- [20221014190244](/zet/20221014190244/README.md) kb file named kb/bash-scripting/text-database-operations.md #idea #kb_import
+- [20221014190245](/zet/20221014190245/README.md) kb file named kb/bash-scripting/watch-failed-ssh-logins-live.md #idea #kb_import
+- [20221014190247](/zet/20221014190247/README.md) kb file named kb/bash-scripting/get-current-unix-date-timestamp.md #idea #kb_import
+- [20221014190248](/zet/20221014190248/README.md) kb file named kb/bash-scripting/xml-parsing.md #idea #kb_import
+- [20221014190250](/zet/20221014190250/README.md) kb file named kb/bash-scripting/substitution-syntax-braces.md #idea #kb_import
+- [20221014190251](/zet/20221014190251/README.md) kb file named kb/bash-scripting/expect.md #idea #kb_import
+- [20221014190253](/zet/20221014190253/README.md) kb file named kb/bash-scripting/find-common-lines-set-operations.md #idea #kb_import
+- [20221014190254](/zet/20221014190254/README.md) kb file named kb/bash-scripting/get-current-script-dir.md #idea #kb_import
+- [20221014190256](/zet/20221014190256/README.md) kb file named kb/bash-scripting/strip-color.md #idea #kb_import
+- [20221014190257](/zet/20221014190257/README.md) kb file named kb/bash-scripting/strip-newlines.md #idea #kb_import
+- [20221014190259](/zet/20221014190259/README.md) kb file named kb/bash-scripting/tricks.md #idea #kb_import
+- [20221014190301](/zet/20221014190301/README.md) kb file named kb/bash-scripting/debugging.md #idea #kb_import
+- [20221014191506](/zet/20221014191506/README.md) associate kb cards with converted cards #meta
+- [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work #idea #meta
+- [20221015010704](/zet/20221015010704/README.md) things that need splitting up #idea #meta
+- [20221015064621](/zet/20221015064621/README.md) tput get terminal capabilities #command #terminal #linux
+- [20221017084459](/zet/20221017084459/README.md) xpup xml parsing tool for scripting #xml #util #tool #scripting #repo
+- [20221017172946](/zet/20221017172946/README.md) LAN attacks #idea #hub #concept
+- [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards #todo #meta
+- [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool #hacking #tool #concept
+- [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux #question #tip
+- [20221018050715](/zet/20221018050715/README.md) dotfiles concept #concept #file #command #users #hub
+- [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy #idea #trick #apt #post
+- [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands #meta
+- [20221018160416](/zet/20221018160416/README.md) phishing or credential harvesting concept #idea #concept #hub
+- [20221018174628](/zet/20221018174628/README.md) tar command #command #hub #linux #file #filepath #package
+- [20221019150132](/zet/20221019150132/README.md) kerberos AD commands #ad #kerberos #windows #command #trick
+- [20221020000848](/zet/20221020000848/README.md) SSH #concept #ssh #program #command
+- [20221020183231](/zet/20221020183231/README.md) how to get titles to show up in obsidian graph #tip #workflow
+- [20221020203509](/zet/20221020203509/README.md) concept of an antipattern #idea #programming #hacking #info #trick
+- [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet #meta
+- [20221022210052](/zet/20221022210052/README.md) file type reference #info #trick #file #analysis #exploit
+- [20221022232952](/zet/20221022232952/README.md) pandoc markdown format converter #tool #markdown
+- [20221024070910](/zet/20221024070910/README.md) drop first column with awk #idea #awk #trick
+- [20221024082446](/zet/20221024082446/README.md) tmux join-pane move window back into pane #tip #tmux
+- [20221025045945](/zet/20221025045945/README.md) tldr pages #repo
+- [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists #idea #zettelkasten #zet #notes #meta #todo
+- [20221027134758](/zet/20221027134758/README.md) tag kb imported files #idea #todo #meta
+- [20221027150053](/zet/20221027150053/README.md) cleanup fix and consolidate tags #meta #hub
+- [20221028014614](/zet/20221028014614/README.md) keep track of scripts with graphquery #idea #meta
 
 --------------------------------------------------------------------------------
 
@@ -34,7 +985,7 @@ kafka kali kb_import kerberos keytool ksql kubernetes
 lan language laptop ldap less lfi library linux list load
 macro malicious markdown me meta metasploit microsoft mimikatz mobile msfvenom mysql
 naming networking nfs nim nmap notes noun
-openssl optimization optimiztion os osint
+openssl optimization os osint
 package packet pane password path pc php pipelines pivot plugin port portable post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox pureftp pwn pwntools python
 question quick
 rce rdp redhat reference relative remoteaccess repo repositories responder retired routing run rust

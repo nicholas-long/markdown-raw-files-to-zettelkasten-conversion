@@ -54,3 +54,4 @@
 - [20221007023939](/zet/20221007023939/README.md) python ternary operator
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221017084459](/zet/20221017084459/README.md) xpup xml parsing tool for scripting
+- [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed

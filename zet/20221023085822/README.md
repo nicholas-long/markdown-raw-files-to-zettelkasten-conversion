@@ -237,6 +237,7 @@ zet/20221023085822/walkquery --human --path id 20221011181347 refs not <( echo 2
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language
 - [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
+- [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries
 
 Tags:
 

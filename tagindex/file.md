@@ -41,3 +41,4 @@
 - [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221019150908](/zet/20221019150908/README.md) userlist file concept
 - [20221022210052](/zet/20221022210052/README.md) file type reference
+- [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed

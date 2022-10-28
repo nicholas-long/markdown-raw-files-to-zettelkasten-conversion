@@ -1,1 +1,3 @@
+- [20221006204315](/zet/20221006204315/README.md) fastest way to take graph notes
 - [20221008061845](/zet/20221008061845/README.md) workflow
+- [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries

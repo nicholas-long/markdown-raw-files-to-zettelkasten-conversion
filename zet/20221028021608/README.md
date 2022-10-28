@@ -21,6 +21,7 @@ echo "$list" | sed -e 's/[<>\|&#;"'\'']//g' -e 's/,/\n/g'| awk '!/^$/ {print "ta
 - [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 - [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

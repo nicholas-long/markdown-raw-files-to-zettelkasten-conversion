@@ -1,2 +1,3 @@
 - [20221003151307](/zet/20221003151307/README.md) expect scripts use arguments
 - [20221003151418](/zet/20221003151418/README.md) bash scripting parse args with case statement
+- [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed

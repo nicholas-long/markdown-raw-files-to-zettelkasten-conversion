@@ -81,6 +81,7 @@
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221003150172](/zet/20221003150172/README.md) less color output
 - [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
+- [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed
 
 Tags:
 

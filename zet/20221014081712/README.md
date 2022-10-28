@@ -19,6 +19,7 @@
 - [20221008215655](/zet/20221008215655/README.md) user account
 - [20221007193324](/zet/20221007193324/README.md) github actions
 - [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal
+- [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed
 
 Tags:
 

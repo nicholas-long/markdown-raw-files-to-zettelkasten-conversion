@@ -512,3 +512,4 @@
 - [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
 - [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 - [20221028014614](/zet/20221028014614/README.md) keep track of scripts with graphquery
+- [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries
