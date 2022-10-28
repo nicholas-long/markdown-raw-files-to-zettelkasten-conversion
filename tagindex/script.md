@@ -93,3 +93,4 @@
 - [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames
 - [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
+- [20221028032005](/zet/20221028032005/README.md) how to disable a card

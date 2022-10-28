@@ -17,3 +17,4 @@
 - [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 - [20221027150053](/zet/20221027150053/README.md) cleanup fix and consolidate tags
 - [20221028014614](/zet/20221028014614/README.md) keep track of scripts with graphquery
+- [20221028032005](/zet/20221028032005/README.md) how to disable a card

@@ -22,6 +22,7 @@ hello world again!
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221028014614](/zet/20221028014614/README.md) keep track of scripts with graphquery
+- [20221028032005](/zet/20221028032005/README.md) how to disable a card
 
 Tags:
 

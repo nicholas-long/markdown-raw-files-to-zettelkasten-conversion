@@ -32,3 +32,4 @@
 - [20221018193528](/zet/20221018193528/README.md) bash shell builtin commands
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
 - [20221022210052](/zet/20221022210052/README.md) file type reference
+- [20221028032005](/zet/20221028032005/README.md) how to disable a card

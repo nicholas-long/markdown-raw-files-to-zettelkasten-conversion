@@ -16,6 +16,7 @@ hello world from the second snippet!
 
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 - [20221009095853](/zet/20221009095853/README.md) finished
+- [20221028032005](/zet/20221028032005/README.md) how to disable a card
 
 Tags:
 

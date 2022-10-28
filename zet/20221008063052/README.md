@@ -42,6 +42,7 @@ zet/20221028014614/autoexec_enrich
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221026152737](/zet/20221026152737/README.md) template snippet cards not getting run because of parameter issues
 - [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards
+- [20221028032005](/zet/20221028032005/README.md) how to disable a card
 
 Tags:
 
