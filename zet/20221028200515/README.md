@@ -14,6 +14,7 @@ git diff 39d9df0b3d0042eab8fab0964d256c1b199ac7a8 -- zet/20221013221136/graphque
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries
 
 Tags:
 
