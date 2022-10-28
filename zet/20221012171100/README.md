@@ -16,7 +16,8 @@ zet/20221012171100/README.md
 - [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed
 - [20221028032005](/zet/20221028032005/README.md) how to disable a card
 - [20221028033132](/zet/20221028033132/README.md) how many cards you got now
-- [20221028033132](/zet/20221028033132/README.md) how many cards you got now
+- [20221028085630](/zet/20221028085630/README.md) make links for refs with symlinks
+- [20221028085630](/zet/20221028085630/README.md) make links for refs with symlinks
 
 Tags:
 
