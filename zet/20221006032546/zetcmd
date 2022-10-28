@@ -506,5 +506,7 @@ EOF
       system(file " " wd " " scriptpath)
     }
     '
+    # generate list of refs
+    find zet -name README.md | xargs zet/$ZET_CMD_IMPLEMENTATION/scanrefs | awk '$1 == "ref" {print $2, $3}' | gzip > refs.gz
     ;;
 esac
