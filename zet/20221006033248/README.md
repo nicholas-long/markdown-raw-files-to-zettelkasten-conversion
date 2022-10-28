@@ -41,6 +41,9 @@
 - [20221010183037](/zet/20221010183037/README.md) importing zettelkasten data
 - https://github.com/rwxrob
 - [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
+- [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
+- [20221028194014](/zet/20221028194014/README.md) check header line lengths in script
+- [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
 
 Tags:
 

@@ -17,3 +17,4 @@
 - [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database
 - [20221003151327](/zet/20221003151327/README.md) bash scripting convert text strings or wordlists to lowercase
 - [20221003151368](/zet/20221003151368/README.md) bash scripting get top N most common ports from nmap list pass argument
+- [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements

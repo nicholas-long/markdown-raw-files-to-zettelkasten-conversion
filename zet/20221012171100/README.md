@@ -53,7 +53,7 @@ zet/20221012171100/README.md
 - [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
 - [20221028185008](/zet/20221028185008/README.md) tmux notification when changes are on github and not local
 - [20221028194014](/zet/20221028194014/README.md) check header line lengths in script
-- [20221028194014](/zet/20221028194014/README.md) check header line lengths in script
+- [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
 
 Tags:
 
