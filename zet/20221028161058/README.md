@@ -5,9 +5,7 @@
 
 ```
 ./Dockerfile
-./refs.gz
 ./rundocker
-./template_with_unsorted_link.md
 ./yq_binaries
 ```
 
