@@ -1,7 +1,10 @@
 # optimizations for graph queries
 
-- optimized tag union process
+- optimized tag union process - done
   - one big awk query on tag index files
+- figure out if some sorts can be removed
+- create specific code for each action for walkquery or for graphquery and walkquery both
+- walkquery shouldn't use graphquery as a subprocess - optimize instead
 
 ```bash
 echo "a|;'-#,b,c" | sed -e 's/[<>\|&#;"'\'']//g' -e 's/,/\n/g'| awk '{print "tagindex/" $0 ".md"}'
