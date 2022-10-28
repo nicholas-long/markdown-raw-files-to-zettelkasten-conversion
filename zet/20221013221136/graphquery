@@ -46,7 +46,7 @@ while [[ $# -gt 0 ]]; do
     join $buf $temp > $joined
     cp "$joined" "$buf"
   elif [[ "$1" == ':' || "$1" == 'refs' ]]; then
-    cat $buf | xargs -n 1 implementation/quickrefs | sort -u > $temp
+    cat $buf | xargs -n 1 ./zc refs | sort -u > $temp
     cp "$temp" "$buf"
   elif [[ "$1" == 'id' ]]; then
     shift
