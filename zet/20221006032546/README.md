@@ -148,6 +148,8 @@ Options:
 - [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
 - [20221028032005](/zet/20221028032005/README.md) how to disable a card
 - [20221028033132](/zet/20221028033132/README.md) how many cards you got now
+- [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries
+- [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
 
 Tags:
 
