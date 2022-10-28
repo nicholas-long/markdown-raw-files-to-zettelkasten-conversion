@@ -7,6 +7,9 @@
 mv Dockerfile zet/20221028172836/
 ln -s zet/20221028172836/Dockerfile
 
+mv rundocker zet/20221028172836/
+ln -s zet/20221028172836/rundocker
+
 ```
 
 ` zet/20221028172836/README.md `
