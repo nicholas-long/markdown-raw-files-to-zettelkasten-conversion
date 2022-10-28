@@ -26,7 +26,6 @@ done
 
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221003150098](/zet/20221003150098/README.md) todo
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

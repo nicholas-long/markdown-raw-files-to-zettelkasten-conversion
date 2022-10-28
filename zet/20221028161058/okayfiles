@@ -1,0 +1,12 @@
+# everything listed in this file should be metadata or generated files only
+^./LICENSE$
+^./README.md$
+^./all_tags$
+^./id_headings$
+^./refs$
+^./tagindex$
+^./zet$
+^./.git$
+^./.gitignore$
+^./.github$
+^./zettel-template$

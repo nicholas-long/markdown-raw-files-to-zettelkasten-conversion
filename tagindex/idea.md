@@ -515,3 +515,4 @@
 - [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries
 - [20221028033132](/zet/20221028033132/README.md) how many cards you got now
 - [20221028085630](/zet/20221028085630/README.md) make links for refs with symlinks
+- [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
