@@ -25,4 +25,4 @@
 
 Tags:
 
-    #zettelkasten #optimiztion #speed #workflow #notes 
+    #zettelkasten #speed #workflow #notes #optimization

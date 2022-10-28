@@ -4,6 +4,7 @@
   - very fast way to detect problems and report about them
 - a lot of new scripts and queries being added... need a way to do something periodically instead of every enrich step
   - clean up or comment out unused graph query scripts
+  - should optimize tag union process
 
 ` zet/20221007175034/README.md `
 
@@ -19,6 +20,7 @@
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221028014614](/zet/20221028014614/README.md) keep track of scripts with graphquery
+- [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries
 
 Tags:
 
