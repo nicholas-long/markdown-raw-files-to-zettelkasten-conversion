@@ -8,6 +8,11 @@
 - would be really useful for OSCP AD network to be able to have multiple machine notes that could all be linked together somehow
 - could do it with edge induced subgraph notated by a set of edges
   - in the form `11111111111111 22222222222222` the edges between 2 nodes
+- procedure
+  - get localgroup with new `tagboundary` script
+  - make a new card for each of them and echo IDs to tempfile
+  - replace IDs in the new cards with sed
+  - last: insert link from current node to new template in graph browser?
 
 ```
 zet/20221014025416/tagboundary
