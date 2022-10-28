@@ -25,7 +25,7 @@ hello world again!
 - [20221028032005](/zet/20221028032005/README.md) how to disable a card
 - [20221028033132](/zet/20221028033132/README.md) how many cards you got now
 - [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
-- [20221028175711](/zet/20221028175711/README.md) symlink these cards
+- [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
 
 Tags:
 

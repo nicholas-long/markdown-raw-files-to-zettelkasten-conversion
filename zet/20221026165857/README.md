@@ -18,7 +18,7 @@ hello world from the second snippet!
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221028032005](/zet/20221028032005/README.md) how to disable a card
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
-- [20221028175711](/zet/20221028175711/README.md) symlink these cards
+- [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
 
 Tags:
 
