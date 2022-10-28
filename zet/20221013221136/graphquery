@@ -84,7 +84,7 @@ while [[ $# -gt 0 ]]; do
       awk '!/^$/ {print "tagindex/" $0 ".md"}' | \
       xargs sed -e 's/^.*zet\///' -e 's|/.*$||' | \
       sort -u > $temp
-      join -v 1 $buf $temp > $joined
+      join $buf $temp > $joined
       cp "$joined" "$buf"
   elif [[ "$1" == 'file' ]]; then
     shift
