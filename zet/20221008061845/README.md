@@ -67,7 +67,6 @@ hub node for `workflow`
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221006204315](/zet/20221006204315/README.md) fastest way to take graph notes
 - [20221006213953](/zet/20221006213953/README.md) video notes
-- [20221003150551](/zet/20221003150551/README.md) php cmd shell
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221008042814](/zet/20221008042814/README.md) WIP

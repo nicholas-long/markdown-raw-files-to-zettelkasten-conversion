@@ -33,7 +33,6 @@ the concept of `linux terminal`
 - [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
 - [20221003150182](/zet/20221003150182/README.md) install alacritty 
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list
-- [20221003150551](/zet/20221003150551/README.md) php cmd shell
 - [20221006025356](/zet/20221006025356/README.md) linux
 
 Tags:

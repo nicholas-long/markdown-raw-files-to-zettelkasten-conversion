@@ -6,7 +6,6 @@ stuff i am working on.
 
 # Related
 
-- [20221003150551](/zet/20221003150551/README.md) php cmd shell
 - [20221027150053](/zet/20221027150053/README.md) cleanup fix and consolidate tags
 - [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
