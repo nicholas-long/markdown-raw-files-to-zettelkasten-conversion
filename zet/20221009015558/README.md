@@ -12,7 +12,6 @@ the concept of `docker`
 - [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
-- [20221003150218](/zet/20221003150218/README.md) Connecting to confluent
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221009021452](/zet/20221009021452/README.md) container
 - [20221003151135](/zet/20221003151135/README.md) active directory  workflow for penetration test on windows network in organization

@@ -1,5 +1,6 @@
 # add user to docker group
 
+- this is a privilege escalation vulnerability.
 ```bash
 sudo usermod -aG docker $USER
 ```
@@ -13,7 +14,9 @@ sudo usermod -aG docker $USER
 - ~/kb/linux/users-groups.md
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221008061845](/zet/20221008061845/README.md) workflow
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
+- [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
 
 Tags:
 
-    #linux #users 
+    #linux #docker #users #tip #privesc
