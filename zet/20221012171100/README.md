@@ -14,7 +14,6 @@ zet/20221012171100/README.md
 - [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
 - [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
 - [20221028173620](/zet/20221028173620/README.md) yq binaries
-- [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
 - [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step
 - [20221024213239](/zet/20221024213239/README.md) obsidian dataview plugin
 - [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language
