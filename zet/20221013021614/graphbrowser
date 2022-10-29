@@ -184,7 +184,7 @@ while [ 1 == "$going" ]; do
     ' "$doc" | fzf -m | zet/$IMPL/parseids > "$selection"
     awk '{print "zet/" $0 "/README.md"}' $selection | xargs -n 1 tmux new-window "$0"
     rm "$selection"
-  elif [ "$act" == "/deep" ]; then
+  elif [ "$act" == "/search" ]; then
     if [ -z $TMUX ]; then
       newid=$(zet/$MYID/connectome_deep | fzf | awk '{print $1}')
       export prevdoc="$doc"
