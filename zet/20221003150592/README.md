@@ -14,6 +14,7 @@
 - [20221003150591](/zet/20221003150591/README.md) php run as interactive shell
 - ~/kb/hacking/php/PHP-quick-command-reference.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221003150551](/zet/20221003150551/README.md) php cmd shell
 
 Tags:
 

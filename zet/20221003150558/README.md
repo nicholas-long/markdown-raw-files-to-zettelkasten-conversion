@@ -13,6 +13,7 @@
 - [20221003150557](/zet/20221003150557/README.md) WhiteWinterWolf Webshell
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
+- [20221003150551](/zet/20221003150551/README.md) php cmd shell
 
 Tags:
 

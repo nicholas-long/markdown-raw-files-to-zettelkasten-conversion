@@ -15,6 +15,7 @@ cat /usr/share/webshells/php/php-backdoor.php
 - [20221003150590](/zet/20221003150590/README.md) php code examples
 - [20221003150582](/zet/20221003150582/README.md) php LFI
 - [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell
+- [20221003150551](/zet/20221003150551/README.md) php cmd shell
 
 Tags:
 
