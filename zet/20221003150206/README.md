@@ -23,4 +23,4 @@ echo "This is where initializtion should happen."
 
 Tags:
 
-    #kafka #ksql 
+    #kafka #ksql #bash #docker

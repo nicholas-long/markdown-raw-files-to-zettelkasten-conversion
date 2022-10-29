@@ -4,6 +4,8 @@
 - associate them with the `auto-*` generated markdown files
   - put the scripts in the zettels?
 - list stored in `zet/20221020185927/rawlist`
+- new finding: files from this list are not imported
+  - [20221014185449](/zet/20221014185449/README.md) kb file named kb/shell-script-list.md
 
 ```
 ./graphquery id 20221014185509 : @script --human
@@ -183,7 +185,6 @@ cp ~/kb/awk-scripting/colorize.awk zet/20221003151440/
 
 # Related
 
-- [20221009095853](/zet/20221009095853/README.md) finished
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - [20221003151363](/zet/20221003151363/README.md) python scripting
@@ -194,6 +195,7 @@ cp ~/kb/awk-scripting/colorize.awk zet/20221003151440/
 - [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221014183030](/zet/20221014183030/README.md) create cards for kb files
+- [20221008042814](/zet/20221008042814/README.md) WIP
 
 Tags:
 

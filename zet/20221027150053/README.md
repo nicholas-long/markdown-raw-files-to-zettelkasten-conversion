@@ -56,6 +56,16 @@
 ./graphquery @crackmapexec | xargs -n 1 ./zc deltag -t crackmapexec
 
 ./graphquery @substitution | xargs -n 1 ./zc deltag -t substitution
+
+# things linked docker should be tagged container or docker
+- [20221009015558](/zet/20221009015558/README.md) docker #docker #concept #hub
+
+dockerid=20221009015558
+./graphquery --human id $dockerid refs not <( ./graphquery @docker )
+
+dockerid=20221009015558
+./graphquery --human id $dockerid refs not <( ./graphquery @docker )
+
 ```
 
 ` zet/20221027150053/README.md `

@@ -9,7 +9,6 @@ things that are finished.
 - [20221021221931](/zet/20221021221931/README.md) cache headings
 - [20221010044240](/zet/20221010044240/README.md) titles of nodes should repopulate
 - [20221022232030](/zet/20221022232030/README.md) save fzf completion history for each card
-- [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
 - [20221022000131](/zet/20221022000131/README.md) put tmux and vim rc config in dockerfile
 - [20221009102918](/zet/20221009102918/README.md) get titles in tag links
 - [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten

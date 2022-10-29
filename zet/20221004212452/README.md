@@ -27,7 +27,6 @@ zet/20221003151329/README.md    bash scripting
 - [20221003150085](/zet/20221003150085/README.md) bash scripts sh named pipe to netcat
 - [20221003150091](/zet/20221003150091/README.md) bash scripts sh ubuntu dockerfile template
 - [20221003150089](/zet/20221003150089/README.md) bash scripts sh run docker catch rev shell
-- [20221003150090](/zet/20221003150090/README.md) bash scripts sh run docker catch rev shell
 - [20221003150095](/zet/20221003150095/README.md) bash scripts sh autogenerate all languages
 - [20221003150093](/zet/20221003150093/README.md) bash scripts sh destroy containers and images
 - [20221003151332](/zet/20221003151332/README.md) bash scripting

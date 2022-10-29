@@ -36,4 +36,4 @@ fi
 
 Tags:
 
-    #kafka #ksql 
+    #kafka #ksql #bash #docker
