@@ -1,3 +1,4 @@
+- [20221003150091](/zet/20221003150091/README.md) bash scripts sh ubuntu dockerfile template
 - [20221003150930](/zet/20221003150930/README.md) lxd priv esc without painful build problems lxd priv esc victim
 - [20221003150931](/zet/20221003150931/README.md) lxd priv esc without painful build problems lxd priv esc x86
 - [20221003150932](/zet/20221003150932/README.md) lxd priv esc without painful build problems lxd priv esc x64
