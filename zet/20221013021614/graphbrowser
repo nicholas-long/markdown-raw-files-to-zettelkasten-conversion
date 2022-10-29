@@ -17,9 +17,8 @@ if [ "$1" == "video" ]; then
   if [ "$3" == "stat" ]; then
     zet/$IMPL/previewgit
   else
-    bat --language md --style=plain --color=always <( awk -v "cmd=$3" '
-      $2 ~ cmd { print }
-    ' zet/$MYID/README.md | head -n 1 )
+    # touch .helpless to hide help messages
+    [ -f './.helpless' ] || (bat --language md --style=plain --color=always <( awk -v "cmd=$3" ' $2 ~ cmd { print } ' zet/$MYID/README.md | head -n 1 ))
     bat --color=always $2
   fi
   exit 0
@@ -44,41 +43,42 @@ while [ 1 == "$going" ]; do
   awk '
   BEGIN {
     doc = ENVIRON["doc"]
+    print "edit", doc
+
+    if (ENVIRON["TMUX"] ~ /tmux/) {
+      print "copy..."
+      print "tab"
+      print "copypath"
+      print "workdir"
+    }
+    print "~"
+    print "/search"
+    print "back"
     if (doc != "README.md") {
       id = doc
       gsub(/^zet\//,"",id)
       gsub(/\/.*$/,"",id)
       if (id != "README.md") {
         lsdir = "ls zet/" id
-        cmd = lsdir " | grep README && " lsdir " | grep -v README"
+        cmd = lsdir " | grep -v \047README\.md\047"
         while ((cmd | getline) > 0) {
           print "edit", "zet/" id "/" $0
         }
         close(cmd)
         print "spawn"
-        print "addtags"
-        print "deltags"
+        print "xfer"
+        print "fxfer"
         print "mkfile"
         print "link"
         print "unlink"
-        print "xfer"
-        print "fxfer"
+        print "addtags"
+        print "deltags"
       }
     } else {
       id = 0
-      print "edit", doc
       print "xfer"
     }
-    print "/deep"
     print "tagindex"
-    print "~"
-    if (ENVIRON["TMUX"] ~ /tmux/) {
-      print "tab"
-      print "copy..."
-      print "copypath"
-      print "workdir"
-    }
-    print "back"
     print "enrich"
     print "stat"
     print "quit"
