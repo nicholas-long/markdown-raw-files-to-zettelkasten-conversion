@@ -1,3 +1,4 @@
+- [20221003150081](/zet/20221003150081/README.md) tmux box art enable
 - [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
 - [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color

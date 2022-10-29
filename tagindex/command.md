@@ -13,6 +13,7 @@
 - [20221003150193](/zet/20221003150193/README.md) concept of converting files
 - [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
 - [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
+- [20221003150207](/zet/20221003150207/README.md) example docker to initialize ksql commands
 - [20221003150208](/zet/20221003150208/README.md) kafkacat add data to topic include keys
 - [20221003150209](/zet/20221003150209/README.md) kafkacat add data to topic
 - [20221003150210](/zet/20221003150210/README.md) kafkacat

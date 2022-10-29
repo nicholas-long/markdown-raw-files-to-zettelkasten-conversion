@@ -1,4 +1,8 @@
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
+- [20221003150203](/zet/20221003150203/README.md) example docker to initialize ksql commands Dockerfile
+- [20221003150204](/zet/20221003150204/README.md) example docker to initialize ksql commands entry.sh
+- [20221003150205](/zet/20221003150205/README.md) example docker to initialize ksql commands ksql.sh
+- [20221003150206](/zet/20221003150206/README.md) example docker to initialize ksql commands initialize.sh
 - [20221003150208](/zet/20221003150208/README.md) kafkacat add data to topic include keys
 - [20221003150209](/zet/20221003150209/README.md) kafkacat add data to topic
 - [20221003150210](/zet/20221003150210/README.md) kafkacat

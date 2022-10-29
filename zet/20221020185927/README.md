@@ -196,6 +196,7 @@ cp ~/kb/awk-scripting/colorize.awk zet/20221003151440/
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221014183030](/zet/20221014183030/README.md) create cards for kb files
 - [20221008042814](/zet/20221008042814/README.md) WIP
+- [20221003150090](/zet/20221003150090/README.md) bash scripts sh run docker catch rev shell
 
 Tags:
 

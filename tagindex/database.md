@@ -1,3 +1,4 @@
+- [20221003150207](/zet/20221003150207/README.md) example docker to initialize ksql commands
 - [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082
 - [20221003150341](/zet/20221003150341/README.md) cms database creds config locations
 - [20221003150342](/zet/20221003150342/README.md) wordpress plugins in database

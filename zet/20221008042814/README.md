@@ -88,6 +88,7 @@ stuff i am working on.
 - [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
 - [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
 - [20221028200515](/zet/20221028200515/README.md) weird new issues with enrich and graph query
+- [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
 
 Tags:
 

@@ -6,6 +6,10 @@
 #
 # unlabled scripts and commands and things 
 #
+- [20221003150203](/zet/20221003150203/README.md) example docker to initialize ksql commands Dockerfile #kafka #ksql #bash #docker #file
+- [20221003150204](/zet/20221003150204/README.md) example docker to initialize ksql commands entry.sh #kafka #ksql #bash #docker
+- [20221003150205](/zet/20221003150205/README.md) example docker to initialize ksql commands ksql.sh #kafka #ksql #bash #docker
+- [20221003150206](/zet/20221003150206/README.md) example docker to initialize ksql commands initialize.sh #kafka #ksql #bash #docker
 - [20221006033248](/zet/20221006033248/README.md) rwxrob #linux #streamer #vim #bash #zettelkasten 
 - [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process #bash #zettelkasten 
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion #zettelkasten #bash

@@ -23,7 +23,6 @@
 - [20221024213239](/zet/20221024213239/README.md) obsidian dataview plugin
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 - [20221028173620](/zet/20221028173620/README.md) yq binaries
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 
