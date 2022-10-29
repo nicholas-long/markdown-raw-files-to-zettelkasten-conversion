@@ -39,6 +39,17 @@
 - do not want to support yaml tagging, but need to?
 - 9:44 reserving elements in yaml schema
 - `KEG:` should be reserved in yaml
+- 10:00 link to searches on other people's content instead of specific links...
+  - "link to highly optimized searches of target document sites"
+  - hardcode search criteria in link
+  - seems counterintuitive, but you almost always don't want to go to a specific knowledge node somewhere
+    - good example: when you are searching and come across dead old website forum post from 17 years ago - xkcd comic
+  - but some things like videos have semi permanent guids? specific videos should have links?
+- liked gopher?
+- "note set"
+- concept of a "book node"
+
+- added next day: https://github.com/rwxrob/keg-spec
 
 ```
 ```
@@ -60,6 +71,7 @@
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221028194014](/zet/20221028194014/README.md) check header line lengths in script
 - [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
+- https://github.com/rwxrob/keg-spec
 
 Tags:
 
