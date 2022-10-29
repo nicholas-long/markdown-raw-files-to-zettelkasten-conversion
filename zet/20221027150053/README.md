@@ -6,28 +6,21 @@
   - "buzzwords" - what to do with this? could link them to note
   - should github be a concept hub or a hashtag? or both?
   - keep useful as a tag or label?
-
-- awk-scripting -> #awk #scripting
-- bash-scripting -> #bash #scripting
-- c -> c-language
-- data-engineering-pipelines -> #data #pipelines
-- lxd -> container
-- active -> ad
-- crowbar
-- xterm
-- enh -> enhancement
-- crackmapexec -> bruteforcing if not
-- create filesystem tag for ext4 and other future stuff
-- util utilities -> util
-  - remove
-    - utilities
-    - utility
-- [20221003151299](/zet/20221003151299/README.md) bash tricks
 - text vs textprocessing
-
 - things linked docker should be tagged container or docker
-
 ```
+
+# things linked docker should be tagged container or docker
+- [20221009015558](/zet/20221009015558/README.md) docker #docker #concept #hub
+
+./graphquery --human id 20221009015558 refs not <( ./graphquery @docker )
+
+./graphquery --human id 20221009015558 refs not <( ./graphquery @docker )
+
+--------------------------------------------------------------------------------
+# done
+--------------------------------------------------------------------------------
+
 # awk
 ./graphquery @awk-scripting not <( ./graphquery @awk ) | xargs -n 1 ./zc addtag -t awk
 ./graphquery @awk-scripting not <( ./graphquery @scripting ) | xargs -n 1 ./zc addtag -t scripting
@@ -57,16 +50,25 @@
 
 ./graphquery @substitution | xargs -n 1 ./zc deltag -t substitution
 
-# things linked docker should be tagged container or docker
-- [20221009015558](/zet/20221009015558/README.md) docker #docker #concept #hub
-
-dockerid=20221009015558
-./graphquery --human id $dockerid refs not <( ./graphquery @docker )
-
-dockerid=20221009015558
-./graphquery --human id $dockerid refs not <( ./graphquery @docker )
-
 ```
+
+- done
+- awk-scripting -> #awk #scripting
+- bash-scripting -> #bash #scripting
+- c -> c-language
+- data-engineering-pipelines -> #data #pipelines
+- lxd -> container
+- active -> ad
+- crowbar
+- xterm
+- enh -> enhancement
+- crackmapexec -> bruteforcing if not
+- create filesystem tag for ext4 and other future stuff
+- util utilities -> util
+  - remove
+    - utilities
+    - utility
+- [20221003151299](/zet/20221003151299/README.md) bash tricks
 
 ` zet/20221027150053/README.md `
 

@@ -1,4 +1,4 @@
-# add user to group docker
+# add user to docker group
 
 ```bash
 sudo usermod -aG docker $USER

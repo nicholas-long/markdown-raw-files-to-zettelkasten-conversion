@@ -79,4 +79,4 @@ services:
 
 Tags:
 
-    #kafka #initialize 
+    #kafka #initialize #docker
