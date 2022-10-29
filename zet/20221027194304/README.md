@@ -48,6 +48,7 @@
 - liked gopher?
 - "note set"
 - concept of a "book node"
+- talking about nodes in root dir of repo instead of zet dir?
 
 - added next day: https://github.com/rwxrob/keg-spec
 
