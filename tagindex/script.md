@@ -1,3 +1,7 @@
+- [20221003150203](/zet/20221003150203/README.md) example docker to initialize ksql commands Dockerfile
+- [20221003150204](/zet/20221003150204/README.md) example docker to initialize ksql commands entry.sh
+- [20221003150205](/zet/20221003150205/README.md) example docker to initialize ksql commands ksql.sh
+- [20221003150206](/zet/20221003150206/README.md) example docker to initialize ksql commands initialize.sh
 - [20221003151351](/zet/20221003151351/README.md) python scripting parse all post params from post content given on standard input
 - [20221003151352](/zet/20221003151352/README.md) python scripting convert tsv with key and value fields to python dictionary
 - [20221003151353](/zet/20221003151353/README.md) python scripting fuzz valid dates
