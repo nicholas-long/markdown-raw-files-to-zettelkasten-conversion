@@ -1,6 +1,7 @@
 # terminal graph browser
 
 - concept of `terminal graph browser`
+- zkvr
 - text user interface ( TUI ) to follow links
   - interfaced based on workflow from using web browser and github markdown preview to traverse links
   - add and remove links quickly with fzf
@@ -17,6 +18,8 @@
   - `/deep`       - deep keyword search combining links, titles, content, and fzf fuzzy finding. launches new tmux windows if tmux is running.
   - `~`           - return to home page
   - `spawn`       - create a new zettel card linked to here. enter title at prompt. new card is available to navigate and edit immediately.
+  - `copy...`     - if running in tmux, select text to copy from snippets with fzf
+  - `copypath`    - if running in tmux, copy the current markdown file path to tmux buffer
   - `xfer`        - copy between cards or attached files easily by selecting files or cards to open alongside `README.md` in vim tabs
   - `fxfer`       - copy files between cards
   - `link`        - insert many links with fzf fuzzy finder
@@ -24,8 +27,6 @@
   - `stat`        - git status preview, colorized. launches lazygit if selected.
   - `back`        - go back, like a browser
     - if you edit links in cards you are working on, you could get trapped and need to hop back to previous card
-  - `copypath`    - if running in tmux, copy the current markdown file path to tmux buffer
-  - `copy...`     - if running in tmux, select text to copy from snippets with fzf
   - `enrich`      - insert backlinks and other various cleanup scripts. runs automatic scripts in cards
     - consider the security implications of automatic scripts
   - `quit`        - exit program. i like q as a hotkey so this is good in fzf.
