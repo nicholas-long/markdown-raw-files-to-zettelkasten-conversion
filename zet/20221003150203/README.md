@@ -28,4 +28,4 @@ ENTRYPOINT /work/entry.sh
 
 Tags:
 
-    #kafka #ksql #bash #docker #file
+    #kafka #ksql #bash #docker #file #script

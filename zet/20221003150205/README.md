@@ -27,4 +27,4 @@ echo
 
 Tags:
 
-    #kafka #ksql #bash #docker
+    #kafka #ksql #bash #docker #script
