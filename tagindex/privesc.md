@@ -1,3 +1,4 @@
+- [20221003150183](/zet/20221003150183/README.md) add user to docker group
 - [20221003150260](/zet/20221003150260/README.md) sperl and suidperl
 - [20221003150266](/zet/20221003150266/README.md) systemd-private
 - [20221003150307](/zet/20221003150307/README.md) copy docker binary to target

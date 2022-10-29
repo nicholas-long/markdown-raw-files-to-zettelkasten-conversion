@@ -18,6 +18,7 @@
 - [20221003150209](/zet/20221003150209/README.md) kafkacat add data to topic
 - [20221003150210](/zet/20221003150210/README.md) kafkacat
 - [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset
+- [20221003150218](/zet/20221003150218/README.md) Connecting to confluent
 - [20221003150224](/zet/20221003150224/README.md) bettercap start commnad
 - [20221003150232](/zet/20221003150232/README.md) extract command for file type apk rebuild apk
 - [20221003150233](/zet/20221003150233/README.md) extract command for file type apk

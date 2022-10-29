@@ -1,5 +1,6 @@
 - [20221003150064](/zet/20221003150064/README.md) neovim diff
 - [20221003150081](/zet/20221003150081/README.md) tmux box art enable
+- [20221003150183](/zet/20221003150183/README.md) add user to docker group
 - [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
 - [20221003150307](/zet/20221003150307/README.md) copy docker binary to target
 - [20221003150309](/zet/20221003150309/README.md) burpsuite set scope to limit request catching

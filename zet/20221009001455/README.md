@@ -13,7 +13,7 @@ An IT professional who has earned the Red Hat Certified System Administrator (RH
 - [20221012152319](/zet/20221012152319/README.md) concept of company or organization
 - [20221003150893](/zet/20221003150893/README.md) get facl recursively centos / redhat
 - [20221008213458](/zet/20221008213458/README.md) operating system
-- [20221003150551](/zet/20221003150551/README.md) linux
+- [20221003150551](/zet/20221003150551/README.md) php cmd shell
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221009001238](/zet/20221009001238/README.md) certification
 - https://www.redhat.com/en/services/certification/rhcsa

@@ -14,7 +14,7 @@ the concept of a `version` of a piece of software.
 - [20221003151222](/zet/20221003151222/README.md) identify linux version from service version ubuntu
 - [20221003151153](/zet/20221003151153/README.md) windows
 - [20221006025356](/zet/20221006025356/README.md) linux
-- [20221003150551](/zet/20221003150551/README.md) linux
+- [20221003150551](/zet/20221003150551/README.md) php cmd shell
 - [20221008212519](/zet/20221008212519/README.md) programming language
 - [20221008212802](/zet/20221008212802/README.md) software program
 

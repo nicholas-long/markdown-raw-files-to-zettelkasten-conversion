@@ -13,4 +13,5 @@
 - [20221003150215](/zet/20221003150215/README.md) kafkacat install
 - [20221003150216](/zet/20221003150216/README.md) Initialize topics in dockers Full example
 - [20221003150217](/zet/20221003150217/README.md) Initialize topics in dockers
+- [20221003150218](/zet/20221003150218/README.md) Connecting to confluent
 - [20221006034046](/zet/20221006034046/README.md) kafka and zettelkasten graph docs

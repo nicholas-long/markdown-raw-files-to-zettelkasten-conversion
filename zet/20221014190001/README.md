@@ -27,7 +27,7 @@
 - [20221003150556](/zet/20221003150556/README.md) Active Sever Pages Extended (.aspx) Transfer A File (Certutil)
 - [20221003150555](/zet/20221003150555/README.md) Active Sever Pages Extended (.aspx) Execute a File
 - [20221003150554](/zet/20221003150554/README.md) Perl Reverse Shell
-- [20221003150551](/zet/20221003150551/README.md) linux
+- [20221003150551](/zet/20221003150551/README.md) php cmd shell
 - [20221003150550](/zet/20221003150550/README.md) Sub domain Enum
 - [20221016233507](/zet/20221016233507/README.md) commits for day of 2022-05-27
 - [20221016233505](/zet/20221016233505/README.md) commits for day of 2022-05-26

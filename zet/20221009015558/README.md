@@ -35,7 +35,7 @@ the concept of `docker`
 - [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
 - [20221003150675](/zet/20221003150675/README.md) bloodhound run python version in docker with NTLM hashes instead of creds
 - [20221003150676](/zet/20221003150676/README.md) bloodhound run python version in docker
-- [20221003150551](/zet/20221003150551/README.md) linux
+- [20221003150551](/zet/20221003150551/README.md) php cmd shell
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003151271](/zet/20221003151271/README.md) docker cleanup
 - [20221003150183](/zet/20221003150183/README.md) add user to docker group

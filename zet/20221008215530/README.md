@@ -20,9 +20,9 @@ identifies a user account.
 - [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack
 - [20221008215655](/zet/20221008215655/README.md) user account
 - [20221003150487](/zet/20221003150487/README.md) active directory get user account
-- [20221003151144](/zet/20221003151144/README.md) active directory 
+- [20221003151144](/zet/20221003151144/README.md) active directory
 - [20221003150488](/zet/20221003150488/README.md) active directory
-- [20221003150551](/zet/20221003150551/README.md) linux
+- [20221003150551](/zet/20221003150551/README.md) php cmd shell
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003151153](/zet/20221003151153/README.md) windows
 - [20221003150753](/zet/20221003150753/README.md) kerbrute
