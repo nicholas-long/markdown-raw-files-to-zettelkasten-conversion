@@ -1,2 +1,3 @@
+- [20221003150428](/zet/20221003150428/README.md) generate usernames by country with username anarchy
 - [20221003150431](/zet/20221003150431/README.md) username anarchy for common account formats and names
 - [20221003151239](/zet/20221003151239/README.md) make date wordlist for fuzzing with bash and parameter expansion

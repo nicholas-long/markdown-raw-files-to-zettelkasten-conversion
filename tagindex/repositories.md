@@ -31,7 +31,6 @@
 - [20221003150424](/zet/20221003150424/README.md) kerberos attack on windows host ticket attacks
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
 - [20221003150427](/zet/20221003150427/README.md) generate wordlists bopscrk people OSINT custom wordlists specific to person
-- [20221003150428](/zet/20221003150428/README.md) generate usernames by country with username anarchy
 - [20221003150429](/zet/20221003150429/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale output all formats top 10k names from facebook
 - [20221003150430](/zet/20221003150430/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale 
 - [20221003150432](/zet/20221003150432/README.md) generate wordlists namemash - simple

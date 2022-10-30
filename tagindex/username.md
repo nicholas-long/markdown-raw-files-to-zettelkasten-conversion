@@ -1,2 +1,3 @@
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
+- [20221003150428](/zet/20221003150428/README.md) generate usernames by country with username anarchy
 - [20221003150431](/zet/20221003150431/README.md) username anarchy for common account formats and names

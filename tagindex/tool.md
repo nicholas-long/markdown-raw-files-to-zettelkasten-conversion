@@ -7,6 +7,7 @@
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 - [20221003150392](/zet/20221003150392/README.md) text cipher encryption decryption tools Text Manipulator
 - [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
+- [20221003150428](/zet/20221003150428/README.md) generate usernames by country with username anarchy
 - [20221003150431](/zet/20221003150431/README.md) username anarchy for common account formats and names
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
 - [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
