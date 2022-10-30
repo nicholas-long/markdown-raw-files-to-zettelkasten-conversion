@@ -3,7 +3,6 @@
 - concept of `check header line lengths in script`
 
 ```
-169 zet/20221003150483/README.md active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip
 165 zet/20221003150428/README.md generate wordlists username anarchy, generate from lists of names, from country and locale output all formats generate common usernames for country and localization 
 144 zet/20221003151131/README.md active directory  GMSA group managed service account remote LDAP read GMSA passwords python script fix missing ConvertFrom-AdManagedPasswordBlob
 138 zet/20221003150867/README.md john the ripper find all file formats supported with a 2john script or tojohn use sed to process / execute multiple expressions statements

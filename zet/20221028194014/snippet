@@ -6,4 +6,4 @@ find zet -name README.md | xargs awk '
   if (length() > 72) print length(), FILENAME, $0
   nextfile
 }
-' | sort -nr | grep -v <( ./graphquery @DEL ) # hide deleted IDs
+' | sort -nr | grep -v -f <( ./graphquery @DEL ) # hide deleted IDs
