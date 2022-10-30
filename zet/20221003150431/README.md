@@ -1,4 +1,4 @@
-# username anarchy for account formats and common names
+# username anarchy for common account formats and names
 
 - generate wordlists username anarchy
   - generate from lists of names from country and locale
@@ -21,6 +21,7 @@
 - [20221003150430](/zet/20221003150430/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale output all formats
 - ~/kb/hacking/misc/important-repositories-tools.md
 - https://github.com/urbanadventurer/username-anarchy
+- [20221003150428](/zet/20221003150428/README.md) generate usernames by country with username anarchy
 
 Tags:
 

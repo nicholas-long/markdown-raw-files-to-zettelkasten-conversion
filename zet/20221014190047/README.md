@@ -38,7 +38,7 @@
 - [20221003150376](/zet/20221003150376/README.md) volatility framework
 - [20221003150363](/zet/20221003150363/README.md) portable TCP port scanner bash only
 - [20221003150390](/zet/20221003150390/README.md) file backup fuzzer generate wordlists from filenames
-- [20221003150428](/zet/20221003150428/README.md) username anarchy generate by country
+- [20221003150428](/zet/20221003150428/README.md) generate usernames by country with username anarchy
 - [20221003150430](/zet/20221003150430/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale 
 - [20221003150387](/zet/20221003150387/README.md) krbrelayx addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP.
 - [20221003150373](/zet/20221003150373/README.md) volatility framework analyze dump files of volatile RAM .dmp .img
@@ -66,7 +66,7 @@
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150421](/zet/20221003150421/README.md) kerberos attack on windows host Constrained delegation abuse
-- [20221003150431](/zet/20221003150431/README.md) username anarchy for account formats and common names
+- [20221003150431](/zet/20221003150431/README.md) username anarchy for common account formats and names
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

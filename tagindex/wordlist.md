@@ -1,2 +1,2 @@
-- [20221003150431](/zet/20221003150431/README.md) username anarchy for account formats and common names
+- [20221003150431](/zet/20221003150431/README.md) username anarchy for common account formats and names
 - [20221003151239](/zet/20221003151239/README.md) make date wordlist for fuzzing with bash and parameter expansion

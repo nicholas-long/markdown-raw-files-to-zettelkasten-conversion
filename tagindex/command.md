@@ -43,7 +43,7 @@
 - [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
 - [20221003150420](/zet/20221003150420/README.md) finger user enum
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
-- [20221003150428](/zet/20221003150428/README.md) username anarchy generate by country
+- [20221003150428](/zet/20221003150428/README.md) generate usernames by country with username anarchy
 - [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
 - [20221003150477](/zet/20221003150477/README.md) general enumeration Active Directory Certificate Services is AD CS enabled
 - [20221003150479](/zet/20221003150479/README.md) general enumeration what commands are available
