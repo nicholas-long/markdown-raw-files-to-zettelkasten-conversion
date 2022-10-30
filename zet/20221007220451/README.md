@@ -234,6 +234,7 @@ hacking notes hub
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221027164646](/zet/20221027164646/README.md) liveoverflow
 - [20221003151375](/zet/20221003151375/README.md) bash scripting run strings on memory dumps for every readable process
+- [20221027150053](/zet/20221027150053/README.md) cleanup fix and consolidate tags
 
 Tags:
 

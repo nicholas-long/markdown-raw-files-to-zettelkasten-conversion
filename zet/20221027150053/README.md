@@ -79,6 +79,7 @@
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221003151338](/zet/20221003151338/README.md) awk scripting
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 
 Tags:
 
