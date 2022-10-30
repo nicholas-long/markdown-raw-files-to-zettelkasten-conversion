@@ -29,4 +29,4 @@ source ~/kb/docker/build-github-repo-docker-image.sh
 
 Tags:
 
-    #bash #script #trick #container #bruteforcing #command
+    #bash #script #trick #container #bruteforcing #command #docker

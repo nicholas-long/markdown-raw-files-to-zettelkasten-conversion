@@ -26,4 +26,4 @@ docker run --rm \
 
 Tags:
 
-    #bash #script #trick #container #graph
+    #bash #script #trick #container #docker #graph #database #program
