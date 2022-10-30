@@ -1,4 +1,5 @@
 - [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script
 - [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin
+- [20221003151083](/zet/20221003151083/README.md) establishing persistence on windows target in enterprise penetration test
 - [20221003151221](/zet/20221003151221/README.md) pypykatz dump hashes from registry backup
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy

@@ -1,4 +1,5 @@
 - [20221003150567](/zet/20221003150567/README.md) SMB Copy Files (Execute on Victim)
+- [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen
 - [20221003150835](/zet/20221003150835/README.md) smb mount share old SMBv1 share
 - [20221003150836](/zet/20221003150836/README.md) smb mount share unauthenticated
 - [20221003150837](/zet/20221003150837/README.md) smb mount share

@@ -96,7 +96,7 @@
 - [20221003151131](/zet/20221003151131/README.md) active directory  GMSA group managed service account remote LDAP read GMSA passwords python script fix missing ConvertFrom-AdManagedPasswordBlob
 - [20221003150483](/zet/20221003150483/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip
 - [20221003150485](/zet/20221003150485/README.md) active directory get GMSA service account properties get GMSA password and run commands
-- [20221003151135](/zet/20221003151135/README.md) active directory  workflow for penetration test on windows network in organization
+- [20221003151135](/zet/20221003151135/README.md) active directory organization pentest workflow
 - [20221003151140](/zet/20221003151140/README.md) active directory  NTLMv2 vs kerberos authentication on the network
 - [20221003151130](/zet/20221003151130/README.md) active directory  change user password with rpcclient over SMB 
 - [20221003150778](/zet/20221003150778/README.md) crowbar brute force RDP active directory domain joined
@@ -172,7 +172,7 @@
 - [20221003150674](/zet/20221003150674/README.md) bloodhound stealthy collection method
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
 - [20221003150677](/zet/20221003150677/README.md) bloodhound
-- [20221003150675](/zet/20221003150675/README.md) bloodhound run python version in docker with NTLM hashes instead of creds
+- [20221003150675](/zet/20221003150675/README.md) bloodhound NTLM hashes instead of creds
 - [20221003150939](/zet/20221003150939/README.md) python imports library search path print with python command
 - [20221003150505](/zet/20221003150505/README.md) python pwn tricks convert little endian bytes to floating point
 - [20221003150506](/zet/20221003150506/README.md) python pwn tricks convert little endian bytes to int

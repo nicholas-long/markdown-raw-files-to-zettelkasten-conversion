@@ -21,6 +21,7 @@ this is a list of possibly empty zettels.
 #
 # Non-Empty
 #
+6	- [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker #hacking #privesc #run #docker #test #experiment
 5	- [20221003151343](/zet/20221003151343/README.md) convert decimal to hex #convert #awk #scripting
 5	- [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf #bash #script 
 7	- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project #zettelkasten #project 
@@ -138,7 +139,6 @@ this is a list of possibly empty zettels.
 - [20221003150873](/zet/20221003150873/README.md) host quick server #command #hacking #quick 
 - [20221003150876](/zet/20221003150876/README.md) sudo sudoers file #hacking #privesc #sudoers 
 - [20221003150884](/zet/20221003150884/README.md) privilege escalation relative path abuse #hacking #privesc #relative 
-- [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker #hacking #privesc #run 
 - [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities #command #hacking #privesc #enumeration 
 - [20221003150907](/zet/20221003150907/README.md) linux enumeration quick commands transfer / download files with just bash #command #hacking #privesc #enumeration 
 - [20221003150942](/zet/20221003150942/README.md) python imports #hacking #python 

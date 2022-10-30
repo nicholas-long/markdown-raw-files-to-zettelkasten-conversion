@@ -322,7 +322,7 @@
 - [20221003150672](/zet/20221003150672/README.md) crackmapexec cme commands RID brute force
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
 - [20221003150674](/zet/20221003150674/README.md) bloodhound stealthy collection method
-- [20221003150675](/zet/20221003150675/README.md) bloodhound run python version in docker with NTLM hashes instead of creds
+- [20221003150675](/zet/20221003150675/README.md) bloodhound NTLM hashes instead of creds
 - [20221003150676](/zet/20221003150676/README.md) bloodhound run python version in docker
 - [20221003150677](/zet/20221003150677/README.md) bloodhound
 - [20221003150678](/zet/20221003150678/README.md) tftp transfer Files
@@ -689,6 +689,7 @@
 - [20221003151079](/zet/20221003151079/README.md) service account privileges restore using scheduled task with powershell
 - [20221003151080](/zet/20221003151080/README.md) service account privileges restore
 - [20221003151081](/zet/20221003151081/README.md) service account privileges
+- [20221003151083](/zet/20221003151083/README.md) establishing persistence on windows target in enterprise penetration test
 - [20221003151084](/zet/20221003151084/README.md) windows sensitive file disclosure cheat sheet determine version
 - [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet
 - [20221003151086](/zet/20221003151086/README.md) mimikatz troubleshooting `ERROR kuhl_m_sekurlsa_acquireLSA Key import`
@@ -739,7 +740,7 @@
 - [20221003151132](/zet/20221003151132/README.md) active directory  GMSA group managed service account remote LDAP read GMSA passwords python script
 - [20221003151133](/zet/20221003151133/README.md) active directory  GMSA group managed service account read NTLM hash with powershell + python
 - [20221003151134](/zet/20221003151134/README.md) active directory  GMSA group managed service account
-- [20221003151135](/zet/20221003151135/README.md) active directory  workflow for penetration test on windows network in organization
+- [20221003151135](/zet/20221003151135/README.md) active directory organization pentest workflow
 - [20221003151136](/zet/20221003151136/README.md) active directory  mindset and methodology
 - [20221003151137](/zet/20221003151137/README.md) active directory sensitive files
 - [20221003151138](/zet/20221003151138/README.md) active directory  Backup Operators group

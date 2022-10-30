@@ -145,7 +145,7 @@
 - [20221003150672](/zet/20221003150672/README.md) crackmapexec cme commands RID brute force
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
 - [20221003150674](/zet/20221003150674/README.md) bloodhound stealthy collection method
-- [20221003150675](/zet/20221003150675/README.md) bloodhound run python version in docker with NTLM hashes instead of creds
+- [20221003150675](/zet/20221003150675/README.md) bloodhound NTLM hashes instead of creds
 - [20221003150676](/zet/20221003150676/README.md) bloodhound run python version in docker
 - [20221003150677](/zet/20221003150677/README.md) bloodhound
 - [20221003150678](/zet/20221003150678/README.md) tftp transfer Files

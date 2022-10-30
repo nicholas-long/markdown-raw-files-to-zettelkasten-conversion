@@ -29,7 +29,7 @@
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS
 - [20221003151137](/zet/20221003151137/README.md) active directory sensitive files
 - [20221003151136](/zet/20221003151136/README.md) active directory  mindset and methodology
-- [20221003151135](/zet/20221003151135/README.md) active directory  workflow for penetration test on windows network in organization
+- [20221003151135](/zet/20221003151135/README.md) active directory organization pentest workflow
 - [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions
 - [20221003151443](/zet/20221003151443/README.md) kb
 

@@ -10,6 +10,10 @@
 - [20221003150216](/zet/20221003150216/README.md) Initialize topics in dockers Full example
 - [20221003150217](/zet/20221003150217/README.md) Initialize topics in dockers
 - [20221003150307](/zet/20221003150307/README.md) copy docker binary to target
+- [20221003150675](/zet/20221003150675/README.md) bloodhound NTLM hashes instead of creds
+- [20221003150676](/zet/20221003150676/README.md) bloodhound run python version in docker
+- [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen
+- [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
 - [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present
 - [20221003151166](/zet/20221003151166/README.md) got access to docker repository
 - [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately

@@ -14,7 +14,7 @@
 - [20221016233444](/zet/20221016233444/README.md) commits for day of 2022-05-10
 - [20221016233431](/zet/20221016233431/README.md) commits for day of 2022-04-29
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
-- [20221003150675](/zet/20221003150675/README.md) bloodhound run python version in docker with NTLM hashes instead of creds
+- [20221003150675](/zet/20221003150675/README.md) bloodhound NTLM hashes instead of creds
 - [20221003150677](/zet/20221003150677/README.md) bloodhound
 - [20221003150676](/zet/20221003150676/README.md) bloodhound run python version in docker
 - [20221003150674](/zet/20221003150674/README.md) bloodhound stealthy collection method

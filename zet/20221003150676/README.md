@@ -24,7 +24,7 @@ bloodhound-python -c All -u user -p password -dc 'FQDNMachineName.domain.local' 
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150677](/zet/20221003150677/README.md) bloodhound
-- [20221003150675](/zet/20221003150675/README.md) bloodhound run python version in docker with NTLM hashes instead of creds
+- [20221003150675](/zet/20221003150675/README.md) bloodhound NTLM hashes instead of creds
 - ~/kb/hacking/commands/bloodhound.md
 
 Tags:

@@ -57,6 +57,7 @@ good DLLs to hide in for sideloading
 - [20221003151105](/zet/20221003151105/README.md) compile windows DLL to run commands DLL code
 - [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
+- [20221003151083](/zet/20221003151083/README.md) establishing persistence on windows target in enterprise penetration test
 
 Tags:
 

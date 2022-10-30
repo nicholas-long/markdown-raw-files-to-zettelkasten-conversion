@@ -96,7 +96,6 @@
 83 zet/20221003150146/README.md cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks char mappings
 83 zet/20221003150119/README.md routing using a linux box iptables rules forward all traffic between two interfaces
 82 zet/20221014185906/README.md kb file named kb/hacking/commands/cracking-encrypted-files-with-john-the-ripper.md
-82 zet/20221003151135/README.md active directory  workflow for penetration test on windows network in organization
 82 zet/20221003150960/README.md OSINT physical location OSINT identifying geographic locations from pictures OSINT
 82 zet/20221003150859/README.md SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm
 81 zet/20221003151432/README.md awk scripting filter the CVE list for potentially valid, relevant vulnerabilities
@@ -171,7 +170,6 @@
 73 zet/20221003151354/README.md python scripting convert a GMSA managed password structure to a NTLM hash
 73 zet/20221003151083/README.md establishing persistence on windows target in enterprise penetration test
 73 zet/20221003150907/README.md linux enumeration quick commands transfer / download files with just bash
-73 zet/20221003150675/README.md bloodhound run python version in docker with NTLM hashes instead of creds
 ```
 
 ` zet/20221028194014/README.md `

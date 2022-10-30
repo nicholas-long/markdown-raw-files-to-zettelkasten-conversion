@@ -50,7 +50,7 @@ hub node for `workflow`
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221011155715](/zet/20221011155715/README.md) video of how to make a node in my implementation
-- [20221003151135](/zet/20221003151135/README.md) active directory  workflow for penetration test on windows network in organization
+- [20221003151135](/zet/20221003151135/README.md) active directory organization pentest workflow
 - [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github
 - [20221011090542](/zet/20221011090542/README.md) ripgrep might be useful
 - [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys

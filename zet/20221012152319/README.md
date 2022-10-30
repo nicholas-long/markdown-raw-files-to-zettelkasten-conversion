@@ -22,6 +22,7 @@
 - [20221008221548](/zet/20221008221548/README.md) website
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221007194303](/zet/20221007194303/README.md) github
+- [20221003151135](/zet/20221003151135/README.md) active directory organization pentest workflow
 
 Tags:
 

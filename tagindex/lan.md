@@ -1,3 +1,4 @@
 - [20221003150223](/zet/20221003150223/README.md) bettercap settings
 - [20221003150224](/zet/20221003150224/README.md) bettercap start commnad
 - [20221003150225](/zet/20221003150225/README.md) bettercap
+- [20221003151135](/zet/20221003151135/README.md) active directory organization pentest workflow
