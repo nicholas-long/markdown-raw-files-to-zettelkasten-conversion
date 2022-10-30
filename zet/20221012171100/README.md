@@ -14,7 +14,6 @@ zet/20221012171100/README.md
 - [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
 - [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
 - [20221028173620](/zet/20221028173620/README.md) yq binaries
-- [20221026133841](/zet/20221026133841/README.md) test card with duplicate links
 - [20221026135114](/zet/20221026135114/README.md) add step to check for duplicate links in enrich scanrefs
 - [20221026135851](/zet/20221026135851/README.md) make graph browser run properly from any path like zetcmd
 - [20221026152737](/zet/20221026152737/README.md) template snippet cards not getting run because of parameter issues

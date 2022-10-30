@@ -18,6 +18,7 @@ graph TD;
   steps --> services;
   steps --> machine_high_level_overview_notes;
   steps --> working_notes___foothold;
+  steps --> creds;
   creds --> privesc_steps;
   creds --> passwords;
   creds --> usernames;
