@@ -23,15 +23,10 @@
 - [20221003150262](/zet/20221003150262/README.md) block ciphers CBC cipher cipher block chaining cipher mode of operation #hacking #buzzwords #buzzwords 
 - [20221003150265](/zet/20221003150265/README.md) block ciphers #hacking #buzzwords #buzzwords 
 - [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix #hacking #buzzwords #buzzwords 
-- [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface #hacking #buzzwords #buzzwords #info #program
-
-# #command
-- [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands #command #hacking #privesc #enumeration #command 
 
 # #docker
 - [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately #docker #docker 
 - [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control #docker #docker 
-- [20221003151271](/zet/20221003151271/README.md) docker cleanup #docker #docker 
 
 # #file
 - [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write #hacking #sqli #file #database #file #trick
@@ -41,9 +36,6 @@
 
 # #todo
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically #todo #todo #enhancement
-
-# #vim
-- [20221003150066](/zet/20221003150066/README.md) vim diff #vim #vim 
 
 # #windows
 - [20221003150746](/zet/20221003150746/README.md) impacket kerberos commands wmiexec #command #hacking #windows #windows 
