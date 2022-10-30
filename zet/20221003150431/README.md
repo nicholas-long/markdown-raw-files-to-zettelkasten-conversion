@@ -9,6 +9,7 @@
 ```bash
 ./username-anarchy -i test-names.txt
 ```
+- [20221003150428](/zet/20221003150428/README.md) generate usernames by country
 
 
 ` zet/20221003150431/README.md `
