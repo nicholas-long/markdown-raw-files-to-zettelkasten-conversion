@@ -19,4 +19,4 @@
 
 Tags:
 
-    #idea #workflow #fzf-fuzzy-find #tui #bash #awk
+    #idea #workflow #fzf-fuzzy-find #tui #bash #awk #scripting

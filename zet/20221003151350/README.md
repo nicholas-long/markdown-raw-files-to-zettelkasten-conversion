@@ -1,10 +1,10 @@
 # awk and bash scripting
 
-- bash
+- bash hubs
   - [20221003151329](/zet/20221003151329/README.md) bash scripting
   - [20221003151332](/zet/20221003151332/README.md) bash scripting
   - [20221003151424](/zet/20221003151424/README.md) bash scripts
-- awk
+- awk hubs
   - [20221003151338](/zet/20221003151338/README.md) awk scripting
   - [20221003151441](/zet/20221003151441/README.md) awk scripting
 
@@ -35,7 +35,8 @@
 - [20221003151338](/zet/20221003151338/README.md) awk scripting
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
+- [20221027150053](/zet/20221027150053/README.md) cleanup fix and consolidate tags
 
 Tags:
 
-    #command #bash #awk #scripting
+    #command #bash #awk #scripting #hub

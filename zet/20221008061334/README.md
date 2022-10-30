@@ -25,7 +25,26 @@
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
+- [20221027150053](/zet/20221027150053/README.md) cleanup fix and consolidate tags
+- [20221003150193](/zet/20221003150193/README.md) concept of converting files
+- [20221003151289](/zet/20221003151289/README.md) jq
+- [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
+- [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
+- [20221009100510](/zet/20221009100510/README.md) concept of finished / being done
+- [20221012152319](/zet/20221012152319/README.md) concept of company or organization
+- [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
+- [20221013180125](/zet/20221013180125/README.md) concept of a cookie
+- [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
+- [20221013185120](/zet/20221013185120/README.md) concept of cryptography
+- [20221013194055](/zet/20221013194055/README.md) concept of installing something
+- [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
+- [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
+- [20221015015059](/zet/20221015015059/README.md) concept of mindfulness
+- [20221015015106](/zet/20221015015106/README.md) concept of psychology
+- [20221015024515](/zet/20221015024515/README.md) concept of repeating something periodically
+- [20221017080207](/zet/20221017080207/README.md) concept of a scam
+- [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
 
 Tags:
 
-    #noun #idea #hub
+    #concept #hub #meta

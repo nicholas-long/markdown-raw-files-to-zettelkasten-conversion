@@ -27,4 +27,4 @@ bind '"\e[24~":"\C-k \C-upwd\n"'
 
 Tags:
 
-    #idea #bash
+    #bash #trick

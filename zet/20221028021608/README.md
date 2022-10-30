@@ -38,4 +38,4 @@ echo "$list" | sed -e 's/[<>\|&#;"'\'']//g' -e 's/,/\n/g'| awk '!/^$/ {print "ta
 
 Tags:
 
-    #idea #bash #optimization
+    #idea #bash #optimization #sed #trick

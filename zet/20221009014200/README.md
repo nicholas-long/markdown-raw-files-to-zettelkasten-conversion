@@ -132,4 +132,4 @@ the concept of a `command`
 
 Tags:
 
-    #noun #concept #hub
+    #concept #hub
