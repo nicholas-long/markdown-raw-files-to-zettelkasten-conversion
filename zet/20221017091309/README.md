@@ -18,6 +18,8 @@
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221007194303](/zet/20221007194303/README.md) github
 - https://mermaid-js.github.io/mermaid/#/gantt
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+- [20221030041924](/zet/20221030041924/README.md) generate mermaid graph from set of zet cards
 
 Tags:
 
