@@ -2,18 +2,53 @@
 
 hacking notes hub
 
-- potential places to look for XSS:
-  - not that any of these are vulnerable specifically, it just seems like an anti-pattern
-  - google search for `github markdown render javascript`
-    - check what uses these thing(s):
-      - https://github.com/ryanflorence/render-markdown-javascript
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
+  - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
+  - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
+  - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
+  - [20221003151192](/zet/20221003151192/README.md) HTTP to try list
+  - privesc - link to general privesc
+    - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
+    - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
+  - got access to ... to-try lists
+    - [20221003151166](/zet/20221003151166/README.md) got access to docker repository
+    - [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
+    - TODO: ...
+- source analysis
+  - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
+- [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
+  - [20221006213311](/zet/20221006213311/README.md) hackthebox
+- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list
+- [20221017172946](/zet/20221017172946/README.md) LAN attacks
+- post
+- streamers
 
 ` zet/20221007220451/README.md `
 
 # Related
 
-- [20221003150275](/zet/20221003150275/README.md) firefox reverse shell toolbar hacktools
+- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list
+- [20221003151166](/zet/20221003151166/README.md) got access to docker repository
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
+- [20221003151192](/zet/20221003151192/README.md) HTTP to try list
+- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
+- [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts
+- [20221003151179](/zet/20221003151179/README.md) FTP to try list
+- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login
+- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
+- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal
+- [20221003151184](/zet/20221003151184/README.md) HTTP found login form
+- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS
+- [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
+- [20221006213311](/zet/20221006213311/README.md) hackthebox
+- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
+- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
+- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
+- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
+- [20221003150275](/zet/20221003150275/README.md) firefox reverse shell toolbar hacktools
 - [20221003150966](/zet/20221003150966/README.md) OSINT
 - [20221003151223](/zet/20221003151223/README.md) identify linux version from service version
 - [20221003151250](/zet/20221003151250/README.md) sending installs to target
@@ -30,10 +65,7 @@ hacking notes hub
 - [20221017172946](/zet/20221017172946/README.md) LAN attacks
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
 - [20221015011525](/zet/20221015011525/README.md) my notes for opensource machine - steps
-- [20221003151179](/zet/20221003151179/README.md) FTP to try list
-- [20221003150628](/zet/20221003150628/README.md) LDAP enumeration anonymous nmap scripts
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
-- [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
 - [20221013214821](/zet/20221013214821/README.md) check for command injection
 - [20221003150117](/zet/20221003150117/README.md) OSI networking model
@@ -74,7 +106,6 @@ hacking notes hub
 - [20221011093146](/zet/20221011093146/README.md) watch rwxrob for workflow and bash tips - notes
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221011092204](/zet/20221011092204/README.md) catch up on alh4zr3d streams
-- [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 - [20221003150288](/zet/20221003150288/README.md) default webroots wamp
 - [20221003150289](/zet/20221003150289/README.md) default webroots
 - [20221008221548](/zet/20221008221548/README.md) website
@@ -83,7 +114,6 @@ hacking notes hub
 - [20221010183037](/zet/20221010183037/README.md) importing zettelkasten data
 - [20221010182721](/zet/20221010182721/README.md) how was hacktricks made?
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
-- [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - [20221008194048](/zet/20221008194048/README.md) good DLLs to hide in for sideloading
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
@@ -91,7 +121,6 @@ hacking notes hub
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
-- [20221006213311](/zet/20221006213311/README.md) hackthebox
 - [20221003150431](/zet/20221003150431/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale
 - [20221003150895](/zet/20221003150895/README.md) linux enumeration quick commands check if users can see other users' processes
 - [20221003150244](/zet/20221003150244/README.md) MOTW mark of the web microsoft alternate data stream file label ZoneId avoiding / evading
@@ -117,7 +146,6 @@ hacking notes hub
 - [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
 - [20221003150536](/zet/20221003150536/README.md) immunity debugger mona commands list loaded modules and security flags
 - [20221003151081](/zet/20221003151081/README.md) service account privileges
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 - [20221003151093](/zet/20221003151093/README.md) windows API enable privilege
 - [20221003150879](/zet/20221003150879/README.md) dirty cow privilege escalation
 - [20221003151080](/zet/20221003151080/README.md) service account privileges restore
@@ -132,7 +160,6 @@ hacking notes hub
 - [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
 - [20221003151092](/zet/20221003151092/README.md) windows API enable privilege API calls
 - [20221003150884](/zet/20221003150884/README.md) privilege escalation relative path abuse
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - [20221003150766](/zet/20221003150766/README.md) MSFVENOM Linux Binary (.elf)
 - [20221003150562](/zet/20221003150562/README.md) Python Reverse Shell As Command 
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
@@ -194,23 +221,13 @@ hacking notes hub
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - [20221003151144](/zet/20221003151144/README.md) active directory
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS
-- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old
 - [20221003151127](/zet/20221003151127/README.md) active directory  delegation
 - [20221003151137](/zet/20221003151137/README.md) active directory sensitive files
-- [20221003151182](/zet/20221003151182/README.md) HTTP compromised CMS login
-- [20221003151186](/zet/20221003151186/README.md) HTTP API and POST endpoints
-- [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal
-- [20221003151184](/zet/20221003151184/README.md) HTTP found login form
-- [20221003151188](/zet/20221003151188/README.md) HTTP found CMS
 - [20221003151193](/zet/20221003151193/README.md) HTTP
-- [20221003151192](/zet/20221003151192/README.md) HTTP to try list
-- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
 - [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
-- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
-- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
@@ -221,7 +238,6 @@ hacking notes hub
 - [20221003150146](/zet/20221003150146/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks char mappings
 - [20221003150921](/zet/20221003150921/README.md) windows persistence and DLL hijacking locations
 - [20221003150444](/zet/20221003150444/README.md) hacktricks markdown data github
-- [20221003151166](/zet/20221003151166/README.md) got access to docker repository
 - [20221003150242](/zet/20221003150242/README.md) identify service
 - [20221003150306](/zet/20221003150306/README.md) modify date with touch timestomping
 - [20221025221046](/zet/20221025221046/README.md) worst tier of AV
@@ -235,6 +251,7 @@ hacking notes hub
 - [20221027164646](/zet/20221027164646/README.md) liveoverflow
 - [20221003151375](/zet/20221003151375/README.md) bash scripting run strings on memory dumps for every readable process
 - [20221027150053](/zet/20221027150053/README.md) cleanup fix and consolidate tags
+- [20221030034049](/zet/20221030034049/README.md) github markdown render javascript = bugs?
 
 Tags:
 
