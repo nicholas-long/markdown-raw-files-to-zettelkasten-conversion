@@ -16,7 +16,6 @@ RUN git clone https://github.com/Titor8115/mandown && cd mandown && make && make
 - [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext
 - [20221003151366](/zet/20221003151366/README.md) bash scripting install vscode
 - [20221003151275](/zet/20221003151275/README.md) install docker compose cli extension
-- [20221003151265](/zet/20221003151265/README.md) fzf install
 - [20221003151215](/zet/20221003151215/README.md) caddy install
 - [20221003150632](/zet/20221003150632/README.md) list dpkg packages installed on a certain date
 - [20221003150622](/zet/20221003150622/README.md) PureFTP Install

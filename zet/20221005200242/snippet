@@ -3,8 +3,12 @@
 MYID=20221005200242
 contentscript="zet/20221007182026/content.awk"
 
+
 tf=$(mktemp)
-for id in $(./graphquery id $MYID refs); do
+for id in $(
+  ./graphquery id $MYID refs \
+    not <( ./graphquery taglist 'meta,hub' )
+  ); do
   $contentscript zet/$id/README.md | wc -l | awk -v "id=$id" '{print id, $1}'
 done > $tf
 
