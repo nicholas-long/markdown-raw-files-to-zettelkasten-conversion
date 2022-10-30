@@ -16,7 +16,8 @@
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
+- [20221003151299](/zet/20221003151299/README.md) bash tricks
 
 Tags:
 
-    #idea #workflow #fzf-fuzzy-find #tui #bash #awk #scripting
+    #idea #workflow #fzf-fuzzy-find #tui #bash #awk #scripting #trick

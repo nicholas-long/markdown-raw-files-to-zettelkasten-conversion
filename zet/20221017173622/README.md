@@ -6,7 +6,6 @@
 #
 # unlabled scripts and commands and things 
 #
-- [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf #idea #workflow #fzf-fuzzy-find #tui #bash #awk #scripting
 
 --------------------------------------------------------------------------------
 

@@ -158,6 +158,7 @@
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
+- [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
