@@ -6,18 +6,21 @@ stuff i am working on.
 
 # Related
 
-- [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
-- [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
 - [20221030010849](/zet/20221030010849/README.md) fix line lengths
+- [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
+- [20221024160055](/zet/20221024160055/README.md) sort finished nodes 
+- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
+- [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
+- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
+- [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards
+- [20221015000510](/zet/20221015000510/README.md) create install script for zet command
+- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
+- [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
 - [20221030022644](/zet/20221030022644/README.md) collector fallacy in my note-taking
 - [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet
 - [20221027150053](/zet/20221027150053/README.md) cleanup fix and consolidate tags
 - [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
-- [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
-- [20221017030519](/zet/20221017030519/README.md) walk along commit history and elaborate or make connections
-- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
-- [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards
-- [20221015000510](/zet/20221015000510/README.md) create install script for zet command
 - [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
@@ -27,9 +30,6 @@ stuff i am working on.
 - [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
 - [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language
-- [20221024160055](/zet/20221024160055/README.md) sort finished nodes 
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
-- [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221022232615](/zet/20221022232615/README.md) defcon video notes
@@ -90,7 +90,6 @@ stuff i am working on.
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 - [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
-- [20221028200515](/zet/20221028200515/README.md) weird new issues with enrich and graph query
 
 Tags:
 

@@ -57,6 +57,7 @@
 - [20221012213538](/zet/20221012213538/README.md) collect loose nodes and sort them out
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221010183037](/zet/20221010183037/README.md) importing zettelkasten data
+- [20221030082715](/zet/20221030082715/README.md) findings from converting markdown info to zet
 
 Tags:
 
