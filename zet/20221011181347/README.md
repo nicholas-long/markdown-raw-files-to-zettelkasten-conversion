@@ -16,8 +16,6 @@ the concept of `hacking notes template 1`
 - [20221011182140](/zet/20221011182140/README.md) machine high-level overview notes
 - [20221011181531](/zet/20221011181531/README.md) steps
 - [20221011182350](/zet/20221011182350/README.md) services
-- [20221011181629](/zet/20221011181629/README.md) usernames
-- [20221011181704](/zet/20221011181704/README.md) passwords
 - [20221011182459](/zet/20221011182459/README.md) machine web services
 - [20221011181453](/zet/20221011181453/README.md) exploit path
 - [20221011181605](/zet/20221011181605/README.md) creds
