@@ -22,6 +22,7 @@ this file is markdown.
 - [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`
 - [20221008215400](/zet/20221008215400/README.md) file
 - [20221025045945](/zet/20221025045945/README.md) tldr pages
+- [20221030050459](/zet/20221030050459/README.md) markdown on github
 
 Tags:
 

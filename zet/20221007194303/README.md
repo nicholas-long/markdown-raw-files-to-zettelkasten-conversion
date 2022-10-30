@@ -62,6 +62,7 @@ concept of the github website owned by the company microsoft.
 - [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat
 - [20221003151367](/zet/20221003151367/README.md) bash scripting list public github repositories for user
 - [20221028185008](/zet/20221028185008/README.md) tmux notification when changes are on github and not local
+- [20221030050459](/zet/20221030050459/README.md) markdown on github
 
 Tags:
 

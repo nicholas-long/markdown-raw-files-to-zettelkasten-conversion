@@ -3,3 +3,4 @@
 - [20221011190351](/zet/20221011190351/README.md) fix to try list cards
 - [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams
 - [20221022232952](/zet/20221022232952/README.md) pandoc markdown format converter
+- [20221030050459](/zet/20221030050459/README.md) markdown on github
