@@ -186,6 +186,7 @@
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
 - [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams
+- [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal
 
 Tags:
 

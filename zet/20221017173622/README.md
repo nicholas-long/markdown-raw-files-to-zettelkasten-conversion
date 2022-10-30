@@ -6,6 +6,7 @@
 #
 # unlabled scripts and commands and things 
 #
+- [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal #idea #bash #scripting
 
 --------------------------------------------------------------------------------
 

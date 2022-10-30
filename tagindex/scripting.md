@@ -56,3 +56,4 @@
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221017084459](/zet/20221017084459/README.md) xpup xml parsing tool for scripting
 - [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed
+- [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal

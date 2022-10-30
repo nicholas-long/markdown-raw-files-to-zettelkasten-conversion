@@ -137,3 +137,4 @@
 - [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
 - [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries
 - [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed
+- [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal

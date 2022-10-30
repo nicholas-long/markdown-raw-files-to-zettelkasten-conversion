@@ -42,6 +42,7 @@
 - [20221028085630](/zet/20221028085630/README.md) make links for refs with symlinks
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221014185515](/zet/20221014185515/README.md) kb file named kb/scratch.md
+- [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal
 
 Tags:
 

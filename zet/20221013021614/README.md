@@ -82,6 +82,7 @@ zet/20221013021614/getcopycontent zet/20221013021614/README.md
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf
 - [20221003151267](/zet/20221003151267/README.md) fzf
+- [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal
 
 Tags:
 
