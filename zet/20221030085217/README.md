@@ -14,6 +14,11 @@
 - github does not support SVGs?
   - i think you can embed them as images in a separate file to be renderd by the client?
   - security issues?
+- if it doesn't belong in a book, it doesn't belong on a KEG
+  - no ML models
+- keep that stuff in zet but not as something released as a knowledge node?
+  - ship generated content?
+- 3:36:00 rob likes pandoc but hates pandoc templating
 
 ```
 ```
