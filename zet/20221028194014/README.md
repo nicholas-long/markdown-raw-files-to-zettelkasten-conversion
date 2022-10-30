@@ -3,7 +3,6 @@
 - concept of `check header line lengths in script`
 
 ```
-165 zet/20221003150428/README.md generate wordlists username anarchy, generate from lists of names, from country and locale output all formats generate common usernames for country and localization 
 144 zet/20221003151131/README.md active directory  GMSA group managed service account remote LDAP read GMSA passwords python script fix missing ConvertFrom-AdManagedPasswordBlob
 138 zet/20221003150867/README.md john the ripper find all file formats supported with a 2john script or tojohn use sed to process / execute multiple expressions statements
 137 zet/20221003150429/README.md generate wordlists username anarchy, generate from lists of names, from country and locale output all formats top 10k names from facebook
@@ -25,7 +24,6 @@
 113 zet/20221003150903/README.md linux enumeration quick commands find files that have millisecond microsecond nanosecond times not common install
 113 zet/20221003150877/README.md dirty cow privilege escalation working version build on attacker machine with statically linked binaries embedded
 109 zet/20221003150919/README.md linux enumeration quick commands list all recursively with ls sorting by modification date within directories
-109 zet/20221003150430/README.md generate wordlists username anarchy, generate from lists of names, from country and locale output all formats
 108 zet/20221003150354/README.md .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
 108 zet/20221003150334/README.md python pickle serialization magic bytes header signature `80 03` `80 04` `80 05` `(dp0` base64 `gASV` `gAWV`
 107 zet/20221003150385/README.md krbrelayx printerbug.py Simple tool to trigger SpoolService bug via RPC backconnect. Similar to dementor.py
@@ -59,7 +57,6 @@
 91 zet/20221003151149/README.md windows XP and windows server 2003 arbitrary file write -> remote code execution metasploit
 91 zet/20221003150348/README.md troubleshooting fix error ValueError: unsupported hash type MD4 python hashlib openssl conf
 90 zet/20221003151388/README.md bash scripting search through tldr command descriptions with fzf and display file with bat
-90 zet/20221003150431/README.md generate wordlists username anarchy, generate from lists of names, from country and locale
 90 zet/20221003150305/README.md modify date with touch timestomping set destination file date the same as source file date
 90 zet/20221003150148/README.md cyberpunk retro machine project Tandy TRS-80 Model 100 terminal terminfo and TERM variable
 89 zet/20221028023010/README.md splitting comma separated list into filenames safely in scripting with bash, awk, and sed

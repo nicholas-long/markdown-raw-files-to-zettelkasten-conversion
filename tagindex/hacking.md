@@ -143,10 +143,10 @@
 - [20221003150424](/zet/20221003150424/README.md) kerberos attack on windows host ticket attacks
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
 - [20221003150427](/zet/20221003150427/README.md) generate wordlists bopscrk people OSINT custom wordlists specific to person
-- [20221003150428](/zet/20221003150428/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale output all formats generate common usernames for country and localization 
+- [20221003150428](/zet/20221003150428/README.md) username anarchy generate by country
 - [20221003150429](/zet/20221003150429/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale output all formats top 10k names from facebook
-- [20221003150430](/zet/20221003150430/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale output all formats
-- [20221003150431](/zet/20221003150431/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale
+- [20221003150430](/zet/20221003150430/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale 
+- [20221003150431](/zet/20221003150431/README.md) username anarchy for account formats and common names
 - [20221003150432](/zet/20221003150432/README.md) generate wordlists namemash - simple
 - [20221003150433](/zet/20221003150433/README.md) generate wordlists
 - [20221003150434](/zet/20221003150434/README.md) HTML preview report input list of HTTP(s) sites attack surface with aquatone

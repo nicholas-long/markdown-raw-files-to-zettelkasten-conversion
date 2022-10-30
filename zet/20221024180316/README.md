@@ -14,6 +14,9 @@
 # have duplicate tags
 #
 
+# `
+- [20221005194814](/zet/20221005194814/README.md) Related ` zet/20221005194814/README.md `
+
 # #command
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd #zettelkasten #bash #coding #program #script #command #command #repo
 
@@ -22,9 +25,6 @@
 
 # #todo
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically #todo #todo #enhancement
-
-# `
-- [20221005194814](/zet/20221005194814/README.md) Related ` zet/20221005194814/README.md `
 
 #
 # have no tags

@@ -10,6 +10,7 @@
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 - [20221003150420](/zet/20221003150420/README.md) finger user enum
 - [20221003150426](/zet/20221003150426/README.md) zip slip evilarc.py
+- [20221003150431](/zet/20221003150431/README.md) username anarchy for account formats and common names
 - [20221003150434](/zet/20221003150434/README.md) HTML preview report input list of HTTP(s) sites attack surface with aquatone
 - [20221003150435](/zet/20221003150435/README.md) obfuscate powershell scripts (python)
 - [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap

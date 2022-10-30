@@ -121,7 +121,7 @@ hacking notes hub
 - [20221008191607](/zet/20221008191607/README.md) procmon auto scroll
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
-- [20221003150431](/zet/20221003150431/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale
+- [20221003150431](/zet/20221003150431/README.md) username anarchy for account formats and common names
 - [20221003150895](/zet/20221003150895/README.md) linux enumeration quick commands check if users can see other users' processes
 - [20221003150244](/zet/20221003150244/README.md) MOTW mark of the web microsoft alternate data stream file label ZoneId avoiding / evading
 - [20221003150974](/zet/20221003150974/README.md) XXE xml external entity exfiltrate file out of band payload
