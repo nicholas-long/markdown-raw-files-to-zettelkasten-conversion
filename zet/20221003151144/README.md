@@ -29,7 +29,7 @@
 - [20221003151137](/zet/20221003151137/README.md) active directory sensitive files
 - [20221003151136](/zet/20221003151136/README.md) active directory  mindset and methodology
 - [20221003151135](/zet/20221003151135/README.md) active directory organization pentest workflow
-- [20221003151134](/zet/20221003151134/README.md) active directory  GMSA group managed service account
+- [20221003151134](/zet/20221003151134/README.md) active directory Group Managed Service Account
 - [20221003151130](/zet/20221003151130/README.md) active directory  change user password with rpcclient over SMB 
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS
 - [20221003151127](/zet/20221003151127/README.md) active directory  delegation

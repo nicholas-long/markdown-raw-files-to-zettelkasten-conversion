@@ -807,7 +807,7 @@
 - [20221003151131](/zet/20221003151131/README.md) active directory  GMSA group managed service account remote LDAP read GMSA passwords python script fix missing ConvertFrom-AdManagedPasswordBlob
 - [20221003151132](/zet/20221003151132/README.md) active directory  GMSA group managed service account remote LDAP read GMSA passwords python script
 - [20221003151133](/zet/20221003151133/README.md) decode GMSA NTLM hash
-- [20221003151134](/zet/20221003151134/README.md) active directory  GMSA group managed service account
+- [20221003151134](/zet/20221003151134/README.md) active directory Group Managed Service Account
 - [20221003151135](/zet/20221003151135/README.md) active directory organization pentest workflow
 - [20221003151136](/zet/20221003151136/README.md) active directory  mindset and methodology
 - [20221003151137](/zet/20221003151137/README.md) active directory sensitive files

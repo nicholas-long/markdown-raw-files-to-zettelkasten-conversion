@@ -210,7 +210,7 @@ hacking notes hub
 - [20221003151142](/zet/20221003151142/README.md) active directory  exploiting permissions WriteDacl
 - [20221003150555](/zet/20221003150555/README.md) Active Sever Pages Extended (.aspx) Execute a File
 - [20221003151141](/zet/20221003151141/README.md) active directory  exploiting permissions GenericAll
-- [20221003151134](/zet/20221003151134/README.md) active directory  GMSA group managed service account
+- [20221003151134](/zet/20221003151134/README.md) active directory Group Managed Service Account
 - [20221003150486](/zet/20221003150486/README.md) active directory get GMSA service account properties
 - [20221003150778](/zet/20221003150778/README.md) crowbar brute force RDP active directory domain joined
 - [20221003151051](/zet/20221003151051/README.md) set date to match Active Directory server with ntpdate

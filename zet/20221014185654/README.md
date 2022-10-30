@@ -20,7 +20,7 @@
 - [20221003151127](/zet/20221003151127/README.md) active directory  delegation
 - [20221003151126](/zet/20221003151126/README.md) active directory  delegation unconstrained
 - [20221003151139](/zet/20221003151139/README.md) active directory  ForceChangePassword change user password
-- [20221003151134](/zet/20221003151134/README.md) active directory  GMSA group managed service account
+- [20221003151134](/zet/20221003151134/README.md) active directory Group Managed Service Account
 - [20221003151131](/zet/20221003151131/README.md) active directory  GMSA group managed service account remote LDAP read GMSA passwords python script fix missing ConvertFrom-AdManagedPasswordBlob
 - [20221003151133](/zet/20221003151133/README.md) decode GMSA NTLM hash
 - [20221003151142](/zet/20221003151142/README.md) active directory  exploiting permissions WriteDacl

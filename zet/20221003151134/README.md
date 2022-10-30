@@ -1,4 +1,4 @@
-# active directory  GMSA group managed service account
+# active directory Group Managed Service Account
 
 - windows AD account with randomized, changing password to prevent kerberoasting service accounts
 - [20221003151133](/zet/20221003151133/README.md) GMSA read and decode NTLM hash with powershell + python

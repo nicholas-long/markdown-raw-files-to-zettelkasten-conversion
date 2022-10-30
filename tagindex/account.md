@@ -1,1 +1,1 @@
-- [20221003151134](/zet/20221003151134/README.md) active directory  GMSA group managed service account
+- [20221003151134](/zet/20221003151134/README.md) active directory Group Managed Service Account
