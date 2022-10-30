@@ -5,6 +5,7 @@
   - example: print all connected nodes marked by notes tag
   `highlevel=20221011182140 # high level machine overview from notes template`
   `./graphquery --human <(zet/20221014025416/tagboundary $highlevel notes)`
+- how to draw undirected graphs?
 
 
 ```mermaid
@@ -35,4 +36,4 @@ graph TD;
 
 Tags:
 
-    #idea
+    #idea #experiment

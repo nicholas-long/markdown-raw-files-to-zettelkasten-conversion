@@ -1,1 +1,2 @@
 - [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
+- [20221030041924](/zet/20221030041924/README.md) generate mermaid graph from set of zet cards
