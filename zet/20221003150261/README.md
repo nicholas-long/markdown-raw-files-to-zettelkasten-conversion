@@ -19,4 +19,4 @@ can encrypt known string and xor to get cipher
 
 Tags:
 
-    #hacking #buzzwords #buzzwords 
+    #hacking #buzzwords

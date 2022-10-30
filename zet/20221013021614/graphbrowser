@@ -77,6 +77,7 @@ while [ 1 == "$going" ]; do
         print "addtags"
         print "deltags"
         print "spraytag"
+        print "nuketag"
       }
     } else {
       id = 0
@@ -179,6 +180,21 @@ while [ 1 == "$going" ]; do
     for i in $(cat $selection); do
       if [ ! -z "$tag" ]; then
         ./zc addtag -t "$tag" $i
+      fi
+    done
+  elif [ "$act" == "nuketag" ]; then
+    tag=$(ls tagindex/ | sed -e 's/\.md$//' | fzf)
+    # get spawn menu from tab
+    selection=$(mktemp)
+    awk '
+      /^ *- \[.*\]\(\/zet\/[0-9]+\/README.md\)/ {
+        print $0
+        fflush()
+      }
+    ' "$doc" | fzf -m --preview="$0 video preview {}" | zet/$IMPL/parseids > "$selection"
+    for i in $(cat $selection); do
+      if [ ! -z "$tag" ]; then
+        ./zc deltag -t "$tag" $i
       fi
     done
   elif [ "$act" == "deltags" ]; then
