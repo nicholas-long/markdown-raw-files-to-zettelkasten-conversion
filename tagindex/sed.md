@@ -1,4 +1,5 @@
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
 - [20221006010149](/zet/20221006010149/README.md) inserting lines with sed
 - [20221006010531](/zet/20221006010531/README.md) sed scripts
+- [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries
 - [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed

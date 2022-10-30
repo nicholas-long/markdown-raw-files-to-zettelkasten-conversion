@@ -1,6 +1,7 @@
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
 - [20221008042814](/zet/20221008042814/README.md) WIP
+- [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221010071719](/zet/20221010071719/README.md) nodes to add

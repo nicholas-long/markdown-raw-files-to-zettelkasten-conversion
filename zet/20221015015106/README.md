@@ -11,6 +11,7 @@
 
 - [20221015015059](/zet/20221015015059/README.md) concept of mindfulness
 - [20221015014643](/zet/20221015014643/README.md) overengineering and overthinking
+- [20221008061334](/zet/20221008061334/README.md) concepts
 
 Tags:
 

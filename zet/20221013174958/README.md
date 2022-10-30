@@ -22,6 +22,7 @@
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003151153](/zet/20221003151153/README.md) windows
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
+- [20221008061334](/zet/20221008061334/README.md) concepts
 
 Tags:
 

@@ -28,6 +28,7 @@
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list
 - [20221003151023](/zet/20221003151023/README.md) analyzing source code
+- [20221008061334](/zet/20221008061334/README.md) concepts
 
 Tags:
 

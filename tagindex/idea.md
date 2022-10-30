@@ -1,7 +1,6 @@
 - [20221006034046](/zet/20221006034046/README.md) kafka and zettelkasten graph docs
 - [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
-- [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221008081231](/zet/20221008081231/README.md) debugging
 - [20221008181005](/zet/20221008181005/README.md) getting github data about vulnerable hashes
 - [20221008211707](/zet/20221008211707/README.md) making cool stuff
@@ -451,7 +450,6 @@
 - [20221017172946](/zet/20221017172946/README.md) LAN attacks
 - [20221017182053](/zet/20221017182053/README.md) hydra
 - [20221017182222](/zet/20221017182222/README.md) bruteforcing or password spraying tools
-- [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221018133841](/zet/20221018133841/README.md) base64 concept
 - [20221018134040](/zet/20221018134040/README.md) devzat htb

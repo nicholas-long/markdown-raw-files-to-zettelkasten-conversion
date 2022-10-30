@@ -12,6 +12,7 @@
 - [20221003151287](/zet/20221003151287/README.md) jq pipe and filter objects syntax
 - ~/kb/data-engineering-pipelines/jq-command-reference.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221008061334](/zet/20221008061334/README.md) concepts
 
 Tags:
 

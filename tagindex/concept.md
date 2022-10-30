@@ -9,6 +9,7 @@
 - [20221006214142](/zet/20221006214142/README.md) streamers
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221008054439](/zet/20221008054439/README.md) graph database
+- [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221008212929](/zet/20221008212929/README.md) running process
 - [20221008213254](/zet/20221008213254/README.md) file path
@@ -26,6 +27,7 @@
 - [20221009021452](/zet/20221009021452/README.md) container
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221012070358](/zet/20221012070358/README.md) recording and logging
+- [20221013035616](/zet/20221013035616/README.md) fun
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221013173355](/zet/20221013173355/README.md) enumeration - the process of enumerating a target
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target

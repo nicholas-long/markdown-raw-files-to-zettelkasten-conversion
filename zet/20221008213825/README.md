@@ -32,6 +32,7 @@ hacker concept of CMS - slang lingo for web app / service
 - [20221003150694](/zet/20221003150694/README.md) wpscan
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
+- [20221008061334](/zet/20221008061334/README.md) concepts
 
 Tags:
 

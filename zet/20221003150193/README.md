@@ -13,6 +13,7 @@
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - ~/kb/linux/package-manager-commands.md
 - [20221008215400](/zet/20221008215400/README.md) file
+- [20221008061334](/zet/20221008061334/README.md) concepts
 
 Tags:
 

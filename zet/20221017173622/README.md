@@ -6,9 +6,7 @@
 #
 # unlabled scripts and commands and things 
 #
-- [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf #idea #workflow #fzf-fuzzy-find #tui #bash #awk
-- [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash #idea #bash
-- [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries #idea #bash #optimization
+- [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf #idea #workflow #fzf-fuzzy-find #tui #bash #awk #scripting
 
 --------------------------------------------------------------------------------
 
@@ -30,7 +28,7 @@ java jenkins job john jq json jwt
 kafka kali kb_import kerberos keytool ksql kubernetes
 lan language laptop ldap less lfi library linux list load
 macro malicious markdown me meta metasploit microsoft mimikatz mobile msfvenom mysql
-naming networking nfs nim nmap notes noun
+naming networking nfs nim nmap notes
 openssl optimization os osint
 package packet pane password path pc php pipelines pivot plugin port portable post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox pureftp pwn pwntools python
 question quick

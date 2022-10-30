@@ -20,6 +20,7 @@
 - [20221003151324](/zet/20221003151324/README.md) ASCII text-based TSV / CSV file database
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
+- [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221006214142](/zet/20221006214142/README.md) streamers
@@ -48,6 +49,7 @@
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221012070318](/zet/20221012070318/README.md) linux terminal
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
+- [20221013035616](/zet/20221013035616/README.md) fun
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
 - [20221013185120](/zet/20221013185120/README.md) concept of cryptography

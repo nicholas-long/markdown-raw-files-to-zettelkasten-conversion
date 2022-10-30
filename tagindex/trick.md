@@ -162,10 +162,12 @@
 - [20221010180141](/zet/20221010180141/README.md) reinforcement learning and motivation and candy rewards
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
+- [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
 - [20221022210052](/zet/20221022210052/README.md) file type reference
 - [20221024070910](/zet/20221024070910/README.md) drop first column with awk
 - [20221025024238](/zet/20221025024238/README.md) enumerate tags
+- [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries
 - [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed

@@ -36,6 +36,7 @@
 - [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module
 - [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows
 - [20221003150137](/zet/20221003150137/README.md) installing virtualbox
+- [20221008061334](/zet/20221008061334/README.md) concepts
 
 Tags:
 

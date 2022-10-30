@@ -16,6 +16,7 @@
 - [20221013175957](/zet/20221013175957/README.md) serialization concept
 - [20221008221548](/zet/20221008221548/README.md) website
 - [20221008221822](/zet/20221008221822/README.md) www - the web
+- [20221008061334](/zet/20221008061334/README.md) concepts
 
 Tags:
 

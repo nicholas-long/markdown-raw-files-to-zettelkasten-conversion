@@ -31,6 +31,7 @@
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
+- [20221008061334](/zet/20221008061334/README.md) concepts
 
 Tags:
 

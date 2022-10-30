@@ -26,6 +26,7 @@
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
 - [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference
 - [20221014213613](/zet/20221014213613/README.md) boilerplate code template
+- [20221008061334](/zet/20221008061334/README.md) concepts
 
 Tags:
 
