@@ -143,14 +143,14 @@ this is a list of possibly empty zettels.
 - [20221003151010](/zet/20221003151010/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl  #hacking #lfi 
 - [20221003151028](/zet/20221003151028/README.md) decrypt azure AD connect passwords #hacking #windows #decrypt 
 - [20221003151034](/zet/20221003151034/README.md) applocker limit allowed executables and allowed paths #hacking #windows
-- [20221003151037](/zet/20221003151037/README.md) program files ruxim directory 
+- [20221003151037](/zet/20221003151037/README.md) program files ruxim directory #hacking
 - [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin #hacking #windows #trick #post
 - [20221003151045](/zet/20221003151045/README.md) windows alternate data streams commands #hacking #windows
 - [20221003151047](/zet/20221003151047/README.md) windows reverse shell AV bypass active directory endpoint protection #hacking #windows
 - [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass #hacking #windows
 - [20221003151050](/zet/20221003151050/README.md) change user password #hacking #windows
 - [20221003151052](/zet/20221003151052/README.md) check network time offset with network time protocol NTP server on windows AD kerberos 
-- [20221003151057](/zet/20221003151057/README.md) get windows enumeration info from file read 
+- [20221003151057](/zet/20221003151057/README.md) get windows enumeration info from file read #hacking
 - [20221003151066](/zet/20221003151066/README.md) AMSI detect windows defender #hacking #windows
 - [20221003151067](/zet/20221003151067/README.md) AMSI #hacking #windows
 - [20221003151070](/zet/20221003151070/README.md) dump process memory #hacking #windows #dump 

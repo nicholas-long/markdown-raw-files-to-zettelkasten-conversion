@@ -32,6 +32,7 @@
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221028033132](/zet/20221028033132/README.md) how many cards you got now
 - [20221003150551](/zet/20221003150551/README.md) php cmd shell
+- [20221003150098](/zet/20221003150098/README.md) todo
 
 Tags:
 

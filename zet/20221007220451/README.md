@@ -252,6 +252,7 @@ hacking notes hub
 - [20221003151375](/zet/20221003151375/README.md) bash scripting run strings on memory dumps for every readable process
 - [20221027150053](/zet/20221027150053/README.md) cleanup fix and consolidate tags
 - [20221030034049](/zet/20221030034049/README.md) github markdown render javascript = bugs?
+- [20221003151161](/zet/20221003151161/README.md) pivoting guide
 
 Tags:
 

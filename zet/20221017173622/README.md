@@ -29,7 +29,7 @@ lan language laptop ldap less lfi library linux list load
 macro malicious markdown me meta metasploit microsoft mimikatz mobile msfvenom mysql
 naming networking nfs nim nmap notes
 openssl optimization os osint
-package packet pane password path pc php pipelines pivot plugin port portable post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox pureftp pwn pwntools python
+package packet pane password path pc php pipelines pivot plugin port portable post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox proxy pureftp pwn pwntools python
 question quick
 rce rdp redhat reference relative remoteaccess repo report repositories responder retired routing run rust
 scam screenshot script scripting sed service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve sort source speed sqli sqlmap ssh ssti stack stream streamer sudoers surface syntax

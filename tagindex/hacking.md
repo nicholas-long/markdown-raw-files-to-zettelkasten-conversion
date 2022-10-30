@@ -1,3 +1,5 @@
+- [20221003150116](/zet/20221003150116/README.md) socat over proxy
+- [20221003150117](/zet/20221003150117/README.md) OSI networking model
 - [20221003150138](/zet/20221003150138/README.md) apt package nc ncat netcat
 - [20221003150223](/zet/20221003150223/README.md) bettercap settings
 - [20221003150224](/zet/20221003150224/README.md) bettercap start commnad
@@ -23,8 +25,10 @@
 - [20221003150245](/zet/20221003150245/README.md) MOTW mark of the web microsoft alternate data stream file label ZoneId
 - [20221003150246](/zet/20221003150246/README.md) enterprise PAM Thycotic
 - [20221003150247](/zet/20221003150247/README.md) enterprise PAM
+- [20221003150248](/zet/20221003150248/README.md) Azure AD connect
 - [20221003150249](/zet/20221003150249/README.md) Apache guacamole RDP VNC SSH in web browser default creds
 - [20221003150250](/zet/20221003150250/README.md) Apache guacamole RDP VNC SSH in web browser
+- [20221003150256](/zet/20221003150256/README.md) IPsec VPN UDP port 500 2500 strongswan
 - [20221003150258](/zet/20221003150258/README.md) firefox containers addon = multiple sessions cookies in firefox web browser
 - [20221003150259](/zet/20221003150259/README.md) firefox
 - [20221003150261](/zet/20221003150261/README.md) block ciphers ECB electronic code book cipher mode of operation
@@ -39,6 +43,7 @@
 - [20221003150272](/zet/20221003150272/README.md) web server file executable extensions ASP
 - [20221003150273](/zet/20221003150273/README.md) web server file executable extensions PHP
 - [20221003150274](/zet/20221003150274/README.md) web server file executable extensions
+- [20221003150275](/zet/20221003150275/README.md) firefox reverse shell toolbar hacktools
 - [20221003150277](/zet/20221003150277/README.md) pfx extension PKCS#12 format certificate cracking with johntheripper
 - [20221003150278](/zet/20221003150278/README.md) pfx extension PKCS#12 format certificate cracking with crackpkcs12
 - [20221003150279](/zet/20221003150279/README.md) pfx extension PKCS#12 format certificate cracking
@@ -53,7 +58,10 @@
 - [20221003150288](/zet/20221003150288/README.md) default webroots wamp
 - [20221003150289](/zet/20221003150289/README.md) default webroots
 - [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
+- [20221003150292](/zet/20221003150292/README.md) java jdb execute commands
 - [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
+- [20221003150294](/zet/20221003150294/README.md) wireshark TLS1.2 handshake packet
+- [20221003150295](/zet/20221003150295/README.md) nodejs api controller program default files
 - [20221003150296](/zet/20221003150296/README.md) fixing golang module errors no required module provides package
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
 - [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module
@@ -74,8 +82,12 @@
 - [20221003150314](/zet/20221003150314/README.md) default http config locations
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150326](/zet/20221003150326/README.md) top tier endpoint protection AV
+- [20221003150327](/zet/20221003150327/README.md) bloodhound sharphound fix import errors - incompatible versions
+- [20221003150328](/zet/20221003150328/README.md) compile windows c++ binaries on linux
 - [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext
 - [20221003150331](/zet/20221003150331/README.md) log4j log4shell
+- [20221003150334](/zet/20221003150334/README.md) python pickle serialization magic bytes header signature `80 03` `80 04` `80 05` `(dp0` base64 `gASV` `gAWV`
+- [20221003150335](/zet/20221003150335/README.md) java serialization payload `rO0` base64 `AC ED 00 05` in hex
 - [20221003150336](/zet/20221003150336/README.md) ansible exploiting playbook priv esc backdoor
 - [20221003150337](/zet/20221003150337/README.md) ansible exploiting playbook rev shell
 - [20221003150338](/zet/20221003150338/README.md) ansible exploiting playbook
@@ -86,15 +98,18 @@
 - [20221003150344](/zet/20221003150344/README.md) SSH brute force old key exchange algorithms
 - [20221003150345](/zet/20221003150345/README.md) SSH brute force command shortlist from hacktricks
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
+- [20221003150347](/zet/20221003150347/README.md) bruteforcing services
 - [20221003150348](/zet/20221003150348/README.md) troubleshooting fix error ValueError: unsupported hash type MD4 python hashlib openssl conf
 - [20221003150349](/zet/20221003150349/README.md) troubleshooting fix error "sign_and_send_pubkey: no mutual signature supported"
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
+- [20221003150351](/zet/20221003150351/README.md) pack windows payload in ISO to avoid MOTW
 - [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
 - [20221003150355](/zet/20221003150355/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150359](/zet/20221003150359/README.md) windows run commands as other user with credentials switch users on windows host with RunasCs with no WinRM remote management access
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
+- [20221003150361](/zet/20221003150361/README.md) connect to minecraft server and send chat messages
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150363](/zet/20221003150363/README.md) portable TCP port scanner bash only
 - [20221003150364](/zet/20221003150364/README.md) portable TCP port scanner
@@ -103,6 +118,7 @@
 - [20221003150369](/zet/20221003150369/README.md) dump credentials from browsers chromium chrome
 - [20221003150370](/zet/20221003150370/README.md) dump credentials from browsers chromium
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
+- [20221003150372](/zet/20221003150372/README.md) web app paths defaults db
 - [20221003150373](/zet/20221003150373/README.md) volatility framework analyze dump files of volatile RAM .dmp .img
 - [20221003150374](/zet/20221003150374/README.md) volatility framework analyze dump files of volatile RAM file type "MS Windows 64bit crash dump, full dump, XXX pages"
 - [20221003150375](/zet/20221003150375/README.md) volatility framework analyze dump files of volatile RAM
@@ -120,6 +136,7 @@
 - [20221003150391](/zet/20221003150391/README.md) file backup fuzzer
 - [20221003150392](/zet/20221003150392/README.md) text cipher encryption decryption tools Text Manipulator
 - [20221003150419](/zet/20221003150419/README.md) text cipher encryption decryption tools
+- [20221003150420](/zet/20221003150420/README.md) finger user enum
 - [20221003150421](/zet/20221003150421/README.md) kerberos attack on windows host Constrained delegation abuse
 - [20221003150422](/zet/20221003150422/README.md) kerberos attack on windows host ticket attacks extraction and harvesting
 - [20221003150423](/zet/20221003150423/README.md) kerberos attack on windows host ticket attacks forgery
@@ -132,14 +149,25 @@
 - [20221003150431](/zet/20221003150431/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale
 - [20221003150432](/zet/20221003150432/README.md) generate wordlists namemash - simple
 - [20221003150433](/zet/20221003150433/README.md) generate wordlists
+- [20221003150434](/zet/20221003150434/README.md) HTML preview report input list of HTTP(s) sites attack surface with aquatone
+- [20221003150435](/zet/20221003150435/README.md) obfuscate powershell scripts (python)
+- [20221003150437](/zet/20221003150437/README.md) dump git repository leaked by website
 - [20221003150439](/zet/20221003150439/README.md) Scanning a system for credentials
+- [20221003150440](/zet/20221003150440/README.md) Compiled versions of .NET Windows enumeration tools
 - [20221003150441](/zet/20221003150441/README.md) OWASP cheat sheet series
+- [20221003150442](/zet/20221003150442/README.md) payloads payloadsallthethings github
+- [20221003150443](/zet/20221003150443/README.md) seclists github
+- [20221003150444](/zet/20221003150444/README.md) hacktricks markdown data github
+- [20221003150446](/zet/20221003150446/README.md) linux exploit suggester
 - [20221003150447](/zet/20221003150447/README.md) poppler utils PDF parsing pdftotext pdftohtml pdfinfo pdfimages
 - [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing
+- [20221003150449](/zet/20221003150449/README.md) keepass CLI tool open and edit keepass databases
 - [20221003150451](/zet/20221003150451/README.md) java decompiler JD-GUI analyze jar file
 - [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file
 - [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze
 - [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI
+- [20221003150455](/zet/20221003150455/README.md) ike-scan for ike IPsec VPNs
+- [20221003150456](/zet/20221003150456/README.md) bruteforce-salted-openssl to brute force openssl encrypted files
 - [20221003150460](/zet/20221003150460/README.md) tomcat config files and credentials
 - [20221003150461](/zet/20221003150461/README.md) tomcat management console admin login URL
 - [20221003150462](/zet/20221003150462/README.md) tomcat
@@ -219,14 +247,32 @@
 - [20221003150546](/zet/20221003150546/README.md) simple binary exploits jmp esp instruction FF E4 find with ROPgadget
 - [20221003150547](/zet/20221003150547/README.md) simple binary exploits jmp esp instruction FF E4
 - [20221003150548](/zet/20221003150548/README.md) simple binary exploits
+- [20221003150549](/zet/20221003150549/README.md) URL CRAWL/ Discovery waybackurls
+- [20221003150551](/zet/20221003150551/README.md) php cmd shell
 - [20221003150552](/zet/20221003150552/README.md) PhpmyAdmin write shell Windows
 - [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell
+- [20221003150554](/zet/20221003150554/README.md) Perl Reverse Shell
+- [20221003150555](/zet/20221003150555/README.md) Active Sever Pages Extended (.aspx) Execute a File
+- [20221003150556](/zet/20221003150556/README.md) Active Sever Pages Extended (.aspx) Transfer A File (Certutil)
+- [20221003150557](/zet/20221003150557/README.md) WhiteWinterWolf Webshell
+- [20221003150558](/zet/20221003150558/README.md) coyote PHP command shell
+- [20221003150559](/zet/20221003150559/README.md) Kali Default PHP CMD Shell
+- [20221003150560](/zet/20221003150560/README.md) Kali Default PHP Reverse Shell
+- [20221003150561](/zet/20221003150561/README.md) Python Reverse Shell Code 
+- [20221003150562](/zet/20221003150562/README.md) Python Reverse Shell As Command 
+- [20221003150563](/zet/20221003150563/README.md) Bash Reverse Shell
+- [20221003150564](/zet/20221003150564/README.md) python upgrade shell (TTY Shell)
+- [20221003150565](/zet/20221003150565/README.md) Netcat Sending file
+- [20221003150566](/zet/20221003150566/README.md) Netcat Receiving file
+- [20221003150568](/zet/20221003150568/README.md) SMB List Drives (Execute on Victim)
+- [20221003150569](/zet/20221003150569/README.md) Powershell File Transfer As Cmd.exe Command
 - [20221003150571](/zet/20221003150571/README.md) PHP unserialize payload gadget chains
 - [20221003150572](/zet/20221003150572/README.md) php type juggling string and number exponent type confusion
 - [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion
 - [20221003150574](/zet/20221003150574/README.md) php type juggling methodology http post data
 - [20221003150575](/zet/20221003150575/README.md) php type juggling methodology
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
+- [20221003150577](/zet/20221003150577/README.md) php quick client phishing attack credential harvesting
 - [20221003150578](/zet/20221003150578/README.md) php LFI filename extension nullbyte tecnhique - below php 5.3
 - [20221003150579](/zet/20221003150579/README.md) php LFI include PHP filter URL no encoding
 - [20221003150580](/zet/20221003150580/README.md) php LFI include PHP filter URL base 64 encode
@@ -281,6 +327,7 @@
 - [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous
 - [20221003150630](/zet/20221003150630/README.md) LDAP enumeration
 - [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
+- [20221003150632](/zet/20221003150632/README.md) list dpkg packages installed on a certain date
 - [20221003150633](/zet/20221003150633/README.md) smbmap default enumeration as guest
 - [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration
 - [20221003150635](/zet/20221003150635/README.md) smbmap
@@ -314,6 +361,7 @@
 - [20221003150663](/zet/20221003150663/README.md) NFS Mount Drive
 - [20221003150664](/zet/20221003150664/README.md) NFS Show mountable drives
 - [20221003150665](/zet/20221003150665/README.md) NFS commands
+- [20221003150666](/zet/20221003150666/README.md) hydra brute force HTTP post form
 - [20221003150667](/zet/20221003150667/README.md) crackmapexec cme commands enumerate acccess to files as json report
 - [20221003150668](/zet/20221003150668/README.md) crackmapexec cme commands enumerate shares accessable by user
 - [20221003150669](/zet/20221003150669/README.md) crackmapexec cme commands test combine valid user and password combinations
@@ -331,6 +379,8 @@
 - [20221003150681](/zet/20221003150681/README.md) tftp commands
 - [20221003150682](/zet/20221003150682/README.md) web enumeration quick commands forms
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
+- [20221003150684](/zet/20221003150684/README.md) encode string as base64 url encoded
+- [20221003150685](/zet/20221003150685/README.md) decode hex on command line
 - [20221003150686](/zet/20221003150686/README.md) wpscan brute force users file and password list
 - [20221003150687](/zet/20221003150687/README.md) wpscan initial aggressive plugins-detection
 - [20221003150688](/zet/20221003150688/README.md) wpscan initial enumerate user id range
@@ -370,6 +420,7 @@
 - [20221003150722](/zet/20221003150722/README.md) openssl pfx p12 file PKCS12 public key fingerprint
 - [20221003150723](/zet/20221003150723/README.md) openssl pfx p12 file PKCS12 view information about certificate
 - [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12
+- [20221003150725](/zet/20221003150725/README.md) openssl and ssh view public key of a private key
 - [20221003150728](/zet/20221003150728/README.md) powershell base64 encode equivalent within ps
 - [20221003150729](/zet/20221003150729/README.md) powershell encode commands as base64 with windows wide char strings in linux
 - [20221003150730](/zet/20221003150730/README.md) powershell
@@ -502,6 +553,7 @@
 - [20221003150860](/zet/20221003150860/README.md) SSH arguments connect to old server
 - [20221003150861](/zet/20221003150861/README.md) SSH arguments troubleshoot diagnose connection problems
 - [20221003150862](/zet/20221003150862/README.md) SSH arguments
+- [20221003150863](/zet/20221003150863/README.md) wget download FTP directory files recursively
 - [20221003150864](/zet/20221003150864/README.md) two-factor authentication 2fa generate one time pins OTP google authenticator
 - [20221003150865](/zet/20221003150865/README.md) two-factor authentication 2fa generate one time pins OTP
 - [20221003150866](/zet/20221003150866/README.md) two-factor authentication 2fa
@@ -526,6 +578,8 @@
 - [20221003150888](/zet/20221003150888/README.md) Test CVE-2021-4034 in a docker Links to deb files
 - [20221003150889](/zet/20221003150889/README.md) Test CVE-2021-4034 in a docker Original exploit
 - [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
+- [20221003150892](/zet/20221003150892/README.md) get all root process IDs
+- [20221003150893](/zet/20221003150893/README.md) get facl recursively centos / redhat
 - [20221003150894](/zet/20221003150894/README.md) linux enumeration quick commands file transfer with cat herefiles
 - [20221003150895](/zet/20221003150895/README.md) linux enumeration quick commands check if users can see other users' processes
 - [20221003150896](/zet/20221003150896/README.md) linux enumeration quick commands list systemd timers
@@ -553,6 +607,7 @@
 - [20221003150918](/zet/20221003150918/README.md) linux enumeration quick commands enumerate open ports if `ss` is not present
 - [20221003150919](/zet/20221003150919/README.md) linux enumeration quick commands list all recursively with ls sorting by modification date within directories
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
+- [20221003150921](/zet/20221003150921/README.md) windows persistence and DLL hijacking locations
 - [20221003150922](/zet/20221003150922/README.md) BSD file transfers
 - [20221003150923](/zet/20221003150923/README.md) BSD
 - [20221003150924](/zet/20221003150924/README.md) /etc/passwd writable line privilege escalation exploit generate password
@@ -600,6 +655,7 @@
 - [20221003150969](/zet/20221003150969/README.md) mobile apps and API testing steps for mobile app API + burpsuite
 - [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing
 - [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs
+- [20221003150972](/zet/20221003150972/README.md) crack salted md5 hash with hashcat
 - [20221003150974](/zet/20221003150974/README.md) XXE xml external entity exfiltrate file out of band payload
 - [20221003150975](/zet/20221003150975/README.md) XXE xml external entity
 - [20221003150976](/zet/20221003150976/README.md) IDOR general steps
@@ -653,10 +709,17 @@
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory
 - [20221003151027](/zet/20221003151027/README.md) decrypt azure AD connect passwords powershell MSSQL queries
 - [20221003151028](/zet/20221003151028/README.md) decrypt azure AD connect passwords
+- [20221003151029](/zet/20221003151029/README.md) MS08-067
+- [20221003151031](/zet/20221003151031/README.md) windows manipulate, enable and privesc with process tokens
+- [20221003151032](/zet/20221003151032/README.md) fix downloading file with evil-winrm
 - [20221003151033](/zet/20221003151033/README.md) applocker limit allowed executables and allowed paths bypass executable blocking
 - [20221003151034](/zet/20221003151034/README.md) applocker limit allowed executables and allowed paths
+- [20221003151036](/zet/20221003151036/README.md) program files UNP directory
+- [20221003151037](/zet/20221003151037/README.md) program files ruxim directory
 - [20221003151038](/zet/20221003151038/README.md) dumping credentials as admin in remote desktop RDP or GUI
 - [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin
+- [20221003151040](/zet/20221003151040/README.md) create windows backdoor accounts
+- [20221003151041](/zet/20221003151041/README.md) exploiting SeRestorePrivilege
 - [20221003151042](/zet/20221003151042/README.md) windows alternate data streams commands displaying content with powershell
 - [20221003151043](/zet/20221003151043/README.md) windows alternate data streams commands creating alt streams
 - [20221003151044](/zet/20221003151044/README.md) windows alternate data streams commands enumerate directory for alt streams
@@ -666,7 +729,11 @@
 - [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass
 - [20221003151049](/zet/20221003151049/README.md) change user password powershell or dos
 - [20221003151050](/zet/20221003151050/README.md) change user password
+- [20221003151051](/zet/20221003151051/README.md) set date to match Active Directory server with ntpdate
+- [20221003151054](/zet/20221003151054/README.md) windows exploit unquoted service path meterpreter reverse service exe
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
+- [20221003151057](/zet/20221003151057/README.md) get windows enumeration info from file read
+- [20221003151058](/zet/20221003151058/README.md) windows directory traversal path traversal LFI strings
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
 - [20221003151061](/zet/20221003151061/README.md) bypass UAC with administrators group read files quickly using smb shares
 - [20221003151062](/zet/20221003151062/README.md) bypass UAC with administrators group uacme bypass
@@ -689,6 +756,7 @@
 - [20221003151079](/zet/20221003151079/README.md) service account privileges restore using scheduled task with powershell
 - [20221003151080](/zet/20221003151080/README.md) service account privileges restore
 - [20221003151081](/zet/20221003151081/README.md) service account privileges
+- [20221003151082](/zet/20221003151082/README.md) powerup powershell windows privesc enumeration script
 - [20221003151083](/zet/20221003151083/README.md) establishing persistence on windows target in enterprise penetration test
 - [20221003151084](/zet/20221003151084/README.md) windows sensitive file disclosure cheat sheet determine version
 - [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet
@@ -759,6 +827,10 @@
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
 - [20221003151154](/zet/20221003151154/README.md) linux hardening add hidepid to /proc at run time
 - [20221003151155](/zet/20221003151155/README.md) linux hardening
+- [20221003151156](/zet/20221003151156/README.md) hashcat generate passwords from password masks and output to stdout
+- [20221003151157](/zet/20221003151157/README.md) hashcat generate wordlist from file with rules
+- [20221003151160](/zet/20221003151160/README.md) password_cracking_rule
+- [20221003151161](/zet/20221003151161/README.md) pivoting guide
 - [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
 - [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans
 - [20221003151164](/zet/20221003151164/README.md) SNMP
@@ -817,6 +889,7 @@
 - [20221003151224](/zet/20221003151224/README.md) php filter LFI to iconv RCE updated conversion table for all base64 (hacktricks)
 - [20221003151225](/zet/20221003151225/README.md) php filter LFI to iconv RCE original get 0 script
 - [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE
+- [20221003151227](/zet/20221003151227/README.md) convert string to a base64 encoded UTF-16LE string to be used by powershell
 - [20221003151228](/zet/20221003151228/README.md) VBScript Download Files
 - [20221003151229](/zet/20221003151229/README.md) VBScript Create wget.vbs File
 - [20221003151230](/zet/20221003151230/README.md) VBScript
@@ -827,6 +900,7 @@
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
 - [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
 - [20221003151240](/zet/20221003151240/README.md) Using touch to make files with strange names for exploiting scripts
+- [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221003151242](/zet/20221003151242/README.md) preparing malicious package payloads node npm package malicious repository ( tcp port 4873 )
 - [20221003151243](/zet/20221003151243/README.md) preparing malicious package payloads node npm package
 - [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads
@@ -845,6 +919,8 @@
 - [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory
 - [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
 - [20221003151259](/zet/20221003151259/README.md) stabilize shell with script command
+- [20221003151260](/zet/20221003151260/README.md) run windows exploit on linux using wine
+- [20221003151261](/zet/20221003151261/README.md) build windows exploit on linux using mingw
 - [20221003151262](/zet/20221003151262/README.md) windows executable smartscreen protection bypass ( apt 29 )
 - [20221003151263](/zet/20221003151263/README.md) windows executable smartscreen protection
 - [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream

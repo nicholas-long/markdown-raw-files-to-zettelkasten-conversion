@@ -2,3 +2,4 @@
 - [20221003150602](/zet/20221003150602/README.md) tunneling through chisel - socks Target
 - [20221003150603](/zet/20221003150603/README.md) tunneling through chisel - socks Attacker
 - [20221003150604](/zet/20221003150604/README.md) tunneling through chisel - socks
+- [20221003151161](/zet/20221003151161/README.md) pivoting guide

@@ -1,7 +1,11 @@
 - [20221003150067](/zet/20221003150067/README.md) vim
+- [20221003150073](/zet/20221003150073/README.md) Run vim as a script on datafile, write to file `output`
+- [20221003150076](/zet/20221003150076/README.md) tmux swap panes
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
 - [20221003150129](/zet/20221003150129/README.md) tldr command
+- [20221003150132](/zet/20221003150132/README.md) find file with name matching regular expression
 - [20221003150134](/zet/20221003150134/README.md) DNS commands
+- [20221003150135](/zet/20221003150135/README.md) enable horizontal scroll in less
 - [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive
 - [20221003150138](/zet/20221003150138/README.md) apt package nc ncat netcat
 - [20221003150139](/zet/20221003150139/README.md) apt package column
@@ -11,6 +15,7 @@
 - [20221003150184](/zet/20221003150184/README.md) add user to group
 - [20221003150192](/zet/20221003150192/README.md) convert package type with alien to deb rpm slp lsb tgz
 - [20221003150193](/zet/20221003150193/README.md) concept of converting files
+- [20221003150194](/zet/20221003150194/README.md) set the bash prompt to use vi hotkeys
 - [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
 - [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
 - [20221003150207](/zet/20221003150207/README.md) example docker to initialize ksql commands
@@ -29,9 +34,14 @@
 - [20221003150238](/zet/20221003150238/README.md) extract command for file type deb
 - [20221003150239](/zet/20221003150239/README.md) extract command for file type
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
+- [20221003150292](/zet/20221003150292/README.md) java jdb execute commands
 - [20221003150306](/zet/20221003150306/README.md) modify date with touch timestomping
+- [20221003150328](/zet/20221003150328/README.md) compile windows c++ binaries on linux
+- [20221003150329](/zet/20221003150329/README.md) problems/issues connecting through multiple VPNs tunnels MTU
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
+- [20221003150351](/zet/20221003150351/README.md) pack windows payload in ISO to avoid MOTW
 - [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
+- [20221003150420](/zet/20221003150420/README.md) finger user enum
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
 - [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap
 - [20221003150477](/zet/20221003150477/README.md) general enumeration Active Directory Certificate Services is AD CS enabled
@@ -54,7 +64,11 @@
 - [20221003150550](/zet/20221003150550/README.md) Sub domain Enum
 - [20221003150552](/zet/20221003150552/README.md) PhpmyAdmin write shell Windows
 - [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell
+- [20221003150565](/zet/20221003150565/README.md) Netcat Sending file
+- [20221003150566](/zet/20221003150566/README.md) Netcat Receiving file
 - [20221003150567](/zet/20221003150567/README.md) SMB Copy Files (Execute on Victim)
+- [20221003150568](/zet/20221003150568/README.md) SMB List Drives (Execute on Victim)
+- [20221003150569](/zet/20221003150569/README.md) Powershell File Transfer As Cmd.exe Command
 - [20221003150583](/zet/20221003150583/README.md) php code convert human readable time to unix epoch timestamp apache HTTP Date header
 - [20221003150584](/zet/20221003150584/README.md) php code convert human readable time to unix epoch timestamp
 - [20221003150585](/zet/20221003150585/README.md) php code embed file or multiline string as heredoc variable
@@ -104,6 +118,7 @@
 - [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous
 - [20221003150630](/zet/20221003150630/README.md) LDAP enumeration
 - [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
+- [20221003150632](/zet/20221003150632/README.md) list dpkg packages installed on a certain date
 - [20221003150633](/zet/20221003150633/README.md) smbmap default enumeration as guest
 - [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration
 - [20221003150635](/zet/20221003150635/README.md) smbmap
@@ -137,6 +152,7 @@
 - [20221003150663](/zet/20221003150663/README.md) NFS Mount Drive
 - [20221003150664](/zet/20221003150664/README.md) NFS Show mountable drives
 - [20221003150665](/zet/20221003150665/README.md) NFS commands
+- [20221003150666](/zet/20221003150666/README.md) hydra brute force HTTP post form
 - [20221003150667](/zet/20221003150667/README.md) crackmapexec cme commands enumerate acccess to files as json report
 - [20221003150668](/zet/20221003150668/README.md) crackmapexec cme commands enumerate shares accessable by user
 - [20221003150669](/zet/20221003150669/README.md) crackmapexec cme commands test combine valid user and password combinations
@@ -154,6 +170,8 @@
 - [20221003150681](/zet/20221003150681/README.md) tftp commands
 - [20221003150682](/zet/20221003150682/README.md) web enumeration quick commands forms
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
+- [20221003150684](/zet/20221003150684/README.md) encode string as base64 url encoded
+- [20221003150685](/zet/20221003150685/README.md) decode hex on command line
 - [20221003150686](/zet/20221003150686/README.md) wpscan brute force users file and password list
 - [20221003150687](/zet/20221003150687/README.md) wpscan initial aggressive plugins-detection
 - [20221003150688](/zet/20221003150688/README.md) wpscan initial enumerate user id range
@@ -193,6 +211,7 @@
 - [20221003150722](/zet/20221003150722/README.md) openssl pfx p12 file PKCS12 public key fingerprint
 - [20221003150723](/zet/20221003150723/README.md) openssl pfx p12 file PKCS12 view information about certificate
 - [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12
+- [20221003150725](/zet/20221003150725/README.md) openssl and ssh view public key of a private key
 - [20221003150726](/zet/20221003150726/README.md) openssl view information about certificate request
 - [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal
 - [20221003150728](/zet/20221003150728/README.md) powershell base64 encode equivalent within ps
@@ -327,6 +346,7 @@
 - [20221003150860](/zet/20221003150860/README.md) SSH arguments connect to old server
 - [20221003150861](/zet/20221003150861/README.md) SSH arguments troubleshoot diagnose connection problems
 - [20221003150862](/zet/20221003150862/README.md) SSH arguments
+- [20221003150863](/zet/20221003150863/README.md) wget download FTP directory files recursively
 - [20221003150864](/zet/20221003150864/README.md) two-factor authentication 2fa generate one time pins OTP google authenticator
 - [20221003150865](/zet/20221003150865/README.md) two-factor authentication 2fa generate one time pins OTP
 - [20221003150866](/zet/20221003150866/README.md) two-factor authentication 2fa
@@ -340,6 +360,8 @@
 - [20221003150874](/zet/20221003150874/README.md) nikto command
 - [20221003150881](/zet/20221003150881/README.md) create symbolic link
 - [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present
+- [20221003150892](/zet/20221003150892/README.md) get all root process IDs
+- [20221003150893](/zet/20221003150893/README.md) get facl recursively centos / redhat
 - [20221003150894](/zet/20221003150894/README.md) linux enumeration quick commands file transfer with cat herefiles
 - [20221003150895](/zet/20221003150895/README.md) linux enumeration quick commands check if users can see other users' processes
 - [20221003150896](/zet/20221003150896/README.md) linux enumeration quick commands list systemd timers
@@ -369,18 +391,29 @@
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
 - [20221003150922](/zet/20221003150922/README.md) BSD file transfers
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
+- [20221003150972](/zet/20221003150972/README.md) crack salted md5 hash with hashcat
 - [20221003150977](/zet/20221003150977/README.md) oracle connect as sysdba enable file read privileges
+- [20221003151051](/zet/20221003151051/README.md) set date to match Active Directory server with ntpdate
+- [20221003151082](/zet/20221003151082/README.md) powerup powershell windows privesc enumeration script
 - [20221003151090](/zet/20221003151090/README.md) powerview enumerate sensitive information disclosure on file shares
 - [20221003151091](/zet/20221003151091/README.md) powerview
 - [20221003151104](/zet/20221003151104/README.md) compile windows DLL to run commands DLL code building with mingw
 - [20221003151105](/zet/20221003151105/README.md) compile windows DLL to run commands DLL code
 - [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
 - [20221003151124](/zet/20221003151124/README.md) dos commands
+- [20221003151156](/zet/20221003151156/README.md) hashcat generate passwords from password masks and output to stdout
+- [20221003151157](/zet/20221003151157/README.md) hashcat generate wordlist from file with rules
+- [20221003151227](/zet/20221003151227/README.md) convert string to a base64 encoded UTF-16LE string to be used by powershell
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
 - [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
+- [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
+- [20221003151260](/zet/20221003151260/README.md) run windows exploit on linux using wine
+- [20221003151261](/zet/20221003151261/README.md) build windows exploit on linux using mingw
 - [20221003151267](/zet/20221003151267/README.md) fzf
 - [20221003151268](/zet/20221003151268/README.md) Lookup missing packages with command-not-found
 - [20221003151272](/zet/20221003151272/README.md) docker compose aliases for convenience
+- [20221003151274](/zet/20221003151274/README.md) install mandown
+- [20221003151275](/zet/20221003151275/README.md) install docker compose cli extension
 - [20221003151276](/zet/20221003151276/README.md) linux data science issues
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities
 - [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub
@@ -388,7 +421,9 @@
 - [20221003151287](/zet/20221003151287/README.md) jq pipe and filter objects syntax
 - [20221003151288](/zet/20221003151288/README.md) jq pipe syntax
 - [20221003151289](/zet/20221003151289/README.md) jq
+- [20221003151300](/zet/20221003151300/README.md) drop newlines from stream with tr
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
+- [20221003151302](/zet/20221003151302/README.md) get current script directory
 - [20221003151303](/zet/20221003151303/README.md) bash scripting set operations comm find lines unique to one file and not in another
 - [20221003151304](/zet/20221003151304/README.md) bash scripting set operations comm find common lines between two files
 - [20221003151305](/zet/20221003151305/README.md) bash scripting comm utility for set operations
@@ -409,12 +444,16 @@
 - [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
 - [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
+- [20221003151339](/zet/20221003151339/README.md) enumerate all python imports; chain 2 awk scripts with a filter
+- [20221003151340](/zet/20221003151340/README.md) awk print unbuffered output
+- [20221003151341](/zet/20221003151341/README.md) awk split string
 - [20221003151344](/zet/20221003151344/README.md) awk bash scripting split into files by column value
 - [20221003151348](/zet/20221003151348/README.md) awk bash scripting move files automatically
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 - [20221003151368](/zet/20221003151368/README.md) bash scripting get top N most common ports from nmap list pass argument
 - [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker
 - [20221003151410](/zet/20221003151410/README.md) bash scripting get raw HTTP request data from burp saved request
+- [20221003151431](/zet/20221003151431/README.md) awk scripting check output of grep and next line using awk "grep -A 1 -R '^# ' ."
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
@@ -431,6 +470,7 @@
 - [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands
 - [20221020000848](/zet/20221020000848/README.md) SSH
+- [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 - [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
 - [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed
 - [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet
