@@ -14,16 +14,6 @@
 # have duplicate tags
 #
 
-# #buzzwords
-- [20221003150244](/zet/20221003150244/README.md) MOTW mark of the web microsoft alternate data stream file label ZoneId avoiding / evading #hacking #buzzwords #buzzwords 
-- [20221003150245](/zet/20221003150245/README.md) MOTW mark of the web microsoft alternate data stream file label ZoneId #hacking #buzzwords #buzzwords 
-- [20221003150249](/zet/20221003150249/README.md) Apache guacamole RDP VNC SSH in web browser default creds #hacking #buzzwords #buzzwords 
-- [20221003150258](/zet/20221003150258/README.md) firefox containers addon = multiple sessions cookies in firefox web browser #hacking #buzzwords #buzzwords 
-- [20221003150261](/zet/20221003150261/README.md) block ciphers ECB electronic code book cipher mode of operation #hacking #buzzwords #buzzwords 
-- [20221003150262](/zet/20221003150262/README.md) block ciphers CBC cipher cipher block chaining cipher mode of operation #hacking #buzzwords #buzzwords 
-- [20221003150265](/zet/20221003150265/README.md) block ciphers #hacking #buzzwords #buzzwords 
-- [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix #hacking #buzzwords #buzzwords 
-
 # #docker
 - [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately #docker #docker 
 - [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control #docker #docker 
