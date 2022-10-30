@@ -9,7 +9,7 @@
 
 # Related
 
-- [20221003151273](/zet/20221003151273/README.md) run container in background without exiting
+- [20221003151273](/zet/20221003151273/README.md) run docker in background without exiting
 - [20221016233334](/zet/20221016233334/README.md) commits for day of 2022-03-11
 - [20221003151443](/zet/20221003151443/README.md) kb
 

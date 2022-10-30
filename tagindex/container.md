@@ -3,6 +3,7 @@
 - [20221003150931](/zet/20221003150931/README.md) lxd priv esc without painful build problems lxd priv esc x86
 - [20221003150932](/zet/20221003150932/README.md) lxd priv esc without painful build problems lxd priv esc x64
 - [20221003150933](/zet/20221003150933/README.md) lxd priv esc without painful build problems
+- [20221003151273](/zet/20221003151273/README.md) run docker in background without exiting
 - [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker
 - [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
 - [20221003151391](/zet/20221003151391/README.md) bash scripting clone github repository and build docker image with its name

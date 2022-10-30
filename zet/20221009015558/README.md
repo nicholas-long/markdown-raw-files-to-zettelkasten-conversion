@@ -16,7 +16,7 @@ the concept of `docker`
 - [20221009021452](/zet/20221009021452/README.md) container
 - [20221003151083](/zet/20221003151083/README.md) establishing persistence on windows target in enterprise penetration test
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
-- [20221003151273](/zet/20221003151273/README.md) run container in background without exiting
+- [20221003151273](/zet/20221003151273/README.md) run docker in background without exiting
 - [20221003151378](/zet/20221003151378/README.md) bash scripting build and run enum4linux-ng docker
 - [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker
 - [20221003150090](/zet/20221003150090/README.md) bash scripts sh run docker catch rev shell

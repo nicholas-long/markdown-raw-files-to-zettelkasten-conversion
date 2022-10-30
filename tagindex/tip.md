@@ -9,6 +9,7 @@
 - [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup
 - [20221003151053](/zet/20221003151053/README.md) lsass process contains credentials
 - [20221003151238](/zet/20221003151238/README.md) firefox url bar get tld working for ctf boxes
+- [20221003151273](/zet/20221003151273/README.md) run docker in background without exiting
 - [20221003151293](/zet/20221003151293/README.md) debugging bash in terminal
 - [20221003151294](/zet/20221003151294/README.md) debugging bash in visual studio code
 - [20221003151307](/zet/20221003151307/README.md) expect scripts use arguments

@@ -1,6 +1,7 @@
 - [20221003150081](/zet/20221003150081/README.md) tmux box art enable
 - [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
 - [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
+- [20221003151273](/zet/20221003151273/README.md) run docker in background without exiting
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color
 - [20221012070836](/zet/20221012070836/README.md) asciinema website for recording terminal session
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running

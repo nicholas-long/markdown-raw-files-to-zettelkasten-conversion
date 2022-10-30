@@ -19,6 +19,11 @@
 - [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately
 - [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control
 - [20221003151271](/zet/20221003151271/README.md) docker cleanup
+- [20221003151273](/zet/20221003151273/README.md) run docker in background without exiting
+- [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker
+- [20221003151378](/zet/20221003151378/README.md) bash scripting build and run enum4linux-ng docker
+- [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
+- [20221003151391](/zet/20221003151391/README.md) bash scripting clone github repository and build docker image with its name
 - [20221003151411](/zet/20221003151411/README.md) bash scripting run docker image with current directory mounted as working directory
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221009015558](/zet/20221009015558/README.md) docker
