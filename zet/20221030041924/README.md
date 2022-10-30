@@ -9,16 +9,16 @@
 
 ```mermaid
 graph TD;
-  exploit path -- potential exploits
-  exploit path -- steps
-  exploit path -- proof, flags, and screenshots
-  steps -- proof, flags, and screenshots
-  steps -- potential exploits
-  steps -- services
-  steps -- machine high-level overview notes
-  steps -- working notes - foothold
-  machine high-level overview notes -- services
-  machine high-level overview notes -- ports - enum
+  exploit_path --> potential_exploits;
+  exploit_path --> steps;
+  exploit_path --> proof__flags__and_screenshots;
+  steps --> proof__flags__and_screenshots;
+  steps --> potential_exploits;
+  steps --> services;
+  steps --> machine_high_level_overview_notes;
+  steps --> working_notes___foothold;
+  machine_high_level_overview_notes --> services;
+  machine_high_level_overview_notes --> ports___enum;
 ```
 
 ` zet/20221030041924/README.md `

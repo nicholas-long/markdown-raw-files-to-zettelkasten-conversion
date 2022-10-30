@@ -16,12 +16,13 @@ function lookup(id) {
   getline < fn
   close(fn)
   gsub(/^# /,"")
+  gsub(/[^A-Za-z]/,"_")
   headings[id] = $0
   return $0
 }
 $1 < $2 {
   src = $1
   dst = $2
-  print "  " lookup(src), "--", lookup(dst)
+  print "  " lookup(src), "-->", lookup(dst) ";"
 }
 '
