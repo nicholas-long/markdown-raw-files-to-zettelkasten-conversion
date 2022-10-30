@@ -11,6 +11,8 @@
 - ~/kb/hacking/php/type-juggling.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221008042814](/zet/20221008042814/README.md) WIP
+- [20221003150572](/zet/20221003150572/README.md) php type juggling string and number exponent type confusion
+- [20221003150574](/zet/20221003150574/README.md) php type juggling methodology http post data
 
 Tags:
 

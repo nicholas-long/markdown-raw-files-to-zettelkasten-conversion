@@ -47,7 +47,6 @@
 98 zet/20221003150912/README.md linux enumeration quick commands find files modified between specific dates (with reference files)
 96 zet/20221003151315/README.md bash scripting substitution syntax initialize variable with default value if empty and return it
 96 zet/20221003150902/README.md linux enumeration quick commands copy entire directory to attacker machine quickly by piping tar
-96 zet/20221003150572/README.md php type juggling string and number exponent type confusion vulnerable hash prefix `0e` md5 sha1
 95 zet/20221003151403/README.md bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf
 95 zet/20221003151371/README.md bash scripting get the date of the last commit to modify a file as epoch timestamp and iso date
 95 zet/20221003150732/README.md feroxbuster files, backups, and extensions small words to filenames plus extensions ignore 403 

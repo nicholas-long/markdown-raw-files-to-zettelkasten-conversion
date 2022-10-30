@@ -1,4 +1,5 @@
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list
+- [20221003150574](/zet/20221003150574/README.md) php type juggling methodology http post data
 - [20221003150959](/zet/20221003150959/README.md) OSINT email OSINT
 - [20221003150967](/zet/20221003150967/README.md) things to check in bloodhound
 - [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing

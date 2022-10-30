@@ -1,1 +1,2 @@
+- [20221003150575](/zet/20221003150575/README.md) php type juggling methodology
 - [20221003151265](/zet/20221003151265/README.md) fzf install
