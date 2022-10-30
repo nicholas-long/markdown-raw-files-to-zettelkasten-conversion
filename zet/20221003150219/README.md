@@ -310,4 +310,4 @@ AA - System has transitioned into ACPI mode. Interrupt controller is in APIC mod
 
 Tags:
 
-    
+    #hardware #fix
