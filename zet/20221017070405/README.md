@@ -2,6 +2,7 @@
 
 - concept of `docker compose`
 - manage a bunch of dockers with a yaml file
+  - [20221003151281](/zet/20221003151281/README.md) YAML
 
 ```
 ```
@@ -20,4 +21,4 @@
 
 Tags:
 
-    #concept #program
+    #concept #program #docker #container #devops

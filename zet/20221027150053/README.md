@@ -13,20 +13,8 @@
 # things linked docker should be tagged container or docker
 - [20221009015558](/zet/20221009015558/README.md) docker #docker #concept #hub
 
-./graphquery --human id 20221009015558 refs not <( ./graphquery taglist 'docker,hacking' )
-
-[diag] refs  20221009015558 
-- [20221003151273](/zet/20221003151273/README.md) run container in background without exiting 
-- [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker #bash #script #trick #container #bruteforcing #command
-- [20221003151378](/zet/20221003151378/README.md) bash scripting build and run enum4linux-ng docker #bash #script #enumeration #util
-- [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker #bash #script #trick #container #graph
-- [20221003151391](/zet/20221003151391/README.md) bash scripting clone github repository and build docker image with its name #bash #script #container #trick
-- [20221006025356](/zet/20221006025356/README.md) linux #concept #hub #linux
-- [20221009021452](/zet/20221009021452/README.md) container #container #concept #hub
-- [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples #idea
-- [20221014081712](/zet/20221014081712/README.md) ways to get hacked #idea #info
-- [20221015004252](/zet/20221015004252/README.md) htb opensource machine #idea #boxes
-- [20221017070405](/zet/20221017070405/README.md) docker compose #concept #program
+./graphquery --human id 20221009015558 refs not <( ./graphquery taglist 'docker,hacking,hub' )
+./graphquery --human id 20221009015558 refs not <( ./graphquery taglist 'docker,hub' )
 
 --------------------------------------------------------------------------------
 # done
