@@ -1,3 +1,4 @@
+- [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards
 - [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
 - [20221025024238](/zet/20221025024238/README.md) enumerate tags
 - [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation

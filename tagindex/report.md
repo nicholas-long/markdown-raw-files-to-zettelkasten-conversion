@@ -1,0 +1,1 @@
+- [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards

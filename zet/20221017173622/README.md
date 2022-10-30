@@ -32,7 +32,7 @@ naming networking nfs nim nmap notes noun
 openssl optimization os osint
 package packet pane password path pc php pipelines pivot plugin port portable post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox pureftp pwn pwntools python
 question quick
-rce rdp redhat reference relative remoteaccess repo repositories responder retired routing run rust
+rce rdp redhat reference relative remoteaccess repo report repositories responder retired routing run rust
 scam screenshot script scripting sed service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve sort source speed sqli sqlmap ssh ssti stack stream streamer sudoers surface syntax
 tablet tar tcp template templates terminal test text textprocessing tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui two type
 uac udp url useful username users util

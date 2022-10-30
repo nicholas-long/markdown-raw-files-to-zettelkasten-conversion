@@ -3,6 +3,7 @@
 - [20221003150312](/zet/20221003150312/README.md) SMB
 - [20221003150341](/zet/20221003150341/README.md) cms database creds config locations
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
+- [20221003150465](/zet/20221003150465/README.md) powershell PSCredential password
 - [20221003150517](/zet/20221003150517/README.md) binary analysis
 - [20221003150677](/zet/20221003150677/README.md) bloodhound
 - [20221003150780](/zet/20221003150780/README.md) crowbar
