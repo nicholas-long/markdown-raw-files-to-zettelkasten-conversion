@@ -8,5 +8,5 @@
 - [20221018020643](/zet/20221018020643/README.md) what is hadoop for?
 - [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux
 - [20221018052621](/zet/20221018052621/README.md) how to process email programatically?
-- [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
+- [20221024180316](/zet/20221024180316/README.md) check for duplicate hashtags in cards
 - [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode

@@ -1,7 +1,7 @@
 - [20221003150090](/zet/20221003150090/README.md) bash scripts sh run docker catch rev shell
 - [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
-- [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
+- [20221024180316](/zet/20221024180316/README.md) check for duplicate hashtags in cards
 - [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4
 - [20221026135114](/zet/20221026135114/README.md) add step to check for duplicate links in enrich scanrefs
 - [20221026165857](/zet/20221026165857/README.md) template example card to replace second snippet

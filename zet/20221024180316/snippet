@@ -1,4 +1,39 @@
 #!/bin/bash
 
-echo "checking tags..."
-grep 20221024180316 tagindex/test.md
+tagrpt=$(mktemp)
+find zet -name README.md | xargs zet/20221024180316/gettags > $tagrpt
+
+echo "#"
+echo "# have duplicate tags"
+echo "#"
+awk '
+{
+  delete seen
+  for (n = 2; n <= NF; n++) {
+    if (seen[$n]) print $1, $n
+    seen[$n] = 1
+  }
+}
+' $tagrpt | awk '
+{
+  split($1,arr,"/")
+  id = arr[2]
+  print id
+}
+' | ./graphquery --human /dev/stdin
+
+echo ""
+
+echo "#"
+echo "# have no tags"
+echo "#"
+awk 'NF == 1' $tagrpt | awk '
+{
+  split($1,arr,"/")
+  id = arr[2]
+  print id
+}
+' | ./graphquery --human /dev/stdin
+
+# cleanup
+rm "$tagrpt"

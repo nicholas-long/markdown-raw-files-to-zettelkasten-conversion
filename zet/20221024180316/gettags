@@ -1,0 +1,6 @@
+#!/usr/bin/awk -f
+{ last = $0 }
+ENDFILE {
+  gsub(/^ */, "", last)
+  print FILENAME, last
+}

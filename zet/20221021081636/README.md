@@ -18,7 +18,7 @@ hello world again!
 - [20221026135114](/zet/20221026135114/README.md) add step to check for duplicate links in enrich scanrefs
 - [20221026152737](/zet/20221026152737/README.md) template snippet cards not getting run because of parameter issues
 - [20221026165857](/zet/20221026165857/README.md) template example card to replace second snippet
-- [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
+- [20221024180316](/zet/20221024180316/README.md) check for duplicate hashtags in cards
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221028014614](/zet/20221028014614/README.md) keep track of scripts with graphquery

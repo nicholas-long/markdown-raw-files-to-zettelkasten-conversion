@@ -488,7 +488,7 @@
 - [20221023182804](/zet/20221023182804/README.md) browse to tagindex pages
 - [20221024070910](/zet/20221024070910/README.md) drop first column with awk
 - [20221024160055](/zet/20221024160055/README.md) sort finished nodes 
-- [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
+- [20221024180316](/zet/20221024180316/README.md) check for duplicate hashtags in cards
 - [20221024213239](/zet/20221024213239/README.md) obsidian dataview plugin
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 - [20221025025810](/zet/20221025025810/README.md) useful zet scripts

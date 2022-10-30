@@ -136,7 +136,7 @@ Options:
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
 - https://github.com/naps62/zk - another implementation in bash for reference
 - https://www.google.com/search?q=zettelkasten+fzf+vim ?
-- [20221024180316](/zet/20221024180316/README.md) what if a card has duplicate hashtags?
+- [20221024180316](/zet/20221024180316/README.md) check for duplicate hashtags in cards
 - [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step
 - [20221025025810](/zet/20221025025810/README.md) useful zet scripts
 - [20221025024238](/zet/20221025024238/README.md) enumerate tags
