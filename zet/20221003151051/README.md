@@ -15,4 +15,4 @@ sudo ntpdate $IP
 
 Tags:
 
-    
+    #command

@@ -16,4 +16,4 @@ Edit config file `~/.SpaceVim.d/init.toml`
 
 Tags:
 
-    
+    #vim

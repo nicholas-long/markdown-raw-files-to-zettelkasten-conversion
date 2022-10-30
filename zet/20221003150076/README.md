@@ -17,4 +17,4 @@ prefix + `{`
 
 Tags:
 
-    
+    #tmux #command

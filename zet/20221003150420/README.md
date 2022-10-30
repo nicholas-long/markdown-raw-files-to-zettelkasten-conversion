@@ -17,4 +17,4 @@ finger-user-enum.pl -U /usr/share/seclists/Usernames/Names/names.txt -t $IP
 
 Tags:
 
-    
+    #command #repo

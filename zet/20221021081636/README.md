@@ -31,4 +31,4 @@ hello world again!
 
 Tags:
 
-    #meta
+    #meta #command
