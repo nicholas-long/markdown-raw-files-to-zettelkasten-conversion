@@ -1,1 +1,2 @@
 - [20221006213414](/zet/20221006213414/README.md) retired machines
+- [20221015004252](/zet/20221015004252/README.md) htb opensource machine

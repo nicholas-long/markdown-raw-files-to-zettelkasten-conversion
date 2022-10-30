@@ -10,3 +10,4 @@
 - [20221003151392](/zet/20221003151392/README.md) bash scripting launch ubuntu build environment docker with current directory mounted as working directory
 - [20221003151411](/zet/20221003151411/README.md) bash scripting run docker image with current directory mounted as working directory
 - [20221009021452](/zet/20221009021452/README.md) container
+- [20221017070405](/zet/20221017070405/README.md) docker compose

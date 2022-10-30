@@ -429,7 +429,6 @@
 - [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
 - [20221014222109](/zet/20221014222109/README.md) workflow for releasing zet cards from private to public
 - [20221015000510](/zet/20221015000510/README.md) create install script for zet command
-- [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 - [20221015005218](/zet/20221015005218/README.md) git web interfaces
 - [20221015005249](/zet/20221015005249/README.md) gitlab
 - [20221015005557](/zet/20221015005557/README.md) python library

@@ -29,4 +29,6 @@
 - [20221009015558](/zet/20221009015558/README.md) docker
 - [20221009015743](/zet/20221009015743/README.md) dockerfile
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
+- [20221015004252](/zet/20221015004252/README.md) htb opensource machine
+- [20221017070405](/zet/20221017070405/README.md) docker compose
 - [20221028172836](/zet/20221028172836/README.md) symlink dockerfile

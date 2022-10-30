@@ -23,7 +23,7 @@ ARCHIVE
 ad administration ai analysis ansible api apk apt arg automation av awk
 base64 bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
 c-language c2 calling capabilities cert cleanup cms coding command company concept config container convert copy crack creds crypto ctf curl cyberpunk
-data database date dayinhistory debian debug debugging decrypt defense deploy deserialization diag diagram dirty dll dns docker done dos dotfiles download dpkg ds dump
+data database date dayinhistory debian debug debugging decrypt defense deploy deserialization devops diag diagram dirty dll dns docker done dos dotfiles download dpkg ds dump
 edit editor email enable encode enhancement enumeration error etc ex example expect experiment exploit extract
 feature feroxbuster fidget file filehash filepath files filesystem find finding fix force format free fun fzf-fuzzy-find
 games gdb gef generate get git github go gobuster got graph grep
