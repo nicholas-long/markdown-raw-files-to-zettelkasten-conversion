@@ -19,4 +19,4 @@ the concept of `services`
 
 Tags:
 
-    #notes
+    #notes #template

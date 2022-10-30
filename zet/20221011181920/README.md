@@ -21,4 +21,4 @@ the concept of `working notes - foothold`
 
 Tags:
 
-    #notes
+    #notes #template

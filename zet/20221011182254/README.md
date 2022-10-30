@@ -17,4 +17,4 @@ the concept of `ports - enum`
 
 Tags:
 
-    #notes
+    #notes #template

@@ -15,4 +15,4 @@ the concept of `passwords`
 
 Tags:
 
-    #notes
+    #notes #template

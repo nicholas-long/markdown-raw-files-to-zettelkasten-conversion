@@ -16,4 +16,4 @@ the concept of `creds`
 
 Tags:
 
-    #notes
+    #notes #template

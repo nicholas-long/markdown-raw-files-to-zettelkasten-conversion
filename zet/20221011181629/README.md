@@ -16,4 +16,4 @@ the concept of `usernames`
 
 Tags:
 
-    #notes
+    #notes #template

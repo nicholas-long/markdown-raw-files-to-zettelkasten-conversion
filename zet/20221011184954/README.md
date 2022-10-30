@@ -18,4 +18,4 @@ the concept of `proof and flags`
 
 Tags:
 
-    #notes #proof
+    #notes #proof #template

@@ -18,4 +18,4 @@ the concept of `working notes - privesc`
 
 Tags:
 
-    #notes
+    #notes #template

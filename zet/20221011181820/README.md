@@ -19,4 +19,4 @@
 
 Tags:
 
-    #notes
+    #notes #template

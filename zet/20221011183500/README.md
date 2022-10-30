@@ -23,4 +23,4 @@ the concept of `potential exploits`
 
 Tags:
 
-    #notes
+    #notes #template

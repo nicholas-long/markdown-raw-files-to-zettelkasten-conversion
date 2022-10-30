@@ -14,4 +14,4 @@ the concept of `machine web services`
 
 Tags:
 
-    #notes
+    #notes #template
