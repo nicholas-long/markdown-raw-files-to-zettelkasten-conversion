@@ -11,7 +11,8 @@ vimdiff file1 file2
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221003150067](/zet/20221003150067/README.md) vim
 - ~/kb/vim/vim.md
+- [20221003150064](/zet/20221003150064/README.md) neovim diff
 
 Tags:
 
-    #vim #vim 
+    #vim #file #diff

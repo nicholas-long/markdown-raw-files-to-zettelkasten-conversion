@@ -19,4 +19,4 @@
 
 Tags:
 
-    #hacking #buzzwords #buzzwords #info #program
+    #hacking #buzzwords #info #program

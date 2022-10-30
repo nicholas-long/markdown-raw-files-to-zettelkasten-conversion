@@ -46,4 +46,4 @@ find /etc -writable 2>/dev/null
 
 Tags:
 
-    #command #hacking #privesc #enumeration #command 
+    #hacking #privesc #enumeration #command
