@@ -1,26 +1,26 @@
 #!/bin/bash
 
 tagrpt=$(mktemp)
+export duptags=$(mktemp -d)
 find zet -name README.md | xargs zet/20221024180316/gettags > $tagrpt
 
 echo "#"
 echo "# have duplicate tags"
 echo "#"
-awk '
-{
-  delete seen
-  for (n = 2; n <= NF; n++) {
-    if (seen[$n]) print $1, $n
-    seen[$n] = 1
-  }
-}
-' $tagrpt | awk '
-{
+awk -v "duptags=$duptags" ' {
   split($1,arr,"/")
   id = arr[2]
-  print id
-}
-' | ./graphquery --human /dev/stdin
+  delete seen
+  for (n = 2; n <= NF; n++) {
+    if (seen[$n]) print id > duptags"/"$n
+    seen[$n] = 1
+  }
+} ' $tagrpt
+for t in $(ls $duptags); do
+  echo ""
+  echo "# $t"
+  ./graphquery --human $duptags/$t
+done
 
 echo ""
 
@@ -37,3 +37,4 @@ awk 'NF == 1' $tagrpt | awk '
 
 # cleanup
 rm "$tagrpt"
+rm -rf "$duptags"

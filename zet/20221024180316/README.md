@@ -13,8 +13,8 @@
 #
 # have duplicate tags
 #
-- [20221003150066](/zet/20221003150066/README.md) vim diff #vim #vim 
-- [20221003150090](/zet/20221003150090/README.md) bash scripts sh run docker catch rev shell #shell #docker #shell #test
+
+# #buzzwords
 - [20221003150244](/zet/20221003150244/README.md) MOTW mark of the web microsoft alternate data stream file label ZoneId avoiding / evading #hacking #buzzwords #buzzwords 
 - [20221003150245](/zet/20221003150245/README.md) MOTW mark of the web microsoft alternate data stream file label ZoneId #hacking #buzzwords #buzzwords 
 - [20221003150249](/zet/20221003150249/README.md) Apache guacamole RDP VNC SSH in web browser default creds #hacking #buzzwords #buzzwords 
@@ -24,6 +24,28 @@
 - [20221003150265](/zet/20221003150265/README.md) block ciphers #hacking #buzzwords #buzzwords 
 - [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix #hacking #buzzwords #buzzwords 
 - [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface #hacking #buzzwords #buzzwords #info #program
+
+# #command
+- [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands #command #hacking #privesc #enumeration #command 
+
+# #docker
+- [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately #docker #docker 
+- [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control #docker #docker 
+- [20221003151271](/zet/20221003151271/README.md) docker cleanup #docker #docker 
+
+# #file
+- [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write #hacking #sqli #file #database #file #trick
+
+# #shell
+- [20221003150090](/zet/20221003150090/README.md) bash scripts sh run docker catch rev shell #shell #docker #shell #test
+
+# #todo
+- [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically #todo #todo #enhancement
+
+# #vim
+- [20221003150066](/zet/20221003150066/README.md) vim diff #vim #vim 
+
+# #windows
 - [20221003150746](/zet/20221003150746/README.md) impacket kerberos commands wmiexec #command #hacking #windows #windows 
 - [20221003150747](/zet/20221003150747/README.md) impacket kerberos commands ticket environment variable KRB5CCNAME #command #hacking #windows #windows 
 - [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands #command #hacking #windows #windows 
@@ -32,8 +54,6 @@
 - [20221003150751](/zet/20221003150751/README.md) kerbrute password spray users from user list file #command #hacking #windows #windows 
 - [20221003150752](/zet/20221003150752/README.md) kerbrute enumerate users using wordlist #command #hacking #windows #windows 
 - [20221003150753](/zet/20221003150753/README.md) kerbrute #command #hacking #windows #windows 
-- [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands #command #hacking #privesc #enumeration #command 
-- [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write #hacking #sqli #file #database #file #trick
 - [20221003151033](/zet/20221003151033/README.md) applocker limit allowed executables and allowed paths bypass executable blocking #hacking #windows #windows 
 - [20221003151034](/zet/20221003151034/README.md) applocker limit allowed executables and allowed paths #hacking #windows #windows 
 - [20221003151038](/zet/20221003151038/README.md) dumping credentials as admin in remote desktop RDP or GUI #hacking #windows #windows 
@@ -74,11 +94,9 @@
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
 - [20221003151262](/zet/20221003151262/README.md) windows executable smartscreen protection bypass ( apt 29 ) #hacking #trick #windows #windows 
 - [20221003151263](/zet/20221003151263/README.md) windows executable smartscreen protection #hacking #trick #windows #windows 
-- [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately #docker #docker 
-- [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control #docker #docker 
-- [20221003151271](/zet/20221003151271/README.md) docker cleanup #docker #docker 
+
+# `
 - [20221005194814](/zet/20221005194814/README.md) Related ` zet/20221005194814/README.md `
-- [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically #todo #todo #enhancement
 
 #
 # have no tags

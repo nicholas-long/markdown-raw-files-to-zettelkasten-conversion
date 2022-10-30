@@ -20,7 +20,7 @@
 40 zet/20221026181955/snippet   not <( ./graphquery id $KB_ID refs ) \
 37 zet/20221017173622/snippet ./graphquery --human taglist 'bash' \
 35 zet/20221024180316/snippet ' | ./graphquery --human /dev/stdin
-35 zet/20221024180316/snippet ' | ./graphquery --human /dev/stdin
+34 zet/20221024180316/snippet   ./graphquery --human $duptags/$t
 30 zet/20221005200242/snippet   ./graphquery id $MYID refs \
 ```
 
