@@ -11,6 +11,9 @@
 - rob hates obsidian
   - i understand the sentiment - it was good for taking notes hacking boxes, but then none of the images or links worked on github or anywhere else.
   - the graph view is a dope feature to use to explore zet, but i cannot use it as the primary editor for a zettelkasten because of the compatibility issues with other platforms.
+- github does not support SVGs?
+  - i think you can embed them as images in a separate file to be renderd by the client?
+  - security issues?
 
 ```
 ```
@@ -25,6 +28,7 @@
 - [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal
+- [20221030182245](/zet/20221030182245/README.md) SVG security issues
 
 Tags:
 
