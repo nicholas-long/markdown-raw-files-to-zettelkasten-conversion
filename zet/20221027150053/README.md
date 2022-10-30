@@ -7,14 +7,8 @@
   - should github be a concept hub or a hashtag? or both?
   - keep useful as a tag or label?
 - text vs textprocessing
-- things linked docker should be tagged container or docker
+
 ```
-
-# things linked docker should be tagged container or docker
-- [20221009015558](/zet/20221009015558/README.md) docker #docker #concept #hub
-
-./graphquery --human id 20221009015558 refs not <( ./graphquery taglist 'docker,hacking,hub' )
-./graphquery --human id 20221009015558 refs not <( ./graphquery taglist 'docker,hub' )
 
 --------------------------------------------------------------------------------
 # done
@@ -49,24 +43,30 @@
 
 ./graphquery @substitution | xargs -n 1 ./zc deltag -t substitution
 
+# things linked docker should be tagged container or docker
+- [20221009015558](/zet/20221009015558/README.md) docker #docker #concept #hub
+./graphquery --human id 20221009015558 refs not <( ./graphquery taglist 'docker,hacking,hub' )
+
 ```
 
 - done
-- awk-scripting -> #awk #scripting
-- bash-scripting -> #bash #scripting
-- c -> c-language
-- data-engineering-pipelines -> #data #pipelines
-- lxd -> container
-- active -> ad
-- crowbar
-- xterm
-- enh -> enhancement
-- crackmapexec -> bruteforcing if not
-- create filesystem tag for ext4 and other future stuff
-- util utilities -> util
-  - remove
-    - utilities
-    - utility
+  - awk-scripting -> #awk #scripting
+  - bash-scripting -> #bash #scripting
+  - c -> c-language
+  - data-engineering-pipelines -> #data #pipelines
+  - lxd -> container
+  - active -> ad
+  - crowbar
+  - xterm
+  - enh -> enhancement
+  - crackmapexec -> bruteforcing if not
+  - create filesystem tag for ext4 and other future stuff
+  - util utilities -> util
+    - remove
+      - utilities
+      - utility
+  - things linked docker should be tagged container or docker or hacking
+
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 
 ` zet/20221027150053/README.md `
