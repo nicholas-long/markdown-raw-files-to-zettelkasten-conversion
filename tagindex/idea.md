@@ -526,3 +526,4 @@
 - [20221030041924](/zet/20221030041924/README.md) generate mermaid graph from set of zet cards
 - [20221030082715](/zet/20221030082715/README.md) findings from converting markdown info to zet
 - [20221030083332](/zet/20221030083332/README.md) redo some conversions
+- [20221030085217](/zet/20221030085217/README.md) rwxrob KEG book composition video 10-28
