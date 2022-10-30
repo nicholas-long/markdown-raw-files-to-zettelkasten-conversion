@@ -44,9 +44,10 @@ zet/20221013021614/getcopycontent zet/20221013021614/README.md
 - added tag features: quick tag add, del
 - added auto git add after enrich - no auto commit
 - added: copy anything in a code tag into tmux clipboard
+- added: spraytag and nuketag features - fzf menu to add/del a hashtag to multiple links out of current node
+  - TODO: filter out the ones that have it?
 - todo
-  - spraytag feature - fzf menu to add a hashtag to multiple links out of current node
-    - filter out the ones that have it?
+  - add images / "figures" with preview using tesseract to OCR
   - record sequences of actions as scripts
     - replay if they exist
     - show script in preview
