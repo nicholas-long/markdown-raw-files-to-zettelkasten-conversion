@@ -63,4 +63,4 @@ zet zettelkasten zsh
 
 Tags:
 
-    #todo #meta
+    #todo #meta #report #script #zet
