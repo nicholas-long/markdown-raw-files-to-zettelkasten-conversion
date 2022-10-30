@@ -70,9 +70,6 @@ this is a list of possibly empty zettels.
 - [20221003150545](/zet/20221003150545/README.md) simple binary exploits pattern offset finding #hacking #pwn #basic 
 - [20221003150548](/zet/20221003150548/README.md) simple binary exploits #hacking #pwn #basic 
 - [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell #command #hacking
-- [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion #hacking #type 
-- [20221003150575](/zet/20221003150575/README.md) php type juggling methodology #hacking #type #DEL
-- [20221003150576](/zet/20221003150576/README.md) php type juggling #hacking #type 
 - [20221003150584](/zet/20221003150584/README.md) php code convert human readable time to unix epoch timestamp #command #hacking #php 
 - [20221003150592](/zet/20221003150592/README.md) php #command #hacking #php 
 - [20221003150594](/zet/20221003150594/README.md) generating enumeration wordlists #command #hacking #enumeration 
@@ -326,9 +323,6 @@ this is a list of possibly empty zettels.
 - [20221003150594](/zet/20221003150594/README.md) generating enumeration wordlists
 - [20221003150592](/zet/20221003150592/README.md) php
 - [20221003150584](/zet/20221003150584/README.md) php code convert human readable time to unix epoch timestamp
-- [20221003150576](/zet/20221003150576/README.md) php type juggling
-- [20221003150575](/zet/20221003150575/README.md) php type juggling methodology
-- [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion
 - [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell
 - [20221003150548](/zet/20221003150548/README.md) simple binary exploits
 - [20221003150545](/zet/20221003150545/README.md) simple binary exploits pattern offset finding
