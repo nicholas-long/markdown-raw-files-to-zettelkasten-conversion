@@ -14,7 +14,6 @@ the concept of `docker`
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221009021452](/zet/20221009021452/README.md) container
-- [20221003151135](/zet/20221003151135/README.md) active directory  workflow for penetration test on windows network in organization
 - [20221003151083](/zet/20221003151083/README.md) establishing persistence on windows target in enterprise penetration test
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - [20221003151273](/zet/20221003151273/README.md) run container in background without exiting

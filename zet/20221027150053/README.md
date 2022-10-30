@@ -15,28 +15,6 @@
 
 ./graphquery --human id 20221009015558 refs not <( ./graphquery @docker )
 
-- [20221003150183](/zet/20221003150183/README.md) add user to docker group #linux #users 
-- [20221003150218](/zet/20221003150218/README.md) Connecting to confluent 
-- [20221003150551](/zet/20221003150551/README.md) linux 
-- [20221003150675](/zet/20221003150675/README.md) bloodhound run python version in docker with NTLM hashes instead of creds #command #hacking #bloodhound 
-- [20221003150676](/zet/20221003150676/README.md) bloodhound run python version in docker #command #hacking #bloodhound 
-- [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen #command #hacking #enumeration #tool #networking
-- [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker #hacking #privesc #run 
-- [20221003151083](/zet/20221003151083/README.md) establishing persistence on windows target in enterprise penetration test 
-- [20221003151135](/zet/20221003151135/README.md) active directory  workflow for penetration test on windows network in organization #hacking #windows #windows 
-- [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
-- [20221003151273](/zet/20221003151273/README.md) run container in background without exiting 
-- [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker #bash #script #trick #container #bruteforcing #command
-- [20221003151378](/zet/20221003151378/README.md) bash scripting build and run enum4linux-ng docker #bash #script #enumeration #util
-- [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker #bash #script #trick #container #graph
-- [20221003151391](/zet/20221003151391/README.md) bash scripting clone github repository and build docker image with its name #bash #script #container #trick
-- [20221006025356](/zet/20221006025356/README.md) linux #concept #hub #linux
-- [20221009021452](/zet/20221009021452/README.md) container #container #concept #hub
-- [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples #idea
-- [20221014081712](/zet/20221014081712/README.md) ways to get hacked #idea #info
-- [20221015004252](/zet/20221015004252/README.md) htb opensource machine #idea #boxes
-- [20221017070405](/zet/20221017070405/README.md) docker compose #concept #program
-
 --------------------------------------------------------------------------------
 # done
 --------------------------------------------------------------------------------
