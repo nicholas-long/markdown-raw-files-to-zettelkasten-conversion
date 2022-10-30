@@ -1,4 +1,4 @@
-# generate wordlists username anarchy, generate from lists of names, from country and locale output all formats generate common usernames for country and localization 
+# username anarchy generate by country
 ```bash
 ./username-anarchy -a -c us
 ```
@@ -17,4 +17,4 @@ Other: Facebook - uses the Facebook top 10,000 names - don't run this with all f
 
 Tags:
 
-    #hacking #repositories #important 
+    #hacking #repositories #important #command

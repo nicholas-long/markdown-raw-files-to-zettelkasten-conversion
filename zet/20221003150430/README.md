@@ -1,5 +1,6 @@
-# generate wordlists username anarchy, generate from lists of names, from country and locale output all formats
-by omitting format parameter
+# generate wordlists username anarchy, generate from lists of names, from country and locale 
+
+- output all formats by omitting format parameter
 ```bash
 ./username-anarchy -i test-names.txt
 ```
@@ -16,4 +17,4 @@ by omitting format parameter
 
 Tags:
 
-    #hacking #repositories #important 
+    #hacking #repositories #important #DEL

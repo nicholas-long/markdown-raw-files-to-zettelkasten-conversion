@@ -1,6 +1,15 @@
-# generate wordlists username anarchy, generate from lists of names, from country and locale
-https://github.com/urbanadventurer/username-anarchy
-list formats with `-l`.
+# username anarchy for account formats and common names
+
+- generate wordlists username anarchy
+  - generate from lists of names from country and locale
+  - https://github.com/urbanadventurer/username-anarchy
+
+- list formats with `-l`.
+- output all formats by omitting format parameter
+```bash
+./username-anarchy -i test-names.txt
+```
+
 
 ` zet/20221003150431/README.md `
 
@@ -11,7 +20,8 @@ list formats with `-l`.
 - [20221003150433](/zet/20221003150433/README.md) generate wordlists
 - [20221003150430](/zet/20221003150430/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale output all formats
 - ~/kb/hacking/misc/important-repositories-tools.md
+- https://github.com/urbanadventurer/username-anarchy
 
 Tags:
 
-    #hacking #repositories #important 
+    #hacking #important #tool #wordlist #username #repo
