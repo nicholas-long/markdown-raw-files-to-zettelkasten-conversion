@@ -20,3 +20,4 @@
 - [20221028032005](/zet/20221028032005/README.md) how to disable a card
 - [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
 - [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
+- [20221030010849](/zet/20221030010849/README.md) fix line lengths

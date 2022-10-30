@@ -429,4 +429,5 @@
 - [20221018174628](/zet/20221018174628/README.md) tar command
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands
 - [20221020000848](/zet/20221020000848/README.md) SSH
+- [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
 - [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed

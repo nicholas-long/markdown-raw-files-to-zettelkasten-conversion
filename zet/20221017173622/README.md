@@ -6,12 +6,7 @@
 #
 # unlabled scripts and commands and things 
 #
-- [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process #bash #zettelkasten 
-- [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion #zettelkasten #bash
-- [20221008052510](/zet/20221008052510/README.md) 80-20 rule #bash #awk #finding #interesting
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash #idea #bash
-- [20221025024238](/zet/20221025024238/README.md) enumerate tags #bash #sed
-- [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation #idea #bash
 - [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries #idea #bash #optimization
 
 --------------------------------------------------------------------------------

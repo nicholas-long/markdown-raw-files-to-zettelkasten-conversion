@@ -1,6 +1,7 @@
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
 - [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
+- [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
 - [20221010191246](/zet/20221010191246/README.md) problems discovered from obsidian node graph proving it is useful
 - [20221012135747](/zet/20221012135747/README.md) unix text editors
 - [20221014024704](/zet/20221014024704/README.md) list of sparse nodes

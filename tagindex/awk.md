@@ -23,9 +23,11 @@
 - [20221003151439](/zet/20221003151439/README.md) awk scripting base64 encode lines individually
 - [20221003151440](/zet/20221003151440/README.md) awk scripting replace words with colorized versions
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
+- [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
 - [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
 - [20221008052510](/zet/20221008052510/README.md) 80-20 rule
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221024070910](/zet/20221024070910/README.md) drop first column with awk
+- [20221025024238](/zet/20221025024238/README.md) enumerate tags
 - [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed

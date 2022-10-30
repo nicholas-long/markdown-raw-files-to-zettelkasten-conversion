@@ -89,6 +89,7 @@ stuff i am working on.
 - [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
 - [20221028200515](/zet/20221028200515/README.md) weird new issues with enrich and graph query
 - [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
+- [20221030010849](/zet/20221030010849/README.md) fix line lengths
 
 Tags:
 
