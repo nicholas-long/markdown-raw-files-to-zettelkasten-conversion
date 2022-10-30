@@ -88,6 +88,7 @@
 - [20221028194014](/zet/20221028194014/README.md) check header line lengths in script
 - [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
 - https://github.com/rwxrob/keg-spec
+- [20221030085217](/zet/20221030085217/README.md) rwxrob KEG book composition video 10-28
 
 Tags:
 
