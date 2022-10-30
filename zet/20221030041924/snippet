@@ -1,7 +1,7 @@
 #!/bin/bash
 
 highlevel=20221011182140 # high level machine overview from notes template
-for cardid in $(zet/20221014025416/tagboundary $highlevel notes); do
+for cardid in $(zet/20221014025416/tagboundary $highlevel template); do
   for refid in $(./zc refs $cardid); do
     echo "$cardid $refid"
   done
