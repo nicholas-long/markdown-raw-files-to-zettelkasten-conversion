@@ -1,1 +1,3 @@
+- [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately
+- [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control
 - [20221021071146](/zet/20221021071146/README.md) delete things marked as #DEL periodically

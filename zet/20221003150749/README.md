@@ -17,4 +17,4 @@ crackmapexec smb fqdn.domain.local -u User --kerberos
 
 Tags:
 
-    #command #hacking #windows #windows 
+    #command #hacking #windows

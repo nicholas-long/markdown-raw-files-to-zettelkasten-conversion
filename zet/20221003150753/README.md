@@ -16,4 +16,4 @@ https://github.com/ropnop/kerbrute
 
 Tags:
 
-    #command #hacking #windows #windows 
+    #command #hacking #windows

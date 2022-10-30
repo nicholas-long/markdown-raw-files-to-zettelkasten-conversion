@@ -380,6 +380,7 @@
 - [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
 - [20221003151267](/zet/20221003151267/README.md) fzf
 - [20221003151268](/zet/20221003151268/README.md) Lookup missing packages with command-not-found
+- [20221003151272](/zet/20221003151272/README.md) docker compose aliases for convenience
 - [20221003151276](/zet/20221003151276/README.md) linux data science issues
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities
 - [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub

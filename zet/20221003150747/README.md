@@ -19,4 +19,4 @@ export KRB5CCNAME=$(pwd)/Administrator.ccache
 
 Tags:
 
-    #command #hacking #windows #windows 
+    #command #hacking #windows

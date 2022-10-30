@@ -12,4 +12,4 @@ protects user by only opening executables if they are signed.
 
 Tags:
 
-    #hacking #trick #windows #windows 
+    #hacking #trick #windows

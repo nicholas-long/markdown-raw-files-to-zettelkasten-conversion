@@ -14,68 +14,8 @@
 # have duplicate tags
 #
 
-# #docker
-- [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately #docker #docker 
-- [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control #docker #docker 
-
-# #file
-- [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write #hacking #sqli #file #database #file #trick
-
-# #shell
-- [20221003150090](/zet/20221003150090/README.md) bash scripts sh run docker catch rev shell #shell #docker #shell #test
-
 # #todo
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically #todo #todo #enhancement
-
-# #windows
-- [20221003150746](/zet/20221003150746/README.md) impacket kerberos commands wmiexec #command #hacking #windows #windows 
-- [20221003150747](/zet/20221003150747/README.md) impacket kerberos commands ticket environment variable KRB5CCNAME #command #hacking #windows #windows 
-- [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands #command #hacking #windows #windows 
-- [20221003150749](/zet/20221003150749/README.md) crackmapexec kerberos authentication with ticket include ticket environment variable #command #hacking #windows #windows 
-- [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket #command #hacking #windows #windows 
-- [20221003150751](/zet/20221003150751/README.md) kerbrute password spray users from user list file #command #hacking #windows #windows 
-- [20221003150752](/zet/20221003150752/README.md) kerbrute enumerate users using wordlist #command #hacking #windows #windows 
-- [20221003150753](/zet/20221003150753/README.md) kerbrute #command #hacking #windows #windows 
-- [20221003151033](/zet/20221003151033/README.md) applocker limit allowed executables and allowed paths bypass executable blocking #hacking #windows #windows 
-- [20221003151034](/zet/20221003151034/README.md) applocker limit allowed executables and allowed paths #hacking #windows #windows 
-- [20221003151038](/zet/20221003151038/README.md) dumping credentials as admin in remote desktop RDP or GUI #hacking #windows #windows 
-- [20221003151042](/zet/20221003151042/README.md) windows alternate data streams commands displaying content with powershell #hacking #windows #windows 
-- [20221003151043](/zet/20221003151043/README.md) windows alternate data streams commands creating alt streams #hacking #windows #windows 
-- [20221003151044](/zet/20221003151044/README.md) windows alternate data streams commands enumerate directory for alt streams #hacking #windows #windows 
-- [20221003151045](/zet/20221003151045/README.md) windows alternate data streams commands #hacking #windows #windows 
-- [20221003151046](/zet/20221003151046/README.md) windows reverse shell AV bypass defender #hacking #windows #windows 
-- [20221003151047](/zet/20221003151047/README.md) windows reverse shell AV bypass active directory endpoint protection #hacking #windows #windows 
-- [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass #hacking #windows #windows 
-- [20221003151049](/zet/20221003151049/README.md) change user password powershell or dos #hacking #windows #windows 
-- [20221003151050](/zet/20221003151050/README.md) change user password #hacking #windows #windows 
-- [20221003151084](/zet/20221003151084/README.md) windows sensitive file disclosure cheat sheet determine version #hacking #windows #windows 
-- [20221003151098](/zet/20221003151098/README.md) powershell commands execute encoded command as quietly as possible #hacking #windows #windows 
-- [20221003151099](/zet/20221003151099/README.md) powershell commands encoded command nop bypass hidden #hacking #windows #windows 
-- [20221003151100](/zet/20221003151100/README.md) powershell commands download and execute script #hacking #windows #windows 
-- [20221003151101](/zet/20221003151101/README.md) powershell commands #hacking #windows #windows 
-- [20221003151102](/zet/20221003151102/README.md) DOS commands download file from http #hacking #windows #windows 
-- [20221003151125](/zet/20221003151125/README.md) active directory  delegation constrained #hacking #windows #windows 
-- [20221003151126](/zet/20221003151126/README.md) active directory  delegation unconstrained #hacking #windows #windows 
-- [20221003151127](/zet/20221003151127/README.md) active directory  delegation #hacking #windows #windows 
-- [20221003151128](/zet/20221003151128/README.md) active directory  DNS adding DNS records #hacking #windows #windows 
-- [20221003151129](/zet/20221003151129/README.md) active directory  DNS #hacking #windows #windows #hub #ad
-- [20221003151130](/zet/20221003151130/README.md) active directory  change user password with rpcclient over SMB  #hacking #windows #windows 
-- [20221003151131](/zet/20221003151131/README.md) active directory  GMSA group managed service account remote LDAP read GMSA passwords python script fix missing ConvertFrom-AdManagedPasswordBlob #hacking #windows #windows 
-- [20221003151132](/zet/20221003151132/README.md) active directory  GMSA group managed service account remote LDAP read GMSA passwords python script #hacking #windows #windows 
-- [20221003151133](/zet/20221003151133/README.md) active directory  GMSA group managed service account read NTLM hash with powershell + python #hacking #windows #windows 
-- [20221003151134](/zet/20221003151134/README.md) active directory  GMSA group managed service account #hacking #windows #windows 
-- [20221003151136](/zet/20221003151136/README.md) active directory  mindset and methodology #hacking #windows #windows 
-- [20221003151138](/zet/20221003151138/README.md) active directory  Backup Operators group #hacking #windows #windows 
-- [20221003151139](/zet/20221003151139/README.md) active directory  ForceChangePassword change user password #hacking #windows #windows 
-- [20221003151140](/zet/20221003151140/README.md) active directory  NTLMv2 vs kerberos authentication on the network #hacking #windows #windows 
-- [20221003151141](/zet/20221003151141/README.md) active directory  exploiting permissions GenericAll #hacking #windows #windows 
-- [20221003151142](/zet/20221003151142/README.md) active directory  exploiting permissions WriteDacl #hacking #windows #windows 
-- [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions #hacking #windows #windows 
-- [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits #to-try-list #hacking #privesc #windows #windows 
-- [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits #to-try-list #hacking #privesc #windows #windows 
-- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation #to-try-list #hacking #privesc #windows #windows 
-- [20221003151262](/zet/20221003151262/README.md) windows executable smartscreen protection bypass ( apt 29 ) #hacking #trick #windows #windows 
-- [20221003151263](/zet/20221003151263/README.md) windows executable smartscreen protection #hacking #trick #windows #windows 
 
 # `
 - [20221005194814](/zet/20221005194814/README.md) Related ` zet/20221005194814/README.md `
@@ -187,7 +127,6 @@
 - [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions 
 - [20221003151260](/zet/20221003151260/README.md) run windows exploit on linux using wine 
 - [20221003151261](/zet/20221003151261/README.md) build windows exploit on linux using mingw 
-- [20221003151272](/zet/20221003151272/README.md) docker compose aliases for convenience 
 - [20221003151274](/zet/20221003151274/README.md) install mandown 
 - [20221003151275](/zet/20221003151275/README.md) install docker compose cli extension 
 - [20221003151300](/zet/20221003151300/README.md) drop newlines from stream with tr 

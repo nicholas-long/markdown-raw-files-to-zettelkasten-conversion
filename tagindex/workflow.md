@@ -1,4 +1,5 @@
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
+- [20221003151272](/zet/20221003151272/README.md) docker compose aliases for convenience
 - [20221003151407](/zet/20221003151407/README.md) bash scripting pull all the git repos in home directory
 - [20221006204315](/zet/20221006204315/README.md) fastest way to take graph notes
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines

@@ -13,4 +13,4 @@ try removing "PS" and path from prompt
 
 Tags:
 
-    #hacking #windows #windows 
+    #hacking #windows

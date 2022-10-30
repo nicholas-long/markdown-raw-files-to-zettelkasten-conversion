@@ -17,4 +17,4 @@ kerbrute userenum --dc $IP -d DOMAIN.local $FILE
 
 Tags:
 
-    #command #hacking #windows #windows 
+    #command #hacking #windows

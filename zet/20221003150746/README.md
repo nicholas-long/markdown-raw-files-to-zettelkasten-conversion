@@ -17,4 +17,4 @@ impacket-wmiexec -k -no-pass domain.local/Administrator@fqdn.domain.local
 
 Tags:
 
-    #command #hacking #windows #windows 
+    #command #hacking #windows

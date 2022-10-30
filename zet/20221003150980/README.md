@@ -19,4 +19,4 @@ at the end of the query
 
 Tags:
 
-    #hacking #sqli #file #database #file #trick
+    #hacking #sqli #database #file #trick

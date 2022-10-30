@@ -101,7 +101,7 @@ this is a list of possibly empty zettels.
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump #command #hacking #packet 
 - [20221003150720](/zet/20221003150720/README.md) curl #command #hacking #curl 
 - [20221003150730](/zet/20221003150730/README.md) powershell #command #hacking #windows #encode 
-- [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket #command #hacking #windows #windows 
+- [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket #command #hacking #windows
 - [20221003150755](/zet/20221003150755/README.md) keytool #command #hacking #keytool 
 - [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks #command #hacking #msfvenom 
 - [20221003150765](/zet/20221003150765/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) #command #hacking #msfvenom 
@@ -142,13 +142,13 @@ this is a list of possibly empty zettels.
 - [20221003151008](/zet/20221003151008/README.md) LFI or directory traversal procedures file wordlists #hacking #lfi 
 - [20221003151010](/zet/20221003151010/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl  #hacking #lfi 
 - [20221003151028](/zet/20221003151028/README.md) decrypt azure AD connect passwords #hacking #windows #decrypt 
-- [20221003151034](/zet/20221003151034/README.md) applocker limit allowed executables and allowed paths #hacking #windows #windows 
+- [20221003151034](/zet/20221003151034/README.md) applocker limit allowed executables and allowed paths #hacking #windows
 - [20221003151037](/zet/20221003151037/README.md) program files ruxim directory 
 - [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin #hacking #windows #trick #post
-- [20221003151045](/zet/20221003151045/README.md) windows alternate data streams commands #hacking #windows #windows 
-- [20221003151047](/zet/20221003151047/README.md) windows reverse shell AV bypass active directory endpoint protection #hacking #windows #windows 
-- [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass #hacking #windows #windows 
-- [20221003151050](/zet/20221003151050/README.md) change user password #hacking #windows #windows 
+- [20221003151045](/zet/20221003151045/README.md) windows alternate data streams commands #hacking #windows
+- [20221003151047](/zet/20221003151047/README.md) windows reverse shell AV bypass active directory endpoint protection #hacking #windows
+- [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass #hacking #windows
+- [20221003151050](/zet/20221003151050/README.md) change user password #hacking #windows
 - [20221003151052](/zet/20221003151052/README.md) check network time offset with network time protocol NTP server on windows AD kerberos 
 - [20221003151057](/zet/20221003151057/README.md) get windows enumeration info from file read 
 - [20221003151066](/zet/20221003151066/README.md) AMSI detect windows defender #hacking #windows
@@ -158,14 +158,14 @@ this is a list of possibly empty zettels.
 - [20221003151073](/zet/20221003151073/README.md) windows color script output #hacking #windows #enumeration 
 - [20221003151089](/zet/20221003151089/README.md) mimikatz #hacking #windows #mimikatz 
 - [20221003151094](/zet/20221003151094/README.md) windows API #hacking #windows #enable 
-- [20221003151099](/zet/20221003151099/README.md) powershell commands encoded command nop bypass hidden #hacking #windows #windows 
-- [20221003151101](/zet/20221003151101/README.md) powershell commands #hacking #windows #windows 
+- [20221003151099](/zet/20221003151099/README.md) powershell commands encoded command nop bypass hidden #hacking #windows
+- [20221003151101](/zet/20221003151101/README.md) powershell commands #hacking #windows
 - [20221003151108](/zet/20221003151108/README.md) dos commands net #hacking #windows #dos 
 - [20221003151110](/zet/20221003151110/README.md) dos commands admin / system #hacking #windows #dos 
 - [20221003151115](/zet/20221003151115/README.md) dos commands services sc #hacking #windows #dos 
 - [20221003151124](/zet/20221003151124/README.md) dos commands #hacking #windows #dos #command
-- [20221003151126](/zet/20221003151126/README.md) active directory  delegation unconstrained #hacking #windows #windows 
-- [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions #hacking #windows #windows 
+- [20221003151126](/zet/20221003151126/README.md) active directory  delegation unconstrained #hacking #windows
+- [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions #hacking #windows
 - [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec #hacking #windows #ad 
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 

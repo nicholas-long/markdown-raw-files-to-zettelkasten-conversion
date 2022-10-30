@@ -22,4 +22,4 @@ python gMSADumper.py -k -d domain.local -l dc01.domain.local
 
 Tags:
 
-    #hacking #windows #windows 
+    #hacking #windows

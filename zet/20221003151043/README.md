@@ -13,4 +13,4 @@ echo <YOUR DATA> > filename.txt:streamname.txt
 
 Tags:
 
-    #hacking #windows #windows 
+    #hacking #windows

@@ -14,4 +14,4 @@ Get-Content -Stream Zone.Identifier $filename
 
 Tags:
 
-    #hacking #windows #windows 
+    #hacking #windows
