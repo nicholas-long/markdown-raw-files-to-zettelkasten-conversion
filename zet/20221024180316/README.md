@@ -30,15 +30,10 @@
 # have no tags
 #
 - [20221003150098](/zet/20221003150098/README.md) todo 
-- [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty 
 - [20221003150177](/zet/20221003150177/README.md) notes 
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send 
 - [20221003150198](/zet/20221003150198/README.md) control key mappings for sh 
-- [20221003150202](/zet/20221003150202/README.md) fix grub not showing windows partition 
-- [20221003150219](/zet/20221003150219/README.md) MSI motherboard error codes 
-- [20221003150222](/zet/20221003150222/README.md) change interface mac address 
 - [20221003150243](/zet/20221003150243/README.md) jekyll blog markdown to html 
-- [20221003150253](/zet/20221003150253/README.md) PXE boot 
 - [20221003150255](/zet/20221003150255/README.md) solidity 
 - [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key 
 - [20221003150290](/zet/20221003150290/README.md) Potentially risky HTTP methods: TRACE 
