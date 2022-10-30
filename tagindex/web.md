@@ -36,3 +36,4 @@
 - [20221008221822](/zet/20221008221822/README.md) www - the web
 - [20221011075934](/zet/20221011075934/README.md) configure and run lynx with vi mode hotkeys
 - [20221015005535](/zet/20221015005535/README.md) werkzeug
+- [20221030182245](/zet/20221030182245/README.md) SVG security issues

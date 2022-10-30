@@ -45,3 +45,4 @@
 - [20221022210052](/zet/20221022210052/README.md) file type reference
 - [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed
 - [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
+- [20221030182245](/zet/20221030182245/README.md) SVG security issues
