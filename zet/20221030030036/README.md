@@ -17,6 +17,8 @@
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
 - https://github.com/nicholas-long/pen-test-environ
+- [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

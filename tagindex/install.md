@@ -9,3 +9,4 @@
 - [20221003151317](/zet/20221003151317/README.md) bash parse xml cli with xpath using xpup
 - [20221003151366](/zet/20221003151366/README.md) bash scripting install vscode
 - [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext
+- [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet

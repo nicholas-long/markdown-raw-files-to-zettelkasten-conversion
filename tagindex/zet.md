@@ -7,3 +7,4 @@
 - [20221028032005](/zet/20221028032005/README.md) how to disable a card
 - [20221028173620](/zet/20221028173620/README.md) yq binaries
 - [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
+- [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet

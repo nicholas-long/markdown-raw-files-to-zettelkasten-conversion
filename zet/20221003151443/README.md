@@ -361,6 +361,7 @@ zet/20221014150222/kb_references
 - [20221024131549](/zet/20221024131549/README.md) buzzwords and acronyms hub
 - https://github.com/nicholas-long/pen-test-environ
 - [20221027134758](/zet/20221027134758/README.md) tag kb imported files
+- [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet
 
 Tags:
 

@@ -432,3 +432,4 @@
 - [20221020000848](/zet/20221020000848/README.md) SSH
 - [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
 - [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed
+- [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet

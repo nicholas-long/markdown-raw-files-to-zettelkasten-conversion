@@ -14,6 +14,7 @@
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept
+- [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet
 
 Tags:
 

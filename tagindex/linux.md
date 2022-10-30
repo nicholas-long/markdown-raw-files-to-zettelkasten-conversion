@@ -100,3 +100,4 @@
 - [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video
 - [20221017154727](/zet/20221017154727/README.md) xterm
 - [20221018174628](/zet/20221018174628/README.md) tar command
+- [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet

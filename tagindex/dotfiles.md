@@ -1,2 +1,3 @@
 - [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
 - [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
+- [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet
