@@ -18,4 +18,4 @@ ln -s zet/20221027011800/zetwrap zetcli
 
 Tags:
 
-    #idea #bash
+    #idea #bash #command #program #filesystem

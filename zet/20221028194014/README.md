@@ -182,6 +182,7 @@
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 - [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
+- [20221030010849](/zet/20221030010849/README.md) fix line lengths
 
 Tags:
 

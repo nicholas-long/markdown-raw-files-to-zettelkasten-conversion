@@ -27,4 +27,4 @@
 
 Tags:
 
-    #bash #zettelkasten 
+    #bash #zettelkasten #awk #script

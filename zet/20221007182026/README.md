@@ -20,4 +20,4 @@
 
 Tags:
 
-    #zettelkasten #bash
+    #zettelkasten #bash #script #list
