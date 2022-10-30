@@ -45,6 +45,7 @@ zet/20221012171100/README.md
 - [20221030010849](/zet/20221030010849/README.md) fix line lengths
 - [20221030022644](/zet/20221030022644/README.md) collector fallacy in my note-taking
 - [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet
+- [20221030034049](/zet/20221030034049/README.md) github markdown render javascript = bugs?
 
 Tags:
 
