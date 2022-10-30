@@ -3,7 +3,7 @@
 - concept of `how many cards you got now`
 
 ```
-2291
+2292
 ```
 
 ` zet/20221028033132/README.md `

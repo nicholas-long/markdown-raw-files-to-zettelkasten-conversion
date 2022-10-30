@@ -27,6 +27,7 @@ hello world again!
 - [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
 - [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
 - [20221028194014](/zet/20221028194014/README.md) check header line lengths in script
+- [20221030041924](/zet/20221030041924/README.md) generate mermaid graph from set of zet cards
 
 Tags:
 
