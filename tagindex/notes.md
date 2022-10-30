@@ -42,3 +42,4 @@
 - [20221015065151](/zet/20221015065151/README.md) terminal color escape sequences and ncurses python video
 - [20221020193850](/zet/20221020193850/README.md) what is knowledge management
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
+- [20221030022644](/zet/20221030022644/README.md) collector fallacy in my note-taking

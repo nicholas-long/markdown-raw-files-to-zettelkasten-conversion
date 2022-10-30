@@ -105,7 +105,7 @@ usage: fzf [options]
 - [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf
 - [20221003151267](/zet/20221003151267/README.md) fzf
 - ~/kb/fzf-fuzzy-find/help.md
-- [20221030022644](/zet/20221030022644/README.md) collector fallacy
+- [20221030022644](/zet/20221030022644/README.md) collector fallacy in my note-taking
 
 Tags:
 

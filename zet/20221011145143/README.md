@@ -19,6 +19,7 @@
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221009172351](/zet/20221009172351/README.md) markdown file format
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
+- [20221003151267](/zet/20221003151267/README.md) fzf
 
 Tags:
 

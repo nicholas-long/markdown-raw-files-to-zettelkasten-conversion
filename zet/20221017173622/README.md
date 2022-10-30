@@ -6,6 +6,7 @@
 #
 # unlabled scripts and commands and things 
 #
+- [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf #idea #workflow #fzf-fuzzy-find #tui #bash #awk
 - [20221018050302](/zet/20221018050302/README.md) use function keys or special keybindings in bash #idea #bash
 - [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries #idea #bash #optimization
 
@@ -15,6 +16,7 @@
 # tags
 #
 ARCHIVE
+DEL
 ad administration ai analysis ansible api apk apt arg automation av awk
 base64 bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
 c-language c2 calling capabilities cert cleanup cms coding command company concept config container convert copy crack creds crypto ctf curl cyberpunk

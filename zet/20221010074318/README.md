@@ -29,6 +29,7 @@ something i've been thinking about this year.
 - [20221003150177](/zet/20221003150177/README.md) notes
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221003151267](/zet/20221003151267/README.md) fzf
+- [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf
 
 Tags:
 

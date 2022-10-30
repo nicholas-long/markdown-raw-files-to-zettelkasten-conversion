@@ -22,6 +22,7 @@
 - [20221003150937](/zet/20221003150937/README.md) fail2ban
 - [20221003150977](/zet/20221003150977/README.md) oracle connect as sysdba enable file read privileges
 - [20221003150978](/zet/20221003150978/README.md) oracle
+- [20221003151267](/zet/20221003151267/README.md) fzf
 - [20221003151273](/zet/20221003151273/README.md) run docker in background without exiting
 - [20221003151309](/zet/20221003151309/README.md) expect scripts
 - [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext

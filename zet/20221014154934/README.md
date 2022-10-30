@@ -24,6 +24,7 @@
 - [20221003150079](/zet/20221003150079/README.md) tmux program
 - [20221003150075](/zet/20221003150075/README.md) tmux tricks
 - [20221003150067](/zet/20221003150067/README.md) vim
+- [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf
 
 Tags:
 

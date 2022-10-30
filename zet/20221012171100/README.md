@@ -14,8 +14,6 @@ zet/20221012171100/README.md
 - [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
 - [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
 - [20221028173620](/zet/20221028173620/README.md) yq binaries
-- [20221025221046](/zet/20221025221046/README.md) worst tier of AV
-- [20221025221321](/zet/20221025221321/README.md) B-tier of AV
 - [20221026060602](/zet/20221026060602/README.md) remove dependency on lazygit
 - [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4
 - [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
@@ -45,6 +43,7 @@ zet/20221012171100/README.md
 - [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
 - [20221028200515](/zet/20221028200515/README.md) weird new issues with enrich and graph query
 - [20221030010849](/zet/20221030010849/README.md) fix line lengths
+- [20221030022644](/zet/20221030022644/README.md) collector fallacy in my note-taking
 
 Tags:
 

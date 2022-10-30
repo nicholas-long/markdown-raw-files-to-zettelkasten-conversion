@@ -29,7 +29,7 @@
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
-- [20221009162538](/zet/20221009162538/README.md) add menu
+- [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003150067](/zet/20221003150067/README.md) vim

@@ -25,10 +25,8 @@ this is a list of possibly empty zettels.
 5	- [20221003151343](/zet/20221003151343/README.md) convert decimal to hex #convert #awk #scripting
 5	- [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf #bash #script 
 7	- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project #zettelkasten #project 
-2	- [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
 4	- [20221007062330](/zet/20221007062330/README.md) broken stuff to fix #todo #broken #error 
 4	- [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process #broken
-6	- [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet #meta
 2250	- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries #idea
 
 #
@@ -52,7 +50,6 @@ this is a list of possibly empty zettels.
 - [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI #hacking #tools 
 - [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry #hacking #trick #powershell 
 - [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user #hacking #trick #powershell 
-- [20221003150476](/zet/20221003150476/README.md) powershell tricks #hacking #trick #powershell 
 - [20221003150483](/zet/20221003150483/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip #command #hacking #powershell 
 - [20221003150488](/zet/20221003150488/README.md) active directory #command #hacking #powershell 
 - [20221003150490](/zet/20221003150490/README.md) html template upload file #hacking #html.templates 
@@ -63,7 +60,6 @@ this is a list of possibly empty zettels.
 - [20221003150509](/zet/20221003150509/README.md) python pwn tricks #hacking #trick #pwn #python 
 - [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths #hacking #trick #pwn #tricks 
 - [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks #hacking #trick #pwn #tricks 
-- [20221003150517](/zet/20221003150517/README.md) binary analysis #hacking #pwn #binary #concept #hub #skill
 - [20221003150522](/zet/20221003150522/README.md) calling conventions #hacking #pwn #calling 
 - [20221003150525](/zet/20221003150525/README.md) make executable binary with input shellcode #hacking #pwn #shellcode 
 - [20221003150529](/zet/20221003150529/README.md) gdb commands #command #hacking #pwn #gdb 
@@ -117,7 +113,6 @@ this is a list of possibly empty zettels.
 - [20221003150775](/zet/20221003150775/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) #command #hacking #msfvenom 
 - [20221003150776](/zet/20221003150776/README.md) MSFVENOM Windows Binary (.exe) executable #command #hacking #msfvenom 
 - [20221003150777](/zet/20221003150777/README.md) MSFVENOM #command #hacking #msfvenom 
-- [20221003150780](/zet/20221003150780/README.md) crowbar #command #hacking #program #bruteforcing #hub
 - [20221003150791](/zet/20221003150791/README.md) openssl #command #hacking #openssl 
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file #command #hacking #generate 
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist #command #hacking #generate 
@@ -174,9 +169,7 @@ this is a list of possibly empty zettels.
 - [20221003151124](/zet/20221003151124/README.md) dos commands #hacking #windows #dos #command
 - [20221003151126](/zet/20221003151126/README.md) active directory  delegation unconstrained #hacking #windows #windows 
 - [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions #hacking #windows #windows 
-- [20221003151144](/zet/20221003151144/README.md) active directory #hacking #windows #hub #concept
 - [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec #hacking #windows #ad 
-- [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003 #hacking #windows #xp #hub
 - [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
 - [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
 - [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads #hacking #trick #malicious 
@@ -186,7 +179,6 @@ this is a list of possibly empty zettels.
 - [20221003151254](/zet/20221003151254/README.md) run executable binary programs within process memory windows #hacking #trick #run 
 - [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux #hacking #trick #run 
 - [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory #hacking #trick #run 
-- [20221003151267](/zet/20221003151267/README.md) fzf #fzf-fuzzy-find #help 
 - [20221003151280](/zet/20221003151280/README.md) YAML parsing #yaml #data #pipelines
 - [20221003151281](/zet/20221003151281/README.md) YAML #yaml #data #pipelines
 - [20221003151286](/zet/20221003151286/README.md) postgres #postgres #data #pipelines

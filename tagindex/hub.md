@@ -4,6 +4,7 @@
 - [20221003150341](/zet/20221003150341/README.md) cms database creds config locations
 - [20221003150350](/zet/20221003150350/README.md) troubleshooting fix error
 - [20221003150465](/zet/20221003150465/README.md) powershell PSCredential password
+- [20221003150476](/zet/20221003150476/README.md) powershell tricks
 - [20221003150517](/zet/20221003150517/README.md) binary analysis
 - [20221003150677](/zet/20221003150677/README.md) bloodhound
 - [20221003150780](/zet/20221003150780/README.md) crowbar
@@ -12,6 +13,7 @@
 - [20221003151144](/zet/20221003151144/README.md) active directory
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
 - [20221003151153](/zet/20221003151153/README.md) windows
+- [20221003151267](/zet/20221003151267/README.md) fzf
 - [20221003151306](/zet/20221003151306/README.md) bash scripting set operations
 - [20221003151309](/zet/20221003151309/README.md) expect scripts
 - [20221003151318](/zet/20221003151318/README.md) bash parse xml cli

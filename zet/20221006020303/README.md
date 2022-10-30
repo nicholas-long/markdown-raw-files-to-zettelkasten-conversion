@@ -45,6 +45,7 @@
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221009183745](/zet/20221009183745/README.md) TODO: categorize github knowledge bases by attaching graph nodes
 - https://www.youtube.com/watch?v=UaoWblf7cPo
+- [20221030022644](/zet/20221030022644/README.md) collector fallacy in my note-taking
 
 Tags:
 

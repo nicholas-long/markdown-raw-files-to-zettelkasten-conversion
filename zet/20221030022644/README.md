@@ -17,6 +17,7 @@ Finding something interesting isn't the same as knowing something and being able
 - [20221014191506](/zet/20221014191506/README.md) associate kb cards with converted cards
 - <https://observer.com/2017/05/the-collectors-fallacy-why-we-gather-things-we-dont-need/#:~:text=%E2%80%9CResearch%20is%20addictive%2C%20because%20it,call%20this%20the%20Collector's%20Fallacy.%E2%80%9D>
 - [20221008042814](/zet/20221008042814/README.md) WIP
+- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

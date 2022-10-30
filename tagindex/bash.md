@@ -127,6 +127,7 @@
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221008182309](/zet/20221008182309/README.md) learning git internals
+- [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221016202237](/zet/20221016202237/README.md) script to insert snippets into cards from file content

@@ -28,6 +28,7 @@
 - [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
 - [20221008052510](/zet/20221008052510/README.md) 80-20 rule
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
+- [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf
 - [20221024070910](/zet/20221024070910/README.md) drop first column with awk
 - [20221025024238](/zet/20221025024238/README.md) enumerate tags
 - [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed

@@ -121,7 +121,7 @@ Options:
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`
 - [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
-- [20221009162538](/zet/20221009162538/README.md) add menu
+- [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221009091132](/zet/20221009091132/README.md) new links should come in at the bottom
 - [20221008210746](/zet/20221008210746/README.md) use title of zettel as fzf prompt

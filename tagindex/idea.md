@@ -18,7 +18,7 @@
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221009102918](/zet/20221009102918/README.md) get titles in tag links
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
-- [20221009162538](/zet/20221009162538/README.md) add menu
+- [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf
 - [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles
 - [20221009171616](/zet/20221009171616/README.md) converting markdown formats with `[[links]]`
 - [20221009183745](/zet/20221009183745/README.md) TODO: categorize github knowledge bases by attaching graph nodes
@@ -522,3 +522,4 @@
 - [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
 - [20221028200515](/zet/20221028200515/README.md) weird new issues with enrich and graph query
 - [20221030010849](/zet/20221030010849/README.md) fix line lengths
+- [20221030022644](/zet/20221030022644/README.md) collector fallacy in my note-taking

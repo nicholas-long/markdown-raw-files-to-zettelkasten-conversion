@@ -90,6 +90,7 @@ stuff i am working on.
 - [20221028200515](/zet/20221028200515/README.md) weird new issues with enrich and graph query
 - [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
 - [20221030010849](/zet/20221030010849/README.md) fix line lengths
+- [20221030022644](/zet/20221030022644/README.md) collector fallacy in my note-taking
 
 Tags:
 

@@ -33,3 +33,4 @@
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
 - [20221022210052](/zet/20221022210052/README.md) file type reference
 - [20221028032005](/zet/20221028032005/README.md) how to disable a card
+- [20221030022644](/zet/20221030022644/README.md) collector fallacy in my note-taking

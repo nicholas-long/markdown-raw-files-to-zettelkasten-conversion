@@ -16,9 +16,10 @@
 56 zet/20221026181955/snippet zet/20221023085822/walkquery --human @to-try-list refs \
 46 zet/20221017173622/snippet ./graphquery '@done' '@hub' refs > $donethings
 44 zet/20221017173622/snippet   or <( ./graphquery id $bashtricks refs ) \
-43 zet/20221005200242/snippet for id in $(./graphquery id $MYID refs); do
+44 zet/20221005200242/snippet     not <( ./graphquery taglist 'meta,hub' )
 40 zet/20221026181955/snippet   not <( ./graphquery id $KB_ID refs ) \
 37 zet/20221017173622/snippet ./graphquery --human taglist 'bash' \
+30 zet/20221005200242/snippet   ./graphquery id $MYID refs \
 ```
 
 ` zet/20221028014614/README.md `

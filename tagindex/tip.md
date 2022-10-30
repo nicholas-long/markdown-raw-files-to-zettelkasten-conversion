@@ -24,3 +24,4 @@
 - [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux
 - [20221020183231](/zet/20221020183231/README.md) how to get titles to show up in obsidian graph
 - [20221024082446](/zet/20221024082446/README.md) tmux join-pane move window back into pane
+- [20221030022644](/zet/20221030022644/README.md) collector fallacy in my note-taking
