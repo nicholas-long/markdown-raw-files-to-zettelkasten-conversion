@@ -1,2 +1,4 @@
+- [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion
+- [20221003150574](/zet/20221003150574/README.md) php type juggling methodology http post data
 - [20221003150575](/zet/20221003150575/README.md) php type juggling methodology
 - [20221003151265](/zet/20221003151265/README.md) fzf install

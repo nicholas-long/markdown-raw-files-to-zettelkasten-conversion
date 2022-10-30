@@ -17,7 +17,6 @@
 - [20221014185958](/zet/20221014185958/README.md) kb file named kb/hacking/php/type-juggling.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - ~/kb/hacking/php/type-juggling.md
-- [20221008042814](/zet/20221008042814/README.md) WIP
 
 Tags:
 

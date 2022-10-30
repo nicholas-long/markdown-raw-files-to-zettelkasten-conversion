@@ -70,6 +70,7 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221003151166](/zet/20221003151166/README.md) got access to docker repository
+- [20221003150576](/zet/20221003150576/README.md) php type juggling
 
 Tags:
 

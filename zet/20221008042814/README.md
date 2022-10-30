@@ -89,7 +89,6 @@ stuff i am working on.
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
-- [20221003150576](/zet/20221003150576/README.md) php type juggling
 - [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
 - [20221028200515](/zet/20221028200515/README.md) weird new issues with enrich and graph query
 
