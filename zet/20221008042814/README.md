@@ -6,6 +6,11 @@ stuff i am working on.
 
 # Related
 
+- [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
+- [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
+- [20221030010849](/zet/20221030010849/README.md) fix line lengths
+- [20221030022644](/zet/20221030022644/README.md) collector fallacy in my note-taking
+- [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet
 - [20221027150053](/zet/20221027150053/README.md) cleanup fix and consolidate tags
 - [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
@@ -85,14 +90,8 @@ stuff i am working on.
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
-- [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
 - [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
 - [20221028200515](/zet/20221028200515/README.md) weird new issues with enrich and graph query
-- [20221020185927](/zet/20221020185927/README.md) bring in scripts from kb and update paths
-- [20221030010849](/zet/20221030010849/README.md) fix line lengths
-- [20221030022644](/zet/20221030022644/README.md) collector fallacy in my note-taking
-- [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet
-- [20221030041924](/zet/20221030041924/README.md) generate mermaid graph from set of zet cards
 
 Tags:
 

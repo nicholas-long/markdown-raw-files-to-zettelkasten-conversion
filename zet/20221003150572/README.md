@@ -1,5 +1,6 @@
-# php type juggling string and number exponent type confusion vulnerable hash prefix `0e` md5 sha1
-`0e`
+# php type juggling string and number exponent type confusion
+
+- vulnerable hash prefix `0e` md5 sha1
 specific password payloads that generate md5 hashes are in payloadsallthethings "Type Juggling"
 ```bash
 $ echo -n 240610708 | md5sum
@@ -17,7 +18,9 @@ $ echo -n aabg7XSs | md5sum
 - [20221014185958](/zet/20221014185958/README.md) kb file named kb/hacking/php/type-juggling.md
 - [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion
 - ~/kb/hacking/php/type-juggling.md
+- [20221003151021](/zet/20221003151021/README.md) analyzing source code PHP code
+- [20221003150576](/zet/20221003150576/README.md) php type juggling
 
 Tags:
 
-    #hacking #type 
+    #hacking #type #php

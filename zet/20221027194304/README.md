@@ -37,6 +37,8 @@
 - "you need a data.yaml" file for a data node
   - titles from nodes?
 - do not want to support yaml tagging, but need to?
+- systems involving permanently linked hashes and updating links are overly complicated
+  - also git already does that
 - 9:44 reserving elements in yaml schema
 - `KEG:` should be reserved in yaml
 - 10:00 link to searches on other people's content instead of specific links...
@@ -45,10 +47,23 @@
   - seems counterintuitive, but you almost always don't want to go to a specific knowledge node somewhere
     - good example: when you are searching and come across dead old website forum post from 17 years ago - xkcd comic
   - but some things like videos have semi permanent guids? specific videos should have links?
+  - information getting changed
+    - git: it is possible to link to a specific commit ID on github, so could specify version of knowledge it is from...?
 - liked gopher?
 - "note set"
 - concept of a "book node"
 - talking about nodes in root dir of repo instead of zet dir?
+- 10:26 "rss is shit"
+- "manage your knowledge like source"
+  - git version control
+  - not reinventing the wheel
+- 10:59 keg needs a manifest with last updated times
+  - store filename and last changed date
+  - probably not for ones currently stored on git though, just pull it
+  - what about hashes of entire directories?
+- 11:01 - "book node", map node, or collection node
+  - like a hub with symlinks?
+  - "slice" that has reference to other nodes
 
 - added next day: https://github.com/rwxrob/keg-spec
 
