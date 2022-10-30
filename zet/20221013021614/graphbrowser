@@ -73,6 +73,7 @@ while [ 1 == "$going" ]; do
         print "unlink"
         print "addtags"
         print "deltags"
+        print "spraytag"
       }
     } else {
       id = 0
@@ -162,6 +163,21 @@ while [ 1 == "$going" ]; do
       fi
     done
     rm "$selection"
+  elif [ "$act" == "spraytag" ]; then
+    tag=$(ls tagindex/ | sed -e 's/\.md$//' | fzf)
+    # get spawn menu from tab
+    selection=$(mktemp)
+    awk '
+      /^ *- \[.*\]\(\/zet\/[0-9]+\/README.md\)/ {
+        print $0
+        fflush()
+      }
+    ' "$doc" | fzf -m --preview="bat --color=always {}" | zet/$IMPL/parseids > "$selection"
+    for i in $(cat $selection); do
+      if [ ! -z "$tag" ]; then
+        ./zc addtag -t "$tag" $i
+      fi
+    done
   elif [ "$act" == "deltags" ]; then
     selection=$(mktemp)
     zet/20221025024238/enumtags $doc | fzf -m > $selection

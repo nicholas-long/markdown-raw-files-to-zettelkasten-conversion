@@ -14,6 +14,7 @@
   - `workdir`     - open new tmux window in working directory of current card if run within tmux
   - `addtags`     - add multiple tags to card
   - `deltags`     - remove multiple tags from card
+  - `spraytag`    - add a tag to multiple links on a card at once. select with fuzzy search.
   - `edit ...`    - edit card or attachments in vim
   - `/deep`       - deep keyword search combining links, titles, content, and fzf fuzzy finding. launches new tmux windows if tmux is running.
   - `~`           - return to home page
