@@ -76,6 +76,7 @@ hub node for `workflow`
 - [20221024213239](/zet/20221024213239/README.md) obsidian dataview plugin
 - [20221003150183](/zet/20221003150183/README.md) add user to docker group
 - [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf
+- [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 
 Tags:
 

@@ -46,6 +46,7 @@
 - [20221009183745](/zet/20221009183745/README.md) TODO: categorize github knowledge bases by attaching graph nodes
 - https://www.youtube.com/watch?v=UaoWblf7cPo
 - [20221030022644](/zet/20221030022644/README.md) collector fallacy in my note-taking
+- [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 
 Tags:
 

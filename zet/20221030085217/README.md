@@ -2,6 +2,7 @@
 
 - https://www.twitch.tv/videos/1636670875
 - added today: https://github.com/rwxrob/keg-spec
+- 34:00 - tesing yaml front matter
 
 ```
 ```
