@@ -164,4 +164,4 @@
 
 Tags:
 
-    #idea #zettelkasten #zet #notes #meta #todo
+    #idea #zettelkasten #zet #notes #meta #todo #report

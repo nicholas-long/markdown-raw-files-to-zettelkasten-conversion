@@ -16,6 +16,9 @@ fi
 if [ "$1" == "video" ]; then
   if [ "$3" == "stat" ]; then
     zet/$IMPL/previewgit
+  elif [ "$2" == "preview" ]; then
+    selid=$(echo "$3" | implementation/parseids)
+    bat --language md --style=plain --color=always zet/$selid/README.md
   else
     # touch .helpless to hide help messages
     [ -f './.helpless' ] || (bat --language md --style=plain --color=always <( awk -v "cmd=$3" ' $2 ~ cmd { print } ' zet/$MYID/README.md | head -n 1 ))
@@ -172,7 +175,7 @@ while [ 1 == "$going" ]; do
         print $0
         fflush()
       }
-    ' "$doc" | fzf -m --preview="bat --color=always {}" | zet/$IMPL/parseids > "$selection"
+    ' "$doc" | fzf -m --preview="$0 video preview {}" | zet/$IMPL/parseids > "$selection"
     for i in $(cat $selection); do
       if [ ! -z "$tag" ]; then
         ./zc addtag -t "$tag" $i
