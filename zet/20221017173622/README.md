@@ -15,7 +15,7 @@
 #
 ARCHIVE
 DEL
-ad administration ai analysis ansible api apk apt arg automation av awk
+account ad administration ai analysis ansible api apk apt arg automation av awk
 base64 bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
 c-language c2 calling capabilities cert cleanup cms coding command company concept config container convert copy crack creds crypto ctf curl cyberpunk
 data database date dayinhistory debian debug debugging decrypt defense deploy deserialization devops diag diagram diff dirty dll dns docker done dos dotfiles download dpkg ds dump

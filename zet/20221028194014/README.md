@@ -52,7 +52,6 @@
 93 zet/20221003150450/README.md padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
 92 zet/20221003151401/README.md bash scripting extract zlib stream between PDF stream and endstream with quick and dirty awk
 92 zet/20221003151242/README.md preparing malicious package payloads node npm package malicious repository ( tcp port 4873 )
-92 zet/20221003151133/README.md active directory  GMSA group managed service account read NTLM hash with powershell + python
 92 zet/20221003150544/README.md simple binary exploits pattern offset finding create pattern with length with pattern create
 91 zet/20221003151149/README.md windows XP and windows server 2003 arbitrary file write -> remote code execution metasploit
 91 zet/20221003150348/README.md troubleshooting fix error ValueError: unsupported hash type MD4 python hashlib openssl conf

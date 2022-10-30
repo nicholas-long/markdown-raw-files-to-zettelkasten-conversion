@@ -197,7 +197,7 @@
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150729](/zet/20221003150729/README.md) powershell encode commands as base64 with windows wide char strings in linux
 - [20221003150474](/zet/20221003150474/README.md) powershell tricks run powershell commands as another user with SecureString credential
-- [20221003151133](/zet/20221003151133/README.md) active directory  GMSA group managed service account read NTLM hash with powershell + python
+- [20221003151133](/zet/20221003151133/README.md) decode GMSA NTLM hash
 - [20221003150468](/zet/20221003150468/README.md) powershell tricks browse and edit registry set registry values
 - [20221003150467](/zet/20221003150467/README.md) powershell tricks browse and edit registry read registry values
 - [20221003151098](/zet/20221003151098/README.md) powershell commands execute encoded command as quietly as possible

@@ -22,7 +22,7 @@
 - [20221003151139](/zet/20221003151139/README.md) active directory  ForceChangePassword change user password
 - [20221003151134](/zet/20221003151134/README.md) active directory  GMSA group managed service account
 - [20221003151131](/zet/20221003151131/README.md) active directory  GMSA group managed service account remote LDAP read GMSA passwords python script fix missing ConvertFrom-AdManagedPasswordBlob
-- [20221003151133](/zet/20221003151133/README.md) active directory  GMSA group managed service account read NTLM hash with powershell + python
+- [20221003151133](/zet/20221003151133/README.md) decode GMSA NTLM hash
 - [20221003151142](/zet/20221003151142/README.md) active directory  exploiting permissions WriteDacl
 - [20221003151144](/zet/20221003151144/README.md) active directory
 - [20221003151132](/zet/20221003151132/README.md) active directory  GMSA group managed service account remote LDAP read GMSA passwords python script

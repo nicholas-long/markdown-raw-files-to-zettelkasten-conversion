@@ -21,3 +21,4 @@
 - [20221003150486](/zet/20221003150486/README.md) active directory get GMSA service account properties
 - [20221003150487](/zet/20221003150487/README.md) active directory get user account
 - [20221003150488](/zet/20221003150488/README.md) active directory
+- [20221003151133](/zet/20221003151133/README.md) decode GMSA NTLM hash

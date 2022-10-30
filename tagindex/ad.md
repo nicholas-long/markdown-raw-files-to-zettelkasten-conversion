@@ -3,6 +3,8 @@
 - [20221003151096](/zet/20221003151096/README.md) active directory certificate services AD CS privesc
 - [20221003151097](/zet/20221003151097/README.md) active directory certificate services AD CS
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS
+- [20221003151133](/zet/20221003151133/README.md) decode GMSA NTLM hash
+- [20221003151134](/zet/20221003151134/README.md) active directory  GMSA group managed service account
 - [20221003151145](/zet/20221003151145/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec convert kirbi to ccache
 - [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target

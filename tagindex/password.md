@@ -1,1 +1,2 @@
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
+- [20221003151133](/zet/20221003151133/README.md) decode GMSA NTLM hash
