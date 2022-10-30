@@ -6,6 +6,7 @@
   - sync onedrive
     - images - screenshots
   - video notes and timestamp plugin for browser -> zettel
+  - can build other public repos from within private zk repo with a nest of symlinks and a script to copy and commit stuff
 - public repo
   - let zk take over role of managing dotfiles for environments
     - not secrets
@@ -31,6 +32,7 @@
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs
+- [20221008042814](/zet/20221008042814/README.md) WIP
 
 Tags:
 
