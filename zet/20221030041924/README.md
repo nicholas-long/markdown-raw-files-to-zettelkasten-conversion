@@ -18,8 +18,27 @@ graph TD;
   steps --> services;
   steps --> machine_high_level_overview_notes;
   steps --> working_notes___foothold;
+  creds --> privesc_steps;
+  creds --> passwords;
+  creds --> usernames;
+  usernames --> password_reuse_to_try_list;
+  usernames --> passwords;
+  privesc_steps --> proof__flags__and_screenshots;
+  privesc_steps --> working_notes___privesc;
+  privesc_steps --> machine_high_level_overview_notes;
+  working_notes___foothold --> proof__flags__and_screenshots;
+  working_notes___foothold --> potential_exploits;
+  working_notes___foothold --> services;
+  working_notes___foothold --> machine_high_level_overview_notes;
+  working_notes___privesc --> proof__flags__and_screenshots;
+  working_notes___privesc --> machine_high_level_overview_notes;
   machine_high_level_overview_notes --> services;
   machine_high_level_overview_notes --> ports___enum;
+  ports___enum --> enumeration___the_process_of_enumerating_a_target;
+  ports___enum --> services;
+  services --> nodejs;
+  services --> machine_web_services;
+  potential_exploits --> headline_exploits;
 ```
 
 ` zet/20221030041924/README.md `
