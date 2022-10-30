@@ -873,6 +873,7 @@
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221013192245](/zet/20221013192245/README.md) cracking hashes
 - [20221013214821](/zet/20221013214821/README.md) check for command injection
+- [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
