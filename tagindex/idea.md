@@ -524,3 +524,5 @@
 - [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet
 - [20221030034049](/zet/20221030034049/README.md) github markdown render javascript = bugs?
 - [20221030041924](/zet/20221030041924/README.md) generate mermaid graph from set of zet cards
+- [20221030082715](/zet/20221030082715/README.md) findings from converting markdown info to zet
+- [20221030083332](/zet/20221030083332/README.md) redo some conversions

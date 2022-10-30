@@ -365,6 +365,7 @@ this is a list of possibly empty zettels.
 - [20221003150386](/zet/20221003150386/README.md) krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP.
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
+- [20221030082715](/zet/20221030082715/README.md) findings from converting markdown info to zet
 
 Tags:
 

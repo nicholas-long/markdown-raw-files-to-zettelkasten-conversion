@@ -17,6 +17,8 @@
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221010183037](/zet/20221010183037/README.md) importing zettelkasten data
+- [20221030083332](/zet/20221030083332/README.md) redo some conversions
+- [20221030082715](/zet/20221030082715/README.md) findings from converting markdown info to zet
 
 Tags:
 
