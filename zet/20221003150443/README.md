@@ -14,4 +14,4 @@ https://github.com/danielmiessler/SecLists
 
 Tags:
 
-    #repo
+    #repo #hacking

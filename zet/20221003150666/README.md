@@ -12,4 +12,4 @@ hydra $IP http-post-form "/admin/login.php:username=^USER^&password=^PASS^&login
 
 Tags:
 
-    #command
+    #command #hacking

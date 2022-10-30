@@ -13,4 +13,4 @@ https://github.com/TechSupportJosh/example-mc-chat
 
 Tags:
 
-    #repo
+    #repo #hacking
