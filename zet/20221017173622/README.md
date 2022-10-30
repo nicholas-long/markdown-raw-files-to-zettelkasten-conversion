@@ -24,7 +24,7 @@ feature feroxbuster fidget file filehash filepath files filesystem find finding 
 games gdb gef generate get git github go gobuster got graph grep
 hacking hardware hash help hex hibernate html.templates http hub hydra
 idea identify image impacket implementation important info initialize install interesting iptables
-java jenkins job john jq json jwt
+java javascript jenkins job john jq json jwt
 kafka kali kb_import kerberos keytool ksql kubernetes
 lan language laptop ldap less lfi library linux list load
 macro malicious markdown me meta metasploit microsoft mimikatz mobile msfvenom mysql

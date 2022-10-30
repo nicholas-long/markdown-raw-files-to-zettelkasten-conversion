@@ -33,7 +33,6 @@ graph TD;
   machine_high_level_overview_notes --> ports___enum;
   ports___enum --> enumeration___the_process_of_enumerating_a_target;
   ports___enum --> services;
-  services --> nodejs;
   services --> machine_web_services;
   potential_exploits --> headline_exploits;
 ```
