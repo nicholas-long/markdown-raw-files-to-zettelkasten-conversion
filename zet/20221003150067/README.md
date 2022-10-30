@@ -7,6 +7,10 @@
 - `gt` and `gT` cycle tabs
 - ideas for vimrc
   - fix end of lines
+- set line length guide
+```vim
+set colorcolumn=74 " markdown titles 72 chars in width plus heading
+```
 
 ` zet/20221003150067/README.md `
 
@@ -48,6 +52,7 @@
 - ~/kb/vim/vim.md
 - https://www.youtube.com/watch?v=aHm36-na4-4
 - [20221003150065](/zet/20221003150065/README.md) neovim specifics
+- [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
 
 Tags:
 
