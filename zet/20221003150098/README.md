@@ -43,6 +43,7 @@
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221014185515](/zet/20221014185515/README.md) kb file named kb/scratch.md
 - [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal
+- [20221031160706](/zet/20221031160706/README.md) syncing images from onedrive
 
 Tags:
 

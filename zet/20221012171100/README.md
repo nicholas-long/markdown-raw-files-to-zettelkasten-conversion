@@ -43,6 +43,7 @@ zet/20221012171100/README.md
 - [20221031014520](/zet/20221031014520/README.md) test card to clone into
 - [20221031092923](/zet/20221031092923/README.md) template for video notes
 - [20221031093556](/zet/20221031093556/README.md) hacking video notes template
+- [20221031160706](/zet/20221031160706/README.md) syncing images from onedrive
 
 Tags:
 

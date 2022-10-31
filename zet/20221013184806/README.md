@@ -18,6 +18,7 @@
 - [20221003150134](/zet/20221003150134/README.md) DNS commands
 - [20221003150248](/zet/20221003150248/README.md) Azure AD connect
 - [20221008061334](/zet/20221008061334/README.md) concepts
+- [20221031160706](/zet/20221031160706/README.md) syncing images from onedrive
 
 Tags:
 

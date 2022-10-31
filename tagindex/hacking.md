@@ -952,6 +952,7 @@
 - [20221014081712](/zet/20221014081712/README.md) ways to get hacked
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221017060902](/zet/20221017060902/README.md) finding known vulnerabilities and exploits
+- [20221017172946](/zet/20221017172946/README.md) LAN attacks
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221019151504](/zet/20221019151504/README.md) error message username enumeration

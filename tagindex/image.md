@@ -2,3 +2,4 @@
 - [20221003151389](/zet/20221003151389/README.md) bash scripting copy and read text from PNG image URL arg print with tesseract OCR
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221030182245](/zet/20221030182245/README.md) SVG security issues
+- [20221031160706](/zet/20221031160706/README.md) syncing images from onedrive

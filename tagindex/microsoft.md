@@ -1,2 +1,3 @@
 - [20221003150325](/zet/20221003150325/README.md) Microsoft Defender for Endpoint - enterprise protection
 - [20221007194303](/zet/20221007194303/README.md) github
+- [20221031160706](/zet/20221031160706/README.md) syncing images from onedrive

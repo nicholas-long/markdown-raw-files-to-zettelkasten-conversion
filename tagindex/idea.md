@@ -446,7 +446,6 @@
 - [20221017033638](/zet/20221017033638/README.md) Funday Sunday: Taking down the INSANE-ranked TryHackMe's Takedown alh4zr3d
 - [20221017033801](/zet/20221017033801/README.md) tryhackme box Takedown
 - [20221017084532](/zet/20221017084532/README.md) XML concept
-- [20221017172946](/zet/20221017172946/README.md) LAN attacks
 - [20221017182053](/zet/20221017182053/README.md) hydra
 - [20221017182222](/zet/20221017182222/README.md) bruteforcing or password spraying tools
 - [20221018125400](/zet/20221018125400/README.md) bundle an apt package and all its dependencies in a tar to deploy
@@ -528,3 +527,4 @@
 - [20221030085217](/zet/20221030085217/README.md) rwxrob KEG book composition video 10-28
 - [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal
 - [20221031014520](/zet/20221031014520/README.md) test card to clone into
+- [20221031160706](/zet/20221031160706/README.md) syncing images from onedrive
