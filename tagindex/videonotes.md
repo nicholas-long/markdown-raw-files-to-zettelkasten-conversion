@@ -1,6 +1,7 @@
 - [20221003150441](/zet/20221003150441/README.md) OWASP cheat sheet series
 - [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
+- [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
