@@ -3,6 +3,7 @@
 node for video notes.
 
 - should do standardized format with titles and links on a line you could grep for
+- making a template for video notes
 
 ` zet/20221006213953/README.md `
 
@@ -45,6 +46,8 @@ node for video notes.
 - [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`
 - [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
 - [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
+- [20221031092923](/zet/20221031092923/README.md) template for video notes
+- [20221031093556](/zet/20221031093556/README.md) hacking video notes template
 
 Tags:
 

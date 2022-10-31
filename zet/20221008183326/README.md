@@ -19,7 +19,8 @@ findings about video notes
 - [20221012083444](/zet/20221012083444/README.md) building out structure, organization, and architecture quickly
 - [20221012065200](/zet/20221012065200/README.md) side panels work in vim with tmux over ssh now?
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
+- [20221008061845](/zet/20221008061845/README.md) workflow
 
 Tags:
 
-    #videonotes #notes
+    #videonotes #notes #finding #meta #workflow
