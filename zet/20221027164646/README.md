@@ -15,7 +15,6 @@
 - [20221006214142](/zet/20221006214142/README.md) streamers
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - https://www.youtube.com/c/LiveOverflow
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 
