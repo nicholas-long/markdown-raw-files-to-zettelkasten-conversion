@@ -1,4 +1,4 @@
-# template example card to replace second snippet
+# second snippet example card
 
 - concept of `template example card to replace second snippet`
 
