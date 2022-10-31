@@ -61,6 +61,7 @@ ln -s zet/20221013221136/graphquery ./graphquery
 - [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed
 - [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries
 - [20221028200515](/zet/20221028200515/README.md) weird new issues with enrich and graph query
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 

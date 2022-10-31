@@ -156,6 +156,7 @@ Options:
 - [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet
 - [20221030041924](/zet/20221030041924/README.md) generate mermaid graph from set of zet cards
 - [20221030050459](/zet/20221030050459/README.md) markdown on github
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 

@@ -43,6 +43,7 @@ zet/20221012171100/README.md
 - [20221031093556](/zet/20221031093556/README.md) hacking video notes template
 - [20221031160706](/zet/20221031160706/README.md) syncing images from onedrive
 - [20221031173606](/zet/20221031173606/README.md) zkvr: shippin it
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 

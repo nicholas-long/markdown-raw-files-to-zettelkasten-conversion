@@ -529,3 +529,4 @@
 - [20221031014520](/zet/20221031014520/README.md) test card to clone into
 - [20221031160706](/zet/20221031160706/README.md) syncing images from onedrive
 - [20221031173606](/zet/20221031173606/README.md) zkvr: shippin it
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation

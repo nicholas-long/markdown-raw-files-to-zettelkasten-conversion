@@ -89,6 +89,7 @@ zet/20221013021614/getcopycontent zet/20221013021614/README.md
 - [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
 - [20221031173606](/zet/20221031173606/README.md) zkvr: shippin it
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 

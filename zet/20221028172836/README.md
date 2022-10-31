@@ -25,7 +25,7 @@ ln -s zet/20221028172836/rundocker
 - [20221031173606](/zet/20221031173606/README.md) zkvr: shippin it
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221022000131](/zet/20221022000131/README.md) put tmux and vim rc config in dockerfile
-- [20221031192031](/zet/20221031192031/README.md) all symlinked cards required for implementation
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 
