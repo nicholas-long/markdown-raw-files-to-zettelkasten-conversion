@@ -49,6 +49,8 @@ lrwxrwxrwx    1 kali kali     18 Oct 28 18:39 conversion-scripts -> zet/20221007
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221028173620](/zet/20221028173620/README.md) yq binaries
 - [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
+- [20221008042814](/zet/20221008042814/README.md) WIP
+- [20221012144502](/zet/20221012144502/README.md) track modification dates
 
 Tags:
 

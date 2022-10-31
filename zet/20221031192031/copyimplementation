@@ -7,7 +7,9 @@ mkdir -p "$testlocation"
 mkdir -p "$testlocation/zet"
 
 cp zettel-template "$testlocation"
+[ ! -f "$testlocation/.gitignore" ] && cp .gitignore "$testlocation"
 
+echo '- [WIP work in progress](/zet/20221008042814/README.md)' >> "$testlocation/README.md"
 awk '
 BEGIN { cmd = "cp -r " }
 { cmd = cmd "zet/" $0 " " }

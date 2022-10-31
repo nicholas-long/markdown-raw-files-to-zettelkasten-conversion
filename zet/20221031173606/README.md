@@ -12,10 +12,9 @@
 
 ```mermaid
 graph TD;
-    this-->private;
-    private-->zkvr;
-    private-->hacking;
-    servers-->private;
+    this-->zkvr;
+    zkvr-->private;
+    private-->my_public_zettelkasten;
 ```
 
 ` zet/20221031173606/README.md `
