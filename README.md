@@ -23,8 +23,10 @@ Attempt at converting a library of raw markdown files in directories into a Zett
   - video notes and a local graph
   ![screenshot of video notes](zet/20221009023024/screenshot_2022-10-08_213214.png)
 
-# hub index
-## [hacking notes hub](/zet/20221007220451/README.md)
+# nav
+## [search by tags](/tagindex/)
+## hubs
+### [hacking notes hub](/zet/20221007220451/README.md)
   - [hacking video notes](/zet/20221011092421/README.md)
   - [hacking notes template 1](/zet/20221011181347/README.md)
   - [hacking to try lists](/zet/20221009102436/README.md)
@@ -32,7 +34,7 @@ Attempt at converting a library of raw markdown files in directories into a Zett
     - [windows privilege escalation](/zet/20221003151207/README.md)
     - [linux privesc](zet/20221003151210/README.md)
   - [OSCP prep](/zet/20221009005402/README.md)
-## hubs
+## other hubs
 - [hub of todo lists](/zet/20221007044552/README.md)
   - [work in progress](/zet/20221008042814/README.md)
   - [concept of finished / being done](/zet/20221009100510/README.md)
