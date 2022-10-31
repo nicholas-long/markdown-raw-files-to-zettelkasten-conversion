@@ -17,23 +17,29 @@ Attempt at converting a library of raw markdown files in directories into a Zett
   - [screenshots of github ui graph showing workflow acceleration](/zet/20221010184202/README.md)
   - [scripts related to zettelkasten conversion](/zet/20221007182026/README.md)
 ## screenshots
-  - [obsidian](/zet/20221009172522/README.md)
-  - what it looks like in the graph view in obsidian
+- graph titles in [obsidian](/zet/20221009172522/README.md) with plugins
+  - ![graph titles in obsidian](zet/20221010184202/obsidian-graph-titles-plugin-screenshot-2022-10-20-140750.png)
+- what it looks like in the graph view in [obsidian](/zet/20221009172522/README.md)
   ![screenshot of colorful spaghetti graph](zet/20221010184202/Screenshot_2022-10-10_142249.png)
-  - video notes and a local graph
+- video notes and a local graph
   ![screenshot of video notes](zet/20221009023024/screenshot_2022-10-08_213214.png)
 
 # nav
-## [search by tags](/tagindex/)
-## [hacking notes hub](/zet/20221007220451/README.md)
-  - [hacking video notes](/zet/20221011092421/README.md)
-  - [hacking notes template 1](/zet/20221011181347/README.md)
-  - [hacking to try lists](/zet/20221009102436/README.md)
-    - [active directory domain](/zet/20221003151172/README.md)
-    - [windows privilege escalation](/zet/20221003151207/README.md)
-    - [linux privesc](zet/20221003151210/README.md)
-  - [OSCP prep](/zet/20221009005402/README.md)
-## [other hubs](/tagindex/hub.md)
+
+## search by [tags](/tagindex/)
+
+## hub for [hacking notes](/zet/20221007220451/README.md)
+
+- [hacking video notes](/zet/20221011092421/README.md)
+- [hacking notes template 1](/zet/20221011181347/README.md)
+- [hacking to try lists](/zet/20221009102436/README.md)
+  - [active directory domain](/zet/20221003151172/README.md)
+  - [windows privilege escalation](/zet/20221003151207/README.md)
+  - [linux privesc](zet/20221003151210/README.md)
+- [OSCP prep](/zet/20221009005402/README.md)
+
+## other [hubs](/tagindex/hub.md)
+
 - [hub of todo lists](/zet/20221007044552/README.md)
   - [work in progress](/zet/20221008042814/README.md)
   - [concept of finished / being done](/zet/20221009100510/README.md)
@@ -47,5 +53,6 @@ Attempt at converting a library of raw markdown files in directories into a Zett
 - [unsorted nodes](/zet/20221007185940/README.md)
 
 ## recent developments
+
 - [recently created nodes hub](/zet/20221012171100/README.md)
 - [WIP work in progress](/zet/20221008042814/README.md)
