@@ -14,6 +14,7 @@ ln -s zet/20221027011800/zetwrap zetcli
 - [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 

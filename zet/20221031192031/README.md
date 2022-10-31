@@ -44,8 +44,8 @@ lrwxrwxrwx    1 kali kali     18 Oct 28 18:39 conversion-scripts -> zet/20221007
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221031173606](/zet/20221031173606/README.md) zkvr: shippin it
-- 20221028173620
-- 20221027011800
+- [20221028173620](/zet/20221028173620/README.md) yq binaries
+- [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
 
 Tags:
 
