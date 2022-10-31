@@ -49,7 +49,7 @@ things that are finished.
 - [20221024210849](/zet/20221024210849/README.md) duplicate links cause problems in enrich step
 - [20221026080325](/zet/20221026080325/README.md) move code to add tags to zetcmd
 - [20221026152737](/zet/20221026152737/README.md) template snippet cards not getting run because of parameter issues
-- [20221026165857](/zet/20221026165857/README.md) template example card to replace second snippet
+- [20221026165857](/zet/20221026165857/README.md) second snippet example card
 - [20221026135114](/zet/20221026135114/README.md) add step to check for duplicate links in enrich scanrefs
 - [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands

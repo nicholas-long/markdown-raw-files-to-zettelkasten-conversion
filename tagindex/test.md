@@ -4,4 +4,4 @@
 - [20221024180316](/zet/20221024180316/README.md) check for duplicate hashtags in cards
 - [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4
 - [20221026135114](/zet/20221026135114/README.md) add step to check for duplicate links in enrich scanrefs
-- [20221026165857](/zet/20221026165857/README.md) template example card to replace second snippet
+- [20221026165857](/zet/20221026165857/README.md) second snippet example card

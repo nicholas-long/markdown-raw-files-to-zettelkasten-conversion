@@ -4,12 +4,12 @@
 
 - currently enabled uses of graph query in enrich steps
 ```
-177 zet/20221009192000/autoexec_enrich   ./graphquery $indexdothtml not <( ./graphquery @meta ) not <( ./graphquery id $CARD_ID : ) # all ids on the main page that are not tagged #meta and not referenced in this card
+181 zet/20221009192000/snippet ./graphquery --human $mainreadme not <( ./graphquery @meta ) not <( ./graphquery id $CARD_ID : ) # all ids on the main page that are not tagged #meta and not referenced in this card
 129 zet/20221026181955/snippet   not <( ./graphquery taglist 'to-try-list,hub,concept,skill,tip,trick,exploit,command,tool,cert,info,program,privesc,analysis' )
 124 zet/20221017173622/snippet   not <( ./graphquery taglist 'meta,command,hub,kb_import,tip,trick,tool,repo,install,syntax,util,script,streamer,finding' )
 117 zet/20221026135114/snippet ./graphquery --human <(find zet -name README.md | xargs implementation/scanrefs | awk '$1 == "duplicate" {print $2}')
 107 zet/20221005200242/snippet awk '$2 != 1 {print $1}' $tf | ./graphquery --human '/dev/stdin' | paste <( awk '$2 != 1 {print $2}' $tf) -
-102 zet/20221009192000/autoexec_enrich   ./graphquery id $CARD_ID : not $indexdothtml # all references in this card that are not on README.md
+106 zet/20221009192000/snippet ./graphquery --human id $CARD_ID : not $mainreadme # all references in this card that are not on README.md
 78 zet/20221012144502/autoexec_enrich ./graphquery id $RECENT_MOD : not $recentids not <( echo $MY_ID ) | grep . | \
 75 zet/20221012144502/autoexec_enrich ./graphquery $recentids not <( ./graphquery id $RECENT_MOD : ) | grep . | \
 67 zet/20221028194014/snippet ' | sort -nr | grep -v -f <( ./graphquery @DEL ) # hide deleted IDs

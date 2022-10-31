@@ -17,7 +17,7 @@ hello world again!
 - [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4
 - [20221026135114](/zet/20221026135114/README.md) add step to check for duplicate links in enrich scanrefs
 - [20221026152737](/zet/20221026152737/README.md) template snippet cards not getting run because of parameter issues
-- [20221026165857](/zet/20221026165857/README.md) template example card to replace second snippet
+- [20221026165857](/zet/20221026165857/README.md) second snippet example card
 - [20221024180316](/zet/20221024180316/README.md) check for duplicate hashtags in cards
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
@@ -28,6 +28,7 @@ hello world again!
 - [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
 - [20221028194014](/zet/20221028194014/README.md) check header line lengths in script
 - [20221030041924](/zet/20221030041924/README.md) generate mermaid graph from set of zet cards
+- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 
 Tags:
 

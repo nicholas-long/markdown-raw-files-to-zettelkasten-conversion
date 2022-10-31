@@ -84,7 +84,7 @@ ln -sr $realone zet/20221026181955/autoexec_enrich.bak
 
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 - [20221008042814](/zet/20221008042814/README.md) WIP
-- [20221026165857](/zet/20221026165857/README.md) template example card to replace second snippet
+- [20221026165857](/zet/20221026165857/README.md) second snippet example card
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
