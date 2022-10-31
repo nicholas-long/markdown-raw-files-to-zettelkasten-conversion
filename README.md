@@ -6,12 +6,11 @@ Attempt at converting a library of raw markdown files in directories into a Zett
   ![screenshot of graph explorer](/zet/20221010184202/Screenshot_2022-10-14_014740.png)
   - [video of how to make a node in my implementation](/zet/20221011155715/README.md)
   - [autorunning scripts in cards](/zet/20221008063052/README.md)
-  - [zettelkasten generic ideas](/zet/20221007043259/README.md)
+  - based on zet implementation by [rwxrob](/zet/20221006033248/README.md)
 - scripted card behavior / reports
   - [template example card to run command output in snippet #meta #command](/zet/20221021081636/README.md)
   - [how many cards you got now #idea #report](/zet/20221028033132/README.md)
 - what a zettelkasten is and why i'm converting my notes
-  - [start walking down memory lane](/zet/20221016233254/README.md)
   - [information about this project](/zet/20221006013612/README.md)
   - [findings](/zet/20221007043646/README.md)
   - [screenshots of github ui graph showing workflow acceleration](/zet/20221010184202/README.md)
@@ -52,7 +51,11 @@ Attempt at converting a library of raw markdown files in directories into a Zett
 - [recently created notes](/zet/20221012171100/README.md)
 - [unsorted nodes](/zet/20221007185940/README.md)
 
-## recent developments
+## ideas
+- [zettelkasten generic ideas](/zet/20221007043259/README.md)
+- start walking down memory lane of [git commits](/zet/20221016233254/README.md)
+
+# recent developments
 
 - [recently created nodes hub](/zet/20221012171100/README.md)
 - [WIP work in progress](/zet/20221008042814/README.md)
