@@ -528,3 +528,4 @@
 - [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal
 - [20221031014520](/zet/20221031014520/README.md) test card to clone into
 - [20221031160706](/zet/20221031160706/README.md) syncing images from onedrive
+- [20221031173606](/zet/20221031173606/README.md) zkvr: shippin it

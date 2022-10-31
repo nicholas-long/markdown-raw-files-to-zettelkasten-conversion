@@ -91,7 +91,7 @@ stuff i am working on.
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 - [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
-- [20221031173606](/zet/20221031173606/README.md) shippin it
+- [20221031173606](/zet/20221031173606/README.md) zkvr: shippin it
 
 Tags:
 

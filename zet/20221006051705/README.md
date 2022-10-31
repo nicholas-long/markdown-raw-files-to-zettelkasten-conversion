@@ -34,6 +34,7 @@
 - [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221031160706](/zet/20221031160706/README.md) syncing images from onedrive
+- [20221031173606](/zet/20221031173606/README.md) zkvr: shippin it
 
 Tags:
 

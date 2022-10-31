@@ -6,6 +6,7 @@ a script will check to see if the ID numbers appear on the main README.
 
 ```
 Missing:
+- [20221013021614](/zet/20221013021614/README.md) terminal graph browser #feature #tui #program
 - [20221013035616](/zet/20221013035616/README.md) fun #concept #hub
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action #idea #todo
 - [20221014024704](/zet/20221014024704/README.md) list of sparse nodes #list

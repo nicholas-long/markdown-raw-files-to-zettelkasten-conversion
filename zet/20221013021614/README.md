@@ -86,6 +86,9 @@ zet/20221013021614/getcopycontent zet/20221013021614/README.md
 - [20221003151267](/zet/20221003151267/README.md) fzf
 - [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal
 - [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
+- [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
+- [20221031173606](/zet/20221031173606/README.md) zkvr: shippin it
+- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 
 Tags:
 
