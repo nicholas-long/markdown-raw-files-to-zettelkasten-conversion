@@ -1,5 +1,7 @@
 # zettelkasten generic ideas
 
+- search for a path to a node
+  - save/cache heuristics in nodes for optimization speed as this happens?
 - when generating text for fuzzy searching, iterate over first and last links because they are both important - idea for implementation
   - first = prioritized
   - last = just added

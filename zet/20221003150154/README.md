@@ -14,6 +14,7 @@
 - [20221003150150](/zet/20221003150150/README.md) cyberpunk retro machine project Tandy TRS-80 Model 100 terminal
 - [20221014190158](/zet/20221014190158/README.md) kb file named kb/linux/cyberpunk-retro-machine-serial-terminals.md
 - ~/kb/linux/cyberpunk-retro-machine-serial-terminals.md
+- [20221013035616](/zet/20221013035616/README.md) fun
 
 Tags:
 

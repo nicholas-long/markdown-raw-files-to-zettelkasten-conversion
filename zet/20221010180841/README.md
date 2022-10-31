@@ -23,12 +23,6 @@ screen and tmux
     - i bet ctrl space is not intended to be sent as an escape code normally and is unsupported most places except fancy terminal emulators
 - no arrow keys (ofc)
 
-- 
-- 
-- 
-- 
-- 
-
 ```
 [diag] find   
 zet/20221010180841/README.md	screen and tmux rwxrob video	- i used screen in tandy model 100 project
@@ -38,8 +32,8 @@ zet/20221010180841/README.md	screen and tmux rwxrob video	- i used screen in tan
 
 # Related
 
-- [20221012065200](/zet/20221012065200/README.md) side panels work in vim with tmux over ssh now?
 - https://www.youtube.com/watch?v=ulo6YjG-FVQ
+- [20221012065200](/zet/20221012065200/README.md) side panels work in vim with tmux over ssh now?
 - [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221006213953](/zet/20221006213953/README.md) video notes
@@ -54,4 +48,4 @@ zet/20221010180841/README.md	screen and tmux rwxrob video	- i used screen in tan
 
 Tags:
 
-    #notes
+    #notes #videonotes
