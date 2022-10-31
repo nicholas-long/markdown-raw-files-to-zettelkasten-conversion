@@ -26,8 +26,8 @@ for srctmplid in $(zet/20221014025416/tagboundary $templ template);do
   echo "s/$srctmplid/$newid/g" >> $idmapping
   # edit card
   cp -r zet/$srctmplid/* zet/$newid/
-  ./zc deltag -t templatemain $dest
-  ./zc deltag -t template $dest
+  ./zc deltag -t templatemain $newid
+  ./zc deltag -t template $newid
 done
 
 echo sed -i -f $idmapping $(cat $newcards)
