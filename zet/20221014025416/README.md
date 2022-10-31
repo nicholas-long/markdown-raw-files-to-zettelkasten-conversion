@@ -13,10 +13,19 @@
   - get localgroup with new `tagboundary` script
   - make a new card for each of them and echo IDs to tempfile
   - replace `templatemain` -> current card ID
+    - also call sed script for this
   - replace IDs in the new cards with sed
-  - last: insert link from current node to new template in graph browser?
 
 ```
+# testing cloning
+
+highlevel=20221011182140 # high level machine overview from notes template
+testid=20221031014520 # a test card ID
+zet/20221014025416/clonecardto $highlevel $testid
+
+--------------------------------------------------------------------------------
+
+# tag boundary info
 zet/20221014025416/tagboundary
 
 # print all connected nodes marked by notes tag
@@ -51,6 +60,7 @@ highlevel=20221011182140 # high level machine overview from notes template
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221030041924](/zet/20221030041924/README.md) generate mermaid graph from set of zet cards
+- [20221031014520](/zet/20221031014520/README.md) test card to clone into
 
 Tags:
 

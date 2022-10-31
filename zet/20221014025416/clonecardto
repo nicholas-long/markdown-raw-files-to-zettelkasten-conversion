@@ -1,0 +1,13 @@
+#!/bin/bash
+# arg 1: source template ID of a template.
+templ="$1"
+# arg 2: destination card ID. will be replaced.
+dest="$2"
+#
+# to clone a whole network of template cards:
+# source template should match #templatemain with optional #template cards attached which will get cloned
+
+cp -r zet/$templ zet/$dest
+
+# edit IDs in new doc - replace with a big sed script to replace ALL IDs
+sed -i "s/$templ/$dest/g" "zet/$dest/README.md"
