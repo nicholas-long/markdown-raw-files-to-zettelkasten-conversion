@@ -34,7 +34,7 @@ Attempt at converting a library of raw markdown files in directories into a Zett
     - [windows privilege escalation](/zet/20221003151207/README.md)
     - [linux privesc](zet/20221003151210/README.md)
   - [OSCP prep](/zet/20221009005402/README.md)
-## other hubs
+## [other hubs](/tagindex/hub.md)
 - [hub of todo lists](/zet/20221007044552/README.md)
   - [work in progress](/zet/20221008042814/README.md)
   - [concept of finished / being done](/zet/20221009100510/README.md)
