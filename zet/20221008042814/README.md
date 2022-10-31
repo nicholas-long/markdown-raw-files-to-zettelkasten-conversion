@@ -90,6 +90,7 @@ stuff i am working on.
 - [20221024180316](/zet/20221024180316/README.md) check for duplicate hashtags in cards
 - [20221030083332](/zet/20221030083332/README.md) redo some conversions
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
+- [20221023084432](/zet/20221023084432/README.md) graph theory
 
 Tags:
 
