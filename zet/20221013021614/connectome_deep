@@ -8,8 +8,9 @@ BEGINFILE {
   gsub(/\/.*$/,"",id)
 }
 $0 ~ /^ *$/ { next }
+{ lastline = $0 }
 gotheading && !related {
-  print id, heading, $0
+  if (!/^# [Rr]elated/) print id, heading, $0
 }
 gotheading && related {
   if ($2 ~ /^\[.*\)$/) { gsub(/^- [^ ]+/,"- ") }
@@ -28,5 +29,9 @@ related && /^- / {
 }
 gotheading && /^# [Rr]elated/ {
   related=1
+}
+ENDFILE {
+  gsub(/^ */,"",lastline)
+  print id, heading, lastline # print tags
 }
 ' $(find zet -name README.md)
