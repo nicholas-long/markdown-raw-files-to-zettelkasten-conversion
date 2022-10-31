@@ -59,11 +59,11 @@ highlevel=20221011182140 # high level machine overview from notes template
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221023084432](/zet/20221023084432/README.md) graph theory
 - [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
-- [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
 - [20221030041924](/zet/20221030041924/README.md) generate mermaid graph from set of zet cards
 - [20221031014520](/zet/20221031014520/README.md) test card to clone into
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221009095853](/zet/20221009095853/README.md) finished
 
 Tags:
 

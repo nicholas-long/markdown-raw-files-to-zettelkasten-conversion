@@ -7,7 +7,6 @@ stuff i am working on.
 # Related
 
 - [20221030010849](/zet/20221030010849/README.md) fix line lengths
-- [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
 - [20221024160055](/zet/20221024160055/README.md) sort finished nodes 
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
@@ -63,7 +62,6 @@ stuff i am working on.
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221011192157](/zet/20221011192157/README.md) cool names for the project
-- [20221011153359](/zet/20221011153359/README.md) ability to clone cards
 - [20221011145639](/zet/20221011145639/README.md) why does kali apt break bat?
 - [20221011095447](/zet/20221011095447/README.md) change vilink behavior - 1 to many
 - [20221011094643](/zet/20221011094643/README.md) find out from rwxrob why osidian markdown links do not work on github
