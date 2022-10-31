@@ -14,7 +14,6 @@ zet/20221012171100/README.md
 - [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
 - [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
 - [20221028173620](/zet/20221028173620/README.md) yq binaries
-- [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 - [20221027150053](/zet/20221027150053/README.md) cleanup fix and consolidate tags
 - [20221027164646](/zet/20221027164646/README.md) liveoverflow
 - [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
