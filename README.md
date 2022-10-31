@@ -25,8 +25,7 @@ Attempt at converting a library of raw markdown files in directories into a Zett
 
 # nav
 ## [search by tags](/tagindex/)
-## hubs
-### [hacking notes hub](/zet/20221007220451/README.md)
+## [hacking notes hub](/zet/20221007220451/README.md)
   - [hacking video notes](/zet/20221011092421/README.md)
   - [hacking notes template 1](/zet/20221011181347/README.md)
   - [hacking to try lists](/zet/20221009102436/README.md)
