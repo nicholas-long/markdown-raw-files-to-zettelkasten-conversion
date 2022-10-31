@@ -53,6 +53,7 @@ Extra:
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221028033132](/zet/20221028033132/README.md) how many cards you got now
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
+- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 
 Tags:
 
