@@ -16,7 +16,7 @@
 # Related
 
 - https://github.com/rwxrob
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221003150651](/zet/20221003150651/README.md) kubernetes
 - [20221018182017](/zet/20221018182017/README.md) read bash man page
 - [20221015041944](/zet/20221015041944/README.md) what extensions are compatible with vscode / github code editor and zet implementation?

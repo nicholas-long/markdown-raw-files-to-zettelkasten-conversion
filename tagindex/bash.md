@@ -113,7 +113,7 @@
 - [20221003151422](/zet/20221003151422/README.md) bash scripting use awk to print only unique lines as a stream processor
 - [20221003151423](/zet/20221003151423/README.md) bash scripting urlencode and base64 encode lines individually
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames

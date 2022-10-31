@@ -50,7 +50,7 @@ ln -s zet/20221013221136/graphquery ./graphquery
 - [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
 - [20221023084432](/zet/20221023084432/README.md) graph theory
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
 - [20221009102918](/zet/20221009102918/README.md) get titles in tag links
 - [20221008054439](/zet/20221008054439/README.md) graph database

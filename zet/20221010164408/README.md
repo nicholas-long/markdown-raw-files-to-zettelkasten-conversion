@@ -30,7 +30,7 @@ Date:   Mon Oct 10 16:41:11 2022 +0000
 - [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty
 - [20221008042334](/zet/20221008042334/README.md) why does git ask questions instead of pulling changes
 - [20221003150098](/zet/20221003150098/README.md) todo
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 
 Tags:

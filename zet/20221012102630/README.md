@@ -19,7 +19,7 @@
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
 - [20221009183745](/zet/20221009183745/README.md) TODO: categorize github knowledge bases by attaching graph nodes
 - [20221003150098](/zet/20221003150098/README.md) todo
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 
 Tags:
 

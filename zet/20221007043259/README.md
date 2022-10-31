@@ -177,7 +177,7 @@
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
 - [20221003150798](/zet/20221003150798/README.md) git
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - [20221003151338](/zet/20221003151338/README.md) awk scripting
 - [20221003151332](/zet/20221003151332/README.md) bash scripting

@@ -18,7 +18,7 @@
 
 # Related
 
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221014154703](/zet/20221014154703/README.md) lazygit program
 - [20221003150798](/zet/20221003150798/README.md) git
 - [20221008182309](/zet/20221008182309/README.md) learning git internals

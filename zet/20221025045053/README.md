@@ -17,7 +17,7 @@
 # Related
 
 - [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221003151279](/zet/20221003151279/README.md) YAML parsing yq
 - [20221003151281](/zet/20221003151281/README.md) YAML
 - [20221024213239](/zet/20221024213239/README.md) obsidian dataview plugin

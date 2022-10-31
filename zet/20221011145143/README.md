@@ -16,7 +16,7 @@
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221011145639](/zet/20221011145639/README.md) why does kali apt break bat?
 - https://github.com/sharkdp/bat
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221009172351](/zet/20221009172351/README.md) markdown file format
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003151267](/zet/20221003151267/README.md) fzf

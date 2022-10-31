@@ -13,7 +13,7 @@
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
 - [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process
 - [20221008221940](/zet/20221008221940/README.md) URL
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221009095853](/zet/20221009095853/README.md) finished
 
 Tags:

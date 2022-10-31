@@ -14,7 +14,7 @@
 - [20221018050715](/zet/20221018050715/README.md) dotfiles concept
 - [20221003151443](/zet/20221003151443/README.md) kb
 - [20221008042814](/zet/20221008042814/README.md) WIP
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
 - https://github.com/nicholas-long/pen-test-environ
 - [20221009165318](/zet/20221009165318/README.md) putting zet cmd script in dotfiles

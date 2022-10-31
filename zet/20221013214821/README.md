@@ -17,7 +17,7 @@
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 
 Tags:
 

@@ -25,7 +25,7 @@
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
 - [20221007175034](/zet/20221007175034/README.md) optimizations for enrichment process
 - [20221006140520](/zet/20221006140520/README.md) zet cmd spawn feature
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
 - [20221028194014](/zet/20221028194014/README.md) check header line lengths in script

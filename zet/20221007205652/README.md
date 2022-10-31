@@ -10,7 +10,7 @@ find Repos/ -type d -maxdepth 3
 
 # Related
 
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
 - [20221003150914](/zet/20221003150914/README.md) linux enumeration quick commands find files belonging to group
 - [20221003150915](/zet/20221003150915/README.md) linux enumeration quick commands find files belonging to user

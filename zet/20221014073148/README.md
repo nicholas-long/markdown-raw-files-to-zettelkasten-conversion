@@ -36,7 +36,7 @@
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221007193324](/zet/20221007193324/README.md) github actions
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003151267](/zet/20221003151267/README.md) fzf

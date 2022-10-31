@@ -39,7 +39,7 @@ Screenshot_2022-10-10_143445_without_tagindex.png
 
 - [20221014073148](/zet/20221014073148/README.md) reasoning behind choices for tech stack - finding dependable and long lasting technology
 - [20221009095853](/zet/20221009095853/README.md) finished
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten

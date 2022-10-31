@@ -32,7 +32,7 @@
 - [20221013193405](/zet/20221013193405/README.md) make a list of sparse nodes
 - [20221009172351](/zet/20221009172351/README.md) markdown file format
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221006012927](/zet/20221006012927/README.md) update multiple zettel links
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221012212839](/zet/20221012212839/README.md) check all kb markdown files were migrated succesfully

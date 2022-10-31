@@ -17,7 +17,7 @@ $prog find -q "$query" 2>/dev/null | fzf -m --prompt="$title > " | awk '... snip
 
 # Related
 
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221003151267](/zet/20221003151267/README.md) fzf
 
 Tags:

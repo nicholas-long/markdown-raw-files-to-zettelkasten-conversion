@@ -17,7 +17,7 @@ LC_COLLATE=C
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221012090938](/zet/20221012090938/README.md) my One Mix netbook
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - https://unix.stackexchange.com/questions/577192/strange-behavior-of-sort
 - [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4
 

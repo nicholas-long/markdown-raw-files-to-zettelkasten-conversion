@@ -18,7 +18,7 @@
 
 - [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams
 - [20221030041924](/zet/20221030041924/README.md) generate mermaid graph from set of zet cards
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221009172351](/zet/20221009172351/README.md) markdown file format
 - [20221006033248](/zet/20221006033248/README.md) rwxrob

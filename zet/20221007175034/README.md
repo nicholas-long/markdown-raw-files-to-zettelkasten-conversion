@@ -24,7 +24,7 @@
 - [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221028014614](/zet/20221028014614/README.md) keep track of scripts with graphquery
 - [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries
 - [20221012153643](/zet/20221012153643/README.md) kafka

@@ -17,7 +17,7 @@ converting markdown formats with scripts
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221008061845](/zet/20221008061845/README.md) workflow
 
 Tags:

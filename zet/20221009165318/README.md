@@ -23,7 +23,7 @@ the concept of `putting zet cmd script in dotfiles`
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet
 
 Tags:

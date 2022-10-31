@@ -79,7 +79,7 @@
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221009012547](/zet/20221009012547/README.md) Github UI tricks
 - [20221007193324](/zet/20221007193324/README.md) github actions
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten

@@ -9,7 +9,7 @@
 
 # Related
 
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221025024238](/zet/20221025024238/README.md) enumerate tags
 
 Tags:

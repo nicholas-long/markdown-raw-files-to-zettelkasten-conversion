@@ -27,7 +27,7 @@
 - [20221003151309](/zet/20221003151309/README.md) expect scripts
 - [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext
 - [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221008212929](/zet/20221008212929/README.md) running process
 - [20221008213357](/zet/20221008213357/README.md) version of program

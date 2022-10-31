@@ -36,7 +36,7 @@ mv contextscript zet/20221018201513/
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 
 Tags:
 

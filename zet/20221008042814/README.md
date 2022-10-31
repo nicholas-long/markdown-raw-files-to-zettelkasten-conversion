@@ -62,7 +62,7 @@ stuff i am working on.
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221010155109](/zet/20221010155109/README.md) add link titles to youtube or some other links
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221011192157](/zet/20221011192157/README.md) cool names for the project

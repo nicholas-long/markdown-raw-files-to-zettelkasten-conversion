@@ -25,7 +25,7 @@
 - [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs
 - [20221011153359](/zet/20221011153359/README.md) ability to clone cards
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221009162948](/zet/20221009162948/README.md) useful vim hotkeys for zettelkasten

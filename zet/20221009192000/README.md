@@ -40,7 +40,7 @@ Extra:
 - [20221011181347](/zet/20221011181347/README.md) hacking notes template 1
 - [20221009172522](/zet/20221009172522/README.md) obsidian
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221009023024](/zet/20221009023024/README.md) screenshot of taking notes
 - [20221010184202](/zet/20221010184202/README.md) screenshots of github ui graph showing workflow acceleration
 - [20221007182026](/zet/20221007182026/README.md) scripts related to zettelkasten conversion

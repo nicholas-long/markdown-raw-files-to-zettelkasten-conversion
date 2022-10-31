@@ -17,7 +17,7 @@
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221003151338](/zet/20221003151338/README.md) awk scripting
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221003150798](/zet/20221003150798/README.md) git

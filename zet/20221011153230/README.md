@@ -19,7 +19,7 @@ the concept of `template example card for scripts`
 - [20221003151338](/zet/20221003151338/README.md) awk scripting
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221006140520](/zet/20221006140520/README.md) zet cmd spawn feature
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221028032005](/zet/20221028032005/README.md) how to disable a card
 
 Tags:

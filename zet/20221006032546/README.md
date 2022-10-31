@@ -1,11 +1,11 @@
-# my implementation of zet cmd
+# my original implementation of zet cmd
 
 ![screenshot of graph explorer](/zet/20221010184202/Screenshot_2022-10-14_014740.png)
 
 name: zc
 - based on zet implementation by [rwxrob](/zet/20221006033248/README.md)
+- command line tool
 - uses github actions to automatically enrich and make references bidirectional
-- run with `./zc menu` - interactive menu loop with fzf prompt for speed
 - `browser` - fzf interactive markdown preview browsser that can traverse and edit links
   - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
   - graph data entry and linking tool
@@ -21,6 +21,7 @@ name: zc
   - [20221013221136](/zet/20221013221136/README.md) graph query language
   - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
   - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
+- `./zc menu` TUI feature is obsolete workflow loop - all functionality is now implemented in zkvr graph browser
 
 - dependencies
   - vim or nvim

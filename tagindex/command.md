@@ -454,7 +454,7 @@
 - [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker
 - [20221003151410](/zet/20221003151410/README.md) bash scripting get raw HTTP request data from burp saved request
 - [20221003151431](/zet/20221003151431/README.md) awk scripting check output of grep and next line using awk "grep -A 1 -R '^# ' ."
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221007055535](/zet/20221007055535/README.md) full list of zetcmd actions
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221007205652](/zet/20221007205652/README.md) find limit recursion depth

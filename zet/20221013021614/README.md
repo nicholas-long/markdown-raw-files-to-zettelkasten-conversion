@@ -73,7 +73,7 @@ zet/20221013021614/getcopycontent zet/20221013021614/README.md
 - [20221014070023](/zet/20221014070023/README.md) findings from implementing deep connectome search
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action
 - [20221012102144](/zet/20221012102144/README.md) preview window for menu
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221023182804](/zet/20221023182804/README.md) browse to tagindex pages
 - [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
 - [20221008042814](/zet/20221008042814/README.md) WIP

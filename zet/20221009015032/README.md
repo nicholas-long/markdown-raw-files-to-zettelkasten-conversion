@@ -10,7 +10,7 @@ done.
 - [20221022000131](/zet/20221022000131/README.md) put tmux and vim rc config in dockerfile
 - [20221014201909](/zet/20221014201909/README.md) add lazygit to dockerfile for zet cmd
 - [20221009095853](/zet/20221009095853/README.md) finished
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
 - [20221010142810](/zet/20221010142810/README.md) what is the right and secure way to develop with docker
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten

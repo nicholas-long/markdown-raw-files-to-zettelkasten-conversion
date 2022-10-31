@@ -44,7 +44,7 @@ zet/20221030041924/autoexec_enrich
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221026152737](/zet/20221026152737/README.md) template snippet cards not getting run because of parameter issues
 - [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards
 - [20221028032005](/zet/20221028032005/README.md) how to disable a card

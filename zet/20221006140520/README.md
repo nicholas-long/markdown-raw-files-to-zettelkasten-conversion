@@ -28,7 +28,7 @@
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 
 Tags:
 

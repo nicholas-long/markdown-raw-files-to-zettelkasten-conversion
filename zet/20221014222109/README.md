@@ -17,7 +17,7 @@
 
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221013180230](/zet/20221013180230/README.md) session cookie, API key, or access token
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221008215400](/zet/20221008215400/README.md) file
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221007194303](/zet/20221007194303/README.md) github

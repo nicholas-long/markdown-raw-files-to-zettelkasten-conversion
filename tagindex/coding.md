@@ -9,7 +9,7 @@
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list
 - [20221003151316](/zet/20221003151316/README.md) bash scripting substitution syntax
 - [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221007023939](/zet/20221007023939/README.md) python ternary operator
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221008212519](/zet/20221008212519/README.md) programming language

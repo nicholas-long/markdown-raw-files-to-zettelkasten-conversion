@@ -57,7 +57,7 @@ show this to Hayden later when he's not busy.
 - [20221014072547](/zet/20221014072547/README.md) ideas need to be explained and connected to relevant things
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
-- [20221006032546](/zet/20221006032546/README.md) my implementation of zet cmd
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221006140520](/zet/20221006140520/README.md) zet cmd spawn feature
 - [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
