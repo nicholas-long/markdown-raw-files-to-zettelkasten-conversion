@@ -52,6 +52,7 @@ Extra:
 - [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221028033132](/zet/20221028033132/README.md) how many cards you got now
+- [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 
 Tags:
 
