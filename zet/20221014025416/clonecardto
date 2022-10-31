@@ -13,7 +13,7 @@ newcards=$(mktemp) # map template card IDs to new IDs
 cp -r zet/$templ/* zet/$dest/
 
 # edit IDs in new doc
-sed -i "s/$templ/$dest/g" "zet/$dest/README.md"
+#sed -i "s/$templ/$dest/g" "zet/$dest/README.md"
 ./zc deltag -t templatemain $dest
 ./zc deltag -t template $dest
 echo "zet/$dest/README.md" > $newcards
@@ -24,6 +24,10 @@ for srctmplid in $(zet/20221014025416/tagboundary $templ template);do
   sleep 1.1
   echo "zet/$newid/README.md" >> $newcards
   echo "s/$srctmplid/$newid/g" >> $idmapping
+  # edit card
+  cp -r zet/$srctmplid/* zet/$newid/
+  ./zc deltag -t templatemain $dest
+  ./zc deltag -t template $dest
 done
 
 echo sed -i -f $idmapping $(cat $newcards)
