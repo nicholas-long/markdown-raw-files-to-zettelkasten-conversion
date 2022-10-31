@@ -4,6 +4,7 @@
 - check stuff in [20221009095853](/zet/20221009095853/README.md) finished
 - testing with script `zet/20221031192031/copyimplementation`
   - argument: directory to copy implementation into
+  - all things linked to this card will be copied
 
 ```
 
