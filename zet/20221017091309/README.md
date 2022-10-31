@@ -22,6 +22,7 @@ graph TD;
 - [20221030041924](/zet/20221030041924/README.md) generate mermaid graph from set of zet cards
 - [20221020053629](/zet/20221020053629/README.md) parse mermaid syntax and use to generate set of linked cards
 - [20221030050459](/zet/20221030050459/README.md) markdown on github
+- [20221031173606](/zet/20221031173606/README.md) zkvr: shippin it
 
 Tags:
 

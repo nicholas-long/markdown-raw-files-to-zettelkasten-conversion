@@ -75,7 +75,6 @@
 
 - [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards
 - [20221008042814](/zet/20221008042814/README.md) WIP
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221003151338](/zet/20221003151338/README.md) awk scripting
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
