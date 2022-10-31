@@ -4,6 +4,7 @@
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221008181850](/zet/20221008181850/README.md) SKILSTAK Beginner Boost 2022 - Week 21 livestream 2022-10-8
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
+- [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221020193850](/zet/20221020193850/README.md) what is knowledge management
 - [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27

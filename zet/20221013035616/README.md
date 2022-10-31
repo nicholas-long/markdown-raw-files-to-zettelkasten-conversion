@@ -26,6 +26,7 @@
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221008211707](/zet/20221008211707/README.md) making cool stuff
+- [20221003150154](/zet/20221003150154/README.md) cyberpunk retro machine project
 
 Tags:
 
