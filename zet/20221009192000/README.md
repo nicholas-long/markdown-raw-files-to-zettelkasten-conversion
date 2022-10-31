@@ -12,6 +12,7 @@ Missing:
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job #idea
 Extra:
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
+- [20221006033248](/zet/20221006033248/README.md) rwxrob #linux #streamer #vim #bash #zettelkasten 
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list #todo #list #to-try-list #hub
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub #hub
 - [20221016233254](/zet/20221016233254/README.md) commits for day of 2022-01-26 #dayinhistory
