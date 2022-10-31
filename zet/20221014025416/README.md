@@ -16,6 +16,7 @@
     - also call sed script for this
   - replace IDs in the new cards with sed
 - added test script to try it `zet/20221014025416/testscript`
+- script works!
 
 ```
 # testing cloning
