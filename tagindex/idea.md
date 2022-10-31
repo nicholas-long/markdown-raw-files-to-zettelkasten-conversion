@@ -527,3 +527,4 @@
 - [20221030083332](/zet/20221030083332/README.md) redo some conversions
 - [20221030085217](/zet/20221030085217/README.md) rwxrob KEG book composition video 10-28
 - [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal
+- [20221031014520](/zet/20221031014520/README.md) test card to clone into
