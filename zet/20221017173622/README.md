@@ -34,7 +34,7 @@ package packet pane password path pc php pipelines pivot plugin port portable po
 question quick
 rce rdp redhat reference relative remoteaccess repo report repositories responder retired routing run rust
 scam screenshot script scripting sed service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve sort source speed sqli sqlmap ssh ssti stack stream streamer sudoers surface syntax
-tablet tar tcp template templates terminal test text textprocessing tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui two type
+tablet tar tcp template templatemain templates terminal test text textprocessing tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui two type
 uac udp url useful username users util
 valid var vbscript version video videonotes videos vim virtualbox vm
 wasm web wfuzz windows wordlist workflow wpscan wtf
