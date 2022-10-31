@@ -33,6 +33,7 @@
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221011175709](/zet/20221011175709/README.md) zettelkasten note taking software programs
 - [20221008042814](/zet/20221008042814/README.md) WIP
+- [20221031160706](/zet/20221031160706/README.md) syncing images from onedrive
 
 Tags:
 
