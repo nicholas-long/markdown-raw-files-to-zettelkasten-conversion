@@ -19,6 +19,7 @@
   - `/deep`       - deep keyword search combining links, titles, content, and fzf fuzzy finding. launches new tmux windows if tmux is running.
   - `~`           - return to home page
   - `spawn`       - create a new zettel card linked to here. enter title at prompt. new card is available to navigate and edit immediately.
+  - `clone`       - copy a template card in, replacing current card. copy entire linked network of cards with tag `#template`. capable of creating large structures of notes.
   - `copy...`     - if running in tmux, select text to copy from snippets with fzf
   - `copypath`    - if running in tmux, copy the current markdown file path to tmux buffer
   - `xfer`        - copy between cards or attached files easily by selecting files or cards to open alongside `README.md` in vim tabs
@@ -84,6 +85,7 @@ zet/20221013021614/getcopycontent zet/20221013021614/README.md
 - [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf
 - [20221003151267](/zet/20221003151267/README.md) fzf
 - [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal
+- [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
 
 Tags:
 
