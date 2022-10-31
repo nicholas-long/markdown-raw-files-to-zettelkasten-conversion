@@ -15,7 +15,7 @@ graph TD;
     this-->private;
     private-->zkvr;
     private-->hacking;
-    servers-[data]->private;
+    servers-->private;
 ```
 
 ` zet/20221031173606/README.md `
