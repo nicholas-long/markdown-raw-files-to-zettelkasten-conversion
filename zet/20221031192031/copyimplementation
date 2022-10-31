@@ -1,0 +1,32 @@
+#!/bin/bash
+
+MYID=20221031192031
+export testlocation="$1"
+
+mkdir -p "$testlocation"
+mkdir -p "$testlocation/zet"
+
+cp zettel-template "$testlocation"
+
+awk '
+BEGIN { cmd = "cp -r " }
+{ cmd = cmd "zet/" $0 " " }
+END {
+  cmd = cmd ENVIRON["testlocation"] "/zet"
+  print cmd
+  system(cmd)
+}
+' <( ./graphquery id $MYID refs )
+
+# symlinks
+cd "$testlocation"
+ln -sr zet/20221006032546/zetcmd zc
+ln -sr zet/20221013021614/graphbrowser zkvr
+ln -sr zet/20221028172836/Dockerfile Dockerfile
+ln -sr zet/20221027011800/zetwrap zetcli
+ln -sr zet/20221013221136/graphquery graphquery
+ln -sr zet/20221006032546 implementation
+ln -sr zet/20221028172836/rundocker rundocker
+ln -sr zet/20221028173620/bin yq_binaries
+ln -sr yq_binaries/yq_linux_amd64 yq
+cd -
