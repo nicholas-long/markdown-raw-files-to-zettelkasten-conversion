@@ -1,8 +1,17 @@
 # video notes
 
 - hub for video notes and note-taking related topics
-- should do standardized format with titles and links on a line you could grep for
-- making a template for video notes
+- there is a template card for video notes
+
+- additional list of video notes not directly linked to this card
+```
+- [20221003150441](/zet/20221003150441/README.md) OWASP cheat sheet series #videonotes #notes #hacking
+- [20221003150971](/zet/20221003150971/README.md) OWASP top 10 api bugs #to-try-list #hacking #videonotes #notes
+- [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow #hacking #to-try-list #workflow #videonotes #api #web
+- [20221006213953](/zet/20221006213953/README.md) video notes #video #notes #hub #videonotes
+- [20221023084432](/zet/20221023084432/README.md) graph theory #idea #videonotes
+- [20221030085217](/zet/20221030085217/README.md) rwxrob KEG book composition video 10-28 #idea #videonotes #zet
+```
 
 ` zet/20221006213953/README.md `
 
@@ -47,6 +56,7 @@
 - [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`
 - [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
 - [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
+- [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 
 Tags:
 

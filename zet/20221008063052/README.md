@@ -8,6 +8,7 @@
 enumerating cards with scripts...
 zet/20221005200242/autoexec_enrich
 zet/20221006032546/autoexec_enrich
+zet/20221006213953/autoexec_enrich
 zet/20221008063052/autoexec_enrich
 zet/20221009192000/autoexec_enrich
 zet/20221012144502/autoexec_enrich

@@ -10,6 +10,7 @@
 117 zet/20221026135114/snippet ./graphquery --human <(find zet -name README.md | xargs implementation/scanrefs | awk '$1 == "duplicate" {print $2}')
 107 zet/20221005200242/snippet awk '$2 != 1 {print $1}' $tf | ./graphquery --human '/dev/stdin' | paste <( awk '$2 != 1 {print $2}' $tf) -
 106 zet/20221009192000/snippet ./graphquery --human id $CARD_ID : not $mainreadme # all references in this card that are not on README.md
+101 zet/20221006213953/snippet ./graphquery --human @videonotes or <( ./graphquery @video @notes ) not <(./graphquery id $MYID refs)
 78 zet/20221012144502/autoexec_enrich ./graphquery id $RECENT_MOD : not $recentids not <( echo $MY_ID ) | grep . | \
 75 zet/20221012144502/autoexec_enrich ./graphquery $recentids not <( ./graphquery id $RECENT_MOD : ) | grep . | \
 67 zet/20221028194014/snippet ' | sort -nr | grep -v -f <( ./graphquery @DEL ) # hide deleted IDs

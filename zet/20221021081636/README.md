@@ -29,6 +29,7 @@ hello world again!
 - [20221028194014](/zet/20221028194014/README.md) check header line lengths in script
 - [20221030041924](/zet/20221030041924/README.md) generate mermaid graph from set of zet cards
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
+- [20221006213953](/zet/20221006213953/README.md) video notes
 
 Tags:
 
