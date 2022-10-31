@@ -8,8 +8,11 @@ BEGINFILE {
   gsub(/\/.*$/,"",id)
 }
 $0 ~ /^ *$/ { next }
-gotheading {
+gotheading && !related {
   print id, heading, $0
+}
+gotheading && related {
+  if ($2 ~ /^\[.*\)$/) { gsub(/^- [^ ]+/,"- ") }
 }
 related && /^- / {
   for (n=0;n<rl;n++) {
