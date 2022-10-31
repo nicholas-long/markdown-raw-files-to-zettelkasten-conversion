@@ -13,8 +13,8 @@ lrwxrwxrwx    1 kali kali     26 Oct 28 18:39 zetcli -> zet/20221027011800/zetwr
 lrwxrwxrwx    1 kali kali     29 Oct 28 18:39 graphquery -> zet/20221013221136/graphquery
 lrwxrwxrwx    1 kali kali     18 Oct 28 18:39 implementation -> zet/20221006032546
 lrwxrwxrwx    1 kali kali     28 Oct 28 18:39 rundocker -> zet/20221028172836/rundocker
-lrwxrwxrwx    1 kali kali     26 Oct 28 18:39 yq -> yq_binaries/yq_linux_amd64
 lrwxrwxrwx    1 kali kali     22 Oct 28 18:39 yq_binaries -> zet/20221028173620/bin
+lrwxrwxrwx    1 kali kali     26 Oct 28 18:39 yq -> yq_binaries/yq_linux_amd64
 -rw-r--r--    1 kali kali    110 Oct 28 18:39 zettel-template
 
 # do need?
@@ -44,6 +44,8 @@ lrwxrwxrwx    1 kali kali     18 Oct 28 18:39 conversion-scripts -> zet/20221007
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221031173606](/zet/20221031173606/README.md) zkvr: shippin it
+- 20221028173620
+- 20221027011800
 
 Tags:
 
