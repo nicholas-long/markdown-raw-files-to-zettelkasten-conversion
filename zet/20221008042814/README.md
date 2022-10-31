@@ -6,9 +6,13 @@ stuff i am working on.
 
 # Related
 
+- [20221024180316](/zet/20221024180316/README.md) check for duplicate hashtags in cards
+- [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
+- [20221023084432](/zet/20221023084432/README.md) graph theory
 - [20221030010849](/zet/20221030010849/README.md) fix line lengths
 - [20221024160055](/zet/20221024160055/README.md) sort finished nodes 
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221030083332](/zet/20221030083332/README.md) redo some conversions
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
@@ -87,10 +91,6 @@ stuff i am working on.
 - [20221003150098](/zet/20221003150098/README.md) todo
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 - [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
-- [20221024180316](/zet/20221024180316/README.md) check for duplicate hashtags in cards
-- [20221030083332](/zet/20221030083332/README.md) redo some conversions
-- [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
-- [20221023084432](/zet/20221023084432/README.md) graph theory
 
 Tags:
 
