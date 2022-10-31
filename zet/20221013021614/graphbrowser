@@ -78,6 +78,7 @@ while [ 1 == "$going" ]; do
         print "deltags"
         print "spraytag"
         print "nuketag"
+        print "_TMPL"
       }
     } else {
       id = 0
@@ -328,6 +329,11 @@ while [ 1 == "$going" ]; do
     else
       echo $answer
       sleep 1
+    fi
+  elif [ "$act" == "_TMPL" ]; then
+    templateid=$(cat tagindex/templatemain.md | fzf | implementation/parseids)
+    if [[ "$templateid" =~ ^[0-9]+$ ]]; then
+      zet/20221014025416/clonecardto $templateid $id
     fi
   fi
 done
