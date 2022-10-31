@@ -2,6 +2,7 @@
 
 - concept of `symlink dockerfile`
 - tested and it still works
+- `20221022000131` entrypoint
 
 ```sh
 mv Dockerfile zet/20221028172836/
@@ -23,6 +24,7 @@ ln -s zet/20221028172836/rundocker
 - [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221031173606](/zet/20221031173606/README.md) zkvr: shippin it
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- 20221022000131
 
 Tags:
 

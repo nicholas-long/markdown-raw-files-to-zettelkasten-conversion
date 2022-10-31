@@ -30,6 +30,7 @@ chmod +x zet/20221022000131/entrypoint
 - [20221003150079](/zet/20221003150079/README.md) tmux program
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221009015032](/zet/20221009015032/README.md) let's make a dockerfile for zet cmd
+- [20221031173606](/zet/20221031173606/README.md) zkvr: shippin it
 
 Tags:
 
