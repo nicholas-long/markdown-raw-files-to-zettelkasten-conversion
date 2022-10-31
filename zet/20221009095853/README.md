@@ -54,6 +54,8 @@ things that are finished.
 - [20221027134758](/zet/20221027134758/README.md) tag kb imported files
 - [20221018145628](/zet/20221018145628/README.md) label commands attached to kb files as commands
 - [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
+- [20221011153359](/zet/20221011153359/README.md) ability to clone cards
+- [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
 
 Tags:
 
