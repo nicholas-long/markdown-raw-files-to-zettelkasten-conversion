@@ -1,6 +1,15 @@
 #!/bin/bash
+# zkvr
+# Nicholas Long 2022
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+
 MYID=20221013021614
 IMPL=20221006032546
+
+export GRAPH_PROG="$0"
+
+# run me as symlink from my directory or in somewhere with a zet/
+[ -d zet ] || cd $SCRIPT_DIR && export prog="$SCRIPT_DIR/zc" && export GRAPH_PROG="$SCRIPT_DIR/zkvr"
 
 if [ -z "$EDITOR" ]; then
   EDITOR=$(which nvim 2>/dev/null || which vim 2>/dev/null || which vi 2>/dev/null )
@@ -95,7 +104,7 @@ while [ 1 == "$going" ]; do
     fflush()
   }
   ' "$doc" | fzf \
-    --preview="$0 video '$doc' {}" \
+    --preview="$GRAPH_PROG video '$doc' {}" \
     --bind "pgup:preview-up,pgdn:preview-down" \
     "--preview-window=up,75%" \
     "--history=fzftracking/$id" \
@@ -177,7 +186,7 @@ while [ 1 == "$going" ]; do
         print $0
         fflush()
       }
-    ' "$doc" | fzf -m --preview="$0 video preview {}" | zet/$IMPL/parseids > "$selection"
+    ' "$doc" | fzf -m --preview="$GRAPH_PROG video preview {}" | zet/$IMPL/parseids > "$selection"
     for i in $(cat $selection); do
       if [ ! -z "$tag" ]; then
         ./zc addtag -t "$tag" $i
@@ -192,7 +201,7 @@ while [ 1 == "$going" ]; do
         print $0
         fflush()
       }
-    ' "$doc" | fzf -m --preview="$0 video preview {}" | zet/$IMPL/parseids > "$selection"
+    ' "$doc" | fzf -m --preview="$GRAPH_PROG video preview {}" | zet/$IMPL/parseids > "$selection"
     for i in $(cat $selection); do
       if [ ! -z "$tag" ]; then
         ./zc deltag -t "$tag" $i
@@ -210,7 +219,6 @@ while [ 1 == "$going" ]; do
     done
     rm "$selection"
   elif [ "$act" == "tab" ]; then
-    #tmux new-window $0 "$doc"
     selection=$(mktemp)
     awk '
       /^ *- \[.*\]\(\/zet\/[0-9]+\/README.md\)/ {
@@ -218,7 +226,7 @@ while [ 1 == "$going" ]; do
         fflush()
       }
     ' "$doc" | fzf -m | zet/$IMPL/parseids > "$selection"
-    awk '{print "zet/" $0 "/README.md"}' $selection | xargs -n 1 tmux new-window "$0"
+    awk '{print "zet/" $0 "/README.md"}' $selection | xargs -n 1 tmux new-window "$GRAPH_PROG"
     rm "$selection"
   elif [ "$act" == "/search" ]; then
     if [ -z $TMUX ]; then
@@ -229,7 +237,7 @@ while [ 1 == "$going" ]; do
       tf=$(mktemp)
       zet/$MYID/connectome_deep | fzf -m | awk '{print $1}' | sort -u > $tf
       for f in $(cat $tf); do
-        tmux new-window -n 'explore' $0 zet/$f/README.md
+        tmux new-window -n 'explore' $GRAPH_PROG zet/$f/README.md
       done
       rm "$tf"
     fi
@@ -259,7 +267,7 @@ while [ 1 == "$going" ]; do
       sleep 2
     fi
   elif [ "$act" == "copy..." ]; then
-    zet/20221013021614/getcopycontent "$doc" | fzf --tac '--prompt=tab select many :' -m | tmux loadb -
+    zet/$MYID/getcopycontent "$doc" | fzf --tac '--prompt=tab select many :' -m | tmux loadb -
   elif [ "$act" == "copypath" ]; then
     echo -n "$doc" | tmux loadb -
     echo "copied $doc"
