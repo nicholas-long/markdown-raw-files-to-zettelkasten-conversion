@@ -958,3 +958,4 @@
 - [20221020203509](/zet/20221020203509/README.md) concept of an antipattern
 - [20221025221046](/zet/20221025221046/README.md) worst tier of AV
 - [20221027164646](/zet/20221027164646/README.md) liveoverflow
+- [20221031093556](/zet/20221031093556/README.md) hacking video notes template

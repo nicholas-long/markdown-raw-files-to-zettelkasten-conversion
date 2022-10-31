@@ -32,6 +32,7 @@ a list of hacking platforms for practice and education.
 - [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003150444](/zet/20221003150444/README.md) hacktricks markdown data github
+- [20221031093556](/zet/20221031093556/README.md) hacking video notes template
 
 Tags:
 

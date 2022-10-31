@@ -1,1 +1,3 @@
 - [20221011182140](/zet/20221011182140/README.md) machine high-level overview notes
+- [20221031092923](/zet/20221031092923/README.md) template for video notes
+- [20221031093556](/zet/20221031093556/README.md) hacking video notes template

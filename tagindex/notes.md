@@ -41,3 +41,5 @@
 - [20221020193850](/zet/20221020193850/README.md) what is knowledge management
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 - [20221030022644](/zet/20221030022644/README.md) collector fallacy in my note-taking
+- [20221031092923](/zet/20221031092923/README.md) template for video notes
+- [20221031093556](/zet/20221031093556/README.md) hacking video notes template

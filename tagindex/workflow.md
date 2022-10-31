@@ -5,6 +5,7 @@
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines
 - [20221008050923](/zet/20221008050923/README.md) tmux buffers as bash script pipe debug file buffer
 - [20221008061845](/zet/20221008061845/README.md) workflow
+- [20221008183326](/zet/20221008183326/README.md) findings about video notes
 - [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221010152742](/zet/20221010152742/README.md) how to jump right to a recent card on github

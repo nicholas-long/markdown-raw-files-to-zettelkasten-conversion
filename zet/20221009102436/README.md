@@ -71,6 +71,7 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221003151166](/zet/20221003151166/README.md) got access to docker repository
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
+- [20221031093556](/zet/20221031093556/README.md) hacking video notes template
 
 Tags:
 

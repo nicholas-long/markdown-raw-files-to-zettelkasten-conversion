@@ -20,6 +20,8 @@ node for streamers and content creators.
 - [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221027164646](/zet/20221027164646/README.md) liveoverflow
+- [20221031093556](/zet/20221031093556/README.md) hacking video notes template
+- [20221031092923](/zet/20221031092923/README.md) template for video notes
 
 Tags:
 

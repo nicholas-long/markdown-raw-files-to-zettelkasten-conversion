@@ -20,6 +20,7 @@ walkthroughs for retired machines on certain platforms can be shared / streamed.
 - [20221006213821](/zet/20221006213821/README.md) tryhackme
 - [20221006213649](/zet/20221006213649/README.md) offensive security
 - [20221006213311](/zet/20221006213311/README.md) hackthebox
+- [20221031093556](/zet/20221031093556/README.md) hacking video notes template
 
 Tags:
 
