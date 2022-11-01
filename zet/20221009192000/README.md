@@ -11,6 +11,7 @@ Missing:
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action #idea #todo
 - [20221014024704](/zet/20221014024704/README.md) list of sparse nodes #list
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job #idea
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation #idea #account
 Extra:
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation #to-try-list #hacking #privesc #linux 
 - [20221006033248](/zet/20221006033248/README.md) rwxrob #linux #streamer #vim #bash #zettelkasten 
@@ -55,6 +56,7 @@ Extra:
 - [20221028033132](/zet/20221028033132/README.md) how many cards you got now
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 
