@@ -51,7 +51,8 @@ lrwxrwxrwx    1 kali kali     18 Oct 28 18:39 conversion-scripts -> zet/20221007
 - [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
+- [20221006033248](/zet/20221006033248/README.md) rwxrob
 
 Tags:
 
-    #idea
+    #idea #account
