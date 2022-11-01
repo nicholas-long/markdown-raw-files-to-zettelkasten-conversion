@@ -64,6 +64,7 @@ lrwxrwxrwx    1 kali kali     18 Oct 28 18:39 conversion-scripts -> zet/20221007
 - [20221014074318](/zet/20221014074318/README.md) important choices of tech stack
 - [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
 - [20221025024238](/zet/20221025024238/README.md) enumerate tags
+- [20221031092923](/zet/20221031092923/README.md) template for video notes
 
 Tags:
 
