@@ -2,6 +2,10 @@
 
 MYID=20221031192031
 export testlocation="$1"
+overwrite=0
+if [ "$2" == "--overwrite" ]; then
+  overwrite=1
+fi
 
 mkdir -p "$testlocation"
 mkdir -p "$testlocation/zet"
@@ -18,7 +22,15 @@ END {
   print cmd
   system(cmd)
 }
-' <( ./graphquery id $MYID refs )
+'
+for id in $( ./graphquery id $MYID refs ); do
+  if [[ overwrite == "0"]] then
+    if [ -d "$testlocation/zet/$id" ]; then
+      continue
+    fi
+  fi
+  cp -r zet/$id "$testlocation/zet"
+done
 
 # symlinks
 cd "$testlocation"

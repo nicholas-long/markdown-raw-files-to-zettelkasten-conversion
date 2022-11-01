@@ -52,6 +52,7 @@ lrwxrwxrwx    1 kali kali     18 Oct 28 18:39 conversion-scripts -> zet/20221007
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
+- [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 
 Tags:
 
