@@ -34,6 +34,7 @@
 - [20221003150444](/zet/20221003150444/README.md) hacktricks markdown data github
 - [20221003150443](/zet/20221003150443/README.md) seclists github
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 
