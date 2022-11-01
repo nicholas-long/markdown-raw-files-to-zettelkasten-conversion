@@ -1,1 +1,2 @@
 - [20221003151134](/zet/20221003151134/README.md) active directory Group Managed Service Account
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation

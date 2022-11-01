@@ -14,7 +14,6 @@ zet/20221012171100/README.md
 - [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
 - [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
 - [20221028173620](/zet/20221028173620/README.md) yq binaries
-- [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
 - [20221028014614](/zet/20221028014614/README.md) keep track of scripts with graphquery
 - [20221028021608](/zet/20221028021608/README.md) optimizations for graph queries
 - [20221028023010](/zet/20221028023010/README.md) splitting comma separated list into filenames safely in scripting with bash, awk, and sed
