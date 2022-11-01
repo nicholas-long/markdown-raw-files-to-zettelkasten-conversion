@@ -78,6 +78,7 @@ hub node for `workflow`
 - [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 - [20221008183326](/zet/20221008183326/README.md) findings about video notes
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 
