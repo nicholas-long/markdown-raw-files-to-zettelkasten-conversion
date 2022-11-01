@@ -22,7 +22,7 @@ for id in $( ./graphquery id $MYID refs ); do
       echo "it is not there"
     fi
     if [ ! -d "$testlocation/zet/$id" ]; then
-      echo cp zet/$id "$testlocation/zet"
+      cp -r zet/$id "$testlocation/zet"
       echo "copying"
     else
       echo "not"

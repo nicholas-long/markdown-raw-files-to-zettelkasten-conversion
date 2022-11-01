@@ -51,8 +51,17 @@ lrwxrwxrwx    1 kali kali     18 Oct 28 18:39 conversion-scripts -> zet/20221007
 - [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
-- [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
+- [20221006213953](/zet/20221006213953/README.md) video notes
+- [20221003150098](/zet/20221003150098/README.md) todo
+- [20221007044552](/zet/20221007044552/README.md) todo or to-try list
+- [20221009095853](/zet/20221009095853/README.md) finished
+- [20221006013313](/zet/20221006013313/README.md) zettelkasten
+- [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
+- [20221007043646](/zet/20221007043646/README.md) findings about implementing zettelkasten
+- [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language
+- [20221021071146](/zet/20221021071146/README.md) delete things marked as #DEL periodically
+- [20221014074318](/zet/20221014074318/README.md) important choices of tech stack
 
 Tags:
 
