@@ -13,6 +13,7 @@ impacket-smbserver -smb2support TMP $(pwd)
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150600](/zet/20221003150600/README.md) impacket
 - ~/kb/hacking/commands/impacket-commands.md
+- [20221003150567](/zet/20221003150567/README.md) SMB Copy Files (Execute on Victim)
 
 Tags:
 

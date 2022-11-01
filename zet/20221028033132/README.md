@@ -16,7 +16,6 @@
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 
