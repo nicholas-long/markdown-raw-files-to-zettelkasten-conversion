@@ -56,6 +56,7 @@ things that are finished.
 - [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
 - [20221011153359](/zet/20221011153359/README.md) ability to clone cards
 - [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 

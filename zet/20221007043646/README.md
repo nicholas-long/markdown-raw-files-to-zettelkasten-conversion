@@ -163,6 +163,7 @@
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists
 - [20221010183037](/zet/20221010183037/README.md) importing zettelkasten data
 - [20221030082715](/zet/20221030082715/README.md) findings from converting markdown info to zet
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 

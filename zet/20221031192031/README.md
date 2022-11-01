@@ -62,6 +62,7 @@ lrwxrwxrwx    1 kali kali     18 Oct 28 18:39 conversion-scripts -> zet/20221007
 - [20221024215216](/zet/20221024215216/README.md) future enhancements to graph query language
 - [20221021071146](/zet/20221021071146/README.md) delete things marked as #DEL periodically
 - [20221014074318](/zet/20221014074318/README.md) important choices of tech stack
+- [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
 
 Tags:
 

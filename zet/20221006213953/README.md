@@ -57,6 +57,7 @@
 - [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
 - [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 

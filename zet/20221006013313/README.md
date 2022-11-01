@@ -53,6 +53,7 @@
 - [20221023084432](/zet/20221023084432/README.md) graph theory
 - [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
 - [20221028033132](/zet/20221028033132/README.md) how many cards you got now
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 

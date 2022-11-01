@@ -34,6 +34,7 @@
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 

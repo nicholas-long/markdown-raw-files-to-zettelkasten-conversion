@@ -44,6 +44,7 @@
 - [20221014185515](/zet/20221014185515/README.md) kb file named kb/scratch.md
 - [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal
 - [20221031160706](/zet/20221031160706/README.md) syncing images from onedrive
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 

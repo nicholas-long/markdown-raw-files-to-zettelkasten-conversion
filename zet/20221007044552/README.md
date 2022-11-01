@@ -50,6 +50,7 @@ concept of a todo list.
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list
 - [20221003151177](/zet/20221003151177/README.md) Stuck to try list
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 
