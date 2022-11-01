@@ -17,6 +17,7 @@
 - [20221009095853](/zet/20221009095853/README.md) finished
 - [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
 - [20221026152737](/zet/20221026152737/README.md) template snippet cards not getting run because of parameter issues
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 

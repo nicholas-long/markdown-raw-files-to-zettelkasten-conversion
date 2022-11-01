@@ -67,6 +67,8 @@ lrwxrwxrwx    1 kali kali     18 Oct 28 18:39 conversion-scripts -> zet/20221007
 - [20221031092923](/zet/20221031092923/README.md) template for video notes
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221007193324](/zet/20221007193324/README.md) github actions
+- [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
+- [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4
 
 Tags:
 
