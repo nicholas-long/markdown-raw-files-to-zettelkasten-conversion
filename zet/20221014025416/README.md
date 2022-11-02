@@ -64,6 +64,7 @@ highlevel=20221011182140 # high level machine overview from notes template
 - [20221031014520](/zet/20221031014520/README.md) test card to clone into
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221009095853](/zet/20221009095853/README.md) finished
+- [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 
