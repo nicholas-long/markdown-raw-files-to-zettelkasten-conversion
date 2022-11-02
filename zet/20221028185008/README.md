@@ -13,7 +13,6 @@
 - [20221003150075](/zet/20221003150075/README.md) tmux tricks
 - [20221003150993](/zet/20221003150993/README.md) how GraphQL APIs work
 - [20221009012547](/zet/20221009012547/README.md) Github UI tricks
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

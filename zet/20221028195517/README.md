@@ -22,7 +22,6 @@
 - [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
 - [20221028194014](/zet/20221028194014/README.md) check header line lengths in script
 - [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221030050459](/zet/20221030050459/README.md) markdown on github
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221030085217](/zet/20221030085217/README.md) rwxrob KEG book composition video 10-28

@@ -11,14 +11,6 @@ zet/20221012171100/README.md
 # Related
 
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
-- [20221028161058](/zet/20221028161058/README.md) enforce assets live in nodes
-- [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
-- [20221028173620](/zet/20221028173620/README.md) yq binaries
-- [20221028175711](/zet/20221028175711/README.md) symlink scripts on snippet cards
-- [20221028185008](/zet/20221028185008/README.md) tmux notification when changes are on github and not local
-- [20221028194014](/zet/20221028194014/README.md) check header line lengths in script
-- [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
-- [20221028200515](/zet/20221028200515/README.md) weird new issues with enrich and graph query
 - [20221030010849](/zet/20221030010849/README.md) fix line lengths
 - [20221030022644](/zet/20221030022644/README.md) collector fallacy in my note-taking
 - [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet

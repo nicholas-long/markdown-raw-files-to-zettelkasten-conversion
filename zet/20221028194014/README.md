@@ -172,7 +172,6 @@
 
 - [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 - [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
