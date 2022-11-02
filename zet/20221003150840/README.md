@@ -1,8 +1,13 @@
 # gobuster vhost enumeration
+
+- may need new `--append-domain` option?
 ```bash
 gobuster vhost -u $URL -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt -t 50
 gobuster vhost -u $URL -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-20000.txt -t 50
 gobuster vhost -u $URL -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-110000.txt -t 50
+
+# from helptext
+--append-domain         Append main domain from URL to words from wordlist. Otherwise the fully qualified domains need to be specified in the wordlist.
 ```
 
 ` zet/20221003150840/README.md `
