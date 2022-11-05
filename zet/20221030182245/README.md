@@ -11,7 +11,6 @@
 
 - [20221030085217](/zet/20221030085217/README.md) rwxrob KEG book composition video 10-28
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

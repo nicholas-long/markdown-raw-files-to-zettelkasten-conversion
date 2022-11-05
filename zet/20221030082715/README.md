@@ -20,7 +20,6 @@
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221028194014](/zet/20221028194014/README.md) check header line lengths in script
 - [20221030083332](/zet/20221030083332/README.md) redo some conversions
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

@@ -16,7 +16,6 @@
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - *INSERT LINK THERE:* <>
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

@@ -12,7 +12,6 @@
 - [20221006213953](/zet/20221006213953/README.md) video notes
 - [20221006214142](/zet/20221006214142/README.md) streamers
 - *INSERT LINK THERE:* <>
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:

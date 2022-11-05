@@ -31,7 +31,6 @@
 - [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal
 - [20221030182245](/zet/20221030182245/README.md) SVG security issues
 

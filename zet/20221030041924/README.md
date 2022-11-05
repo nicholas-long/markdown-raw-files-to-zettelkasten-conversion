@@ -45,7 +45,6 @@ graph TD;
 - [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 - [20221014025416](/zet/20221014025416/README.md) clone a subsection of a graph by tag boundaries
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221030050459](/zet/20221030050459/README.md) markdown on github
 - [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
 

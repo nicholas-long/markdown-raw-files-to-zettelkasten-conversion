@@ -32,6 +32,7 @@
 - [20221003151082](/zet/20221003151082/README.md) powerup powershell windows privesc enumeration script
 - [20221003151318](/zet/20221003151318/README.md) bash parse xml cli
 - [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
+- [20221012134856](/zet/20221012134856/README.md) what is org roam
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221017084459](/zet/20221017084459/README.md) xpup xml parsing tool for scripting
 - [20221025045945](/zet/20221025045945/README.md) tldr pages

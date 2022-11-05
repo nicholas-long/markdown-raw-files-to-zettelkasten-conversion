@@ -23,7 +23,6 @@
 - [20221009172351](/zet/20221009172351/README.md) markdown file format
 - [20221006033248](/zet/20221006033248/README.md) rwxrob
 - [20221028195517](/zet/20221028195517/README.md) rwxrob KEG requirements
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 
 Tags:
 

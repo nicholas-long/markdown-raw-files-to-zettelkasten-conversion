@@ -46,7 +46,6 @@ lrwxrwxrwx    1 kali kali     18 Oct 28 18:39 conversion-scripts -> zet/20221007
 - [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221028173620](/zet/20221028173620/README.md) yq binaries
 - [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
 - [20221008042814](/zet/20221008042814/README.md) WIP
