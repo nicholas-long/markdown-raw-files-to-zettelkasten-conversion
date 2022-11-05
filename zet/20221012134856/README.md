@@ -1,7 +1,7 @@
-# what is org roam?
+# what is org roam
 
-- concept of `org roam`
-- keep hearing about it in the context of Zettelkasten
+- looks functionally somewhat similar vimwiki ?
+- could try it out with vim hotkeys with evil mode
 
 ```
 ```
@@ -10,6 +10,8 @@
 
 # Related
 
+- https://orgmode.org/
+- https://github.com/Somelauw/evil-org-mode
 - [20221009104752](/zet/20221009104752/README.md) stuff to research
 - [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
@@ -20,4 +22,4 @@
 
 Tags:
 
-    #question
+    #question #emacs #finding #repo
