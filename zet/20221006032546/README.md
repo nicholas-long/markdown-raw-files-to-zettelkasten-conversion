@@ -65,7 +65,7 @@ Options:
 - [20221022232030](/zet/20221022232030/README.md) save fzf completion history for each card
 - [20221021221931](/zet/20221021221931/README.md) cache headings
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221013021614](/zet/20221013021614/README.md) zkvr terminal graph browser
 - [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd

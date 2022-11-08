@@ -20,6 +20,7 @@
 - [20221009172351](/zet/20221009172351/README.md) markdown file format
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003151267](/zet/20221003151267/README.md) fzf
+- [20221013021614](/zet/20221013021614/README.md) zkvr terminal graph browser
 
 Tags:
 

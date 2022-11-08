@@ -1,3 +1,2 @@
 - [20221010044240](/zet/20221010044240/README.md) titles of nodes should repopulate
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
 - [20221023182804](/zet/20221023182804/README.md) browse to tagindex pages

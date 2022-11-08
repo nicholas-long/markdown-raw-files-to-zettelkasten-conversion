@@ -23,7 +23,7 @@ graph TD;
 
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221013021614](/zet/20221013021614/README.md) zkvr terminal graph browser
 - [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
 - [20221022000131](/zet/20221022000131/README.md) put tmux and vim rc config in dockerfile
 - [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams

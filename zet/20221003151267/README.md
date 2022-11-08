@@ -16,7 +16,7 @@ sudo apt update && sudo apt install fzf
 
 # Related
 
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221013021614](/zet/20221013021614/README.md) zkvr terminal graph browser
 - [20221011145143](/zet/20221011145143/README.md) bat command pretty printer
 - [20221003151266](/zet/20221003151266/README.md) fzf run with preview
 - [20221003151265](/zet/20221003151265/README.md) fzf install

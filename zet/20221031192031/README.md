@@ -43,7 +43,7 @@ lrwxrwxrwx    1 kali kali     18 Oct 28 18:39 conversion-scripts -> zet/20221007
 - [20221031173606](/zet/20221031173606/README.md) zkvr: shippin it
 - [20221028172836](/zet/20221028172836/README.md) symlink dockerfile
 - [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221013021614](/zet/20221013021614/README.md) zkvr terminal graph browser
 - [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 - [20221028173620](/zet/20221028173620/README.md) yq binaries

@@ -28,7 +28,7 @@
 - https://www.youtube.com/watch?v=8Dcj19KGKWM "Introducing Weird Machines: ROP Differently Explaining part 1 - bin 0x29"
 - [20221014074726](/zet/20221014074726/README.md) use appropriate language for the job
 - [20221014074852](/zet/20221014074852/README.md) "Keep It Simple Stupid" principle of engineering and design
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221013021614](/zet/20221013021614/README.md) zkvr terminal graph browser
 - [20221008054439](/zet/20221008054439/README.md) graph database
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten

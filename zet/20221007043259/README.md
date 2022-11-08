@@ -129,7 +129,7 @@
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221013185251](/zet/20221013185251/README.md) general information concept FYI
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
-- [20221012134856](/zet/20221012134856/README.md) what is org roam?
+- [20221012134856](/zet/20221012134856/README.md) what is org roam
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
 - [20221011193153](/zet/20221011193153/README.md) collection of zettelkasten tips from youtube
 - [20221011192157](/zet/20221011192157/README.md) cool names for the project
@@ -185,7 +185,7 @@
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221013021614](/zet/20221013021614/README.md) zkvr terminal graph browser
 - [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
 - [20221017091309](/zet/20221017091309/README.md) mermaid tags for markdown diagrams
 - [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal

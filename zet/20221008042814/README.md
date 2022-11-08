@@ -11,7 +11,7 @@ stuff i am working on.
 - [20221023084432](/zet/20221023084432/README.md) graph theory
 - [20221030010849](/zet/20221030010849/README.md) fix line lengths
 - [20221024160055](/zet/20221024160055/README.md) sort finished nodes 
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221013021614](/zet/20221013021614/README.md) zkvr terminal graph browser
 - [20221030083332](/zet/20221030083332/README.md) redo some conversions
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221026181955](/zet/20221026181955/README.md) keep track of tags attached to to-try lists

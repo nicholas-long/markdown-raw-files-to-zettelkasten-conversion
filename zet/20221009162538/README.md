@@ -14,7 +14,7 @@
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221013021614](/zet/20221013021614/README.md) zkvr terminal graph browser
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 

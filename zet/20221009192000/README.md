@@ -6,7 +6,7 @@ a script will check to see if the ID numbers appear on the main README.
 
 ```
 Missing:
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser #feature #tui #program
+- [20221013021614](/zet/20221013021614/README.md) zkvr terminal graph browser #tui #program #zettelkasten
 - [20221013035616](/zet/20221013035616/README.md) fun #concept #hub
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action #idea #todo
 - [20221014024704](/zet/20221014024704/README.md) list of sparse nodes #list
@@ -55,7 +55,7 @@ Extra:
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
 - [20221028033132](/zet/20221028033132/README.md) how many cards you got now
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221013021614](/zet/20221013021614/README.md) zkvr terminal graph browser
 - [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:

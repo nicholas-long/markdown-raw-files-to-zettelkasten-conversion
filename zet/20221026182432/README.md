@@ -17,7 +17,7 @@
 - [20221006084204](/zet/20221006084204/README.md) future enhancements to zet cmd
 - [20221007051119](/zet/20221007051119/README.md) zet cmd enrich process
 - [20221007194303](/zet/20221007194303/README.md) github
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221013021614](/zet/20221013021614/README.md) zkvr terminal graph browser
 
 Tags:
 

@@ -11,7 +11,7 @@
 # Related
 
 - [20221030085217](/zet/20221030085217/README.md) rwxrob KEG book composition video 10-28
-- [20221013021614](/zet/20221013021614/README.md) terminal graph browser
+- [20221013021614](/zet/20221013021614/README.md) zkvr terminal graph browser
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - [20221003150098](/zet/20221003150098/README.md) todo
 
