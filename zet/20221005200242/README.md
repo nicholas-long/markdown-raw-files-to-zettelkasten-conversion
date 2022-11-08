@@ -32,8 +32,6 @@ this is a list of possibly empty zettels.
 #
 # Empty
 #
-- [20221003150423](/zet/20221003150423/README.md) kerberos attack on windows host ticket attacks forgery #hacking #repositories #important 
-- [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing #hacking #tools 
 - [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file #hacking #tools 
 - [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze #hacking #tools 
 - [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI #hacking #tools 
@@ -335,9 +333,7 @@ this is a list of possibly empty zettels.
 - [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI
 - [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze
 - [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file
-- [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing
 - [20221003150424](/zet/20221003150424/README.md) kerberos attack on windows host ticket attacks
-- [20221003150423](/zet/20221003150423/README.md) kerberos attack on windows host ticket attacks forgery
 - [20221003150422](/zet/20221003150422/README.md) kerberos attack on windows host ticket attacks extraction and harvesting
 - [20221003150421](/zet/20221003150421/README.md) kerberos attack on windows host Constrained delegation abuse
 - [20221003150391](/zet/20221003150391/README.md) file backup fuzzer
