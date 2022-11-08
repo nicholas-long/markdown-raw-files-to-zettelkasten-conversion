@@ -18,4 +18,4 @@
 
 Tags:
 
-    #command #hacking #wpscan 
+    #command #hacking #wpscan #DEL

@@ -42,7 +42,6 @@ this is a list of possibly empty zettels.
 - [20221003150691](/zet/20221003150691/README.md) wpscan initial vulnerable themes #command #hacking #wpscan 
 - [20221003150692](/zet/20221003150692/README.md) wpscan initial all plugins passive scan #command #hacking #wpscan 
 - [20221003150693](/zet/20221003150693/README.md) wpscan initial #command #hacking #wpscan 
-- [20221003150694](/zet/20221003150694/README.md) wpscan #command #hacking #wpscan 
 - [20221003150709](/zet/20221003150709/README.md) sqlmap #command #hacking #sqlmap 
 - [20221003150714](/zet/20221003150714/README.md) packet capture with tcpdump watch traffic #command #hacking #packet 
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump #command #hacking #packet 
@@ -251,7 +250,6 @@ this is a list of possibly empty zettels.
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
 - [20221003150714](/zet/20221003150714/README.md) packet capture with tcpdump watch traffic
 - [20221003150709](/zet/20221003150709/README.md) sqlmap
-- [20221003150694](/zet/20221003150694/README.md) wpscan
 - [20221003150693](/zet/20221003150693/README.md) wpscan initial
 - [20221003150692](/zet/20221003150692/README.md) wpscan initial all plugins passive scan
 - [20221003150691](/zet/20221003150691/README.md) wpscan initial vulnerable themes
