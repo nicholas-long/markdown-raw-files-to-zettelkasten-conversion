@@ -54,7 +54,7 @@
 - [20221003150419](/zet/20221003150419/README.md) text cipher encryption decryption tools
 - [20221003150384](/zet/20221003150384/README.md) krbrelayx krbrelayx.py Kerberos relaying and Unconstrained delegation abuse
 - [20221003150392](/zet/20221003150392/README.md) text cipher encryption decryption tools Text Manipulator
-- [20221003150433](/zet/20221003150433/README.md) generate wordlists
+- [20221003150433](/zet/20221003150433/README.md) wordlists generation hub
 - [20221003150385](/zet/20221003150385/README.md) krbrelayx printerbug.py Simple tool to trigger SpoolService bug via RPC backconnect. Similar to dementor.py
 - [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings

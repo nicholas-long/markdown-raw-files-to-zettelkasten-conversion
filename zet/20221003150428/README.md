@@ -18,6 +18,7 @@
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - ~/kb/hacking/misc/important-repositories-tools.md
 - [20221003150431](/zet/20221003150431/README.md) username anarchy for common account formats and names
+- [20221003150429](/zet/20221003150429/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale output all formats top 10k names from facebook
 
 Tags:
 

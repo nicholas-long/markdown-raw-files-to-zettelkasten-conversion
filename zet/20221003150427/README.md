@@ -12,7 +12,7 @@ bopscrk -i
 # Related
 
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
-- [20221003150433](/zet/20221003150433/README.md) generate wordlists
+- [20221003150433](/zet/20221003150433/README.md) wordlists generation hub
 - ~/kb/hacking/misc/important-repositories-tools.md
 
 Tags:

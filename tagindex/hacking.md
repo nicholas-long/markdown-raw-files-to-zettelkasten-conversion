@@ -149,7 +149,7 @@
 - [20221003150430](/zet/20221003150430/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale 
 - [20221003150431](/zet/20221003150431/README.md) username anarchy for common account formats and names
 - [20221003150432](/zet/20221003150432/README.md) generate wordlists namemash - simple
-- [20221003150433](/zet/20221003150433/README.md) generate wordlists
+- [20221003150433](/zet/20221003150433/README.md) wordlists generation hub
 - [20221003150434](/zet/20221003150434/README.md) HTML preview report input list of HTTP(s) sites attack surface with aquatone
 - [20221003150435](/zet/20221003150435/README.md) obfuscate powershell scripts (python)
 - [20221003150437](/zet/20221003150437/README.md) dump git repository leaked by website

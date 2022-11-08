@@ -32,11 +32,7 @@ this is a list of possibly empty zettels.
 #
 # Empty
 #
-- [20221003150391](/zet/20221003150391/README.md) file backup fuzzer #hacking #repositories #important 
-- [20221003150421](/zet/20221003150421/README.md) kerberos attack on windows host Constrained delegation abuse #hacking #repositories #important 
-- [20221003150422](/zet/20221003150422/README.md) kerberos attack on windows host ticket attacks extraction and harvesting #hacking #repositories #important 
 - [20221003150423](/zet/20221003150423/README.md) kerberos attack on windows host ticket attacks forgery #hacking #repositories #important 
-- [20221003150424](/zet/20221003150424/README.md) kerberos attack on windows host ticket attacks #hacking #repositories #important 
 - [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing #hacking #tools 
 - [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file #hacking #tools 
 - [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze #hacking #tools 

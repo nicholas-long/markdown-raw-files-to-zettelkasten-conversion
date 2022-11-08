@@ -18,7 +18,7 @@
 
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
-- [20221003150433](/zet/20221003150433/README.md) generate wordlists
+- [20221003150433](/zet/20221003150433/README.md) wordlists generation hub
 - ~/kb/hacking/misc/important-repositories-tools.md
 - https://github.com/urbanadventurer/username-anarchy
 - [20221003150428](/zet/20221003150428/README.md) generate usernames by country with username anarchy

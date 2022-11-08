@@ -34,6 +34,6 @@
 - [20221003150429](/zet/20221003150429/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale output all formats top 10k names from facebook
 - [20221003150430](/zet/20221003150430/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale 
 - [20221003150432](/zet/20221003150432/README.md) generate wordlists namemash - simple
-- [20221003150433](/zet/20221003150433/README.md) generate wordlists
+- [20221003150433](/zet/20221003150433/README.md) wordlists generation hub
 - [20221003150458](/zet/20221003150458/README.md) redis-cli apt repository
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
