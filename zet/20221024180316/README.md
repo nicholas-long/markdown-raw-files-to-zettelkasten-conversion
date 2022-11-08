@@ -14,14 +14,6 @@
 # have duplicate tags
 #
 
-# #av
-- [20221003150317](/zet/20221003150317/README.md) malwarebytes #av #av
-- [20221003150320](/zet/20221003150320/README.md) mcaffee #av #av
-- [20221003150321](/zet/20221003150321/README.md) arctic wolf #av #av
-- [20221003150322](/zet/20221003150322/README.md) cyber reason #program #av #av
-- [20221003150324](/zet/20221003150324/README.md) vmware carbon black cloud #av #av
-- [20221003150325](/zet/20221003150325/README.md) Microsoft Defender for Endpoint - enterprise protection #av #microsoft #company #av
-
 #
 # have no tags
 #
