@@ -26,11 +26,9 @@
 109 zet/20221003150919/README.md linux enumeration quick commands list all recursively with ls sorting by modification date within directories
 108 zet/20221003150354/README.md .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
 108 zet/20221003150334/README.md python pickle serialization magic bytes header signature `80 03` `80 04` `80 05` `(dp0` base64 `gASV` `gAWV`
-107 zet/20221003150385/README.md krbrelayx printerbug.py Simple tool to trigger SpoolService bug via RPC backconnect. Similar to dementor.py
 105 zet/20221003151392/README.md bash scripting launch ubuntu build environment docker with current directory mounted as working directory
 105 zet/20221003150908/README.md linux enumeration quick commands get IP with no `ifconfig` or `ip a` on a host or within docker container
 104 zet/20221003151314/README.md bash scripting substitution syntax initialize variable with default value if empty and return it example
-104 zet/20221003150387/README.md krbrelayx addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP.
 102 zet/20221015020830/README.md walk graph and collect keywords for context and prioritize search results based on keywords and scores
 102 zet/20221003151438/README.md awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
 101 zet/20221003151010/README.md LFI or directory traversal procedures read scripts from web server process cwd downloading with curl 
@@ -64,7 +62,6 @@
 89 zet/20221003150244/README.md MOTW mark of the web microsoft alternate data stream file label ZoneId avoiding / evading
 88 zet/20221014073148/README.md reasoning behind choices for tech stack - finding dependable and long lasting technology
 88 zet/20221003151071/README.md windows color script output winpeas log scroll with colors and convert to utf8 for linux
-88 zet/20221003150386/README.md krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP.
 87 zet/20221015041944/README.md what extensions are compatible with vscode / github code editor and zet implementation?
 87 zet/20221014190040/README.md kb file named kb/hacking/powershell/load-xml-object-print-password-from-pscredential.md
 87 zet/20221003150911/README.md linux enumeration quick commands get all file hashes in directory using find and md5sum

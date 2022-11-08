@@ -1,3 +1,7 @@
+- [20221003150385](/zet/20221003150385/README.md) krbrelayx printerbug.py Simple tool to trigger SpoolService bug via RPC backconnect. Similar to dementor.py
+- [20221003150386](/zet/20221003150386/README.md) krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP.
+- [20221003150387](/zet/20221003150387/README.md) krbrelayx addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP.
+- [20221003150389](/zet/20221003150389/README.md) krbrelayx
 - [20221003150430](/zet/20221003150430/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale 
 - [20221003150483](/zet/20221003150483/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip
 - [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion

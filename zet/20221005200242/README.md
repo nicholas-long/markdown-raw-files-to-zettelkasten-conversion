@@ -32,9 +32,9 @@ this is a list of possibly empty zettels.
 #
 # Empty
 #
-- [20221003150386](/zet/20221003150386/README.md) krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP. #hacking #repositories #important 
-- [20221003150387](/zet/20221003150387/README.md) krbrelayx addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP. #hacking #repositories #important 
-- [20221003150389](/zet/20221003150389/README.md) krbrelayx #hacking #repositories #important 
+- [20221003150386](/zet/20221003150386/README.md) krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP. #hacking #repositories #important #DEL #DEL
+- [20221003150387](/zet/20221003150387/README.md) krbrelayx addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP. #hacking #repositories #important #DEL #DEL
+- [20221003150389](/zet/20221003150389/README.md) krbrelayx #hacking #repositories #important #DEL
 - [20221003150391](/zet/20221003150391/README.md) file backup fuzzer #hacking #repositories #important 
 - [20221003150419](/zet/20221003150419/README.md) text cipher encryption decryption tools #hacking #repositories #important 
 - [20221003150421](/zet/20221003150421/README.md) kerberos attack on windows host Constrained delegation abuse #hacking #repositories #important 
