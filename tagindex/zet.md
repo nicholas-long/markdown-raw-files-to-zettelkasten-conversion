@@ -1,3 +1,4 @@
+- [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten
 - [20221017173622](/zet/20221017173622/README.md) report about fixing problem tags in cards
 - [20221024180316](/zet/20221024180316/README.md) check for duplicate hashtags in cards
 - [20221025024238](/zet/20221025024238/README.md) enumerate tags

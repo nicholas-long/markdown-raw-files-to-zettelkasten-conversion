@@ -21,6 +21,7 @@
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
+- [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten
 - [20221013021614](/zet/20221013021614/README.md) zkvr terminal graph browser
 - [20221014072547](/zet/20221014072547/README.md) ideas need to be explained and connected to relevant things
 - [20221020193850](/zet/20221020193850/README.md) what is knowledge management

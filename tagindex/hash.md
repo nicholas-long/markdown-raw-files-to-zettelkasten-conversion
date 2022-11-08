@@ -1,4 +1,5 @@
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
+- [20221003150333](/zet/20221003150333/README.md) blank LM hash hex `AAD3B`
 - [20221003151167](/zet/20221003151167/README.md) got hashes
 - [20221003151382](/zet/20221003151382/README.md) bash scripting take only unique git hashes and do md5 hashes of those files
 - [20221003151415](/zet/20221003151415/README.md) bash scripting print the md5 hashes of all lines in a wordlist file
