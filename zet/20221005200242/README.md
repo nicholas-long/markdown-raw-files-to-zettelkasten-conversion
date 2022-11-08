@@ -21,11 +21,6 @@ this is a list of possibly empty zettels.
 #
 # Empty
 #
-- [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze #hacking #tools 
-- [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI #hacking #tools 
-- [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry #hacking #trick #powershell 
-- [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user #hacking #trick #powershell 
-- [20221003150488](/zet/20221003150488/README.md) active directory #command #hacking #powershell 
 - [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes #hacking #trick #pwn #python 
 - [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert #hacking #trick #pwn #python 
 - [20221003150509](/zet/20221003150509/README.md) python pwn tricks #hacking #trick #pwn #python 
@@ -71,7 +66,6 @@ this is a list of possibly empty zettels.
 - [20221003150714](/zet/20221003150714/README.md) packet capture with tcpdump watch traffic #command #hacking #packet 
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump #command #hacking #packet 
 - [20221003150720](/zet/20221003150720/README.md) curl #command #hacking #curl 
-- [20221003150730](/zet/20221003150730/README.md) powershell #command #hacking #windows #encode 
 - [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket #command #hacking #windows
 - [20221003150755](/zet/20221003150755/README.md) keytool #command #hacking #keytool 
 - [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks #command #hacking #msfvenom 
@@ -129,7 +123,6 @@ this is a list of possibly empty zettels.
 - [20221003151089](/zet/20221003151089/README.md) mimikatz #hacking #windows #mimikatz 
 - [20221003151094](/zet/20221003151094/README.md) windows API #hacking #windows #enable 
 - [20221003151099](/zet/20221003151099/README.md) powershell commands encoded command nop bypass hidden #hacking #windows
-- [20221003151101](/zet/20221003151101/README.md) powershell commands #hacking #windows
 - [20221003151108](/zet/20221003151108/README.md) dos commands net #hacking #windows #dos 
 - [20221003151110](/zet/20221003151110/README.md) dos commands admin / system #hacking #windows #dos 
 - [20221003151115](/zet/20221003151115/README.md) dos commands services sc #hacking #windows #dos 
@@ -321,11 +314,6 @@ this is a list of possibly empty zettels.
 - [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks
-- [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
-- [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry
-- [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI
-- [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze
-- [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 - [20221030082715](/zet/20221030082715/README.md) findings from converting markdown info to zet

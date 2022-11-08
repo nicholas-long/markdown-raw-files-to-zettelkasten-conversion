@@ -203,7 +203,6 @@
 - [20221003151098](/zet/20221003151098/README.md) powershell commands execute encoded command as quietly as possible
 - [20221003150473](/zet/20221003150473/README.md) powershell tricks run powershell commands as another user with RunasCs
 - [20221003151079](/zet/20221003151079/README.md) service account privileges restore using scheduled task with powershell
-- [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
 - [20221003151082](/zet/20221003151082/README.md) powerup powershell windows privesc enumeration script
 - [20221003151099](/zet/20221003151099/README.md) powershell commands encoded command nop bypass hidden
 - [20221003150470](/zet/20221003150470/README.md) powershell tricks mount smb share as drive "letter"
@@ -211,7 +210,6 @@
 - [20221003150728](/zet/20221003150728/README.md) powershell base64 encode equivalent within ps
 - [20221003151171](/zet/20221003151171/README.md) active directory domain powershell web access
 - [20221003150569](/zet/20221003150569/README.md) Powershell File Transfer As Cmd.exe Command
-- [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry
 - [20221003150466](/zet/20221003150466/README.md) powershell tricks convert guid to string
 - [20221003151049](/zet/20221003151049/README.md) change user password powershell or dos
 - [20221003150435](/zet/20221003150435/README.md) obfuscate powershell scripts (python)

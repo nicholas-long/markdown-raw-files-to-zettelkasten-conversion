@@ -2,14 +2,12 @@
 
 - best way https://github.com/antonioCoco/RunasCs
   - C# program that works even if windows remote management is disabled.
-- [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
 
 ` zet/20221003150360/README.md `
 
 # Related
 
 - [20221003150359](/zet/20221003150359/README.md) windows run commands as other user with credentials switch users on windows host with RunasCs with no WinRM remote management access
-- [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - ~/kb/hacking/misc/important-repositories-tools.md
 - https://github.com/antonioCoco/RunasCs

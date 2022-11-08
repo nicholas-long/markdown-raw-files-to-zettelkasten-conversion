@@ -23,8 +23,6 @@
 - [20221017080207](/zet/20221017080207/README.md) concept of a scam
 - [20221003150218](/zet/20221003150218/README.md) Connecting to confluent
 - [20221012154059](/zet/20221012154059/README.md) scala
-- [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI
-- [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze
 - [20221012153643](/zet/20221012153643/README.md) kafka
 - [20221012152319](/zet/20221012152319/README.md) concept of company or organization
 - https://www.confluent.io/

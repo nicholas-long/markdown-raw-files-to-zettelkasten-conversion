@@ -23,7 +23,6 @@
 - [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes
 - [20221003150504](/zet/20221003150504/README.md) python pwn tricks convert hex to int
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks
-- [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry
 - [20221003150466](/zet/20221003150466/README.md) powershell tricks convert guid to string
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221003151424](/zet/20221003151424/README.md) bash scripts

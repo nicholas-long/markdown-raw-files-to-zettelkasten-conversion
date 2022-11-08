@@ -11,7 +11,6 @@ sudo apt install -y jd-gui
 # Related
 
 - [20221014190045](/zet/20221014190045/README.md) kb file named kb/hacking/misc/tools-and-apt-packages.md
-- [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze
 - ~/kb/hacking/misc/tools-and-apt-packages.md
 
 Tags:

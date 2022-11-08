@@ -1,3 +1,2 @@
 - [20221003150489](/zet/20221003150489/README.md) html template upload file http form POST
-- [20221003150490](/zet/20221003150490/README.md) html template upload file
 - [20221003150491](/zet/20221003150491/README.md) html template

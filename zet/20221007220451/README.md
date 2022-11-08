@@ -254,6 +254,7 @@ hacking notes hub
 - [20221003151161](/zet/20221003151161/README.md) pivoting guide
 - [20221030182245](/zet/20221030182245/README.md) SVG security issues
 - [20221031093556](/zet/20221031093556/README.md) hacking video notes template
+- [20221003150503](/zet/20221003150503/README.md) pwntools
 
 Tags:
 
