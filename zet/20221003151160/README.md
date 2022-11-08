@@ -12,7 +12,6 @@ This is a supporting repo for blog post https://www.notsosecure.com/one-rule-to-
 - [20221014185643](/zet/20221014185643/README.md) kb file named kb/hacking/passwords/password_cracking_rules/README.md
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221012221003](/zet/20221012221003/README.md) weird related bug documents
-- [20221005194814](/zet/20221005194814/README.md) Related
 
 Tags:
 

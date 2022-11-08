@@ -127,7 +127,6 @@ hacking notes hub
 - [20221003150974](/zet/20221003150974/README.md) XXE xml external entity exfiltrate file out of band payload
 - [20221003151072](/zet/20221003151072/README.md) windows color script output winpeas log
 - [20221003151358](/zet/20221003151358/README.md) python scripting parse a cookie from every line on standard input
-- [20221003150421](/zet/20221003150421/README.md) kerberos attack on windows host Constrained delegation abuse
 - [20221003150099](/zet/20221003150099/README.md) python scripting format string variables
 - [20221003150311](/zet/20221003150311/README.md) SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
 - [20221007185940](/zet/20221007185940/README.md) unsorted nodes

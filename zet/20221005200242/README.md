@@ -21,7 +21,6 @@ this is a list of possibly empty zettels.
 #
 # Empty
 #
-- [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file #hacking #tools 
 - [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze #hacking #tools 
 - [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI #hacking #tools 
 - [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry #hacking #trick #powershell 
@@ -333,13 +332,6 @@ this is a list of possibly empty zettels.
 - [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI
 - [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze
 - [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file
-- [20221003150424](/zet/20221003150424/README.md) kerberos attack on windows host ticket attacks
-- [20221003150422](/zet/20221003150422/README.md) kerberos attack on windows host ticket attacks extraction and harvesting
-- [20221003150421](/zet/20221003150421/README.md) kerberos attack on windows host Constrained delegation abuse
-- [20221003150391](/zet/20221003150391/README.md) file backup fuzzer
-- [20221003150389](/zet/20221003150389/README.md) krbrelayx
-- [20221003150387](/zet/20221003150387/README.md) krbrelayx addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP.
-- [20221003150386](/zet/20221003150386/README.md) krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP.
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 - [20221030082715](/zet/20221030082715/README.md) findings from converting markdown info to zet

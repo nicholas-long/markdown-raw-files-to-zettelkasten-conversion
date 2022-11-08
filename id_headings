@@ -312,26 +312,14 @@
 20221003150380	zet/20221003150380/README.md	oracle database attacking tool odat
 20221003150381	zet/20221003150381/README.md	threatcheck obfuscate windows executable strings
 20221003150384	zet/20221003150384/README.md	krbrelayx krbrelayx.py Kerberos relaying and Unconstrained delegation abuse
-20221003150385	zet/20221003150385/README.md	krbrelayx printerbug.py Simple tool to trigger SpoolService bug via RPC backconnect. Similar to dementor.py
-20221003150386	zet/20221003150386/README.md	krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP.
-20221003150387	zet/20221003150387/README.md	krbrelayx addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP.
 20221003150388	zet/20221003150388/README.md	krbrelayx Kerberos relaying and unconstrained delegation abuse toolkit
-20221003150389	zet/20221003150389/README.md	krbrelayx
 20221003150390	zet/20221003150390/README.md	file backup fuzzer generate wordlists from filenames
-20221003150391	zet/20221003150391/README.md	file backup fuzzer
 20221003150392	zet/20221003150392/README.md	text cipher encryption decryption tools Text Manipulator
-20221003150419	zet/20221003150419/README.md	text cipher encryption decryption tools
 20221003150420	zet/20221003150420/README.md	finger user enum
-20221003150421	zet/20221003150421/README.md	kerberos attack on windows host Constrained delegation abuse
-20221003150422	zet/20221003150422/README.md	kerberos attack on windows host ticket attacks extraction and harvesting
-20221003150423	zet/20221003150423/README.md	kerberos attack on windows host ticket attacks forgery
-20221003150424	zet/20221003150424/README.md	kerberos attack on windows host ticket attacks
 20221003150425	zet/20221003150425/README.md	kerberos attack on windows host
 20221003150426	zet/20221003150426/README.md	zip slip evilarc.py
 20221003150427	zet/20221003150427/README.md	generate wordlists bopscrk people OSINT custom wordlists specific to person
 20221003150428	zet/20221003150428/README.md	generate usernames by country with username anarchy
-20221003150429	zet/20221003150429/README.md	generate wordlists username anarchy, generate from lists of names, from country and locale output all formats top 10k names from facebook
-20221003150430	zet/20221003150430/README.md	generate wordlists username anarchy, generate from lists of names, from country and locale 
 20221003150431	zet/20221003150431/README.md	username anarchy for common account formats and names
 20221003150432	zet/20221003150432/README.md	generate wordlists namemash - simple
 20221003150433	zet/20221003150433/README.md	wordlists generation hub
@@ -349,7 +337,6 @@
 20221003150445	zet/20221003150445/README.md	linpeas winpeas peass-ng release downloads
 20221003150446	zet/20221003150446/README.md	linux exploit suggester
 20221003150447	zet/20221003150447/README.md	poppler utils PDF parsing
-20221003150448	zet/20221003150448/README.md	poppler utils PDF parsing DELETE
 20221003150449	zet/20221003150449/README.md	keepass CLI tool open and edit keepass databases
 20221003150450	zet/20221003150450/README.md	padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
 20221003150451	zet/20221003150451/README.md	java decompiler JD-GUI analyze jar file
@@ -383,7 +370,6 @@
 20221003150480	zet/20221003150480/README.md	general enumeration get processes
 20221003150481	zet/20221003150481/README.md	general enumeration get list of filepaths recursively
 20221003150482	zet/20221003150482/README.md	general powershell enumeration
-20221003150483	zet/20221003150483/README.md	active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip
 20221003150484	zet/20221003150484/README.md	active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob
 20221003150485	zet/20221003150485/README.md	active directory get GMSA service account properties get GMSA password and run commands
 20221003150486	zet/20221003150486/README.md	active directory get GMSA service account properties
@@ -465,9 +451,6 @@
 20221003150569	zet/20221003150569/README.md	Powershell File Transfer As Cmd.exe Command
 20221003150571	zet/20221003150571/README.md	PHP unserialize payload gadget chains
 20221003150572	zet/20221003150572/README.md	php type juggling string and number exponent type confusion
-20221003150573	zet/20221003150573/README.md	php type juggling string and number exponent type confusion
-20221003150574	zet/20221003150574/README.md	php type juggling methodology http post data
-20221003150575	zet/20221003150575/README.md	php type juggling methodology
 20221003150576	zet/20221003150576/README.md	php type juggling
 20221003150577	zet/20221003150577/README.md	php quick client phishing attack credential harvesting
 20221003150578	zet/20221003150578/README.md	php LFI filename extension nullbyte tecnhique - below php 5.3
@@ -942,7 +925,6 @@
 20221003151049	zet/20221003151049/README.md	change user password powershell or dos
 20221003151050	zet/20221003151050/README.md	change user password
 20221003151051	zet/20221003151051/README.md	set date to match Active Directory server with ntpdate
-20221003151052	zet/20221003151052/README.md	check network time offset with network time protocol NTP server on windows AD kerberos
 20221003151053	zet/20221003151053/README.md	lsass process contains credentials
 20221003151054	zet/20221003151054/README.md	windows exploit unquoted service path meterpreter reverse service exe
 20221003151055	zet/20221003151055/README.md	get windows verison info from file read
@@ -1046,7 +1028,6 @@
 20221003151155	zet/20221003151155/README.md	linux hardening
 20221003151156	zet/20221003151156/README.md	hashcat generate passwords from password masks and output to stdout
 20221003151157	zet/20221003151157/README.md	hashcat generate wordlist from file with rules
-20221003151158	zet/20221003151158/README.md	License
 20221003151159	zet/20221003151159/README.md	Credit where credit is due
 20221003151160	zet/20221003151160/README.md	password_cracking_rule
 20221003151161	zet/20221003151161/README.md	pivoting guide
@@ -1152,7 +1133,6 @@
 20221003151262	zet/20221003151262/README.md	windows executable smartscreen protection bypass ( apt 29 )
 20221003151263	zet/20221003151263/README.md	windows executable smartscreen protection
 20221003151264	zet/20221003151264/README.md	fzf Help
-20221003151265	zet/20221003151265/README.md	fzf install
 20221003151266	zet/20221003151266/README.md	fzf run with preview
 20221003151267	zet/20221003151267/README.md	fzf
 20221003151268	zet/20221003151268/README.md	Lookup missing packages with command-not-found
@@ -1328,7 +1308,6 @@
 20221003151442	zet/20221003151442/README.md	Box drawing ascii unicode characters
 20221003151443	zet/20221003151443/README.md	kb
 20221004212452	zet/20221004212452/README.md	keyword stuffing zettels to fix bash sh
-20221005194814	zet/20221005194814/README.md	Related
 20221005195739	zet/20221005195739/README.md	testing 123
 20221005200242	zet/20221005200242/README.md	empty zettels to fix
 20221006010149	zet/20221006010149/README.md	inserting lines with sed
@@ -1350,15 +1329,9 @@
 20221006072230	zet/20221006072230/README.md	arrays in yaml
 20221006073459	zet/20221006073459/README.md	assorted notes from videos rwxrob notes `Tue Oct 4`
 20221006084204	zet/20221006084204/README.md	future enhancements to zet cmd
-20221006135903	zet/20221006135903/README.md	Related
-20221006140015	zet/20221006140015/README.md	Related
-20221006140122	zet/20221006140122/README.md	Related
-20221006140135	zet/20221006140135/README.md	Related
 20221006140520	zet/20221006140520/README.md	zet cmd spawn feature
 20221006142610	zet/20221006142610/README.md	recommending zettelkasten note-taking method
 20221006145626	zet/20221006145626/README.md	why does rwxrob's zettelkasten have so few links?
-20221006153432	zet/20221006153432/README.md	Related
-20221006153444	zet/20221006153444/README.md	Related
 20221006153641	zet/20221006153641/README.md	zettelkasten on github
 20221006185420	zet/20221006185420/README.md	rubik's cube cheat sheet
 20221006191703	zet/20221006191703/README.md	bash trick printf to variable
@@ -1516,8 +1489,6 @@
 20221011181453	zet/20221011181453/README.md	exploit path
 20221011181531	zet/20221011181531/README.md	steps
 20221011181605	zet/20221011181605/README.md	creds
-20221011181629	zet/20221011181629/README.md	usernames
-20221011181704	zet/20221011181704/README.md	passwords
 20221011181820	zet/20221011181820/README.md	privesc steps
 20221011181920	zet/20221011181920/README.md	working notes - foothold
 20221011182016	zet/20221011182016/README.md	working notes - privesc

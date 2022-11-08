@@ -23,7 +23,6 @@
 - [20221003150747](/zet/20221003150747/README.md) impacket kerberos commands ticket environment variable KRB5CCNAME
 - [20221003150746](/zet/20221003150746/README.md) impacket kerberos commands wmiexec
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
-- [20221003150424](/zet/20221003150424/README.md) kerberos attack on windows host ticket attacks
 - [20221003150384](/zet/20221003150384/README.md) krbrelayx krbrelayx.py Kerberos relaying and Unconstrained delegation abuse
 - [20221003150749](/zet/20221003150749/README.md) crackmapexec kerberos authentication with ticket include ticket environment variable
 

@@ -6,7 +6,6 @@ https://github.com/olemoudi/backup-fuzzer
 # Related
 
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
-- [20221003150391](/zet/20221003150391/README.md) file backup fuzzer
 - ~/kb/hacking/misc/important-repositories-tools.md
 
 Tags:

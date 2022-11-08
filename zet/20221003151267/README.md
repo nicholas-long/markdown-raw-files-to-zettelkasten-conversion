@@ -19,7 +19,6 @@ sudo apt update && sudo apt install fzf
 - [20221013021614](/zet/20221013021614/README.md) zkvr terminal graph browser
 - [20221011145143](/zet/20221011145143/README.md) bat command pretty printer
 - [20221003151266](/zet/20221003151266/README.md) fzf run with preview
-- [20221003151265](/zet/20221003151265/README.md) fzf install
 - [20221003151264](/zet/20221003151264/README.md) fzf Help
 - [20221022232030](/zet/20221022232030/README.md) save fzf completion history for each card
 - [20221014154934](/zet/20221014154934/README.md) terminal user interface (TUI) program

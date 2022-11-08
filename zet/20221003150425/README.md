@@ -10,9 +10,6 @@
 # Related
 
 - https://github.com/GhostPack/Rubeus
-- [20221003150421](/zet/20221003150421/README.md) kerberos attack on windows host Constrained delegation abuse
-- [20221003150424](/zet/20221003150424/README.md) kerberos attack on windows host ticket attacks
-- [20221003150422](/zet/20221003150422/README.md) kerberos attack on windows host ticket attacks extraction and harvesting
 - [20221019150132](/zet/20221019150132/README.md) kerberos AD commands
 - [20221003150747](/zet/20221003150747/README.md) impacket kerberos commands ticket environment variable KRB5CCNAME
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md

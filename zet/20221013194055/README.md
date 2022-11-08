@@ -22,7 +22,6 @@
 - [20221003151274](/zet/20221003151274/README.md) install mandown
 - [20221003150622](/zet/20221003150622/README.md) PureFTP Install
 - [20221003151215](/zet/20221003151215/README.md) caddy install
-- [20221003151265](/zet/20221003151265/README.md) fzf install
 - [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
 - [20221003150632](/zet/20221003150632/README.md) list dpkg packages installed on a certain date
 - [20221003150212](/zet/20221003150212/README.md) kafkacat install quick and dirty shell script using docker

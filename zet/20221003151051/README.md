@@ -14,7 +14,6 @@ sudo ntpdate $IP
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
-- [20221003151052](/zet/20221003151052/README.md) check network time offset with network time protocol NTP server on windows AD kerberos
 
 Tags:
 

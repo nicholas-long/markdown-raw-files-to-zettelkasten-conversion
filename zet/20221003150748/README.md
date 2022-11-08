@@ -14,7 +14,6 @@
 - [20221014185905](/zet/20221014185905/README.md) kb file named kb/hacking/commands/windows-active-directory-kerberos-commands.md
 - [20221006215623](/zet/20221006215623/README.md) scrambled machine video notes
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
-- [20221003150422](/zet/20221003150422/README.md) kerberos attack on windows host ticket attacks extraction and harvesting
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150600](/zet/20221003150600/README.md) impacket
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
