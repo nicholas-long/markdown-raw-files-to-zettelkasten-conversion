@@ -14,4 +14,4 @@
 
 Tags:
 
-    #command #hacking #ldap 
+    #command #hacking #ldap #DEL

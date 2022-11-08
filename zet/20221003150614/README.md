@@ -13,4 +13,4 @@
 
 Tags:
 
-    #command #hacking #smbclient 
+    #command #hacking #smbclient #DEL

@@ -22,8 +22,6 @@ this is a list of possibly empty zettels.
 # Empty
 #
 - [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes #hacking #trick #pwn #python 
-- [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert #hacking #trick #pwn #python 
-- [20221003150509](/zet/20221003150509/README.md) python pwn tricks #hacking #trick #pwn #python 
 - [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths #hacking #trick #pwn #tricks 
 - [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks #hacking #trick #pwn #tricks 
 - [20221003150522](/zet/20221003150522/README.md) calling conventions #hacking #pwn #calling 
@@ -44,7 +42,6 @@ this is a list of possibly empty zettels.
 - [20221003150623](/zet/20221003150623/README.md) PureFTP #command #hacking #pureftp 
 - [20221003150625](/zet/20221003150625/README.md) LDAP enumeration authenticated #command #hacking #ldap 
 - [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous #command #hacking #ldap 
-- [20221003150630](/zet/20221003150630/README.md) LDAP enumeration #command #hacking #ldap 
 - [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration #command #hacking #smbmap 
 - [20221003150635](/zet/20221003150635/README.md) smbmap #command #hacking #smbmap 
 - [20221003150638](/zet/20221003150638/README.md) nmap check for mountable NFS shares #command #hacking #nmap 
@@ -287,7 +284,6 @@ this is a list of possibly empty zettels.
 - [20221003150638](/zet/20221003150638/README.md) nmap check for mountable NFS shares
 - [20221003150635](/zet/20221003150635/README.md) smbmap
 - [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration
-- [20221003150630](/zet/20221003150630/README.md) LDAP enumeration
 - [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous
 - [20221003150625](/zet/20221003150625/README.md) LDAP enumeration authenticated
 - [20221003150623](/zet/20221003150623/README.md) PureFTP
@@ -309,7 +305,6 @@ this is a list of possibly empty zettels.
 - [20221003150517](/zet/20221003150517/README.md) binary analysis
 - [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks
 - [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths
-- [20221003150509](/zet/20221003150509/README.md) python pwn tricks
 - [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert
 - [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes
 - [20221003150488](/zet/20221003150488/README.md) active directory

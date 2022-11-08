@@ -15,4 +15,4 @@
 
 Tags:
 
-    #hacking #trick #pwn #tricks 
+    #hacking #trick #pwn #tricks #DEL
