@@ -34,7 +34,6 @@ this is a list of possibly empty zettels.
 #
 - [20221003150386](/zet/20221003150386/README.md) krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP. #hacking #repositories #important 
 - [20221003150387](/zet/20221003150387/README.md) krbrelayx addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP. #hacking #repositories #important 
-- [20221003150388](/zet/20221003150388/README.md) krbrelayx Kerberos relaying and unconstrained delegation abuse toolkit #hacking #repositories #important 
 - [20221003150389](/zet/20221003150389/README.md) krbrelayx #hacking #repositories #important 
 - [20221003150391](/zet/20221003150391/README.md) file backup fuzzer #hacking #repositories #important 
 - [20221003150419](/zet/20221003150419/README.md) text cipher encryption decryption tools #hacking #repositories #important 
@@ -356,7 +355,6 @@ this is a list of possibly empty zettels.
 - [20221003150419](/zet/20221003150419/README.md) text cipher encryption decryption tools
 - [20221003150391](/zet/20221003150391/README.md) file backup fuzzer
 - [20221003150389](/zet/20221003150389/README.md) krbrelayx
-- [20221003150388](/zet/20221003150388/README.md) krbrelayx Kerberos relaying and unconstrained delegation abuse toolkit
 - [20221003150387](/zet/20221003150387/README.md) krbrelayx addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP.
 - [20221003150386](/zet/20221003150386/README.md) krbrelayx dnstool.py Add/modify/delete Active Directory Integrated DNS records via LDAP.
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
