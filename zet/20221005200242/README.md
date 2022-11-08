@@ -19,17 +19,6 @@ this is a list of possibly empty zettels.
 
 ```
 #
-# Non-Empty
-#
-6	- [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker #hacking #privesc #run #docker #test #experiment
-5	- [20221003151343](/zet/20221003151343/README.md) convert decimal to hex #convert #awk #scripting
-5	- [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf #bash #script 
-7	- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project #zettelkasten #project 
-4	- [20221007062330](/zet/20221007062330/README.md) broken stuff to fix #todo #broken #error 
-4	- [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process #broken
-2250	- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries #idea
-
-#
 # Empty
 #
 - [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file #hacking #tools 
@@ -172,6 +161,17 @@ this is a list of possibly empty zettels.
 - [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script #python #script 
 - [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream #bash #script 
 - [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried #awk #script 
+
+#
+# Non-Empty
+#
+6	- [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker #hacking #privesc #run #docker #test #experiment
+5	- [20221003151343](/zet/20221003151343/README.md) convert decimal to hex #convert #awk #scripting
+5	- [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf #bash #script 
+7	- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project #zettelkasten #project 
+4	- [20221007062330](/zet/20221007062330/README.md) broken stuff to fix #todo #broken #error 
+4	- [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process #broken
+2250	- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries #idea
 
 ```
 

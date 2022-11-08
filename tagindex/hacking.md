@@ -160,8 +160,8 @@
 - [20221003150443](/zet/20221003150443/README.md) seclists github
 - [20221003150444](/zet/20221003150444/README.md) hacktricks markdown data github
 - [20221003150446](/zet/20221003150446/README.md) linux exploit suggester
-- [20221003150447](/zet/20221003150447/README.md) poppler utils PDF parsing pdftotext pdftohtml pdfinfo pdfimages
-- [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing
+- [20221003150447](/zet/20221003150447/README.md) poppler utils PDF parsing
+- [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing DELETE
 - [20221003150449](/zet/20221003150449/README.md) keepass CLI tool open and edit keepass databases
 - [20221003150451](/zet/20221003150451/README.md) java decompiler JD-GUI analyze jar file
 - [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file

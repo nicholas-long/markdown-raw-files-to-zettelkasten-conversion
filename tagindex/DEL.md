@@ -6,9 +6,11 @@
 - [20221003150419](/zet/20221003150419/README.md) text cipher encryption decryption tools
 - [20221003150421](/zet/20221003150421/README.md) kerberos attack on windows host Constrained delegation abuse
 - [20221003150422](/zet/20221003150422/README.md) kerberos attack on windows host ticket attacks extraction and harvesting
+- [20221003150423](/zet/20221003150423/README.md) kerberos attack on windows host ticket attacks forgery
 - [20221003150424](/zet/20221003150424/README.md) kerberos attack on windows host ticket attacks
 - [20221003150429](/zet/20221003150429/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale output all formats top 10k names from facebook
 - [20221003150430](/zet/20221003150430/README.md) generate wordlists username anarchy, generate from lists of names, from country and locale 
+- [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing DELETE
 - [20221003150483](/zet/20221003150483/README.md) active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob TODO: add steps to install from zip
 - [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion
 - [20221003150574](/zet/20221003150574/README.md) php type juggling methodology http post data

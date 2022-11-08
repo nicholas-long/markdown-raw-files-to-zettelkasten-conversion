@@ -12,8 +12,8 @@
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
 - [20221016233706](/zet/20221016233706/README.md) commits for day of 2022-09-05
 - [20221016233512](/zet/20221016233512/README.md) commits for day of 2022-05-31
-- [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing
-- [20221003150447](/zet/20221003150447/README.md) poppler utils PDF parsing pdftotext pdftohtml pdfinfo pdfimages
+- [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing DELETE
+- [20221003150447](/zet/20221003150447/README.md) poppler utils PDF parsing
 - [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze
 - [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file
 - [20221003150454](/zet/20221003150454/README.md) java decompiler JD-GUI

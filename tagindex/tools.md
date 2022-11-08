@@ -1,5 +1,5 @@
-- [20221003150447](/zet/20221003150447/README.md) poppler utils PDF parsing pdftotext pdftohtml pdfinfo pdfimages
-- [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing
+- [20221003150447](/zet/20221003150447/README.md) poppler utils PDF parsing
+- [20221003150448](/zet/20221003150448/README.md) poppler utils PDF parsing DELETE
 - [20221003150451](/zet/20221003150451/README.md) java decompiler JD-GUI analyze jar file
 - [20221003150452](/zet/20221003150452/README.md) java decompiler JD-GUI analyze war file
 - [20221003150453](/zet/20221003150453/README.md) java decompiler JD-GUI analyze
