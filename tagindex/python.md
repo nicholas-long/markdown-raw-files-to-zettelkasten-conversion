@@ -10,8 +10,6 @@
 - [20221003150504](/zet/20221003150504/README.md) python pwn tricks convert hex to int
 - [20221003150505](/zet/20221003150505/README.md) python pwn tricks convert little endian bytes to floating point
 - [20221003150506](/zet/20221003150506/README.md) python pwn tricks convert little endian bytes to int
-- [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes
-- [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert
 - [20221003150509](/zet/20221003150509/README.md) python pwn tricks
 - [20221003150939](/zet/20221003150939/README.md) python imports library search path print with python command
 - [20221003150940](/zet/20221003150940/README.md) python imports library search path

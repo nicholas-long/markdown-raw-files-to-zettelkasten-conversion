@@ -42,7 +42,6 @@
 - [20221016233427](/zet/20221016233427/README.md) commits for day of 2022-04-26
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150552](/zet/20221003150552/README.md) PhpmyAdmin write shell Windows
-- [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

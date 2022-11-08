@@ -7,7 +7,6 @@ exe runing on linux with wine -> try linux reverse shell payload
 
 - [20221014190002](/zet/20221014190002/README.md) kb file named kb/hacking/pwn/basic-win-pwn.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-- [20221003150539](/zet/20221003150539/README.md) simple binary exploits payload generation
 - ~/kb/hacking/pwn/basic-win-pwn.md
 
 Tags:

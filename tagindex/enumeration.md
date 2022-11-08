@@ -2,7 +2,7 @@
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
 - [20221003150593](/zet/20221003150593/README.md) generating enumeration wordlists exfiltrated passwd usernames to ssh key id_rsa fuzz list
-- [20221003150594](/zet/20221003150594/README.md) generating enumeration wordlists
+- [20221003150694](/zet/20221003150694/README.md) wpscan
 - [20221003150781](/zet/20221003150781/README.md) enum4linux-ng next gen default smb enumeration
 - [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen
 - [20221003150783](/zet/20221003150783/README.md) enum4linux Scan Host Suppress Errors

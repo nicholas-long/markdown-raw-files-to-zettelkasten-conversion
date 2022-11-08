@@ -9,7 +9,6 @@ echo strtotime("Sun, 05 Jun 2022 05:32:19 GMT");
 # Related
 
 - [20221014185953](/zet/20221014185953/README.md) kb file named kb/hacking/php/PHP-quick-command-reference.md
-- [20221003150584](/zet/20221003150584/README.md) php code convert human readable time to unix epoch timestamp
 - ~/kb/hacking/php/PHP-quick-command-reference.md
 
 Tags:

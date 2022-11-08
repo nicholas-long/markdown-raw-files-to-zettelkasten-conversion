@@ -34,7 +34,6 @@
 - [20221003150112](/zet/20221003150112/README.md) socat execute program bind shell
 - [20221003150564](/zet/20221003150564/README.md) python upgrade shell (TTY Shell)
 - [20221003150562](/zet/20221003150562/README.md) Python Reverse Shell As Command 
-- [20221003150614](/zet/20221003150614/README.md) smbclient shell
 - [20221003150563](/zet/20221003150563/README.md) Bash Reverse Shell
 - [20221003151259](/zet/20221003151259/README.md) stabilize shell with script command
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
@@ -179,7 +178,6 @@
 - [20221003151363](/zet/20221003151363/README.md) python scripting
 - [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference
 - [20221003150509](/zet/20221003150509/README.md) python pwn tricks
-- [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert
 - [20221003150500](/zet/20221003150500/README.md) shellshock python2 exploit
 - [20221003150749](/zet/20221003150749/README.md) crackmapexec kerberos authentication with ticket include ticket environment variable
 - [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files
@@ -191,7 +189,6 @@
 - [20221003150972](/zet/20221003150972/README.md) crack salted md5 hash with hashcat
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
 - [20221003150870](/zet/20221003150870/README.md) john the ripper crack hashes from file with wordlist
-- [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes
 - [20221003150877](/zet/20221003150877/README.md) dirty cow privilege escalation working version build on attacker machine with statically linked binaries embedded
 - [20221003151058](/zet/20221003151058/README.md) windows directory traversal path traversal LFI strings
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
@@ -234,10 +231,6 @@
 - [20221003150546](/zet/20221003150546/README.md) simple binary exploits jmp esp instruction FF E4 find with ROPgadget
 - [20221003150542](/zet/20221003150542/README.md) simple binary exploits python exploit scripts import pwntools
 - [20221003150547](/zet/20221003150547/README.md) simple binary exploits jmp esp instruction FF E4
-- [20221003150543](/zet/20221003150543/README.md) simple binary exploits python exploit scripts
-- [20221003150545](/zet/20221003150545/README.md) simple binary exploits pattern offset finding
-- [20221003150539](/zet/20221003150539/README.md) simple binary exploits payload generation
-- [20221003150548](/zet/20221003150548/README.md) simple binary exploits
 - [20221003150538](/zet/20221003150538/README.md) simple binary exploits payload generation changing architecture
 - [20221003150541](/zet/20221003150541/README.md) simple binary exploits python exploit scripts all bad characters
 - [20221003151240](/zet/20221003151240/README.md) Using touch to make files with strange names for exploiting scripts
@@ -260,7 +253,6 @@
 - [20221003150503](/zet/20221003150503/README.md) pwntools
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
 - [20221003150465](/zet/20221003150465/README.md) powershell PSCredential password
-- [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD
 - [20221003151290](/zet/20221003151290/README.md) C template copy/pipe output to/from processes with popen fgetc fputc
 - [20221003150489](/zet/20221003150489/README.md) html template upload file http form POST

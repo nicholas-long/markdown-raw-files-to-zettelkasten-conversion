@@ -25,7 +25,6 @@
 - [20221003150840](/zet/20221003150840/README.md) gobuster vhost enumeration
 - [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration
 - [20221003150698](/zet/20221003150698/README.md) SNMP enumeration command
-- [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous
 - [20221003150830](/zet/20221003150830/README.md) postgres sql enumeration
 - [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen
 - [20221003150784](/zet/20221003150784/README.md) enum4linux Scan Host

@@ -10,7 +10,6 @@
 # Related
 
 - [20221016233601](/zet/20221016233601/README.md) commits for day of 2022-07-15
-- [20221003150525](/zet/20221003150525/README.md) make executable binary with input shellcode
 - [20221003150524](/zet/20221003150524/README.md) make executable binary with input shellcode msfvenom
 - [20221003151443](/zet/20221003151443/README.md) kb
 

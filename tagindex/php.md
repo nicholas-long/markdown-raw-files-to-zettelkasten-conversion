@@ -1,7 +1,6 @@
 - [20221003150572](/zet/20221003150572/README.md) php type juggling string and number exponent type confusion
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
 - [20221003150583](/zet/20221003150583/README.md) php code convert human readable time to unix epoch timestamp apache HTTP Date header
-- [20221003150584](/zet/20221003150584/README.md) php code convert human readable time to unix epoch timestamp
 - [20221003150585](/zet/20221003150585/README.md) php code embed file or multiline string as heredoc variable
 - [20221003150586](/zet/20221003150586/README.md) php code write to file easy file write
 - [20221003150587](/zet/20221003150587/README.md) php code write to file

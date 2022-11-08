@@ -6,4 +6,3 @@
 - [20221003150691](/zet/20221003150691/README.md) wpscan initial vulnerable themes
 - [20221003150692](/zet/20221003150692/README.md) wpscan initial all plugins passive scan
 - [20221003150693](/zet/20221003150693/README.md) wpscan initial
-- [20221003150694](/zet/20221003150694/README.md) wpscan

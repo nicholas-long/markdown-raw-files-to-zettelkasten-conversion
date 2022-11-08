@@ -22,7 +22,6 @@
 - [20221003150335](/zet/20221003150335/README.md) java serialization payload `rO0` base64 `AC ED 00 05` in hex
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
 - [20221003150929](/zet/20221003150929/README.md) C setuid suid backdoor exploit
-- [20221003150548](/zet/20221003150548/README.md) simple binary exploits
 - [20221003150446](/zet/20221003150446/README.md) linux exploit suggester
 - [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads
 

@@ -1,17 +1,1 @@
-- [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes
-- [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert
-- [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths
-- [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks
-- [20221003150525](/zet/20221003150525/README.md) make executable binary with input shellcode
-- [20221003150535](/zet/20221003150535/README.md) immunity debugger mona commands search for opcode string jmp esp
-- [20221003150539](/zet/20221003150539/README.md) simple binary exploits payload generation
-- [20221003150543](/zet/20221003150543/README.md) simple binary exploits python exploit scripts
-- [20221003150545](/zet/20221003150545/README.md) simple binary exploits pattern offset finding
-- [20221003150548](/zet/20221003150548/README.md) simple binary exploits
-- [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell
-- [20221003150584](/zet/20221003150584/README.md) php code convert human readable time to unix epoch timestamp
-- [20221003150594](/zet/20221003150594/README.md) generating enumeration wordlists
-- [20221003150614](/zet/20221003150614/README.md) smbclient shell
-- [20221003150620](/zet/20221003150620/README.md) PureFTP Get Service Ready
-- [20221003150625](/zet/20221003150625/README.md) LDAP enumeration authenticated
-- [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous
+- [20221003150693](/zet/20221003150693/README.md) wpscan initial

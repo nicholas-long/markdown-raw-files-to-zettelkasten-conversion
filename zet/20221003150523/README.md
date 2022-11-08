@@ -8,7 +8,6 @@ https://heap-exploitation.dhavalkapil.com/diving_into_glibc_heap/malloc_chunk
 # Related
 
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list
-- [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks
 - [20221003150509](/zet/20221003150509/README.md) python pwn tricks
 - [20221003150503](/zet/20221003150503/README.md) pwntools
 

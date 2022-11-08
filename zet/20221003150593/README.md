@@ -8,7 +8,6 @@ awk -F: '{print $6 "/.ssh/id_rsa" }' passwd
 # Related
 
 - [20221014185952](/zet/20221014185952/README.md) kb file named kb/hacking/commands/enumeration-util.md
-- [20221003150594](/zet/20221003150594/README.md) generating enumeration wordlists
 - ~/kb/hacking/commands/enumeration-util.md
 
 Tags:

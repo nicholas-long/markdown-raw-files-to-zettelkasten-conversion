@@ -9,7 +9,6 @@ from pwn import *
 
 - [20221014190002](/zet/20221014190002/README.md) kb file named kb/hacking/pwn/basic-win-pwn.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-- [20221003150543](/zet/20221003150543/README.md) simple binary exploits python exploit scripts
 - ~/kb/hacking/pwn/basic-win-pwn.md
 
 Tags:
