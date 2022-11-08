@@ -1,1 +1,0 @@
- # krbrelayx ## addspn.py This tool can add/remove/modify Service Principal Names on accounts in AD over LDAP.
