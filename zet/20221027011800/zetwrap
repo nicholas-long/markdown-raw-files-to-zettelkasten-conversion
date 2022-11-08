@@ -35,9 +35,11 @@ if [ ! -d zet ]; then
   exit 1
 fi
 
-export ZET_DIR="$(pwd)"
-echo "current zettelkasten: $ZET_DIR" > /dev/stderr
-implementation="$ZET_DIR/zet/$ZET_IMPL_ID"
+if [ -z "$ZET_DIR" ]; then # don't print this message in subprocesses
+  export ZET_DIR="$(pwd)"
+  echo "current zettelkasten: $ZET_DIR" > /dev/stderr
+fi
+implementation="$ZET_DIR/zet/$ZET_IMPL_ID" # this card's scripts
 
 action=$1
 shift
@@ -52,15 +54,21 @@ if [[ "$action" == "help" || "$action" == "--help" ]]; then
   if [ -z "$prettyname" ]; then
     export prettyname=$(awk 'BEGIN { split(ENVIRON["ZET_PROG"],arr,"/"); print arr[length(arr)] }')
   fi
+  echo "$prettyname"
   echo "full list of actions:"
-  ls $implementation/zc-* | awk -F / '{ gsub(/^zc-/,"",$NF); print $NF }'
+  #ls $implementation/zc-* | awk -F / '{ gsub(/^zc-/,"",$NF); print $NF }'
+  find $implementation -name 'zc-*' | xargs -n 1 "$0" helptext --summary
   echo "for help on any action, run $prettyname <action> --help"
   exit 0
 fi
 
 actionexec="$implementation/zc-$action"
-if [ -f "$actionexec" ]; then
-  "$actionexec" $@
+if [ "$1" == "--help" ]; then
+  "$implementation/zc-helptext" "$actionexec"
+elif [ "$1" == "-h" ]; then
+  "$implementation/zc-helptext" "$actionexec"
+elif [ -f "$actionexec" ]; then
+  "$actionexec" "$@" # wrap arguments in quotes
 else
   echo "ERROR: unknown action $action" > /dev/stderr
   "$ZET_PROG" --help 2>/dev/null
