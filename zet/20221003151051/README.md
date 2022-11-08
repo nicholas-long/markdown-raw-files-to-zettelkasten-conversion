@@ -1,4 +1,6 @@
 # set date to match Active Directory server with ntpdate
+
+- check network time offset with network time protocol NTP server on windows AD kerberos
 ```bash
 sudo apt install ntpsec-ntpdate
 # query date

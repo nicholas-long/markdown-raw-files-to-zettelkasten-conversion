@@ -148,7 +148,6 @@ this is a list of possibly empty zettels.
 - [20221003151047](/zet/20221003151047/README.md) windows reverse shell AV bypass active directory endpoint protection #hacking #windows
 - [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass #hacking #windows #av
 - [20221003151050](/zet/20221003151050/README.md) change user password #hacking #windows
-- [20221003151052](/zet/20221003151052/README.md) check network time offset with network time protocol NTP server on windows AD kerberos 
 - [20221003151057](/zet/20221003151057/README.md) get windows enumeration info from file read #hacking
 - [20221003151066](/zet/20221003151066/README.md) AMSI detect windows defender #hacking #windows
 - [20221003151067](/zet/20221003151067/README.md) AMSI #hacking #windows
@@ -240,7 +239,6 @@ this is a list of possibly empty zettels.
 - [20221003151067](/zet/20221003151067/README.md) AMSI
 - [20221003151066](/zet/20221003151066/README.md) AMSI detect windows defender
 - [20221003151057](/zet/20221003151057/README.md) get windows enumeration info from file read
-- [20221003151052](/zet/20221003151052/README.md) check network time offset with network time protocol NTP server on windows AD kerberos
 - [20221003151050](/zet/20221003151050/README.md) change user password
 - [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass
 - [20221003151047](/zet/20221003151047/README.md) windows reverse shell AV bypass active directory endpoint protection

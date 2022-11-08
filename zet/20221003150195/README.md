@@ -19,4 +19,4 @@
 
 Tags:
 
-    
+    #trick #linux #bash #cron

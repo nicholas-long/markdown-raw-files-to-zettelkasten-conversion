@@ -1,4 +1,5 @@
 # todo
+
 - consolidate openssl commands
 - consolidate hydra commands
 - old files
@@ -10,6 +11,7 @@
 
 # Related
 
+- [20221014185515](/zet/20221014185515/README.md) kb file named kb/scratch.md
 - [20221021202250](/zet/20221021202250/README.md) put all the link titles in square brackets and automatically update them
 - [20221019220305](/zet/20221019220305/README.md) combine common commands and enum quick commands
 - [20221018182017](/zet/20221018182017/README.md) read bash man page
@@ -41,11 +43,10 @@
 - [20221010183037](/zet/20221010183037/README.md) importing zettelkasten data
 - [20221028085630](/zet/20221028085630/README.md) make links for refs with symlinks
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
-- [20221014185515](/zet/20221014185515/README.md) kb file named kb/scratch.md
 - [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal
 - [20221031160706](/zet/20221031160706/README.md) syncing images from onedrive
 - [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 
 Tags:
 
-    
+    #todo #list

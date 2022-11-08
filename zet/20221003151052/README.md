@@ -4,8 +4,8 @@
 
 # Related
 
+- [20221003151051](/zet/20221003151051/README.md) set date to match Active Directory server with ntpdate
 
 Tags:
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
-    
+    #DEL

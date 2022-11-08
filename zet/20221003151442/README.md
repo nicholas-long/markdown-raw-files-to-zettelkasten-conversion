@@ -62,4 +62,4 @@ drwxr-xr-x  3 kali kali 4096 Jan 27 17:58 priv-esc                              
 
 Tags:
 
-    
+    #fun #text #trick
