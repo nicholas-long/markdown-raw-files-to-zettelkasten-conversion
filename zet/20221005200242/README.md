@@ -26,9 +26,6 @@ this is a list of possibly empty zettels.
 - [20221003150469](/zet/20221003150469/README.md) powershell tricks browse and edit registry #hacking #trick #powershell 
 - [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user #hacking #trick #powershell 
 - [20221003150488](/zet/20221003150488/README.md) active directory #command #hacking #powershell 
-- [20221003150490](/zet/20221003150490/README.md) html template upload file #hacking #html.templates 
-- [20221003150491](/zet/20221003150491/README.md) html template #hacking #html.templates 
-- [20221003150503](/zet/20221003150503/README.md) pwntools #hacking #pwn #pwntools 
 - [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes #hacking #trick #pwn #python 
 - [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert #hacking #trick #pwn #python 
 - [20221003150509](/zet/20221003150509/README.md) python pwn tricks #hacking #trick #pwn #python 
@@ -322,9 +319,6 @@ this is a list of possibly empty zettels.
 - [20221003150509](/zet/20221003150509/README.md) python pwn tricks
 - [20221003150508](/zet/20221003150508/README.md) python pwn tricks convert
 - [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes
-- [20221003150503](/zet/20221003150503/README.md) pwntools
-- [20221003150491](/zet/20221003150491/README.md) html template
-- [20221003150490](/zet/20221003150490/README.md) html template upload file
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks
 - [20221003150475](/zet/20221003150475/README.md) powershell tricks run powershell commands as another user
