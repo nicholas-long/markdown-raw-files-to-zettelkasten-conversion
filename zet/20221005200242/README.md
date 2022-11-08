@@ -21,27 +21,11 @@ this is a list of possibly empty zettels.
 #
 # Empty
 #
-- [20221003150507](/zet/20221003150507/README.md) python pwn tricks convert little endian bytes #hacking #trick #pwn #python 
-- [20221003150511](/zet/20221003150511/README.md) pwn commands / tricks patchelf ld paths #hacking #trick #pwn #tricks 
-- [20221003150512](/zet/20221003150512/README.md) pwn commands / tricks #hacking #trick #pwn #tricks 
 - [20221003150522](/zet/20221003150522/README.md) calling conventions #hacking #pwn #calling 
-- [20221003150525](/zet/20221003150525/README.md) make executable binary with input shellcode #hacking #pwn #shellcode 
 - [20221003150529](/zet/20221003150529/README.md) gdb commands #command #hacking #pwn #gdb 
-- [20221003150535](/zet/20221003150535/README.md) immunity debugger mona commands search for opcode string jmp esp #hacking #pwn #basic 
 - [20221003150537](/zet/20221003150537/README.md) immunity debugger mona commands #hacking #pwn #basic 
-- [20221003150539](/zet/20221003150539/README.md) simple binary exploits payload generation #hacking #pwn #basic 
-- [20221003150543](/zet/20221003150543/README.md) simple binary exploits python exploit scripts #hacking #pwn #basic 
-- [20221003150545](/zet/20221003150545/README.md) simple binary exploits pattern offset finding #hacking #pwn #basic 
-- [20221003150548](/zet/20221003150548/README.md) simple binary exploits #hacking #pwn #basic 
-- [20221003150553](/zet/20221003150553/README.md) PhpmyAdmin write shell #command #hacking
-- [20221003150584](/zet/20221003150584/README.md) php code convert human readable time to unix epoch timestamp #command #hacking #php 
 - [20221003150592](/zet/20221003150592/README.md) php #command #hacking #php 
-- [20221003150594](/zet/20221003150594/README.md) generating enumeration wordlists #command #hacking #enumeration 
-- [20221003150614](/zet/20221003150614/README.md) smbclient shell #command #hacking #smbclient 
-- [20221003150620](/zet/20221003150620/README.md) PureFTP Get Service Ready #command #hacking #pureftp 
 - [20221003150623](/zet/20221003150623/README.md) PureFTP #command #hacking #pureftp 
-- [20221003150625](/zet/20221003150625/README.md) LDAP enumeration authenticated #command #hacking #ldap 
-- [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous #command #hacking #ldap 
 - [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration #command #hacking #smbmap 
 - [20221003150635](/zet/20221003150635/README.md) smbmap #command #hacking #smbmap 
 - [20221003150638](/zet/20221003150638/README.md) nmap check for mountable NFS shares #command #hacking #nmap 

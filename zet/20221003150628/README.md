@@ -19,6 +19,7 @@ nmap -n -sV --script "ldap* and not brute" --script-args 'ldap.maxobjects=-1' $I
 - [20221013173355](/zet/20221013173355/README.md) enumeration - the process of enumerating a target
 - [20221003150629](/zet/20221003150629/README.md) LDAP enumeration anonymous
 - ~/kb/hacking/commands/ldap.md
+- [20221003150630](/zet/20221003150630/README.md) LDAP enumeration
 
 Tags:
 
