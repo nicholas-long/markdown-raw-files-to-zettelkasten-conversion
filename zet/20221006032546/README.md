@@ -156,4 +156,4 @@ Options:
 
 Tags:
 
-    #zettelkasten #bash #coding #program #script #command #command #repo
+    #zettelkasten #bash #coding #program #script #command #repo

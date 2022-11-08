@@ -1,5 +1,6 @@
 # create openssl client certificates from leaked CA private key
-ippsec video "LaCasaDePapel"
+
+- example in ippsec video "LaCasaDePapel" <https://www.youtube.com/watch?v=OSRCEOQQJ4E>
 - get certificate chain for site -> export x509 from firefox
 - create a key
 - create a certificate signing request
@@ -15,6 +16,7 @@ ippsec video "LaCasaDePapel"
 
 # Related
 
+- <https://www.youtube.com/watch?v=OSRCEOQQJ4E>
 - [20221014190103](/zet/20221014190103/README.md) kb file named kb/hacking/misc/openssl-client-certificates.md
 - [20221006214348](/zet/20221006214348/README.md) ippsec
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
@@ -26,4 +28,4 @@ ippsec video "LaCasaDePapel"
 
 Tags:
 
-    
+    #hacking #crypto #web #users #cert

@@ -4,4 +4,4 @@
 
 - [20221003151160](/zet/20221003151160/README.md) password_cracking_rule
 
-` zet/20221005194814/README.md `
+    #DEL

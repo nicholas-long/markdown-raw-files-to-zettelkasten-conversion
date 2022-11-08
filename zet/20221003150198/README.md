@@ -15,4 +15,4 @@
 
 Tags:
 
-    
+    #emacs #bash #hotkey
