@@ -13,15 +13,15 @@ for id in $(
 done > $tf
 
 echo "#"
-echo "# Non-Empty"
-echo "#"
-awk '$2 != 1 {print $1}' $tf | ./graphquery --human '/dev/stdin' | paste <( awk '$2 != 1 {print $2}' $tf) -
-echo ""
-
-echo "#"
 echo "# Empty"
 echo "#"
 awk '$2 == 1 {print $1}' $tf | ./graphquery --human '/dev/stdin' not <( ./graphquery @DEL )
+echo ""
+
+echo "#"
+echo "# Non-Empty"
+echo "#"
+awk '$2 != 1 {print $1}' $tf | ./graphquery --human '/dev/stdin' | paste <( awk '$2 != 1 {print $2}' $tf) -
 echo ""
 
 rm "$tf"
