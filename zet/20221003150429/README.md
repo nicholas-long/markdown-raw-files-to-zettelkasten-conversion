@@ -6,8 +6,8 @@
 
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - ~/kb/hacking/misc/important-repositories-tools.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221003150428](/zet/20221003150428/README.md) generate usernames by country with username anarchy
 
 Tags:
 
-    #hacking #repositories #important 
+    #hacking #repositories #important #DEL

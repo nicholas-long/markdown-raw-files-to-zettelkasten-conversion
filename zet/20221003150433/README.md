@@ -1,4 +1,8 @@
-# generate wordlists
+# wordlists generation hub
+
+- [20221003150427](/zet/20221003150427/README.md) bopscrk people OSINT custom wordlists specific to person
+- [20221003150432](/zet/20221003150432/README.md) namemash - simple
+- [20221003150431](/zet/20221003150431/README.md) username anarchy for common account formats and names
 
 ` zet/20221003150433/README.md `
 
@@ -10,8 +14,7 @@
 - [20221003150431](/zet/20221003150431/README.md) username anarchy for common account formats and names
 - [20221003150427](/zet/20221003150427/README.md) generate wordlists bopscrk people OSINT custom wordlists specific to person
 - ~/kb/hacking/misc/important-repositories-tools.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 
-    #hacking #repositories #important 
+    #hacking #repositories #important #wordlist #hub
