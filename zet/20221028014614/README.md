@@ -11,10 +11,10 @@
 107 zet/20221005200242/snippet awk '$2 != 1 {print $1}' $tf | ./graphquery --human '/dev/stdin' | paste <( awk '$2 != 1 {print $2}' $tf) -
 106 zet/20221009192000/snippet ./graphquery --human id $CARD_ID : not $mainreadme # all references in this card that are not on README.md
 101 zet/20221006213953/snippet ./graphquery --human @videonotes or <( ./graphquery @video @notes ) not <(./graphquery id $MYID refs)
+91 zet/20221005200242/snippet awk '$2 == 1 {print $1}' $tf | ./graphquery --human '/dev/stdin' not <( ./graphquery @DEL )
 78 zet/20221012144502/autoexec_enrich ./graphquery id $RECENT_MOD : not $recentids not <( echo $MY_ID ) | grep . | \
 75 zet/20221012144502/autoexec_enrich ./graphquery $recentids not <( ./graphquery id $RECENT_MOD : ) | grep . | \
 67 zet/20221028194014/snippet ' | sort -nr | grep -v -f <( ./graphquery @DEL ) # hide deleted IDs
-64 zet/20221005200242/snippet awk '$2 == 1 {print $1}' $tf | ./graphquery --human '/dev/stdin'
 56 zet/20221026181955/snippet zet/20221023085822/walkquery --human @to-try-list refs \
 46 zet/20221017173622/snippet ./graphquery '@done' '@hub' refs > $donethings
 44 zet/20221017173622/snippet   or <( ./graphquery id $bashtricks refs ) \

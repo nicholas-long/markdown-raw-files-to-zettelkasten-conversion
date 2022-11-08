@@ -21,7 +21,7 @@ echo ""
 echo "#"
 echo "# Empty"
 echo "#"
-awk '$2 == 1 {print $1}' $tf | ./graphquery --human '/dev/stdin'
+awk '$2 == 1 {print $1}' $tf | ./graphquery --human '/dev/stdin' not <( ./graphquery @DEL )
 echo ""
 
 rm "$tf"
