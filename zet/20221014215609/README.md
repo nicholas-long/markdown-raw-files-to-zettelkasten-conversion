@@ -19,6 +19,7 @@
 - [20221028200515](/zet/20221028200515/README.md) weird new issues with enrich and graph query
 - [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 - [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
+- [20221024180316](/zet/20221024180316/README.md) check for duplicate hashtags in cards
 
 Tags:
 

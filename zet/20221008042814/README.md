@@ -6,7 +6,6 @@ stuff i am working on.
 
 # Related
 
-- [20221024180316](/zet/20221024180316/README.md) check for duplicate hashtags in cards
 - [20221006051705](/zet/20221006051705/README.md) moving to real zk implementation
 - [20221023084432](/zet/20221023084432/README.md) graph theory
 - [20221030010849](/zet/20221030010849/README.md) fix line lengths

@@ -25,7 +25,7 @@
 
 - [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
-- [20221008042814](/zet/20221008042814/README.md) WIP
+- [20221014215609](/zet/20221014215609/README.md) finished, but with ongoing related work
 
 Tags:
 
