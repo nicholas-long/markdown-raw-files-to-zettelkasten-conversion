@@ -1,5 +1,6 @@
 - [20221003150183](/zet/20221003150183/README.md) add user to docker group
 - [20221003150184](/zet/20221003150184/README.md) add user to group
+- [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
 - [20221003150979](/zet/20221003150979/README.md) mariadb mysql files read database users
 - [20221003151199](/zet/20221003151199/README.md) finger tcp 79
 - [20221003151367](/zet/20221003151367/README.md) bash scripting list public github repositories for user

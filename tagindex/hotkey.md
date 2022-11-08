@@ -1,2 +1,1 @@
 - [20221003150198](/zet/20221003150198/README.md) control key mappings for sh
-- [20221012134856](/zet/20221012134856/README.md) what is org roam

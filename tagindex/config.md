@@ -2,4 +2,5 @@
 - [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
 - [20221003150223](/zet/20221003150223/README.md) bettercap settings
 - [20221003150313](/zet/20221003150313/README.md) default http config locations FreeBSD
+- [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag
 - [20221003150936](/zet/20221003150936/README.md) fail2ban default config location

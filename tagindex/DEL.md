@@ -4,5 +4,6 @@
 - [20221003150574](/zet/20221003150574/README.md) php type juggling methodology http post data
 - [20221003150575](/zet/20221003150575/README.md) php type juggling methodology
 - [20221003151265](/zet/20221003151265/README.md) fzf install
+- [20221005194814](/zet/20221005194814/README.md) Related
 - [20221011181629](/zet/20221011181629/README.md) usernames
 - [20221011181704](/zet/20221011181704/README.md) passwords

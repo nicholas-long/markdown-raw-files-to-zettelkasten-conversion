@@ -14,6 +14,7 @@
 - [20221003150175](/zet/20221003150175/README.md) unix editor ex / ed example commands
 - [20221003150176](/zet/20221003150176/README.md) ex editor
 - [20221003151443](/zet/20221003151443/README.md) kb
+- [20221003150177](/zet/20221003150177/README.md) ex editor TTY notes
 
 Tags:
 

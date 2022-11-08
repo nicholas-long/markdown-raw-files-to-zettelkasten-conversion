@@ -170,7 +170,7 @@
 - [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`
 - [20221006204315](/zet/20221006204315/README.md) fastest way to take graph notes
 - [20221006213953](/zet/20221006213953/README.md) video notes
-- [20221003150177](/zet/20221003150177/README.md) notes
+- [20221003150177](/zet/20221003150177/README.md) ex editor TTY notes
 - [20221003150249](/zet/20221003150249/README.md) Apache guacamole RDP VNC SSH in web browser default creds
 - [20221006054727](/zet/20221006054727/README.md) idea about zettels, commits, and scripts
 - [20221006142610](/zet/20221006142610/README.md) recommending zettelkasten note-taking method

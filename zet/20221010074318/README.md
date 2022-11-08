@@ -26,7 +26,7 @@ something i've been thinking about this year.
 - [20221003150194](/zet/20221003150194/README.md) set the bash prompt to use vi hotkeys
 - [20221009162948](/zet/20221009162948/README.md) useful vim hotkeys for zettelkasten
 - [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks
-- [20221003150177](/zet/20221003150177/README.md) notes
+- [20221003150177](/zet/20221003150177/README.md) ex editor TTY notes
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221003151267](/zet/20221003151267/README.md) fzf
 - [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf

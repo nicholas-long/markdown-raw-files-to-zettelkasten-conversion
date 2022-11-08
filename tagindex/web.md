@@ -1,5 +1,7 @@
+- [20221003150243](/zet/20221003150243/README.md) jekyll blog markdown to html
 - [20221003150252](/zet/20221003150252/README.md) httponly cookie option
 - [20221003150259](/zet/20221003150259/README.md) firefox
+- [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
 - [20221003150272](/zet/20221003150272/README.md) web server file executable extensions ASP
 - [20221003150273](/zet/20221003150273/README.md) web server file executable extensions PHP
 - [20221003150274](/zet/20221003150274/README.md) web server file executable extensions
@@ -11,9 +13,11 @@
 - [20221003150287](/zet/20221003150287/README.md) default webroots xampp
 - [20221003150288](/zet/20221003150288/README.md) default webroots wamp
 - [20221003150289](/zet/20221003150289/README.md) default webroots
+- [20221003150290](/zet/20221003150290/README.md) Potentially risky HTTP methods: TRACE
 - [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
 - [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
 - [20221003150313](/zet/20221003150313/README.md) default http config locations FreeBSD
+- [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag
 - [20221003150343](/zet/20221003150343/README.md) wordpress
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
 - [20221003150392](/zet/20221003150392/README.md) text cipher encryption decryption tools Text Manipulator

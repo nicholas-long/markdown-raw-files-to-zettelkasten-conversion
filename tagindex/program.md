@@ -4,6 +4,7 @@
 - [20221003150140](/zet/20221003150140/README.md) apt package
 - [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
 - [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
+- [20221003150243](/zet/20221003150243/README.md) jekyll blog markdown to html
 - [20221003150250](/zet/20221003150250/README.md) Apache guacamole RDP VNC SSH in web browser
 - [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082
 - [20221003150259](/zet/20221003150259/README.md) firefox

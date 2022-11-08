@@ -40,6 +40,7 @@
 - [20221003150268](/zet/20221003150268/README.md) IPMI intelligent platform management interface BMC
 - [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix
 - [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface
+- [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
 - [20221003150272](/zet/20221003150272/README.md) web server file executable extensions ASP
 - [20221003150273](/zet/20221003150273/README.md) web server file executable extensions PHP
 - [20221003150274](/zet/20221003150274/README.md) web server file executable extensions

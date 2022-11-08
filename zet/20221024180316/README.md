@@ -14,32 +14,19 @@
 # have duplicate tags
 #
 
-# #command
-- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd #zettelkasten #bash #coding #program #script #command #command #repo
-
-# #hacking
-- [20221003151161](/zet/20221003151161/README.md) pivoting guide #hacking #networking #pivot #hacking
-
-# #todo
-- [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically #todo #todo #enhancement
-
-# `
-- [20221005194814](/zet/20221005194814/README.md) Related ` zet/20221005194814/README.md `
+# #av
+- [20221003150317](/zet/20221003150317/README.md) malwarebytes #av #av
+- [20221003150320](/zet/20221003150320/README.md) mcaffee #av #av
+- [20221003150321](/zet/20221003150321/README.md) arctic wolf #av #av
+- [20221003150322](/zet/20221003150322/README.md) cyber reason #program #av #av
+- [20221003150324](/zet/20221003150324/README.md) vmware carbon black cloud #av #av
+- [20221003150325](/zet/20221003150325/README.md) Microsoft Defender for Endpoint - enterprise protection #av #microsoft #company #av
 
 #
 # have no tags
 #
 - [20221003150098](/zet/20221003150098/README.md) todo 
-- [20221003150177](/zet/20221003150177/README.md) notes 
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send 
-- [20221003150198](/zet/20221003150198/README.md) control key mappings for sh 
-- [20221003150243](/zet/20221003150243/README.md) jekyll blog markdown to html 
-- [20221003150255](/zet/20221003150255/README.md) solidity 
-- [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key 
-- [20221003150290](/zet/20221003150290/README.md) Potentially risky HTTP methods: TRACE 
-- [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag 
-- [20221003150317](/zet/20221003150317/README.md) malwarebytes 
-- [20221003150323](/zet/20221003150323/README.md) crowdstrike falcon 
 - [20221003150333](/zet/20221003150333/README.md) blank LM hash hex `AAD3B` 
 - [20221003150358](/zet/20221003150358/README.md) jxplorer connect to LDAP GUI access 
 - [20221003150459](/zet/20221003150459/README.md) openssl cipher commands encrypt text 

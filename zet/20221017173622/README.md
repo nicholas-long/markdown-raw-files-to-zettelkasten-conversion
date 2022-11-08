@@ -6,6 +6,7 @@
 #
 # unlabled scripts and commands and things 
 #
+- [20221003150198](/zet/20221003150198/README.md) control key mappings for sh #emacs #bash #hotkey
 - [20221030094509](/zet/20221030094509/README.md) interesting idea to display images with text in terminal #idea #bash #scripting
 
 --------------------------------------------------------------------------------
@@ -20,9 +21,9 @@ base64 bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
 c-language c2 calling capabilities cert cleanup cms coding command company concept config container convert copy crack creds crypto ctf curl cyberpunk
 data database date dayinhistory debian debug debugging decrypt defense deploy deserialization devops diag diagram diff dirty dll dns docker done dos dotfiles download dpkg ds dump
 edit editor emacs email enable encode enhancement enumeration error etc ex example expect experiment exploit extract
-feature feroxbuster fidget file filehash filepath files filesystem find finding fix force format free fun fzf-fuzzy-find
+feature feroxbuster fidget file filehash filepath files filesystem finance find finding fix force format free fun fzf-fuzzy-find
 games gdb gef generate get git github go gobuster got graph grep
-hacking hardware hash help hex hibernate html.templates http hub hydra
+hacking hardware hash help hex hibernate hotkey html.templates http hub hydra
 idea identify image impacket implementation important info initialize install interesting iptables
 java javascript jenkins job john jq json jwt
 kafka kali kb_import kerberos keytool ksql kubernetes

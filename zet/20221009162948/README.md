@@ -43,7 +43,7 @@ c  "o   /- [^Mww"zye:e zet/^Rz/README.tx<80>kb<80>kbmd^M
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten
-- [20221003150177](/zet/20221003150177/README.md) notes
+- [20221003150177](/zet/20221003150177/README.md) ex editor TTY notes
 - [20221008214827](/zet/20221008214827/README.md) the concept of utility or being useful
 - [20221006013313](/zet/20221006013313/README.md) zettelkasten
 - [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
