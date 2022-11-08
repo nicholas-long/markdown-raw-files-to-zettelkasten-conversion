@@ -24,7 +24,7 @@ stuff i am working on.
 - [20221030030036](/zet/20221030030036/README.md) move my environ and dotfiles into zet
 - [20221027150053](/zet/20221027150053/README.md) cleanup fix and consolidate tags
 - [20221027194304](/zet/20221027194304/README.md) rwxrob terminal velocity video 10-27
-- [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
+- [20221027011800](/zet/20221027011800/README.md) zetcli bash wrapper subcommand implementation
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221026074040](/zet/20221026074040/README.md) how to save tabstop settings in github vscode
 - [20221013204452](/zet/20221013204452/README.md) make a video of terminal graph browser and zkvr workflow loop in action

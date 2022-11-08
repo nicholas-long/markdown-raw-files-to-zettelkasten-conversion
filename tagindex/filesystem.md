@@ -1,2 +1,2 @@
 - [20221006063114](/zet/20221006063114/README.md) small files are stored in inodes in ext4
-- [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
+- [20221027011800](/zet/20221027011800/README.md) zetcli bash wrapper subcommand implementation

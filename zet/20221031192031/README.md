@@ -47,7 +47,7 @@ lrwxrwxrwx    1 kali kali     18 Oct 28 18:39 conversion-scripts -> zet/20221007
 - [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
 - [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
 - [20221028173620](/zet/20221028173620/README.md) yq binaries
-- [20221027011800](/zet/20221027011800/README.md) testing bash wrapper subcommand implementation
+- [20221027011800](/zet/20221027011800/README.md) zetcli bash wrapper subcommand implementation
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page
