@@ -1,3 +1,4 @@
+- [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
 - [20221003150277](/zet/20221003150277/README.md) pfx extension PKCS#12 format certificate cracking with johntheripper
 - [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
 - [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
@@ -153,6 +154,7 @@
 - [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory
 - [20221003151422](/zet/20221003151422/README.md) bash scripting use awk to print only unique lines as a stream processor
 - [20221003151423](/zet/20221003151423/README.md) bash scripting urlencode and base64 encode lines individually
+- [20221003151442](/zet/20221003151442/README.md) Box drawing ascii unicode characters
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths

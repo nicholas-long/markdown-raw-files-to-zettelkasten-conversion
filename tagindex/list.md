@@ -1,3 +1,4 @@
+- [20221003150098](/zet/20221003150098/README.md) todo
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
 - [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list

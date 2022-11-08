@@ -1,0 +1,1 @@
+- [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send

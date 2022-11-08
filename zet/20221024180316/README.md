@@ -17,14 +17,7 @@
 #
 # have no tags
 #
-- [20221003150098](/zet/20221003150098/README.md) todo 
-- [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send 
 - [20221003150333](/zet/20221003150333/README.md) blank LM hash hex `AAD3B` 
-- [20221003150358](/zet/20221003150358/README.md) jxplorer connect to LDAP GUI access 
-- [20221003150459](/zet/20221003150459/README.md) openssl cipher commands encrypt text 
-- [20221003151052](/zet/20221003151052/README.md) check network time offset with network time protocol NTP server on windows AD kerberos 
-- [20221003151158](/zet/20221003151158/README.md) License 
-- [20221003151442](/zet/20221003151442/README.md) Box drawing ascii unicode characters 
 - [20221006135903](/zet/20221006135903/README.md) Related 
 - [20221006140015](/zet/20221006140015/README.md) Related 
 - [20221006140122](/zet/20221006140122/README.md) Related 

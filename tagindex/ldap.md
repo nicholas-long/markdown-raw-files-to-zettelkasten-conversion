@@ -1,3 +1,4 @@
+- [20221003150358](/zet/20221003150358/README.md) jxplorer connect to LDAP GUI access
 - [20221003150624](/zet/20221003150624/README.md) LDAP enumeration authenticated ldapdomaindump tool
 - [20221003150625](/zet/20221003150625/README.md) LDAP enumeration authenticated
 - [20221003150626](/zet/20221003150626/README.md) LDAP enumeration anonymous python dump all object data

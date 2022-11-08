@@ -1,3 +1,4 @@
+- [20221003150098](/zet/20221003150098/README.md) todo
 - [20221004212452](/zet/20221004212452/README.md) keyword stuffing zettels to fix bash sh
 - [20221005195739](/zet/20221005195739/README.md) testing 123
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix

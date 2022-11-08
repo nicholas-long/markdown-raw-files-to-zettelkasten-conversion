@@ -72,7 +72,6 @@
 87 zet/20221003150485/README.md active directory get GMSA service account properties get GMSA password and run commands
 87 zet/20221003150144/README.md cyberpunk retro machine project Tandy TRS-80 Model 100 terminal copying binary programs
 86 zet/20221014185654/README.md kb file named kb/hacking/windows/windows-active-directory-and-privilege-information.md
-86 zet/20221003151052/README.md check network time offset with network time protocol NTP server on windows AD kerberos
 86 zet/20221003150927/README.md C setuid suid backdoor exploit write setuid bit to binary with SO shared module object
 86 zet/20221003150695/README.md SNMP enumeration command enumerating / dumping interesting and categorized information
 86 zet/20221003150474/README.md powershell tricks run powershell commands as another user with SecureString credential

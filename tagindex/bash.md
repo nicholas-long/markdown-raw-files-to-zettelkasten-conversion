@@ -1,4 +1,5 @@
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
+- [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
 - [20221003150198](/zet/20221003150198/README.md) control key mappings for sh
 - [20221003150203](/zet/20221003150203/README.md) example docker to initialize ksql commands Dockerfile
 - [20221003150204](/zet/20221003150204/README.md) example docker to initialize ksql commands entry.sh

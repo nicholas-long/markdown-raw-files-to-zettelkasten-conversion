@@ -3,6 +3,8 @@
 - [20221003150573](/zet/20221003150573/README.md) php type juggling string and number exponent type confusion
 - [20221003150574](/zet/20221003150574/README.md) php type juggling methodology http post data
 - [20221003150575](/zet/20221003150575/README.md) php type juggling methodology
+- [20221003151052](/zet/20221003151052/README.md) check network time offset with network time protocol NTP server on windows AD kerberos
+- [20221003151158](/zet/20221003151158/README.md) License
 - [20221003151265](/zet/20221003151265/README.md) fzf install
 - [20221005194814](/zet/20221005194814/README.md) Related
 - [20221011181629](/zet/20221011181629/README.md) usernames
