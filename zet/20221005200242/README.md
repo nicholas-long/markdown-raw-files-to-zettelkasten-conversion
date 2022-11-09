@@ -8,17 +8,12 @@ this is a list of possibly empty zettels.
 #
 # Empty
 #
-- [20221003150662](/zet/20221003150662/README.md) data analysis commands #command #hacking #binary 
-- [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files #command #hacking #bruteforcing
-- [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands #command #hacking #web 
 - [20221003150689](/zet/20221003150689/README.md) wpscan initial database exports #command #hacking #wpscan 
 - [20221003150691](/zet/20221003150691/README.md) wpscan initial vulnerable themes #command #hacking #wpscan 
 - [20221003150692](/zet/20221003150692/README.md) wpscan initial all plugins passive scan #command #hacking #wpscan 
-- [20221003150709](/zet/20221003150709/README.md) sqlmap #command #hacking #sqlmap 
 - [20221003150714](/zet/20221003150714/README.md) packet capture with tcpdump watch traffic #command #hacking #packet 
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump #command #hacking #packet 
 - [20221003150720](/zet/20221003150720/README.md) curl #command #hacking #curl 
-- [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket #command #hacking #windows
 - [20221003150755](/zet/20221003150755/README.md) keytool #command #hacking #keytool 
 - [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks #command #hacking #msfvenom 
 - [20221003150765](/zet/20221003150765/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) #command #hacking #msfvenom 
@@ -216,19 +211,14 @@ this is a list of possibly empty zettels.
 - [20221003150765](/zet/20221003150765/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86)
 - [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks
 - [20221003150755](/zet/20221003150755/README.md) keytool
-- [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket
 - [20221003150730](/zet/20221003150730/README.md) powershell
 - [20221003150720](/zet/20221003150720/README.md) curl
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
 - [20221003150714](/zet/20221003150714/README.md) packet capture with tcpdump watch traffic
-- [20221003150709](/zet/20221003150709/README.md) sqlmap
 - [20221003150692](/zet/20221003150692/README.md) wpscan initial all plugins passive scan
 - [20221003150691](/zet/20221003150691/README.md) wpscan initial vulnerable themes
 - [20221003150690](/zet/20221003150690/README.md) wpscan initial config backups
 - [20221003150689](/zet/20221003150689/README.md) wpscan initial database exports
-- [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
-- [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files
-- [20221003150662](/zet/20221003150662/README.md) data analysis commands
 - [20221003150517](/zet/20221003150517/README.md) binary analysis
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks

@@ -13,6 +13,10 @@
 - [20221003150810](/zet/20221003150810/README.md) wfuzz fuzzing details fuzz multiple parameters
 - [20221014185849](/zet/20221014185849/README.md) kb file named kb/hacking/commands/wfuzz-fuzzing.md
 - ~/kb/hacking/commands/wfuzz-fuzzing.md
+- [20221003150659](/zet/20221003150659/README.md) wfuzz
+- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list
+- [20221003151185](/zet/20221003151185/README.md) HTTP bypassing restrictions
+- [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 
 Tags:
 

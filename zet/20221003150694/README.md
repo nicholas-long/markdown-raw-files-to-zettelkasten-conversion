@@ -1,15 +1,20 @@
 # wpscan
 
-- all plugins passive scan
-- vulnerable themes
-- config backups
-- database exports
-- enumerate user id range
-- users file and password list
-
+- initial scan
+  - all plugins passive scan
+  - vulnerable themes
+  - config backups
+  - database exports
+  - enumerate user id range
+  - users file and password list
 ```bash
 wpscan --url $URL -U users -P /usr/share/seclists/Passwords/Leaked-Databases/rockyou-50.txt
 wpscan --url $URL -U users -P /usr/share/wordlists/rockyou.txt
+```
+
+- aggressive plugin detection
+```bash
+wpscan --url $URL -e ap --plugins-detection aggressive
 ```
 
 ` zet/20221003150694/README.md `
@@ -22,6 +27,7 @@ wpscan --url $URL -U users -P /usr/share/wordlists/rockyou.txt
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
 - [20221003150686](/zet/20221003150686/README.md) wpscan brute force users file and password list
 - ~/kb/hacking/commands/wpscan-command.md
+- [20221003150687](/zet/20221003150687/README.md) wpscan initial aggressive plugins-detection
 
 Tags:
 

@@ -1,5 +1,7 @@
 # linux data science issues
-- Confusing Results With Unicode
+
+- Confusing Results With Unicode ?
+- [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub
 
 ` zet/20221003151276/README.md `
 

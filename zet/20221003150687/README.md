@@ -1,4 +1,6 @@
 # wpscan initial aggressive plugins-detection
+
+- takes significant amount of time
 ```bash
 wpscan --url $URL -e ap --plugins-detection aggressive
 ```
@@ -12,4 +14,4 @@ wpscan --url $URL -e ap --plugins-detection aggressive
 
 Tags:
 
-    #command #hacking #wpscan 
+    #command #hacking #wpscan #cms

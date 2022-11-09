@@ -13,6 +13,8 @@
 - [20221014185849](/zet/20221014185849/README.md) kb file named kb/hacking/commands/wfuzz-fuzzing.md
 - [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
 - ~/kb/hacking/commands/wfuzz-fuzzing.md
+- [20221003150659](/zet/20221003150659/README.md) wfuzz
+- [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list
 
 Tags:
 
