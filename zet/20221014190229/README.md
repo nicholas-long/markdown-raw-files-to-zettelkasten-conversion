@@ -18,9 +18,9 @@
 - [20221016233720](/zet/20221016233720/README.md) commits for day of 2022-09-15
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
 - [20221003151352](/zet/20221003151352/README.md) python scripting convert tsv with key and value fields to python dictionary
-- [20221003151360](/zet/20221003151360/README.md) python scripting connect to remote server
+- [20221003151360](/zet/20221003151360/README.md) python pwntools scripting template connect to remote server or local
 - [20221003151363](/zet/20221003151363/README.md) python scripting
-- [20221003151355](/zet/20221003151355/README.md) python scripting read and process lines of input
+- [20221003151355](/zet/20221003151355/README.md) python scripting read and process and urlencode every input line
 - [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally
 - [20221003151357](/zet/20221003151357/README.md) python scripting parse all get parameters from a url
 - [20221003151354](/zet/20221003151354/README.md) python scripting convert a GMSA managed password structure to a NTLM hash

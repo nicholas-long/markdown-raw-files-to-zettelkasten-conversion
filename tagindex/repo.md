@@ -30,6 +30,8 @@
 - [20221003151031](/zet/20221003151031/README.md) windows manipulate, enable and privesc with process tokens
 - [20221003151041](/zet/20221003151041/README.md) exploiting SeRestorePrivilege
 - [20221003151082](/zet/20221003151082/README.md) powerup powershell windows privesc enumeration script
+- [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux
+- [20221003151279](/zet/20221003151279/README.md) YAML parsing with yq
 - [20221003151318](/zet/20221003151318/README.md) bash parse xml cli
 - [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
 - [20221012134544](/zet/20221012134544/README.md) interesting github repo like org roam zettelkasten

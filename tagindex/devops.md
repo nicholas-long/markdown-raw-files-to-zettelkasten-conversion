@@ -1,2 +1,3 @@
 - [20221003150651](/zet/20221003150651/README.md) kubernetes
+- [20221003151247](/zet/20221003151247/README.md) Jenkins / Groovy (Java) Reverse Shell
 - [20221017070405](/zet/20221017070405/README.md) docker compose

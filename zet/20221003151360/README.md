@@ -40,6 +40,8 @@ POP_RDI = 0x00000000004011d3 # for ropchains, find addresses of pop RDI, RSI, r9
 - [20221014190229](/zet/20221014190229/README.md) kb file named kb/auto-python.md
 - [20221003151363](/zet/20221003151363/README.md) python scripting
 - ~/kb/auto-python.md
+- [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally
+- [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script
 
 Tags:
 

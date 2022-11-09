@@ -2,6 +2,5 @@
 - [20221003151296](/zet/20221003151296/README.md) bash tricks check if current directory is writable
 - [20221003151297](/zet/20221003151297/README.md) bash tricks run a command / program in a pty to get color output shodan host
 - [20221003151298](/zet/20221003151298/README.md) bash tricks run a command / program in a pty to get color output
-- [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks

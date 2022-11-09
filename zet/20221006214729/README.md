@@ -37,6 +37,7 @@
 - [20221006214142](/zet/20221006214142/README.md) streamers
 - [20221003150326](/zet/20221003150326/README.md) top tier endpoint protection AV
 - [20221025221046](/zet/20221025221046/README.md) worst tier of AV
+- [20221003151254](/zet/20221003151254/README.md) run executable binary programs within process memory windows
 
 Tags:
 

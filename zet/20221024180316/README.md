@@ -16,6 +16,8 @@
 
 # #DEL
 - [20221003151008](/zet/20221003151008/README.md) LFI or directory traversal procedures file wordlists #hacking #lfi #DEL #DEL
+- [20221003151126](/zet/20221003151126/README.md) active directory  delegation unconstrained #hacking #windows #DEL #DEL
+- [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions #hacking #windows #DEL #DEL
 
 # #windows
 - [20221003150616](/zet/20221003150616/README.md) PureFTP Create FTP Script (On Victim) #command #hacking #windows #windows #ftp

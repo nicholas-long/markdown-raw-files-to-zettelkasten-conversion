@@ -843,12 +843,12 @@
 - [20221003151245](/zet/20221003151245/README.md) Jenkins / Groovy (Java) Reverse Shell Windows
 - [20221003151246](/zet/20221003151246/README.md) Jenkins / Groovy (Java) Reverse Shell Linux
 - [20221003151247](/zet/20221003151247/README.md) Jenkins / Groovy (Java) Reverse Shell
-- [20221003151248](/zet/20221003151248/README.md) sending installs to target install pip modules on target as files with no dependencies on network connection to pip
+- [20221003151248](/zet/20221003151248/README.md) sending installs and dependencies to target with no network connection
 - [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies
 - [20221003151250](/zet/20221003151250/README.md) sending installs to target
 - [20221003151251](/zet/20221003151251/README.md) run executable binary programs within process memory windows cobalt strike BOF.NET common language runtime CLR .NET assemblies
 - [20221003151252](/zet/20221003151252/README.md) run executable binary programs within process memory windows cobalt strike BOF C DLLs
-- [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows cobalt strike
+- [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows
 - [20221003151254](/zet/20221003151254/README.md) run executable binary programs within process memory windows
 - [20221003151255](/zet/20221003151255/README.md) run executable binary programs within process memory linux base64 piped text using dd and shellcode
 - [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux

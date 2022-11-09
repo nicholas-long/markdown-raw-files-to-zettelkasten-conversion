@@ -25,6 +25,7 @@
 - ~/kb/hacking/powershell/powershell-enumeration-commands.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221003151144](/zet/20221003151144/README.md) active directory
+- [20221109214235](/zet/20221109214235/README.md) cleanup duplicate hubs
 
 Tags:
 

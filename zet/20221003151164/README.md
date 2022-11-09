@@ -18,6 +18,7 @@
 - [20221003151153](/zet/20221003151153/README.md) windows
 - [20221003150242](/zet/20221003150242/README.md) identify service
 - [20221009102436](/zet/20221009102436/README.md) hacking to try lists
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
 
 Tags:
 

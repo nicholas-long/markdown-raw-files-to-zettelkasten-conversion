@@ -35,6 +35,10 @@
 - [20221003151127](/zet/20221003151127/README.md) active directory  delegation
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
 - [20221003150488](/zet/20221003150488/README.md) active directory
+- [20221109214235](/zet/20221109214235/README.md) cleanup duplicate hubs
+- [20221003151141](/zet/20221003151141/README.md) active directory  exploiting permissions GenericAll
+- [20221003151142](/zet/20221003151142/README.md) active directory  exploiting permissions WriteDacl
+- [20221003151145](/zet/20221003151145/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec convert kirbi to ccache
 
 Tags:
 

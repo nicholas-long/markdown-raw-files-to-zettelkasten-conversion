@@ -10,7 +10,7 @@
 
 # Related
 
-- [20221003151279](/zet/20221003151279/README.md) YAML parsing yq
+- [20221003151279](/zet/20221003151279/README.md) YAML parsing with yq
 - https://github.com/tldr-pages/tldr
 - [20221007194303](/zet/20221007194303/README.md) github
 - [20221009172351](/zet/20221009172351/README.md) markdown file format

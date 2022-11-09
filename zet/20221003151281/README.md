@@ -12,6 +12,7 @@
 - ~/kb/data-engineering-pipelines/yaml-syntax.md
 - [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
 - [20221003150651](/zet/20221003150651/README.md) kubernetes
+- [20221003151279](/zet/20221003151279/README.md) YAML parsing with yq
 
 Tags:
 

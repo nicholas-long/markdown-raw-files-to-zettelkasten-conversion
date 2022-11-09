@@ -27,7 +27,7 @@
 - [20221003150212](/zet/20221003150212/README.md) kafkacat install quick and dirty shell script using docker
 - [20221008042334](/zet/20221008042334/README.md) why does git ask questions instead of pulling changes
 - [20221003150178](/zet/20221003150178/README.md) install alacritty  config file example yaml config
-- [20221003151248](/zet/20221003151248/README.md) sending installs to target install pip modules on target as files with no dependencies on network connection to pip
+- [20221003151248](/zet/20221003151248/README.md) sending installs and dependencies to target with no network connection
 - [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext
 - [20221003151366](/zet/20221003151366/README.md) bash scripting install vscode
 - [20221003151250](/zet/20221003151250/README.md) sending installs to target

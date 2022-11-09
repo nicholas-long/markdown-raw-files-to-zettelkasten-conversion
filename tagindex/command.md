@@ -388,6 +388,7 @@
 - [20221003151276](/zet/20221003151276/README.md) linux data science issues
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities
 - [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub
+- [20221003151279](/zet/20221003151279/README.md) YAML parsing with yq
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort
 - [20221003151287](/zet/20221003151287/README.md) jq pipe and filter objects syntax
 - [20221003151288](/zet/20221003151288/README.md) jq pipe syntax

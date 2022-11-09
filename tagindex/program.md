@@ -6,6 +6,7 @@
 - [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
 - [20221003150243](/zet/20221003150243/README.md) jekyll blog markdown to html
 - [20221003150250](/zet/20221003150250/README.md) Apache guacamole RDP VNC SSH in web browser
+- [20221003150254](/zet/20221003150254/README.md) beacon object file BOF
 - [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082
 - [20221003150259](/zet/20221003150259/README.md) firefox
 - [20221003150266](/zet/20221003150266/README.md) systemd-private
@@ -28,8 +29,12 @@
 - [20221003150937](/zet/20221003150937/README.md) fail2ban
 - [20221003150977](/zet/20221003150977/README.md) oracle connect as sysdba enable file read privileges
 - [20221003150978](/zet/20221003150978/README.md) oracle
+- [20221003151248](/zet/20221003151248/README.md) sending installs and dependencies to target with no network connection
 - [20221003151267](/zet/20221003151267/README.md) fzf
 - [20221003151273](/zet/20221003151273/README.md) run docker in background without exiting
+- [20221003151279](/zet/20221003151279/README.md) YAML parsing with yq
+- [20221003151286](/zet/20221003151286/README.md) postgres
+- [20221003151289](/zet/20221003151289/README.md) jq
 - [20221003151309](/zet/20221003151309/README.md) expect scripts
 - [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext
 - [20221003151380](/zet/20221003151380/README.md) bash scripting run neo4j in a docker

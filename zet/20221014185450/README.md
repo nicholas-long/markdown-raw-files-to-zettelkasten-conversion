@@ -97,7 +97,7 @@
 - [20221003151383](/zet/20221003151383/README.md) bash scripting get all tags and start walking their commits
 - [20221003151415](/zet/20221003151415/README.md) bash scripting print the md5 hashes of all lines in a wordlist file
 - [20221003151376](/zet/20221003151376/README.md) bash scripting get argument value or default
-- [20221003151393](/zet/20221003151393/README.md) bash scripting lookup unique hosts with shodan api
+- [20221003151393](/zet/20221003151393/README.md) bash scripting watch failed ssh logins as live stream lookup in shodan
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

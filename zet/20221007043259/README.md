@@ -162,7 +162,7 @@
 - [20221003150066](/zet/20221003150066/README.md) vim diff
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221003150946](/zet/20221003150946/README.md) python hub
-- [20221003151355](/zet/20221003151355/README.md) python scripting read and process lines of input
+- [20221003151355](/zet/20221003151355/README.md) python scripting read and process and urlencode every input line
 - [20221003150990](/zet/20221003150990/README.md) GraphQL APIs example GraphQL queries from InsiderPHD video
 - [20221003150792](/zet/20221003150792/README.md) generate cewl wordlist from file plaintext with grep
 - [20221003150227](/zet/20221003150227/README.md) grep patterns

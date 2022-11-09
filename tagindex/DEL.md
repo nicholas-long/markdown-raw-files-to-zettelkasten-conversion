@@ -4,6 +4,8 @@
 - [20221003150815](/zet/20221003150815/README.md) meterpreter msf move from x86 to x64
 - [20221003150816](/zet/20221003150816/README.md) meterpreter msf
 - [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
+- [20221003150827](/zet/20221003150827/README.md) postgres sql enumeration list tables and "relations"
+- [20221003150828](/zet/20221003150828/README.md) postgres sql enumeration list databases
 - [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list
 - [20221003150832](/zet/20221003150832/README.md) responder add ssl certificate
 - [20221003150851](/zet/20221003150851/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate
@@ -45,3 +47,22 @@
 - [20221003151108](/zet/20221003151108/README.md) dos commands net
 - [20221003151110](/zet/20221003151110/README.md) dos commands admin / system
 - [20221003151115](/zet/20221003151115/README.md) dos commands services sc
+- [20221003151126](/zet/20221003151126/README.md) active directory  delegation unconstrained
+- [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions
+- [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec
+- [20221003151214](/zet/20221003151214/README.md) got leaked files
+- [20221003151245](/zet/20221003151245/README.md) Jenkins / Groovy (Java) Reverse Shell Windows
+- [20221003151246](/zet/20221003151246/README.md) Jenkins / Groovy (Java) Reverse Shell Linux
+- [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies
+- [20221003151251](/zet/20221003151251/README.md) run executable binary programs within process memory windows cobalt strike BOF.NET common language runtime CLR .NET assemblies
+- [20221003151252](/zet/20221003151252/README.md) run executable binary programs within process memory windows cobalt strike BOF C DLLs
+- [20221003151255](/zet/20221003151255/README.md) run executable binary programs within process memory linux base64 piped text using dd and shellcode
+- [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory
+- [20221003151280](/zet/20221003151280/README.md) YAML parsing
+- [20221003151285](/zet/20221003151285/README.md) postgres cannot find table name
+- [20221003151288](/zet/20221003151288/README.md) jq pipe syntax
+- [20221003151356](/zet/20221003151356/README.md) python scripting urlencode every input line
+- [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally
+- [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script
+- [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream
+- [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried

@@ -1,4 +1,4 @@
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
 - [20221003150299](/zet/20221003150299/README.md) fixing golang module errors
-- [20221003151279](/zet/20221003151279/README.md) YAML parsing yq
+- [20221003151279](/zet/20221003151279/README.md) YAML parsing with yq
 - [20221008214935](/zet/20221008214935/README.md) go language

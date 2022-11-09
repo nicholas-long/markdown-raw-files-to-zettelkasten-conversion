@@ -1,5 +1,6 @@
 - [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
 - [20221003150121](/zet/20221003150121/README.md) routing using a linux box add router to routes on hosts windows
+- [20221003150254](/zet/20221003150254/README.md) beacon object file BOF
 - [20221003150287](/zet/20221003150287/README.md) default webroots xampp
 - [20221003150311](/zet/20221003150311/README.md) SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
 - [20221003150312](/zet/20221003150312/README.md) SMB

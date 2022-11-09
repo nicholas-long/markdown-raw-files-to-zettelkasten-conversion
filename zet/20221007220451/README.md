@@ -262,6 +262,7 @@ hacking notes hub
 - [20221003150873](/zet/20221003150873/README.md) host quick server
 - [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass
 - [20221003150833](/zet/20221003150833/README.md) responder
+- [20221003151248](/zet/20221003151248/README.md) sending installs and dependencies to target with no network connection
 
 Tags:
 

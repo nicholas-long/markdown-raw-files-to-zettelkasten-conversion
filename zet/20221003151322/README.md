@@ -10,7 +10,7 @@ tail -f /var/log/auth.log | awk '/Invalid user/ { print $8, $10 }'
 
 # Related
 
-- [20221003151393](/zet/20221003151393/README.md) bash scripting lookup unique hosts with shodan api
+- [20221003151393](/zet/20221003151393/README.md) bash scripting watch failed ssh logins as live stream lookup in shodan
 - [20221014190245](/zet/20221014190245/README.md) kb file named kb/bash-scripting/watch-failed-ssh-logins-live.md
 - [20221013190051](/zet/20221013190051/README.md) blue team
 - [20221013035616](/zet/20221013035616/README.md) fun

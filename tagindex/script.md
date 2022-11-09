@@ -7,12 +7,12 @@
 - [20221003151352](/zet/20221003151352/README.md) python scripting convert tsv with key and value fields to python dictionary
 - [20221003151353](/zet/20221003151353/README.md) python scripting fuzz valid dates
 - [20221003151354](/zet/20221003151354/README.md) python scripting convert a GMSA managed password structure to a NTLM hash
-- [20221003151355](/zet/20221003151355/README.md) python scripting read and process lines of input
+- [20221003151355](/zet/20221003151355/README.md) python scripting read and process and urlencode every input line
 - [20221003151356](/zet/20221003151356/README.md) python scripting urlencode every input line
 - [20221003151357](/zet/20221003151357/README.md) python scripting parse all get parameters from a url
 - [20221003151358](/zet/20221003151358/README.md) python scripting parse a cookie from every line on standard input
 - [20221003151359](/zet/20221003151359/README.md) python scripting convert CSV to TSV
-- [20221003151360](/zet/20221003151360/README.md) python scripting connect to remote server
+- [20221003151360](/zet/20221003151360/README.md) python pwntools scripting template connect to remote server or local
 - [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally
 - [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script
 - [20221003151363](/zet/20221003151363/README.md) python scripting
@@ -45,7 +45,7 @@
 - [20221003151390](/zet/20221003151390/README.md) bash scripting get headings from wikipedia page
 - [20221003151391](/zet/20221003151391/README.md) bash scripting clone github repository and build docker image with its name
 - [20221003151392](/zet/20221003151392/README.md) bash scripting launch ubuntu build environment docker with current directory mounted as working directory
-- [20221003151393](/zet/20221003151393/README.md) bash scripting lookup unique hosts with shodan api
+- [20221003151393](/zet/20221003151393/README.md) bash scripting watch failed ssh logins as live stream lookup in shodan
 - [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream
 - [20221003151395](/zet/20221003151395/README.md) bash scripting get the current user's github api key
 - [20221003151396](/zet/20221003151396/README.md) bash scripting run exiftool on all of the images within a directory
@@ -88,7 +88,7 @@
 - [20221003151434](/zet/20221003151434/README.md) awk scripting get column headings from first line of CSV
 - [20221003151435](/zet/20221003151435/README.md) awk scripting print nested markdown content within headings
 - [20221003151436](/zet/20221003151436/README.md) awk scripting print all variations of spaces between tokens
-- [20221003151437](/zet/20221003151437/README.md) awk scripting read and write a separated value file as a database
+- [20221003151437](/zet/20221003151437/README.md) awk scripting tracking credential reuse bruteforcing with csv file db
 - [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
 - [20221003151439](/zet/20221003151439/README.md) awk scripting base64 encode lines individually
 - [20221003151440](/zet/20221003151440/README.md) awk scripting replace words with colorized versions

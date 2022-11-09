@@ -11,6 +11,7 @@ system32\license.rtf will have version
 - [20221003151204](/zet/20221003151204/README.md) got access to databases - general SQL
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 - [20221003151153](/zet/20221003151153/README.md) windows
+- [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
 
 Tags:
 

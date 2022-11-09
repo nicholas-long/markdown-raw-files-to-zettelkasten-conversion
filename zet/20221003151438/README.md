@@ -8,7 +8,7 @@
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - ~/kb/auto-awk.md
-- [20221003151437](/zet/20221003151437/README.md) awk scripting read and write a separated value file as a database
+- [20221003151437](/zet/20221003151437/README.md) awk scripting tracking credential reuse bruteforcing with csv file db
 
 Tags:
 

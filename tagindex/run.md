@@ -6,7 +6,7 @@
 - [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
 - [20221003151251](/zet/20221003151251/README.md) run executable binary programs within process memory windows cobalt strike BOF.NET common language runtime CLR .NET assemblies
 - [20221003151252](/zet/20221003151252/README.md) run executable binary programs within process memory windows cobalt strike BOF C DLLs
-- [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows cobalt strike
+- [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows
 - [20221003151254](/zet/20221003151254/README.md) run executable binary programs within process memory windows
 - [20221003151255](/zet/20221003151255/README.md) run executable binary programs within process memory linux base64 piped text using dd and shellcode
 - [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux

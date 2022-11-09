@@ -10,7 +10,7 @@
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221006213130](/zet/20221006213130/README.md) hacking / CTF platforms
-- [20221003151248](/zet/20221003151248/README.md) sending installs to target install pip modules on target as files with no dependencies on network connection to pip
+- [20221003151248](/zet/20221003151248/README.md) sending installs and dependencies to target with no network connection
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies

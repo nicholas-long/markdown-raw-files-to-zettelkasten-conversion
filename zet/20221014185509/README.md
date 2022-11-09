@@ -32,7 +32,7 @@
 - [20221003151440](/zet/20221003151440/README.md) awk scripting replace words with colorized versions
 - [20221003151434](/zet/20221003151434/README.md) awk scripting get column headings from first line of CSV
 - [20221003151439](/zet/20221003151439/README.md) awk scripting base64 encode lines individually
-- [20221003151437](/zet/20221003151437/README.md) awk scripting read and write a separated value file as a database
+- [20221003151437](/zet/20221003151437/README.md) awk scripting tracking credential reuse bruteforcing with csv file db
 - [20221003151426](/zet/20221003151426/README.md) awk scripting combine lines with all previous lines combinatorically
 - [20221003151435](/zet/20221003151435/README.md) awk scripting print nested markdown content within headings
 - [20221003151425](/zet/20221003151425/README.md) awk scripting get HTTP POST content from HTTP request stream

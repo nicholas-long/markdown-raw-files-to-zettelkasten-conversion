@@ -55,6 +55,7 @@
 - [20221003151065](/zet/20221003151065/README.md) AMSI detect windows defender with known malicious string
 - [20221003151070](/zet/20221003151070/README.md) dump process memory
 - [20221003151071](/zet/20221003151071/README.md) windows color winpeas script log output
+- [20221003151145](/zet/20221003151145/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec convert kirbi to ccache
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
 - [20221003151150](/zet/20221003151150/README.md) windows XP and windows server 2003 write arbitrary MOF file for remote code execution
 - [20221003151215](/zet/20221003151215/README.md) caddy install
@@ -85,12 +86,12 @@
 - [20221003151245](/zet/20221003151245/README.md) Jenkins / Groovy (Java) Reverse Shell Windows
 - [20221003151246](/zet/20221003151246/README.md) Jenkins / Groovy (Java) Reverse Shell Linux
 - [20221003151247](/zet/20221003151247/README.md) Jenkins / Groovy (Java) Reverse Shell
-- [20221003151248](/zet/20221003151248/README.md) sending installs to target install pip modules on target as files with no dependencies on network connection to pip
+- [20221003151248](/zet/20221003151248/README.md) sending installs and dependencies to target with no network connection
 - [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies
 - [20221003151250](/zet/20221003151250/README.md) sending installs to target
 - [20221003151251](/zet/20221003151251/README.md) run executable binary programs within process memory windows cobalt strike BOF.NET common language runtime CLR .NET assemblies
 - [20221003151252](/zet/20221003151252/README.md) run executable binary programs within process memory windows cobalt strike BOF C DLLs
-- [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows cobalt strike
+- [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows
 - [20221003151254](/zet/20221003151254/README.md) run executable binary programs within process memory windows
 - [20221003151255](/zet/20221003151255/README.md) run executable binary programs within process memory linux base64 piped text using dd and shellcode
 - [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux
@@ -141,7 +142,7 @@
 - [20221003151389](/zet/20221003151389/README.md) bash scripting copy and read text from PNG image URL arg print with tesseract OCR
 - [20221003151391](/zet/20221003151391/README.md) bash scripting clone github repository and build docker image with its name
 - [20221003151392](/zet/20221003151392/README.md) bash scripting launch ubuntu build environment docker with current directory mounted as working directory
-- [20221003151393](/zet/20221003151393/README.md) bash scripting lookup unique hosts with shodan api
+- [20221003151393](/zet/20221003151393/README.md) bash scripting watch failed ssh logins as live stream lookup in shodan
 - [20221003151398](/zet/20221003151398/README.md) bash scripting build and run impacket docker
 - [20221003151399](/zet/20221003151399/README.md) bash scripting find alphanumeric base64 using awk script
 - [20221003151402](/zet/20221003151402/README.md) bash scripting prepend gzip magic bytes

@@ -21,7 +21,7 @@ Collection of awk scripting examples
 - [20221003151440](/zet/20221003151440/README.md) awk scripting replace words with colorized versions
 - [20221003151439](/zet/20221003151439/README.md) awk scripting base64 encode lines individually
 - [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
-- [20221003151437](/zet/20221003151437/README.md) awk scripting read and write a separated value file as a database
+- [20221003151437](/zet/20221003151437/README.md) awk scripting tracking credential reuse bruteforcing with csv file db
 - [20221003151436](/zet/20221003151436/README.md) awk scripting print all variations of spaces between tokens
 - [20221003151435](/zet/20221003151435/README.md) awk scripting print nested markdown content within headings
 - [20221003151434](/zet/20221003151434/README.md) awk scripting get column headings from first line of CSV

@@ -15,7 +15,7 @@
 - [20221003151322](/zet/20221003151322/README.md) watch failed ssh login attempts as a live stream
 - [20221003151442](/zet/20221003151442/README.md) Box drawing ascii unicode characters
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
-- [20221003151393](/zet/20221003151393/README.md) bash scripting lookup unique hosts with shodan api
+- [20221003151393](/zet/20221003151393/README.md) bash scripting watch failed ssh logins as live stream lookup in shodan
 - [20221010175613](/zet/20221010175613/README.md) midjourney AI generated art
 - [20221003150081](/zet/20221003150081/README.md) tmux box art enable
 - [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks

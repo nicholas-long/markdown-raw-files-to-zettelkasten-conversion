@@ -12,14 +12,11 @@
 130 zet/20221003150471/README.md powershell tricks run powershell commands as another user on remote machine with impersonated token copy and run file over session
 128 zet/20221003151078/README.md service account privileges restore using scheduled task with powershell require seimpersonate privilege for task using principal
 128 zet/20221003150772/README.md MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Bind Shell Output in Hex, C Style, Exclude bad chars, Exitfunction thread
-126 zet/20221003151251/README.md run executable binary programs within process memory windows cobalt strike BOF.NET common language runtime CLR .NET assemblies
 122 zet/20221003151145/README.md resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec convert kirbi to ccache
-117 zet/20221003151249/README.md sending installs to target install programs on target as tar archive file using docker to find installed dependencies
 117 zet/20221003150374/README.md volatility framework analyze dump files of volatile RAM file type "MS Windows 64bit crash dump, full dump, XXX pages"
 117 zet/20221003150152/README.md cyberpunk retro machine project enable usb serial port terminal as a service 9600 baud serial systemd service changes
 117 zet/20221003150151/README.md cyberpunk retro machine project enable usb serial port terminal as a service restart service if terminal disconnected
 115 zet/20221003151282/README.md topological sort with tsort sort items occuring before each other example solution to programming challenge in bash
-115 zet/20221003151248/README.md sending installs to target install pip modules on target as files with no dependencies on network connection to pip
 113 zet/20221003150903/README.md linux enumeration quick commands find files that have millisecond microsecond nanosecond times not common install
 113 zet/20221003150877/README.md dirty cow privilege escalation working version build on attacker machine with statically linked binaries embedded
 109 zet/20221003150919/README.md linux enumeration quick commands list all recursively with ls sorting by modification date within directories
@@ -29,12 +26,9 @@
 105 zet/20221003150908/README.md linux enumeration quick commands get IP with no `ifconfig` or `ip a` on a host or within docker container
 104 zet/20221003151314/README.md bash scripting substitution syntax initialize variable with default value if empty and return it example
 102 zet/20221015020830/README.md walk graph and collect keywords for context and prioritize search results based on keywords and scores
-102 zet/20221003151438/README.md awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
 101 zet/20221003150228/README.md apk analysis emulate a phone with genymotion and virtualbox configuring burpsuite on genymotion phone
-99 zet/20221003151255/README.md run executable binary programs within process memory linux base64 piped text using dd and shellcode
 99 zet/20221003151011/README.md LFI or directory traversal procedures read scripts from web server process cwd fuzzing script names
 99 zet/20221003150472/README.md powershell tricks run powershell commands as another user on remote machine with impersonated token
-98 zet/20221003151146/README.md resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec
 98 zet/20221003151132/README.md active directory  GMSA group managed service account remote LDAP read GMSA passwords python script
 98 zet/20221003150912/README.md linux enumeration quick commands find files modified between specific dates (with reference files)
 96 zet/20221003151315/README.md bash scripting substitution syntax initialize variable with default value if empty and return it
@@ -69,7 +63,6 @@
 86 zet/20221003150695/README.md SNMP enumeration command enumerating / dumping interesting and categorized information
 86 zet/20221003150474/README.md powershell tricks run powershell commands as another user with SecureString credential
 85 zet/20221003151429/README.md awk scripting print all variations of upper and lower case for given lowercase string
-85 zet/20221003151252/README.md run executable binary programs within process memory windows cobalt strike BOF C DLLs
 85 zet/20221003151150/README.md windows XP and windows server 2003 write arbitrary MOF file for remote code execution
 84 zet/20221003151408/README.md parse burpsuite saved request file and convert to python requests script for copying
 84 zet/20221003150898/README.md linux enumeration quick commands capabilities running process effective capabilities
@@ -134,7 +127,6 @@
 74 zet/20221014190227/README.md kb file named kb/data-engineering-pipelines/data-science-linux-commands.md
 74 zet/20221014185551/README.md kb file named kb/hacking/tricks/identify-linux-version-service-versions.md
 74 zet/20221003151311/README.md bash scripting substitution syntax read variable or else exit if undefined
-74 zet/20221003151253/README.md run executable binary programs within process memory windows cobalt strike
 74 zet/20221003151232/README.md mysql mariadb exploit GRANT OPTION to grant file write permissions to self
 74 zet/20221003151018/README.md .DS_Store file ds_store Mac OS parse scrape directory and file information
 74 zet/20221003150797/README.md git recover orphaned commits and files and restore a directory after reset
