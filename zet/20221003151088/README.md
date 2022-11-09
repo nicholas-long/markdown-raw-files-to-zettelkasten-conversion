@@ -14,4 +14,4 @@
 
 Tags:
 
-    #hacking #windows #mimikatz 
+    #hacking #windows #mimikatz #DEL

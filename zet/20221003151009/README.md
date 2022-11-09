@@ -8,6 +8,7 @@ curl parameter `--path-as-is` to preserve any `../`
 - [20221014185732](/zet/20221014185732/README.md) kb file named kb/hacking/methodology/LFI-procedure.md
 - [20221003151010](/zet/20221003151010/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl 
 - ~/kb/hacking/methodology/LFI-procedure.md
+- [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures
 
 Tags:
 

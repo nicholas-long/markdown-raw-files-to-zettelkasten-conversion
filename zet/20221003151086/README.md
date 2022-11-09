@@ -14,4 +14,4 @@ https://github.com/gentilkiwi/mimikatz/issues/248
 
 Tags:
 
-    #hacking #windows #mimikatz #fix 
+    #hacking #windows #mimikatz #fix #DEL

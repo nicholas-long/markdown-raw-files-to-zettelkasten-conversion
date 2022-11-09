@@ -4,8 +4,8 @@
 
 # Related
 
+- [20221003151036](/zet/20221003151036/README.md) program files UNP directory
 
 Tags:
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
-    #hacking
+    #hacking #DEL

@@ -13,4 +13,4 @@ saves to `appdata/local/temp/procname.DMP`.
 
 Tags:
 
-    #hacking #windows #dump 
+    #hacking #windows #dump #DEL

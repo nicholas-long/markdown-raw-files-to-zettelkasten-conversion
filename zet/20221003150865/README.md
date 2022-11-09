@@ -9,8 +9,7 @@
 - [20221003150866](/zet/20221003150866/README.md) two-factor authentication 2fa
 - [20221003150864](/zet/20221003150864/README.md) two-factor authentication 2fa generate one time pins OTP google authenticator
 - ~/kb/hacking/commands/two-factor.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 
-    #command #hacking #two 
+    #command #hacking #two #DEL

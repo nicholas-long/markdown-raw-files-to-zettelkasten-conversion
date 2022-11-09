@@ -12,8 +12,7 @@
 - [20221003150898](/zet/20221003150898/README.md) linux enumeration quick commands capabilities running process effective capabilities
 - [20221003150897](/zet/20221003150897/README.md) linux enumeration quick commands capabilities decode on host machine with capsh
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 
-    #command #hacking #privesc #enumeration 
+    #command #hacking #privesc #enumeration #DEL

@@ -1,4 +1,6 @@
-# dns commands update / change / delete DNS records for subdomain with nsupdate 86400 seconds = one day
+# dns commands update / change / delete DNS records for subdomain
+
+- with nsupdate `86400` seconds = one day
 ```bash
 nsupdate
 server 1.2.3.4
@@ -16,6 +18,7 @@ quit
 - [20221014185831](/zet/20221014185831/README.md) kb file named kb/hacking/commands/dns-commands.md
 - [20221003150851](/zet/20221003150851/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate
 - ~/kb/hacking/commands/dns-commands.md
+- [20221003150134](/zet/20221003150134/README.md) DNS commands
 
 Tags:
 

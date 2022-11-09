@@ -1,4 +1,6 @@
-# windows color script output winpeas log scroll with colors and convert to utf8 for linux
+# windows color winpeas script log output
+
+- scroll with colors and convert to utf8 for linux
 ```bash
 iconv -f UTF-16LE -t UTF-8 winpeas.out | less -r
 ```
@@ -10,7 +12,8 @@ iconv -f UTF-16LE -t UTF-8 winpeas.out | less -r
 - [20221014185712](/zet/20221014185712/README.md) kb file named kb/hacking/windows/enumeration-scripts-processing.md
 - [20221003151072](/zet/20221003151072/README.md) windows color script output winpeas log
 - ~/kb/hacking/windows/enumeration-scripts-processing.md
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 
 Tags:
 
-    #hacking #windows #enumeration 
+    #hacking #windows #enumeration #trick #color

@@ -8,8 +8,7 @@
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151101](/zet/20221003151101/README.md) powershell commands
 - ~/kb/hacking/windows/windows-reverse-shell.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 
-    #hacking #windows
+    #hacking #windows #DEL

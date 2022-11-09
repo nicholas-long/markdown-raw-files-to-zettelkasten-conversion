@@ -1,5 +1,6 @@
 # windows API enable privilege
-source: https://github.com/CsEnox/SeManageVolumeExploit/blob/main/SeManageVolumeExploit.c
+
+- https://github.com/CsEnox/SeManageVolumeExploit/blob/main/SeManageVolumeExploit.c
 ```c
 // Enabling Privilege
 HANDLE hToken;
@@ -15,6 +16,7 @@ AdjustTokenPrivileges(hToken, FALSE, &tkp, 0, (PTOKEN_PRIVILEGES)NULL, 0);
 
 # Related
 
+- <https://github.com/CsEnox/SeManageVolumeExploit/blob/main/SeManageVolumeExploit.c>
 - [20221014185701](/zet/20221014185701/README.md) kb file named kb/hacking/windows/enable-privilege-api.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221008215655](/zet/20221008215655/README.md) user account
@@ -22,7 +24,8 @@ AdjustTokenPrivileges(hToken, FALSE, &tkp, 0, (PTOKEN_PRIVILEGES)NULL, 0);
 - [20221003151094](/zet/20221003151094/README.md) windows API
 - [20221003151092](/zet/20221003151092/README.md) windows API enable privilege API calls
 - ~/kb/hacking/windows/enable-privilege-api.md
+- [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 
 Tags:
 
-    #hacking #windows #enable 
+    #hacking #windows #enable #privesc #tip

@@ -10,6 +10,7 @@
 - [20221008195148](/zet/20221008195148/README.md) seclists etc files project
 - [20221003151008](/zet/20221003151008/README.md) LFI or directory traversal procedures file wordlists
 - ~/kb/hacking/methodology/LFI-procedure.md
+- [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures
 
 Tags:
 

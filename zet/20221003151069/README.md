@@ -15,4 +15,4 @@ procdump64.exe -accepteula -ma 1234
 
 Tags:
 
-    #hacking #windows #dump 
+    #hacking #windows #dump #DEL

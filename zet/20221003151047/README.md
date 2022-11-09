@@ -7,9 +7,8 @@
 - [20221014185718](/zet/20221014185718/README.md) kb file named kb/hacking/windows/windows-information.md
 - [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass
 - ~/kb/hacking/windows/windows-information.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 
 Tags:
 
-    #hacking #windows
+    #hacking #windows #DEL

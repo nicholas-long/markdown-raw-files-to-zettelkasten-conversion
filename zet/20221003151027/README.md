@@ -1,4 +1,5 @@
 # decrypt azure AD connect passwords powershell MSSQL queries
+
 https://github.com/fox-it/adconnectdump
 changing database source to MSSQL using sqlcmd powershell alias
 ```powershell
@@ -41,6 +42,8 @@ echo $decrypted
 - [20221014185721](/zet/20221014185721/README.md) kb file named kb/hacking/windows/decrypt-azure-ad-connect.md
 - [20221003151028](/zet/20221003151028/README.md) decrypt azure AD connect passwords
 - ~/kb/hacking/windows/decrypt-azure-ad-connect.md
+- [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
+- [20221013184806](/zet/20221013184806/README.md) concept of being in the cloud
 
 Tags:
 

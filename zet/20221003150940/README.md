@@ -26,6 +26,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 - [20221003150942](/zet/20221003150942/README.md) python imports
 - [20221003150939](/zet/20221003150939/README.md) python imports library search path print with python command
 - ~/kb/hacking/python/python-imports.md
+- [20221003150946](/zet/20221003150946/README.md) python hub
 
 Tags:
 

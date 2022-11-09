@@ -1,4 +1,5 @@
 # linux enumeration quick commands transfer / download files with just bash send
+
 ```bash
 LPORT=443
 nc -lvnp $LPORT < filename
@@ -15,4 +16,4 @@ nc -lvnp $LPORT < filename
 
 Tags:
 
-    #command #hacking #privesc #enumeration 
+    #command #hacking #privesc #enumeration #DEL

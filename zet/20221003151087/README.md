@@ -14,4 +14,4 @@ sekurlsa::logonpasswords
 
 Tags:
 
-    #hacking #windows #mimikatz 
+    #hacking #windows #mimikatz #DEL

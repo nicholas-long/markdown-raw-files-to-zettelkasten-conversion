@@ -15,8 +15,7 @@
 - [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
 - [20221003150979](/zet/20221003150979/README.md) mariadb mysql files read database users
 - ~/kb/hacking/methodology/sqli-manual-mysql-payloads.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 
-    #hacking #sqli #trick #file
+    #hacking #sqli #trick #file #DEL

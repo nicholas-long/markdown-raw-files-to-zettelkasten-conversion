@@ -13,8 +13,7 @@
 - [20221003151000](/zet/20221003151000/README.md) API enumeration good wordlists last resort?
 - [20221003150999](/zet/20221003150999/README.md) API enumeration good wordlists API enumeration wordlists by size
 - ~/kb/hacking/methodology/API-enumeration.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 
-    #hacking #api 
+    #hacking #api #DEL

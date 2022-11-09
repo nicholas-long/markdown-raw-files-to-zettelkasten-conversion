@@ -11,6 +11,7 @@ import app.core.config # corresponds to app/core/config.py
 - [20221014185754](/zet/20221014185754/README.md) kb file named kb/hacking/python/python-imports.md
 - [20221003150942](/zet/20221003150942/README.md) python imports
 - ~/kb/hacking/python/python-imports.md
+- [20221003150946](/zet/20221003150946/README.md) python hub
 
 Tags:
 

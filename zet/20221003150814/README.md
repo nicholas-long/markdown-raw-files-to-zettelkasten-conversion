@@ -1,5 +1,7 @@
 # meterpreter msf migrate
-1234 is the process id.
+
+- how to move from x86 to x64 processes?
+- example: 1234 is the process id.
 ```
 ps
 migrate 1234

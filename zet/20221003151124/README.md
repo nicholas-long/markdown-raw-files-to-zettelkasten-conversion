@@ -21,8 +21,7 @@
 - [20221003151110](/zet/20221003151110/README.md) dos commands admin / system
 - [20221003151108](/zet/20221003151108/README.md) dos commands net
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 
-    #hacking #windows #dos #command
+    #hacking #windows #dos #command #hub

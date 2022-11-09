@@ -18,4 +18,4 @@ terminal -> features -> "disable application keypad mode"
 
 Tags:
 
-    #fix
+    #fix #ssh #windows
