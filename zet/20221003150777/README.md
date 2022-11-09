@@ -14,7 +14,6 @@
 - [20221003150758](/zet/20221003150758/README.md) MSFVENOM Active Sever Pages Extended (.aspx)
 - [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks
 - ~/kb/hacking/commands/msfvenom-commands.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
 - [20221003150756](/zet/20221003150756/README.md) MSFVENOM tricks make executable binary with input shellcode

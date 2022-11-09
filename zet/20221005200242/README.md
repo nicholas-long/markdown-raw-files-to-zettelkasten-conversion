@@ -16,7 +16,6 @@ this is a list of possibly empty zettels.
 - [20221003150771](/zet/20221003150771/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) #command #hacking #msfvenom 
 - [20221003150775](/zet/20221003150775/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) #command #hacking #msfvenom 
 - [20221003150776](/zet/20221003150776/README.md) MSFVENOM Windows Binary (.exe) executable #command #hacking #msfvenom 
-- [20221003150777](/zet/20221003150777/README.md) MSFVENOM #command #hacking #msfvenom 
 - [20221003150791](/zet/20221003150791/README.md) openssl #command #hacking #openssl 
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file #command #hacking #generate 
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist #command #hacking #generate 
@@ -198,7 +197,6 @@ this is a list of possibly empty zettels.
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file
 - [20221003150791](/zet/20221003150791/README.md) openssl
 - [20221003150780](/zet/20221003150780/README.md) crowbar
-- [20221003150777](/zet/20221003150777/README.md) MSFVENOM
 - [20221003150776](/zet/20221003150776/README.md) MSFVENOM Windows Binary (.exe) executable
 - [20221003150775](/zet/20221003150775/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86)
 - [20221003150771](/zet/20221003150771/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64)

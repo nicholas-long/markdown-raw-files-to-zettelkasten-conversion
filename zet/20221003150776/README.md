@@ -13,4 +13,4 @@
 
 Tags:
 
-    #command #hacking #msfvenom 
+    #command #hacking #msfvenom #DEL #DEL
