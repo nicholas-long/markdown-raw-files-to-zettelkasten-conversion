@@ -12,9 +12,12 @@
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands
 - [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12
 - [20221003150754](/zet/20221003150754/README.md) keytool print certificate in RSA file
+- [20221003150856](/zet/20221003150856/README.md) ssh-keygen generate key to file no password prompt
 - [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
 - [20221003150981](/zet/20221003150981/README.md) mariadb mysql files read
 - [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
+- [20221003151057](/zet/20221003151057/README.md) get windows enumeration info from file read
+- [20221003151070](/zet/20221003151070/README.md) dump process memory
 - [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet
 - [20221003151165](/zet/20221003151165/README.md) TFTP udp 69 to try list
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list
@@ -26,6 +29,7 @@
 - [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
 - [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
+- [20221003151339](/zet/20221003151339/README.md) enumerate all python imports; chain 2 awk scripts with a filter
 - [20221003151376](/zet/20221003151376/README.md) bash scripting get argument value or default
 - [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files
 - [20221003151382](/zet/20221003151382/README.md) bash scripting take only unique git hashes and do md5 hashes of those files

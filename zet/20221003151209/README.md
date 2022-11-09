@@ -45,6 +45,7 @@
 - [20221003150307](/zet/20221003150307/README.md) copy docker binary to target
 - [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf
 - [20221003150183](/zet/20221003150183/README.md) add user to docker group
+- [20221003150884](/zet/20221003150884/README.md) privilege escalation relative path abuse
 
 Tags:
 

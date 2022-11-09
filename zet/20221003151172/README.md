@@ -132,6 +132,7 @@
 - [20221003150778](/zet/20221003150778/README.md) crowbar brute force RDP active directory domain joined
 - [20221003150630](/zet/20221003150630/README.md) LDAP enumeration
 - [20221003150749](/zet/20221003150749/README.md) crackmapexec kerberos authentication with ticket environment variable
+- [20221003151027](/zet/20221003151027/README.md) decrypt azure AD connect passwords powershell MSSQL queries
 
 Tags:
 

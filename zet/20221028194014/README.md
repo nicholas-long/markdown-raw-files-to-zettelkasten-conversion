@@ -30,8 +30,6 @@
 104 zet/20221003151314/README.md bash scripting substitution syntax initialize variable with default value if empty and return it example
 102 zet/20221015020830/README.md walk graph and collect keywords for context and prioritize search results based on keywords and scores
 102 zet/20221003151438/README.md awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
-101 zet/20221003151010/README.md LFI or directory traversal procedures read scripts from web server process cwd downloading with curl 
-101 zet/20221003150850/README.md dns commands update / change / delete DNS records for subdomain with nsupdate 86400 seconds = one day
 101 zet/20221003150228/README.md apk analysis emulate a phone with genymotion and virtualbox configuring burpsuite on genymotion phone
 99 zet/20221003151255/README.md run executable binary programs within process memory linux base64 piped text using dd and shellcode
 99 zet/20221003151011/README.md LFI or directory traversal procedures read scripts from web server process cwd fuzzing script names
@@ -60,7 +58,6 @@
 89 zet/20221003150593/README.md generating enumeration wordlists exfiltrated passwd usernames to ssh key id_rsa fuzz list
 89 zet/20221003150244/README.md MOTW mark of the web microsoft alternate data stream file label ZoneId avoiding / evading
 88 zet/20221014073148/README.md reasoning behind choices for tech stack - finding dependable and long lasting technology
-88 zet/20221003151071/README.md windows color script output winpeas log scroll with colors and convert to utf8 for linux
 87 zet/20221015041944/README.md what extensions are compatible with vscode / github code editor and zet implementation?
 87 zet/20221014190040/README.md kb file named kb/hacking/powershell/load-xml-object-print-password-from-pscredential.md
 87 zet/20221003150911/README.md linux enumeration quick commands get all file hashes in directory using find and md5sum
@@ -89,7 +86,6 @@
 81 zet/20221003151431/README.md awk scripting check output of grep and next line using awk "grep -A 1 -R '^# ' ."
 81 zet/20221003151400/README.md bash scripting update all the git repos in home directory and prompt with lazygit
 81 zet/20221003151389/README.md bash scripting copy and read text from PNG image URL arg print with tesseract OCR
-81 zet/20221003150906/README.md linux enumeration quick commands transfer / download files with just bash receive
 80 zet/20221014185706/README.md kb file named kb/hacking/windows/windows-sensitive-file-disclosure-cheatsheet.md
 80 zet/20221014185644/README.md kb file named kb/hacking/passwords/hashcat-generate-wordlist-from-file-stdout.md
 80 zet/20221003151351/README.md python scripting parse all post params from post content given on standard input
@@ -108,14 +104,11 @@
 78 zet/20221003151310/README.md bash scripting substitution syntax return something if another variable is set
 78 zet/20221003151147/README.md resource based constrained delegation S4U attack powershell commands on target
 78 zet/20221003151012/README.md LFI or directory traversal procedures read scripts from web server process cwd
-78 zet/20221003150905/README.md linux enumeration quick commands transfer / download files with just bash send
 78 zet/20221003150895/README.md linux enumeration quick commands check if users can see other users' processes
 78 zet/20221003150533/README.md immunity debugger mona commands search for opcode string jmp esp inside module
 78 zet/20221003150510/README.md pwn commands / tricks patchelf ld paths use custom ld version and library path
 78 zet/20221003150240/README.md analyze php source code for malicious code and things that look like webshells
 77 zet/20221003150868/README.md john the ripper find all file formats supported with a 2john script or tojohn
-77 zet/20221003150864/README.md two-factor authentication 2fa generate one time pins OTP google authenticator
-77 zet/20221003150851/README.md dns commands update / change / delete DNS records for subdomain with nsupdate
 76 zet/20221014185640/README.md kb file named kb/hacking/to-try-lists/nmap-UDP-scan-individual-port-scans.md
 76 zet/20221014185603/README.md kb file named kb/hacking/to-try-lists/got-access-to-databases-general-SQL.md
 76 zet/20221003151297/README.md bash tricks run a command / program in a pty to get color output shodan host
@@ -132,7 +125,6 @@
 75 zet/20221003151352/README.md python scripting convert tsv with key and value fields to python dictionary
 75 zet/20221003151235/README.md mysql mariadb display query output as pretty printed text with column names
 75 zet/20221003151227/README.md convert string to a base64 encoded UTF-16LE string to be used by powershell
-75 zet/20221003151044/README.md windows alternate data streams commands enumerate directory for alt streams
 75 zet/20221003150913/README.md linux enumeration quick commands find files modified between specific dates
 75 zet/20221003150669/README.md crackmapexec cme commands test combine valid user and password combinations
 75 zet/20221003150427/README.md generate wordlists bopscrk people OSINT custom wordlists specific to person
@@ -144,7 +136,6 @@
 74 zet/20221003151311/README.md bash scripting substitution syntax read variable or else exit if undefined
 74 zet/20221003151253/README.md run executable binary programs within process memory windows cobalt strike
 74 zet/20221003151232/README.md mysql mariadb exploit GRANT OPTION to grant file write permissions to self
-74 zet/20221003151042/README.md windows alternate data streams commands displaying content with powershell
 74 zet/20221003151018/README.md .DS_Store file ds_store Mac OS parse scrape directory and file information
 74 zet/20221003150797/README.md git recover orphaned commits and files and restore a directory after reset
 74 zet/20221003150477/README.md general enumeration Active Directory Certificate Services is AD CS enabled

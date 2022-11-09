@@ -16,7 +16,7 @@
 - [20221003150817](/zet/20221003150817/README.md) metasploit msf proxy exploits through burpsuite
 - [20221003150816](/zet/20221003150816/README.md) meterpreter msf
 - [20221003150814](/zet/20221003150814/README.md) meterpreter msf migrate
-- [20221003150819](/zet/20221003150819/README.md) metasploit msf
+- [20221003150819](/zet/20221003150819/README.md) metasploit msf hub
 - [20221003150815](/zet/20221003150815/README.md) meterpreter msf move from x86 to x64
 - [20221003151443](/zet/20221003151443/README.md) kb
 

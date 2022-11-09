@@ -28,7 +28,7 @@
 - [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell
 - [20221003151029](/zet/20221003151029/README.md) MS08-067
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
-- [20221003151036](/zet/20221003151036/README.md) program files UNP directory
+- [20221003151036](/zet/20221003151036/README.md) windows update program files directory
 - [20221003151035](/zet/20221003151035/README.md) hidden shares
 - [20221003151030](/zet/20221003151030/README.md) eternalblue MS17-010 - working
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
@@ -58,6 +58,10 @@
 - [20221008213254](/zet/20221008213254/README.md) file path
 - [20221008194048](/zet/20221008194048/README.md) good DLLs to hide in for sideloading
 - [20221008213122](/zet/20221008213122/README.md) version
+- [20221003151045](/zet/20221003151045/README.md) windows alternate data streams commands
+- [20221003151046](/zet/20221003151046/README.md) windows reverse shell AV bypass defender
+- [20221003151094](/zet/20221003151094/README.md) windows API
+- [20221003151057](/zet/20221003151057/README.md) get windows enumeration info from file read
 
 Tags:
 

@@ -26,6 +26,8 @@
 - [20221008195148](/zet/20221008195148/README.md) seclists etc files project
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - ~/kb/hacking/methodology/LFI-procedure.md
+- [20221003151007](/zet/20221003151007/README.md) LFI or directory traversal procedures file wordlists linux
+- [20221003151009](/zet/20221003151009/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl  prevent normalization of paths
 
 Tags:
 

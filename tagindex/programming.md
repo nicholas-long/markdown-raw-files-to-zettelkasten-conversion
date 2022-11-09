@@ -1,4 +1,5 @@
 - [20221003150255](/zet/20221003150255/README.md) solidity
+- [20221003150864](/zet/20221003150864/README.md) generate one time 2fa authentication pins OTP google authenticator
 - [20221003151178](/zet/20221003151178/README.md) got source code - analysis to try list
 - [20221008212519](/zet/20221008212519/README.md) programming language
 - [20221008214406](/zet/20221008214406/README.md) sharing programming projects with zettelkasten

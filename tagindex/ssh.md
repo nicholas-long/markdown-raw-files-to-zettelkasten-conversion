@@ -1,3 +1,4 @@
+- [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
 - [20221003150856](/zet/20221003150856/README.md) ssh-keygen generate key to file no password prompt
 - [20221003150857](/zet/20221003150857/README.md) ssh-keygen

@@ -1,3 +1,4 @@
+- [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
 - [20221003150121](/zet/20221003150121/README.md) routing using a linux box add router to routes on hosts windows
 - [20221003150287](/zet/20221003150287/README.md) default webroots xampp
 - [20221003150311](/zet/20221003150311/README.md) SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
@@ -41,6 +42,7 @@
 - [20221003151050](/zet/20221003151050/README.md) change user password
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
 - [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows
+- [20221003151057](/zet/20221003151057/README.md) get windows enumeration info from file read
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
 - [20221003151061](/zet/20221003151061/README.md) bypass UAC with administrators group read files quickly using smb shares
 - [20221003151062](/zet/20221003151062/README.md) bypass UAC with administrators group uacme bypass
@@ -52,7 +54,7 @@
 - [20221003151068](/zet/20221003151068/README.md) dump process memory with task manager as admin
 - [20221003151069](/zet/20221003151069/README.md) dump process memory with sysinternals procdump
 - [20221003151070](/zet/20221003151070/README.md) dump process memory
-- [20221003151071](/zet/20221003151071/README.md) windows color script output winpeas log scroll with colors and convert to utf8 for linux
+- [20221003151071](/zet/20221003151071/README.md) windows color winpeas script log output
 - [20221003151072](/zet/20221003151072/README.md) windows color script output winpeas log
 - [20221003151073](/zet/20221003151073/README.md) windows color script output
 - [20221003151074](/zet/20221003151074/README.md) service account privileges exploiting SeManageVolumePrivilege

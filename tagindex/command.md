@@ -275,7 +275,7 @@
 - [20221003150816](/zet/20221003150816/README.md) meterpreter msf
 - [20221003150817](/zet/20221003150817/README.md) metasploit msf proxy exploits through burpsuite
 - [20221003150818](/zet/20221003150818/README.md) metasploit msf run as script from rc file
-- [20221003150819](/zet/20221003150819/README.md) metasploit msf
+- [20221003150819](/zet/20221003150819/README.md) metasploit msf hub
 - [20221003150820](/zet/20221003150820/README.md) hydra bruteforce ftp rockyou 50
 - [20221003150821](/zet/20221003150821/README.md) hydra bruteforce ftp default creds
 - [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
@@ -303,7 +303,7 @@
 - [20221003150846](/zet/20221003150846/README.md) gobuster dirbusting
 - [20221003150847](/zet/20221003150847/README.md) gobuster
 - [20221003150849](/zet/20221003150849/README.md) hydra brute force HTTP basic authentication
-- [20221003150850](/zet/20221003150850/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate 86400 seconds = one day
+- [20221003150850](/zet/20221003150850/README.md) dns commands update / change / delete DNS records for subdomain
 - [20221003150851](/zet/20221003150851/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate
 - [20221003150852](/zet/20221003150852/README.md) dns commands enumerate with ANY query
 - [20221003150853](/zet/20221003150853/README.md) dns commands zone transfer axfr
@@ -317,7 +317,7 @@
 - [20221003150861](/zet/20221003150861/README.md) SSH arguments troubleshoot diagnose connection problems
 - [20221003150862](/zet/20221003150862/README.md) SSH arguments
 - [20221003150863](/zet/20221003150863/README.md) wget download FTP directory files recursively
-- [20221003150864](/zet/20221003150864/README.md) two-factor authentication 2fa generate one time pins OTP google authenticator
+- [20221003150864](/zet/20221003150864/README.md) generate one time 2fa authentication pins OTP google authenticator
 - [20221003150865](/zet/20221003150865/README.md) two-factor authentication 2fa generate one time pins OTP
 - [20221003150866](/zet/20221003150866/README.md) two-factor authentication 2fa
 - [20221003150867](/zet/20221003150867/README.md) john the ripper find all file formats supported with a 2john script or tojohn use sed to process / execute multiple expressions statements
@@ -363,6 +363,7 @@
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
 - [20221003150972](/zet/20221003150972/README.md) crack salted md5 hash with hashcat
 - [20221003150977](/zet/20221003150977/README.md) oracle connect as sysdba enable file read privileges
+- [20221003151049](/zet/20221003151049/README.md) change user password powershell or dos
 - [20221003151051](/zet/20221003151051/README.md) set date to match Active Directory server with ntpdate
 - [20221003151082](/zet/20221003151082/README.md) powerup powershell windows privesc enumeration script
 - [20221003151090](/zet/20221003151090/README.md) powerview enumerate sensitive information disclosure on file shares

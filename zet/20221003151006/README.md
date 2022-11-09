@@ -20,6 +20,11 @@
 - [20221003150457](/zet/20221003150457/README.md) GraphQLmap for GraphQL enumeration
 - [20221010161950](/zet/20221010161950/README.md) create issue for things tagged #feature, #enh, ... automatically
 - ~/kb/hacking/methodology/API-enumeration.md
+- [20221003151000](/zet/20221003151000/README.md) API enumeration good wordlists last resort?
+- [20221003151001](/zet/20221003151001/README.md) API enumeration good wordlists commonly used list of words
+- [20221003151002](/zet/20221003151002/README.md) API enumeration good wordlists parameters
+- [20221003151003](/zet/20221003151003/README.md) API enumeration good wordlists seclists for endpoints
+- [20221003150999](/zet/20221003150999/README.md) API enumeration good wordlists API enumeration wordlists by size
 
 Tags:
 

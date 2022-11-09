@@ -1,3 +1,2 @@
 - [20221003151092](/zet/20221003151092/README.md) windows API enable privilege API calls
 - [20221003151093](/zet/20221003151093/README.md) windows API enable privilege
-- [20221003151094](/zet/20221003151094/README.md) windows API

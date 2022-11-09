@@ -17,7 +17,7 @@ the concept of a `file path`
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
 - [20221003150253](/zet/20221003150253/README.md) PXE boot
 - [20221013180437](/zet/20221013180437/README.md) differences organizing zettelkasten in graph vs files in hierarchy
-- [20221003151036](/zet/20221003151036/README.md) program files UNP directory
+- [20221003151036](/zet/20221003151036/README.md) windows update program files directory
 - [20221003151302](/zet/20221003151302/README.md) get current script directory
 - [20221008221940](/zet/20221008221940/README.md) URL
 - [20221008215400](/zet/20221008215400/README.md) file

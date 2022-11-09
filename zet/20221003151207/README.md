@@ -131,6 +131,13 @@
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 - [20221003151081](/zet/20221003151081/README.md) service account privileges
 - [20221003151063](/zet/20221003151063/README.md) bypass UAC with administrators group fodhelper bypass
+- [20221003151033](/zet/20221003151033/README.md) applocker limit allowed executables and allowed paths bypass executable blocking
+- [20221003151093](/zet/20221003151093/README.md) windows API enable privilege
+- [20221003151065](/zet/20221003151065/README.md) AMSI detect windows defender with known malicious string
+- [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin
+- [20221003151070](/zet/20221003151070/README.md) dump process memory
+- [20221003151046](/zet/20221003151046/README.md) windows reverse shell AV bypass defender
+- [20221003151049](/zet/20221003151049/README.md) change user password powershell or dos
 
 Tags:
 

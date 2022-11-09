@@ -1,3 +1,4 @@
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
+- [20221003151057](/zet/20221003151057/README.md) get windows enumeration info from file read
 - [20221003151370](/zet/20221003151370/README.md) bash scripting get library dependency versions from composer.lock json file
 - [20221008213357](/zet/20221008213357/README.md) version of program

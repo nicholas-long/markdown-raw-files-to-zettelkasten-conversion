@@ -64,6 +64,7 @@
 - [20221003150977](/zet/20221003150977/README.md) oracle connect as sysdba enable file read privileges
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
 - [20221003151083](/zet/20221003151083/README.md) establishing persistence on windows target in enterprise penetration test
+- [20221003151093](/zet/20221003151093/README.md) windows API enable privilege
 - [20221003151205](/zet/20221003151205/README.md) windows privilege escalation AD headline exploits
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation

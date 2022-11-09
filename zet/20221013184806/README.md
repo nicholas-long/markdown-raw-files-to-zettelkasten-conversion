@@ -19,6 +19,7 @@
 - [20221003150248](/zet/20221003150248/README.md) Azure AD connect
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221031160706](/zet/20221031160706/README.md) syncing images from onedrive
+- [20221003151027](/zet/20221003151027/README.md) decrypt azure AD connect passwords powershell MSSQL queries
 
 Tags:
 

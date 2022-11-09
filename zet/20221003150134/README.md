@@ -14,6 +14,7 @@
 - [20221003151195](/zet/20221003151195/README.md) DNS to try list
 - [20221003150133](/zet/20221003150133/README.md) DNS add nameserver to resolv.conf
 - ~/kb/linux/assorted-notes-and-tips.md
+- [20221003150850](/zet/20221003150850/README.md) dns commands update / change / delete DNS records for subdomain
 
 Tags:
 

@@ -6,6 +6,7 @@ https://github.com/mgeeky/PackMyPayload
 # Related
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
+- [20221003151098](/zet/20221003151098/README.md) powershell commands execute encoded command as quietly as possible
 
 Tags:
 

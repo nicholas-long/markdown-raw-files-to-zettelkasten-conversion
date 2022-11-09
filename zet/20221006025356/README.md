@@ -84,6 +84,7 @@ linux reference links and concepts
 - [20221003150184](/zet/20221003150184/README.md) add user to group
 - [20221003150306](/zet/20221003150306/README.md) modify date with touch timestomping
 - [20221006063114](/zet/20221006063114/README.md) small files are stored in inodes in ext4
+- [20221003150884](/zet/20221003150884/README.md) privilege escalation relative path abuse
 
 Tags:
 

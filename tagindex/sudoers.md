@@ -1,2 +1,1 @@
-- [20221003150875](/zet/20221003150875/README.md) sudo sudoers file all nopassword
 - [20221003150876](/zet/20221003150876/README.md) sudo sudoers file

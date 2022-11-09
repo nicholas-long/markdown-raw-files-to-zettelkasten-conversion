@@ -24,6 +24,7 @@
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221008061334](/zet/20221008061334/README.md) concepts
 - [20221003150777](/zet/20221003150777/README.md) MSFVENOM
+- [20221003151049](/zet/20221003151049/README.md) change user password powershell or dos
 
 Tags:
 

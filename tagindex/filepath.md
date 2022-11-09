@@ -1,6 +1,8 @@
 - [20221003150283](/zet/20221003150283/README.md) default webroots debian system
 - [20221003150287](/zet/20221003150287/README.md) default webroots xampp
 - [20221003150289](/zet/20221003150289/README.md) default webroots
+- [20221003150884](/zet/20221003150884/README.md) privilege escalation relative path abuse
+- [20221003151033](/zet/20221003151033/README.md) applocker limit allowed executables and allowed paths bypass executable blocking
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 - [20221003151421](/zet/20221003151421/README.md) bash scripting find all git repositories in a directory

@@ -1,0 +1,2 @@
+- [20221003151033](/zet/20221003151033/README.md) applocker limit allowed executables and allowed paths bypass executable blocking
+- [20221003151046](/zet/20221003151046/README.md) windows reverse shell AV bypass defender

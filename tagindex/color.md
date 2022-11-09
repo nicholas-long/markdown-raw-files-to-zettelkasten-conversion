@@ -1,0 +1,1 @@
+- [20221003151071](/zet/20221003151071/README.md) windows color winpeas script log output

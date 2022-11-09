@@ -51,6 +51,7 @@
 - [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
 - [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path
 - [20221003151335](/zet/20221003151335/README.md) bash command reference
+- [20221003151339](/zet/20221003151339/README.md) enumerate all python imports; chain 2 awk scripts with a filter
 - [20221003151344](/zet/20221003151344/README.md) awk bash scripting split into files by column value
 - [20221003151348](/zet/20221003151348/README.md) awk bash scripting move files automatically
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting

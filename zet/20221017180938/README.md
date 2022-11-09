@@ -24,7 +24,7 @@
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
 - [20221003150834](/zet/20221003150834/README.md) bruteforcing su passwords with sucrack
 - [20221003150659](/zet/20221003150659/README.md) wfuzz
-- [20221003150819](/zet/20221003150819/README.md) metasploit msf
+- [20221003150819](/zet/20221003150819/README.md) metasploit msf hub
 - [20221003150816](/zet/20221003150816/README.md) meterpreter msf
 - [20221003150739](/zet/20221003150739/README.md) feroxbuster
 - [20221003150847](/zet/20221003150847/README.md) gobuster

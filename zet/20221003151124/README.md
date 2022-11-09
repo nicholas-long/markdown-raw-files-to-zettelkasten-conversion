@@ -21,6 +21,11 @@
 - [20221003151110](/zet/20221003151110/README.md) dos commands admin / system
 - [20221003151108](/zet/20221003151108/README.md) dos commands net
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
+- [20221003151107](/zet/20221003151107/README.md) dos commands net add user to domain group
+- [20221003151109](/zet/20221003151109/README.md) dos commands admin / system dump registry secretsdump hashes
+- [20221003151112](/zet/20221003151112/README.md) dos commands services sc start service
+- [20221003151113](/zet/20221003151113/README.md) dos commands services sc set binary path
+- [20221003151114](/zet/20221003151114/README.md) dos commands services sc enable service
 
 Tags:
 

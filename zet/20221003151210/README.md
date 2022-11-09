@@ -136,6 +136,8 @@
 - [20221003150307](/zet/20221003150307/README.md) copy docker binary to target
 - [20221013222336](/zet/20221013222336/README.md) how to tell if tmux is running
 - [20221003150183](/zet/20221003150183/README.md) add user to docker group
+- [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin
+- [20221003150875](/zet/20221003150875/README.md) sudo sudoers file all nopassword
 
 Tags:
 

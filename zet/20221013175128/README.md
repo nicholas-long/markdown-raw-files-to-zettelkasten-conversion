@@ -24,6 +24,10 @@
 - [20221003150929](/zet/20221003150929/README.md) C setuid suid backdoor exploit
 - [20221003150446](/zet/20221003150446/README.md) linux exploit suggester
 - [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads
+- [20221003151046](/zet/20221003151046/README.md) windows reverse shell AV bypass defender
+- [20221003151065](/zet/20221003151065/README.md) AMSI detect windows defender with known malicious string
+- [20221003151098](/zet/20221003151098/README.md) powershell commands execute encoded command as quietly as possible
+- [20221003150856](/zet/20221003150856/README.md) ssh-keygen generate key to file no password prompt
 
 Tags:
 

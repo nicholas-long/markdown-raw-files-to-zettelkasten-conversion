@@ -1,0 +1,1 @@
+- [20221003150864](/zet/20221003150864/README.md) generate one time 2fa authentication pins OTP google authenticator

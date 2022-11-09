@@ -1,5 +1,47 @@
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file
 - [20221003150801](/zet/20221003150801/README.md) openssl commands
 - [20221003150807](/zet/20221003150807/README.md) brute force default credentials
+- [20221003150815](/zet/20221003150815/README.md) meterpreter msf move from x86 to x64
+- [20221003150816](/zet/20221003150816/README.md) meterpreter msf
 - [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
+- [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list
+- [20221003150832](/zet/20221003150832/README.md) responder add ssl certificate
+- [20221003150851](/zet/20221003150851/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate
+- [20221003150857](/zet/20221003150857/README.md) ssh-keygen
 - [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm
+- [20221003150862](/zet/20221003150862/README.md) SSH arguments
+- [20221003150865](/zet/20221003150865/README.md) two-factor authentication 2fa generate one time pins OTP
+- [20221003150866](/zet/20221003150866/README.md) two-factor authentication 2fa
+- [20221003150876](/zet/20221003150876/README.md) sudo sudoers file
+- [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities
+- [20221003150905](/zet/20221003150905/README.md) linux enumeration quick commands transfer / download files with just bash send
+- [20221003150906](/zet/20221003150906/README.md) linux enumeration quick commands transfer / download files with just bash receive
+- [20221003150942](/zet/20221003150942/README.md) python imports
+- [20221003150949](/zet/20221003150949/README.md) python fix SSL errors
+- [20221003150953](/zet/20221003150953/README.md) OSINT organizations
+- [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
+- [20221003151004](/zet/20221003151004/README.md) API enumeration good wordlists
+- [20221003151008](/zet/20221003151008/README.md) LFI or directory traversal procedures file wordlists
+- [20221003151010](/zet/20221003151010/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl 
+- [20221003151028](/zet/20221003151028/README.md) decrypt azure AD connect passwords
+- [20221003151034](/zet/20221003151034/README.md) applocker limit allowed executables and allowed paths
+- [20221003151037](/zet/20221003151037/README.md) program files ruxim directory
+- [20221003151042](/zet/20221003151042/README.md) windows alternate data streams commands displaying content with powershell
+- [20221003151043](/zet/20221003151043/README.md) windows alternate data streams commands creating alt streams
+- [20221003151044](/zet/20221003151044/README.md) windows alternate data streams commands enumerate directory for alt streams
+- [20221003151047](/zet/20221003151047/README.md) windows reverse shell AV bypass active directory endpoint protection
+- [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass
+- [20221003151050](/zet/20221003151050/README.md) change user password
+- [20221003151066](/zet/20221003151066/README.md) AMSI detect windows defender
+- [20221003151067](/zet/20221003151067/README.md) AMSI
+- [20221003151068](/zet/20221003151068/README.md) dump process memory with task manager as admin
+- [20221003151069](/zet/20221003151069/README.md) dump process memory with sysinternals procdump
+- [20221003151072](/zet/20221003151072/README.md) windows color script output winpeas log
+- [20221003151073](/zet/20221003151073/README.md) windows color script output
+- [20221003151086](/zet/20221003151086/README.md) mimikatz troubleshooting `ERROR kuhl_m_sekurlsa_acquireLSA Key import`
+- [20221003151087](/zet/20221003151087/README.md) mimikatz dump passwords
+- [20221003151088](/zet/20221003151088/README.md) mimikatz all in one command for non-interactive powershell
+- [20221003151099](/zet/20221003151099/README.md) powershell commands encoded command nop bypass hidden
+- [20221003151108](/zet/20221003151108/README.md) dos commands net
+- [20221003151110](/zet/20221003151110/README.md) dos commands admin / system
+- [20221003151115](/zet/20221003151115/README.md) dos commands services sc

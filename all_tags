@@ -1,4 +1,5 @@
 
+#2fa
 #account
 #ad
 #administration
@@ -26,6 +27,7 @@
 #bug
 #busting
 #buzzwords
+#bypass
 #c-language
 #c2
 #calling
@@ -34,6 +36,7 @@
 #cleanup
 #cms
 #coding
+#color
 #command
 #company
 #concept
@@ -189,6 +192,7 @@
 #optimization
 #os
 #osint
+#otp
 #package
 #packet
 #pane
@@ -240,6 +244,7 @@
 #script
 #scripting
 #sed
+#server
 #service
 #setup
 #shell
@@ -262,6 +267,7 @@
 #stack
 #stream
 #streamer
+#sudo
 #sudoers
 #surface
 #syntax

@@ -447,7 +447,7 @@
 - [20221003150816](/zet/20221003150816/README.md) meterpreter msf
 - [20221003150817](/zet/20221003150817/README.md) metasploit msf proxy exploits through burpsuite
 - [20221003150818](/zet/20221003150818/README.md) metasploit msf run as script from rc file
-- [20221003150819](/zet/20221003150819/README.md) metasploit msf
+- [20221003150819](/zet/20221003150819/README.md) metasploit msf hub
 - [20221003150820](/zet/20221003150820/README.md) hydra bruteforce ftp rockyou 50
 - [20221003150821](/zet/20221003150821/README.md) hydra bruteforce ftp default creds
 - [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
@@ -476,7 +476,7 @@
 - [20221003150846](/zet/20221003150846/README.md) gobuster dirbusting
 - [20221003150847](/zet/20221003150847/README.md) gobuster
 - [20221003150849](/zet/20221003150849/README.md) hydra brute force HTTP basic authentication
-- [20221003150850](/zet/20221003150850/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate 86400 seconds = one day
+- [20221003150850](/zet/20221003150850/README.md) dns commands update / change / delete DNS records for subdomain
 - [20221003150851](/zet/20221003150851/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate
 - [20221003150852](/zet/20221003150852/README.md) dns commands enumerate with ANY query
 - [20221003150853](/zet/20221003150853/README.md) dns commands zone transfer axfr
@@ -490,7 +490,7 @@
 - [20221003150861](/zet/20221003150861/README.md) SSH arguments troubleshoot diagnose connection problems
 - [20221003150862](/zet/20221003150862/README.md) SSH arguments
 - [20221003150863](/zet/20221003150863/README.md) wget download FTP directory files recursively
-- [20221003150864](/zet/20221003150864/README.md) two-factor authentication 2fa generate one time pins OTP google authenticator
+- [20221003150864](/zet/20221003150864/README.md) generate one time 2fa authentication pins OTP google authenticator
 - [20221003150865](/zet/20221003150865/README.md) two-factor authentication 2fa generate one time pins OTP
 - [20221003150866](/zet/20221003150866/README.md) two-factor authentication 2fa
 - [20221003150867](/zet/20221003150867/README.md) john the ripper find all file formats supported with a 2john script or tojohn use sed to process / execute multiple expressions statements
@@ -650,7 +650,7 @@
 - [20221003151032](/zet/20221003151032/README.md) fix downloading file with evil-winrm
 - [20221003151033](/zet/20221003151033/README.md) applocker limit allowed executables and allowed paths bypass executable blocking
 - [20221003151034](/zet/20221003151034/README.md) applocker limit allowed executables and allowed paths
-- [20221003151036](/zet/20221003151036/README.md) program files UNP directory
+- [20221003151036](/zet/20221003151036/README.md) windows update program files directory
 - [20221003151037](/zet/20221003151037/README.md) program files ruxim directory
 - [20221003151038](/zet/20221003151038/README.md) dumping credentials as admin in remote desktop RDP or GUI
 - [20221003151039](/zet/20221003151039/README.md) dumping credentials as admin
@@ -681,7 +681,7 @@
 - [20221003151068](/zet/20221003151068/README.md) dump process memory with task manager as admin
 - [20221003151069](/zet/20221003151069/README.md) dump process memory with sysinternals procdump
 - [20221003151070](/zet/20221003151070/README.md) dump process memory
-- [20221003151071](/zet/20221003151071/README.md) windows color script output winpeas log scroll with colors and convert to utf8 for linux
+- [20221003151071](/zet/20221003151071/README.md) windows color winpeas script log output
 - [20221003151072](/zet/20221003151072/README.md) windows color script output winpeas log
 - [20221003151073](/zet/20221003151073/README.md) windows color script output
 - [20221003151074](/zet/20221003151074/README.md) service account privileges exploiting SeManageVolumePrivilege

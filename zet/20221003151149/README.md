@@ -6,7 +6,7 @@ uses function `generate_mof`
 
 # Related
 
-- [20221003150819](/zet/20221003150819/README.md) metasploit msf
+- [20221003150819](/zet/20221003150819/README.md) metasploit msf hub
 - [20221014185651](/zet/20221014185651/README.md) kb file named kb/hacking/windows/xp-server-2003.md
 - [20221003151150](/zet/20221003151150/README.md) windows XP and windows server 2003 write arbitrary MOF file for remote code execution
 - ~/kb/hacking/windows/xp-server-2003.md

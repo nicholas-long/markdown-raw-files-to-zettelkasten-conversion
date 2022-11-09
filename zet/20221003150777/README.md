@@ -26,6 +26,7 @@
 - [20221003150772](/zet/20221003150772/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Bind Shell Output in Hex, C Style, Exclude bad chars, Exitfunction thread
 - [20221003150773](/zet/20221003150773/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Bind Shell
 - [20221003150774](/zet/20221003150774/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Reverse Shell
+- [20221003150819](/zet/20221003150819/README.md) metasploit msf hub
 
 Tags:
 

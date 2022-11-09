@@ -256,6 +256,12 @@ hacking notes hub
 - [20221003150630](/zet/20221003150630/README.md) LDAP enumeration
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist
 - [20221003150946](/zet/20221003150946/README.md) python hub
+- [20221003151098](/zet/20221003151098/README.md) powershell commands execute encoded command as quietly as possible
+- [20221003151070](/zet/20221003151070/README.md) dump process memory
+- [20221003151071](/zet/20221003151071/README.md) windows color winpeas script log output
+- [20221003150873](/zet/20221003150873/README.md) host quick server
+- [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass
+- [20221003150833](/zet/20221003150833/README.md) responder
 
 Tags:
 

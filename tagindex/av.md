@@ -8,6 +8,7 @@
 - [20221003150324](/zet/20221003150324/README.md) vmware carbon black cloud
 - [20221003150325](/zet/20221003150325/README.md) Microsoft Defender for Endpoint - enterprise protection
 - [20221003150326](/zet/20221003150326/README.md) top tier endpoint protection AV
+- [20221003151046](/zet/20221003151046/README.md) windows reverse shell AV bypass defender
 - [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass
 - [20221003151065](/zet/20221003151065/README.md) AMSI detect windows defender with known malicious string
 - [20221025221046](/zet/20221025221046/README.md) worst tier of AV

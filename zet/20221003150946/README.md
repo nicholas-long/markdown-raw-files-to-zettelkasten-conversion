@@ -28,6 +28,9 @@
 - ~/kb/hacking/python/python-quick-reference.md
 - [20221003151363](/zet/20221003151363/README.md) python scripting
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
+- [20221003150940](/zet/20221003150940/README.md) python imports library search path
+- [20221003150941](/zet/20221003150941/README.md) python imports files vs loading as libraries
+- [20221003150948](/zet/20221003150948/README.md) python fix SSL errors using requests library
 
 Tags:
 

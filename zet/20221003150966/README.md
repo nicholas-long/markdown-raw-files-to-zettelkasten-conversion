@@ -24,6 +24,8 @@ https://osintframework.com/
 - [20221003150953](/zet/20221003150953/README.md) OSINT organizations
 - [20221003150950](/zet/20221003150950/README.md) OSINT enumerate emails and username format for domain
 - ~/kb/hacking/methodology/osint-overview.md
+- [20221003150951](/zet/20221003150951/README.md) OSINT organizations job postings
+- [20221003150952](/zet/20221003150952/README.md) OSINT organizations github OSINT
 
 Tags:
 

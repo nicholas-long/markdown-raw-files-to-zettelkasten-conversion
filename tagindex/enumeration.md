@@ -44,9 +44,10 @@
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
 - [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows
 - [20221003151065](/zet/20221003151065/README.md) AMSI detect windows defender with known malicious string
-- [20221003151071](/zet/20221003151071/README.md) windows color script output winpeas log scroll with colors and convert to utf8 for linux
+- [20221003151071](/zet/20221003151071/README.md) windows color winpeas script log output
 - [20221003151072](/zet/20221003151072/README.md) windows color script output winpeas log
 - [20221003151073](/zet/20221003151073/README.md) windows color script output
+- [20221003151109](/zet/20221003151109/README.md) dos commands admin / system dump registry secretsdump hashes
 - [20221003151199](/zet/20221003151199/README.md) finger tcp 79
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
 - [20221003151301](/zet/20221003151301/README.md) pipe into sed command to strip color

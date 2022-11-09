@@ -21,10 +21,13 @@
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory
 - [20221003151035](/zet/20221003151035/README.md) hidden shares
+- [20221003151045](/zet/20221003151045/README.md) windows alternate data streams commands
+- [20221003151057](/zet/20221003151057/README.md) get windows enumeration info from file read
 - [20221003151059](/zet/20221003151059/README.md) locations where authenticated users can write in windows
 - [20221003151060](/zet/20221003151060/README.md) location of services in windows registry
 - [20221003151081](/zet/20221003151081/README.md) service account privileges
 - [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet
+- [20221003151089](/zet/20221003151089/README.md) mimikatz
 - [20221003151137](/zet/20221003151137/README.md) active directory sensitive files
 - [20221006185420](/zet/20221006185420/README.md) rubik's cube cheat sheet
 - [20221008005525](/zet/20221008005525/README.md) bash scripting pitfalls and anti-patterns

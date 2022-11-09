@@ -52,6 +52,9 @@
 - [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
 - [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows
 - [20221003151063](/zet/20221003151063/README.md) bypass UAC with administrators group fodhelper bypass
+- [20221003151065](/zet/20221003151065/README.md) AMSI detect windows defender with known malicious string
+- [20221003151070](/zet/20221003151070/README.md) dump process memory
+- [20221003151071](/zet/20221003151071/README.md) windows color winpeas script log output
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
 - [20221003151150](/zet/20221003151150/README.md) windows XP and windows server 2003 write arbitrary MOF file for remote code execution
 - [20221003151215](/zet/20221003151215/README.md) caddy install
@@ -118,6 +121,7 @@
 - [20221003151331](/zet/20221003151331/README.md) bash scripting check if a variable is empty
 - [20221003151333](/zet/20221003151333/README.md) bash command reference make temp directory
 - [20221003151334](/zet/20221003151334/README.md) bash command reference get full path to file from relative path
+- [20221003151339](/zet/20221003151339/README.md) enumerate all python imports; chain 2 awk scripts with a filter
 - [20221003151364](/zet/20221003151364/README.md) bash scripting get bash lines from kb snippets
 - [20221003151365](/zet/20221003151365/README.md) bash scripting urlencode a line of text from stdin
 - [20221003151367](/zet/20221003151367/README.md) bash scripting list public github repositories for user
