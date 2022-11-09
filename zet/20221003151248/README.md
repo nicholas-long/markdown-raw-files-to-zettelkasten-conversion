@@ -1,14 +1,19 @@
-# sending installs to target install pip modules on target as files with no dependencies on network connection to pip
-- create a docker image with python3-pip installed and a user account created
-- run a docker (no --rm) with that image, install packages with pip
-- create image from container `docker commit $CONTAINER_NAME`
-- use dive to inspect the last layer (bottom one) of stuff pip installed
-- export image to tar `docker image save $IMAGE_ID_OR_TAG -o output.tar`
-- go find layer you added when you installed stuff
-  - files for that layer are in a tar file nested within the image tar file we exported
-- take nested tar file, extract it. it should just have a `home` directory, stuff it could access to install modules as user with pip
-- clean up contents of home folder, i.e. don't include things like `.bash_history` etc.
-- compress and send it over
+# sending installs and dependencies to target with no network connection
+
+- install programs on target as tar archive file using docker to find installed dependencies
+- can be used to install pip modules or apt
+- steps
+  - create a docker image with python3-pip installed and a user account created
+  - run a docker (no --rm) with that image, install packages with pip
+  - create image from container `docker commit $CONTAINER_NAME`
+  - use dive to inspect the last layer (bottom one) of stuff pip installed
+  - export image to tar `docker image save $IMAGE_ID_OR_TAG -o output.tar`
+  - go find layer you added when you installed stuff
+    - files for that layer are in a tar file nested within the image tar file we exported
+  - take nested tar file, extract it. it should just have a `home` directory, stuff it could access to install modules as user with pip
+  - clean up contents of home folder, i.e. don't include things like `.bash_history` etc.
+  - compress and send it over
+
 ```bash
 ## we have a docker named flamboyant_wu with crackmapexec installed
 docker commit flamboyant_wu # the name of the container
@@ -39,7 +44,8 @@ find home | grep py # it's all here!
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221003151250](/zet/20221003151250/README.md) sending installs to target
 - ~/kb/hacking/tricks/install-pip-modules-on-target-as-files.md
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 
 Tags:
 
-    #hacking #trick #install 
+    #hacking #trick #install #docker #program

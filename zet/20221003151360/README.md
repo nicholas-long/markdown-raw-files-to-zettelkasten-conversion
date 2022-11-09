@@ -1,5 +1,5 @@
-# python scripting connect to remote server
-~/kb/hacking/pwn/boilerplate-pwn-script.py
+# python pwntools scripting template connect to remote server or local
+
 ```python
 #!/usr/bin/python3
 # pwntools template binary exploit script

@@ -1,4 +1,6 @@
-# bash scripting lookup unique hosts with shodan api
+# bash scripting watch failed ssh logins as live stream lookup in shodan
+
+- lookup unique hosts with shodan api
 ~/kb/bash-scripting/watch-failed-ssh-logins-live-check-shodan.sh
 ```bash
 #!/bin/bash

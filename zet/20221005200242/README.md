@@ -8,29 +8,6 @@ this is a list of possibly empty zettels.
 #
 # Empty
 #
-- [20221003151126](/zet/20221003151126/README.md) active directory  delegation unconstrained #hacking #windows
-- [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions #hacking #windows
-- [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec #hacking #windows #ad 
-- [20221003151193](/zet/20221003151193/README.md) HTTP #hacking #http #to-try-list
-- [20221003151214](/zet/20221003151214/README.md) got leaked files #to-try-list #hacking #got 
-- [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads #hacking #trick #malicious 
-- [20221003151247](/zet/20221003151247/README.md) Jenkins / Groovy (Java) Reverse Shell #hacking #trick #jenkins 
-- [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies #hacking #trick #install 
-- [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows cobalt strike #hacking #trick #run 
-- [20221003151254](/zet/20221003151254/README.md) run executable binary programs within process memory windows #hacking #trick #run 
-- [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux #hacking #trick #run 
-- [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory #hacking #trick #run 
-- [20221003151280](/zet/20221003151280/README.md) YAML parsing #yaml #data #pipelines
-- [20221003151281](/zet/20221003151281/README.md) YAML #yaml #data #pipelines
-- [20221003151286](/zet/20221003151286/README.md) postgres #postgres #data #pipelines
-- [20221003151288](/zet/20221003151288/README.md) jq pipe syntax #command #jq #data #pipelines
-- [20221003151289](/zet/20221003151289/README.md) jq #command #jq #data #pipelines
-- [20221003151299](/zet/20221003151299/README.md) bash tricks #trick #tricks #bash #scripting
-- [20221003151356](/zet/20221003151356/README.md) python scripting urlencode every input line #python #script 
-- [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally #python #script 
-- [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script #python #script 
-- [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream #bash #script 
-- [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried #awk #script 
 
 #
 # Non-Empty
@@ -54,34 +31,10 @@ this is a list of possibly empty zettels.
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project
-- [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
 - [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf
-- [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream
-- [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script
-- [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally
-- [20221003151356](/zet/20221003151356/README.md) python scripting urlencode every input line
 - [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
-- [20221003151299](/zet/20221003151299/README.md) bash tricks
-- [20221003151289](/zet/20221003151289/README.md) jq
-- [20221003151288](/zet/20221003151288/README.md) jq pipe syntax
-- [20221003151286](/zet/20221003151286/README.md) postgres
-- [20221003151281](/zet/20221003151281/README.md) YAML
-- [20221003151280](/zet/20221003151280/README.md) YAML parsing
 - [20221003151267](/zet/20221003151267/README.md) fzf
-- [20221003151257](/zet/20221003151257/README.md) run executable binary programs within process memory
-- [20221003151256](/zet/20221003151256/README.md) run executable binary programs within process memory linux
-- [20221003151254](/zet/20221003151254/README.md) run executable binary programs within process memory windows
-- [20221003151253](/zet/20221003151253/README.md) run executable binary programs within process memory windows cobalt strike
-- [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies
-- [20221003151247](/zet/20221003151247/README.md) Jenkins / Groovy (Java) Reverse Shell
-- [20221003151244](/zet/20221003151244/README.md) preparing malicious package payloads
-- [20221003151214](/zet/20221003151214/README.md) got leaked files
-- [20221003151193](/zet/20221003151193/README.md) HTTP
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
-- [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec
-- [20221003151144](/zet/20221003151144/README.md) active directory
-- [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions
-- [20221003151126](/zet/20221003151126/README.md) active directory  delegation unconstrained
 - [20221003151101](/zet/20221003151101/README.md) powershell commands
 - [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
 - [20221003150801](/zet/20221003150801/README.md) openssl commands

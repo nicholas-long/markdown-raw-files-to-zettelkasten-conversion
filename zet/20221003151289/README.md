@@ -1,5 +1,13 @@
 # jq
 
+- available in kali apt
+- filter data using pipes and select within jq command using pipe syntax
+  - example: bloodhound users.json file
+  - [20221003151287](/zet/20221003151287/README.md) jq pipe and filter objects syntax
+```bash
+cat users.json | jq '.data[].Properties | select ( .enabled == true ) | .name'
+```
+
 ` zet/20221003151289/README.md `
 
 # Related
@@ -11,9 +19,8 @@
 - [20221003151288](/zet/20221003151288/README.md) jq pipe syntax
 - [20221003151287](/zet/20221003151287/README.md) jq pipe and filter objects syntax
 - ~/kb/data-engineering-pipelines/jq-command-reference.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221008061334](/zet/20221008061334/README.md) concepts
 
 Tags:
 
-    #command #jq #data #pipelines
+    #command #jq #data #pipelines #program

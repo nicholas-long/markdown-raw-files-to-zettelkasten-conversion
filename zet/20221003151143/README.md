@@ -13,8 +13,7 @@
 - [20221003151142](/zet/20221003151142/README.md) active directory  exploiting permissions WriteDacl
 - [20221003151141](/zet/20221003151141/README.md) active directory  exploiting permissions GenericAll
 - ~/kb/hacking/windows/windows-active-directory-and-privilege-information.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 
-    #hacking #windows
+    #hacking #windows #DEL #DEL

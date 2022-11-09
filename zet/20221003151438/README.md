@@ -8,8 +8,8 @@
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - ~/kb/auto-awk.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221003151437](/zet/20221003151437/README.md) awk scripting read and write a separated value file as a database
 
 Tags:
 
-    #awk #script 
+    #awk #script #DEL

@@ -8,8 +8,7 @@
 - [20221003151281](/zet/20221003151281/README.md) YAML
 - [20221003151279](/zet/20221003151279/README.md) YAML parsing yq
 - ~/kb/data-engineering-pipelines/yaml-syntax.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 
-    #yaml #data #pipelines
+    #yaml #data #pipelines #DEL

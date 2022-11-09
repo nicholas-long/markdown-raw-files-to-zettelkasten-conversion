@@ -1,5 +1,8 @@
-# awk scripting read and write a separated value file as a database
-~/kb/awk-scripting/hydra-bruteforce-with-database.awk
+# awk scripting tracking credential reuse bruteforcing with csv file db
+
+- read and write a separated value file as a database
+- attempt to reuse credentials using hydra and keep track of usernames and passwords tried
+
 ```awk
 #!/usr/bin/awk -f
 # attempt to reuse credentials using hydra and keep track of usernames and passwords tried
@@ -54,4 +57,4 @@ END {
 
 Tags:
 
-    #awk #script 
+    #awk #script #database #creds

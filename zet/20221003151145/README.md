@@ -16,7 +16,8 @@ impacket-psexec domain.local/Administrator@FQDNMachine.domain.local -k -no-pass
 - [20221014185652](/zet/20221014185652/README.md) kb file named kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md
 - [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec
 - ~/kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md
+- [20221003151144](/zet/20221003151144/README.md) active directory
 
 Tags:
 
-    #hacking #windows #ad 
+    #hacking #windows #ad #trick

@@ -1,4 +1,5 @@
 # run executable binary programs within process memory linux base64 piped text using dd and shellcode
+
 https://github.com/arget13/DDexec
 ` | ddexec.sh argv0 argv1 ...`
 
@@ -14,4 +15,4 @@ https://github.com/arget13/DDexec
 
 Tags:
 
-    #hacking #trick #run 
+    #hacking #trick #run #DEL

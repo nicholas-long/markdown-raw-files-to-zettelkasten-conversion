@@ -13,4 +13,4 @@ build C assemblies as DLLs and run in memory on C2 client.
 
 Tags:
 
-    #hacking #trick #run 
+    #hacking #trick #run #DEL

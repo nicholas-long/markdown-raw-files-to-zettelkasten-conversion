@@ -1,4 +1,5 @@
-# python scripting read and process lines of input
+# python scripting read and process and urlencode every input line
+
 ~/kb/python/urlencode.py
 ```python
 #!/usr/bin/python3

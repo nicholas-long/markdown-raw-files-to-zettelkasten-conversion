@@ -27,6 +27,12 @@
 - ~/kb/hacking/to-try-lists/got-leaked-file-to-try-list.md
 - [20221003151169](/zet/20221003151169/README.md) NFS to try list
 - [20221003151403](/zet/20221003151403/README.md) bash scripting extract PDF embedded file stream for use with PDF file attach exploits like mpdf
+- [20221003151055](/zet/20221003151055/README.md) get windows verison info from file read
+- [20221003151164](/zet/20221003151164/README.md) SNMP
+- [20221008213254](/zet/20221008213254/README.md) file path
+- [20221003150231](/zet/20221003150231/README.md) apk analysis
+- [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files
+- [20221003151211](/zet/20221003151211/README.md) got leaked files jar
 
 Tags:
 
