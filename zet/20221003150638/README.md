@@ -8,8 +8,7 @@
 - [20221003150648](/zet/20221003150648/README.md) nmap
 - [20221003150637](/zet/20221003150637/README.md) nmap check for mountable NFS shares test access
 - ~/kb/hacking/commands/nmap-command.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 
-    #command #hacking #nmap 
+    #command #hacking #nmap #DEL

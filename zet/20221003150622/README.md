@@ -16,4 +16,4 @@ apt-get update && apt-get install pure-ftpd
 
 Tags:
 
-    #command #hacking #pureftp 
+    #command #hacking

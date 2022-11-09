@@ -14,4 +14,4 @@ pure-pw passwd offsec -f /etc/pure-ftpd/pureftpd.passwd
 
 Tags:
 
-    #command #hacking #pureftp 
+    #command #hacking

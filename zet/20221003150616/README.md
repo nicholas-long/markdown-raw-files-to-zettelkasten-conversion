@@ -19,4 +19,4 @@ echo bye >> ftp.txt
 
 Tags:
 
-    #command #hacking #pureftp 
+    #command #hacking #windows #windows #ftp

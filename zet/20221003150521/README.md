@@ -1,4 +1,5 @@
-# calling conventions x64 linux C style
+# x64 linux C style calling conventions
+
 `RDI, RSI, RDX, RCX, R8, R9`
 - Arguments 1-6 are passed via registers `RDI, RSI, RDX, RCX, R8, R9` respectively;
 - Arguments 7 and above are pushed on to the stack.
@@ -10,7 +11,9 @@
 - [20221014190013](/zet/20221014190013/README.md) kb file named kb/hacking/pwn/calling-conventions.md
 - [20221003150522](/zet/20221003150522/README.md) calling conventions
 - ~/kb/hacking/pwn/calling-conventions.md
+- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list
+- [20221021183918](/zet/20221021183918/README.md) C language
 
 Tags:
 
-    #hacking #pwn #calling 
+    #hacking #pwn #c-language

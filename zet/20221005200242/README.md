@@ -21,18 +21,6 @@ this is a list of possibly empty zettels.
 #
 # Empty
 #
-- [20221003150522](/zet/20221003150522/README.md) calling conventions #hacking #pwn #calling 
-- [20221003150529](/zet/20221003150529/README.md) gdb commands #command #hacking #pwn #gdb 
-- [20221003150537](/zet/20221003150537/README.md) immunity debugger mona commands #hacking #pwn #basic 
-- [20221003150592](/zet/20221003150592/README.md) php #command #hacking #php 
-- [20221003150623](/zet/20221003150623/README.md) PureFTP #command #hacking #pureftp 
-- [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration #command #hacking #smbmap 
-- [20221003150635](/zet/20221003150635/README.md) smbmap #command #hacking #smbmap 
-- [20221003150638](/zet/20221003150638/README.md) nmap check for mountable NFS shares #command #hacking #nmap 
-- [20221003150646](/zet/20221003150646/README.md) nmap flags extra fast options #command #hacking #nmap 
-- [20221003150648](/zet/20221003150648/README.md) nmap #command #hacking #nmap 
-- [20221003150650](/zet/20221003150650/README.md) kubernetes kubectl #command #hacking #kubernetes 
-- [20221003150651](/zet/20221003150651/README.md) kubernetes #command #hacking #kubernetes 
 - [20221003150659](/zet/20221003150659/README.md) wfuzz #command #hacking #wfuzz 
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands #command #hacking #binary 
 - [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files #command #hacking #bruteforcing
@@ -258,18 +246,6 @@ this is a list of possibly empty zettels.
 - [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands
 - [20221003150659](/zet/20221003150659/README.md) wfuzz
-- [20221003150651](/zet/20221003150651/README.md) kubernetes
-- [20221003150650](/zet/20221003150650/README.md) kubernetes kubectl
-- [20221003150648](/zet/20221003150648/README.md) nmap
-- [20221003150646](/zet/20221003150646/README.md) nmap flags extra fast options
-- [20221003150638](/zet/20221003150638/README.md) nmap check for mountable NFS shares
-- [20221003150635](/zet/20221003150635/README.md) smbmap
-- [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration
-- [20221003150623](/zet/20221003150623/README.md) PureFTP
-- [20221003150592](/zet/20221003150592/README.md) php
-- [20221003150537](/zet/20221003150537/README.md) immunity debugger mona commands
-- [20221003150529](/zet/20221003150529/README.md) gdb commands
-- [20221003150522](/zet/20221003150522/README.md) calling conventions
 - [20221003150517](/zet/20221003150517/README.md) binary analysis
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks

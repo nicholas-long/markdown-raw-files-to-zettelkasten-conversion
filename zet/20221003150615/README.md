@@ -14,4 +14,4 @@ ftp -v -n -s:ftp.txt
 
 Tags:
 
-    #command #hacking #pureftp 
+    #command #hacking #windows #ftp

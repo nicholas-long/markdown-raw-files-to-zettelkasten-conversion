@@ -14,4 +14,4 @@ pure-pw mkdb
 
 Tags:
 
-    #command #hacking #pureftp 
+    #command #hacking
