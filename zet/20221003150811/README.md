@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
 - [20221003150810](/zet/20221003150810/README.md) wfuzz fuzzing details fuzz multiple parameters
 - [20221014185849](/zet/20221014185849/README.md) kb file named kb/hacking/commands/wfuzz-fuzzing.md
 - ~/kb/hacking/commands/wfuzz-fuzzing.md

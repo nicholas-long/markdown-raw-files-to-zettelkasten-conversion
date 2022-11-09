@@ -59,7 +59,6 @@
 - [20221003151190](/zet/20221003151190/README.md) HTTP BUSTING directory busting to try list
 - [20221003150738](/zet/20221003150738/README.md) feroxbuster dirbusting
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
-- [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
 - [20221003150874](/zet/20221003150874/README.md) nikto command
 - [20221003150709](/zet/20221003150709/README.md) sqlmap
 - [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For

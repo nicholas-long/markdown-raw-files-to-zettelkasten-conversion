@@ -12,7 +12,6 @@ option `-v` verbosity; add extra line with human-readable details
 
 - [20221014185943](/zet/20221014185943/README.md) kb file named kb/hacking/commands/tcpdump-listen-for-pings.md
 - [20221003150717](/zet/20221003150717/README.md) packet capture
-- [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
 - [20221003150117](/zet/20221003150117/README.md) OSI networking model
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux

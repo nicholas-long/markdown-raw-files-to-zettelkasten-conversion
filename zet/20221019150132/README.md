@@ -18,7 +18,6 @@
 - [20221003150600](/zet/20221003150600/README.md) impacket
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221003151140](/zet/20221003151140/README.md) active directory  NTLMv2 vs kerberos authentication on the network
-- [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket
 - [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands
 - [20221003150747](/zet/20221003150747/README.md) impacket kerberos commands ticket environment variable KRB5CCNAME
 - [20221003150746](/zet/20221003150746/README.md) impacket kerberos commands wmiexec

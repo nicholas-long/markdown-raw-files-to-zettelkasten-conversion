@@ -180,8 +180,6 @@
 - [20221003150509](/zet/20221003150509/README.md) python pwn tricks
 - [20221003150500](/zet/20221003150500/README.md) shellshock python2 exploit
 - [20221003150749](/zet/20221003150749/README.md) crackmapexec kerberos authentication with ticket environment variable
-- [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files
-- [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket
 - [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker
 - [20221003150745](/zet/20221003150745/README.md) cracking keepass database with image key 2 john
 - [20221003150672](/zet/20221003150672/README.md) crackmapexec cme commands RID brute force
@@ -224,7 +222,6 @@
 - [20221003150769](/zet/20221003150769/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) Reverse Shell
 - [20221003150764](/zet/20221003150764/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) Reverse Shell
 - [20221003150762](/zet/20221003150762/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) Reverse Shell
-- [20221003150766](/zet/20221003150766/README.md) MSFVENOM Linux Binary (.elf)
 - [20221003150517](/zet/20221003150517/README.md) binary analysis
 - [20221003150544](/zet/20221003150544/README.md) simple binary exploits pattern offset finding create pattern with length with pattern create
 - [20221003150540](/zet/20221003150540/README.md) simple binary exploits python exploit scripts pwntools flat pack buffer offsets

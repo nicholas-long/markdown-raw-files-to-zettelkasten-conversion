@@ -21,7 +21,6 @@
 - [20221003150652](/zet/20221003150652/README.md) wfuzz host header pollution
 - [20221003151237](/zet/20221003151237/README.md) wfuzz identify files containing version info like README and changelog
 - [20221008212802](/zet/20221008212802/README.md) software program
-- [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221014185935](/zet/20221014185935/README.md) kb file named kb/hacking/commands/wfuzz-commands.md
 - ~/kb/hacking/commands/wfuzz-commands.md

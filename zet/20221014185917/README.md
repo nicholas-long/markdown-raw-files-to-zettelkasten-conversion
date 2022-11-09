@@ -15,9 +15,7 @@
 - [20221016233505](/zet/20221016233505/README.md) commits for day of 2022-05-26
 - [20221016233357](/zet/20221016233357/README.md) commits for day of 2022-03-31
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
-- [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
 - [20221003150711](/zet/20221003150711/README.md) packet capture read pcap data with tshark
-- [20221003150714](/zet/20221003150714/README.md) packet capture with tcpdump watch traffic
 - [20221003150712](/zet/20221003150712/README.md) packet capture with tcpdump watch traffic print packet data contents
 - [20221003150710](/zet/20221003150710/README.md) packet capture capture packets with tcpdump over ssh connection and pipe directly to wireshark
 - [20221003150717](/zet/20221003150717/README.md) packet capture

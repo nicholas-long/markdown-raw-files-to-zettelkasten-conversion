@@ -116,7 +116,6 @@
 - [20221003150869](/zet/20221003150869/README.md) john the ripper use rules to crack hashes from file with wordlist
 - [20221003150868](/zet/20221003150868/README.md) john the ripper find all file formats supported with a 2john script or tojohn
 - [20221003150867](/zet/20221003150867/README.md) john the ripper find all file formats supported with a 2john script or tojohn use sed to process / execute multiple expressions statements
-- [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks
 - [20221003150756](/zet/20221003150756/README.md) MSFVENOM tricks make executable binary with input shellcode
 - [20221003150604](/zet/20221003150604/README.md) tunneling through chisel - socks
 - [20221003150603](/zet/20221003150603/README.md) tunneling through chisel - socks Attacker

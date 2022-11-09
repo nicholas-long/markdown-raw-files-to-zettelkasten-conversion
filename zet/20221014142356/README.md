@@ -15,7 +15,6 @@
 - [20221006191703](/zet/20221006191703/README.md) bash trick printf to variable
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003151217](/zet/20221003151217/README.md) caddy
-- [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks
 - [20221003150509](/zet/20221003150509/README.md) python pwn tricks
 - [20221003150504](/zet/20221003150504/README.md) python pwn tricks convert hex to int
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks

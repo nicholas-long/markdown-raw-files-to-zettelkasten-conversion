@@ -19,7 +19,6 @@
 - [20221003150747](/zet/20221003150747/README.md) impacket kerberos commands ticket environment variable KRB5CCNAME
 - [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands
 - [20221003150749](/zet/20221003150749/README.md) crackmapexec kerberos authentication with ticket environment variable
-- [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket
 - [20221003150751](/zet/20221003150751/README.md) kerbrute password spray users from user list file
 - [20221003150752](/zet/20221003150752/README.md) kerbrute enumerate users using wordlist
 - [20221003150753](/zet/20221003150753/README.md) kerbrute

@@ -29,7 +29,6 @@
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - [20221003150995](/zet/20221003150995/README.md) GraphQL APIs GraphQL tools
 - [20221019151504](/zet/20221019151504/README.md) error message username enumeration
-- [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
 - [20221003150709](/zet/20221003150709/README.md) sqlmap
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221003151183](/zet/20221003151183/README.md) HTTP vulnerability finding and fuzzing

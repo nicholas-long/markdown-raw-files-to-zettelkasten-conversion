@@ -16,7 +16,6 @@ crackmapexec smb $IP -u users -p passwords
 - ~/kb/hacking/commands/crackmapexec-commands.md
 - [20221003150312](/zet/20221003150312/README.md) SMB
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
-- [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files
 
 Tags:
 

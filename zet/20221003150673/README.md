@@ -6,7 +6,6 @@ crackmapexec smb --help
 ```
 
 - [20221003150672](/zet/20221003150672/README.md) RID brute force
-- [20221003150671](/zet/20221003150671/README.md) test password username arguments or files
 - [20221003150670](/zet/20221003150670/README.md) bruteforce SMB
 - [20221003150669](/zet/20221003150669/README.md) test combine valid user and password combinations
 - [20221003150668](/zet/20221003150668/README.md) enumerate shares accessable by user
@@ -29,7 +28,6 @@ crackmapexec smb --help
 - [20221008215530](/zet/20221008215530/README.md) username
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150672](/zet/20221003150672/README.md) crackmapexec cme commands RID brute force
-- [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files
 - [20221003150670](/zet/20221003150670/README.md) crackmapexec cme commands bruteforce SMB
 - [20221003150669](/zet/20221003150669/README.md) crackmapexec cme commands test combine valid user and password combinations
 - [20221003150668](/zet/20221003150668/README.md) crackmapexec cme commands enumerate shares accessable by user

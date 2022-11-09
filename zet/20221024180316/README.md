@@ -14,17 +14,6 @@
 # have duplicate tags
 #
 
-# #DEL
-- [20221003150689](/zet/20221003150689/README.md) wpscan initial database exports #command #hacking #wpscan #DEL #DEL
-- [20221003150691](/zet/20221003150691/README.md) wpscan initial vulnerable themes #command #hacking #wpscan #DEL #DEL
-- [20221003150692](/zet/20221003150692/README.md) wpscan initial all plugins passive scan #command #hacking #wpscan #DEL #DEL
-- [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks #command #hacking #msfvenom #DEL #DEL
-- [20221003150765](/zet/20221003150765/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) #command #hacking #msfvenom #DEL #DEL
-- [20221003150766](/zet/20221003150766/README.md) MSFVENOM Linux Binary (.elf) #command #hacking #msfvenom #DEL #DEL
-- [20221003150771](/zet/20221003150771/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) #command #hacking #msfvenom #DEL #DEL
-- [20221003150775](/zet/20221003150775/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) #command #hacking #msfvenom #DEL #DEL
-- [20221003150776](/zet/20221003150776/README.md) MSFVENOM Windows Binary (.exe) executable #command #hacking #msfvenom #DEL #DEL
-
 # #windows
 - [20221003150616](/zet/20221003150616/README.md) PureFTP Create FTP Script (On Victim) #command #hacking #windows #windows #ftp
 

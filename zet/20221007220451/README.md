@@ -159,7 +159,6 @@ hacking notes hub
 - [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
 - [20221003151092](/zet/20221003151092/README.md) windows API enable privilege API calls
 - [20221003150884](/zet/20221003150884/README.md) privilege escalation relative path abuse
-- [20221003150766](/zet/20221003150766/README.md) MSFVENOM Linux Binary (.elf)
 - [20221003150562](/zet/20221003150562/README.md) Python Reverse Shell As Command 
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
 - [20221003150235](/zet/20221003150235/README.md) extract command for file type xz

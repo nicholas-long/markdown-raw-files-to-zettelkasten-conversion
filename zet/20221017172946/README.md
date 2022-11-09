@@ -14,7 +14,6 @@
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150833](/zet/20221003150833/README.md) responder
-- [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
 - [20221003150711](/zet/20221003150711/README.md) packet capture read pcap data with tshark
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands
 - [20221003150294](/zet/20221003150294/README.md) wireshark TLS1.2 handshake packet
