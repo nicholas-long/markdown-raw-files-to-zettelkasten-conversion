@@ -12,6 +12,7 @@ openssl enc -aes-256-cbc -e -in $FILE -out outputfile -k password
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150801](/zet/20221003150801/README.md) openssl commands
 - ~/kb/hacking/commands/openssl-commands.md
+- [20221003150791](/zet/20221003150791/README.md) openssl
 
 Tags:
 

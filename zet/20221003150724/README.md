@@ -1,5 +1,6 @@
 # openssl pfx p12 file PKCS12
 
+- hub for p12 and pfx file format
 - [20221003150723](/zet/20221003150723/README.md) openssl pfx p12 file PKCS12 view information about certificate
 - [20221003150722](/zet/20221003150722/README.md) openssl pfx p12 file PKCS12 public key fingerprint
 - [20221003150721](/zet/20221003150721/README.md) openssl pfx p12 file PKCS12 export pfx private key
@@ -22,4 +23,4 @@
 
 Tags:
 
-    #command #hacking #openssl 
+    #command #hacking #openssl #file #hub

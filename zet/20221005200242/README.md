@@ -8,7 +8,6 @@ this is a list of possibly empty zettels.
 #
 # Empty
 #
-- [20221003150791](/zet/20221003150791/README.md) openssl #command #hacking #openssl 
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file #command #hacking #generate 
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist #command #hacking #generate 
 - [20221003150801](/zet/20221003150801/README.md) openssl commands #command #hacking #openssl 
@@ -187,7 +186,6 @@ this is a list of possibly empty zettels.
 - [20221003150801](/zet/20221003150801/README.md) openssl commands
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file
-- [20221003150791](/zet/20221003150791/README.md) openssl
 - [20221003150780](/zet/20221003150780/README.md) crowbar
 - [20221003150730](/zet/20221003150730/README.md) powershell
 - [20221003150720](/zet/20221003150720/README.md) curl
