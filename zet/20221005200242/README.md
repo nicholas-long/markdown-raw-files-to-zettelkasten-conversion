@@ -4,19 +4,6 @@ this is a list of possibly empty zettels.
 - added content.awk to get raw content of zettel
   - excluding references and empty lines
 
-- things that are okay
-  - [20221003151441](/zet/20221003151441/README.md) awk scripting
-  - [20221003151424](/zet/20221003151424/README.md) bash scripting
-  - [20221003151363](/zet/20221003151363/README.md) python scripting
-  - [20221003151335](/zet/20221003151335/README.md) bash command reference
-  - [20221003151338](/zet/20221003151338/README.md) awk scripting
-  - [20221003151332](/zet/20221003151332/README.md) bash scripting
-  - [20221003151329](/zet/20221003151329/README.md) bash scripting
-
-- things that need to be fixed
-
-  - [20221004203354](/zet/20221004203354/README.md) Related
-
 ```
 #
 # Empty
