@@ -13,4 +13,4 @@ keytool -printcert -file CERT.RSA
 
 Tags:
 
-    #command #hacking #keytool 
+    #command #hacking #keytool #cert #file #extract

@@ -1,4 +1,5 @@
 # packet capture with tcpdump log data to pcap file
+
 ```bash
 sudo tcpdump -i tun0 -w $FILE
 ```
@@ -12,6 +13,7 @@ sudo tcpdump -i tun0 -w $FILE
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
 - ~/kb/hacking/commands/packet-capture.md
+- [20221003150717](/zet/20221003150717/README.md) packet capture
 
 Tags:
 

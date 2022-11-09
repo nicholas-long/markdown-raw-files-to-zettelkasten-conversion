@@ -8,7 +8,6 @@ this is a list of possibly empty zettels.
 #
 # Empty
 #
-- [20221003150714](/zet/20221003150714/README.md) packet capture with tcpdump watch traffic #command #hacking #packet 
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump #command #hacking #packet 
 - [20221003150755](/zet/20221003150755/README.md) keytool #command #hacking #keytool 
 - [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks #command #hacking #msfvenom 
@@ -210,7 +209,6 @@ this is a list of possibly empty zettels.
 - [20221003150730](/zet/20221003150730/README.md) powershell
 - [20221003150720](/zet/20221003150720/README.md) curl
 - [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
-- [20221003150714](/zet/20221003150714/README.md) packet capture with tcpdump watch traffic
 - [20221003150692](/zet/20221003150692/README.md) wpscan initial all plugins passive scan
 - [20221003150691](/zet/20221003150691/README.md) wpscan initial vulnerable themes
 - [20221003150690](/zet/20221003150690/README.md) wpscan initial config backups

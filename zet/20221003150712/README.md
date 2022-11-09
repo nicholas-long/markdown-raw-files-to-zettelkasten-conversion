@@ -10,6 +10,7 @@ sudo tcpdump -A -n -i tun0
 - [20221014185917](/zet/20221014185917/README.md) kb file named kb/hacking/commands/packet-capture.md
 - [20221003150714](/zet/20221003150714/README.md) packet capture with tcpdump watch traffic
 - ~/kb/hacking/commands/packet-capture.md
+- [20221003150717](/zet/20221003150717/README.md) packet capture
 
 Tags:
 

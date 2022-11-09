@@ -15,7 +15,9 @@
 - [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks
 - ~/kb/hacking/commands/msfvenom-commands.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list
+- [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
 
 Tags:
 
-    #command #hacking #msfvenom 
+    #command #hacking #msfvenom #hub #shell #shellcode
