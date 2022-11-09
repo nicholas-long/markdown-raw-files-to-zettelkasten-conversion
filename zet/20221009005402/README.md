@@ -260,7 +260,7 @@
 - [20221003150944](/zet/20221003150944/README.md) python hex to bytes
 - [20221003150464](/zet/20221003150464/README.md) powershell load PSCredential password import from file
 - [20221003150463](/zet/20221003150463/README.md) powershell PSCredential password print password from object
-- [20221003150946](/zet/20221003150946/README.md) python
+- [20221003150946](/zet/20221003150946/README.md) python hub
 - [20221003151226](/zet/20221003151226/README.md) php filter LFI to iconv RCE
 - [20221003150587](/zet/20221003150587/README.md) php code write to file
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
@@ -306,6 +306,7 @@
 - [20221006214142](/zet/20221006214142/README.md) streamers
 - [20221006213311](/zet/20221006213311/README.md) hackthebox
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
+- [20221003150858](/zet/20221003150858/README.md) SSH arguments use old ssh-rsa RSA private key allow for connection
 
 Tags:
 

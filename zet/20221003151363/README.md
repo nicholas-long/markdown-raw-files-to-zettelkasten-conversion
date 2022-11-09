@@ -30,10 +30,10 @@
 - [20221003151351](/zet/20221003151351/README.md) python scripting parse all post params from post content given on standard input
 - ~/kb/auto-python.md
 - [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference
-- [20221007023939](/zet/20221007023939/README.md) python ternary operator
 - [20221003150945](/zet/20221003150945/README.md) python hex to string
 - [20221003150944](/zet/20221003150944/README.md) python hex to bytes
 - [20221003150943](/zet/20221003150943/README.md) python string alphanumeric chars
+- [20221003150946](/zet/20221003150946/README.md) python hub
 
 Tags:
 

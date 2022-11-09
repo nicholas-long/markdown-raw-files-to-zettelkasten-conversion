@@ -19,6 +19,11 @@
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
+- [20221003150804](/zet/20221003150804/README.md) brute force default credentials tomcat
+- [20221003150805](/zet/20221003150805/README.md) brute force default credentials ssh
+- [20221003150806](/zet/20221003150806/README.md) brute force default credentials mysql
+- [20221003150820](/zet/20221003150820/README.md) hydra bruteforce ftp rockyou 50
+- [20221003150821](/zet/20221003150821/README.md) hydra bruteforce ftp default creds
 
 Tags:
 

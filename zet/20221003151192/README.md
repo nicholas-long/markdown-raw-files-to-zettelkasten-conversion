@@ -99,6 +99,7 @@
 - [20221003150682](/zet/20221003150682/README.md) web enumeration quick commands forms
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 - [20221003150808](/zet/20221003150808/README.md) wfuzz fuzzing details send to burpsuite local proxy
+- [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist
 
 Tags:
 

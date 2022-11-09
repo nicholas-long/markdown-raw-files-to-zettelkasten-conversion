@@ -254,6 +254,8 @@ hacking notes hub
 - [20221031093556](/zet/20221031093556/README.md) hacking video notes template
 - [20221003150503](/zet/20221003150503/README.md) pwntools
 - [20221003150630](/zet/20221003150630/README.md) LDAP enumeration
+- [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist
+- [20221003150946](/zet/20221003150946/README.md) python hub
 
 Tags:
 

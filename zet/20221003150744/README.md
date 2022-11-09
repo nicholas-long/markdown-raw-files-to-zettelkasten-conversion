@@ -21,6 +21,11 @@
 - [20221003150347](/zet/20221003150347/README.md) bruteforcing services
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - ~/kb/hacking/commands/hydra.md
+- [20221003150804](/zet/20221003150804/README.md) brute force default credentials tomcat
+- [20221003150805](/zet/20221003150805/README.md) brute force default credentials ssh
+- [20221003150806](/zet/20221003150806/README.md) brute force default credentials mysql
+- [20221003150820](/zet/20221003150820/README.md) hydra bruteforce ftp rockyou 50
+- [20221003150821](/zet/20221003150821/README.md) hydra bruteforce ftp default creds
 
 Tags:
 

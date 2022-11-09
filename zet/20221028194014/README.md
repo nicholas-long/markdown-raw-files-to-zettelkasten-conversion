@@ -85,7 +85,6 @@
 83 zet/20221003150119/README.md routing using a linux box iptables rules forward all traffic between two interfaces
 82 zet/20221014185906/README.md kb file named kb/hacking/commands/cracking-encrypted-files-with-john-the-ripper.md
 82 zet/20221003150960/README.md OSINT physical location OSINT identifying geographic locations from pictures OSINT
-82 zet/20221003150859/README.md SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm
 81 zet/20221003151432/README.md awk scripting filter the CVE list for potentially valid, relevant vulnerabilities
 81 zet/20221003151431/README.md awk scripting check output of grep and next line using awk "grep -A 1 -R '^# ' ."
 81 zet/20221003151400/README.md bash scripting update all the git repos in home directory and prompt with lazygit

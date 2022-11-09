@@ -34,6 +34,7 @@
 - [20221003150550](/zet/20221003150550/README.md) Sub domain Enum
 - [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
 - [20221003150727](/zet/20221003150727/README.md) ssh escape rbash set terminal
+- [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
 - [20221003150891](/zet/20221003150891/README.md) enumerate open ports if `ss` is not present
 - [20221003150922](/zet/20221003150922/README.md) BSD file transfers

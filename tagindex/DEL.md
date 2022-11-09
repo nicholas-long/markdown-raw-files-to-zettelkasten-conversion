@@ -1,1 +1,5 @@
+- [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file
 - [20221003150801](/zet/20221003150801/README.md) openssl commands
+- [20221003150807](/zet/20221003150807/README.md) brute force default credentials
+- [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
+- [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm

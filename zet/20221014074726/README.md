@@ -20,7 +20,7 @@
 - [20221008212519](/zet/20221008212519/README.md) programming language
 - [20221003151338](/zet/20221003151338/README.md) awk scripting
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
-- [20221003150946](/zet/20221003150946/README.md) python
+- [20221003150946](/zet/20221003150946/README.md) python hub
 - [20221014071406](/zet/20221014071406/README.md) using tools together in strange / convenient ways - examples
 - [20221014074852](/zet/20221014074852/README.md) "Keep It Simple Stupid" principle of engineering and design
 - [20221006033248](/zet/20221006033248/README.md) rwxrob

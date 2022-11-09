@@ -26,7 +26,7 @@ the concept of `programming language`
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
-- [20221003150946](/zet/20221003150946/README.md) python
+- [20221003150946](/zet/20221003150946/README.md) python hub
 - [20221003151292](/zet/20221003151292/README.md) C template
 - [20221003151271](/zet/20221003151271/README.md) docker cleanup
 

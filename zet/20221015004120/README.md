@@ -45,7 +45,7 @@
 - [20221015011525](/zet/20221015011525/README.md) my notes for opensource machine - steps
 - [20221014074852](/zet/20221014074852/README.md) "Keep It Simple Stupid" principle of engineering and design
 - [20221003151023](/zet/20221003151023/README.md) analyzing source code
-- [20221003150946](/zet/20221003150946/README.md) python
+- [20221003150946](/zet/20221003150946/README.md) python hub
 - [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221006213953](/zet/20221006213953/README.md) video notes

@@ -566,7 +566,7 @@
 - [20221003150943](/zet/20221003150943/README.md) python string alphanumeric chars
 - [20221003150944](/zet/20221003150944/README.md) python hex to bytes
 - [20221003150945](/zet/20221003150945/README.md) python hex to string
-- [20221003150946](/zet/20221003150946/README.md) python
+- [20221003150946](/zet/20221003150946/README.md) python hub
 - [20221003150947](/zet/20221003150947/README.md) python fix SSL errors using requests library ignore errors
 - [20221003150948](/zet/20221003150948/README.md) python fix SSL errors using requests library
 - [20221003150949](/zet/20221003150949/README.md) python fix SSL errors

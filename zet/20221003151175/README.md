@@ -49,6 +49,7 @@
 - [20221003150341](/zet/20221003150341/README.md) cms database creds config locations
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151193](/zet/20221003151193/README.md) HTTP
+- [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist
 
 Tags:
 

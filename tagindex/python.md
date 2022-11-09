@@ -18,7 +18,7 @@
 - [20221003150943](/zet/20221003150943/README.md) python string alphanumeric chars
 - [20221003150944](/zet/20221003150944/README.md) python hex to bytes
 - [20221003150945](/zet/20221003150945/README.md) python hex to string
-- [20221003150946](/zet/20221003150946/README.md) python
+- [20221003150946](/zet/20221003150946/README.md) python hub
 - [20221003151133](/zet/20221003151133/README.md) decode GMSA NTLM hash
 - [20221003151351](/zet/20221003151351/README.md) python scripting parse all post params from post content given on standard input
 - [20221003151352](/zet/20221003151352/README.md) python scripting convert tsv with key and value fields to python dictionary
