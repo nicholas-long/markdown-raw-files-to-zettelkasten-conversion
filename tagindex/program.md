@@ -18,6 +18,7 @@
 - [20221003150358](/zet/20221003150358/README.md) jxplorer connect to LDAP GUI access
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150462](/zet/20221003150462/README.md) tomcat
+- [20221003150623](/zet/20221003150623/README.md) PureFTP
 - [20221003150780](/zet/20221003150780/README.md) crowbar
 - [20221003150935](/zet/20221003150935/README.md) fail2ban writable conf RCE
 - [20221003150936](/zet/20221003150936/README.md) fail2ban default config location

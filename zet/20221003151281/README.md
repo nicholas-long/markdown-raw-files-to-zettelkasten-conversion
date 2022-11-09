@@ -12,6 +12,7 @@
 - ~/kb/data-engineering-pipelines/yaml-syntax.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 - [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
+- [20221003150651](/zet/20221003150651/README.md) kubernetes
 
 Tags:
 

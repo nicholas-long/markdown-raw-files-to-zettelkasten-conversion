@@ -13,6 +13,7 @@
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221014185932](/zet/20221014185932/README.md) kb file named kb/hacking/commands/nfs.md
 - ~/kb/hacking/commands/nfs.md
+- [20221003150637](/zet/20221003150637/README.md) nmap check for mountable NFS shares test access
 
 Tags:
 

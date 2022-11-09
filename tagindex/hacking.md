@@ -196,8 +196,8 @@
 - [20221003150516](/zet/20221003150516/README.md) binary analysis golang
 - [20221003150517](/zet/20221003150517/README.md) binary analysis
 - [20221003150519](/zet/20221003150519/README.md) calling conventions x64 windows C style  volatile registers after call
-- [20221003150520](/zet/20221003150520/README.md) calling conventions x64 windows C style
-- [20221003150521](/zet/20221003150521/README.md) calling conventions x64 linux C style
+- [20221003150520](/zet/20221003150520/README.md) x64 windows C style calling conventions
+- [20221003150521](/zet/20221003150521/README.md) x64 linux C style calling conventions
 - [20221003150522](/zet/20221003150522/README.md) calling conventions
 - [20221003150524](/zet/20221003150524/README.md) make executable binary with input shellcode msfvenom
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list
@@ -307,7 +307,6 @@
 - [20221003150648](/zet/20221003150648/README.md) nmap
 - [20221003150649](/zet/20221003150649/README.md) kubernetes kubectl enumerate permissions
 - [20221003150650](/zet/20221003150650/README.md) kubernetes kubectl
-- [20221003150651](/zet/20221003150651/README.md) kubernetes
 - [20221003150652](/zet/20221003150652/README.md) wfuzz host header pollution
 - [20221003150653](/zet/20221003150653/README.md) wfuzz authenticated fuzzing parameter names
 - [20221003150654](/zet/20221003150654/README.md) wfuzz fuzzing parameter names

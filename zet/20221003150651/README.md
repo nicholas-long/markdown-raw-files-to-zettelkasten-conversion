@@ -15,6 +15,7 @@
 - ~/kb/hacking/commands/kubernetes.md
 - https://www.youtube.com/watch?v=uhEbvpSpXZQ from rwxrob discord "What is Charmed Kubernetes?"
 - [20221003151281](/zet/20221003151281/README.md) YAML
+- [20221003150649](/zet/20221003150649/README.md) kubernetes kubectl enumerate permissions
 
 Tags:
 

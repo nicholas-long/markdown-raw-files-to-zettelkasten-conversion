@@ -1,3 +1,5 @@
+- [20221003150520](/zet/20221003150520/README.md) x64 windows C style calling conventions
+- [20221003150521](/zet/20221003150521/README.md) x64 linux C style calling conventions
 - [20221003150927](/zet/20221003150927/README.md) C setuid suid backdoor exploit write setuid bit to binary with SO shared module object
 - [20221003150928](/zet/20221003150928/README.md) C setuid suid backdoor exploit program to execute shell commands with system
 - [20221003150929](/zet/20221003150929/README.md) C setuid suid backdoor exploit

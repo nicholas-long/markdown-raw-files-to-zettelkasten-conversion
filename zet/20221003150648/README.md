@@ -30,6 +30,8 @@
 - [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
 - [20221003150117](/zet/20221003150117/README.md) OSI networking model
 - ~/kb/hacking/commands/nmap-command.md
+- [20221003150645](/zet/20221003150645/README.md) nmap flags increase speed
+- [20221003150637](/zet/20221003150637/README.md) nmap check for mountable NFS shares test access
 
 Tags:
 

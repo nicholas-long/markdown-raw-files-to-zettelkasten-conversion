@@ -46,6 +46,9 @@
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - [20221006215135](/zet/20221006215135/README.md) siren
+- [20221003150520](/zet/20221003150520/README.md) x64 windows C style calling conventions
+- [20221003150521](/zet/20221003150521/README.md) x64 linux C style calling conventions
+- [20221003150536](/zet/20221003150536/README.md) immunity debugger mona commands list loaded modules and security flags
 
 Tags:
 

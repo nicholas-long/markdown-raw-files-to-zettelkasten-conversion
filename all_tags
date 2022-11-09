@@ -105,6 +105,7 @@
 #force
 #format
 #free
+#ftp
 #fun
 #fzf-fuzzy-find
 #games
@@ -214,7 +215,6 @@
 #proof
 #proxmox
 #proxy
-#pureftp
 #pwn
 #pwntools
 #python

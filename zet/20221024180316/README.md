@@ -14,6 +14,9 @@
 # have duplicate tags
 #
 
+# #windows
+- [20221003150616](/zet/20221003150616/README.md) PureFTP Create FTP Script (On Victim) #command #hacking #windows #windows #ftp
+
 #
 # have no tags
 #

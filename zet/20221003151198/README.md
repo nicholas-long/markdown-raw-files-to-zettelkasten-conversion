@@ -57,6 +57,8 @@
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
 - ~/kb/hacking/to-try-lists/SMB.md
+- [20221003150635](/zet/20221003150635/README.md) smbmap
+- [20221003150633](/zet/20221003150633/README.md) smbmap default enumeration as guest
 
 Tags:
 

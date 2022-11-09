@@ -16,6 +16,7 @@
 - [20221003151200](/zet/20221003151200/README.md) got read or write access to filesystem
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
 - [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
+- [20221003150637](/zet/20221003150637/README.md) nmap check for mountable NFS shares test access
 
 Tags:
 

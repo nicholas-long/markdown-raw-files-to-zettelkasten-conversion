@@ -21,7 +21,7 @@ base64 bash basic binary bloodhound boxes broken bruteforcing bsd bug buzzwords
 c-language c2 calling capabilities cert cleanup cms coding command company concept config container convert copy crack creds cron crypto ctf curl cyberpunk
 data database date dayinhistory debian debug debugging decrypt defense deploy deserialization devops diag diagram diff dirty dll dns docker done dos dotfiles download dpkg ds dump
 edit editor emacs email enable encode enhancement enumeration error etc ex example expect experiment exploit extract
-feature feroxbuster fidget file filehash filepath files filesystem finance find finding fix force format free fun fzf-fuzzy-find
+feature feroxbuster fidget file filehash filepath files filesystem finance find finding fix force format free ftp fun fzf-fuzzy-find
 games gdb gef generate get git github go gobuster got graph grep
 hacking hardware hash help hex hibernate hotkey html.templates http hub hydra
 idea identify image impacket implementation important info initialize install interesting iptables
@@ -31,7 +31,7 @@ lan language laptop ldap less lfi library linux list load
 macro malicious markdown me meta metasploit microsoft mimikatz mobile msfvenom mysql
 naming networking nfs nim nmap notes
 openssl optimization os osint
-package packet pane password path pc php pipelines pivot plugin port portable post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox proxy pureftp pwn pwntools python
+package packet pane password path pc php pipelines pivot plugin port portable post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox proxy pwn pwntools python
 question quick
 rce rdp redhat reference relative remoteaccess repo report repositories responder retired routing run rust
 scam screenshot script scripting sed service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve sort source speed sqli sqlmap ssh ssti stack stream streamer sudoers surface syntax

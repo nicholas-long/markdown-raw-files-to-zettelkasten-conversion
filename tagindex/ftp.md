@@ -1,0 +1,2 @@
+- [20221003150615](/zet/20221003150615/README.md) PureFTP Execute Script (on Victim)
+- [20221003150616](/zet/20221003150616/README.md) PureFTP Create FTP Script (On Victim)

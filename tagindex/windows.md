@@ -10,6 +10,8 @@
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
 - [20221003150445](/zet/20221003150445/README.md) linpeas winpeas peass-ng release downloads
 - [20221003150567](/zet/20221003150567/README.md) SMB Copy Files (Execute on Victim)
+- [20221003150615](/zet/20221003150615/README.md) PureFTP Execute Script (on Victim)
+- [20221003150616](/zet/20221003150616/README.md) PureFTP Create FTP Script (On Victim)
 - [20221003150728](/zet/20221003150728/README.md) powershell base64 encode equivalent within ps
 - [20221003150729](/zet/20221003150729/README.md) powershell encode commands as base64 with windows wide char strings in linux
 - [20221003150730](/zet/20221003150730/README.md) powershell
