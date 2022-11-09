@@ -8,7 +8,6 @@ this is a list of possibly empty zettels.
 #
 # Empty
 #
-- [20221003150659](/zet/20221003150659/README.md) wfuzz #command #hacking #wfuzz 
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands #command #hacking #binary 
 - [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files #command #hacking #bruteforcing
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands #command #hacking #web 
@@ -230,7 +229,6 @@ this is a list of possibly empty zettels.
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 - [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands
-- [20221003150659](/zet/20221003150659/README.md) wfuzz
 - [20221003150517](/zet/20221003150517/README.md) binary analysis
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - [20221003150476](/zet/20221003150476/README.md) powershell tricks
