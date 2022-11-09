@@ -8,19 +8,14 @@ this is a list of possibly empty zettels.
 #
 # Empty
 #
-- [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file #command #hacking #generate 
-- [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist #command #hacking #generate 
-- [20221003150807](/zet/20221003150807/README.md) brute force default credentials #command #hacking #hydra 
 - [20221003150815](/zet/20221003150815/README.md) meterpreter msf move from x86 to x64 #command #hacking #metasploit 
 - [20221003150816](/zet/20221003150816/README.md) meterpreter msf #command #hacking #metasploit 
 - [20221003150819](/zet/20221003150819/README.md) metasploit msf #command #hacking #metasploit 
-- [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp #command #hacking #hydra 
 - [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list #command #hacking #database 
 - [20221003150833](/zet/20221003150833/README.md) responder #command #hacking #responder 
 - [20221003150851](/zet/20221003150851/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate #command #hacking #dns 
 - [20221003150855](/zet/20221003150855/README.md) dns commands #command #hacking #dns 
 - [20221003150857](/zet/20221003150857/README.md) ssh-keygen #command #hacking #ssh 
-- [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm #command #hacking #ssh 
 - [20221003150862](/zet/20221003150862/README.md) SSH arguments #command #hacking #ssh 
 - [20221003150865](/zet/20221003150865/README.md) two-factor authentication 2fa generate one time pins OTP #command #hacking #two 
 - [20221003150866](/zet/20221003150866/README.md) two-factor authentication 2fa #command #hacking #two 
@@ -30,7 +25,6 @@ this is a list of possibly empty zettels.
 - [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities #command #hacking #privesc #enumeration 
 - [20221003150907](/zet/20221003150907/README.md) linux enumeration quick commands transfer / download files with just bash #command #hacking #privesc #enumeration 
 - [20221003150942](/zet/20221003150942/README.md) python imports #hacking #python 
-- [20221003150946](/zet/20221003150946/README.md) python #hacking #python 
 - [20221003150949](/zet/20221003150949/README.md) python fix SSL errors #hacking #fix 
 - [20221003150953](/zet/20221003150953/README.md) OSINT organizations #hacking #osint 
 - [20221003150983](/zet/20221003150983/README.md) mariadb mysql files #hacking #sqli #trick #file
@@ -160,7 +154,6 @@ this is a list of possibly empty zettels.
 - [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
 - [20221003150953](/zet/20221003150953/README.md) OSINT organizations
 - [20221003150949](/zet/20221003150949/README.md) python fix SSL errors
-- [20221003150946](/zet/20221003150946/README.md) python
 - [20221003150942](/zet/20221003150942/README.md) python imports
 - [20221003150907](/zet/20221003150907/README.md) linux enumeration quick commands transfer / download files with just bash
 - [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities
@@ -171,20 +164,15 @@ this is a list of possibly empty zettels.
 - [20221003150866](/zet/20221003150866/README.md) two-factor authentication 2fa
 - [20221003150865](/zet/20221003150865/README.md) two-factor authentication 2fa generate one time pins OTP
 - [20221003150862](/zet/20221003150862/README.md) SSH arguments
-- [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm
 - [20221003150857](/zet/20221003150857/README.md) ssh-keygen
 - [20221003150855](/zet/20221003150855/README.md) dns commands
 - [20221003150851](/zet/20221003150851/README.md) dns commands update / change / delete DNS records for subdomain with nsupdate
 - [20221003150833](/zet/20221003150833/README.md) responder
 - [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list
-- [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
 - [20221003150819](/zet/20221003150819/README.md) metasploit msf
 - [20221003150816](/zet/20221003150816/README.md) meterpreter msf
 - [20221003150815](/zet/20221003150815/README.md) meterpreter msf move from x86 to x64
-- [20221003150807](/zet/20221003150807/README.md) brute force default credentials
 - [20221003150801](/zet/20221003150801/README.md) openssl commands
-- [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist
-- [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file
 - [20221003150780](/zet/20221003150780/README.md) crowbar
 - [20221003150730](/zet/20221003150730/README.md) powershell
 - [20221003150720](/zet/20221003150720/README.md) curl

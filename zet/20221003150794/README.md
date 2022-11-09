@@ -9,8 +9,7 @@
 - [20221003150793](/zet/20221003150793/README.md) generate cewl wordlist from file using temporary http server
 - [20221003150792](/zet/20221003150792/README.md) generate cewl wordlist from file plaintext with grep
 - ~/kb/hacking/commands/generate-cewl-wordlist.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
 
 Tags:
 
-    #command #hacking #generate 
+    #command #hacking #generate #DEL

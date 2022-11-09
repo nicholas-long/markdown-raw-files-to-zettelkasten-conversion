@@ -11,8 +11,8 @@
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150862](/zet/20221003150862/README.md) SSH arguments
 - ~/kb/hacking/commands/ssh-commands.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221003150858](/zet/20221003150858/README.md) SSH arguments use old ssh-rsa RSA private key allow for connection
 
 Tags:
 
-    #command #hacking #ssh 
+    #command #hacking #ssh #DEL

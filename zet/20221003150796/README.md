@@ -8,8 +8,10 @@
 - [20221003150795](/zet/20221003150795/README.md) generate cewl wordlist from website
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file
 - ~/kb/hacking/commands/generate-cewl-wordlist.md
-- [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221007220451](/zet/20221007220451/README.md) hacking notes hub
+- [20221003151192](/zet/20221003151192/README.md) HTTP to try list
+- [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 
 Tags:
 
-    #command #hacking #generate 
+    #command #hacking #generate #hub #trick
