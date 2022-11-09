@@ -21,7 +21,6 @@ https://osintframework.com/
 - [20221003150956](/zet/20221003150956/README.md) OSINT usernames and accounts OSINT
 - [20221003150955](/zet/20221003150955/README.md) OSINT people OSINT
 - [20221003150954](/zet/20221003150954/README.md) OSINT social media OSINT
-- [20221003150953](/zet/20221003150953/README.md) OSINT organizations
 - [20221003150950](/zet/20221003150950/README.md) OSINT enumerate emails and username format for domain
 - ~/kb/hacking/methodology/osint-overview.md
 - [20221003150951](/zet/20221003150951/README.md) OSINT organizations job postings

@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221003150942](/zet/20221003150942/README.md) python imports
 - [20221003150941](/zet/20221003150941/README.md) python imports files vs loading as libraries
 - [20221003150940](/zet/20221003150940/README.md) python imports library search path
 - [20221003150939](/zet/20221003150939/README.md) python imports library search path print with python command

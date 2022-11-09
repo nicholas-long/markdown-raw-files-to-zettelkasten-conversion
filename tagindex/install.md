@@ -4,7 +4,6 @@
 - [20221003150181](/zet/20221003150181/README.md) install alacritty dependencies to fix build errors
 - [20221003150182](/zet/20221003150182/README.md) install alacritty 
 - [20221003151248](/zet/20221003151248/README.md) sending installs and dependencies to target with no network connection
-- [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies
 - [20221003151250](/zet/20221003151250/README.md) sending installs to target
 - [20221003151317](/zet/20221003151317/README.md) bash parse xml cli with xpath using xpup
 - [20221003151366](/zet/20221003151366/README.md) bash scripting install vscode

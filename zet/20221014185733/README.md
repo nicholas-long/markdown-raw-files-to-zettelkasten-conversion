@@ -23,7 +23,6 @@
 - [20221003151001](/zet/20221003151001/README.md) API enumeration good wordlists commonly used list of words
 - [20221003151000](/zet/20221003151000/README.md) API enumeration good wordlists last resort?
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
-- [20221003151004](/zet/20221003151004/README.md) API enumeration good wordlists
 - [20221003151006](/zet/20221003151006/README.md) API enumeration
 - [20221003150994](/zet/20221003150994/README.md) GraphQL APIs common specific GraphQL endpoints
 - [20221003150996](/zet/20221003150996/README.md) GraphQL APIs common GraphQL bugs

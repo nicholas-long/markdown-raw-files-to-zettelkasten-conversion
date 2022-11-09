@@ -15,7 +15,6 @@
 - [20221003151101](/zet/20221003151101/README.md) powershell commands
 - [20221003151102](/zet/20221003151102/README.md) DOS commands download file from http
 - [20221003151098](/zet/20221003151098/README.md) powershell commands execute encoded command as quietly as possible
-- [20221003151099](/zet/20221003151099/README.md) powershell commands encoded command nop bypass hidden
 - [20221003151443](/zet/20221003151443/README.md) kb
 
 Tags:

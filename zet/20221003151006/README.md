@@ -1,7 +1,6 @@
 # API enumeration
 
 - [20221003151005](/zet/20221003151005/README.md) API bug hunting workflow
-- [20221003151004](/zet/20221003151004/README.md) good API enumeration wordlists
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 
 ` zet/20221003151006/README.md `
@@ -12,7 +11,6 @@
 - [20221003150970](/zet/20221003150970/README.md) mobile apps and API testing
 - [20221003150998](/zet/20221003150998/README.md) GraphQL APIs
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
-- [20221003151004](/zet/20221003151004/README.md) API enumeration good wordlists
 - [20221006215353](/zet/20221006215353/README.md) InsiderPHD
 - [20221014185733](/zet/20221014185733/README.md) kb file named kb/hacking/methodology/API-enumeration.md
 - [20221003150438](/zet/20221003150438/README.md) automated SSTI testing with tplmap

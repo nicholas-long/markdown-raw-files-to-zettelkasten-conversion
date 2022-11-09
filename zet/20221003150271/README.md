@@ -22,7 +22,6 @@
 - [20221011092421](/zet/20221011092421/README.md) hacking video notes
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221008215655](/zet/20221008215655/README.md) user account
-- [20221003150801](/zet/20221003150801/README.md) openssl commands
 - [20221003150791](/zet/20221003150791/README.md) openssl
 - [20221003150789](/zet/20221003150789/README.md) openssl create certificate signing request
 

@@ -1,3 +1,2 @@
 - [20221003151287](/zet/20221003151287/README.md) jq pipe and filter objects syntax
-- [20221003151288](/zet/20221003151288/README.md) jq pipe syntax
 - [20221003151289](/zet/20221003151289/README.md) jq

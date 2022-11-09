@@ -2,7 +2,6 @@
 - [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
 - [20221003150981](/zet/20221003150981/README.md) mariadb mysql files read
 - [20221003150982](/zet/20221003150982/README.md) mariadb mysql files check permissions
-- [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
 - [20221003150984](/zet/20221003150984/README.md) mariadb mysql SQLi information tables
 - [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection
 - [20221003150986](/zet/20221003150986/README.md) mariadb mysql SQLi concat multiple values into one field rows

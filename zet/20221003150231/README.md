@@ -14,7 +14,6 @@
 - [20221014190111](/zet/20221014190111/README.md) kb file named kb/hacking/analysis/apk-analysis.md
 - ~/kb/hacking/analysis/apk-analysis.md
 - [20221003151211](/zet/20221003151211/README.md) got leaked files jar
-- [20221003151214](/zet/20221003151214/README.md) got leaked files
 - [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
 
 Tags:

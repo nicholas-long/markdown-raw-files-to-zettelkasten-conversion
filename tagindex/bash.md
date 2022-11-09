@@ -85,7 +85,6 @@
 - [20221003151391](/zet/20221003151391/README.md) bash scripting clone github repository and build docker image with its name
 - [20221003151392](/zet/20221003151392/README.md) bash scripting launch ubuntu build environment docker with current directory mounted as working directory
 - [20221003151393](/zet/20221003151393/README.md) bash scripting watch failed ssh logins as live stream lookup in shodan
-- [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream
 - [20221003151395](/zet/20221003151395/README.md) bash scripting get the current user's github api key
 - [20221003151396](/zet/20221003151396/README.md) bash scripting run exiftool on all of the images within a directory
 - [20221003151397](/zet/20221003151397/README.md) bash scripting decorate and colorize a passwd file piped from stdin

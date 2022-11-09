@@ -12,8 +12,6 @@
 - ~/kb/hacking/misc/important-repositories-tools.md
 - https://github.com/rasta-mouse/ThreatCheck
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
-- [20221003151047](/zet/20221003151047/README.md) windows reverse shell AV bypass active directory endpoint protection
-- [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings

@@ -14,7 +14,6 @@ sudo nvim /etc/responder/Responder.conf
 
 - [20221017172946](/zet/20221017172946/README.md) LAN attacks
 - [20221014185840](/zet/20221014185840/README.md) kb file named kb/hacking/commands/responder.md
-- [20221003150832](/zet/20221003150832/README.md) responder add ssl certificate
 - ~/kb/hacking/commands/responder.md
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 

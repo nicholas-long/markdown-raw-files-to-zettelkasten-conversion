@@ -19,7 +19,6 @@
 - [20221003150294](/zet/20221003150294/README.md) wireshark TLS1.2 handshake packet
 - [20221003150225](/zet/20221003150225/README.md) bettercap
 - [20221003150222](/zet/20221003150222/README.md) change interface mac address
-- [20221003150832](/zet/20221003150832/README.md) responder add ssl certificate
 
 Tags:
 

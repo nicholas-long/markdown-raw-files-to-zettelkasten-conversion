@@ -10,7 +10,6 @@ cat /proc/$pid/status | grep CapEff
 
 - [20221014185808](/zet/20221014185808/README.md) kb file named kb/hacking/priv-esc/enumeration-quick-commands.md
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
-- [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities
 - ~/kb/hacking/priv-esc/enumeration-quick-commands.md
 
 Tags:

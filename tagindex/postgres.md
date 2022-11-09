@@ -1,2 +1,1 @@
-- [20221003151285](/zet/20221003151285/README.md) postgres cannot find table name
 - [20221003151286](/zet/20221003151286/README.md) postgres

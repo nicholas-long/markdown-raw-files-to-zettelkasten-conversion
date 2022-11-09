@@ -4,7 +4,6 @@
 
 # Related
 
-- [20221003150942](/zet/20221003150942/README.md) python imports
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221015004252](/zet/20221015004252/README.md) htb opensource machine
 - [20221015005557](/zet/20221015005557/README.md) python library

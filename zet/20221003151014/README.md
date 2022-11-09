@@ -10,7 +10,6 @@
 
 - [20221003151013](/zet/20221003151013/README.md) environment variables
 - [20221003151012](/zet/20221003151012/README.md) read scripts from web server process cwd
-- [20221003151008](/zet/20221003151008/README.md) file wordlists
 - [20221003150582](/zet/20221003150582/README.md) php LFI
 
 ` zet/20221003151014/README.md `
@@ -19,7 +18,6 @@
 
 - [20221003151013](/zet/20221003151013/README.md) LFI or directory traversal procedures environment variables
 - [20221003151012](/zet/20221003151012/README.md) LFI or directory traversal procedures read scripts from web server process cwd
-- [20221003151008](/zet/20221003151008/README.md) LFI or directory traversal procedures file wordlists
 - [20221003151187](/zet/20221003151187/README.md) HTTP LFI or dir traversal
 - [20221003150582](/zet/20221003150582/README.md) php LFI
 - [20221014185732](/zet/20221014185732/README.md) kb file named kb/hacking/methodology/LFI-procedure.md

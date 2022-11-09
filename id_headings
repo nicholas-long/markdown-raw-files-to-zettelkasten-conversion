@@ -623,44 +623,34 @@
 20221003150791	zet/20221003150791/README.md	openssl
 20221003150792	zet/20221003150792/README.md	generate cewl wordlist from file plaintext with grep
 20221003150793	zet/20221003150793/README.md	generate cewl wordlist from file using temporary http server
-20221003150794	zet/20221003150794/README.md	generate cewl wordlist from file
 20221003150795	zet/20221003150795/README.md	generate cewl wordlist from website
 20221003150796	zet/20221003150796/README.md	generate cewl wordlist
 20221003150797	zet/20221003150797/README.md	git recover orphaned commits and files and restore a directory after reset
 20221003150798	zet/20221003150798/README.md	git
 20221003150799	zet/20221003150799/README.md	openssl commands decrypt file
 20221003150800	zet/20221003150800/README.md	openssl commands encrypt file
-20221003150801	zet/20221003150801/README.md	openssl commands
 20221003150802	zet/20221003150802/README.md	brute force default credentials tomcat metasploit
 20221003150803	zet/20221003150803/README.md	brute force default credentials tomcat wfuzz
 20221003150804	zet/20221003150804/README.md	brute force default credentials tomcat
 20221003150805	zet/20221003150805/README.md	brute force default credentials ssh
 20221003150806	zet/20221003150806/README.md	brute force default credentials mysql
-20221003150807	zet/20221003150807/README.md	brute force default credentials
 20221003150808	zet/20221003150808/README.md	wfuzz fuzzing details send to burpsuite local proxy
 20221003150809	zet/20221003150809/README.md	wfuzz fuzzing details show or hide responses containing text regex
 20221003150810	zet/20221003150810/README.md	wfuzz fuzzing details fuzz multiple parameters
 20221003150811	zet/20221003150811/README.md	wfuzz fuzzing details "X-Forwarded-For" header with custom IP ranges
 20221003150813	zet/20221003150813/README.md	meterpreter msf migrate local exploit suggester issues
 20221003150814	zet/20221003150814/README.md	meterpreter msf migrate
-20221003150815	zet/20221003150815/README.md	meterpreter msf move from x86 to x64
-20221003150816	zet/20221003150816/README.md	meterpreter msf
 20221003150817	zet/20221003150817/README.md	metasploit msf proxy exploits through burpsuite
 20221003150818	zet/20221003150818/README.md	metasploit msf run as script from rc file
 20221003150819	zet/20221003150819/README.md	metasploit msf hub
 20221003150820	zet/20221003150820/README.md	hydra bruteforce ftp rockyou 50
 20221003150821	zet/20221003150821/README.md	hydra bruteforce ftp default creds
-20221003150822	zet/20221003150822/README.md	hydra bruteforce ftp
 20221003150823	zet/20221003150823/README.md	hydra ssh brute force
 20221003150824	zet/20221003150824/README.md	postgres sql enumeration connect to database using file socket
 20221003150825	zet/20221003150825/README.md	postgres sql enumeration connect to database
 20221003150826	zet/20221003150826/README.md	postgres sql enumeration exit
-20221003150827	zet/20221003150827/README.md	postgres sql enumeration list tables and "relations"
-20221003150828	zet/20221003150828/README.md	postgres sql enumeration list databases
-20221003150829	zet/20221003150829/README.md	postgres sql enumeration list
 20221003150830	zet/20221003150830/README.md	postgres sql enumeration
 20221003150831	zet/20221003150831/README.md	davtest try uploading files to webDAV with or without credentials
-20221003150832	zet/20221003150832/README.md	responder add ssl certificate
 20221003150833	zet/20221003150833/README.md	responder
 20221003150834	zet/20221003150834/README.md	bruteforcing su passwords with sucrack
 20221003150835	zet/20221003150835/README.md	smb mount share old SMBv1 share
@@ -678,22 +668,16 @@
 20221003150847	zet/20221003150847/README.md	gobuster
 20221003150849	zet/20221003150849/README.md	hydra brute force HTTP basic authentication
 20221003150850	zet/20221003150850/README.md	dns commands update / change / delete DNS records for subdomain
-20221003150851	zet/20221003150851/README.md	dns commands update / change / delete DNS records for subdomain with nsupdate
 20221003150852	zet/20221003150852/README.md	dns commands enumerate with ANY query
 20221003150853	zet/20221003150853/README.md	dns commands zone transfer axfr
 20221003150854	zet/20221003150854/README.md	dns commands reverse lookup with dig
 20221003150855	zet/20221003150855/README.md	dns commands
 20221003150856	zet/20221003150856/README.md	ssh-keygen generate key to file no password prompt
-20221003150857	zet/20221003150857/README.md	ssh-keygen
 20221003150858	zet/20221003150858/README.md	SSH arguments use old ssh-rsa RSA private key allow for connection
-20221003150859	zet/20221003150859/README.md	SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm
 20221003150860	zet/20221003150860/README.md	SSH arguments connect to old server
 20221003150861	zet/20221003150861/README.md	SSH arguments troubleshoot diagnose connection problems
-20221003150862	zet/20221003150862/README.md	SSH arguments
 20221003150863	zet/20221003150863/README.md	wget download FTP directory files recursively
 20221003150864	zet/20221003150864/README.md	generate one time 2fa authentication pins OTP google authenticator
-20221003150865	zet/20221003150865/README.md	two-factor authentication 2fa generate one time pins OTP
-20221003150866	zet/20221003150866/README.md	two-factor authentication 2fa
 20221003150867	zet/20221003150867/README.md	john the ripper find all file formats supported with a 2john script or tojohn use sed to process / execute multiple expressions statements
 20221003150868	zet/20221003150868/README.md	john the ripper find all file formats supported with a 2john script or tojohn
 20221003150869	zet/20221003150869/README.md	john the ripper use rules to crack hashes from file with wordlist
@@ -703,7 +687,6 @@
 20221003150873	zet/20221003150873/README.md	host quick server
 20221003150874	zet/20221003150874/README.md	nikto command
 20221003150875	zet/20221003150875/README.md	sudo sudoers file all nopassword
-20221003150876	zet/20221003150876/README.md	sudo sudoers file
 20221003150877	zet/20221003150877/README.md	dirty cow privilege escalation working version build on attacker machine with statically linked binaries embedded
 20221003150879	zet/20221003150879/README.md	dirty cow privilege escalation
 20221003150880	zet/20221003150880/README.md	polkit linpeas report on CVE-2021-3560
@@ -727,12 +710,9 @@
 20221003150898	zet/20221003150898/README.md	linux enumeration quick commands capabilities running process effective capabilities
 20221003150899	zet/20221003150899/README.md	linux enumeration quick commands capabilities without getcap binary
 20221003150900	zet/20221003150900/README.md	linux enumeration quick commands capabilities get capabilities of all files recursively
-20221003150901	zet/20221003150901/README.md	linux enumeration quick commands capabilities
 20221003150902	zet/20221003150902/README.md	linux enumeration quick commands copy entire directory to attacker machine quickly by piping tar
 20221003150903	zet/20221003150903/README.md	linux enumeration quick commands find files that have millisecond microsecond nanosecond times not common install
 20221003150904	zet/20221003150904/README.md	linux enumeration quick commands exfiltrate files bash pipe tcp
-20221003150905	zet/20221003150905/README.md	linux enumeration quick commands transfer / download files with just bash send
-20221003150906	zet/20221003150906/README.md	linux enumeration quick commands transfer / download files with just bash receive
 20221003150907	zet/20221003150907/README.md	linux enumeration quick commands transfer / download files with just bash
 20221003150908	zet/20221003150908/README.md	linux enumeration quick commands get IP with no `ifconfig` or `ip a` on a host or within docker container
 20221003150909	zet/20221003150909/README.md	linux enumeration quick commands find all git repositories
@@ -768,18 +748,15 @@
 20221003150939	zet/20221003150939/README.md	python imports library search path print with python command
 20221003150940	zet/20221003150940/README.md	python imports library search path
 20221003150941	zet/20221003150941/README.md	python imports files vs loading as libraries
-20221003150942	zet/20221003150942/README.md	python imports
 20221003150943	zet/20221003150943/README.md	python string alphanumeric chars
 20221003150944	zet/20221003150944/README.md	python hex to bytes
 20221003150945	zet/20221003150945/README.md	python hex to string
 20221003150946	zet/20221003150946/README.md	python hub
 20221003150947	zet/20221003150947/README.md	python fix SSL errors using requests library ignore errors
 20221003150948	zet/20221003150948/README.md	python fix SSL errors using requests library
-20221003150949	zet/20221003150949/README.md	python fix SSL errors
 20221003150950	zet/20221003150950/README.md	OSINT enumerate emails and username format for domain
 20221003150951	zet/20221003150951/README.md	OSINT organizations job postings
 20221003150952	zet/20221003150952/README.md	OSINT organizations github OSINT
-20221003150953	zet/20221003150953/README.md	OSINT organizations
 20221003150954	zet/20221003150954/README.md	OSINT social media OSINT
 20221003150955	zet/20221003150955/README.md	OSINT people OSINT
 20221003150956	zet/20221003150956/README.md	OSINT usernames and accounts OSINT
@@ -809,7 +786,6 @@
 20221003150980	zet/20221003150980/README.md	mariadb mysql files write
 20221003150981	zet/20221003150981/README.md	mariadb mysql files read
 20221003150982	zet/20221003150982/README.md	mariadb mysql files check permissions
-20221003150983	zet/20221003150983/README.md	mariadb mysql files
 20221003150984	zet/20221003150984/README.md	mariadb mysql SQLi information tables
 20221003150985	zet/20221003150985/README.md	mariadb mysql SQLi union injection
 20221003150986	zet/20221003150986/README.md	mariadb mysql SQLi concat multiple values into one field rows
@@ -830,13 +806,10 @@
 20221003151001	zet/20221003151001/README.md	API enumeration good wordlists commonly used list of words
 20221003151002	zet/20221003151002/README.md	API enumeration good wordlists parameters
 20221003151003	zet/20221003151003/README.md	API enumeration good wordlists seclists for endpoints
-20221003151004	zet/20221003151004/README.md	API enumeration good wordlists
 20221003151005	zet/20221003151005/README.md	API enumeration bug hunting workflow
 20221003151006	zet/20221003151006/README.md	API enumeration
 20221003151007	zet/20221003151007/README.md	LFI or directory traversal procedures file wordlists linux
-20221003151008	zet/20221003151008/README.md	LFI or directory traversal procedures file wordlists
 20221003151009	zet/20221003151009/README.md	LFI or directory traversal procedures read scripts from web server process cwd downloading with curl  prevent normalization of paths
-20221003151010	zet/20221003151010/README.md	LFI or directory traversal procedures read scripts from web server process cwd downloading with curl 
 20221003151011	zet/20221003151011/README.md	LFI or directory traversal procedures read scripts from web server process cwd fuzzing script names
 20221003151012	zet/20221003151012/README.md	LFI or directory traversal procedures read scripts from web server process cwd
 20221003151013	zet/20221003151013/README.md	LFI or directory traversal procedures environment variables
@@ -854,29 +827,20 @@
 20221003151025	zet/20221003151025/README.md	JWT token concept
 20221003151026	zet/20221003151026/README.md	common misconfigurations of active directory
 20221003151027	zet/20221003151027/README.md	decrypt azure AD connect passwords powershell MSSQL queries
-20221003151028	zet/20221003151028/README.md	decrypt azure AD connect passwords
 20221003151029	zet/20221003151029/README.md	MS08-067
 20221003151030	zet/20221003151030/README.md	eternalblue MS17-010 - working
 20221003151031	zet/20221003151031/README.md	windows manipulate, enable and privesc with process tokens
 20221003151032	zet/20221003151032/README.md	fix downloading file with evil-winrm
 20221003151033	zet/20221003151033/README.md	applocker limit allowed executables and allowed paths bypass executable blocking
-20221003151034	zet/20221003151034/README.md	applocker limit allowed executables and allowed paths
 20221003151035	zet/20221003151035/README.md	hidden shares
 20221003151036	zet/20221003151036/README.md	windows update program files directory
-20221003151037	zet/20221003151037/README.md	program files ruxim directory
 20221003151038	zet/20221003151038/README.md	dumping credentials as admin in remote desktop RDP or GUI
 20221003151039	zet/20221003151039/README.md	dumping credentials as admin
 20221003151040	zet/20221003151040/README.md	create windows backdoor accounts
 20221003151041	zet/20221003151041/README.md	exploiting SeRestorePrivilege
-20221003151042	zet/20221003151042/README.md	windows alternate data streams commands displaying content with powershell
-20221003151043	zet/20221003151043/README.md	windows alternate data streams commands creating alt streams
-20221003151044	zet/20221003151044/README.md	windows alternate data streams commands enumerate directory for alt streams
 20221003151045	zet/20221003151045/README.md	windows alternate data streams commands
 20221003151046	zet/20221003151046/README.md	windows reverse shell AV bypass defender
-20221003151047	zet/20221003151047/README.md	windows reverse shell AV bypass active directory endpoint protection
-20221003151048	zet/20221003151048/README.md	windows reverse shell AV bypass
 20221003151049	zet/20221003151049/README.md	change user password powershell or dos
-20221003151050	zet/20221003151050/README.md	change user password
 20221003151051	zet/20221003151051/README.md	set date to match Active Directory server with ntpdate
 20221003151053	zet/20221003151053/README.md	lsass process contains credentials
 20221003151054	zet/20221003151054/README.md	windows exploit unquoted service path meterpreter reverse service exe
@@ -891,14 +855,8 @@
 20221003151063	zet/20221003151063/README.md	bypass UAC with administrators group fodhelper bypass
 20221003151064	zet/20221003151064/README.md	bypass UAC with administrators group
 20221003151065	zet/20221003151065/README.md	AMSI detect windows defender with known malicious string
-20221003151066	zet/20221003151066/README.md	AMSI detect windows defender
-20221003151067	zet/20221003151067/README.md	AMSI
-20221003151068	zet/20221003151068/README.md	dump process memory with task manager as admin
-20221003151069	zet/20221003151069/README.md	dump process memory with sysinternals procdump
 20221003151070	zet/20221003151070/README.md	dump process memory
 20221003151071	zet/20221003151071/README.md	windows color winpeas script log output
-20221003151072	zet/20221003151072/README.md	windows color script output winpeas log
-20221003151073	zet/20221003151073/README.md	windows color script output
 20221003151074	zet/20221003151074/README.md	service account privileges exploiting SeManageVolumePrivilege
 20221003151075	zet/20221003151075/README.md	service account privileges exploiting SeImpersonatePrivilege
 20221003151076	zet/20221003151076/README.md	service account privileges exploiting
@@ -911,9 +869,6 @@
 20221003151083	zet/20221003151083/README.md	establishing persistence on windows target in enterprise penetration test
 20221003151084	zet/20221003151084/README.md	windows sensitive file disclosure cheat sheet determine version
 20221003151085	zet/20221003151085/README.md	windows sensitive file disclosure cheat sheet
-20221003151086	zet/20221003151086/README.md	mimikatz troubleshooting `ERROR kuhl_m_sekurlsa_acquireLSA Key import`
-20221003151087	zet/20221003151087/README.md	mimikatz dump passwords
-20221003151088	zet/20221003151088/README.md	mimikatz all in one command for non-interactive powershell
 20221003151089	zet/20221003151089/README.md	mimikatz
 20221003151090	zet/20221003151090/README.md	powerview enumerate sensitive information disclosure on file shares
 20221003151091	zet/20221003151091/README.md	powerview
@@ -924,7 +879,6 @@
 20221003151096	zet/20221003151096/README.md	active directory certificate services AD CS privesc
 20221003151097	zet/20221003151097/README.md	active directory certificate services AD CS
 20221003151098	zet/20221003151098/README.md	powershell commands execute encoded command as quietly as possible
-20221003151099	zet/20221003151099/README.md	powershell commands encoded command nop bypass hidden
 20221003151100	zet/20221003151100/README.md	powershell commands download and execute script
 20221003151101	zet/20221003151101/README.md	powershell commands
 20221003151102	zet/20221003151102/README.md	DOS commands download file from http
@@ -932,14 +886,11 @@
 20221003151105	zet/20221003151105/README.md	compile windows DLL to run commands DLL code
 20221003151106	zet/20221003151106/README.md	compile windows DLL to run commands
 20221003151107	zet/20221003151107/README.md	dos commands net add user to domain group
-20221003151108	zet/20221003151108/README.md	dos commands net
 20221003151109	zet/20221003151109/README.md	dos commands admin / system dump registry secretsdump hashes
-20221003151110	zet/20221003151110/README.md	dos commands admin / system
 20221003151111	zet/20221003151111/README.md	dos commands kill process by id
 20221003151112	zet/20221003151112/README.md	dos commands services sc start service
 20221003151113	zet/20221003151113/README.md	dos commands services sc set binary path
 20221003151114	zet/20221003151114/README.md	dos commands services sc enable service
-20221003151115	zet/20221003151115/README.md	dos commands services sc
 20221003151116	zet/20221003151116/README.md	dos commands file permissions access check sysinternals
 20221003151117	zet/20221003151117/README.md	dos commands file permissions
 20221003151118	zet/20221003151118/README.md	dos commands show environment variables
@@ -950,7 +901,6 @@
 20221003151123	zet/20221003151123/README.md	dos commands see running service processes
 20221003151124	zet/20221003151124/README.md	dos commands
 20221003151125	zet/20221003151125/README.md	active directory  delegation constrained
-20221003151126	zet/20221003151126/README.md	active directory  delegation unconstrained
 20221003151127	zet/20221003151127/README.md	active directory  delegation
 20221003151128	zet/20221003151128/README.md	active directory  DNS adding DNS records
 20221003151129	zet/20221003151129/README.md	active directory  DNS
@@ -967,10 +917,8 @@
 20221003151140	zet/20221003151140/README.md	active directory  NTLMv2 vs kerberos authentication on the network
 20221003151141	zet/20221003151141/README.md	active directory  exploiting permissions GenericAll
 20221003151142	zet/20221003151142/README.md	active directory  exploiting permissions WriteDacl
-20221003151143	zet/20221003151143/README.md	active directory  exploiting permissions
 20221003151144	zet/20221003151144/README.md	active directory
 20221003151145	zet/20221003151145/README.md	resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec convert kirbi to ccache
-20221003151146	zet/20221003151146/README.md	resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec
 20221003151147	zet/20221003151147/README.md	resource based constrained delegation S4U attack powershell commands on target
 20221003151148	zet/20221003151148/README.md	resource based constrained delegation S4U attack
 20221003151149	zet/20221003151149/README.md	windows XP and windows server 2003 arbitrary file write -> remote code execution metasploit
@@ -1036,7 +984,6 @@
 20221003151211	zet/20221003151211/README.md	got leaked files jar
 20221003151212	zet/20221003151212/README.md	got leaked files encrypted zip files
 20221003151213	zet/20221003151213/README.md	got leaked files to try list
-20221003151214	zet/20221003151214/README.md	got leaked files
 20221003151215	zet/20221003151215/README.md	caddy install
 20221003151216	zet/20221003151216/README.md	caddy stand up https server with a valid certificate
 20221003151217	zet/20221003151217/README.md	caddy
@@ -1066,19 +1013,12 @@
 20221003151242	zet/20221003151242/README.md	preparing malicious package payloads node npm package malicious repository ( tcp port 4873 )
 20221003151243	zet/20221003151243/README.md	preparing malicious package payloads node npm package
 20221003151244	zet/20221003151244/README.md	preparing malicious package payloads
-20221003151245	zet/20221003151245/README.md	Jenkins / Groovy (Java) Reverse Shell Windows
-20221003151246	zet/20221003151246/README.md	Jenkins / Groovy (Java) Reverse Shell Linux
 20221003151247	zet/20221003151247/README.md	Jenkins / Groovy (Java) Reverse Shell
 20221003151248	zet/20221003151248/README.md	sending installs and dependencies to target with no network connection
-20221003151249	zet/20221003151249/README.md	sending installs to target install programs on target as tar archive file using docker to find installed dependencies
 20221003151250	zet/20221003151250/README.md	sending installs to target
-20221003151251	zet/20221003151251/README.md	run executable binary programs within process memory windows cobalt strike BOF.NET common language runtime CLR .NET assemblies
-20221003151252	zet/20221003151252/README.md	run executable binary programs within process memory windows cobalt strike BOF C DLLs
 20221003151253	zet/20221003151253/README.md	run executable binary programs within process memory windows
 20221003151254	zet/20221003151254/README.md	run executable binary programs within process memory windows
-20221003151255	zet/20221003151255/README.md	run executable binary programs within process memory linux base64 piped text using dd and shellcode
 20221003151256	zet/20221003151256/README.md	run executable binary programs within process memory linux
-20221003151257	zet/20221003151257/README.md	run executable binary programs within process memory
 20221003151258	zet/20221003151258/README.md	scan for ports to connect back on through firewall
 20221003151259	zet/20221003151259/README.md	stabilize shell with script command
 20221003151260	zet/20221003151260/README.md	run windows exploit on linux using wine
@@ -1100,15 +1040,12 @@
 20221003151277	zet/20221003151277/README.md	linux data science utilities
 20221003151278	zet/20221003151278/README.md	linux data science and data engineering pipelines hub
 20221003151279	zet/20221003151279/README.md	YAML parsing with yq
-20221003151280	zet/20221003151280/README.md	YAML parsing
 20221003151281	zet/20221003151281/README.md	YAML
 20221003151282	zet/20221003151282/README.md	topological sort with tsort sort items occuring before each other example solution to programming challenge in bash
 20221003151283	zet/20221003151283/README.md	topological sort with tsort sort items occuring before each other
 20221003151284	zet/20221003151284/README.md	topological sort with tsort
-20221003151285	zet/20221003151285/README.md	postgres cannot find table name
 20221003151286	zet/20221003151286/README.md	postgres
 20221003151287	zet/20221003151287/README.md	jq pipe and filter objects syntax
-20221003151288	zet/20221003151288/README.md	jq pipe syntax
 20221003151289	zet/20221003151289/README.md	jq
 20221003151290	zet/20221003151290/README.md	C template copy/pipe output to/from processes with popen fgetc fputc
 20221003151291	zet/20221003151291/README.md	C template readline prompt
@@ -1172,13 +1109,10 @@
 20221003151353	zet/20221003151353/README.md	python scripting fuzz valid dates
 20221003151354	zet/20221003151354/README.md	python scripting convert a GMSA managed password structure to a NTLM hash
 20221003151355	zet/20221003151355/README.md	python scripting read and process and urlencode every input line
-20221003151356	zet/20221003151356/README.md	python scripting urlencode every input line
 20221003151357	zet/20221003151357/README.md	python scripting parse all get parameters from a url
 20221003151358	zet/20221003151358/README.md	python scripting parse a cookie from every line on standard input
 20221003151359	zet/20221003151359/README.md	python scripting convert CSV to TSV
 20221003151360	zet/20221003151360/README.md	python pwntools scripting template connect to remote server or local
-20221003151361	zet/20221003151361/README.md	python scripting test exploit locally
-20221003151362	zet/20221003151362/README.md	python scripting pwntools template binary exploit script
 20221003151363	zet/20221003151363/README.md	python scripting
 20221003151364	zet/20221003151364/README.md	bash scripting get bash lines from kb snippets
 20221003151365	zet/20221003151365/README.md	bash scripting urlencode a line of text from stdin
@@ -1210,7 +1144,6 @@
 20221003151391	zet/20221003151391/README.md	bash scripting clone github repository and build docker image with its name
 20221003151392	zet/20221003151392/README.md	bash scripting launch ubuntu build environment docker with current directory mounted as working directory
 20221003151393	zet/20221003151393/README.md	bash scripting watch failed ssh logins as live stream lookup in shodan
-20221003151394	zet/20221003151394/README.md	bash scripting watch failed ssh login attempts as a live stream
 20221003151395	zet/20221003151395/README.md	bash scripting get the current user's github api key
 20221003151396	zet/20221003151396/README.md	bash scripting run exiftool on all of the images within a directory
 20221003151397	zet/20221003151397/README.md	bash scripting decorate and colorize a passwd file piped from stdin
@@ -1254,7 +1187,6 @@
 20221003151435	zet/20221003151435/README.md	awk scripting print nested markdown content within headings
 20221003151436	zet/20221003151436/README.md	awk scripting print all variations of spaces between tokens
 20221003151437	zet/20221003151437/README.md	awk scripting tracking credential reuse bruteforcing with csv file db
-20221003151438	zet/20221003151438/README.md	awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
 20221003151439	zet/20221003151439/README.md	awk scripting base64 encode lines individually
 20221003151440	zet/20221003151440/README.md	awk scripting replace words with colorized versions
 20221003151441	zet/20221003151441/README.md	awk scripting

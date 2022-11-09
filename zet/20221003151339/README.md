@@ -11,7 +11,6 @@ find / -name '*.py' -exec grep "" /dev/null {} \; 2>/dev/null | awk -F: '$2 ~ /i
 - [20221003151367](/zet/20221003151367/README.md) bash scripting list public github repositories for user
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221003150946](/zet/20221003150946/README.md) python hub
-- [20221003150942](/zet/20221003150942/README.md) python imports
 
 Tags:
 

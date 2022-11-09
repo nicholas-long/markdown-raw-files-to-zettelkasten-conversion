@@ -16,7 +16,6 @@
 #
 2fa
 ARCHIVE
-DEL
 account ad administration ai analysis ansible api apk apt arg automation av awk
 base64 bash basic binary bloodhound boxes broken bruteforcing bsd bug busting buzzwords bypass
 c-language c2 calling capabilities cert cleanup cms coding color command company concept config container convert copy crack creds cron crypto ctf curl cyberpunk
@@ -35,8 +34,8 @@ openssl optimization os osint otp
 package packet pane password path payload pc php pipelines pivot plugin port portable post postgres powershell powerview practice preview privesc process procmon program programming project proof proxmox proxy pwn pwntools python
 question quick
 rce rdp redhat reference relative remoteaccess repo report repositories responder retired routing run rust
-scam screenshot script scripting sed server service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve sort source speed sqli sqlmap ssh ssti stack stream streamer sudo sudoers surface syntax
-tablet tar tcp template templatemain templates terminal test text textprocessing tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui two type
+scam screenshot script scripting sed server service setup shell shellcode shellshock skill smb smbclient smbmap snippets snmp solve sort source speed sqli sqlmap ssh ssti stack stream streamer sudo surface syntax
+tablet tar tcp template templatemain templates terminal test text textprocessing tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui type
 uac udp url useful username users util
 valid var vbscript version video videonotes videos vim virtualbox vm
 wasm web wfuzz windows wordlist workflow wpscan wtf

@@ -1,6 +1,5 @@
 # hydra brute force
 
-- [20221003150807](/zet/20221003150807/README.md) default credentials
 - [20221003150743](/zet/20221003150743/README.md) HTTP Basic Authentication
 - [20221003150742](/zet/20221003150742/README.md) HTTP Get Request
 - [20221003150741](/zet/20221003150741/README.md) HTTP Post Request
@@ -10,7 +9,6 @@
 
 # Related
 
-- [20221003150807](/zet/20221003150807/README.md) brute force default credentials
 - [20221003150743](/zet/20221003150743/README.md) hydra brute force HTTP Basic Authentication
 - [20221003150742](/zet/20221003150742/README.md) hydra brute force HTTP Get Request
 - [20221003150741](/zet/20221003150741/README.md) hydra brute force HTTP Post Request

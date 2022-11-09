@@ -16,7 +16,6 @@ cat users.json | jq '.data[].Properties | select ( .enabled == true ) | .name'
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221014190221](/zet/20221014190221/README.md) kb file named kb/data-engineering-pipelines/jq-command-reference.md
 - [20221012153019](/zet/20221012153019/README.md) javascript
-- [20221003151288](/zet/20221003151288/README.md) jq pipe syntax
 - [20221003151287](/zet/20221003151287/README.md) jq pipe and filter objects syntax
 - ~/kb/data-engineering-pipelines/jq-command-reference.md
 - [20221008061334](/zet/20221008061334/README.md) concepts

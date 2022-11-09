@@ -37,7 +37,6 @@ this is a list of possibly empty zettels.
 - [20221003151152](/zet/20221003151152/README.md) windows XP and windows server 2003
 - [20221003151101](/zet/20221003151101/README.md) powershell commands
 - [20221003150890](/zet/20221003150890/README.md) Test CVE-2021-4034 in a docker
-- [20221003150801](/zet/20221003150801/README.md) openssl commands
 - [20221003150780](/zet/20221003150780/README.md) crowbar
 - [20221003150720](/zet/20221003150720/README.md) curl
 - [20221003150517](/zet/20221003150517/README.md) binary analysis

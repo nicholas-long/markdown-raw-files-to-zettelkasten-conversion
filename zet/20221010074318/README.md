@@ -19,7 +19,6 @@ something i've been thinking about this year.
 - [20221003150339](/zet/20221003150339/README.md) ansible How does Ansible work?
 - [20221007200304](/zet/20221007200304/README.md) how to use zc cmd
 - [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch
-- [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
 - [20221006145626](/zet/20221006145626/README.md) why does rwxrob's zettelkasten have so few links?
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221003150080](/zet/20221003150080/README.md) ctrl H does not work as a hotkey in qterminal by default 

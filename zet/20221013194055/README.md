@@ -31,7 +31,6 @@
 - [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext
 - [20221003151366](/zet/20221003151366/README.md) bash scripting install vscode
 - [20221003151250](/zet/20221003151250/README.md) sending installs to target
-- [20221003151249](/zet/20221003151249/README.md) sending installs to target install programs on target as tar archive file using docker to find installed dependencies
 - [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module
 - [20221003151056](/zet/20221003151056/README.md) get enumeration info from file read about level of patches installed on windows
 - [20221003150137](/zet/20221003150137/README.md) installing virtualbox

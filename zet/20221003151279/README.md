@@ -41,7 +41,6 @@ A lightweight and portable command-line YAML processor.More information: https:/
 - https://github.com/mikefarah/yq
 - https://github.com/tldr-pages/tldr
 - [20221014190226](/zet/20221014190226/README.md) kb file named kb/data-engineering-pipelines/yaml-syntax.md
-- [20221003151280](/zet/20221003151280/README.md) YAML parsing
 - ~/kb/data-engineering-pipelines/yaml-syntax.md
 - [20221025045053](/zet/20221025045053/README.md) yaml data convention for my zet implementation
 - [20221025045945](/zet/20221025045945/README.md) tldr pages

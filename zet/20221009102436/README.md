@@ -61,7 +61,6 @@ grep 'to-try' $(find zet -name README.md) | grep '~'
 - [20221003151211](/zet/20221003151211/README.md) got leaked files jar
 - [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files
 - [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
-- [20221003151214](/zet/20221003151214/README.md) got leaked files
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151162](/zet/20221003151162/README.md) nmap UDP scan - individual port scans top ports command
 - [20221003151163](/zet/20221003151163/README.md) nmap UDP scan - individual port scans

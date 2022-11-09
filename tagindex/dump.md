@@ -1,6 +1,4 @@
 - [20221003150166](/zet/20221003150166/README.md) dump process memory with dd ( complicated )
 - [20221003150167](/zet/20221003150167/README.md) dump process memory with exe pseudofile ( simple )
 - [20221003150168](/zet/20221003150168/README.md) dump process memory on linux
-- [20221003151068](/zet/20221003151068/README.md) dump process memory with task manager as admin
-- [20221003151069](/zet/20221003151069/README.md) dump process memory with sysinternals procdump
 - [20221003151070](/zet/20221003151070/README.md) dump process memory

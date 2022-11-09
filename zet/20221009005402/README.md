@@ -21,7 +21,6 @@
 - [20221003151106](/zet/20221003151106/README.md) compile windows DLL to run commands
 - [20221003151040](/zet/20221003151040/README.md) create windows backdoor accounts
 - [20221003150425](/zet/20221003150425/README.md) kerberos attack on windows host
-- [20221003151066](/zet/20221003151066/README.md) AMSI detect windows defender
 - [20221003151093](/zet/20221003151093/README.md) windows API enable privilege
 - [20221003151207](/zet/20221003151207/README.md) windows privilege escalation
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
@@ -29,8 +28,6 @@
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221003150561](/zet/20221003150561/README.md) Python Reverse Shell Code 
 - [20221003150275](/zet/20221003150275/README.md) firefox reverse shell toolbar hacktools
-- [20221003151246](/zet/20221003151246/README.md) Jenkins / Groovy (Java) Reverse Shell Linux
-- [20221003151245](/zet/20221003151245/README.md) Jenkins / Groovy (Java) Reverse Shell Windows
 - [20221003150112](/zet/20221003150112/README.md) socat execute program bind shell
 - [20221003150564](/zet/20221003150564/README.md) python upgrade shell (TTY Shell)
 - [20221003150562](/zet/20221003150562/README.md) Python Reverse Shell As Command 
@@ -38,9 +35,7 @@
 - [20221003151259](/zet/20221003151259/README.md) stabilize shell with script command
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb
-- [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
 - [20221003150830](/zet/20221003150830/README.md) postgres sql enumeration
-- [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list
 - [20221003150985](/zet/20221003150985/README.md) mariadb mysql SQLi union injection
 - [20221003150984](/zet/20221003150984/README.md) mariadb mysql SQLi information tables
 - [20221003150987](/zet/20221003150987/README.md) mariadb mysql SQLi
@@ -61,9 +56,7 @@
 - [20221003150803](/zet/20221003150803/README.md) brute force default credentials tomcat wfuzz
 - [20221003150804](/zet/20221003150804/README.md) brute force default credentials tomcat
 - [20221003150806](/zet/20221003150806/README.md) brute force default credentials mysql
-- [20221003150807](/zet/20221003150807/README.md) brute force default credentials
 - [20221003150805](/zet/20221003150805/README.md) brute force default credentials ssh
-- [20221003150857](/zet/20221003150857/README.md) ssh-keygen
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
 - [20221003151174](/zet/20221003151174/README.md) SSH to try list
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list
@@ -71,7 +64,6 @@
 - [20221003151206](/zet/20221003151206/README.md) windows privilege escalation headline exploits
 - [20221003151261](/zet/20221003151261/README.md) build windows exploit on linux using mingw
 - [20221003151208](/zet/20221003151208/README.md) linux privilege escalation headline exploits
-- [20221003151361](/zet/20221003151361/README.md) python scripting test exploit locally
 - [20221003151041](/zet/20221003151041/README.md) exploiting SeRestorePrivilege
 - [20221003150338](/zet/20221003150338/README.md) ansible exploiting playbook
 - [20221003150446](/zet/20221003150446/README.md) linux exploit suggester
@@ -82,9 +74,7 @@
 - [20221003151012](/zet/20221003151012/README.md) LFI or directory traversal procedures read scripts from web server process cwd
 - [20221003151225](/zet/20221003151225/README.md) php filter LFI to iconv RCE original get 0 script
 - [20221003150581](/zet/20221003150581/README.md) php LFI include PHP filter URL
-- [20221003151010](/zet/20221003151010/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl 
 - [20221003151011](/zet/20221003151011/README.md) LFI or directory traversal procedures read scripts from web server process cwd fuzzing script names
-- [20221003151008](/zet/20221003151008/README.md) LFI or directory traversal procedures file wordlists
 - [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures
 - [20221003150613](/zet/20221003150613/README.md) smbclient shell recursive list directory
 - [20221003150863](/zet/20221003150863/README.md) wget download FTP directory files recursively
@@ -108,10 +98,8 @@
 - [20221003151144](/zet/20221003151144/README.md) active directory
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - [20221006025356](/zet/20221006025356/README.md) linux
-- [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
 - [20221003150334](/zet/20221003150334/README.md) python pickle serialization magic bytes header signature `80 03` `80 04` `80 05` `(dp0` base64 `gASV` `gAWV`
-- [20221003150859](/zet/20221003150859/README.md) SSH arguments ssh `id_rsa` debug1 `send_pubkey_test` no mutual signature algorithm
 - [20221008194048](/zet/20221008194048/README.md) good DLLs to hide in for sideloading
 - [20221003150432](/zet/20221003150432/README.md) generate wordlists namemash - simple
 - [20221006215135](/zet/20221006215135/README.md) siren
@@ -121,9 +109,7 @@
 - [20221003150902](/zet/20221003150902/README.md) linux enumeration quick commands copy entire directory to attacker machine quickly by piping tar
 - [20221003150900](/zet/20221003150900/README.md) linux enumeration quick commands capabilities get capabilities of all files recursively
 - [20221003150898](/zet/20221003150898/README.md) linux enumeration quick commands capabilities running process effective capabilities
-- [20221003150906](/zet/20221003150906/README.md) linux enumeration quick commands transfer / download files with just bash receive
 - [20221003150897](/zet/20221003150897/README.md) linux enumeration quick commands capabilities decode on host machine with capsh
-- [20221003150905](/zet/20221003150905/README.md) linux enumeration quick commands transfer / download files with just bash send
 - [20221003150895](/zet/20221003150895/README.md) linux enumeration quick commands check if users can see other users' processes
 - [20221003150918](/zet/20221003150918/README.md) linux enumeration quick commands enumerate open ports if `ss` is not present
 - [20221003150913](/zet/20221003150913/README.md) linux enumeration quick commands find files modified between specific dates
@@ -136,7 +122,6 @@
 - [20221003150915](/zet/20221003150915/README.md) linux enumeration quick commands find files belonging to user
 - [20221003150916](/zet/20221003150916/README.md) linux enumeration quick commands find setuid binaries
 - [20221003150917](/zet/20221003150917/README.md) linux enumeration quick commands process tree ps
-- [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 - [20221003150643](/zet/20221003150643/README.md) nmap all ports command quick
@@ -152,7 +137,6 @@
 - [20221003150820](/zet/20221003150820/README.md) hydra bruteforce ftp rockyou 50
 - [20221003150740](/zet/20221003150740/README.md) hydra brute force MYSQL
 - [20221003150823](/zet/20221003150823/README.md) hydra ssh brute force
-- [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
 - [20221003150744](/zet/20221003150744/README.md) hydra brute force
 - [20221003151179](/zet/20221003151179/README.md) FTP to try list
 - [20221003150458](/zet/20221003150458/README.md) redis-cli apt repository
@@ -199,7 +183,6 @@
 - [20221003150473](/zet/20221003150473/README.md) powershell tricks run powershell commands as another user with RunasCs
 - [20221003151079](/zet/20221003151079/README.md) service account privileges restore using scheduled task with powershell
 - [20221003151082](/zet/20221003151082/README.md) powerup powershell windows privesc enumeration script
-- [20221003151099](/zet/20221003151099/README.md) powershell commands encoded command nop bypass hidden
 - [20221003150470](/zet/20221003150470/README.md) powershell tricks mount smb share as drive "letter"
 - [20221003151100](/zet/20221003151100/README.md) powershell commands download and execute script
 - [20221003150728](/zet/20221003150728/README.md) powershell base64 encode equivalent within ps
@@ -216,7 +199,6 @@
 - [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet
 - [20221003150273](/zet/20221003150273/README.md) web server file executable extensions PHP
 - [20221003150327](/zet/20221003150327/README.md) bloodhound sharphound fix import errors - incompatible versions
-- [20221003151088](/zet/20221003151088/README.md) mimikatz all in one command for non-interactive powershell
 - [20221003150560](/zet/20221003150560/README.md) Kali Default PHP Reverse Shell
 - [20221003150774](/zet/20221003150774/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Reverse Shell
 - [20221003150769](/zet/20221003150769/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) Reverse Shell
@@ -234,7 +216,6 @@
 - [20221003151054](/zet/20221003151054/README.md) windows exploit unquoted service path meterpreter reverse service exe
 - [20221003151074](/zet/20221003151074/README.md) service account privileges exploiting SeManageVolumePrivilege
 - [20221003151075](/zet/20221003151075/README.md) service account privileges exploiting SeImpersonatePrivilege
-- [20221003151362](/zet/20221003151362/README.md) python scripting pwntools template binary exploit script
 - [20221003151209](/zet/20221003151209/README.md) linux privilege escalation exploiting scripts on linux
 - [20221003150926](/zet/20221003150926/README.md) /etc/passwd writable line privilege escalation exploit
 - [20221003150938](/zet/20221003150938/README.md) searchsploit exploitdb linux kernel exploit privesc
@@ -244,7 +225,6 @@
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221003150140](/zet/20221003150140/README.md) apt package
 - [20221003151161](/zet/20221003151161/README.md) pivoting guide
-- [20221003150942](/zet/20221003150942/README.md) python imports
 - [20221003151091](/zet/20221003151091/README.md) powerview
 - [20221003150143](/zet/20221003150143/README.md) proxmox vm host operating system
 - [20221003150503](/zet/20221003150503/README.md) pwntools

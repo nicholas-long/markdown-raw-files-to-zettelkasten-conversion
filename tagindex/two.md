@@ -1,2 +1,0 @@
-- [20221003150865](/zet/20221003150865/README.md) two-factor authentication 2fa generate one time pins OTP
-- [20221003150866](/zet/20221003150866/README.md) two-factor authentication 2fa

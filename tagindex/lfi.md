@@ -4,9 +4,7 @@
 - [20221003150581](/zet/20221003150581/README.md) php LFI include PHP filter URL
 - [20221003150582](/zet/20221003150582/README.md) php LFI
 - [20221003151007](/zet/20221003151007/README.md) LFI or directory traversal procedures file wordlists linux
-- [20221003151008](/zet/20221003151008/README.md) LFI or directory traversal procedures file wordlists
 - [20221003151009](/zet/20221003151009/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl  prevent normalization of paths
-- [20221003151010](/zet/20221003151010/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl 
 - [20221003151011](/zet/20221003151011/README.md) LFI or directory traversal procedures read scripts from web server process cwd fuzzing script names
 - [20221003151012](/zet/20221003151012/README.md) LFI or directory traversal procedures read scripts from web server process cwd
 - [20221003151013](/zet/20221003151013/README.md) LFI or directory traversal procedures environment variables

@@ -9,7 +9,6 @@
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151014](/zet/20221003151014/README.md) LFI or directory traversal procedures
 - [20221003151011](/zet/20221003151011/README.md) LFI or directory traversal procedures read scripts from web server process cwd fuzzing script names
-- [20221003151010](/zet/20221003151010/README.md) LFI or directory traversal procedures read scripts from web server process cwd downloading with curl 
 - ~/kb/hacking/methodology/LFI-procedure.md
 
 Tags:

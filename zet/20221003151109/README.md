@@ -8,7 +8,6 @@ reg save HKLM\system system
 # Related
 
 - [20221014185655](/zet/20221014185655/README.md) kb file named kb/hacking/windows/dos-and-powershell-enumeration-quick.md
-- [20221003151110](/zet/20221003151110/README.md) dos commands admin / system
 - ~/kb/hacking/windows/dos-and-powershell-enumeration-quick.md
 - [20221003151124](/zet/20221003151124/README.md) dos commands
 

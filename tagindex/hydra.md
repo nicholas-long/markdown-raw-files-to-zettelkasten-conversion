@@ -8,8 +8,6 @@
 - [20221003150804](/zet/20221003150804/README.md) brute force default credentials tomcat
 - [20221003150805](/zet/20221003150805/README.md) brute force default credentials ssh
 - [20221003150806](/zet/20221003150806/README.md) brute force default credentials mysql
-- [20221003150807](/zet/20221003150807/README.md) brute force default credentials
 - [20221003150820](/zet/20221003150820/README.md) hydra bruteforce ftp rockyou 50
 - [20221003150821](/zet/20221003150821/README.md) hydra bruteforce ftp default creds
-- [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
 - [20221003150849](/zet/20221003150849/README.md) hydra brute force HTTP basic authentication

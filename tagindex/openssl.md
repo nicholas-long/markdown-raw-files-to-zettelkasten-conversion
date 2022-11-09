@@ -10,4 +10,3 @@
 - [20221003150791](/zet/20221003150791/README.md) openssl
 - [20221003150799](/zet/20221003150799/README.md) openssl commands decrypt file
 - [20221003150800](/zet/20221003150800/README.md) openssl commands encrypt file
-- [20221003150801](/zet/20221003150801/README.md) openssl commands

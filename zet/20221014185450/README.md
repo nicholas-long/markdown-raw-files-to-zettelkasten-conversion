@@ -62,7 +62,6 @@
 - [20221003151389](/zet/20221003151389/README.md) bash scripting copy and read text from PNG image URL arg print with tesseract OCR
 - [20221003151409](/zet/20221003151409/README.md) bash scripting get the current user's github colon separated credentials
 - [20221003151385](/zet/20221003151385/README.md) bash scripting loop over bash array
-- [20221003151394](/zet/20221003151394/README.md) bash scripting watch failed ssh login attempts as a live stream
 - [20221003151402](/zet/20221003151402/README.md) bash scripting prepend gzip magic bytes
 - [20221003151386](/zet/20221003151386/README.md) bash scripting define bash array
 - [20221003151369](/zet/20221003151369/README.md) bash scripting install sublimetext

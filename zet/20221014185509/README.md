@@ -28,7 +28,6 @@
 - [20221003151428](/zet/20221003151428/README.md) awk scripting autogenerate headings for source files
 - [20221003151427](/zet/20221003151427/README.md) awk scripting awk print markdown snippet text between backtick lines
 - [20221003151432](/zet/20221003151432/README.md) awk scripting filter the CVE list for potentially valid, relevant vulnerabilities
-- [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
 - [20221003151440](/zet/20221003151440/README.md) awk scripting replace words with colorized versions
 - [20221003151434](/zet/20221003151434/README.md) awk scripting get column headings from first line of CSV
 - [20221003151439](/zet/20221003151439/README.md) awk scripting base64 encode lines individually

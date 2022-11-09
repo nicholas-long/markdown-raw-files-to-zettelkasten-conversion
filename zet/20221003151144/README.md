@@ -22,7 +22,6 @@
 - [20221008215530](/zet/20221008215530/README.md) username
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221006214729](/zet/20221006214729/README.md) alh4zr3d
-- [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions
 - [20221003151140](/zet/20221003151140/README.md) active directory  NTLMv2 vs kerberos authentication on the network
 - [20221003151139](/zet/20221003151139/README.md) active directory  ForceChangePassword change user password
 - [20221003151138](/zet/20221003151138/README.md) active directory  Backup Operators group

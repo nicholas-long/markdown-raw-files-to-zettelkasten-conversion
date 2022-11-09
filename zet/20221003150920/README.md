@@ -38,7 +38,6 @@ find /etc -writable 2>/dev/null
 - [20221003150904](/zet/20221003150904/README.md) linux enumeration quick commands exfiltrate files bash pipe tcp
 - [20221003150903](/zet/20221003150903/README.md) linux enumeration quick commands find files that have millisecond microsecond nanosecond times not common install
 - [20221003150902](/zet/20221003150902/README.md) linux enumeration quick commands copy entire directory to attacker machine quickly by piping tar
-- [20221003150901](/zet/20221003150901/README.md) linux enumeration quick commands capabilities
 - [20221003150896](/zet/20221003150896/README.md) linux enumeration quick commands list systemd timers
 - [20221003150895](/zet/20221003150895/README.md) linux enumeration quick commands check if users can see other users' processes
 - [20221003150894](/zet/20221003150894/README.md) linux enumeration quick commands file transfer with cat herefiles

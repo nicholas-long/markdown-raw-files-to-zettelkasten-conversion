@@ -15,7 +15,6 @@
 - [20221016233406](/zet/20221016233406/README.md) commits for day of 2022-04-08
 - [20221016233558](/zet/20221016233558/README.md) commits for day of 2022-07-13
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
-- [20221003150807](/zet/20221003150807/README.md) brute force default credentials
 - [20221003150806](/zet/20221003150806/README.md) brute force default credentials mysql
 - [20221003150804](/zet/20221003150804/README.md) brute force default credentials tomcat
 - [20221003150805](/zet/20221003150805/README.md) brute force default credentials ssh

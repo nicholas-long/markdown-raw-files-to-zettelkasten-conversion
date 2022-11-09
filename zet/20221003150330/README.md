@@ -8,7 +8,6 @@ try hash length extension
 
 # Related
 
-- [20221003150801](/zet/20221003150801/README.md) openssl commands
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands
 - [20221003150517](/zet/20221003150517/README.md) binary analysis
 - [20221003150459](/zet/20221003150459/README.md) openssl cipher commands encrypt text

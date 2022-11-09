@@ -20,7 +20,6 @@
 - [20221003151332](/zet/20221003151332/README.md) bash scripting
 - [20221003151329](/zet/20221003151329/README.md) bash scripting
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
-- [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions
 
 Tags:
 

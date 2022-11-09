@@ -16,7 +16,6 @@
 - [20221003150856](/zet/20221003150856/README.md) ssh-keygen generate key to file no password prompt
 - [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
 - [20221003150981](/zet/20221003150981/README.md) mariadb mysql files read
-- [20221003150983](/zet/20221003150983/README.md) mariadb mysql files
 - [20221003151057](/zet/20221003151057/README.md) get windows enumeration info from file read
 - [20221003151070](/zet/20221003151070/README.md) dump process memory
 - [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet

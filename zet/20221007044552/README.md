@@ -32,7 +32,6 @@ concept of a todo list.
 - [20221003151184](/zet/20221003151184/README.md) HTTP found login form
 - [20221003151185](/zet/20221003151185/README.md) HTTP bypassing restrictions
 - [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks )
-- [20221003151214](/zet/20221003151214/README.md) got leaked files
 - [20221003151211](/zet/20221003151211/README.md) got leaked files jar
 - [20221003151170](/zet/20221003151170/README.md) active directory domain old
 - [20221003151189](/zet/20221003151189/README.md) HTTP specific HTTP server exploit possibilities

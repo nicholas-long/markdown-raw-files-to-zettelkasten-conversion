@@ -125,7 +125,6 @@ hacking notes hub
 - [20221003150895](/zet/20221003150895/README.md) linux enumeration quick commands check if users can see other users' processes
 - [20221003150244](/zet/20221003150244/README.md) MOTW mark of the web microsoft alternate data stream file label ZoneId avoiding / evading
 - [20221003150974](/zet/20221003150974/README.md) XXE xml external entity exfiltrate file out of band payload
-- [20221003151072](/zet/20221003151072/README.md) windows color script output winpeas log
 - [20221003151358](/zet/20221003151358/README.md) python scripting parse a cookie from every line on standard input
 - [20221003150099](/zet/20221003150099/README.md) python scripting format string variables
 - [20221003150311](/zet/20221003150311/README.md) SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
@@ -142,7 +141,6 @@ hacking notes hub
 - [20221003151065](/zet/20221003151065/README.md) AMSI detect windows defender with known malicious string
 - [20221003150715](/zet/20221003150715/README.md) packet capture with tcpdump log data to pcap file
 - [20221003150704](/zet/20221003150704/README.md) sqlmap search string response on site for successful injection
-- [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
 - [20221003150536](/zet/20221003150536/README.md) immunity debugger mona commands list loaded modules and security flags
 - [20221003151081](/zet/20221003151081/README.md) service account privileges
 - [20221003151093](/zet/20221003151093/README.md) windows API enable privilege
@@ -175,7 +173,6 @@ hacking notes hub
 - [20221003150685](/zet/20221003150685/README.md) decode hex on command line
 - [20221003151121](/zet/20221003151121/README.md) dos commands service paths
 - [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands
-- [20221003151110](/zet/20221003151110/README.md) dos commands admin / system
 - [20221003150180](/zet/20221003150180/README.md) install alacritty commands
 - [20221003150643](/zet/20221003150643/README.md) nmap all ports command quick
 - [20221003151117](/zet/20221003151117/README.md) dos commands file permissions
@@ -188,17 +185,14 @@ hacking notes hub
 - [20221003151111](/zet/20221003151111/README.md) dos commands kill process by id
 - [20221003150698](/zet/20221003150698/README.md) SNMP enumeration command
 - [20221003150558](/zet/20221003150558/README.md) coyote PHP command shell
-- [20221003151115](/zet/20221003151115/README.md) dos commands services sc
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands
 - [20221003150644](/zet/20221003150644/README.md) nmap all ports command
 - [20221003150487](/zet/20221003150487/README.md) active directory get user account
 - [20221003151119](/zet/20221003151119/README.md) dos commands active network connections
-- [20221003151143](/zet/20221003151143/README.md) active directory  exploiting permissions
 - [20221003151128](/zet/20221003151128/README.md) active directory  DNS adding DNS records
 - [20221003151125](/zet/20221003151125/README.md) active directory  delegation constrained
 - [20221003151138](/zet/20221003151138/README.md) active directory  Backup Operators group
 - [20221003151136](/zet/20221003151136/README.md) active directory  mindset and methodology
-- [20221003151126](/zet/20221003151126/README.md) active directory  delegation unconstrained
 - [20221003151097](/zet/20221003151097/README.md) active directory certificate services AD CS
 - [20221003150758](/zet/20221003150758/README.md) MSFVENOM Active Sever Pages Extended (.aspx)
 - [20221003151026](/zet/20221003151026/README.md) common misconfigurations of active directory
@@ -260,7 +254,6 @@ hacking notes hub
 - [20221003151070](/zet/20221003151070/README.md) dump process memory
 - [20221003151071](/zet/20221003151071/README.md) windows color winpeas script log output
 - [20221003150873](/zet/20221003150873/README.md) host quick server
-- [20221003151048](/zet/20221003151048/README.md) windows reverse shell AV bypass
 - [20221003150833](/zet/20221003150833/README.md) responder
 - [20221003151248](/zet/20221003151248/README.md) sending installs and dependencies to target with no network connection
 

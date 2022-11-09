@@ -1,3 +1,1 @@
-- [20221003151245](/zet/20221003151245/README.md) Jenkins / Groovy (Java) Reverse Shell Windows
-- [20221003151246](/zet/20221003151246/README.md) Jenkins / Groovy (Java) Reverse Shell Linux
 - [20221003151247](/zet/20221003151247/README.md) Jenkins / Groovy (Java) Reverse Shell

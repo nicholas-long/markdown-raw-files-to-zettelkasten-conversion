@@ -20,8 +20,6 @@
 - [20221003151005](/zet/20221003151005/README.md) API enumeration bug hunting workflow
 - [20221003150457](/zet/20221003150457/README.md) GraphQLmap for GraphQL enumeration
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
-- [20221003151004](/zet/20221003151004/README.md) API enumeration good wordlists
-- [20221003150829](/zet/20221003150829/README.md) postgres sql enumeration list
 - [20221003150840](/zet/20221003150840/README.md) gobuster vhost enumeration
 - [20221003150698](/zet/20221003150698/README.md) SNMP enumeration command
 - [20221003150830](/zet/20221003150830/README.md) postgres sql enumeration

@@ -1,2 +1,1 @@
-- [20221003150832](/zet/20221003150832/README.md) responder add ssl certificate
 - [20221003150833](/zet/20221003150833/README.md) responder

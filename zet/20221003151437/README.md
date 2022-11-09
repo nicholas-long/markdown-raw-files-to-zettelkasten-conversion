@@ -54,7 +54,6 @@ END {
 - [20221014185509](/zet/20221014185509/README.md) kb file named kb/auto-awk.md
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
 - ~/kb/auto-awk.md
-- [20221003151438](/zet/20221003151438/README.md) awk scripting attempt to reuse credentials using hydra and keep track of usernames and passwords tried
 
 Tags:
 

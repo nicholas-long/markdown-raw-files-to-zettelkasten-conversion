@@ -1,1 +1,0 @@
-- [20221003150876](/zet/20221003150876/README.md) sudo sudoers file

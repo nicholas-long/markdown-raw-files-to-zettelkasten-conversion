@@ -12,7 +12,6 @@ https://book.hacktricks.xyz/windows-hardening/active-directory-methodology/resou
 
 - [20221014185652](/zet/20221014185652/README.md) kb file named kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md
 - [20221003151147](/zet/20221003151147/README.md) resource based constrained delegation S4U attack powershell commands on target
-- [20221003151146](/zet/20221003151146/README.md) resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec
 - ~/kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md
 
 Tags:

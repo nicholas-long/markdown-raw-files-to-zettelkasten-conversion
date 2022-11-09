@@ -14,7 +14,6 @@
 - [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
 - [20221003150623](/zet/20221003150623/README.md) PureFTP
 - [20221014185620](/zet/20221014185620/README.md) kb file named kb/hacking/to-try-lists/FTP.md
-- [20221003150822](/zet/20221003150822/README.md) hydra bruteforce ftp
 - [20221003150821](/zet/20221003150821/README.md) hydra bruteforce ftp default creds
 - [20221003150820](/zet/20221003150820/README.md) hydra bruteforce ftp rockyou 50
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list

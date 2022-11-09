@@ -26,7 +26,6 @@ the concept of a `file path`
 - [20221003151121](/zet/20221003151121/README.md) dos commands service paths
 - [20221008070202](/zet/20221008070202/README.md) awk bash dealing with file paths
 - [20221003150372](/zet/20221003150372/README.md) web app paths defaults db
-- [20221003151214](/zet/20221003151214/README.md) got leaked files
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003151153](/zet/20221003151153/README.md) windows
 - [20221003150289](/zet/20221003150289/README.md) default webroots
