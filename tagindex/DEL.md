@@ -1,8 +1,1 @@
-- [20221003150522](/zet/20221003150522/README.md) calling conventions
-- [20221003150529](/zet/20221003150529/README.md) gdb commands
-- [20221003150537](/zet/20221003150537/README.md) immunity debugger mona commands
-- [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration
-- [20221003150638](/zet/20221003150638/README.md) nmap check for mountable NFS shares
-- [20221003150646](/zet/20221003150646/README.md) nmap flags extra fast options
-- [20221003150650](/zet/20221003150650/README.md) kubernetes kubectl
-- [20221003150693](/zet/20221003150693/README.md) wpscan initial
+- [20221003150690](/zet/20221003150690/README.md) wpscan initial config backups

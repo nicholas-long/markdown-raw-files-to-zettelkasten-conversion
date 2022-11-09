@@ -10,7 +10,6 @@
 # Related
 
 - [20221014190013](/zet/20221014190013/README.md) kb file named kb/hacking/pwn/calling-conventions.md
-- [20221003150522](/zet/20221003150522/README.md) calling conventions
 - [20221003150519](/zet/20221003150519/README.md) calling conventions x64 windows C style  volatile registers after call
 - ~/kb/hacking/pwn/calling-conventions.md
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list

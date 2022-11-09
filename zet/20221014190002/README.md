@@ -19,7 +19,6 @@
 - [20221003150534](/zet/20221003150534/README.md) immunity debugger mona commands search for opcode string jmp esp in exe
 - [20221003150538](/zet/20221003150538/README.md) simple binary exploits payload generation changing architecture
 - [20221003150544](/zet/20221003150544/README.md) simple binary exploits pattern offset finding create pattern with length with pattern create
-- [20221003150537](/zet/20221003150537/README.md) immunity debugger mona commands
 - [20221003150536](/zet/20221003150536/README.md) immunity debugger mona commands list loaded modules and security flags
 - [20221003151443](/zet/20221003151443/README.md) kb
 

@@ -56,7 +56,6 @@
 - [20221003150488](/zet/20221003150488/README.md) active directory
 - [20221003150527](/zet/20221003150527/README.md) generate reverse shell shellcode payload for pwn
 - [20221003150528](/zet/20221003150528/README.md) gdb commands debug step into / follow child process
-- [20221003150529](/zet/20221003150529/README.md) gdb commands
 - [20221003150530](/zet/20221003150530/README.md) gef gdb plugin buffer overflow pattern create and offset
 - [20221003150531](/zet/20221003150531/README.md) gef gdb plugin rop gadget search
 - [20221003150532](/zet/20221003150532/README.md) gef gdb plugin
@@ -112,11 +111,9 @@
 - [20221003150631](/zet/20221003150631/README.md) listen for pings with tcpdump
 - [20221003150632](/zet/20221003150632/README.md) list dpkg packages installed on a certain date
 - [20221003150633](/zet/20221003150633/README.md) smbmap default enumeration as guest
-- [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration
 - [20221003150635](/zet/20221003150635/README.md) smbmap
 - [20221003150636](/zet/20221003150636/README.md) nmap run all service enumeration on a port
 - [20221003150637](/zet/20221003150637/README.md) nmap check for mountable NFS shares test access
-- [20221003150638](/zet/20221003150638/README.md) nmap check for mountable NFS shares
 - [20221003150639](/zet/20221003150639/README.md) nmap bruteforce HTTP authentication (including NTLM)
 - [20221003150640](/zet/20221003150640/README.md) nmap run "all" enumeration and scripts
 - [20221003150641](/zet/20221003150641/README.md) nmap over proxychains using socks proxy
@@ -124,11 +121,9 @@
 - [20221003150643](/zet/20221003150643/README.md) nmap all ports command quick
 - [20221003150644](/zet/20221003150644/README.md) nmap all ports command
 - [20221003150645](/zet/20221003150645/README.md) nmap flags increase speed
-- [20221003150646](/zet/20221003150646/README.md) nmap flags extra fast options
 - [20221003150647](/zet/20221003150647/README.md) nmap flags
 - [20221003150648](/zet/20221003150648/README.md) nmap
 - [20221003150649](/zet/20221003150649/README.md) kubernetes kubectl enumerate permissions
-- [20221003150650](/zet/20221003150650/README.md) kubernetes kubectl
 - [20221003150651](/zet/20221003150651/README.md) kubernetes
 - [20221003150652](/zet/20221003150652/README.md) wfuzz host header pollution
 - [20221003150653](/zet/20221003150653/README.md) wfuzz authenticated fuzzing parameter names
@@ -171,7 +166,6 @@
 - [20221003150690](/zet/20221003150690/README.md) wpscan initial config backups
 - [20221003150691](/zet/20221003150691/README.md) wpscan initial vulnerable themes
 - [20221003150692](/zet/20221003150692/README.md) wpscan initial all plugins passive scan
-- [20221003150693](/zet/20221003150693/README.md) wpscan initial
 - [20221003150694](/zet/20221003150694/README.md) wpscan
 - [20221003150695](/zet/20221003150695/README.md) SNMP enumeration command enumerating / dumping interesting and categorized information
 - [20221003150696](/zet/20221003150696/README.md) SNMP enumeration command onesixtyone

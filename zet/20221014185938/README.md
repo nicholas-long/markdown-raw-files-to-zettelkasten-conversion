@@ -21,8 +21,6 @@
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221003150637](/zet/20221003150637/README.md) nmap check for mountable NFS shares test access
 - [20221003150643](/zet/20221003150643/README.md) nmap all ports command quick
-- [20221003150646](/zet/20221003150646/README.md) nmap flags extra fast options
-- [20221003150638](/zet/20221003150638/README.md) nmap check for mountable NFS shares
 - [20221003150641](/zet/20221003150641/README.md) nmap over proxychains using socks proxy
 - [20221003150642](/zet/20221003150642/README.md) nmap common ports command
 - [20221003150645](/zet/20221003150645/README.md) nmap flags increase speed

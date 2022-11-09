@@ -6,7 +6,6 @@
 - [20221003150641](/zet/20221003150641/README.md) over proxychains using socks proxy
 - [20221003150640](/zet/20221003150640/README.md) run "all" enumeration and scripts
 - [20221003150639](/zet/20221003150639/README.md) bruteforce HTTP authentication (including NTLM)
-- [20221003150638](/zet/20221003150638/README.md) check for mountable NFS shares
 - [20221003150636](/zet/20221003150636/README.md) run all service enumeration on a port
 - [20221003151016](/zet/20221003151016/README.md) scripts search by type
 - [20221003151368](/zet/20221003151368/README.md) bash scripting get top N most common ports from nmap list pass argument
@@ -22,7 +21,6 @@
 - [20221003150641](/zet/20221003150641/README.md) nmap over proxychains using socks proxy
 - [20221003150640](/zet/20221003150640/README.md) nmap run "all" enumeration and scripts
 - [20221003150639](/zet/20221003150639/README.md) nmap bruteforce HTTP authentication (including NTLM)
-- [20221003150638](/zet/20221003150638/README.md) nmap check for mountable NFS shares
 - [20221003150636](/zet/20221003150636/README.md) nmap run all service enumeration on a port
 - [20221003151016](/zet/20221003151016/README.md) nmap scripts search by type
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool

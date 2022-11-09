@@ -185,7 +185,6 @@ hacking notes hub
 - [20221003150799](/zet/20221003150799/README.md) openssl commands decrypt file
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 - [20221003151120](/zet/20221003151120/README.md) dos commands installed drivers
-- [20221003150537](/zet/20221003150537/README.md) immunity debugger mona commands
 - [20221003150853](/zet/20221003150853/README.md) dns commands zone transfer axfr
 - [20221003151111](/zet/20221003151111/README.md) dos commands kill process by id
 - [20221003150698](/zet/20221003150698/README.md) SNMP enumeration command

@@ -10,7 +10,6 @@ set follow-fork-mode child
 
 - [20221014190005](/zet/20221014190005/README.md) kb file named kb/hacking/pwn/gdb-commands.md
 - [20221008081231](/zet/20221008081231/README.md) debugging
-- [20221003150529](/zet/20221003150529/README.md) gdb commands
 - ~/kb/hacking/pwn/gdb-commands.md
 - [20221003150515](/zet/20221003150515/README.md) pwntools gdb debugging terminal
 

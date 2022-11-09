@@ -20,7 +20,6 @@ wpscan --url $URL -U users -P /usr/share/wordlists/rockyou.txt
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221014185921](/zet/20221014185921/README.md) kb file named kb/hacking/commands/wpscan-command.md
 - [20221008213825](/zet/20221008213825/README.md) hacker concept of CMS - slang lingo for web app / service
-- [20221003150693](/zet/20221003150693/README.md) wpscan initial
 - [20221003150686](/zet/20221003150686/README.md) wpscan brute force users file and password list
 - ~/kb/hacking/commands/wpscan-command.md
 

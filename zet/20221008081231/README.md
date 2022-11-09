@@ -24,10 +24,8 @@ the concept of `debugging`
 - [20221003151295](/zet/20221003151295/README.md) debugging bash
 - [20221003151309](/zet/20221003151309/README.md) expect scripts
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
-- [20221003150537](/zet/20221003150537/README.md) immunity debugger mona commands
 - [20221003150528](/zet/20221003150528/README.md) gdb commands debug step into / follow child process
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
-- [20221003150529](/zet/20221003150529/README.md) gdb commands
 
 Tags:
 

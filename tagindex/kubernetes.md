@@ -1,3 +1,2 @@
 - [20221003150649](/zet/20221003150649/README.md) kubernetes kubectl enumerate permissions
-- [20221003150650](/zet/20221003150650/README.md) kubernetes kubectl
 - [20221003150651](/zet/20221003150651/README.md) kubernetes

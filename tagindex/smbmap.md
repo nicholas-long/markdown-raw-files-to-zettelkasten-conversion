@@ -1,2 +1,1 @@
 - [20221003150633](/zet/20221003150633/README.md) smbmap default enumeration as guest
-- [20221003150634](/zet/20221003150634/README.md) smbmap default enumeration
