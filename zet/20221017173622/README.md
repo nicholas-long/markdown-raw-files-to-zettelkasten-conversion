@@ -15,6 +15,7 @@
 # tags
 #
 ARCHIVE
+DEL
 account ad administration ai analysis ansible api apk apt arg automation av awk
 base64 bash basic binary bloodhound boxes broken bruteforcing bsd bug busting buzzwords
 c-language c2 calling capabilities cert cleanup cms coding command company concept config container convert copy crack creds cron crypto ctf curl cyberpunk

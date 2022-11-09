@@ -10,7 +10,6 @@ this is a list of possibly empty zettels.
 #
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file #command #hacking #generate 
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist #command #hacking #generate 
-- [20221003150801](/zet/20221003150801/README.md) openssl commands #command #hacking #openssl 
 - [20221003150807](/zet/20221003150807/README.md) brute force default credentials #command #hacking #hydra 
 - [20221003150815](/zet/20221003150815/README.md) meterpreter msf move from x86 to x64 #command #hacking #metasploit 
 - [20221003150816](/zet/20221003150816/README.md) meterpreter msf #command #hacking #metasploit 
