@@ -1,4 +1,5 @@
 - [20221003150358](/zet/20221003150358/README.md) jxplorer connect to LDAP GUI access
+- [20221003150749](/zet/20221003150749/README.md) crackmapexec kerberos authentication with ticket environment variable
 - [20221003151083](/zet/20221003151083/README.md) establishing persistence on windows target in enterprise penetration test
 - [20221003151095](/zet/20221003151095/README.md) active directory certificate services AD CS risks
 - [20221003151096](/zet/20221003151096/README.md) active directory certificate services AD CS privesc

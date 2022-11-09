@@ -3,6 +3,7 @@
 - [20221003150290](/zet/20221003150290/README.md) Potentially risky HTTP methods: TRACE
 - [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
 - [20221003150313](/zet/20221003150313/README.md) default http config locations FreeBSD
+- [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
 - [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks )
 - [20221003151181](/zet/20221003151181/README.md) HTTP compromised CMS login CMS auth code exec / becoming web user

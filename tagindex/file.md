@@ -9,6 +9,7 @@
 - [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems
 - [20221003150313](/zet/20221003150313/README.md) default http config locations FreeBSD
 - [20221003150651](/zet/20221003150651/README.md) kubernetes
+- [20221003150662](/zet/20221003150662/README.md) data analysis commands
 - [20221003150980](/zet/20221003150980/README.md) mariadb mysql files write
 - [20221003150981](/zet/20221003150981/README.md) mariadb mysql files read
 - [20221003150983](/zet/20221003150983/README.md) mariadb mysql files

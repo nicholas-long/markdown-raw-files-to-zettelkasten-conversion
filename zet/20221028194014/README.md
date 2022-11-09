@@ -76,7 +76,6 @@
 85 zet/20221003151150/README.md windows XP and windows server 2003 write arbitrary MOF file for remote code execution
 84 zet/20221003151408/README.md parse burpsuite saved request file and convert to python requests script for copying
 84 zet/20221003150898/README.md linux enumeration quick commands capabilities running process effective capabilities
-84 zet/20221003150749/README.md crackmapexec kerberos authentication with ticket include ticket environment variable
 84 zet/20221003150583/README.md php code convert human readable time to unix epoch timestamp apache HTTP Date header
 83 zet/20221014185652/README.md kb file named kb/hacking/windows/AD-resource-based-constrained-delegation-attack.md
 83 zet/20221003151411/README.md bash scripting run docker image with current directory mounted as working directory

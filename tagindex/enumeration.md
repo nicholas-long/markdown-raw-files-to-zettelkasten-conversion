@@ -4,6 +4,7 @@
 - [20221003150593](/zet/20221003150593/README.md) generating enumeration wordlists exfiltrated passwd usernames to ssh key id_rsa fuzz list
 - [20221003150648](/zet/20221003150648/README.md) nmap
 - [20221003150659](/zet/20221003150659/README.md) wfuzz
+- [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 - [20221003150694](/zet/20221003150694/README.md) wpscan
 - [20221003150781](/zet/20221003150781/README.md) enum4linux-ng next gen default smb enumeration
 - [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen

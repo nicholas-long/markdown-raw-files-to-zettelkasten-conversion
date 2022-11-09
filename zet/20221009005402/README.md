@@ -179,7 +179,7 @@
 - [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference
 - [20221003150509](/zet/20221003150509/README.md) python pwn tricks
 - [20221003150500](/zet/20221003150500/README.md) shellshock python2 exploit
-- [20221003150749](/zet/20221003150749/README.md) crackmapexec kerberos authentication with ticket include ticket environment variable
+- [20221003150749](/zet/20221003150749/README.md) crackmapexec kerberos authentication with ticket environment variable
 - [20221003150671](/zet/20221003150671/README.md) crackmapexec cme commands test password username arguments or files
 - [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket
 - [20221003151374](/zet/20221003151374/README.md) bash scripting build and run CrackMapExec docker

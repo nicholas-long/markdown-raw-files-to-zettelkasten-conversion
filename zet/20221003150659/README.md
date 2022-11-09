@@ -25,6 +25,10 @@
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221014185935](/zet/20221014185935/README.md) kb file named kb/hacking/commands/wfuzz-commands.md
 - ~/kb/hacking/commands/wfuzz-commands.md
+- [20221003150808](/zet/20221003150808/README.md) wfuzz fuzzing details send to burpsuite local proxy
+- [20221003150809](/zet/20221003150809/README.md) wfuzz fuzzing details show or hide responses containing text regex
+- [20221003150810](/zet/20221003150810/README.md) wfuzz fuzzing details fuzz multiple parameters
+- [20221003150811](/zet/20221003150811/README.md) wfuzz fuzzing details "X-Forwarded-For" header with custom IP ranges
 
 Tags:
 

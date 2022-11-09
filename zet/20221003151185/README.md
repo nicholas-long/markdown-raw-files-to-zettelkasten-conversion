@@ -22,6 +22,7 @@
 - [20221006215135](/zet/20221006215135/README.md) siren
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
+- [20221003150811](/zet/20221003150811/README.md) wfuzz fuzzing details "X-Forwarded-For" header with custom IP ranges
 
 Tags:
 

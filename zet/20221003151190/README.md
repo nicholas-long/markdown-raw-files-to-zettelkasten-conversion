@@ -38,6 +38,9 @@ for each path
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
 - [20221003150658](/zet/20221003150658/README.md) wfuzz dirbusting
+- [20221003150810](/zet/20221003150810/README.md) wfuzz fuzzing details fuzz multiple parameters
+- [20221003150811](/zet/20221003150811/README.md) wfuzz fuzzing details "X-Forwarded-For" header with custom IP ranges
+- [20221003150809](/zet/20221003150809/README.md) wfuzz fuzzing details show or hide responses containing text regex
 
 Tags:
 

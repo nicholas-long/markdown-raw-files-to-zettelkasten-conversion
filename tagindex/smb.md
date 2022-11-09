@@ -1,6 +1,7 @@
 - [20221003150567](/zet/20221003150567/README.md) SMB Copy Files (Execute on Victim)
 - [20221003150633](/zet/20221003150633/README.md) smbmap default enumeration as guest
 - [20221003150635](/zet/20221003150635/README.md) smbmap
+- [20221003150670](/zet/20221003150670/README.md) crackmapexec cme commands bruteforce SMB
 - [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen
 - [20221003150835](/zet/20221003150835/README.md) smb mount share old SMBv1 share
 - [20221003150836](/zet/20221003150836/README.md) smb mount share unauthenticated

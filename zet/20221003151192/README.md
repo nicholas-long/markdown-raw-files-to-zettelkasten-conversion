@@ -96,6 +96,10 @@
 - [20221003150310](/zet/20221003150310/README.md) burpsuite
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
+- [20221003150811](/zet/20221003150811/README.md) wfuzz fuzzing details "X-Forwarded-For" header with custom IP ranges
+- [20221003150682](/zet/20221003150682/README.md) web enumeration quick commands forms
+- [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
+- [20221003150808](/zet/20221003150808/README.md) wfuzz fuzzing details send to burpsuite local proxy
 
 Tags:
 

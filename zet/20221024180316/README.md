@@ -14,6 +14,11 @@
 # have duplicate tags
 #
 
+# #DEL
+- [20221003150689](/zet/20221003150689/README.md) wpscan initial database exports #command #hacking #wpscan #DEL #DEL
+- [20221003150691](/zet/20221003150691/README.md) wpscan initial vulnerable themes #command #hacking #wpscan #DEL #DEL
+- [20221003150692](/zet/20221003150692/README.md) wpscan initial all plugins passive scan #command #hacking #wpscan #DEL #DEL
+
 # #windows
 - [20221003150616](/zet/20221003150616/README.md) PureFTP Create FTP Script (On Victim) #command #hacking #windows #windows #ftp
 

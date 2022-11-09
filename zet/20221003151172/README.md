@@ -131,6 +131,7 @@
 - [20221003151137](/zet/20221003151137/README.md) active directory sensitive files
 - [20221003150778](/zet/20221003150778/README.md) crowbar brute force RDP active directory domain joined
 - [20221003150630](/zet/20221003150630/README.md) LDAP enumeration
+- [20221003150749](/zet/20221003150749/README.md) crackmapexec kerberos authentication with ticket environment variable
 
 Tags:
 

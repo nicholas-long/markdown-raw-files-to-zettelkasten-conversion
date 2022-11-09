@@ -26,6 +26,7 @@
 - [20221003151193](/zet/20221003151193/README.md) HTTP
 - ~/kb/hacking/to-try-lists/HTTP.md
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
+- [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 
 Tags:
 

@@ -37,6 +37,7 @@
 - [20221003151180](/zet/20221003151180/README.md) HTTP UNCOMMON HTTP ( hacktricks )
 - ~/kb/hacking/to-try-lists/HTTP.md
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
+- [20221003150682](/zet/20221003150682/README.md) web enumeration quick commands forms
 
 Tags:
 

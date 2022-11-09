@@ -22,6 +22,7 @@
 - 
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - ~/kb/hacking/misc/important-repositories-tools.md
+- [20221003150749](/zet/20221003150749/README.md) crackmapexec kerberos authentication with ticket environment variable
 
 Tags:
 

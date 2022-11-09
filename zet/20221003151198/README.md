@@ -59,6 +59,7 @@
 - ~/kb/hacking/to-try-lists/SMB.md
 - [20221003150635](/zet/20221003150635/README.md) smbmap
 - [20221003150633](/zet/20221003150633/README.md) smbmap default enumeration as guest
+- [20221003150670](/zet/20221003150670/README.md) crackmapexec cme commands bruteforce SMB
 
 Tags:
 

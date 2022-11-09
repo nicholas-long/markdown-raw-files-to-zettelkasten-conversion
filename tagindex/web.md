@@ -25,6 +25,7 @@
 - [20221003150682](/zet/20221003150682/README.md) web enumeration quick commands forms
 - [20221003150683](/zet/20221003150683/README.md) web enumeration quick commands
 - [20221003150694](/zet/20221003150694/README.md) wpscan
+- [20221003150720](/zet/20221003150720/README.md) curl
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
 - [20221003150874](/zet/20221003150874/README.md) nikto command
 - [20221003150966](/zet/20221003150966/README.md) OSINT
