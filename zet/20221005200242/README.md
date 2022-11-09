@@ -8,14 +8,6 @@ this is a list of possibly empty zettels.
 #
 # Empty
 #
-- [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump #command #hacking #packet 
-- [20221003150755](/zet/20221003150755/README.md) keytool #command #hacking #keytool 
-- [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks #command #hacking #msfvenom 
-- [20221003150765](/zet/20221003150765/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) #command #hacking #msfvenom 
-- [20221003150766](/zet/20221003150766/README.md) MSFVENOM Linux Binary (.elf) #command #hacking #msfvenom 
-- [20221003150771](/zet/20221003150771/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64) #command #hacking #msfvenom 
-- [20221003150775](/zet/20221003150775/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) #command #hacking #msfvenom 
-- [20221003150776](/zet/20221003150776/README.md) MSFVENOM Windows Binary (.exe) executable #command #hacking #msfvenom 
 - [20221003150791](/zet/20221003150791/README.md) openssl #command #hacking #openssl 
 - [20221003150794](/zet/20221003150794/README.md) generate cewl wordlist from file #command #hacking #generate 
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist #command #hacking #generate 
@@ -101,7 +93,7 @@ this is a list of possibly empty zettels.
 7	- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project #zettelkasten #project 
 4	- [20221007062330](/zet/20221007062330/README.md) broken stuff to fix #todo #broken #error 
 4	- [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process #broken
-2250	- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries #idea
+2288	- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries #idea
 
 ```
 

@@ -6,3 +6,4 @@
 - [20221003150237](/zet/20221003150237/README.md) extract command for file type tar.gz
 - [20221003150238](/zet/20221003150238/README.md) extract command for file type deb
 - [20221003150239](/zet/20221003150239/README.md) extract command for file type
+- [20221003150754](/zet/20221003150754/README.md) keytool print certificate in RSA file

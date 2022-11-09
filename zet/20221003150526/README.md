@@ -49,6 +49,7 @@
 - [20221003150520](/zet/20221003150520/README.md) x64 windows C style calling conventions
 - [20221003150521](/zet/20221003150521/README.md) x64 linux C style calling conventions
 - [20221003150536](/zet/20221003150536/README.md) immunity debugger mona commands list loaded modules and security flags
+- [20221003150777](/zet/20221003150777/README.md) MSFVENOM
 
 Tags:
 

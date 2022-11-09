@@ -17,9 +17,7 @@
 - [20221003150526](/zet/20221003150526/README.md) pwn methodology / to try list
 - [20221013174958](/zet/20221013174958/README.md) concept of persistence on a target
 - [20221003150756](/zet/20221003150756/README.md) MSFVENOM tricks make executable binary with input shellcode
-- [20221003150758](/zet/20221003150758/README.md) MSFVENOM Active Sever Pages Extended (.aspx)
 - [20221003150759](/zet/20221003150759/README.md) MSFVENOM Java Server Pages (.jsp) As .war
-- [20221003150760](/zet/20221003150760/README.md) MSFVENOM Java Server Pages (.jsp)
 - [20221003150761](/zet/20221003150761/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) Bind Shell
 - [20221003150762](/zet/20221003150762/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) Reverse Shell
 - [20221003150763](/zet/20221003150763/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86) Bind Shell

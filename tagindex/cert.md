@@ -1,4 +1,5 @@
 - [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
+- [20221003150754](/zet/20221003150754/README.md) keytool print certificate in RSA file
 - [20221009001238](/zet/20221009001238/README.md) certification
 - [20221009001740](/zet/20221009001740/README.md) OSCP exam
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam

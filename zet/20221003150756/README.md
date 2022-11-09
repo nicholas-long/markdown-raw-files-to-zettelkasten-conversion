@@ -11,6 +11,7 @@ cat payload.bin | msfvenom -p - -f exe -a x64 --platform win -o output.exe
 - [20221014185901](/zet/20221014185901/README.md) kb file named kb/hacking/commands/msfvenom-commands.md
 - [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks
 - ~/kb/hacking/commands/msfvenom-commands.md
+- [20221003150777](/zet/20221003150777/README.md) MSFVENOM
 
 Tags:
 

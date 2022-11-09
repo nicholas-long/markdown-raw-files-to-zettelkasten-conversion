@@ -1,2 +1,3 @@
 - [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI
 - [20221003150524](/zet/20221003150524/README.md) make executable binary with input shellcode msfvenom
+- [20221003150777](/zet/20221003150777/README.md) MSFVENOM

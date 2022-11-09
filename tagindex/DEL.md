@@ -3,5 +3,14 @@
 - [20221003150690](/zet/20221003150690/README.md) wpscan initial config backups
 - [20221003150691](/zet/20221003150691/README.md) wpscan initial vulnerable themes
 - [20221003150692](/zet/20221003150692/README.md) wpscan initial all plugins passive scan
+- [20221003150714](/zet/20221003150714/README.md) packet capture with tcpdump watch traffic
+- [20221003150716](/zet/20221003150716/README.md) packet capture with tcpdump
 - [20221003150750](/zet/20221003150750/README.md) crackmapexec kerberos authentication with ticket
+- [20221003150755](/zet/20221003150755/README.md) keytool
+- [20221003150757](/zet/20221003150757/README.md) MSFVENOM tricks
+- [20221003150765](/zet/20221003150765/README.md) MSFVENOM Linux Binary (.elf) 32 Bit (x86)
+- [20221003150766](/zet/20221003150766/README.md) MSFVENOM Linux Binary (.elf)
+- [20221003150771](/zet/20221003150771/README.md) MSFVENOM Windows Binary (.exe) executable 64 Bit (x64)
+- [20221003150775](/zet/20221003150775/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86)
+- [20221003150776](/zet/20221003150776/README.md) MSFVENOM Windows Binary (.exe) executable
 - [20221003150812](/zet/20221003150812/README.md) wfuzz fuzzing details
