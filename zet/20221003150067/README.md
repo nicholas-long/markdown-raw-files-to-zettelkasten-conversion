@@ -19,7 +19,7 @@ set colorcolumn=74 " markdown titles 72 chars in width plus heading
 - [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks
 - [20221003150073](/zet/20221003150073/README.md) Run vim as a script on datafile, write to file `output`
 - [20221014074318](/zet/20221014074318/README.md) important choices of tech stack
-- [20221003150071](/zet/20221003150071/README.md) vim edit multiple files
+- [20221003150071](/zet/20221003150071/README.md) vim edit multiple files while running
 - [20221022000131](/zet/20221022000131/README.md) put tmux and vim rc config in dockerfile
 - [20221003150072](/zet/20221003150072/README.md) Set spacevim record key back to [Q]
 - [20221014185505](/zet/20221014185505/README.md) kb file named kb/vim/vim.md

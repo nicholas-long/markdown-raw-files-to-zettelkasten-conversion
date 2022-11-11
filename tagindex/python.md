@@ -29,7 +29,7 @@
 - [20221003151358](/zet/20221003151358/README.md) python scripting parse a cookie from every line on standard input
 - [20221003151359](/zet/20221003151359/README.md) python scripting convert CSV to TSV
 - [20221003151360](/zet/20221003151360/README.md) python pwntools scripting template connect to remote server or local
-- [20221003151363](/zet/20221003151363/README.md) python scripting
+- [20221003151363](/zet/20221003151363/README.md) python scripts hub
 - [20221003151365](/zet/20221003151365/README.md) bash scripting urlencode a line of text from stdin
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221007023939](/zet/20221007023939/README.md) python ternary operator

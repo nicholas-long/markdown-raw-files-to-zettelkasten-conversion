@@ -13,7 +13,7 @@ csv.writer(sys.stdout, dialect='excel-tab').writerows(csv.reader(sys.stdin))
 # Related
 
 - [20221014190229](/zet/20221014190229/README.md) kb file named kb/auto-python.md
-- [20221003151363](/zet/20221003151363/README.md) python scripting
+- [20221003151363](/zet/20221003151363/README.md) python scripts hub
 - ~/kb/auto-python.md
 
 Tags:

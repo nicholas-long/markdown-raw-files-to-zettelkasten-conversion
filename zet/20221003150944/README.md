@@ -10,7 +10,7 @@ bytes.fromhex(str)
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003150946](/zet/20221003150946/README.md) python hub
 - ~/kb/hacking/python/python-quick-reference.md
-- [20221003151363](/zet/20221003151363/README.md) python scripting
+- [20221003151363](/zet/20221003151363/README.md) python scripts hub
 
 Tags:
 

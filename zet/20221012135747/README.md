@@ -15,7 +15,7 @@
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003150175](/zet/20221003150175/README.md) unix editor ex / ed example commands
 - [20221006010531](/zet/20221006010531/README.md) sed scripts
-- [20221003150071](/zet/20221003150071/README.md) vim edit multiple files
+- [20221003150071](/zet/20221003150071/README.md) vim edit multiple files while running
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221012135301](/zet/20221012135301/README.md) emacs
 

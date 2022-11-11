@@ -17,7 +17,7 @@ TERM_PROGRAM=tmux
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips
 - [20221003151299](/zet/20221003151299/README.md) bash tricks
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
-- [20221003150075](/zet/20221003150075/README.md) tmux tricks
+- [20221003150075](/zet/20221003150075/README.md) tmux tricks hub
 - [20221003150079](/zet/20221003150079/README.md) tmux program
 - [20221003151210](/zet/20221003151210/README.md) linux privilege escalation
 

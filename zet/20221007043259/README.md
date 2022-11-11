@@ -158,7 +158,7 @@
 - [20221003150064](/zet/20221003150064/README.md) neovim diff
 - [20221006215623](/zet/20221006215623/README.md) scrambled machine video notes
 - [20221006200018](/zet/20221006200018/README.md) OCR youtube video frames
-- [20221003150071](/zet/20221003150071/README.md) vim edit multiple files
+- [20221003150071](/zet/20221003150071/README.md) vim edit multiple files while running
 - [20221003150066](/zet/20221003150066/README.md) vim diff
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221003150946](/zet/20221003150946/README.md) python hub

@@ -19,7 +19,7 @@
 - [20221014185450](/zet/20221014185450/README.md) kb file named kb/auto-bash.md
 - [20221008212000](/zet/20221008212000/README.md) coding / programming
 - [20221003151441](/zet/20221003151441/README.md) awk scripting
-- [20221003151363](/zet/20221003151363/README.md) python scripting
+- [20221003151363](/zet/20221003151363/README.md) python scripts hub
 - [20221003151350](/zet/20221003151350/README.md) awk and bash scripting
 - [20221003151338](/zet/20221003151338/README.md) awk scripting
 - [20221003151332](/zet/20221003151332/README.md) bash scripting

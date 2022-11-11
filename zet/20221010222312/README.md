@@ -24,7 +24,7 @@ the concept of `tmux workflow`
 - [20221008021753](/zet/20221008021753/README.md) home .local/bin scripts
 - [20221008214631](/zet/20221008214631/README.md) vim hotkeys and tricks
 - [20221008061845](/zet/20221008061845/README.md) workflow
-- [20221003150075](/zet/20221003150075/README.md) tmux tricks
+- [20221003150075](/zet/20221003150075/README.md) tmux tricks hub
 - [20221003150079](/zet/20221003150079/README.md) tmux program
 - [20221024082446](/zet/20221024082446/README.md) tmux join-pane move window back into pane
 - [20221009162538](/zet/20221009162538/README.md) adding menus to scripts using fzf

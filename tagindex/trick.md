@@ -1,3 +1,4 @@
+- [20221003150075](/zet/20221003150075/README.md) tmux tricks hub
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
 - [20221003150277](/zet/20221003150277/README.md) pfx extension PKCS#12 format certificate cracking with johntheripper
 - [20221003150291](/zet/20221003150291/README.md) apache 2fa default key

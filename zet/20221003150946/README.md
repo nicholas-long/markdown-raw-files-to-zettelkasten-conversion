@@ -25,7 +25,7 @@
 - [20221003150944](/zet/20221003150944/README.md) python hex to bytes
 - [20221003150943](/zet/20221003150943/README.md) python string alphanumeric chars
 - ~/kb/hacking/python/python-quick-reference.md
-- [20221003151363](/zet/20221003151363/README.md) python scripting
+- [20221003151363](/zet/20221003151363/README.md) python scripts hub
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150940](/zet/20221003150940/README.md) python imports library search path
 - [20221003150941](/zet/20221003150941/README.md) python imports files vs loading as libraries

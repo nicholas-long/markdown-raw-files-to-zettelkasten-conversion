@@ -1,3 +1,3 @@
 - [20221003150068](/zet/20221003150068/README.md) vim edit multiple files find and edit files recursively open in tabs
 - [20221003150069](/zet/20221003150069/README.md) vim edit multiple files open multiple files
-- [20221003150071](/zet/20221003150071/README.md) vim edit multiple files
+- [20221003150071](/zet/20221003150071/README.md) vim edit multiple files while running

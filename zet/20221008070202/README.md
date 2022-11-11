@@ -24,7 +24,7 @@ BEGIN { FS = OFS = "/" }
 - [20221008213254](/zet/20221008213254/README.md) file path
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference
-- [20221003151363](/zet/20221003151363/README.md) python scripting
+- [20221003151363](/zet/20221003151363/README.md) python scripts hub
 - [20221003151309](/zet/20221003151309/README.md) expect scripts
 - [20221003151424](/zet/20221003151424/README.md) bash scripts
 - [20221006010531](/zet/20221006010531/README.md) sed scripts

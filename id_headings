@@ -4,11 +4,11 @@
 20221003150067	zet/20221003150067/README.md	vim
 20221003150068	zet/20221003150068/README.md	vim edit multiple files find and edit files recursively open in tabs
 20221003150069	zet/20221003150069/README.md	vim edit multiple files open multiple files
-20221003150071	zet/20221003150071/README.md	vim edit multiple files
+20221003150071	zet/20221003150071/README.md	vim edit multiple files while running
 20221003150072	zet/20221003150072/README.md	Set spacevim record key back to [Q]
 20221003150073	zet/20221003150073/README.md	Run vim as a script on datafile, write to file `output`
 20221003150074	zet/20221003150074/README.md	tmux copy to buffer from bash pipes
-20221003150075	zet/20221003150075/README.md	tmux tricks
+20221003150075	zet/20221003150075/README.md	tmux tricks hub
 20221003150076	zet/20221003150076/README.md	tmux swap panes
 20221003150077	zet/20221003150077/README.md	tmux get current pane working directory
 20221003150078	zet/20221003150078/README.md	tmux get current pane
@@ -1113,7 +1113,7 @@
 20221003151358	zet/20221003151358/README.md	python scripting parse a cookie from every line on standard input
 20221003151359	zet/20221003151359/README.md	python scripting convert CSV to TSV
 20221003151360	zet/20221003151360/README.md	python pwntools scripting template connect to remote server or local
-20221003151363	zet/20221003151363/README.md	python scripting
+20221003151363	zet/20221003151363/README.md	python scripts hub
 20221003151364	zet/20221003151364/README.md	bash scripting get bash lines from kb snippets
 20221003151365	zet/20221003151365/README.md	bash scripting urlencode a line of text from stdin
 20221003151366	zet/20221003151366/README.md	bash scripting install vscode

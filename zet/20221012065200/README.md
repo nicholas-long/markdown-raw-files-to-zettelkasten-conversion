@@ -20,7 +20,7 @@
 - [20221008061845](/zet/20221008061845/README.md) workflow
 - [20221003150078](/zet/20221003150078/README.md) tmux get current pane
 - [20221010180841](/zet/20221010180841/README.md) screen and tmux rwxrob video
-- [20221003150075](/zet/20221003150075/README.md) tmux tricks
+- [20221003150075](/zet/20221003150075/README.md) tmux tricks hub
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - [20221003150079](/zet/20221003150079/README.md) tmux program
 

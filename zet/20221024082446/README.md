@@ -15,7 +15,7 @@
 # Related
 
 - [20221024080719](/zet/20221024080719/README.md) tmux default s hotkey choose tree to explore panes
-- [20221003150075](/zet/20221003150075/README.md) tmux tricks
+- [20221003150075](/zet/20221003150075/README.md) tmux tricks hub
 - [20221003150079](/zet/20221003150079/README.md) tmux program
 - [20221010222312](/zet/20221010222312/README.md) tmux workflow
 - [20221003150076](/zet/20221003150076/README.md) tmux swap panes

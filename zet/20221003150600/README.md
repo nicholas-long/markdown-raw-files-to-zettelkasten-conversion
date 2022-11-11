@@ -22,7 +22,7 @@
 - [20221017180938](/zet/20221017180938/README.md) hacking or enumeration tool
 - [20221015005745](/zet/20221015005745/README.md) python coding
 - [20221015005557](/zet/20221015005557/README.md) python library
-- [20221003151363](/zet/20221003151363/README.md) python scripting
+- [20221003151363](/zet/20221003151363/README.md) python scripts hub
 - [20221003151153](/zet/20221003151153/README.md) windows
 - [20221003150312](/zet/20221003150312/README.md) SMB
 - [20221014185950](/zet/20221014185950/README.md) kb file named kb/hacking/commands/impacket-commands.md

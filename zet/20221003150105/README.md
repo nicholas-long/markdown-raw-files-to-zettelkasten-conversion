@@ -12,7 +12,7 @@
 
 # Related
 
-- [20221003151363](/zet/20221003151363/README.md) python scripting
+- [20221003151363](/zet/20221003151363/README.md) python scripts hub
 - [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag
 - [20221007023939](/zet/20221007023939/README.md) python ternary operator
 - [20221003150104](/zet/20221003150104/README.md) python scripting http

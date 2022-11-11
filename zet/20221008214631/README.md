@@ -20,7 +20,7 @@ gep
 # Related
 
 - [20221003150072](/zet/20221003150072/README.md) Set spacevim record key back to [Q]
-- [20221003150071](/zet/20221003150071/README.md) vim edit multiple files
+- [20221003150071](/zet/20221003150071/README.md) vim edit multiple files while running
 - [20221003150175](/zet/20221003150175/README.md) unix editor ex / ed example commands
 - [20221014142356](/zet/20221014142356/README.md) concept of a neat trick or solution
 - [20221013222124](/zet/20221013222124/README.md) concept hub for tricks and tips

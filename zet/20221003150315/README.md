@@ -7,7 +7,7 @@ the `--reload` flag for uvicorn means python files can be updated and the server
 # Related
 
 - [20221008221548](/zet/20221008221548/README.md) website
-- [20221003151363](/zet/20221003151363/README.md) python scripting
+- [20221003151363](/zet/20221003151363/README.md) python scripts hub
 - [20221003150946](/zet/20221003150946/README.md) python hub
 - [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference
 - [20221003150104](/zet/20221003150104/README.md) python scripting http

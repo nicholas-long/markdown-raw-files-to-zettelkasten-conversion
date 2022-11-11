@@ -4,7 +4,7 @@
 - [20221003150067](/zet/20221003150067/README.md) vim
 - [20221003150068](/zet/20221003150068/README.md) vim edit multiple files find and edit files recursively open in tabs
 - [20221003150069](/zet/20221003150069/README.md) vim edit multiple files open multiple files
-- [20221003150071](/zet/20221003150071/README.md) vim edit multiple files
+- [20221003150071](/zet/20221003150071/README.md) vim edit multiple files while running
 - [20221003150072](/zet/20221003150072/README.md) Set spacevim record key back to [Q]
 - [20221003150073](/zet/20221003150073/README.md) Run vim as a script on datafile, write to file `output`
 - [20221006033248](/zet/20221006033248/README.md) rwxrob

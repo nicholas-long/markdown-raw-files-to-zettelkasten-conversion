@@ -56,7 +56,7 @@ hacking notes hub
 - [20221003151261](/zet/20221003151261/README.md) build windows exploit on linux using mingw
 - [20221003151216](/zet/20221003151216/README.md) caddy stand up https server with a valid certificate
 - [20221003151020](/zet/20221003151020/README.md) SSTI polyglot payload
-- [20221003151363](/zet/20221003151363/README.md) python scripting
+- [20221003151363](/zet/20221003151363/README.md) python scripts hub
 - [20221003151241](/zet/20221003151241/README.md) ping whole subnet of IPs in a loop to fingerprint OS versions
 - [20221018183943](/zet/20221018183943/README.md) shellcheck
 - [20221018155432](/zet/20221018155432/README.md) cyberpunk library

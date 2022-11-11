@@ -1,5 +1,5 @@
 - [20221003150074](/zet/20221003150074/README.md) tmux copy to buffer from bash pipes
-- [20221003150075](/zet/20221003150075/README.md) tmux tricks
+- [20221003150075](/zet/20221003150075/README.md) tmux tricks hub
 - [20221003150076](/zet/20221003150076/README.md) tmux swap panes
 - [20221003150077](/zet/20221003150077/README.md) tmux get current pane working directory
 - [20221003150078](/zet/20221003150078/README.md) tmux get current pane

@@ -31,7 +31,7 @@
 - [20221014190216](/zet/20221014190216/README.md) kb file named kb/tmux/get-data-info.md
 - ~/kb/tmux/get-data-info.md
 - [20221024082446](/zet/20221024082446/README.md) tmux join-pane move window back into pane
-- [20221003150075](/zet/20221003150075/README.md) tmux tricks
+- [20221003150075](/zet/20221003150075/README.md) tmux tricks hub
 
 Tags:
 

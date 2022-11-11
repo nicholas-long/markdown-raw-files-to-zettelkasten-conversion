@@ -1,0 +1,1 @@
+- [20221003150069](/zet/20221003150069/README.md) vim edit multiple files open multiple files

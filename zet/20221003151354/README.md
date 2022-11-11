@@ -71,7 +71,7 @@ print(ntlm)
 
 - [20221003151342](/zet/20221003151342/README.md) convert decimal to hex GMSA managed password
 - [20221014190229](/zet/20221014190229/README.md) kb file named kb/auto-python.md
-- [20221003151363](/zet/20221003151363/README.md) python scripting
+- [20221003151363](/zet/20221003151363/README.md) python scripts hub
 - ~/kb/auto-python.md
 
 Tags:
