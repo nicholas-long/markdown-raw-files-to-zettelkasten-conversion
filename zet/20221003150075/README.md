@@ -1,4 +1,4 @@
-# tmux tricks
+# tmux tricks hub
 
 - [20221024082446](/zet/20221024082446/README.md) join window back into pane
 - [20221003150076](/zet/20221003150076/README.md) swap panes
@@ -27,4 +27,4 @@
 
 Tags:
 
-    #tmux
+    #tmux #trick #hub

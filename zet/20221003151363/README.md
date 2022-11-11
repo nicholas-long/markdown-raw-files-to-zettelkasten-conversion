@@ -1,4 +1,4 @@
-# python scripting
+# python scripts hub
 
 ` zet/20221003151363/README.md `
 
@@ -33,4 +33,4 @@
 
 Tags:
 
-    #python #script 
+    #python #script #hub
