@@ -24,3 +24,4 @@
 - [20221030010849](/zet/20221030010849/README.md) fix line lengths
 - [20221030082715](/zet/20221030082715/README.md) findings from converting markdown info to zet
 - [20221031173606](/zet/20221031173606/README.md) zkvr: shippin it
+- [20221111225634](/zet/20221111225634/README.md) fix empty cards with only links

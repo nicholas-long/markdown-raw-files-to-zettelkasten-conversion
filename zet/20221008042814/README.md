@@ -93,6 +93,7 @@ stuff i am working on.
 - [20221031173606](/zet/20221031173606/README.md) zkvr: shippin it
 - [20221031192031](/zet/20221031192031/README.md) all cards required for implementation
 - [20221109214235](/zet/20221109214235/README.md) cleanup duplicate hubs
+- [20221111225634](/zet/20221111225634/README.md) fix empty cards with only links
 
 Tags:
 

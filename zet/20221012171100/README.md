@@ -12,6 +12,7 @@ zet/20221012171100/README.md
 
 - [20221012144502](/zet/20221012144502/README.md) track modification dates
 - [20221109214235](/zet/20221109214235/README.md) cleanup duplicate hubs
+- [20221111225634](/zet/20221111225634/README.md) fix empty cards with only links
 
 Tags:
 

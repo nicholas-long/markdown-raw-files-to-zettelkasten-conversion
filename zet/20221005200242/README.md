@@ -18,7 +18,7 @@ this is a list of possibly empty zettels.
 7	- [20221006013612](/zet/20221006013612/README.md) markdown to zettelkasten conversion project #zettelkasten #project 
 4	- [20221007062330](/zet/20221007062330/README.md) broken stuff to fix #todo #broken #error 
 4	- [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process #broken
-2288	- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries #idea
+91	- [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries #idea
 
 ```
 
@@ -45,6 +45,7 @@ this is a list of possibly empty zettels.
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 - [20221030082715](/zet/20221030082715/README.md) findings from converting markdown info to zet
+- [20221111225634](/zet/20221111225634/README.md) fix empty cards with only links
 
 Tags:
 
