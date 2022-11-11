@@ -1,7 +1,13 @@
-# vim edit multiple files
+# vim edit multiple files while running
 
-- [20221003150069](/zet/20221003150069/README.md) open multiple files
-- [20221003150068](/zet/20221003150068/README.md) find and edit files recursively open in tabs
+- open files while running add args while running and convert into tabs
+```vim
+args *.sh
+tab all
+```
+- run `:tab all` to put the files in tabs
+- how to launch vim as a command with multiple tabs
+  - [20221003150068](/zet/20221003150068/README.md) find and edit files recursively open in tabs
 
 ` zet/20221003150071/README.md `
 

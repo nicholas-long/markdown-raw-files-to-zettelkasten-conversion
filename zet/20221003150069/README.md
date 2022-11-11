@@ -18,4 +18,4 @@ tab all
 
 Tags:
 
-    #vim #edit 
+    #vim #edit #DEL
