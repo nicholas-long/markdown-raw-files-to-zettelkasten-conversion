@@ -1,5 +1,8 @@
 # bash tricks
 
+- synchronizing directories and copying files over SSH - rsync
+- cloud utility: rclone
+
 ` zet/20221003151299/README.md `
 
 # Related
