@@ -1,6 +1,6 @@
 # python library
 
-- concept of `python library`
+- parser generator ( memoizing packrat PEG ) https://github.com/swayf/grako
 
 ```
 ```
