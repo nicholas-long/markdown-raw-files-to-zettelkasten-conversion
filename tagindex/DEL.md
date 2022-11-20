@@ -2,3 +2,5 @@
 - [20221003150111](/zet/20221003150111/README.md) socat listen fork print to stdout
 - [20221003150113](/zet/20221003150113/README.md) socat execute program
 - [20221003150114](/zet/20221003150114/README.md) socat port forwarding with socat
+- [20221003150163](/zet/20221003150163/README.md) linux job control send background process to foreground
+- [20221003150164](/zet/20221003150164/README.md) linux job control background running process
