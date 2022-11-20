@@ -1,1 +1,4 @@
 - [20221003150069](/zet/20221003150069/README.md) vim edit multiple files open multiple files
+- [20221003150111](/zet/20221003150111/README.md) socat listen fork print to stdout
+- [20221003150113](/zet/20221003150113/README.md) socat execute program
+- [20221003150114](/zet/20221003150114/README.md) socat port forwarding with socat

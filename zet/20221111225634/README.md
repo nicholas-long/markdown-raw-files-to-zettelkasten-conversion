@@ -5,7 +5,6 @@
 ```
 - [20221003150104](/zet/20221003150104/README.md) python scripting http #python #coding #http
 - [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference #python #coding 
-- [20221003150115](/zet/20221003150115/README.md) socat #networking #port 
 - [20221003150125](/zet/20221003150125/README.md) routing using a linux box enable ip forwarding #linux #routing 
 - [20221003150126](/zet/20221003150126/README.md) routing using a linux box #linux #routing 
 - [20221003150134](/zet/20221003150134/README.md) DNS commands #linux #assorted #command
@@ -107,7 +106,6 @@
 - [20221025005842](/zet/20221025005842/README.md) fix some empty zettels using graph queries
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221005200242](/zet/20221005200242/README.md) empty zettels to fix
-- [20221012171100](/zet/20221012171100/README.md) recently created nodes hub
 - [20221021081636](/zet/20221021081636/README.md) template example card to run command output in snippet
 
 Tags:
