@@ -1,8 +1,19 @@
 # socat
 
-- [20221003150114](/zet/20221003150114/README.md) port forwarding with socat
-- [20221003150113](/zet/20221003150113/README.md) execute program
-- [20221003150111](/zet/20221003150111/README.md) listen fork print to stdout
+- Forward port 80 to 445
+```bash
+socat TCP-LISTEN:80,fork TCP:127.0.0.1:445
+```
+
+- execute program with bind shell example
+```bash
+socat TCP4-LISTEN:8081,fork exec:/bin/sh
+```
+
+- listen, fork, and print to stdout
+```bash
+socat TCP-LISTEN:1234,fork stdout
+```
 
 ` zet/20221003150115/README.md `
 
@@ -17,4 +28,4 @@
 
 Tags:
 
-    #networking #port 
+    #networking #port #program #util #pivot

@@ -1,4 +1,5 @@
 # socat listen fork print to stdout
+
 ```bash
 socat TCP-LISTEN:1234,fork stdout
 ```
@@ -13,4 +14,4 @@ socat TCP-LISTEN:1234,fork stdout
 
 Tags:
 
-    #networking #port 
+    #DEL #networking #port 
