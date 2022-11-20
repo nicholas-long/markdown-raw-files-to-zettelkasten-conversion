@@ -1,7 +1,14 @@
 # linux job control
 
-- [20221003150164](/zet/20221003150164/README.md) background running process
-- [20221003150163](/zet/20221003150163/README.md) send background process to foreground
+- background running process
+  - Ctrl-Z to suspend the process
+  - `bg` to resume the process in the background
+
+- send specific background process to foreground
+  - use percent sign and job number from the `jobs` command.
+  ```bash
+  fg %1
+  ```
 
 ` zet/20221003150165/README.md `
 

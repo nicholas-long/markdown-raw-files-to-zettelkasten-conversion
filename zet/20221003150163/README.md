@@ -1,4 +1,5 @@
 # linux job control send background process to foreground
+
 use percent sign and job number from the `jobs` command.
 ```bash
 fg %1
@@ -14,4 +15,4 @@ fg %1
 
 Tags:
 
-    #linux #job 
+    #DEL #linux #job 
