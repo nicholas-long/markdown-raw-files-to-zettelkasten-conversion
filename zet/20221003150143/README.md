@@ -1,6 +1,9 @@
 # proxmox vm host operating system
 
-- [20221003150142](/zet/20221003150142/README.md) proxmox server layout
+- ssh with root password authentication by default
+- layout
+  - pveproxy is a perl script run as www-data
+    - spawns worker processes
 
 ` zet/20221003150143/README.md `
 

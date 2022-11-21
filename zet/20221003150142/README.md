@@ -1,4 +1,5 @@
 # proxmox server layout
+
 - pveproxy is a perl script run as www-data
   - spawns worker processes
 - ssh with root password authentication by default
@@ -14,4 +15,4 @@
 
 Tags:
 
-    #linux #proxmox 
+    #linux #proxmox #DEL
