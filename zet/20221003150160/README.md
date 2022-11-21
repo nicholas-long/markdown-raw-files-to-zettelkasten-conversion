@@ -16,4 +16,4 @@ git config --global pull.rebase true
 
 Tags:
 
-    #linux #git 
+    #DEL #linux #git 

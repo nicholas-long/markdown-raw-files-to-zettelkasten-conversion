@@ -1,7 +1,14 @@
 # git config settings
 
-- [20221003150161](/zet/20221003150161/README.md) set up credential storage
-- [20221003150160](/zet/20221003150160/README.md) make merges smoother
+- make merges smoother
+```bash
+git config --global pull.rebase true
+```
+
+- set up credential storage
+```bash
+git config --global credential.helper store
+```
 
 ` zet/20221003150162/README.md `
 
