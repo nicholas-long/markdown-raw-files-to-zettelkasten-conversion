@@ -1,4 +1,5 @@
 # upgrade when apt is causing problems force fix apt dpkg upgrade
+
 ```bash
 sudo apt-get dselect-upgrade
 ```
@@ -13,4 +14,4 @@ sudo apt-get dselect-upgrade
 
 Tags:
 
-    #linux #force 
+    #DEL #linux #force 
