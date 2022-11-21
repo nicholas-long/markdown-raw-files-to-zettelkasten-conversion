@@ -9,7 +9,6 @@
 - [20221003150126](/zet/20221003150126/README.md) routing using a linux box #linux #routing 
 - [20221003150134](/zet/20221003150134/README.md) DNS commands #linux #assorted #command
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands #command #linux #os 
-- [20221003150162](/zet/20221003150162/README.md) git config settings #linux #git 
 - [20221003150168](/zet/20221003150168/README.md) dump process memory on linux #linux #dump 
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities #linux #capabilities #info
 - [20221003150182](/zet/20221003150182/README.md) install alacritty  #linux #install 
