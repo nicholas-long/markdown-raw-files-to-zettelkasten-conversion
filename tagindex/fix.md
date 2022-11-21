@@ -1,5 +1,6 @@
 - [20221003150080](/zet/20221003150080/README.md) ctrl H does not work as a hotkey in qterminal by default 
 - [20221003150118](/zet/20221003150118/README.md) get numpad to work in ssh over putty
+- [20221003150159](/zet/20221003150159/README.md) upgrade when apt is causing problems
 - [20221003150202](/zet/20221003150202/README.md) fix grub not showing windows partition
 - [20221003150219](/zet/20221003150219/README.md) MSI motherboard error codes
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john

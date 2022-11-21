@@ -3,5 +3,7 @@
 - [20221003150113](/zet/20221003150113/README.md) socat execute program
 - [20221003150114](/zet/20221003150114/README.md) socat port forwarding with socat
 - [20221003150142](/zet/20221003150142/README.md) proxmox server layout
+- [20221003150157](/zet/20221003150157/README.md) upgrade when apt is causing problems fix error "the following signatures couldn’t be verified because the public key is not available"
+- [20221003150158](/zet/20221003150158/README.md) upgrade when apt is causing problems force fix apt dpkg upgrade
 - [20221003150163](/zet/20221003150163/README.md) linux job control send background process to foreground
 - [20221003150164](/zet/20221003150164/README.md) linux job control background running process

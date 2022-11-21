@@ -5,7 +5,6 @@
 ```
 144 zet/20221003151131/README.md active directory  GMSA group managed service account remote LDAP read GMSA passwords python script fix missing ConvertFrom-AdManagedPasswordBlob
 138 zet/20221003150867/README.md john the ripper find all file formats supported with a 2john script or tojohn use sed to process / execute multiple expressions statements
-134 zet/20221003150157/README.md upgrade when apt is causing problems fix error "the following signatures couldn’t be verified because the public key is not available"
 133 zet/20221003150484/README.md active directory get GMSA service account properties get GMSA password and run commands fix missing ConvertFrom-AdManagedPasswordBlob
 132 zet/20221003151009/README.md LFI or directory traversal procedures read scripts from web server process cwd downloading with curl  prevent normalization of paths
 132 zet/20221003150359/README.md windows run commands as other user with credentials switch users on windows host with RunasCs with no WinRM remote management access

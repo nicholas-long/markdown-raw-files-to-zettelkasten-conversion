@@ -11,6 +11,7 @@
 - [20221003150139](/zet/20221003150139/README.md) apt package column
 - [20221003150155](/zet/20221003150155/README.md) linux assorted commands find disk mounting for root file system
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands
+- [20221003150159](/zet/20221003150159/README.md) upgrade when apt is causing problems
 - [20221003150175](/zet/20221003150175/README.md) unix editor ex / ed example commands
 - [20221003150184](/zet/20221003150184/README.md) add user to group
 - [20221003150192](/zet/20221003150192/README.md) convert package type with alien to deb rpm slp lsb tgz

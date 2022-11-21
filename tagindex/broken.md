@@ -1,3 +1,4 @@
+- [20221003150159](/zet/20221003150159/README.md) upgrade when apt is causing problems
 - [20221007062330](/zet/20221007062330/README.md) broken stuff to fix
 - [20221013035124](/zet/20221013035124/README.md) problems with markdown conversion process
 - [20221030022644](/zet/20221030022644/README.md) collector fallacy in my note-taking
