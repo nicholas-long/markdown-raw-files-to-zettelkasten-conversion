@@ -4,7 +4,7 @@
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
 - [20221003150129](/zet/20221003150129/README.md) tldr command
 - [20221003150132](/zet/20221003150132/README.md) find file with name matching regular expression
-- [20221003150134](/zet/20221003150134/README.md) DNS commands
+- [20221003150134](/zet/20221003150134/README.md) DNS commands and lookup hub
 - [20221003150135](/zet/20221003150135/README.md) enable horizontal scroll in less
 - [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive
 - [20221003150138](/zet/20221003150138/README.md) apt package nc ncat netcat

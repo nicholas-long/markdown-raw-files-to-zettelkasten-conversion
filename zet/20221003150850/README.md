@@ -17,7 +17,7 @@ quit
 
 - [20221014185831](/zet/20221014185831/README.md) kb file named kb/hacking/commands/dns-commands.md
 - ~/kb/hacking/commands/dns-commands.md
-- [20221003150134](/zet/20221003150134/README.md) DNS commands
+- [20221003150134](/zet/20221003150134/README.md) DNS commands and lookup hub
 
 Tags:
 

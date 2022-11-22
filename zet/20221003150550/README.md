@@ -17,7 +17,7 @@ subfinder -d "$URL"
 - [20221003151129](/zet/20221003151129/README.md) active directory  DNS
 - [20221003150847](/zet/20221003150847/README.md) gobuster
 - [20221003150840](/zet/20221003150840/README.md) gobuster vhost enumeration
-- [20221003150134](/zet/20221003150134/README.md) DNS commands
+- [20221003150134](/zet/20221003150134/README.md) DNS commands and lookup hub
 
 Tags:
 

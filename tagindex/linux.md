@@ -12,7 +12,7 @@
 - [20221003150130](/zet/20221003150130/README.md) java download links jdk
 - [20221003150131](/zet/20221003150131/README.md) java download links
 - [20221003150133](/zet/20221003150133/README.md) DNS add nameserver to resolv.conf
-- [20221003150134](/zet/20221003150134/README.md) DNS commands
+- [20221003150134](/zet/20221003150134/README.md) DNS commands and lookup hub
 - [20221003150137](/zet/20221003150137/README.md) installing virtualbox
 - [20221003150138](/zet/20221003150138/README.md) apt package nc ncat netcat
 - [20221003150139](/zet/20221003150139/README.md) apt package column

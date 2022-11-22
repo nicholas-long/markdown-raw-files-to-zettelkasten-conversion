@@ -1,3 +1,4 @@
+- [20221003150134](/zet/20221003150134/README.md) DNS commands and lookup hub
 - [20221003150850](/zet/20221003150850/README.md) dns commands update / change / delete DNS records for subdomain
 - [20221003150852](/zet/20221003150852/README.md) dns commands enumerate with ANY query
 - [20221003150853](/zet/20221003150853/README.md) dns commands zone transfer axfr
