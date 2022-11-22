@@ -1,9 +1,17 @@
 # default webroots
 
-- [20221003150283](/zet/20221003150283/README.md) default webroots debian system
-- [20221003150282](/zet/20221003150282/README.md) default webroots apache
-- [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems
-- [20221003150287](/zet/20221003150287/README.md) default webroots xampp
+- apache `/var/www/html`
+- default webroots on debian systems - apache is default httpd implementation
+- BSD systems
+  - FreeBSD
+    - user folders in `/home/user/public-html` will appear on server at location `/~user/`
+    ```
+    /usr/local/www/data
+    /usr/local/www/apache22/data
+    ```
+  - OpenBSD - httpd server is chrooted to `/var/www/`, so document root must be in that directory or deeper.
+- webroots on windows
+  - xampp `C:/xampp/htdocs`
 
 ` zet/20221003150289/README.md `
 
@@ -11,6 +19,8 @@
 
 - [20221003150287](/zet/20221003150287/README.md) default webroots xampp
 - [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems
+- [20221003150285](/zet/20221003150285/README.md) default webroots BSD systems OpenBSD httpd
+- [20221003150284](/zet/20221003150284/README.md) default webroots BSD systems FreeBSD
 - [20221003150283](/zet/20221003150283/README.md) default webroots debian system
 - [20221003150282](/zet/20221003150282/README.md) default webroots apache
 - [20221014190057](/zet/20221014190057/README.md) kb file named kb/hacking/misc/web-server-default-webroots.md
