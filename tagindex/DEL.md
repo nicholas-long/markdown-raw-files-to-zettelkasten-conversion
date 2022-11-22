@@ -17,3 +17,8 @@
 - [20221003150214](/zet/20221003150214/README.md) kafkacat install alias for kcat
 - [20221003150223](/zet/20221003150223/README.md) bettercap settings
 - [20221003150224](/zet/20221003150224/README.md) bettercap start commnad
+- [20221003150282](/zet/20221003150282/README.md) default webroots apache
+- [20221003150283](/zet/20221003150283/README.md) default webroots debian system
+- [20221003150284](/zet/20221003150284/README.md) default webroots BSD systems FreeBSD
+- [20221003150285](/zet/20221003150285/README.md) default webroots BSD systems OpenBSD httpd
+- [20221003150287](/zet/20221003150287/README.md) default webroots xampp

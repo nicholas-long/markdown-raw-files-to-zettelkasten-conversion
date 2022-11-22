@@ -25,7 +25,6 @@
 - [20221003150274](/zet/20221003150274/README.md) web server file executable extensions #hacking #web 
 - [20221003150279](/zet/20221003150279/README.md) pfx extension PKCS#12 format certificate cracking #hacking #file 
 - [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems #hacking #web #file #path #bsd
-- [20221003150289](/zet/20221003150289/README.md) default webroots #hacking #web #filepath
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails #hacking #assorted #go
 - [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module #hacking #assorted 
 - [20221003150310](/zet/20221003150310/README.md) burpsuite #hacking #tool
