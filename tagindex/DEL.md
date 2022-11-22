@@ -15,3 +15,5 @@
 - [20221003150212](/zet/20221003150212/README.md) kafkacat install quick and dirty shell script using docker
 - [20221003150213](/zet/20221003150213/README.md) kafkacat install APT
 - [20221003150214](/zet/20221003150214/README.md) kafkacat install alias for kcat
+- [20221003150223](/zet/20221003150223/README.md) bettercap settings
+- [20221003150224](/zet/20221003150224/README.md) bettercap start commnad
