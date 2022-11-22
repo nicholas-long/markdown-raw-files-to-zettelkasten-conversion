@@ -15,4 +15,4 @@ sudo apt install kafkacat
 
 Tags:
 
-    #kafka #quick 
+    #DEL #kafka #quick 

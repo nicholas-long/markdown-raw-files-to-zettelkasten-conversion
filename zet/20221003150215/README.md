@@ -1,8 +1,23 @@
 # kafkacat install
 
-- [20221003150214](/zet/20221003150214/README.md) alias for kcat
-- [20221003150213](/zet/20221003150213/README.md) APT
-- [20221003150212](/zet/20221003150212/README.md) quick and dirty shell script using docker
+- from APT
+```bash
+sudo apt install kafkacat
+```
+
+- install docker alias for kcat
+Use `-it` for interactive tty, or `-i` to pipe stuff.
+If it complains about kafka's hostname, then you can use `--add-host kafka:127.0.0.1`
+```bash
+docker run --network host --rm -it edenhill/kcat:1.7.0 -b kafka:9092
+alias kcat="docker run --network host --rm -i edenhill/kcat:1.7.0 -b kafka:9092"
+```
+
+- quick and dirty shell script using docker
+```bash
+#!/bin/bash
+docker run --network host --rm -i edenhill/kcat:1.7.0 -b kafka:9092 $@
+```
 
 ` zet/20221003150215/README.md `
 

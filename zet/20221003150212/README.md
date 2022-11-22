@@ -15,4 +15,4 @@ docker run --network host --rm -i edenhill/kcat:1.7.0 -b kafka:9092 $@
 
 Tags:
 
-    #kafka #quick 
+    #DEL #kafka #quick 
