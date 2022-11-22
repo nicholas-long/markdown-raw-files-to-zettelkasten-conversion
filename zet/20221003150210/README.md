@@ -32,6 +32,7 @@ kafkacat -b kafka -C -t wifi-data-raw -e -o "s@$d"
 - [20221010074318](/zet/20221010074318/README.md) engineer the workflow, not the product
 - ~/kb/kafka/kafkacat.md
 - [20221006034046](/zet/20221006034046/README.md) kafka and zettelkasten graph docs
+- [20221003150215](/zet/20221003150215/README.md) kafkacat install
 
 Tags:
 

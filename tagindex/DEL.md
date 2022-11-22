@@ -9,3 +9,8 @@
 - [20221003150161](/zet/20221003150161/README.md) git config settings set up credential storage
 - [20221003150163](/zet/20221003150163/README.md) linux job control send background process to foreground
 - [20221003150164](/zet/20221003150164/README.md) linux job control background running process
+- [20221003150209](/zet/20221003150209/README.md) kafkacat add data to topic
+- [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset
+- [20221003150212](/zet/20221003150212/README.md) kafkacat install quick and dirty shell script using docker
+- [20221003150213](/zet/20221003150213/README.md) kafkacat install APT
+- [20221003150214](/zet/20221003150214/README.md) kafkacat install alias for kcat

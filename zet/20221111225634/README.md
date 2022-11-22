@@ -15,8 +15,6 @@
 - [20221003150187](/zet/20221003150187/README.md) linux free up space #linux #free 
 - [20221003150193](/zet/20221003150193/README.md) concept of converting files #command #linux #package 
 - [20221003150197](/zet/20221003150197/README.md) iptables rules #linux #iptables 
-- [20221003150210](/zet/20221003150210/README.md) kafkacat #kafka #command #bash #scripting
-- [20221003150215](/zet/20221003150215/README.md) kafkacat install #kafka #quick 
 - [20221003150225](/zet/20221003150225/README.md) bettercap #hacking #networking #lan
 - [20221003150227](/zet/20221003150227/README.md) grep patterns #hacking #grep 
 - [20221003150231](/zet/20221003150231/README.md) apk analysis #hacking #apk #analysis
