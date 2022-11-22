@@ -30,6 +30,7 @@ docker run --network host --rm -i edenhill/kcat:1.7.0 -b kafka:9092 $@
 - [20221003150213](/zet/20221003150213/README.md) kafkacat install APT
 - [20221003150212](/zet/20221003150212/README.md) kafkacat install quick and dirty shell script using docker
 - ~/kb/kafka/quick-and-dirty-kafkacat.md
+- [20221003150210](/zet/20221003150210/README.md) kafkacat
 
 Tags:
 
