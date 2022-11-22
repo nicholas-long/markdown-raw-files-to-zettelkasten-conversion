@@ -1,4 +1,5 @@
 # kafkacat add data to topic
+
 The option `-u` makes it unbuffered.
 If you do not do this, then it could keep data in a buffer indefinitely.
 ```bash
@@ -16,4 +17,4 @@ cat datafile | kafkacat -b $KAFKA -P -u -t topic_name
 
 Tags:
 
-    #kafka #command #bash
+    #DEL #kafka #command #bash

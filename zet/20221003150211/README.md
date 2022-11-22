@@ -1,4 +1,5 @@
 # kafkacat get previous data in topic from epoch timestamp offset
+
 kafkacat wants timestamps in ms, convert in bash.
 ```bash
 d=$(date '+%s')
@@ -21,4 +22,4 @@ kafkacat -b kafka -C -t wifi-data-raw -e -o "s@$d"
 
 Tags:
 
-    #bash #kafka #command #date
+    #DEL #bash #kafka #command #date

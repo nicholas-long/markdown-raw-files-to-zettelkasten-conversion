@@ -1,7 +1,19 @@
 # kafkacat
 
-- [20221003150209](/zet/20221003150209/README.md) add data to topic
-- [20221003150211](/zet/20221003150211/README.md) get previous data in topic from epoch timestamp offset
+- add data to topic
+  - The option `-u` makes it unbuffered. If you do not do this, then it could keep data in a buffer indefinitely.
+```bash
+cat datafile | kafkacat -b $KAFKA -P -u -t topic_name
+```
+
+- get previous data in topic from epoch timestamp offset
+  - kafkacat wants timestamps in ms, convert in bash.
+```bash
+d=$(date '+%s')
+d=$(( d - 120 )) # 2 minutes ago
+d=$(( d * 1000 )) # convert to ms
+kafkacat -b kafka -C -t wifi-data-raw -e -o "s@$d"
+```
 
 ` zet/20221003150210/README.md `
 
