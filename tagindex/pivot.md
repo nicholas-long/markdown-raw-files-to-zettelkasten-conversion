@@ -1,4 +1,5 @@
 - [20221003150115](/zet/20221003150115/README.md) socat
+- [20221003150126](/zet/20221003150126/README.md) routing using a linux box
 - [20221003150601](/zet/20221003150601/README.md) tunneling Forward specific port through chisel
 - [20221003150602](/zet/20221003150602/README.md) tunneling through chisel - socks Target
 - [20221003150603](/zet/20221003150603/README.md) tunneling through chisel - socks Attacker

@@ -1,3 +1,6 @@
+- [20221003150120](/zet/20221003150120/README.md) routing using a linux box iptables rules
+- [20221003150121](/zet/20221003150121/README.md) routing using a linux box add router to routes on hosts windows
+- [20221003150126](/zet/20221003150126/README.md) routing using a linux box
 - [20221003150223](/zet/20221003150223/README.md) bettercap settings
 - [20221003150224](/zet/20221003150224/README.md) bettercap start commnad
 - [20221003150225](/zet/20221003150225/README.md) bettercap

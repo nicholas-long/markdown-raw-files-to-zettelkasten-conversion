@@ -1,3 +1,4 @@
+- [20221003150120](/zet/20221003150120/README.md) routing using a linux box iptables rules
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities
 - [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange
 - [20221003150252](/zet/20221003150252/README.md) httponly cookie option

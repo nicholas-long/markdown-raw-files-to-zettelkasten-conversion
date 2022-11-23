@@ -9,6 +9,9 @@
 - [20221003150114](/zet/20221003150114/README.md) socat port forwarding with socat
 - [20221003150115](/zet/20221003150115/README.md) socat
 - [20221003150116](/zet/20221003150116/README.md) socat over proxy
+- [20221003150120](/zet/20221003150120/README.md) routing using a linux box iptables rules
+- [20221003150121](/zet/20221003150121/README.md) routing using a linux box add router to routes on hosts windows
+- [20221003150126](/zet/20221003150126/README.md) routing using a linux box
 - [20221003150138](/zet/20221003150138/README.md) apt package nc ncat netcat
 - [20221003150223](/zet/20221003150223/README.md) bettercap settings
 - [20221003150224](/zet/20221003150224/README.md) bettercap start commnad

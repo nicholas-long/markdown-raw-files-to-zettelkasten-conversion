@@ -71,7 +71,6 @@
 83 zet/20221003151405/README.md bash scripting shortcut to start tmux session in a working directory with alacritty
 83 zet/20221003151303/README.md bash scripting set operations comm find lines unique to one file and not in another
 83 zet/20221003150146/README.md cyberpunk retro machine project Tandy TRS-80 Model 100 terminal hacks char mappings
-83 zet/20221003150119/README.md routing using a linux box iptables rules forward all traffic between two interfaces
 82 zet/20221014185906/README.md kb file named kb/hacking/commands/cracking-encrypted-files-with-john-the-ripper.md
 82 zet/20221003150960/README.md OSINT physical location OSINT identifying geographic locations from pictures OSINT
 81 zet/20221003151432/README.md awk scripting filter the CVE list for potentially valid, relevant vulnerabilities
