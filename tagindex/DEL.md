@@ -2,6 +2,7 @@
 - [20221003150111](/zet/20221003150111/README.md) socat listen fork print to stdout
 - [20221003150113](/zet/20221003150113/README.md) socat execute program
 - [20221003150114](/zet/20221003150114/README.md) socat port forwarding with socat
+- [20221003150125](/zet/20221003150125/README.md) routing using a linux box enable ip forwarding
 - [20221003150133](/zet/20221003150133/README.md) DNS add nameserver to resolv.conf
 - [20221003150142](/zet/20221003150142/README.md) proxmox server layout
 - [20221003150157](/zet/20221003150157/README.md) upgrade when apt is causing problems fix error "the following signatures couldn’t be verified because the public key is not available"
