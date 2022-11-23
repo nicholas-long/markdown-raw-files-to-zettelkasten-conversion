@@ -5,7 +5,7 @@
 - currently enabled uses of graph query in enrich steps
 ```
 181 zet/20221009192000/snippet ./graphquery --human $mainreadme not <( ./graphquery @meta ) not <( ./graphquery id $CARD_ID : ) # all ids on the main page that are not tagged #meta and not referenced in this card
-159 zet/20221111225634/snippet ./graphquery --human <(zet/20221025005842/linecounts $(find zet -name README.md) | awk '$1 == 0 {split($2,arr,"/"); print arr[2]} ') not <( ./graphquery @hub )
+172 zet/20221111225634/snippet ./graphquery --human <(zet/20221025005842/linecounts $(find zet -name README.md) | awk '$1 == 0 {split($2,arr,"/"); print arr[2]} ') not <( ./graphquery taglist 'hub,DEL' )
 129 zet/20221026181955/snippet   not <( ./graphquery taglist 'to-try-list,hub,concept,skill,tip,trick,exploit,command,tool,cert,info,program,privesc,analysis' )
 124 zet/20221017173622/snippet   not <( ./graphquery taglist 'meta,command,hub,kb_import,tip,trick,tool,repo,install,syntax,util,script,streamer,finding' )
 117 zet/20221026135114/snippet ./graphquery --human <(find zet -name README.md | xargs implementation/scanrefs | awk '$1 == "duplicate" {print $2}')

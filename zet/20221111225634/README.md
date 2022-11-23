@@ -5,7 +5,6 @@
 ```
 - [20221003150104](/zet/20221003150104/README.md) python scripting http #python #coding #http
 - [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference #python #coding 
-- [20221003150125](/zet/20221003150125/README.md) routing using a linux box enable ip forwarding #linux #routing #DEL
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands #command #linux #os 
 - [20221003150168](/zet/20221003150168/README.md) dump process memory on linux #linux #dump 
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities #linux #capabilities #info
