@@ -1,5 +1,6 @@
 # routing using a linux box iptables rules
 
+- keep this card for details about example iptables rules
 - forward all traffic between two interfaces
 ```bash
 echo 1 > /proc/sys/net/ipv4/ip_forward
@@ -23,4 +24,4 @@ iptables -t nat -A POSTROUTING -s 192.168.1.0/24 -o tun0 -j MASQUERADE
 
 Tags:
 
-    #linux #routing 
+    #linux #routing #iptables #info #lan #networking
