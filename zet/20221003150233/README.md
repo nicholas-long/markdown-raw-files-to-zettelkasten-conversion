@@ -16,4 +16,4 @@ apktool d file.apk
 
 Tags:
 
-    #command #hacking #extract 
+    #DEL #command #hacking #extract 
