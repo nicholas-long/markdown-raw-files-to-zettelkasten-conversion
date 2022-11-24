@@ -17,6 +17,7 @@ grep -Eo '\w+' $FILE | awk '!(seen[$0]++)'
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
 - ~/kb/hacking/commands/generate-cewl-wordlist.md
 - [20221003150796](/zet/20221003150796/README.md) generate cewl wordlist
+- [20221003150227](/zet/20221003150227/README.md) example grep patterns
 
 Tags:
 

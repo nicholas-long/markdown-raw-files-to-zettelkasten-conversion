@@ -1,3 +1,4 @@
+- [20221003150227](/zet/20221003150227/README.md) example grep patterns
 - [20221003151377](/zet/20221003151377/README.md) bash scripting find the largest N files
 - [20221003151389](/zet/20221003151389/README.md) bash scripting copy and read text from PNG image URL arg print with tesseract OCR
 - [20221003151404](/zet/20221003151404/README.md) bash scripting decorate XML with colors for tags, attributes, and content

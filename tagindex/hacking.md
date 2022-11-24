@@ -5,7 +5,7 @@
 - [20221003150224](/zet/20221003150224/README.md) bettercap start commnad
 - [20221003150225](/zet/20221003150225/README.md) bettercap
 - [20221003150226](/zet/20221003150226/README.md) grep patterns searching for IPs
-- [20221003150227](/zet/20221003150227/README.md) grep patterns
+- [20221003150227](/zet/20221003150227/README.md) example grep patterns
 - [20221003150228](/zet/20221003150228/README.md) apk analysis emulate a phone with genymotion and virtualbox configuring burpsuite on genymotion phone
 - [20221003150229](/zet/20221003150229/README.md) apk analysis emulate a phone with genymotion and virtualbox
 - [20221003150230](/zet/20221003150230/README.md) apk analysis decompile to bytecode and inspect objects

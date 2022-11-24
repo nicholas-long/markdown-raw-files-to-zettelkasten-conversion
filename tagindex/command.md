@@ -26,6 +26,7 @@
 - [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset
 - [20221003150218](/zet/20221003150218/README.md) Connecting to confluent
 - [20221003150224](/zet/20221003150224/README.md) bettercap start commnad
+- [20221003150227](/zet/20221003150227/README.md) example grep patterns
 - [20221003150232](/zet/20221003150232/README.md) extract command for file type apk rebuild apk
 - [20221003150233](/zet/20221003150233/README.md) extract command for file type apk
 - [20221003150234](/zet/20221003150234/README.md) extract command for file type asar

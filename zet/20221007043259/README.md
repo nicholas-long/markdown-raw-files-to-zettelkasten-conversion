@@ -165,7 +165,7 @@
 - [20221003151355](/zet/20221003151355/README.md) python scripting read and process and urlencode every input line
 - [20221003150990](/zet/20221003150990/README.md) GraphQL APIs example GraphQL queries from InsiderPHD video
 - [20221003150792](/zet/20221003150792/README.md) generate cewl wordlist from file plaintext with grep
-- [20221003150227](/zet/20221003150227/README.md) grep patterns
+- [20221003150227](/zet/20221003150227/README.md) example grep patterns
 - [20221006020303](/zet/20221006020303/README.md) zettelkasten note types
 - [20221006073459](/zet/20221006073459/README.md) assorted notes from videos rwxrob notes `Tue Oct 4`
 - [20221006204315](/zet/20221006204315/README.md) fastest way to take graph notes
