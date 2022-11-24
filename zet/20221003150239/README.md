@@ -24,6 +24,7 @@
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - ~/kb/hacking/analysis/extract-commands.md
+- [20221003150231](/zet/20221003150231/README.md) apk analysis
 
 Tags:
 

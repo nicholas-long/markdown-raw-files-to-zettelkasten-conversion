@@ -163,7 +163,7 @@
 20221003150229	zet/20221003150229/README.md	apk analysis emulate a phone with genymotion and virtualbox
 20221003150230	zet/20221003150230/README.md	apk analysis decompile to bytecode and inspect objects
 20221003150231	zet/20221003150231/README.md	apk analysis
-20221003150232	zet/20221003150232/README.md	extract command for file type apk rebuild apk
+20221003150232	zet/20221003150232/README.md	build or rebuild apk from files
 20221003150233	zet/20221003150233/README.md	extract command for file type apk
 20221003150234	zet/20221003150234/README.md	extract command for file type asar
 20221003150235	zet/20221003150235/README.md	extract command for file type xz

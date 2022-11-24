@@ -15,6 +15,7 @@
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - ~/kb/hacking/commands/quick-servers.md
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
+- [20221003150232](/zet/20221003150232/README.md) build or rebuild apk from files
 
 Tags:
 

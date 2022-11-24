@@ -29,7 +29,7 @@
 - [20221003151211](/zet/20221003151211/README.md) got leaked files jar
 - [20221003151213](/zet/20221003151213/README.md) got leaked files to try list
 - [20221003150239](/zet/20221003150239/README.md) extract command for file type
-- [20221003150232](/zet/20221003150232/README.md) extract command for file type apk rebuild apk
+- [20221003150232](/zet/20221003150232/README.md) build or rebuild apk from files
 
 Tags:
 

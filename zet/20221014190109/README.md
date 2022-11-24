@@ -17,7 +17,7 @@
 - [20221003150236](/zet/20221003150236/README.md) extract command for file type tar.xz
 - [20221003150234](/zet/20221003150234/README.md) extract command for file type asar
 - [20221003150237](/zet/20221003150237/README.md) extract command for file type tar.gz
-- [20221003150232](/zet/20221003150232/README.md) extract command for file type apk rebuild apk
+- [20221003150232](/zet/20221003150232/README.md) build or rebuild apk from files
 - [20221003150233](/zet/20221003150233/README.md) extract command for file type apk
 - [20221003150238](/zet/20221003150238/README.md) extract command for file type deb
 - [20221003150239](/zet/20221003150239/README.md) extract command for file type

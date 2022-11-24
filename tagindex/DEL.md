@@ -25,6 +25,9 @@
 - [20221003150223](/zet/20221003150223/README.md) bettercap settings
 - [20221003150224](/zet/20221003150224/README.md) bettercap start commnad
 - [20221003150226](/zet/20221003150226/README.md) grep patterns searching for IPs
+- [20221003150229](/zet/20221003150229/README.md) apk analysis emulate a phone with genymotion and virtualbox
+- [20221003150230](/zet/20221003150230/README.md) apk analysis decompile to bytecode and inspect objects
+- [20221003150233](/zet/20221003150233/README.md) extract command for file type apk
 - [20221003150282](/zet/20221003150282/README.md) default webroots apache
 - [20221003150283](/zet/20221003150283/README.md) default webroots debian system
 - [20221003150284](/zet/20221003150284/README.md) default webroots BSD systems FreeBSD

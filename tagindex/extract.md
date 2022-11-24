@@ -1,4 +1,4 @@
-- [20221003150232](/zet/20221003150232/README.md) extract command for file type apk rebuild apk
+- [20221003150232](/zet/20221003150232/README.md) build or rebuild apk from files
 - [20221003150233](/zet/20221003150233/README.md) extract command for file type apk
 - [20221003150234](/zet/20221003150234/README.md) extract command for file type asar
 - [20221003150235](/zet/20221003150235/README.md) extract command for file type xz
