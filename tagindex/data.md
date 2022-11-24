@@ -1,3 +1,4 @@
+- [20221003150168](/zet/20221003150168/README.md) dump process memory on linux
 - [20221003150207](/zet/20221003150207/README.md) example docker to initialize ksql commands
 - [20221003151276](/zet/20221003151276/README.md) linux data science issues
 - [20221003151277](/zet/20221003151277/README.md) linux data science utilities

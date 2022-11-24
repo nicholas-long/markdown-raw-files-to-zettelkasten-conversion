@@ -15,6 +15,8 @@
 - [20221003150161](/zet/20221003150161/README.md) git config settings set up credential storage
 - [20221003150163](/zet/20221003150163/README.md) linux job control send background process to foreground
 - [20221003150164](/zet/20221003150164/README.md) linux job control background running process
+- [20221003150166](/zet/20221003150166/README.md) dump process memory with dd ( complicated )
+- [20221003150167](/zet/20221003150167/README.md) dump process memory with exe pseudofile ( simple )
 - [20221003150209](/zet/20221003150209/README.md) kafkacat add data to topic
 - [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset
 - [20221003150212](/zet/20221003150212/README.md) kafkacat install quick and dirty shell script using docker

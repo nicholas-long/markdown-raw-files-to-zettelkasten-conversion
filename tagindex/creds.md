@@ -1,3 +1,4 @@
+- [20221003150168](/zet/20221003150168/README.md) dump process memory on linux
 - [20221003150341](/zet/20221003150341/README.md) cms database creds config locations
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
 - [20221003151437](/zet/20221003151437/README.md) awk scripting tracking credential reuse bruteforcing with csv file db

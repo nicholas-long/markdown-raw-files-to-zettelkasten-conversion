@@ -6,7 +6,6 @@
 - [20221003150104](/zet/20221003150104/README.md) python scripting http #python #coding #http
 - [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference #python #coding 
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands #command #linux #os 
-- [20221003150168](/zet/20221003150168/README.md) dump process memory on linux #linux #dump 
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities #linux #capabilities #info
 - [20221003150182](/zet/20221003150182/README.md) install alacritty  #linux #install 
 - [20221003150187](/zet/20221003150187/README.md) linux free up space #linux #free 
