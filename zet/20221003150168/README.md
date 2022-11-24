@@ -1,7 +1,14 @@
 # dump process memory on linux
 
-- [20221003150167](/zet/20221003150167/README.md) with exe pseudofile ( simple )
-- [20221003150166](/zet/20221003150166/README.md) with dd ( complicated )
+- with exe pseudofile ( simple )
+```bash
+cp /proc/$1/exe /tmp/exe
+```
+
+- with dd ( complicated )
+```bash
+dd if=/proc/$1/mem bs=$( getconf PAGESIZE ) iflag=skip_bytes,count_bytes skip=$(( 0x$a )) count=$(( 0x$b - 0x$a )) of="$1_mem_$a.bin"
+```
 
 ` zet/20221003150168/README.md `
 
@@ -16,4 +23,4 @@
 
 Tags:
 
-    #linux #dump 
+    #linux #dump #process #data #creds

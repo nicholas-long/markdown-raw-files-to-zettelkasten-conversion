@@ -13,4 +13,4 @@ dd if=/proc/$1/mem bs=$( getconf PAGESIZE ) iflag=skip_bytes,count_bytes skip=$(
 
 Tags:
 
-    #linux #dump 
+    #DEL #linux #dump 

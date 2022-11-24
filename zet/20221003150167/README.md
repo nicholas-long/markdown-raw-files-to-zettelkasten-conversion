@@ -13,4 +13,4 @@ cp /proc/$1/exe /tmp/exe
 
 Tags:
 
-    #linux #dump 
+    #DEL #linux #dump 
