@@ -8,7 +8,6 @@
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands #command #linux #os 
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities #linux #capabilities #info
 - [20221003150182](/zet/20221003150182/README.md) install alacritty  #linux #install 
-- [20221003150187](/zet/20221003150187/README.md) linux free up space #linux #free 
 - [20221003150259](/zet/20221003150259/README.md) firefox #hacking #buzzwords #web #program
 - [20221003150264](/zet/20221003150264/README.md) block ciphers AES DES blowfish #hacking #buzzwords #decrypt #crypto
 - [20221003150265](/zet/20221003150265/README.md) block ciphers #hacking #buzzwords
@@ -63,7 +62,6 @@
 - [20221003151230](/zet/20221003151230/README.md) VBScript #hacking #trick #vbscript 
 - [20221003151236](/zet/20221003151236/README.md) mysql mariadb #hacking #trick #mysql #command #database #enumeration
 - [20221003151254](/zet/20221003151254/README.md) run executable binary programs within process memory windows #hacking #trick #run 
-- [20221003151271](/zet/20221003151271/README.md) docker cleanup #docker
 - [20221003151278](/zet/20221003151278/README.md) linux data science and data engineering pipelines hub #command #data #pipelines
 - [20221003151284](/zet/20221003151284/README.md) topological sort with tsort #topological #command #linux #data #pipelines
 - [20221003151291](/zet/20221003151291/README.md) C template readline prompt #c-language #templates 

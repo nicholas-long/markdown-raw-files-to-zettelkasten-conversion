@@ -14,6 +14,7 @@
 - [20221003150159](/zet/20221003150159/README.md) upgrade when apt is causing problems
 - [20221003150175](/zet/20221003150175/README.md) unix editor ex / ed example commands
 - [20221003150184](/zet/20221003150184/README.md) add user to group
+- [20221003150187](/zet/20221003150187/README.md) linux free up space
 - [20221003150192](/zet/20221003150192/README.md) convert package type with alien to deb rpm slp lsb tgz
 - [20221003150193](/zet/20221003150193/README.md) concept of converting files
 - [20221003150194](/zet/20221003150194/README.md) set the bash prompt to use vi hotkeys
@@ -365,6 +366,7 @@
 - [20221003151261](/zet/20221003151261/README.md) build windows exploit on linux using mingw
 - [20221003151267](/zet/20221003151267/README.md) fzf
 - [20221003151268](/zet/20221003151268/README.md) Lookup missing packages with command-not-found
+- [20221003151271](/zet/20221003151271/README.md) docker cleanup
 - [20221003151272](/zet/20221003151272/README.md) docker compose aliases for convenience
 - [20221003151274](/zet/20221003151274/README.md) install mandown
 - [20221003151275](/zet/20221003151275/README.md) install docker compose cli extension

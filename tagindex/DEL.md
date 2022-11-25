@@ -17,6 +17,8 @@
 - [20221003150164](/zet/20221003150164/README.md) linux job control background running process
 - [20221003150166](/zet/20221003150166/README.md) dump process memory with dd ( complicated )
 - [20221003150167](/zet/20221003150167/README.md) dump process memory with exe pseudofile ( simple )
+- [20221003150185](/zet/20221003150185/README.md) linux free up space in docker
+- [20221003150186](/zet/20221003150186/README.md) linux free up space in /var/log/journal/
 - [20221003150196](/zet/20221003150196/README.md) iptables rules forward all traffic between two interfaces
 - [20221003150197](/zet/20221003150197/README.md) iptables rules
 - [20221003150209](/zet/20221003150209/README.md) kafkacat add data to topic
@@ -35,3 +37,5 @@
 - [20221003150284](/zet/20221003150284/README.md) default webroots BSD systems FreeBSD
 - [20221003150285](/zet/20221003150285/README.md) default webroots BSD systems OpenBSD httpd
 - [20221003150287](/zet/20221003150287/README.md) default webroots xampp
+- [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately
+- [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control
