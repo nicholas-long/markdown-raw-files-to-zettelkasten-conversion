@@ -9,7 +9,6 @@
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities #linux #capabilities #info
 - [20221003150182](/zet/20221003150182/README.md) install alacritty  #linux #install 
 - [20221003150187](/zet/20221003150187/README.md) linux free up space #linux #free 
-- [20221003150193](/zet/20221003150193/README.md) concept of converting files #command #linux #package 
 - [20221003150259](/zet/20221003150259/README.md) firefox #hacking #buzzwords #web #program
 - [20221003150264](/zet/20221003150264/README.md) block ciphers AES DES blowfish #hacking #buzzwords #decrypt #crypto
 - [20221003150265](/zet/20221003150265/README.md) block ciphers #hacking #buzzwords

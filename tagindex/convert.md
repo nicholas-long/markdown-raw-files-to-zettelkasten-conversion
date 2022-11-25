@@ -1,3 +1,4 @@
+- [20221003150193](/zet/20221003150193/README.md) concept of converting files
 - [20221003151328](/zet/20221003151328/README.md) bash scripting convert text strings or wordlists
 - [20221003151342](/zet/20221003151342/README.md) convert decimal to hex GMSA managed password
 - [20221003151343](/zet/20221003151343/README.md) convert decimal to hex
