@@ -1,7 +1,16 @@
 # concept of converting files
 
-- packages [20221003150192](/zet/20221003150192/README.md) convert package type to deb rpm slp lsb tgz
-- markdown [20221022232952](/zet/20221022232952/README.md) pandoc markdown format converter
+- packages
+  - [20221003150192](/zet/20221003150192/README.md) convert package type to deb rpm slp lsb tgz
+- markdown
+  - [20221022232952](/zet/20221022232952/README.md) pandoc markdown format converter
+- extracting files from out of archive formats
+  - [20221003150233](/zet/20221003150233/README.md) extract command for file type apk
+  - [20221003150234](/zet/20221003150234/README.md) extract command for file type asar
+  - [20221003150235](/zet/20221003150235/README.md) extract command for file type xz
+  - [20221003150236](/zet/20221003150236/README.md) extract command for file type tar.xz
+  - [20221003150237](/zet/20221003150237/README.md) extract command for file type tar.gz
+  - [20221003150238](/zet/20221003150238/README.md) extract command for file type deb
 
 ` zet/20221003150193/README.md `
 
@@ -17,4 +26,4 @@
 
 Tags:
 
-    #command #linux #package 
+    #command #linux #package #convert
