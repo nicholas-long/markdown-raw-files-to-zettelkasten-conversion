@@ -1,6 +1,7 @@
 - [20221003150256](/zet/20221003150256/README.md) IPsec VPN UDP port 500 2500 strongswan
 - [20221003150351](/zet/20221003150351/README.md) pack windows payload in ISO to avoid MOTW
 - [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
+- [20221003150355](/zet/20221003150355/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150361](/zet/20221003150361/README.md) connect to minecraft server and send chat messages

@@ -19,7 +19,6 @@
 113 zet/20221003150903/README.md linux enumeration quick commands find files that have millisecond microsecond nanosecond times not common install
 113 zet/20221003150877/README.md dirty cow privilege escalation working version build on attacker machine with statically linked binaries embedded
 109 zet/20221003150919/README.md linux enumeration quick commands list all recursively with ls sorting by modification date within directories
-108 zet/20221003150354/README.md .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
 108 zet/20221003150334/README.md python pickle serialization magic bytes header signature `80 03` `80 04` `80 05` `(dp0` base64 `gASV` `gAWV`
 105 zet/20221003151392/README.md bash scripting launch ubuntu build environment docker with current directory mounted as working directory
 105 zet/20221003150908/README.md linux enumeration quick commands get IP with no `ifconfig` or `ip a` on a host or within docker container

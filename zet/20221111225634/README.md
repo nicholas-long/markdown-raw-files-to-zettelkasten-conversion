@@ -28,7 +28,6 @@
 - [20221003150321](/zet/20221003150321/README.md) arctic wolf #av
 - [20221003150324](/zet/20221003150324/README.md) vmware carbon black cloud #av
 - [20221003150340](/zet/20221003150340/README.md) ansible #hacking #ansible 
-- [20221003150355](/zet/20221003150355/README.md) .NET decompiler reverse engineering Cmanaged EXE DLL binaries #hacking
 - [20221003150364](/zet/20221003150364/README.md) portable TCP port scanner #hacking #repositories #important 
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers #hacking #repositories #important #web #creds #trick
 - [20221003150374](/zet/20221003150374/README.md) volatility framework analyze dump files of volatile RAM file type "MS Windows 64bit crash dump, full dump, XXX pages" #hacking #repositories #important 

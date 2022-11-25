@@ -5,6 +5,7 @@
 - [20221003150311](/zet/20221003150311/README.md) SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
 - [20221003150312](/zet/20221003150312/README.md) SMB
 - [20221003150333](/zet/20221003150333/README.md) blank LM hash hex `AAD3B`
+- [20221003150355](/zet/20221003150355/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell
 - [20221003150366](/zet/20221003150366/README.md) convert DLL to shellcode with sRDI

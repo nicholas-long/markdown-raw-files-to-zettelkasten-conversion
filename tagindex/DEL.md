@@ -37,5 +37,6 @@
 - [20221003150284](/zet/20221003150284/README.md) default webroots BSD systems FreeBSD
 - [20221003150285](/zet/20221003150285/README.md) default webroots BSD systems OpenBSD httpd
 - [20221003150287](/zet/20221003150287/README.md) default webroots xampp
+- [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
 - [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately
 - [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control
