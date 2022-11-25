@@ -1,7 +1,20 @@
 # docker cleanup
 
-- [20221003151270](/zet/20221003151270/README.md) Try to keep logs under control
-- [20221003151269](/zet/20221003151269/README.md) Free up space immediately
+- Free up space immediately
+```bash
+docker system prune -a -f
+```
+
+- Try to keep logs under control
+  - create or edit docker config file `/etc/docker/daemon.json`
+```json
+{
+	  "log-driver": "local",
+	  "log-opts": {
+		  "max-size": "5m"
+	  }
+}
+```
 
 ` zet/20221003151271/README.md `
 
@@ -19,4 +32,4 @@
 
 Tags:
 
-    #docker
+    #docker #cleanup #command

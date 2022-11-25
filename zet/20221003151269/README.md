@@ -14,4 +14,4 @@ docker system prune -a -f
 
 Tags:
 
-    #docker #cleanup
+    #DEL #docker #cleanup

@@ -1,7 +1,13 @@
 # linux free up space
 
-- [20221003150186](/zet/20221003150186/README.md) in /var/log/journal/
-- [20221003150185](/zet/20221003150185/README.md) in docker
+- clean up system (and dmesg?) logs in /var/log/journal/
+```bash
+sudo journalctl --vacuum-size=100M
+```
+
+- in docker: see notes about docker cleanup
+  - [20221003151271](/zet/20221003151271/README.md) docker cleanup
+
 
 ` zet/20221003150187/README.md `
 
@@ -16,4 +22,4 @@
 
 Tags:
 
-    #linux #free 
+    #linux #free #data #cleanup #command

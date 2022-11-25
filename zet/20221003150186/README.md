@@ -1,4 +1,5 @@
 # linux free up space in /var/log/journal/
+
 ```bash
 sudo journalctl --vacuum-size=100M
 ```
@@ -13,4 +14,4 @@ sudo journalctl --vacuum-size=100M
 
 Tags:
 
-    #linux #free 
+    #DEL #linux #free 
