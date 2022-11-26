@@ -1,7 +1,20 @@
 # install alacritty 
 
-- [20221003150181](/zet/20221003150181/README.md) dependencies
-- [20221003150180](/zet/20221003150180/README.md) install commands
+- install apt package dependencies to fix build errors
+  - cargo
+  - cmake
+  - libx11-xcb-dev
+  - libxcb-xfixes0-dev
+  - libxcb-render0-dev
+  - libxcb-shape0-dev
+  - pkg-config
+  - librust-servo-fontconfig-sys-dev
+
+- install commands
+```bash
+sudo apt install -y cargo cmake libx11-xcb-dev libxcb-xfixes0-dev libxcb-render0-dev libxcb-shape0-dev pkg-config librust-servo-fontconfig-sys-dev
+cargo install alacritty
+```
 
 ` zet/20221003150182/README.md `
 
@@ -20,4 +33,4 @@
 
 Tags:
 
-    #linux #install 
+    #linux #install #shell #terminal #program

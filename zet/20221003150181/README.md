@@ -23,4 +23,4 @@ Install apt packages
 
 Tags:
 
-    #linux #install 
+    #DEL #linux #install 

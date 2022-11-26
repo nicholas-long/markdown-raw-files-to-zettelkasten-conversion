@@ -17,4 +17,4 @@ cargo install alacritty
 
 Tags:
 
-    #linux #install 
+    #DEL #linux #install 
