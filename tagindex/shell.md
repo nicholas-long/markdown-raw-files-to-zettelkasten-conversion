@@ -13,6 +13,7 @@
 - [20221003150093](/zet/20221003150093/README.md) bash scripts sh destroy containers and images
 - [20221003150094](/zet/20221003150094/README.md) bash scripts sh nmap script types
 - [20221003150095](/zet/20221003150095/README.md) bash scripts sh autogenerate all languages
+- [20221003150182](/zet/20221003150182/README.md) install alacritty 
 - [20221003150365](/zet/20221003150365/README.md) windows fully interactive pty with ConPtyShell
 - [20221003150777](/zet/20221003150777/README.md) MSFVENOM
 - [20221003151259](/zet/20221003151259/README.md) stabilize shell with script command

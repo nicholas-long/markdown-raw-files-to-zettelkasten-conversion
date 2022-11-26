@@ -1,4 +1,5 @@
 - [20221003150081](/zet/20221003150081/README.md) tmux box art enable
+- [20221003150182](/zet/20221003150182/README.md) install alacritty 
 - [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
 - [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
 - [20221003151273](/zet/20221003151273/README.md) run docker in background without exiting

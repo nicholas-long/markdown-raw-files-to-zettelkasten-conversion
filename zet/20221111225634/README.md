@@ -7,7 +7,6 @@
 - [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference #python #coding 
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands #command #linux #os 
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities #linux #capabilities #info
-- [20221003150182](/zet/20221003150182/README.md) install alacritty  #linux #install 
 - [20221003150259](/zet/20221003150259/README.md) firefox #hacking #buzzwords #web #program
 - [20221003150268](/zet/20221003150268/README.md) IPMI intelligent platform management interface BMC #hacking #buzzwords #program
 - [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix #hacking #buzzwords

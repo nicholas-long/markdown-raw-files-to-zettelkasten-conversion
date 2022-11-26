@@ -3,6 +3,7 @@
 - [20221003150115](/zet/20221003150115/README.md) socat
 - [20221003150138](/zet/20221003150138/README.md) apt package nc ncat netcat
 - [20221003150140](/zet/20221003150140/README.md) apt package
+- [20221003150182](/zet/20221003150182/README.md) install alacritty 
 - [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
 - [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
 - [20221003150243](/zet/20221003150243/README.md) jekyll blog markdown to html

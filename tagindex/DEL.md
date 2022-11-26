@@ -17,6 +17,8 @@
 - [20221003150164](/zet/20221003150164/README.md) linux job control background running process
 - [20221003150166](/zet/20221003150166/README.md) dump process memory with dd ( complicated )
 - [20221003150167](/zet/20221003150167/README.md) dump process memory with exe pseudofile ( simple )
+- [20221003150180](/zet/20221003150180/README.md) install alacritty commands
+- [20221003150181](/zet/20221003150181/README.md) install alacritty dependencies to fix build errors
 - [20221003150185](/zet/20221003150185/README.md) linux free up space in docker
 - [20221003150186](/zet/20221003150186/README.md) linux free up space in /var/log/journal/
 - [20221003150196](/zet/20221003150196/README.md) iptables rules forward all traffic between two interfaces
