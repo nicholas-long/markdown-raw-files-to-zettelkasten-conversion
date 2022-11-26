@@ -22,6 +22,7 @@
 - ~/kb/hacking/commands/openssl-general.md
 - [20221003150799](/zet/20221003150799/README.md) openssl commands decrypt file
 - [20221003150800](/zet/20221003150800/README.md) openssl commands encrypt file
+- [20221003150265](/zet/20221003150265/README.md) block ciphers
 
 Tags:
 

@@ -87,6 +87,7 @@ sm4-ofb
 - [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221003150791](/zet/20221003150791/README.md) openssl
+- [20221003150265](/zet/20221003150265/README.md) block ciphers
 
 Tags:
 

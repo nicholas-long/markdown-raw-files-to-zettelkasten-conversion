@@ -32,6 +32,10 @@
 - [20221003150229](/zet/20221003150229/README.md) apk analysis emulate a phone with genymotion and virtualbox
 - [20221003150230](/zet/20221003150230/README.md) apk analysis decompile to bytecode and inspect objects
 - [20221003150233](/zet/20221003150233/README.md) extract command for file type apk
+- [20221003150261](/zet/20221003150261/README.md) block ciphers ECB electronic code book cipher mode of operation
+- [20221003150262](/zet/20221003150262/README.md) block ciphers CBC cipher cipher block chaining cipher mode of operation
+- [20221003150263](/zet/20221003150263/README.md) block ciphers AES DES blowfish ECB CBC CFB OFB CTR cipher modes
+- [20221003150264](/zet/20221003150264/README.md) block ciphers AES DES blowfish
 - [20221003150282](/zet/20221003150282/README.md) default webroots apache
 - [20221003150283](/zet/20221003150283/README.md) default webroots debian system
 - [20221003150284](/zet/20221003150284/README.md) default webroots BSD systems FreeBSD

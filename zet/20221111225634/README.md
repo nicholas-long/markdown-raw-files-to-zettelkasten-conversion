@@ -9,8 +9,6 @@
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities #linux #capabilities #info
 - [20221003150182](/zet/20221003150182/README.md) install alacritty  #linux #install 
 - [20221003150259](/zet/20221003150259/README.md) firefox #hacking #buzzwords #web #program
-- [20221003150264](/zet/20221003150264/README.md) block ciphers AES DES blowfish #hacking #buzzwords #decrypt #crypto
-- [20221003150265](/zet/20221003150265/README.md) block ciphers #hacking #buzzwords
 - [20221003150268](/zet/20221003150268/README.md) IPMI intelligent platform management interface BMC #hacking #buzzwords #program
 - [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix #hacking #buzzwords
 - [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface #hacking #buzzwords #info #program
