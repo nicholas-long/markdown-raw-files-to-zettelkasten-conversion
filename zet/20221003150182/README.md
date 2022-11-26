@@ -1,4 +1,4 @@
-# install alacritty 
+# install alacritty
 
 - install apt package dependencies to fix build errors
   - cargo
