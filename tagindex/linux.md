@@ -57,7 +57,7 @@
 - [20221003150179](/zet/20221003150179/README.md) alacritty config file
 - [20221003150180](/zet/20221003150180/README.md) install alacritty commands
 - [20221003150181](/zet/20221003150181/README.md) install alacritty dependencies to fix build errors
-- [20221003150182](/zet/20221003150182/README.md) install alacritty 
+- [20221003150182](/zet/20221003150182/README.md) install alacritty
 - [20221003150183](/zet/20221003150183/README.md) add user to docker group
 - [20221003150184](/zet/20221003150184/README.md) add user to group
 - [20221003150185](/zet/20221003150185/README.md) linux free up space in docker
