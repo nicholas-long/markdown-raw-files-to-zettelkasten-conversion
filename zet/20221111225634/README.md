@@ -22,9 +22,6 @@
 - [20221003150340](/zet/20221003150340/README.md) ansible #hacking #ansible 
 - [20221003150364](/zet/20221003150364/README.md) portable TCP port scanner #hacking #repositories #important 
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers #hacking #repositories #important #web #creds #trick
-- [20221003150374](/zet/20221003150374/README.md) volatility framework analyze dump files of volatile RAM file type "MS Windows 64bit crash dump, full dump, XXX pages" #hacking #repositories #important 
-- [20221003150375](/zet/20221003150375/README.md) volatility framework analyze dump files of volatile RAM #hacking #repositories #important 
-- [20221003150376](/zet/20221003150376/README.md) volatility framework #hacking #repositories #important #tool #analysis
 - [20221003150482](/zet/20221003150482/README.md) general powershell enumeration #command #hacking #powershell 
 - [20221003150515](/zet/20221003150515/README.md) pwntools gdb debugging terminal #hacking #pwn #debug 
 - [20221003150532](/zet/20221003150532/README.md) gef gdb plugin #command #hacking #pwn #gef 

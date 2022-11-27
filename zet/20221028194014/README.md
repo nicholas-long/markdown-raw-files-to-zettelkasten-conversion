@@ -12,7 +12,6 @@
 128 zet/20221003151078/README.md service account privileges restore using scheduled task with powershell require seimpersonate privilege for task using principal
 128 zet/20221003150772/README.md MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Bind Shell Output in Hex, C Style, Exclude bad chars, Exitfunction thread
 122 zet/20221003151145/README.md resource based constrained delegation S4U attack transfering tickets to attacker machine to psexec convert kirbi to ccache
-117 zet/20221003150374/README.md volatility framework analyze dump files of volatile RAM file type "MS Windows 64bit crash dump, full dump, XXX pages"
 117 zet/20221003150152/README.md cyberpunk retro machine project enable usb serial port terminal as a service 9600 baud serial systemd service changes
 117 zet/20221003150151/README.md cyberpunk retro machine project enable usb serial port terminal as a service restart service if terminal disconnected
 115 zet/20221003151282/README.md topological sort with tsort sort items occuring before each other example solution to programming challenge in bash
