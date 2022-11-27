@@ -1,6 +1,5 @@
 # worst tier of AV
 
-- concept of `worst tier of AV`
 - arctic wolf
 - mcaffee
 - symantec
