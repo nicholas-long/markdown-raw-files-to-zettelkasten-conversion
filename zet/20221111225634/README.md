@@ -16,7 +16,6 @@
 - [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems #hacking #web #file #path #bsd
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails #hacking #assorted #go
 - [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module #hacking #assorted 
-- [20221003150310](/zet/20221003150310/README.md) burpsuite #hacking #tool
 - [20221003150314](/zet/20221003150314/README.md) default http config locations #hacking #assorted 
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells #hacking #python #info
 - [20221003150318](/zet/20221003150318/README.md) sophos #program #av
