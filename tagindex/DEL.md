@@ -51,6 +51,7 @@
 - [20221003150320](/zet/20221003150320/README.md) mcaffee
 - [20221003150321](/zet/20221003150321/README.md) arctic wolf
 - [20221003150322](/zet/20221003150322/README.md) cyber reason
+- [20221003150324](/zet/20221003150324/README.md) vmware carbon black cloud
 - [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
 - [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately
 - [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control
