@@ -1,7 +1,16 @@
 # burpsuite
 
 - [20221003150309](/zet/20221003150309/README.md) burpsuite set scope to limit request catching
-- [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
+  - "Target" panel
+  - "Scope" sub-panel
+  - add URL
+
+- burpsuite add header to forwarded requests
+  - can use to add `X-Forwarded-For` header
+  - go to proxy tab -> options tab -> match and replace: click add
+  - add header in "Replace" field in format `Header: value`
+  - leave match condition field blank to add header instead of replacing one
+
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 
@@ -19,4 +28,4 @@
 
 Tags:
 
-    #hacking #tool
+    #hacking #tool #info
