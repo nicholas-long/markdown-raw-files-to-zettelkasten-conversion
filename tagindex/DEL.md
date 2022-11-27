@@ -45,6 +45,12 @@
 - [20221003150287](/zet/20221003150287/README.md) default webroots xampp
 - [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
 - [20221003150309](/zet/20221003150309/README.md) burpsuite set scope to limit request catching
+- [20221003150317](/zet/20221003150317/README.md) malwarebytes
+- [20221003150318](/zet/20221003150318/README.md) sophos
+- [20221003150319](/zet/20221003150319/README.md) symantec
+- [20221003150320](/zet/20221003150320/README.md) mcaffee
+- [20221003150321](/zet/20221003150321/README.md) arctic wolf
+- [20221003150322](/zet/20221003150322/README.md) cyber reason
 - [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
 - [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately
 - [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control

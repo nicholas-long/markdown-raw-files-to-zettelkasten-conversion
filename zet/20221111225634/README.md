@@ -18,11 +18,8 @@
 - [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module #hacking #assorted 
 - [20221003150314](/zet/20221003150314/README.md) default http config locations #hacking #assorted 
 - [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells #hacking #python #info
-- [20221003150318](/zet/20221003150318/README.md) sophos #program #av
-- [20221003150319](/zet/20221003150319/README.md) symantec #program #av
-- [20221003150320](/zet/20221003150320/README.md) mcaffee #av
-- [20221003150321](/zet/20221003150321/README.md) arctic wolf #av
 - [20221003150324](/zet/20221003150324/README.md) vmware carbon black cloud #av
+- [20221003150326](/zet/20221003150326/README.md) top tier endpoint protection AV #av #hacking
 - [20221003150340](/zet/20221003150340/README.md) ansible #hacking #ansible 
 - [20221003150364](/zet/20221003150364/README.md) portable TCP port scanner #hacking #repositories #important 
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers #hacking #repositories #important #web #creds #trick
