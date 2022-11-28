@@ -8,7 +8,6 @@
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands #command #linux #os 
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities #linux #capabilities #info
 - [20221003150259](/zet/20221003150259/README.md) firefox #hacking #buzzwords #web #program
-- [20221003150279](/zet/20221003150279/README.md) pfx extension PKCS#12 format certificate cracking #hacking #file 
 - [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems #hacking #web #file #path #bsd
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails #hacking #assorted #go
 - [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module #hacking #assorted 

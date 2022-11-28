@@ -38,6 +38,7 @@
 - [20221003151157](/zet/20221003151157/README.md) hashcat generate wordlist from file with rules
 - [20221003150972](/zet/20221003150972/README.md) crack salted md5 hash with hashcat
 - [20221003150871](/zet/20221003150871/README.md) john the ripper
+- [20221003150279](/zet/20221003150279/README.md) pfx extension PKCS#12 format certificate cracking
 
 Tags:
 

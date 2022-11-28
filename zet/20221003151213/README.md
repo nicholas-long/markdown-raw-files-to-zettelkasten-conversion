@@ -32,6 +32,7 @@
 - [20221003150231](/zet/20221003150231/README.md) apk analysis
 - [20221003151212](/zet/20221003151212/README.md) got leaked files encrypted zip files
 - [20221003151211](/zet/20221003151211/README.md) got leaked files jar
+- [20221003150279](/zet/20221003150279/README.md) pfx extension PKCS#12 format certificate cracking
 
 Tags:
 

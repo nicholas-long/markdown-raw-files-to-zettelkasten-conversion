@@ -19,6 +19,7 @@
 - [20221003150869](/zet/20221003150869/README.md) john the ripper use rules to crack hashes from file with wordlist
 - [20221003150868](/zet/20221003150868/README.md) john the ripper find all file formats supported with a 2john script or tojohn
 - ~/kb/hacking/commands/john-the-ripper-crack-with-wordlist.md
+- [20221003150279](/zet/20221003150279/README.md) pfx extension PKCS#12 format certificate cracking
 
 Tags:
 

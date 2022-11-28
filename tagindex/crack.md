@@ -1,2 +1,3 @@
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
+- [20221003150279](/zet/20221003150279/README.md) pfx extension PKCS#12 format certificate cracking
 - [20221003150745](/zet/20221003150745/README.md) cracking keepass database with image key 2 john

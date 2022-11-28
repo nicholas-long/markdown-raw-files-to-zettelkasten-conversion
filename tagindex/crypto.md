@@ -3,6 +3,7 @@
 - [20221003150264](/zet/20221003150264/README.md) block ciphers AES DES blowfish
 - [20221003150265](/zet/20221003150265/README.md) block ciphers
 - [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
+- [20221003150279](/zet/20221003150279/README.md) pfx extension PKCS#12 format certificate cracking
 - [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext
 - [20221003150450](/zet/20221003150450/README.md) padbuster oracle padding to brute force one byte at a time for block cipher encrypted cookies
 - [20221003150459](/zet/20221003150459/README.md) openssl cipher commands encrypt text

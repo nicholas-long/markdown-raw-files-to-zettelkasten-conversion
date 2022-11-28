@@ -42,6 +42,8 @@
 - [20221003150268](/zet/20221003150268/README.md) IPMI intelligent platform management interface BMC
 - [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix
 - [20221003150274](/zet/20221003150274/README.md) web server file executable extensions
+- [20221003150277](/zet/20221003150277/README.md) pfx extension PKCS#12 format certificate cracking with johntheripper
+- [20221003150278](/zet/20221003150278/README.md) pfx extension PKCS#12 format certificate cracking with crackpkcs12
 - [20221003150282](/zet/20221003150282/README.md) default webroots apache
 - [20221003150283](/zet/20221003150283/README.md) default webroots debian system
 - [20221003150284](/zet/20221003150284/README.md) default webroots BSD systems FreeBSD

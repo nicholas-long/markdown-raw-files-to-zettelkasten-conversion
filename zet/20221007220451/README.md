@@ -259,6 +259,7 @@ hacking notes hub
 - [20221003150376](/zet/20221003150376/README.md) volatility framework
 - [20221003150272](/zet/20221003150272/README.md) web server file executable extensions for ASP
 - [20221003150273](/zet/20221003150273/README.md) web server file executable extensions for PHP
+- [20221003150279](/zet/20221003150279/README.md) pfx extension PKCS#12 format certificate cracking
 
 Tags:
 
