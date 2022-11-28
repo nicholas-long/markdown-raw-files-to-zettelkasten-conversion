@@ -12,4 +12,4 @@ uses multiple cores for cracking.
 
 Tags:
 
-    #hacking #file 
+    #hacking #file #DEL
