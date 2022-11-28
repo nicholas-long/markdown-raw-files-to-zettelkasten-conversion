@@ -60,6 +60,7 @@
 - [20221003150322](/zet/20221003150322/README.md) cyber reason
 - [20221003150324](/zet/20221003150324/README.md) vmware carbon black cloud
 - [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
+- [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150374](/zet/20221003150374/README.md) volatility framework analyze dump files of volatile RAM file type "MS Windows 64bit crash dump, full dump, XXX pages"
 - [20221003150375](/zet/20221003150375/README.md) volatility framework analyze dump files of volatile RAM
 - [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately

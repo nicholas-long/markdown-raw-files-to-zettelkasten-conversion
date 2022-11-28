@@ -6,6 +6,7 @@
 - [20221003150357](/zet/20221003150357/README.md) create malicious ODT file payload to leak NTLMv2 hashes with badodf
 - [20221003150361](/zet/20221003150361/README.md) connect to minecraft server and send chat messages
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
+- [20221003150364](/zet/20221003150364/README.md) portable TCP port scanner
 - [20221003150372](/zet/20221003150372/README.md) web app paths defaults db
 - [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings

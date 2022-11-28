@@ -44,6 +44,7 @@
 - [20221003150355](/zet/20221003150355/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries
 - [20221003150376](/zet/20221003150376/README.md) volatility framework
 - [20221003150279](/zet/20221003150279/README.md) pfx extension PKCS#12 format certificate cracking
+- [20221003150364](/zet/20221003150364/README.md) portable TCP port scanner
 
 Tags:
 

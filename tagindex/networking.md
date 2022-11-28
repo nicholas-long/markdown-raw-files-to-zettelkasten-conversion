@@ -17,6 +17,7 @@
 - [20221003150224](/zet/20221003150224/README.md) bettercap start commnad
 - [20221003150225](/zet/20221003150225/README.md) bettercap
 - [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
+- [20221003150364](/zet/20221003150364/README.md) portable TCP port scanner
 - [20221003150782](/zet/20221003150782/README.md) enum4linux-ng next gen
 - [20221003151161](/zet/20221003151161/README.md) pivoting guide
 - [20221003151258](/zet/20221003151258/README.md) scan for ports to connect back on through firewall
