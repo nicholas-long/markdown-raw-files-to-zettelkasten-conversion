@@ -1,5 +1,6 @@
 # top tier endpoint protection AV
 
+- according to alh4zr3d, these are the top tier antivirus programs encountered on red teaming assessments
 - [20221003150325](/zet/20221003150325/README.md) Microsoft Defender for Endpoint - enterprise protection
 - [20221003150323](/zet/20221003150323/README.md) crowdstrike falcon
 
