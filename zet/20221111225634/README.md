@@ -8,9 +8,6 @@
 - [20221003150156](/zet/20221003150156/README.md) linux assorted commands #command #linux #os 
 - [20221003150171](/zet/20221003150171/README.md) linux capabilities #linux #capabilities #info
 - [20221003150259](/zet/20221003150259/README.md) firefox #hacking #buzzwords #web #program
-- [20221003150268](/zet/20221003150268/README.md) IPMI intelligent platform management interface BMC #hacking #buzzwords #program
-- [20221003150269](/zet/20221003150269/README.md) IPMI intelligent platform management interface zabbix #hacking #buzzwords
-- [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface #hacking #buzzwords #info #program
 - [20221003150274](/zet/20221003150274/README.md) web server file executable extensions #hacking #web 
 - [20221003150279](/zet/20221003150279/README.md) pfx extension PKCS#12 format certificate cracking #hacking #file 
 - [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems #hacking #web #file #path #bsd
