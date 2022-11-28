@@ -1,9 +1,16 @@
 # IPMI intelligent platform management interface
 
-- [20221003151196](/zet/20221003151196/README.md) IPMI
-  - [20221003150267](/zet/20221003150267/README.md) service udp port 613
-    - [20221003150269](/zet/20221003150269/README.md) zabbix
-    - [20221003150268](/zet/20221003150268/README.md) BMC
+- IPMI
+  - udp port 613
+  - monitor / control physical hardware of server rack remotely.
+  - IPMI protocol is vulnerable to bad challenge-response that leaks hashes.
+  - sometimes vulnerable to auth bypass -> msf
+- specific implementations
+  - zabbix
+    - zabbix stores configs to access mysql database
+  - BMC
+
+- [IPMI hacking to try list](/zet/20221003151196/README.md)
 
 ` zet/20221003150270/README.md `
 
