@@ -51,6 +51,7 @@
 - [20221003150287](/zet/20221003150287/README.md) default webroots xampp
 - [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
 - [20221003150309](/zet/20221003150309/README.md) burpsuite set scope to limit request catching
+- [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150317](/zet/20221003150317/README.md) malwarebytes
 - [20221003150318](/zet/20221003150318/README.md) sophos
 - [20221003150319](/zet/20221003150319/README.md) symantec

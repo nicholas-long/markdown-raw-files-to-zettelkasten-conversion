@@ -9,6 +9,7 @@
 - [20221003150283](/zet/20221003150283/README.md) default webroots debian system
 - [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems
 - [20221003150313](/zet/20221003150313/README.md) default http config locations FreeBSD
+- [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag
 - [20221003150651](/zet/20221003150651/README.md) kubernetes
 - [20221003150662](/zet/20221003150662/README.md) data analysis commands
 - [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12

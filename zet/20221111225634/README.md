@@ -12,7 +12,6 @@
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails #hacking #assorted #go
 - [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module #hacking #assorted 
 - [20221003150314](/zet/20221003150314/README.md) default http config locations #hacking #assorted 
-- [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells #hacking #python #info
 - [20221003150326](/zet/20221003150326/README.md) top tier endpoint protection AV #av #hacking
 - [20221003150340](/zet/20221003150340/README.md) ansible #hacking #ansible 
 - [20221003150364](/zet/20221003150364/README.md) portable TCP port scanner #hacking #repositories #important 

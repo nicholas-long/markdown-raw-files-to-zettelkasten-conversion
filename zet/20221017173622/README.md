@@ -39,7 +39,7 @@ scam screenshot script scripting sed server service setup shell shellcode shells
 tablet tar tcp template templatemain templates terminal test text textprocessing tftp tip tips tldr tmux to-try-list todo tomcat tool tools topological trick tricks troubleshoot troubleshooting tui type
 uac udp url useful username users util
 valid var vbscript version video videonotes videos vim virtualbox vm
-wasm web wfuzz windows wordlist workflow wpscan wtf
+wasm web webshell wfuzz windows wordlist workflow wpscan wtf
 xml xp xxe
 yaml
 zet zettelkasten zsh
