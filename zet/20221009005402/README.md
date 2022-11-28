@@ -197,7 +197,7 @@
 - [20221003151084](/zet/20221003151084/README.md) windows sensitive file disclosure cheat sheet determine version
 - [20221003151227](/zet/20221003151227/README.md) convert string to a base64 encoded UTF-16LE string to be used by powershell
 - [20221003151085](/zet/20221003151085/README.md) windows sensitive file disclosure cheat sheet
-- [20221003150273](/zet/20221003150273/README.md) web server file executable extensions PHP
+- [20221003150273](/zet/20221003150273/README.md) web server file executable extensions for PHP
 - [20221003150327](/zet/20221003150327/README.md) bloodhound sharphound fix import errors - incompatible versions
 - [20221003150560](/zet/20221003150560/README.md) Kali Default PHP Reverse Shell
 - [20221003150774](/zet/20221003150774/README.md) MSFVENOM Windows Binary (.exe) executable 32 Bit (x86) Reverse Shell

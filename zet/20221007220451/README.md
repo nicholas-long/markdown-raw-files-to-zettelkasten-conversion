@@ -257,6 +257,8 @@ hacking notes hub
 - [20221003150833](/zet/20221003150833/README.md) responder
 - [20221003151248](/zet/20221003151248/README.md) sending installs and dependencies to target with no network connection
 - [20221003150376](/zet/20221003150376/README.md) volatility framework
+- [20221003150272](/zet/20221003150272/README.md) web server file executable extensions for ASP
+- [20221003150273](/zet/20221003150273/README.md) web server file executable extensions for PHP
 
 Tags:
 

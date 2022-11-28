@@ -7,8 +7,8 @@
 
 # Related
 
-- [20221003150273](/zet/20221003150273/README.md) web server file executable extensions PHP
-- [20221003150272](/zet/20221003150272/README.md) web server file executable extensions ASP
+- [20221003150273](/zet/20221003150273/README.md) web server file executable extensions for PHP
+- [20221003150272](/zet/20221003150272/README.md) web server file executable extensions for ASP
 - [20221014190102](/zet/20221014190102/README.md) kb file named kb/hacking/misc/web-server-executable-extensions.md
 - ~/kb/hacking/misc/web-server-executable-extensions.md
 
