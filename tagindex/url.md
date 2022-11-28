@@ -1,2 +1,4 @@
 - [20221003150130](/zet/20221003150130/README.md) java download links jdk
+- [20221003150272](/zet/20221003150272/README.md) web server file executable extensions for ASP
+- [20221003150273](/zet/20221003150273/README.md) web server file executable extensions for PHP
 - [20221008221940](/zet/20221008221940/README.md) URL

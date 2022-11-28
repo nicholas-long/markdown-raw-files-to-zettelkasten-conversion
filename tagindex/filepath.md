@@ -1,3 +1,5 @@
+- [20221003150272](/zet/20221003150272/README.md) web server file executable extensions for ASP
+- [20221003150273](/zet/20221003150273/README.md) web server file executable extensions for PHP
 - [20221003150283](/zet/20221003150283/README.md) default webroots debian system
 - [20221003150287](/zet/20221003150287/README.md) default webroots xampp
 - [20221003150289](/zet/20221003150289/README.md) default webroots
