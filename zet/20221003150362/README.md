@@ -20,4 +20,4 @@ https://github.com/Sq00ky/Bash-Port-Scanner
 
 Tags:
 
-    #repositories #important #networking #port #program #enumeration #hacking #repo #tcp #portable
+    #DEL #repositories #important #networking #port #program #enumeration #hacking #repo #tcp #portable
