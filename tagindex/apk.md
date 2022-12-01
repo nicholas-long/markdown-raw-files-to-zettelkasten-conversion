@@ -1,4 +1,2 @@
 - [20221003150228](/zet/20221003150228/README.md) apk analysis emulate a phone with genymotion and virtualbox configuring burpsuite on genymotion phone
-- [20221003150229](/zet/20221003150229/README.md) apk analysis emulate a phone with genymotion and virtualbox
-- [20221003150230](/zet/20221003150230/README.md) apk analysis decompile to bytecode and inspect objects
 - [20221003150231](/zet/20221003150231/README.md) apk analysis

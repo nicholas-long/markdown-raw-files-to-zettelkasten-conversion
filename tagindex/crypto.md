@@ -1,6 +1,5 @@
 - [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange
 - [20221003150255](/zet/20221003150255/README.md) solidity
-- [20221003150264](/zet/20221003150264/README.md) block ciphers AES DES blowfish
 - [20221003150265](/zet/20221003150265/README.md) block ciphers
 - [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
 - [20221003150279](/zet/20221003150279/README.md) pfx extension PKCS#12 format certificate cracking

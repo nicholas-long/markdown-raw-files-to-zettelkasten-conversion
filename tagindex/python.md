@@ -6,7 +6,6 @@
 - [20221003150104](/zet/20221003150104/README.md) python scripting http
 - [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference
 - [20221003150315](/zet/20221003150315/README.md) python uvicorn `--reload` flag
-- [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150504](/zet/20221003150504/README.md) python pwn tricks convert hex to int
 - [20221003150505](/zet/20221003150505/README.md) python pwn tricks convert little endian bytes to floating point
 - [20221003150506](/zet/20221003150506/README.md) python pwn tricks convert little endian bytes to int

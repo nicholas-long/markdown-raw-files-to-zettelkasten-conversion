@@ -18,7 +18,6 @@
 - [20221003150105](/zet/20221003150105/README.md) python coding and scripting quick reference
 - [20221014185507](/zet/20221014185507/README.md) kb file named kb/python/coding-reference.md
 - ~/kb/python/coding-reference.md
-- [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 
 Tags:
 

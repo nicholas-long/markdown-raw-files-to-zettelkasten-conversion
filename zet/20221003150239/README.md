@@ -7,7 +7,6 @@
   - [20221003150236](/zet/20221003150236/README.md) tar.xz
   - [20221003150235](/zet/20221003150235/README.md) xz
   - [20221003150234](/zet/20221003150234/README.md) asar
-  - [20221003150233](/zet/20221003150233/README.md) apk
 
 ` zet/20221003150239/README.md `
 
@@ -18,7 +17,6 @@
 - [20221003150236](/zet/20221003150236/README.md) extract command for file type tar.xz
 - [20221003150235](/zet/20221003150235/README.md) extract command for file type xz
 - [20221003150234](/zet/20221003150234/README.md) extract command for file type asar
-- [20221003150233](/zet/20221003150233/README.md) extract command for file type apk
 - [20221022210052](/zet/20221022210052/README.md) file type reference
 - [20221014190109](/zet/20221014190109/README.md) kb file named kb/hacking/analysis/extract-commands.md
 - [20221010064819](/zet/20221010064819/README.md) locating the origin of files by hash to determine version

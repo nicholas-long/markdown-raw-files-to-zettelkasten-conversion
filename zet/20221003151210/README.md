@@ -102,7 +102,6 @@
 - [20221014185600](/zet/20221014185600/README.md) kb file named kb/hacking/to-try-lists/privesc/linux.md
 - [20221014181941](/zet/20221014181941/README.md) general privilege escalation
 - [20221003150266](/zet/20221003150266/README.md) systemd-private
-- [20221003150322](/zet/20221003150322/README.md) cyber reason
 - [20221013190422](/zet/20221013190422/README.md) headline exploits
 - [20221003150260](/zet/20221003150260/README.md) sperl and suidperl
 - [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script

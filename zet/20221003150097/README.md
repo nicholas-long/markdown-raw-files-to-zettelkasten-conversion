@@ -7,7 +7,6 @@ grep -R filename /var/lib/dpkg/info/*.list
 
 # Related
 
-- [20221003150157](/zet/20221003150157/README.md) upgrade when apt is causing problems fix error "the following signatures couldn’t be verified because the public key is not available"
 - [20221013194055](/zet/20221013194055/README.md) concept of installing something
 - [20221013185251](/zet/20221013185251/README.md) general information concept FYI
 - [20221009014200](/zet/20221009014200/README.md) concept of a command

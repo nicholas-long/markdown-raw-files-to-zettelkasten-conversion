@@ -1,1 +1,0 @@
-- [20221003150267](/zet/20221003150267/README.md) IPMI intelligent platform management interface udp port 613

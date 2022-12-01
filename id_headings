@@ -3,7 +3,6 @@
 20221003150066	zet/20221003150066/README.md	vim diff
 20221003150067	zet/20221003150067/README.md	vim
 20221003150068	zet/20221003150068/README.md	vim edit multiple files find and edit files recursively open in tabs
-20221003150069	zet/20221003150069/README.md	vim edit multiple files open multiple files
 20221003150071	zet/20221003150071/README.md	vim edit multiple files while running
 20221003150072	zet/20221003150072/README.md	Set spacevim record key back to [Q]
 20221003150073	zet/20221003150073/README.md	Run vim as a script on datafile, write to file `output`
@@ -43,28 +42,19 @@
 20221003150108	zet/20221003150108/README.md	tunneling through chisel Target
 20221003150109	zet/20221003150109/README.md	tunneling through chisel Attacker
 20221003150110	zet/20221003150110/README.md	tunneling through chisel
-20221003150111	zet/20221003150111/README.md	socat listen fork print to stdout
 20221003150112	zet/20221003150112/README.md	socat execute program bind shell
-20221003150113	zet/20221003150113/README.md	socat execute program
-20221003150114	zet/20221003150114/README.md	socat port forwarding with socat
 20221003150115	zet/20221003150115/README.md	socat
 20221003150116	zet/20221003150116/README.md	socat over proxy
 20221003150117	zet/20221003150117/README.md	OSI networking model
 20221003150118	zet/20221003150118/README.md	get numpad to work in ssh over putty
-20221003150119	zet/20221003150119/README.md	routing using a linux box iptables rules forward all traffic between two interfaces
 20221003150120	zet/20221003150120/README.md	routing using a linux box iptables rules
 20221003150121	zet/20221003150121/README.md	routing using a linux box add router to routes on hosts windows
-20221003150122	zet/20221003150122/README.md	routing using a linux box add router to routes on hosts
-20221003150123	zet/20221003150123/README.md	routing using a linux box enable ip forwarding permanently
-20221003150124	zet/20221003150124/README.md	routing using a linux box enable ip forwarding temporarily
-20221003150125	zet/20221003150125/README.md	routing using a linux box enable ip forwarding
 20221003150126	zet/20221003150126/README.md	routing using a linux box
 20221003150127	zet/20221003150127/README.md	tldr pages location english
 20221003150129	zet/20221003150129/README.md	tldr command
 20221003150130	zet/20221003150130/README.md	java download links jdk
 20221003150131	zet/20221003150131/README.md	java download links
 20221003150132	zet/20221003150132/README.md	find file with name matching regular expression
-20221003150133	zet/20221003150133/README.md	DNS add nameserver to resolv.conf
 20221003150134	zet/20221003150134/README.md	DNS commands and lookup hub
 20221003150135	zet/20221003150135/README.md	enable horizontal scroll in less
 20221003150136	zet/20221003150136/README.md	tar compress to zipped archive
@@ -73,7 +63,6 @@
 20221003150139	zet/20221003150139/README.md	apt package column
 20221003150140	zet/20221003150140/README.md	apt package
 20221003150141	zet/20221003150141/README.md	proxmox server layout ISO upload location
-20221003150142	zet/20221003150142/README.md	proxmox server layout
 20221003150143	zet/20221003150143/README.md	proxmox vm host operating system
 20221003150144	zet/20221003150144/README.md	cyberpunk retro machine project Tandy TRS-80 Model 100 terminal copying binary programs
 20221003150145	zet/20221003150145/README.md	cyberpunk retro machine project Tandy TRS-80 Model 100 terminal programs
@@ -88,17 +77,9 @@
 20221003150154	zet/20221003150154/README.md	cyberpunk retro machine project
 20221003150155	zet/20221003150155/README.md	linux assorted commands find disk mounting for root file system
 20221003150156	zet/20221003150156/README.md	linux assorted commands
-20221003150157	zet/20221003150157/README.md	upgrade when apt is causing problems fix error "the following signatures couldn’t be verified because the public key is not available"
-20221003150158	zet/20221003150158/README.md	upgrade when apt is causing problems force fix apt dpkg upgrade
 20221003150159	zet/20221003150159/README.md	upgrade when apt is causing problems
-20221003150160	zet/20221003150160/README.md	git config settings make merges smoother
-20221003150161	zet/20221003150161/README.md	git config settings set up credential storage
 20221003150162	zet/20221003150162/README.md	git config settings
-20221003150163	zet/20221003150163/README.md	linux job control send background process to foreground
-20221003150164	zet/20221003150164/README.md	linux job control background running process
 20221003150165	zet/20221003150165/README.md	linux job control
-20221003150166	zet/20221003150166/README.md	dump process memory with dd ( complicated )
-20221003150167	zet/20221003150167/README.md	dump process memory with exe pseudofile ( simple )
 20221003150168	zet/20221003150168/README.md	dump process memory on linux
 20221003150169	zet/20221003150169/README.md	linux capabilities capability set `=ep`
 20221003150170	zet/20221003150170/README.md	linux capabilities inheritance after exec
@@ -111,13 +92,9 @@
 20221003150177	zet/20221003150177/README.md	ex editor TTY notes
 20221003150178	zet/20221003150178/README.md	install alacritty  config file example yaml config
 20221003150179	zet/20221003150179/README.md	alacritty config file
-20221003150180	zet/20221003150180/README.md	install alacritty commands
-20221003150181	zet/20221003150181/README.md	install alacritty dependencies to fix build errors
 20221003150182	zet/20221003150182/README.md	install alacritty
 20221003150183	zet/20221003150183/README.md	add user to docker group
 20221003150184	zet/20221003150184/README.md	add user to group
-20221003150185	zet/20221003150185/README.md	linux free up space in docker
-20221003150186	zet/20221003150186/README.md	linux free up space in /var/log/journal/
 20221003150187	zet/20221003150187/README.md	linux free up space
 20221003150188	zet/20221003150188/README.md	zsh stuff at bottom of zshrc
 20221003150189	zet/20221003150189/README.md	zsh arrow key based history autocomplete browse
@@ -127,8 +104,6 @@
 20221003150193	zet/20221003150193/README.md	concept of converting files
 20221003150194	zet/20221003150194/README.md	set the bash prompt to use vi hotkeys
 20221003150195	zet/20221003150195/README.md	desktop notification reminders in crontab with notify-send
-20221003150196	zet/20221003150196/README.md	iptables rules forward all traffic between two interfaces
-20221003150197	zet/20221003150197/README.md	iptables rules
 20221003150198	zet/20221003150198/README.md	control key mappings for sh
 20221003150199	zet/20221003150199/README.md	dpkg list files installed with package ##apt
 20221003150200	zet/20221003150200/README.md	refresh xterm configs
@@ -140,12 +115,7 @@
 20221003150206	zet/20221003150206/README.md	example docker to initialize ksql commands initialize.sh
 20221003150207	zet/20221003150207/README.md	example docker to initialize ksql commands
 20221003150208	zet/20221003150208/README.md	kafkacat add data to topic include keys
-20221003150209	zet/20221003150209/README.md	kafkacat add data to topic
 20221003150210	zet/20221003150210/README.md	kafkacat
-20221003150211	zet/20221003150211/README.md	kafkacat get previous data in topic from epoch timestamp offset
-20221003150212	zet/20221003150212/README.md	kafkacat install quick and dirty shell script using docker
-20221003150213	zet/20221003150213/README.md	kafkacat install APT
-20221003150214	zet/20221003150214/README.md	kafkacat install alias for kcat
 20221003150215	zet/20221003150215/README.md	kafkacat install
 20221003150216	zet/20221003150216/README.md	Initialize topics in dockers Full example
 20221003150217	zet/20221003150217/README.md	Initialize topics in dockers
@@ -154,17 +124,11 @@
 20221003150220	zet/20221003150220/README.md	surface tablet force restart
 20221003150221	zet/20221003150221/README.md	surface tablet
 20221003150222	zet/20221003150222/README.md	change interface mac address
-20221003150223	zet/20221003150223/README.md	bettercap settings
-20221003150224	zet/20221003150224/README.md	bettercap start commnad
 20221003150225	zet/20221003150225/README.md	bettercap
-20221003150226	zet/20221003150226/README.md	grep patterns searching for IPs
 20221003150227	zet/20221003150227/README.md	example grep patterns
 20221003150228	zet/20221003150228/README.md	apk analysis emulate a phone with genymotion and virtualbox configuring burpsuite on genymotion phone
-20221003150229	zet/20221003150229/README.md	apk analysis emulate a phone with genymotion and virtualbox
-20221003150230	zet/20221003150230/README.md	apk analysis decompile to bytecode and inspect objects
 20221003150231	zet/20221003150231/README.md	apk analysis
 20221003150232	zet/20221003150232/README.md	build or rebuild apk from files
-20221003150233	zet/20221003150233/README.md	extract command for file type apk
 20221003150234	zet/20221003150234/README.md	extract command for file type asar
 20221003150235	zet/20221003150235/README.md	extract command for file type xz
 20221003150236	zet/20221003150236/README.md	extract command for file type tar.xz
@@ -192,33 +156,18 @@
 20221003150258	zet/20221003150258/README.md	firefox containers addon = multiple sessions cookies in firefox web browser
 20221003150259	zet/20221003150259/README.md	firefox
 20221003150260	zet/20221003150260/README.md	sperl and suidperl
-20221003150261	zet/20221003150261/README.md	block ciphers ECB electronic code book cipher mode of operation
-20221003150262	zet/20221003150262/README.md	block ciphers CBC cipher cipher block chaining cipher mode of operation
-20221003150263	zet/20221003150263/README.md	block ciphers AES DES blowfish ECB CBC CFB OFB CTR cipher modes
-20221003150264	zet/20221003150264/README.md	block ciphers AES DES blowfish
 20221003150265	zet/20221003150265/README.md	block ciphers
 20221003150266	zet/20221003150266/README.md	systemd-private
-20221003150267	zet/20221003150267/README.md	IPMI intelligent platform management interface udp port 613
-20221003150268	zet/20221003150268/README.md	IPMI intelligent platform management interface BMC
-20221003150269	zet/20221003150269/README.md	IPMI intelligent platform management interface zabbix
 20221003150270	zet/20221003150270/README.md	IPMI intelligent platform management interface
 20221003150271	zet/20221003150271/README.md	create openssl client certificates from leaked CA private key
 20221003150272	zet/20221003150272/README.md	web server file executable extensions for ASP
 20221003150273	zet/20221003150273/README.md	web server file executable extensions for PHP
-20221003150274	zet/20221003150274/README.md	web server file executable extensions
 20221003150275	zet/20221003150275/README.md	firefox reverse shell toolbar hacktools
 20221003150276	zet/20221003150276/README.md	`unshadow` convert shadow to passwd file with hashes for john
-20221003150277	zet/20221003150277/README.md	pfx extension PKCS#12 format certificate cracking with johntheripper
-20221003150278	zet/20221003150278/README.md	pfx extension PKCS#12 format certificate cracking with crackpkcs12
 20221003150279	zet/20221003150279/README.md	pfx extension PKCS#12 format certificate cracking
 20221003150280	zet/20221003150280/README.md	pfx extension PKCS#12 format certificate contents
 20221003150281	zet/20221003150281/README.md	pfx extension PKCS#12 format certificate
-20221003150282	zet/20221003150282/README.md	default webroots apache
-20221003150283	zet/20221003150283/README.md	default webroots debian system
-20221003150284	zet/20221003150284/README.md	default webroots BSD systems FreeBSD
-20221003150285	zet/20221003150285/README.md	default webroots BSD systems OpenBSD httpd
 20221003150286	zet/20221003150286/README.md	default webroots BSD systems
-20221003150287	zet/20221003150287/README.md	default webroots xampp
 20221003150288	zet/20221003150288/README.md	default webroots wamp
 20221003150289	zet/20221003150289/README.md	default webroots
 20221003150290	zet/20221003150290/README.md	Potentially risky HTTP methods: TRACE
@@ -239,23 +188,13 @@
 20221003150305	zet/20221003150305/README.md	modify date with touch timestomping set destination file date the same as source file date
 20221003150306	zet/20221003150306/README.md	modify date with touch timestomping
 20221003150307	zet/20221003150307/README.md	copy docker binary to target
-20221003150308	zet/20221003150308/README.md	burpsuite add header to forwarded requests, like X-Forwarded-For
-20221003150309	zet/20221003150309/README.md	burpsuite set scope to limit request catching
 20221003150310	zet/20221003150310/README.md	burpsuite
 20221003150311	zet/20221003150311/README.md	SMB fix `NT_STATUS_CONNECTION_DISCONNECTED` errors
 20221003150312	zet/20221003150312/README.md	SMB
 20221003150313	zet/20221003150313/README.md	default http config locations FreeBSD
 20221003150314	zet/20221003150314/README.md	default http config locations
 20221003150315	zet/20221003150315/README.md	python uvicorn `--reload` flag
-20221003150316	zet/20221003150316/README.md	fastapi uvicorn put python webshells
-20221003150317	zet/20221003150317/README.md	malwarebytes
-20221003150318	zet/20221003150318/README.md	sophos
-20221003150319	zet/20221003150319/README.md	symantec
-20221003150320	zet/20221003150320/README.md	mcaffee
-20221003150321	zet/20221003150321/README.md	arctic wolf
-20221003150322	zet/20221003150322/README.md	cyber reason
 20221003150323	zet/20221003150323/README.md	crowdstrike falcon
-20221003150324	zet/20221003150324/README.md	vmware carbon black cloud
 20221003150325	zet/20221003150325/README.md	Microsoft Defender for Endpoint - enterprise protection
 20221003150326	zet/20221003150326/README.md	top tier endpoint protection AV
 20221003150327	zet/20221003150327/README.md	bloodhound sharphound fix import errors - incompatible versions
@@ -285,7 +224,6 @@
 20221003150351	zet/20221003150351/README.md	pack windows payload in ISO to avoid MOTW
 20221003150352	zet/20221003150352/README.md	fake set change system time for command
 20221003150353	zet/20221003150353/README.md	linux PAM module backdoor password build script
-20221003150354	zet/20221003150354/README.md	.NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
 20221003150355	zet/20221003150355/README.md	.NET decompiler reverse engineering C# managed EXE DLL binaries
 20221003150356	zet/20221003150356/README.md	linux and windows privilege escalation mind maps OSCP
 20221003150357	zet/20221003150357/README.md	create malicious ODT file payload to leak NTLMv2 hashes with badodf
@@ -293,7 +231,6 @@
 20221003150359	zet/20221003150359/README.md	windows run commands as other user with credentials switch users on windows host with RunasCs with no WinRM remote management access
 20221003150360	zet/20221003150360/README.md	windows run commands as other user with credentials
 20221003150361	zet/20221003150361/README.md	connect to minecraft server and send chat messages
-20221003150362	zet/20221003150362/README.md	portable TCP port scanner bash only spookyscan
 20221003150363	zet/20221003150363/README.md	portable TCP port scanner bash only
 20221003150364	zet/20221003150364/README.md	portable TCP port scanner
 20221003150365	zet/20221003150365/README.md	windows fully interactive pty with ConPtyShell
@@ -305,8 +242,6 @@
 20221003150371	zet/20221003150371/README.md	dump credentials from browsers
 20221003150372	zet/20221003150372/README.md	web app paths defaults db
 20221003150373	zet/20221003150373/README.md	volatility framework analyze dump files of volatile RAM .dmp .img
-20221003150374	zet/20221003150374/README.md	volatility framework analyze dump files of volatile RAM file type "MS Windows 64bit crash dump, full dump, XXX pages"
-20221003150375	zet/20221003150375/README.md	volatility framework analyze dump files of volatile RAM
 20221003150376	zet/20221003150376/README.md	volatility framework
 20221003150377	zet/20221003150377/README.md	oracle database attacking tool ODAT can execute system commands
 20221003150380	zet/20221003150380/README.md	oracle database attacking tool odat
@@ -1029,8 +964,6 @@
 20221003151266	zet/20221003151266/README.md	fzf run with preview
 20221003151267	zet/20221003151267/README.md	fzf
 20221003151268	zet/20221003151268/README.md	Lookup missing packages with command-not-found
-20221003151269	zet/20221003151269/README.md	docker cleanup Free up space immediately
-20221003151270	zet/20221003151270/README.md	docker cleanup Try to keep logs under control
 20221003151271	zet/20221003151271/README.md	docker cleanup
 20221003151272	zet/20221003151272/README.md	docker compose aliases for convenience
 20221003151273	zet/20221003151273/README.md	run docker in background without exiting

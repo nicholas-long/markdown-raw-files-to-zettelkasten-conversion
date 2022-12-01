@@ -12,7 +12,6 @@
 
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools
-- [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
 - [20221003150363](/zet/20221003150363/README.md) portable TCP port scanner bash only
 - ~/kb/hacking/misc/important-repositories-tools.md

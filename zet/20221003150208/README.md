@@ -9,7 +9,6 @@ echo "$fileid:$filename" | kafkacat -b $KAFKA -P -t topic_name -u -K ':'
 # Related
 
 - [20221014185522](/zet/20221014185522/README.md) kb file named kb/kafka/kafkacat.md
-- [20221003150209](/zet/20221003150209/README.md) kafkacat add data to topic
 - ~/kb/kafka/kafkacat.md
 
 Tags:

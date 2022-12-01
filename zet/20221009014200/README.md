@@ -107,7 +107,6 @@ the concept of a `command`
 - [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands
 - [20221003150097](/zet/20221003150097/README.md) find out which dpkg apt package installed a file
 - [20221003150136](/zet/20221003150136/README.md) tar compress to zipped archive
-- [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset
 - [20221003150199](/zet/20221003150199/README.md) dpkg list files installed with package ##apt
 - [20221003150934](/zet/20221003150934/README.md) run DLL payload in windows
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john

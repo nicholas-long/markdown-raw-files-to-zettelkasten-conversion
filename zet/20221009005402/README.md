@@ -50,7 +50,6 @@
 - [20221003150974](/zet/20221003150974/README.md) XXE xml external entity exfiltrate file out of band payload
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
 - [20221003150893](/zet/20221003150893/README.md) get facl recursively centos / redhat
-- [20221003150282](/zet/20221003150282/README.md) default webroots apache
 - [20221003150313](/zet/20221003150313/README.md) default http config locations FreeBSD
 - [20221003150295](/zet/20221003150295/README.md) nodejs api controller program default files
 - [20221003150803](/zet/20221003150803/README.md) brute force default credentials tomcat wfuzz
@@ -173,7 +172,6 @@
 - [20221003150870](/zet/20221003150870/README.md) john the ripper crack hashes from file with wordlist
 - [20221003150877](/zet/20221003150877/README.md) dirty cow privilege escalation working version build on attacker machine with statically linked binaries embedded
 - [20221003151058](/zet/20221003151058/README.md) windows directory traversal path traversal LFI strings
-- [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150729](/zet/20221003150729/README.md) powershell encode commands as base64 with windows wide char strings in linux
 - [20221003150474](/zet/20221003150474/README.md) powershell tricks run powershell commands as another user with SecureString credential
 - [20221003151133](/zet/20221003151133/README.md) decode GMSA NTLM hash

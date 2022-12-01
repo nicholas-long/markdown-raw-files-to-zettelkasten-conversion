@@ -15,7 +15,6 @@
 - [20221003150104](/zet/20221003150104/README.md) python scripting http
 - [20221003150103](/zet/20221003150103/README.md) python scripting requests http upload file
 - [20221003150101](/zet/20221003150101/README.md) python scripting requests http GET params
-- [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221009005402](/zet/20221009005402/README.md) preparing for the OSCP exam
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 

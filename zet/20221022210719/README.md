@@ -17,9 +17,7 @@
 - [20221003150302](/zet/20221003150302/README.md) plus sign in ls output file ACL
 - [20221003150313](/zet/20221003150313/README.md) default http config locations FreeBSD
 - [20221003150298](/zet/20221003150298/README.md) fixing golang module errors cannot install module
-- [20221003150309](/zet/20221003150309/README.md) burpsuite set scope to limit request catching
 - [20221003150296](/zet/20221003150296/README.md) fixing golang module errors no required module provides package
-- [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
 - [20221003150299](/zet/20221003150299/README.md) fixing golang module errors
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
 - [20221003150306](/zet/20221003150306/README.md) modify date with touch timestomping

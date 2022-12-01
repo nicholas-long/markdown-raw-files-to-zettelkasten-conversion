@@ -19,7 +19,6 @@ https://www.volatilityfoundation.org/
 - <https://www.volatilityfoundation.org/>
 - [20221003150373](/zet/20221003150373/README.md) volatility framework analyze dump files of volatile RAM .dmp .img
 - [20221014190047](/zet/20221014190047/README.md) kb file named kb/hacking/misc/important-repositories-tools.md
-- [20221003150375](/zet/20221003150375/README.md) volatility framework analyze dump files of volatile RAM
 - ~/kb/hacking/misc/important-repositories-tools.md
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221013171453](/zet/20221013171453/README.md) important repositories and tools

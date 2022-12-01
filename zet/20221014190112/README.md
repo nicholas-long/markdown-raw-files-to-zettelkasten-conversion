@@ -10,7 +10,6 @@
 # Related
 
 - [20221016233437](/zet/20221016233437/README.md) commits for day of 2022-05-04
-- [20221003150226](/zet/20221003150226/README.md) grep patterns searching for IPs
 - [20221003150227](/zet/20221003150227/README.md) example grep patterns
 - [20221003151443](/zet/20221003151443/README.md) kb
 

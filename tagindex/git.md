@@ -1,5 +1,3 @@
-- [20221003150160](/zet/20221003150160/README.md) git config settings make merges smoother
-- [20221003150161](/zet/20221003150161/README.md) git config settings set up credential storage
 - [20221003150162](/zet/20221003150162/README.md) git config settings
 - [20221003150797](/zet/20221003150797/README.md) git recover orphaned commits and files and restore a directory after reset
 - [20221003150798](/zet/20221003150798/README.md) git

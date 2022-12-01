@@ -1,9 +1,7 @@
 - [20221003150075](/zet/20221003150075/README.md) tmux tricks hub
 - [20221003150195](/zet/20221003150195/README.md) desktop notification reminders in crontab with notify-send
-- [20221003150277](/zet/20221003150277/README.md) pfx extension PKCS#12 format certificate cracking with johntheripper
 - [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
 - [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
-- [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
 - [20221003150330](/zet/20221003150330/README.md) identifying type of encryption of unknown ciphertext
 - [20221003150346](/zet/20221003150346/README.md) SSH brute force
 - [20221003150353](/zet/20221003150353/README.md) linux PAM module backdoor password build script

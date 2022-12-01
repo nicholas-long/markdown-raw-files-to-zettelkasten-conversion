@@ -61,7 +61,6 @@
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
 - [20221003150874](/zet/20221003150874/README.md) nikto command
 - [20221003150709](/zet/20221003150709/README.md) sqlmap
-- [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
 - [20221003151175](/zet/20221003151175/README.md) EVERYTHING - common to try list
 - [20221014185619](/zet/20221014185619/README.md) kb file named kb/hacking/to-try-lists/HTTP.md
 - [20221003150291](/zet/20221003150291/README.md) apache 2fa default key
@@ -92,7 +91,6 @@
 - got access to database - general SQL - where?
 - [20221003150658](/zet/20221003150658/README.md) wfuzz dirbusting
 - [20221003150310](/zet/20221003150310/README.md) burpsuite
-- [20221003150316](/zet/20221003150316/README.md) fastapi uvicorn put python webshells
 - [20221003150576](/zet/20221003150576/README.md) php type juggling
 - [20221003150811](/zet/20221003150811/README.md) wfuzz fuzzing details "X-Forwarded-For" header with custom IP ranges
 - [20221003150682](/zet/20221003150682/README.md) web enumeration quick commands forms

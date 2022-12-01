@@ -19,7 +19,6 @@ tab all
 - [20221012135747](/zet/20221012135747/README.md) unix text editors
 - [20221008024933](/zet/20221008024933/README.md) vim code block lines
 - [20221007043259](/zet/20221007043259/README.md) zettelkasten generic ideas
-- [20221003150069](/zet/20221003150069/README.md) vim edit multiple files open multiple files
 - [20221003150068](/zet/20221003150068/README.md) vim edit multiple files find and edit files recursively open in tabs
 - ~/kb/vim/edit-multiple-files.md
 

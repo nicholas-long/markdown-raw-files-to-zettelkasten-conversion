@@ -1,7 +1,5 @@
-- [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
 - [20221003150355](/zet/20221003150355/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries
 - [20221003150359](/zet/20221003150359/README.md) windows run commands as other user with credentials switch users on windows host with RunasCs with no WinRM remote management access
-- [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150363](/zet/20221003150363/README.md) portable TCP port scanner bash only
 - [20221003150364](/zet/20221003150364/README.md) portable TCP port scanner
 - [20221003150367](/zet/20221003150367/README.md) dump credentials from browsers firefox
@@ -10,8 +8,6 @@
 - [20221003150370](/zet/20221003150370/README.md) dump credentials from browsers chromium
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
 - [20221003150373](/zet/20221003150373/README.md) volatility framework analyze dump files of volatile RAM .dmp .img
-- [20221003150374](/zet/20221003150374/README.md) volatility framework analyze dump files of volatile RAM file type "MS Windows 64bit crash dump, full dump, XXX pages"
-- [20221003150375](/zet/20221003150375/README.md) volatility framework analyze dump files of volatile RAM
 - [20221003150376](/zet/20221003150376/README.md) volatility framework
 - [20221003150377](/zet/20221003150377/README.md) oracle database attacking tool ODAT can execute system commands
 - [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat

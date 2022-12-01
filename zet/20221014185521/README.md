@@ -9,7 +9,6 @@
 
 # Related
 
-- [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset
 - [20221016233437](/zet/20221016233437/README.md) commits for day of 2022-05-04
 - [20221003151443](/zet/20221003151443/README.md) kb
 

@@ -24,7 +24,6 @@ the concept of `docker`
 - [20221003151166](/zet/20221003151166/README.md) got access to docker repository
 - [20221003150217](/zet/20221003150217/README.md) Initialize topics in dockers
 - [20221003151391](/zet/20221003151391/README.md) bash scripting clone github repository and build docker image with its name
-- [20221003151269](/zet/20221003151269/README.md) docker cleanup Free up space immediately
 - [20221003150206](/zet/20221003150206/README.md) example docker to initialize ksql commands initialize.sh
 - [20221003150203](/zet/20221003150203/README.md) example docker to initialize ksql commands Dockerfile
 - [20221003150204](/zet/20221003150204/README.md) example docker to initialize ksql commands entry.sh

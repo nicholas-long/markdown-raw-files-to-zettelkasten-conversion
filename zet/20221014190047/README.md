@@ -27,11 +27,9 @@
 - [20221016233603](/zet/20221016233603/README.md) commits for day of 2022-07-17
 - [20221016233601](/zet/20221016233601/README.md) commits for day of 2022-07-15
 - [20221003150369](/zet/20221003150369/README.md) dump credentials from browsers chromium chrome
-- [20221003150374](/zet/20221003150374/README.md) volatility framework analyze dump files of volatile RAM file type "MS Windows 64bit crash dump, full dump, XXX pages"
 - [20221003150380](/zet/20221003150380/README.md) oracle database attacking tool odat
 - [20221003150355](/zet/20221003150355/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries
 - [20221003150432](/zet/20221003150432/README.md) generate wordlists namemash - simple
-- [20221003150375](/zet/20221003150375/README.md) volatility framework analyze dump files of volatile RAM
 - [20221003150427](/zet/20221003150427/README.md) generate wordlists bopscrk people OSINT custom wordlists specific to person
 - [20221003150376](/zet/20221003150376/README.md) volatility framework
 - [20221003150363](/zet/20221003150363/README.md) portable TCP port scanner bash only
@@ -48,12 +46,10 @@
 - [20221003150384](/zet/20221003150384/README.md) krbrelayx krbrelayx.py Kerberos relaying and Unconstrained delegation abuse
 - [20221003150392](/zet/20221003150392/README.md) text cipher encryption decryption tools Text Manipulator
 - [20221003150433](/zet/20221003150433/README.md) wordlists generation hub
-- [20221003150354](/zet/20221003150354/README.md) .NET decompiler reverse engineering C# managed EXE DLL binaries modify rebuild and recompile .NET assemblies
 - [20221003150381](/zet/20221003150381/README.md) threatcheck obfuscate windows executable strings
 - [20221003150370](/zet/20221003150370/README.md) dump credentials from browsers chromium
 - [20221003150367](/zet/20221003150367/README.md) dump credentials from browsers firefox
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
-- [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150431](/zet/20221003150431/README.md) username anarchy for common account formats and names
 - [20221003151443](/zet/20221003151443/README.md) kb
 

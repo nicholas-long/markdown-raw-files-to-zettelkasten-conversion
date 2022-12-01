@@ -1,2 +1,1 @@
-- [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150364](/zet/20221003150364/README.md) portable TCP port scanner

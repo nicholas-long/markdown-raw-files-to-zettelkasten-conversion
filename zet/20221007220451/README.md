@@ -74,13 +74,11 @@ hacking notes hub
 - [20221003150356](/zet/20221003150356/README.md) linux and windows privilege escalation mind maps OSCP
 - [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
 - [20221003150276](/zet/20221003150276/README.md) `unshadow` convert shadow to passwd file with hashes for john
-- [20221003150317](/zet/20221003150317/README.md) malwarebytes
 - [20221003150257](/zet/20221003150257/README.md) h2 database on tcp port 8082
 - [20221003150255](/zet/20221003150255/README.md) solidity
 - [20221003150254](/zet/20221003150254/README.md) beacon object file BOF
 - [20221003150266](/zet/20221003150266/README.md) systemd-private
 - [20221003150294](/zet/20221003150294/README.md) wireshark TLS1.2 handshake packet
-- [20221003150322](/zet/20221003150322/README.md) cyber reason
 - [20221013185120](/zet/20221013185120/README.md) concept of cryptography
 - [20221003150347](/zet/20221003150347/README.md) bruteforcing services
 - [20221003150352](/zet/20221003150352/README.md) fake set change system time for command
@@ -161,7 +159,6 @@ hacking notes hub
 - [20221003150920](/zet/20221003150920/README.md) linux enumeration quick commands
 - [20221003150235](/zet/20221003150235/README.md) extract command for file type xz
 - [20221003150238](/zet/20221003150238/README.md) extract command for file type deb
-- [20221003150233](/zet/20221003150233/README.md) extract command for file type apk
 - [20221003150697](/zet/20221003150697/README.md) SNMP enumeration command snmpwalk 
 - [20221003150234](/zet/20221003150234/README.md) extract command for file type asar
 - [20221003150746](/zet/20221003150746/README.md) impacket kerberos commands wmiexec
@@ -173,7 +170,6 @@ hacking notes hub
 - [20221003150685](/zet/20221003150685/README.md) decode hex on command line
 - [20221003151121](/zet/20221003151121/README.md) dos commands service paths
 - [20221003150748](/zet/20221003150748/README.md) impacket kerberos commands
-- [20221003150180](/zet/20221003150180/README.md) install alacritty commands
 - [20221003150643](/zet/20221003150643/README.md) nmap all ports command quick
 - [20221003151117](/zet/20221003151117/README.md) dos commands file permissions
 - [20221003150239](/zet/20221003150239/README.md) extract command for file type
@@ -216,7 +212,6 @@ hacking notes hub
 - [20221003151127](/zet/20221003151127/README.md) active directory  delegation
 - [20221003151137](/zet/20221003151137/README.md) active directory sensitive files
 - [20221003151193](/zet/20221003151193/README.md) HTTP
-- [20221003151270](/zet/20221003151270/README.md) docker cleanup Try to keep logs under control
 - [20221003150831](/zet/20221003150831/README.md) davtest try uploading files to webDAV with or without credentials
 - [20221003150989](/zet/20221003150989/README.md) GraphQL API pentesting to try list
 - [20221007044552](/zet/20221007044552/README.md) todo or to-try list
@@ -235,7 +230,6 @@ hacking notes hub
 - [20221003150326](/zet/20221003150326/README.md) top tier endpoint protection AV
 - [20221003150371](/zet/20221003150371/README.md) dump credentials from browsers
 - [20221003150360](/zet/20221003150360/README.md) windows run commands as other user with credentials
-- [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150293](/zet/20221003150293/README.md) build custom java minecraft plugin with maven
 - [20221003151064](/zet/20221003151064/README.md) bypass UAC with administrators group
 - [20221008061334](/zet/20221008061334/README.md) concepts

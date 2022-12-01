@@ -47,7 +47,6 @@ Screenshot_2022-10-10_143445_without_tagindex.png
 - [20221003150797](/zet/20221003150797/README.md) git recover orphaned commits and files and restore a directory after reset
 - [20221010182027](/zet/20221010182027/README.md) github copilot analysis
 - [20221007193634](/zet/20221007193634/README.md) example github actions scripts
-- [20221003150160](/zet/20221003150160/README.md) git config settings make merges smoother
 - [20221008190117](/zet/20221008190117/README.md) how do you work on a github branch
 - [20221006153641](/zet/20221006153641/README.md) zettelkasten on github
 - [20221003150798](/zet/20221003150798/README.md) git

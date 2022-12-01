@@ -13,8 +13,6 @@
 - [20221003150242](/zet/20221003150242/README.md) identify service
 - [20221006025356](/zet/20221006025356/README.md) linux
 - [20221003150270](/zet/20221003150270/README.md) IPMI intelligent platform management interface
-- [20221003150267](/zet/20221003150267/README.md) IPMI intelligent platform management interface udp port 613
-- [20221003150268](/zet/20221003150268/README.md) IPMI intelligent platform management interface BMC
 
 Tags:
 

@@ -60,7 +60,6 @@ the concept of a `program`
 - [20221008212929](/zet/20221008212929/README.md) running process
 - [20221003151153](/zet/20221003151153/README.md) windows
 - [20221006025356](/zet/20221006025356/README.md) linux
-- [20221003150282](/zet/20221003150282/README.md) default webroots apache
 - [20221003150250](/zet/20221003150250/README.md) Apache guacamole RDP VNC SSH in web browser
 - [20221003150673](/zet/20221003150673/README.md) crackmapexec cme commands
 - [20221003151335](/zet/20221003151335/README.md) bash command reference

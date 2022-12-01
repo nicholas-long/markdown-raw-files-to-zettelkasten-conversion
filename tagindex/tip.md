@@ -3,7 +3,6 @@
 - [20221003150183](/zet/20221003150183/README.md) add user to docker group
 - [20221003150201](/zet/20221003150201/README.md) set xterm font size to cope with high dpi monitors
 - [20221003150307](/zet/20221003150307/README.md) copy docker binary to target
-- [20221003150309](/zet/20221003150309/README.md) burpsuite set scope to limit request catching
 - [20221003150880](/zet/20221003150880/README.md) polkit linpeas report on CVE-2021-3560
 - [20221003150932](/zet/20221003150932/README.md) lxd priv esc without painful build problems lxd priv esc x64
 - [20221003150973](/zet/20221003150973/README.md) Look up localhost on a DNS server with nslookup

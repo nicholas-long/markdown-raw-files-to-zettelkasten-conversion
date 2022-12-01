@@ -1,4 +1,3 @@
 - [20221003150116](/zet/20221003150116/README.md) socat over proxy
-- [20221003150362](/zet/20221003150362/README.md) portable TCP port scanner bash only spookyscan
 - [20221003150364](/zet/20221003150364/README.md) portable TCP port scanner
 - [20221003151368](/zet/20221003151368/README.md) bash scripting get top N most common ports from nmap list pass argument

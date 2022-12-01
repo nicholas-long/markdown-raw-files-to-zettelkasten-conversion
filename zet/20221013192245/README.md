@@ -25,7 +25,6 @@
 
 # Related
 
-- [20221003150277](/zet/20221003150277/README.md) pfx extension PKCS#12 format certificate cracking with johntheripper
 - [20221003151172](/zet/20221003151172/README.md) active directory domain to try list
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 - [20221003150869](/zet/20221003150869/README.md) john the ripper use rules to crack hashes from file with wordlist

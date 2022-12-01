@@ -18,8 +18,6 @@
 - [20221003150168](/zet/20221003150168/README.md) dump process memory on linux
 - [20221018042949](/zet/20221018042949/README.md) how to remap keys like esc in linux
 - [20221003151271](/zet/20221003151271/README.md) docker cleanup
-- [20221003150161](/zet/20221003150161/README.md) git config settings set up credential storage
-- [20221003150160](/zet/20221003150160/README.md) git config settings make merges smoother
 - [20221003150200](/zet/20221003150200/README.md) refresh xterm configs
 - [20221015050620](/zet/20221015050620/README.md) copy from clipboard manager into PuTTY
 - [20221014213559](/zet/20221014213559/README.md) concept of a snippet of code
@@ -31,7 +29,6 @@
 - [20221003150299](/zet/20221003150299/README.md) fixing golang module errors
 - [20221003150297](/zet/20221003150297/README.md) fixing golang module errors go get fails
 - [20221003150202](/zet/20221003150202/README.md) fix grub not showing windows partition
-- [20221003150181](/zet/20221003150181/README.md) install alacritty dependencies to fix build errors
 - [20221014190259](/zet/20221014190259/README.md) kb file named kb/bash-scripting/tricks.md
 - [20221014190158](/zet/20221014190158/README.md) kb file named kb/linux/cyberpunk-retro-machine-serial-terminals.md
 - [20221014190050](/zet/20221014190050/README.md) kb file named kb/hacking/misc/bruteforcing-tools.md

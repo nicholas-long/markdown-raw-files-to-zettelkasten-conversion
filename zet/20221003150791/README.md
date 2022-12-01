@@ -8,7 +8,6 @@
 - [20221003150724](/zet/20221003150724/README.md) openssl pfx p12 file PKCS12
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221008212802](/zet/20221008212802/README.md) software program
-- [20221003150262](/zet/20221003150262/README.md) block ciphers CBC cipher cipher block chaining cipher mode of operation
 - [20221014185857](/zet/20221014185857/README.md) kb file named kb/hacking/commands/openssl-general.md
 - [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
 - [20221003150251](/zet/20221003150251/README.md) diffie-hellman key exchange

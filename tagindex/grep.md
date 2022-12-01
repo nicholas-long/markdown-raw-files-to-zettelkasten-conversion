@@ -1,2 +1,1 @@
-- [20221003150226](/zet/20221003150226/README.md) grep patterns searching for IPs
 - [20221003150227](/zet/20221003150227/README.md) example grep patterns

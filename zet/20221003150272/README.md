@@ -23,7 +23,6 @@
 # Related
 
 - [20221014190102](/zet/20221014190102/README.md) kb file named kb/hacking/misc/web-server-executable-extensions.md
-- [20221003150274](/zet/20221003150274/README.md) web server file executable extensions
 - ~/kb/hacking/misc/web-server-executable-extensions.md
 - [20221007220451](/zet/20221007220451/README.md) hacking notes hub
 

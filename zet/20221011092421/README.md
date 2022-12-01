@@ -23,7 +23,6 @@ to do next:
 - [20221015004120](/zet/20221015004120/README.md) ippsec video opensource
 - [20221003150117](/zet/20221003150117/README.md) OSI networking model
 - [20221003150271](/zet/20221003150271/README.md) create openssl client certificates from leaked CA private key
-- [20221003150317](/zet/20221003150317/README.md) malwarebytes
 - [20221012145054](/zet/20221012145054/README.md) things you can organize in personal life in private zettel notes
 - [20221008042814](/zet/20221008042814/README.md) WIP
 - [20221009192000](/zet/20221009192000/README.md) stuff to put on main page

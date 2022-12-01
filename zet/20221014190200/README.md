@@ -11,7 +11,6 @@
 
 - [20221016233700](/zet/20221016233700/README.md) commits for day of 2022-08-30
 - [20221003150143](/zet/20221003150143/README.md) proxmox vm host operating system
-- [20221003150142](/zet/20221003150142/README.md) proxmox server layout
 - [20221003150141](/zet/20221003150141/README.md) proxmox server layout ISO upload location
 - [20221003151443](/zet/20221003151443/README.md) kb
 

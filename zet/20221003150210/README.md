@@ -19,8 +19,6 @@ kafkacat -b kafka -C -t wifi-data-raw -e -o "s@$d"
 
 # Related
 
-- [20221003150209](/zet/20221003150209/README.md) kafkacat add data to topic
-- [20221003150211](/zet/20221003150211/README.md) kafkacat get previous data in topic from epoch timestamp offset
 - [20221009014200](/zet/20221009014200/README.md) concept of a command
 - [20221008212802](/zet/20221008212802/README.md) software program
 - [20221014185522](/zet/20221014185522/README.md) kb file named kb/kafka/kafkacat.md

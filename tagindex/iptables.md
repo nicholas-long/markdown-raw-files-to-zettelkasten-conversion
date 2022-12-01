@@ -1,3 +1,1 @@
 - [20221003150120](/zet/20221003150120/README.md) routing using a linux box iptables rules
-- [20221003150196](/zet/20221003150196/README.md) iptables rules forward all traffic between two interfaces
-- [20221003150197](/zet/20221003150197/README.md) iptables rules

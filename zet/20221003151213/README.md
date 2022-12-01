@@ -10,7 +10,6 @@
 
 # Related
 
-- [20221003150277](/zet/20221003150277/README.md) pfx extension PKCS#12 format certificate cracking with johntheripper
 - [20221003150745](/zet/20221003150745/README.md) cracking keepass database with image key 2 john
 - [20221003151179](/zet/20221003151179/README.md) FTP to try list
 - [20221003151198](/zet/20221003151198/README.md) SMB to try list

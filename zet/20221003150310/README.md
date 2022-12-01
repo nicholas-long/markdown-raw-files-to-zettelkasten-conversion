@@ -1,6 +1,5 @@
 # burpsuite
 
-- [20221003150309](/zet/20221003150309/README.md) burpsuite set scope to limit request catching
   - "Target" panel
   - "Scope" sub-panel
   - add URL
@@ -19,8 +18,6 @@
 # Related
 
 - [20221003151408](/zet/20221003151408/README.md) parse burpsuite saved request file and convert to python requests script for copying
-- [20221003150309](/zet/20221003150309/README.md) burpsuite set scope to limit request catching
-- [20221003150308](/zet/20221003150308/README.md) burpsuite add header to forwarded requests, like X-Forwarded-For
 - [20221003151192](/zet/20221003151192/README.md) HTTP to try list
 - [20221022210719](/zet/20221022210719/README.md) assorted information
 - [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md

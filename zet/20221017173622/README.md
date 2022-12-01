@@ -16,13 +16,12 @@
 #
 2fa
 ARCHIVE
-DEL
-account ad administration ai analysis ansible api apk apt arg automation av awk
+account ad ai analysis ansible api apk apt arg automation av awk
 base64 bash basic binary bloodhound boxes broken bruteforcing bsd bug busting buzzwords bypass
 c-language c2 calling capabilities cert cleanup cms coding color command company concept config container convert copy crack creds cron crypto ctf curl cyberpunk
 data database date dayinhistory debian debug debugging decrypt defense deploy deserialization devops diag diagram diff dirty dll dns docker done dos dotfiles dotnet download dpkg ds dump
 edit editor emacs email enable encode enhancement enumeration error etc ex example expect experiment exploit extract
-feature feroxbuster fidget file filehash filepath files filesystem finance find finding fix force format free ftp fun fzf-fuzzy-find
+feature feroxbuster fidget file filehash filepath files filesystem finance find finding fix format free ftp fun fzf-fuzzy-find
 games gdb gef generate get git github go gobuster golang got graph grep
 hacking hardware hash help hex hibernate hotkey html.templates http hub hydra
 idea identify image impacket implementation important info initialize install interesting iptables

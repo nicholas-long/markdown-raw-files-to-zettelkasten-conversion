@@ -1,3 +1,2 @@
-- [20221003150283](/zet/20221003150283/README.md) default webroots debian system
 - [20221003150286](/zet/20221003150286/README.md) default webroots BSD systems
 - [20221008213254](/zet/20221008213254/README.md) file path

@@ -6,7 +6,6 @@
 
 # Related
 
-- [20221003150284](/zet/20221003150284/README.md) default webroots BSD systems FreeBSD
 - [20221003150314](/zet/20221003150314/README.md) default http config locations
 - [20221022210719](/zet/20221022210719/README.md) assorted information
 - [20221014190056](/zet/20221014190056/README.md) kb file named kb/hacking/misc/assorted-information.md
